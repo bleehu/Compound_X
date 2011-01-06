@@ -235,7 +235,7 @@ Mathews HK-80 $3600
 Each successive headshot increases damage by 15 to a max of 90.
 
 ============================================================
-Assault Rifles:
+Automatic Rifles:
 Minimum Strength 5, Reload DC 25% unless otherwise noted. Reload time 2 Half Actions.
 ============================================================
 

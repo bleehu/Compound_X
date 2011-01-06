@@ -1,3 +1,10 @@
+Level 10 effects:
+$300 Never jam
+$200 Increased Crit Range, +5/+5
+$400 Increased Crit Range, +10/+10
+$750 Phase rounds
+$500 Special Effect [ex. Headshot effect on the HK-80]
+
 ============================================================
 Pistols:
 (All pistols are considered CQB Weapons)
@@ -84,7 +91,7 @@ Buck-Shot damage is dealt in 3 distinct distances, which are listed. All buck sh
 Minimum Strength 4, Reload DC 30% unless otherwise noted. Reload time 3 Half Actions
 ============================================================
 
-Frontier Xenon AX-12	$9400
+Frontier Neon AN-12	$9400
 Miss:	25%
 Capacity:	6 rounds
 Buckshot: 120 damage and 2 plasma burn tokens out to 3m,
@@ -101,6 +108,8 @@ Personality is expensive, glowing and should be one of the most efficient ways f
 player to disperse plasma at close range. Xenon is a nobel gas sometimes excited 
 to plasma state for use in Neon-like signs. ('cause it's a different color)
 devnotes will not be pushed to play branch
+//Taylor's notes
+I''ve changed it to Neon. I''ve written up in the GM Munition Info doc that the different types of noble gasses produced different densities of plasma. Heavier element plasmas deal more plasma burn tokens. Since this is supposed to be a basic plasma shotgun, Neon would make sense.
 //end devnotes
 
 Schroder C-6 $3220
@@ -119,8 +128,13 @@ Minimum Strength 5, Reload DC 25% unless otherwise noted. Reload time 2 Half Act
 ECSC AR-SOC C			$2440
 120m
 22%
-20 rounds 5.56 x 45 NATO
+30 rounds 5.56 x 45 NATO
 50 damage
+
+Muzashi MBR-10
+135m
+17%
+21 rds, Medium Krypton-.30 Charge pack.
 
 Strudwick Arms LA75 Bullpup		$3100
 100m
