@@ -12,6 +12,11 @@
 Typical mag size: 20 and 25 for pistols, 30 and 35 for smgs.
 civilian, subsonic
 
+5.7 mm
+80 m, 48 damage.
+Typical mag size: 23 for pistols, 45 and 60 for smgs.
+Military, supersonic, rare.
+
 .380 ACP
 30 m, 35 damage
 Typical mag size: 5 or 6 for revolvers, 14 for pistols.
@@ -172,6 +177,29 @@ Long rifles can be used by marksmen to pick off enemies and pin them at cover so
 Support and heavy weapons are actually a little rare to run across. Generally nothing larger than a 7.62 NATO round is used in a man-portable support weapon. Some autocannons or other special rifles may have larger calibers, but will also have smaller magazine size.
 Sub machine guns are used by crewman like pilots and operators because of their compact size. they are also great choices for private security for the same reason.
 Energy weapons aren''t generally used by military forces as they are too expensive.
+
+//	Plasma
+Plasma bolts are defined by the gas used and the bore of the barrel. A standard shot from an ECSC/Frontier Plas-20 is an Argon-.50. The Gas used determines the number of plasma burn tokens imparted on the target. Helium being a comparatively less dense plasma imparts 0 plasma tokens, while Xenon would impart 5 plasma burn tokens per shot. The bore selected will inform you of the damage output. a .30 bore will deal 55 damage, just like a .30 rifle round. Plasma ranges are abut 50 meters farther than their balistic counter-parts. Common combinations include:
+	//Pistols
+	Neon-.40
+	Neon-.357
+	Argon-5.7 mm
+	Argon-4.8 mm - 52 damage, 120 meters
+	Krypton-3.2 mm - 55 damage, 145 meters
+	//Carbines and Automatic Rifles
+
+	Neon-5.45 mm - 50 dam, 140 m [Russian]
+	Neon-5.56 mm - 50 dam, 160 m [ECSC]
+	Neon-.30 - 55 dam, 140 m [ECSC]
+	Argon
+
+	Krypton
+	
+	//Long Rifles
+//	Lasers
+
+
+
 
 //				Weapon design guidelines
 	A qualitative guide to making custom rewards for dungeons/quests/missions 
