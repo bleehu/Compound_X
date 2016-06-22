@@ -356,4 +356,18 @@ Single Shot, Rocket.
 Destroys up to 4m of wall, fortification, sandbag, etc.
 Against Personel, the SRAW deals d10*10 damage to anyone in a 5m radius, unless they pass a FORT save at 80%. Targets that pass the check are dazed for 3 turns or until they can pass another FORT save at 80%.
 
+//===================================================================
 //Copyright 2016 Taylor Rowland
+//
+//Licensed under the Apache License, Version 2.0 (the "License");
+//you may not use this file except in compliance with the License.
+//You may obtain a copy of the License at
+//
+//   http://www.apache.org/licenses/LICENSE-2.0
+//
+//Unless required by applicable law or agreed to in writing, software
+//distributed under the License is distributed on an "AS IS" BASIS,
+//WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+//See the License for the specific language governing permissions and
+//limitations under the License.
+//===================================================================

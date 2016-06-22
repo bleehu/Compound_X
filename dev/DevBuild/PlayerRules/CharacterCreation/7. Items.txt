@@ -126,4 +126,18 @@ Examples of RP trinkets include cigarettes, a lighter, cards, a wallet, an ID pa
 
 Examples of Misc. Items include rope (20m), compass and map, matches, flashlight, a single magazine for your gun, flares, etc. These are basically items that have an actual use of some sort. 1 EP each, 5 free at start.
 
+//===================================================================
 //Copyright 2016 Taylor Rowland
+//
+//Licensed under the Apache License, Version 2.0 (the "License");
+//you may not use this file except in compliance with the License.
+//You may obtain a copy of the License at
+//
+//   http://www.apache.org/licenses/LICENSE-2.0
+//
+//Unless required by applicable law or agreed to in writing, software
+//distributed under the License is distributed on an "AS IS" BASIS,
+//WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+//See the License for the specific language governing permissions and
+//limitations under the License.
+//===================================================================
