@@ -1,0 +1,242 @@
+Welcome to Compund X!
+
+This document was created in order to help clear up how everything works in this game.
+==============================
+Premise:
+==============================
+
+
+
+==============================
+Player Stats:
+==============================
+
+Each player has what are called S.P.F.C.I.D.L. Stats. These stats (and their subsequent bonuses) determine how well you are accomplished at certain tasks and skill. In addition they are used for determining many other aspects of the game.
+
+Stats are broken down per the following equation:
+  Stat Bonus = (4 * Stat) - 20
+  Stat Bonuses are used for the calculation of skill checks, weapon accuracy, etc.
+  Stats are not used for calculation, except for luck with the calculation of EP, and also saving throws.
+  EP = [(Level+1) * Luck] + 10
+  IC = [(Level + 1)* 10 * Luck] + 100
+
+Strength: Physical aptitude with regard to lifting and exertion of pure force.
+Perception: Ability to see, hear, taste, smell, feel and experience the world around you.
+Fortitude: How well your character can endure physical effects (such as getting punched, poisoned, or not puking after taking off in a rocket.)
+Charisma: Apptitude with speech.
+Intelligence: Not just book smarts, can also be street smarts.
+Dexterity: Ability of the character to use their hands, but also incorporates elements of agility.
+Luck: If luck were a thing, this determines how well the universe likes or dislikes your character.
+
+==============================
+The Player Class:
+==============================
+
+Leveling up:
+every 2nd level, +1 feat
+With Charisma 9 or higher, 2 feats on level 4, 8, 12, etc.
+every level 2*int skill points,
+every 5th level +1 stat point, +1 Class feat
+
+╔═══════╦══════════╦═══════╦════════════╦════════════╦═══════════════╗
+║ Level ║ Skill P. ║ Feats ║ Class Feat ║ Stat Point ║ Feats (9 CHA) ║
+╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
+║ 1     ║  Static  ║       ║            ║            ║               ║
+╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
+║ 2     ║ 2*int    ║ 2     ║            ║            ║ 2             ║
+╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
+║ 3     ║ "        ║       ║            ║            ║               ║
+╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
+║ 4     ║ "        ║ 3     ║            ║            ║ 4             ║
+╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
+║ 5     ║ "        ║       ║ 1          ║ +1         ║               ║
+╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
+║ 6     ║ "        ║ 4     ║            ║            ║ 5             ║
+╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
+║ 7     ║ "        ║       ║            ║            ║               ║
+╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
+║ 8     ║ "        ║ 5     ║            ║            ║ 7             ║
+╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
+║ 9     ║ "        ║       ║            ║            ║               ║
+╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
+║ 10    ║ "        ║ 6     ║ 2          ║ +1         ║ 8             ║
+╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
+║ 11    ║ "        ║       ║            ║            ║               ║
+╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
+║ 12    ║ "        ║ 7     ║            ║            ║ 10            ║
+╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
+║ 13    ║ "        ║       ║            ║            ║               ║
+╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
+║ 14    ║ "        ║ 8     ║            ║            ║ 11            ║
+╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
+║ 15    ║ "        ║       ║ 3          ║ +1         ║               ║
+╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
+║ 16    ║ "        ║ 9     ║            ║            ║ 13            ║
+╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
+║ 17    ║ "        ║       ║            ║            ║               ║
+╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
+║ 18    ║ "        ║ 10    ║            ║            ║ 14            ║
+╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
+║ 19    ║ "        ║       ║            ║            ║               ║
+╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
+║ 20    ║ "        ║ 11    ║ 4          ║ +1         ║ 16            ║
+╚═══════╩══════════╩═══════╩════════════╩════════════╩═══════════════╝
+
+==============================
+RP / Using Skills:
+==============================
+
+The GM may ask you to roll a certain skill to see if your character can do something. This may be something like "Roll Awareness to see if you spot the truck barreling towards you," or it might look like "Roll Medicine to see if you can patch up the gaping wound in your chest spewing blood." Anytime you need to Pass a Skill check, there will be a DC to overcome in order to successfully pass the check. Again: YOU MUST ROLL *OVER* A DC TO PERFORM A SKILL. the DC does not need to be given out by the GM, but if a DC seems too high, you have the right to grumble (but seriously, ask your GM if something seems too difficult. There is usually a reason why tying your shoe takes a DC of 70% on that particular day, etc). After you have rolled, please apply any and all relevant skills to your result. If you are rolling to silently take down an opponent, the GM can either have you roll a stealth check and an unarmed combat check, or double the DC, and have you roll once adding both modfiers. Also add any relevant Stat Bonuses to a roll. When rolling awareness, add your PER Bonus, etc.
+At any time out of combat, you may decide to use one of your skills. If you are not preasured by imminant / immediate danger, you may take a 100% to pass a skill check, then apply any ranks in the skill. When rushed by a time constraint or danger, you can take a 50% to pass a skill check, then apply any ranks in said skill. However, some checks cannot be passed in this way. If you are staring at a ship's blast doors, and want to kick them down, yeah . . . good luck with that.
+If you want to use a skill in combat, see the Combat: Actions subsection.
+Skill ranks are exact percentiles to pass a skill check. If you have 50 ranks in a skill, then you have a +50% chance to pass a skill check for that skill. Everytime you purchase a new skill for 10 Skill points, it starts as a +10 skill. When leveling up you may add up to 5 points to any one skill.
+
+==============================
+Player Weapon Customization:
+==============================
+
+Weapon custimization can be anytime you are in a town, space station, or other mercantile area. Ask the GM if there are weapon shops or kiosks around, they should point you to one. From there you can apply upgrades and attachments.
+THe GM may tell you specific attachments that are available, or they may say you can just go about your usual custimization. Only one attachment can be used per section (unless specifically stated in the item's description). 
+
+==============================
+Combat:
+==============================
+
+Combat starts when either you or an enemy decides they would like to make an attack. Each "Player turn" lasts 6 seconds, and consists of 2 "Full Actions" (described below).
+
+Random Tid-bits:
+A character occupies 1m of space. however, as Compund X is not played out on a squares-board, usually it doesn't matter if two players are within the same 1m space.
+Two Players locked in melee combat are considered to be in adjacent 1m spaces, not in the same 1m space. Have you ever seen a fight? you don't start face-face unless you're at a bar.
+
+Actions:
+During combat, your character is given 2 Full Actions to use for fighting, movement, using items, etc. Each action is split into two half-Actions. Here is a table of common tasks and their relative Action point cost:
+
+Reloading a Pump-Action Shotgun - 2 Full Actions
+Reloading a Bolt-Action weapon - 3 Half-Actions
+Moving half your movement distance - Full Action
+Hunkering Down - Full Action
+Firing a semi-auto gun - Half-Action
+Cast a Spell - Half-Action
+Aiming Down Sights - Half-Action
+turning on a flashlight - Half Action
+Unholstering Pistol - Half Action
+Performing a skill check (other than Awareness) - Half-Action
+Conversing with partners - Free Action
+Getting Bearings / non skill-based perception - Free Action
+
+Movement:
+You can run DEX number of meters per full action. A character with 1 DEX can only move 1m per full action, or 2m per full turn.
+You can sprint instead of moving, for a +2 movement bonus. However, firing your weapon after doing so will cause you incur a +30% firing penalty. The penalty persists for the Full action you sprint, as well as the action afterwards. You can stack sprinting a number of times equal to half of your Fortitude (rounding in your favor), however for each Action taken sprinting, an Action of recovery (and resulting +30% weapon penalty) must be taken after the sprinting ends.
+
+Fighting:
+During combat, most weapons are Semi-Auto, meaning that each time you pull the trigger, the gun fires and chambers a new round automatically without firing it. It takes 1 Half-Action to fire a semi-auto weapon in this way. Some guns, such as Shotguns and Bolt-Action sniper rifles require a Full-Action to fire the gun, where the first Half-Action is a trigger pull, and the second Half-Action is the rechambering of the weapon.
+To hit, Players must roll a percentile that is over their weapon's % miss stat. On a roll of 90-1 through 90-5, the hit is considered a Critical hit, and deals an extra 10 damage. on a roll of 90-6 through 00-0, the hit is considered a double crit hit, and deals an extra 20 damage.
+When a player is defending against a hit, they roll Percentiles under their armor in order to apply a Damage Reduction, or to apply damage to their Capacitive Sheilds if the player has them.
+
+Hip Firing halves a weapon''s miss chance.
+
+Using Cover:
+Chances are, if an enemy can see you in Compund X, they can hit you. Using cover will make it harder to be hit. You will encounter many types of cover while adventuring throughout the galaxy. Many small objects provide only partial cover, either by partially obscuring your silhouette, or by providing slight protection from projectiles. Full cover will do both to a better degree. Debuffs to enemies %Miss are as follows:
+No Cover: +0%
+Partial Cover: +25%
+Full Cover: +50%
+Hunkering: +75%
+
+Hunkering costs one full action, and you cannot fire your weapons. Imagine curling up in a ball, to pose the absolute smallest target possible. Its a free action to de-hunker
+
+Reloading:
+When a gun runs out of amunition, the user must pause to reload. "But how long do I gotta be outta the battle?" Great question!
+Each gun has a "Reload DC," rated based on the skill and brevity of the weapon's reload. For example, an assault rifle, which has a very obvious magazine release button and protruding magazine, has an average DC of 25. More complex weapons, such as high-precision sniper systems or exotic sub-machine guns might have a higher DC, maybe 35. If the Player passes the reload, then the reload time is standard. For Box-Magazine fed Semi- and Fully-Automatic weapons, this is 1 Full Action. Other, more complex weapons will specify their reload time. On a critical Success (anything in the 90-100 range), the reload time is halved (for Bolt-Actions it is reduced to 1 Half-Action). On a failure, the reload time takes double.
+
+Conditions:
+Bleeding - d10 damage per turn. Broken with Medicine Skill check. DC varries. If you have a bleed condition, seek medical aid immediately, You CAN Bleed Out, you have been warned.
+Burning - 2d10 damage per turn. Broken with a Maneuver Skill Check. DC 40. Every 2 turns, the degree of the burn intensifies
+Frozen - d10 damage per turn. lasts until a source of heat is applied to the wound, or with Medicine Skill check, DC 50
+Fear - No actions, except running away form the source of fear, or rolling to defeat fear. DC 50, Charisma.
+Fear, Greater - No actions, except rolling to defeat fear. DC 75, Charisma.
+CS Burn - d10/2 damage for 2 turns. + 5 damage against robots.
+Necrosis - 2d10 +5 damage per turn.
+Pinned - Target pinned (full cover, no movement) for 2 full turns or until they pass a DC of 70, whichever is quicker.
+Plasma Burn - 2d10 damage per turn (stackable).
+Poisoned - d10 damage per turn. After 5 turns, some poisons may induce unconsciousness. DC 50, Fortitude. Greater / Lesser posion increases damage (+5/-5) and DC (+25,-10).
+
+==============================
+Saving Throws
+==============================
+
+Saving throws are used in dire or critical situations to defend against very negative effects.
+    - Will: defend against a mind affect (Ex: throw off hopelessness after crashing in an escape pod)
+    - Shock: maintain composure after serious damage (Ex: stay conscious after being shot by a high caliber round)
+    - Reflex: quickly react to an event (Ex: dodge falling debris, fire at an enemy if they leap from one piece of cover to another).
+the equations are as follows:
+    - Will: 2*(Cha + Fort - 6) Rational: Normally wisdom would be applied, so Will in compound X is descried as your internal voice motivating you to endure a mental hardship.
+    - Shock: 2*(Fort + Int - 6) Rational: You need to recognize that you are in shock, and resist its physical effects.
+    - Reflex: 2*(Per + Dex - 6) Rational: In order to react quickly to an event, you also need to be able to see it coming.
+
+==============================
+Medicine Saving Throws
+==============================
+
+Ouch! you've just been shot! You'd better call for a medic or apply a medikit before you bleed out! "But how do I use a medikit? Or if I'm a medic, how do I stabilize and heal an ally?" I'm glad you asked. The rules are as follows:
+The medicine DC is equla to the damage dealt. On a fail skill check, no healing occurs. On a success, heal an amount equal to Medic skill + DC surplus.
+Ex: player is dealt 70 damage. Medic has 25 skill. Medic rolls an 86 (with medic skill), so they heal 25+(86-70) for 41 health healed.
+Individual wounds are healed individually. 3 20 damage wounds needs three rolls of 21 or higher.
+Ex: Player takes 70 damage. Medic has 25 skill. Medic rolls an 86 (with medic skill), so they heal 25+(86-70) for 41 health. Now the player still has a 29 damage deficit (70-41), so the medic would need to roll over a DC of 29 to heal the remaining 29 damage. (Cannot overheal a wound).
+Medics need not use a medic-kit so long as the have their medicine bag (or equivalent) on their person. If they do not have their medicine bag with them when they are trying to heal a teamate, they can make the attempt at a +20 DC.
+Using a medikit:
+Medic-kit, non-medic user: works as if you are a medic with skill 30.
+Medic-kit, medic user: Works as normal, but add 30 to amount healed.
+
+==============================
+Cloaking
+==============================
+
+Cloaking is available in the armour section, but also available to some classes as a class feature. For non-class cloakers, the rules are as follows:
+Expend 50 nanites to activate the cloaking shield. while moving, the cloak DC is 30. while staying still, the cloak DC is 60. There is a tell-tale shimmer in the cloak, as the micro-foil has a hard time keeping up with moving environments. Once the wearer has settled down, the micro-foil is able to reproduce the surrounding environment better and will stabilize. However, once you have performed a combat action, the cloak fizzes out, as you have shifted your concentration from maintaining the cloak to something else. When using a skill (accessing a terminal, fixing something, etc.) your DC is 30, as you are diverting your attention. See the following table for durations:
+
+╔══════════╦═════════════╦══════════╦════════════════╦═════════════════╗
+║ Characte ║ Cloak Turns ║ Cloak DC ║ Cloak Recharge ║ Shadow Assassin ║
+║   Level  ║             ║   Gain   ║      Rate      ║    Turn Gain    ║
+╠══════════╬═════════════╬══════════╬════════════════╬═════════════════╣
+║     1    ║      3      ║     -    ║        *       ║        +1       ║
+╠══════════╬═════════════╬══════════╬════════════════╬═════════════════╣
+║     2    ║      3      ║     -    ║        -       ║        -        ║
+╠══════════╬═════════════╬══════════╬════════════════╬═════════════════╣
+║     3    ║      3      ║     -    ║        -       ║        -        ║
+╠══════════╬═════════════╬══════════╬════════════════╬═════════════════╣
+║     4    ║      4      ║     -    ║        -       ║        -        ║
+╠══════════╬═════════════╬══════════╬════════════════╬═════════════════╣
+║     5    ║      4      ║    +5%   ║        3       ║        -        ║
+╠══════════╬═════════════╬══════════╬════════════════╬═════════════════╣
+║     6    ║      4      ║     -    ║        3       ║        +2       ║
+╠══════════╬═════════════╬══════════╬════════════════╬═════════════════╣
+║     7    ║      5      ║     -    ║        3       ║        -        ║
+╠══════════╬═════════════╬══════════╬════════════════╬═════════════════╣
+║     8    ║      5      ║     -    ║        3       ║        -        ║
+╠══════════╬═════════════╬══════════╬════════════════╬═════════════════╣
+║     9    ║      5      ║     -    ║        3       ║        -        ║
+╠══════════╬═════════════╬══════════╬════════════════╬═════════════════╣
+║    10    ║      6      ║   +10%   ║        3       ║        -        ║
+╠══════════╬═════════════╬══════════╬════════════════╬═════════════════╣
+║    11    ║      6      ║     -    ║        3       ║        +3       ║
+╠══════════╬═════════════╬══════════╬════════════════╬═════════════════╣
+║    12    ║      7      ║     -    ║        2       ║        -        ║
+╠══════════╬═════════════╬══════════╬════════════════╬═════════════════╣
+║    13    ║      7      ║     -    ║        2       ║        -        ║
+╠══════════╬═════════════╬══════════╬════════════════╬═════════════════╣
+║    14    ║      8      ║     -    ║        2       ║        -        ║
+╠══════════╬═════════════╬══════════╬════════════════╬═════════════════╣
+║    15    ║      8      ║   +15%   ║        2       ║        -        ║
+╠══════════╬═════════════╬══════════╬════════════════╬═════════════════╣
+║    16    ║      9      ║     -    ║        2       ║        +4       ║
+╠══════════╬═════════════╬══════════╬════════════════╬═════════════════╣
+║    17    ║      10     ║     -    ║        1       ║        -        ║
+╠══════════╬═════════════╬══════════╬════════════════╬═════════════════╣
+║    18    ║      11     ║     -    ║        1       ║        -        ║
+╠══════════╬═════════════╬══════════╬════════════════╬═════════════════╣
+║    19    ║      12     ║     -    ║        1       ║        -        ║
+╠══════════╬═════════════╬══════════╬════════════════╬═════════════════╣
+║    20    ║      15     ║   +20%   ║        0 **    ║        18       ║
+╚══════════╩═════════════╩══════════╩════════════════╩═════════════════╝
+*  For levels 1-4, you may only cloak once per encounter.
+** At level 20, you can cloak immediately after your cloak fades, but you must pass another stealth check to continue cloaking.

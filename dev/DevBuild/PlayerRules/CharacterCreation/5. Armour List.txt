@@ -1,0 +1,320 @@
+Armor List:
+Concealed Armour
+Light Armour
+Medium Armour
+Heavy Armour
+Full Armour
+Cloaking Armour
+Customizble Armour
+
+==============================
+Concealed Armour: Concealed armour is less effective at covering up your vital regions than medium armour, but you are able to hide the presence of body armour under flowing robes, a jacket, etc.
+==============================
+
+Level 2 3EP
+15 DR
+30%
+3 Prim. Mags, 1 Secondary Mag.
+1 grenade clip
+
+Level 3+ 5EP
+15 + d10 DR
+30%
+3 Prim. Mags, 1 Secondary Mag.
+1 grenade clip
+
+Heavy:
+
+Level 3 8EP
+20 DR
+45%
+3 Prim. Mags, 1 Secondary Mag.
+1 grenade clip
+
+Level 4+ 10EP
+23 + d10 DR
+45%
+3 Prim. Mags, 1 Secondary Mag.
+1 grenade clip
+
+==============================
+Light Armor: Covers the front of your chest, part of the abdomen. 1 single plate.
+==============================
+
+Level 1 0EP
+10 DR
+30%
+3 Prim. Mags, 1 Secondary Mag.
+2 grenade clips
+
+Level 2 1EP
+15 DR
+35%
+3 Prim. Mags, 1 Secondary Mag.
+2 grenade clips
+
+Grenadier''s Bandolier 2 EP
+0 DR
+0%
+2 Prim. Mags, 1 Secondary Mag.
+5 grenade clips
+
+Level 3 2EP
+20 DR
+35%
+3 Prim. Mags, 1 Secondary Mag.
+2 grenade clips
+
+==============================
+Medium Armor: Covers the front of your chest, and your back. 2 single plates.
+==============================
+
+Level 2A 2EP
+15 DR
+55%
+5 Prim. Mags, 3 Secondary Mag.
+2 grenade clips
+
+Level 2 3EP
+10 + d10 DR
+55%
+5 Prim. Mags, 3 Secondary Mag.
+2 grenade clips
+
+Level 3A 4EP
+20 DR
+55%
+5 Prim. Mags, 3 Secondary Mag.
+2 grenade clips
+
+Level 3 5EP
+15 + d10 DR
+55%
+5 Prim. Mags, 3 Secondary Mag.
+2 grenade clips
+
+Level 4 6EP
+25 DR
+55%
+5 Prim. Mags, 3 Secondary Mag.
+2 grenade clips
+
+Class A Capacitant Shielding 8EP
+Nanites/2 used as Health bar for shield. Regenerate 25 CS per turn of no-hit.
+10 DR
+60%
+5 Prim. Mags, 3 Secondary Mag.
+2 grenade clips
+
+Class B Capacitant Shielding 10EP
+Nanites/2 used as Health bar for shield. Regenerate 50 CS per turn of no-hit.
+15 DR
+60%
+5 Prim. Mags, 3 Secondary Mag.
+2 grenade clips
+
+==============================
+Heavy Armor: Covers the front of your chest, your back, your sides.
+==============================
+
+Level 3A 6EP
+20 DR
+70%
+8 Prim. Mags, 4 Secondary Mag.
+3 grenade clips
+
+Level 3 7EP
+15 + d10 DR
+70%
+8 Prim. Mags, 4 Secondary Mag.
+3 grenade clips
+
+Mad Bomber''s Bandolier  7 EP
+10 DR
+40%
+3 Prim. Mags, 2 Secondary Mag.
+8 grenade clips
+
+Level 4 8EP
+25 DR
+70%
+8 Prim. Mags, 4 Secondary Mag.
+3 grenade clips
+This armor is really heavy. It slows down your move speed by 1m.
+
+Level 4+ 9EP
+23 + d10 DR
+70%
+8 Prim. Mags, 4 Secondary Mag.
+4 grenade clips
+This armor is really heavy. It slows down your move speed by 1m.
+
+Class B Capacitant Shielding 12EP
+Nanites/2 used as Health bar for shield. Regenerate 50 CS per turn of no-hit.
+15 DR
+75%
+8 Prim. Mags, 4 Secondary Mag.
+3 grenade clips
+This armor is really heavy. It slows down your move speed by 1m.
+
+Class C Capacitant Shielding 16EP
+Nanites used as Health bar for shield. Regenerate 50 CS per turn of no-hit.
+20 DR
+75%
+8 Prim. Mags, 4 Secondary Mag.
+3 grenade clips
+This armor is really heavy. It slows down your move speed by 1m.
+
+==============================
+Full Armor: Covers the front of your chest, your back, your sides, shoulders, neck, pelvic region, and tops of your legs.
+==============================
+
+EOD Level 5 armor 20EP
+30 DR
+95%
+Movement restricted to 3m per Full Action (or your max speed if less than 3). No use of melee, and regular actions take twice as long.
+8 Prim. Mags, 4 Secondary Mag.
+4 grenade clips
+This armor is really heavy. It slows down your move speed by 2m.
+
+Class A Capacitant Shielding 20EP
+Nanites/2 used as Health bar for shield. Regenerate 25 CS per turn of no-hit.
+10 DR
+95%
+8 Prim. Mags, 4 Secondary Mag.
+3 grenade clips
+This armor is really heavy. It slows down your move speed by 2m.
+
+Class B Capacitant Shielding 25EP
+Nanites/2 used as Health bar for shield. Regenerate 50 CS per turn of no-hit.
+15 DR
+95%
+8 Prim. Mags, 4 Secondary Mag.
+3 grenade clips
+This armor is really heavy. It slows down your move speed by 2m.
+
+Class C Capacitant Shielding 30EP
+Nanites used as Health bar for shield. Regenerate 50 CS per turn of no-hit.
+15 DR
+95%
+8 Prim. Mags, 4 Secondary Mag.
+3 grenade clips
+This armor is really heavy. It slows down your move speed by 2m.
+
+==============================
+Nanite Cloaking Armour
+Devote a Portion of your nanite pool to a clocking pool.
+Lvl 1-5 expend 15 Nanites per cloak turn. Lvl 6+ 10 Nanites.
+Max Turns of cloak = Lvl +1; Cloaking becomes available after waiting 4 Actions.
+Cloaking grants the wearer stealth at a DC of 50. However, when a player cloaks, enemies will not see them unless they are actively looking for the wearer. For enemies that saw the wearer cloak, the DC is 25 less.
+==============================
+
+Basic Cloaking Suit 25EP
+5 DR
+30%
+
+Intermediate Cloaking Suit 35EP5r
+Add 30 Nanites to your pool.
+Cloak DC +25, expend 5 extra nanites per turn.
+5 DR
+30%
+
+Advanced Cloaking Suit 40EP
+Add 30 Nanites to your pool.
+Cloak DC +50, Expend 10 extra Nanites per turn.
+Charge-Up time 3 actions
+5 DR
+
+Experimental Cloaking Suit 70EP
+Remove 50 Nanites from your cloaking pool.
+Cloak DC +50, Expend 5 Less Nanites Per turn. Max turns +2
+Charge-Up time 5 actions
+10 DR
+30%
+
+Armour Cloaking Suit 30EP
+Cloak DC -25, expend 5 extra nanites per turn.
+Cloaking DR is 25, uncloaked DR is 10
+30%
+
+Advanced Cloaking Suit 45EP
+Expend 10 extra Nanites per turn.
+Charge-Up time 5 actions.
+Cloaking DR is 30, uncloaked DR is 15
+30%
+
+==============================
+Customizable Armour: Each base has an amount of MOLLE real-estate. Each pouch has an amount of space it takes up. You can put on as many pouches as you can fit in any configuration you wish.
+==============================
+Add an amount of EP equal to the Protection Level you selct for the armour plate.
+D.R. = 5+ 5*Protetion Level. No half levels available (only 1, 2, 3, 4, no 2a, 3a, and no 3+ or 4+)
+Add 6 EP +2 per level of capacitive shielding. (Level C C.Shielding would add 12 EP)
+
+Light Base 2EP
+35%
+
+Medium Base 4EP
+55%
+
+Heavy Base 6EP
+70%
+
+Pouches:
+	//AR/Carbine/Magfed Shotgun pouches
+	Primary Mag Pouch (AR/Carbine):
+	2x4 space, 1 Mag. Can stack 1 "single" pouch on base pouch (would allow for 2 mags to reside in a 2x4 space, or say, you could weave a chemlight into the front of a mag pouch.)
+
+	Primary Double Mag Pouch (AR/Carbine):
+	4x4 space, 2 Mags. Can stack 1 "single" pouch on base pouch.
+
+	Primary Mag pouch, Double (AR/Carbine):
+	2x4 space, 2 Mags.
+
+	Primary Double Mag Pouch, Double (AR/Carbine):
+	4x4 space, 4 Mags.
+
+	Primary Triple Mag Pouch (AR/Carbine):
+	6x4 space, 3 Mags. Can stack 1 "single" pouch on base pouch.
+
+	Primary Triple Mag Pouch, Double (AR/Carbine):
+	6x4 space, 6 Mags.
+
+	//SMG pouches
+	Primary Mag Pouch (SMG):
+	2x4 space, 2 Mags. Can stack 1 "single" pouch on base pouch.
+
+	Primary Double Mag Pouch (SMG):
+	4x4 space, 4 Mags. Can stack 1 "single" pouch on base pouch.
+
+	Primary Triple Mag Pouch (SMG):
+	6x4 space, 6 Mags. Can stack 1 "single" pouch on base pouch.
+
+	Primary Mag Pouch, Double (SMG):
+	2x4 space, 4 Mags.
+
+	Primary Double Mag Pouch, Double (SMG):
+	4x4 space, 8 Mags.
+
+	Primary Triple Mag Pouch, Double (SMG):
+	6x4 space, 12 Mags.
+
+	//Shotgun shell pouches are like a taco, the back side attaches to the vest, the front side can be flipped down, exposing the shells inside.
+	Primary Mag Pouch (Shotgun):
+	2x4 space, 12 shells
+	Primary Double Mag Pouch (Shotgun):
+	4x4 space, 24 shells
+	Primary Triple Mag Pouch (Shotgun): 
+	6x4 space, 36 shells
+
+
+
+
+	Primary Mag Pouch
+	Primary Double Mag Pouch
+	Primary Triple Mag Pouch
+	Primary Mag Pouch, Double
+	Primary Double Mag Pouch, Double
+	Primary Triple Mag Pouch, Double
+
+
+

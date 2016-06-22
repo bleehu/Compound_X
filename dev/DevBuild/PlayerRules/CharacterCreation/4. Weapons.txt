@@ -1,0 +1,383 @@
+All weapons deal additional 5 damage when 20 or less is rolled at hit. If 10 or less is rolled to hit, an additional 5 damage is added on top of the 20%
+
+============================================================
+Melee Weapons:
+Round up for STR/2, I.E. 3 STR grants a 2, 5 grants a 3.
+Effects:
+Capacitant Shield (CS) burn: d10/2 damage for 2 turns (Does not stack). +5 dam against robotic units.
+============================================================
+
+Hand to Hand (untrained): 0EP
+Adjacent
+55%
+10 + STR
+
+Hand to Hand (Trained): 0EP
+Adjacent
+40%
+30+(STR or DEX)
+20% disarm (unless weapon is attached via sling, etc.)
+
+Hand to Hand (Expert): N/A, 0EP if specialist
+2m
+25%
+8 * (STR or DEX)
+50% disarm (unless weapon is part of target). Can use disarm to grapple an opponent using their weapon's sling.
+
+Edged Weapons:
+
+Combat Knives: 1EP
+Adjacent
+40%
+8* (STR or DEX)
+
+Combat Swords: 2EP
+1m
+35%
+8*(STR) + 10
+
+Power Fist: 2EP
+Adjacent
+40%
+11*STR
+
+CS Edged Knife: 3EP
+Adjacent
+40%
+9 * (STR or DEX) + CS burn
+Ignore armor percents, but armor does deal D.R. Inflict CS burn. If target has Capacitant Shield armor, all damage is inflicted to the armor, unless the armor is completely discharged.
+
+
+CS Edged Combat Sword: 4EP
+1m
+35%
+9*(STR) + 10 + CS Burn
+Ignore armor percents, but armor does deal D.R. Inflict CS burn. If target has Capacitant Shield armor, CS burn is canceled and all damage is inflicted to the armor, unless the armor is completely discharged
+
+=============================================================================  
+\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
+/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /  
+\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
+/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /  
+\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
+=============================================================================
+	
+Ranged Weapons List
+Outside effective range, subtract 10 damage and 30%, max double the effective range.
+Effects:
+Plasma burn:  2d10 damage per turn (Stackable)
+Armor Piercing: rounds ignore 15 DR to armored targets (add 15 damage against armored targets); subtract 15 damage to unarmored targets.
+Hollow Point: add 15 damage to unarmored targets; subtract 15 damage to armored targets.
+Supporting Fire: On Hit, target is forced to take cover for one action (stackable), unless they pass a 70% FORT or INT check. If they pass the check, they negate the cover, but take an additional shot (roll for hit).
+Penetrating Damage: Armored targets take an additional 5 damage, and will need special treatments to remove armor fragments from their bodies. Unarmored targets take an additional 5 damage due to special ballistics characteristics. Target gains Bleeding condition.
+Incendiary Round: target takes 2 * d10 explosive damage.
+Capacitive Sheilded rounds deal CS burn. +5 dam against robotic units.
+Bleeding: The target has sustained a heavy hit that must be patched up. Target takes d10/2 damage per turn until they pass a medical skill roll at DC of the damage sustained.
+
+============================================================
+Pistols:
+(All pistols are considered CQB Weapons)
+Minimum Strength 2, Reload DC 20 unless otherwise noted. With DEX less than 5, Single Action revolvers must be re-cocked as a half action. Reload time 2 Half Actions
+============================================================
+
+ECSC Mk9 Auto 1EP
+30 m
+25%
+11 rds, 9mm Magazine / HP
+41
+
+Mathews Model 19 1EP
+20 m
+30%
+6 rds, .357; FMJ / HP
+46
+Reload 23%
+Single Action Revolver: cannot be fired as a free action.
+
+ECSC Mk26 Auto 1EP
+35 m
+35%
+15 rds, .40 Magazine; FMJ / CS
+43
+
+CZ 75 P01 2EP
+40m
+35%
+15rds, 10mm Magazine; FMJ / HP
+44
+
+Mathews Model 25 2EP
+30 m
+30%
+6 rds, .45 Long; FMJ / AP
+47
+Reload 23%
+Single Action Revolver: cannot be fired as a free action.
+
+G&W 10mm Auto 2EP
+35 m
+35%
+15 rds, 10mm Magazine; CS
+44
+
+Anvil Armament P-45 2EP
+40 m
+35%
+12 rds, .45 Auto; FMJ / HP
+47
+
+Mathews Model 24 3EP
+50 m
+30%
+6 rds, .44 Magnum; FMJ / HP / AP
+52
+Reload 23%
+Single Action Revolver: cannot be fired as a free action.
+
+Frontier Plas-8 5EP
+45 m
+30%
+8 rds, Plas-8 packs; LO-SV / HO-SV / LO-HV
+47
+2 turns plasma burn
+HO-SV treated like HP
+LO-HV treated like AP
+Reload 28%
+
+============================================================
+Sub-Machine Guns:
+Capable of high rates of fire, but utilizing lighter calibers than a traditional combat rifle. Fire DEX/2 shots per full turn, rounding down. (DEX 5 = 2 shots, DEX 8 = 4 shots) Maximum LVL + 1.( All SMGs are considered CQB weapons)
+Minimum Strength 4, Reload DC 25% unless otherwise noted. Reload time 2 Half Actions.
+============================================================
+
+ECSC Mk9 MP 8EP
+45 m
+30%
+33 rds, 9mm Magazine / HP
+41
+
+ECSC Mk7 PDW 8EP
+60m
+40%
+25rds 9mm / HP
+41
+
+G&W XMP 30 9EP
+65m
+35%
+30rds, .40 RMM / HP
+43
+
+Frontier 240M 10EP
+With an innovative bolt design that rotates down 60 degrees after firing, the 240M is able to retain impressive accuracy due to decreased muzzle rise, even at high rates of fire.
+65m
+30%
+20rds 10mm
+44
+
+Mathews Light Repeating Rifle 11EP
+60m
+45%
+32 rds, .45 FMJ / HP
+47
+Gain an extra shot per round with STR>6
+
+============================================================
+Shotguns:
+All pump shotguns take 1 action to fire, 1 action to rack. In the racking action, you can load an additional round of your specification for free. Double barrel and semi auto shotguns do not follow this rule.
+When a target is hit with buckshot, remember that armor mitigates damage per pellet, not per shot.
+Outside of range for slugs, subtract 20 damage, and 20%.
+Minimum Strength 4, Reload DC 30% unless otherwise noted. Reload time 3 Half Actions unless otherwise stated.
+Additionally: For Slug, add 5% to the hit DC for each shotgun.
+============================================================
+Mathews Model 2x12 7EP
+Range:		40m
+Miss:		20%
+Capacity:	2rds, 12ga Buck / Slug
+Damage:		10 points x 8 pellets
+Double-Barrel/Break-Barrel. Full action to reload. Each mag pouch in a peice of armor holds 8 shells.
+
+Anvil Arms Hunting Shotgun 8EP
+Range:		40 m
+Miss:		15%
+Capacity:	6 rds, 12ga Buck / Slug
+Buck: 		9 points x 7 pellets
+
+Mathews Model 2287 8EP
+Range:		45 m
+Miss:		23%
+Capacity:	5 rds, 20ga Slug / CS slug
+Damage:		65 points x 1 pellet
+Lever Action; Slugs only
+
+ECSC Mk900 9EP
+Range:		40m
+Miss:		15%
+Capacity:	7 rds, 12ga Buck / Slug
+Damage:		16 points x 5 pellets
+
+Mathews Over / Under 10EP
+Range:		60m
+Miss:		15%
+Capacity:	2 rds, 12ga Slug / Buck / CS Buck
+Damage: 	9 points x 7 pellets
+Due to the nature of the Over / Under, you can load both Buck and Slug at the 
+same time. Both barrels can be fired at the same time, at a -10% accuracy 
+penalty. Reload DC 25%. Each mag pouch in a peice of armor holds 8 shells.
+
+============================================================
+Carbines & Battle Rifles
+Minimum Strength 5, Reload DC 25% unless otherwise noted. Reload time 2 Half Actions
+============================================================
+Mathews .357 Carbine 5EP
+75m
+35%
+15rds, .357; FMJ / AP / HP
+46
+All rounds are available in a .357 Mag. version, which increases the base damage by 5, but increases the cost of each magazine by 1EP
+
+Anvil Arms C25 6EP
+80m
+40%
+25rds, 6.78x39mm; FMJ / Tracer
+55
+
+Mathews M-01 Carbine 6EP
+85m
+35%
+20rds, .30 Carbine; FMJ / AP
+52
+
+ECSC Mk28 7EP
+75m
+30%
+30 rds, 5.56x45mm Rifle Magazine; FMJ / HP
+50
+CQB rifle
+
+Mathews SK0 8EP
+100m
+40%
+20 rds, .223 ECSC; FMJ / HP
+52
+
+G&W FBR-C 9EP
+110m
+30%
+30 rds, 7.62x51mm Rifle Magazine; FMJ / AP
+62
+
+============================================================
+Assault Rifles:
+Minimum Strength 5, Reload DC 25% unless otherwise noted. Reload time 2 Half Actions
+============================================================
+
+Anvil Arms AR-74 8EP
+100m
+40%
+30 rds, 7.62x45mm Rifle Magazine; FMJ / AP / Incendiary
+57
+
+Anvil Arms AR-68 8EP
+80m
+35%
+30 rds, 6.78x39mm Rifle Magazine; FMJ / HP / CS
+57
+
+ECSC Mk16 8EP
+120m
+30%
+30 rds, 5.56x45mm Rifle Magazine; FMJ / Tracer
+50
+Tracer inflicts 1 turn of bleed damage.
+
+G&W FBR 9EP
+120m
+30%
+30 rds, 7.62x51mm Rifle Magazine; FMJ / AP
+62
+
+
+
+============================================================
+Heavy Weapons:
+Reload DC 40%, strength required 5 unless otherwise stated.
+A full action to reload unless otherwise stated.
+============================================================
+ECSC Mk249B 10EP
+Requires strength of 7 to carry
+120m
+35%
+100 rds, 5.56x45mm Ammo Belt; Tracer Rounds / CS
+50
+Supporting fire
+Tracer Rounds inflict 1 bleed damage, 1 burn on next turn.
+Minimum Strength 7 to carry. Reload DC 40%
+
+Anvil Arms XM-33 Minigun 12 EP
+Reqires Strength of 7 to carry.
+60m
+40%
+100 rds, 5mm linked belt; 
+30 damage per bullet
+Supporting Fire
+No optics, barrel attachments or extended mags. Fires three bullets 
+whenever you would fire one, but only every third bullet counts for 
+any per bullet effects. 
+
+Strudwick Arms Ultralight Autocannon 14 EP
+Requires strength 6 to carry.
+140m
+30%
+6 rounds, 35mm impact detonating HESH warheads
+80 damage, 3d10 splash damage in 1m adjacent
+Damages vehicles. No optics or barrel attachments.
+
+G&W AA-29 Personal Flack Cannon 14 EP
+Requires strength 5 to carry
+50m range
+15%
+10 damage per pellet
+2d10 (min 4) pellets below 15m, 2s10 (min 3) out to 50m.
+6 rounds, Deathmetal custom flack rounds
+Each shot into a door reduces the DC of kicking down that door by 65.
+If the DC becomes 0, the door is blown open. No optics or barrel attachments.
+
+
+
+============================================================
+Long Rifles:
+Due to high velocities used in long rifle bullets, when a target is under the minimum engagement range, they take 20 less damage because of hit-pre-acceleration, PointBlank penetration, etc.
+On all engagements farther than 200m, you must take 1 Full Action to adjust your scope for windage and elevation between targets of differing distance.
+Minimum 5 strength to carry. All targets are inflicted with "Pinned" condition when hit. Reload DC 30% unless otherwise noted. Reload time 3 Half Actions.
+============================================================
+
+Anvil Arms SR-150 10EP
+20-200m
+20%
+5 rds, 7.62x54R; FMJ / AP
+68
+Bolt action: take 1 action to chamber round, 1 action to fire.
+
+ECSC Mk12 Mod 0 9EP
+20-200m
+30%
+20 rds, 5.56x45mm Rifle Magazine; FMJ
+50
+Reload DC 25%, 2Half Actions
+
+Anvil Arms SR-250 10EP
+30-300m
+20%
+5rds, 7.62x54R; FMJ / AP
+68
+Bolt Action: take 1 action to fire, 1 action to chamber a new round.
+
+ECSC PRS 13EP
+10-150m
+25%
+5 rds, .300 Blackout; FMJ / AP
+71
+Bolt Action: take 1 action to fire, 1 action to chamber a new round.
+Integrated Improved Silencer.
+Reload DC 26%, 2 Half Actions

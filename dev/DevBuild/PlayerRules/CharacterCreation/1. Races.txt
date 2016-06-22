@@ -1,0 +1,67 @@
+Tundari
+Society: Tribal system, lead by a counsil of elders.
+Homeworld:Tundaaari
+A dry, searingly hot planet covered in planes and deserts. 70% of the planet is covered in water. The planet's axis of rotation is more or less upright relative to it's binary star system. the north pole points more towards the suns, and as such is a cooked wasteland, while the south pole is left in a more temperate, jungle climate. 90% of the annual rainfall on the planet occurs on this jungly southern continent.
+Native Species: Tundarin
+This Feline-esque especies is covered in a soft, short fur ranging in many colors, from browns, to oranges, blacks, greys, etc. And a multitude of paterns (striped, splotched, dotted, etc.). They have whiskers, and very sharp teeth. Their eyesite is very good, and they have low-light vision. Their build is generally more slender and graceful, but there have been bulkier Tundarin observed.
+Society: Tribal with leading council of elders
+The planet as a whole is unified under the banner of space exploration. there are many nationstates coming from historical tribes. Each nationstate is led by a council of elders, and a head elder is elected from each council to sit in on the grand council which overlooks issues on a planet-wide scale. They are hunters by nature, with a close tie to nature. Their cities typically blend in with the environement, whether it be large tree cities or hanging cliff cities.
+They typically believe in spritualism, and their level of science has been brought about by their religios leaders. Science is seen as a result of their religion, rather than an explanation of it. This being the case, science is well taught and understood by most all Tundarin, and higher tier and newer prototype devices are revered as religios artifacts.
+As far as the war goes, the Tundarin have been more peaceful towards humans, and have recently opened trade routes with the humans. While uncommon, Tundarin have been known to mingle with humans on occasion. Those who do have an understanding of Human Basic.
+Favored classes: Hunter, Warlock
+
+Qualities: 10RP
+Type: humanoid
+Size: Medium
+Speed: Normal
+Stat Modifiers: Flexible - +1 DEX, +1 to PER
+Language: Racial + Common
+Racial Traits:
+Camouflage: While in Jungle terrain, you are 20% better able to stealthily conceal yourself.
+Stalker: Gain Stealth and Awareness skills at +5
+Low-Light Vision: can see in moonlight as well as if it were day-light. only requires dim light to see well.
+Sprinter - +10 movement speed when charging, retreating,  or otherwise moving under preasure.
+
+
+Detachment A Security Drone
+Society: Slave soldiers. Squad families.
+Security Drones are specialized drones that have been granted a greater AI capacity to learn and think independantly. They are native to ECSC Compound X experimentation laboratory.
+They have a steel reinforced frame, and are usually armor plated. The coloration of plating can range anywhere in the natural colors and camouflages, or Flat Grey, or Flat Black. They have a single occular sensor situated on a smallish sqaure head. They generally stand somewhere in the 6 foot to 7 foot range, and weigh between 400 and 700 pounds.
+Favored Class: Marksman, Soldier, Adept, Technician, Mechanic.
+
+Qualities: 10RP
+Type: Robotic (Does not need to eat, breath, or sleep. Must spend 6 hours to recharge after a 24 hour period. this can be done via a self-contained reactor. Not affected by mind-influence, succeptable to hack attempts).
+Size: Medium+
+Speed: Normal
+Stat Modifiers: INT + 1, FORT + 2. LUCK -3.
+Language: Basic
+Racial Traits:
+Built in Armour: Take any Heavy Armour for 7EP less, or armors cost 4 EP less.
+Purpose Built: Take an additional skill at 10 points during character creation. This is considered a Class skill.
+25m Darkvision
+Weakness (Electrical): Electrical damage deals an additional 50% damage.
+
+Archon
+Society: These constructs are made up of nanites. Commonly A.I.s that have broken from their world of solitude and gained a corporeal body, these powerful creations are as difficult to take down as they are rare.
+
+Qualities: 10RP
+Type: Construct (Does not need to eat, breathe, sleep. Immune to mind-affecting affects. Cannot heal damage on their own, but can be repaired by nanite boost shots or using "Nanite Drain." Not subject to non-lethal damage or fatigue. Once they hit 0 hit points, they are destroyed. They cannot be "brought back" but they can store copies of themselves on respawn systems.
+Size: Medium
+Speed: Normal
+Stat Modifiers: +2 INT, -2 LUK, +2 DEX -4 STR
+Language: Basic, Machine Language
+Racial Traits:
+Capacitive Sheild Manipulator: Manipulate your CS field to create sheilds, knives,bowls, or other simple shapes. (RP items mostly)
+Glowing Physique: The Archon glows a dim orange, blue, green, or yellow. This color can brighten if the archon is under intense mental strain. It is not light enough to provide a light source in a dark room, but would be noticeable to others nearby. -5% to stealth checks.
+Nanite cannon: Archons are not able to use normal weapons. As a racial trait, they can cast Shock Cannon with the following stats {
+	60m
+	75% (only buffed by Perception and class feats. Cannot take weapon familiarization, etc.)
+	Costs 2 Nanites per use
+	50 damage plus 2d10 burn damage
+}
+Archons are not as connected to electronics and integrated systems as Robotic units are. However, as a Full round action, an archon may digitize itself into a nearby system through an open connection port in order to interact with it. In this way, Archons may have a racial score of +10 to computer use.
+Archons do not have a health bar. Instead, they have 300 + 20*int NAnites. They can divy this pool up into 3 categories:
+- Max 200 into a "Health" Pool
+- Max 100 into an "Armour" Pool
+- As many remaining as they like into a "Mana" Pool.
+

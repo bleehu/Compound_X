@@ -1,0 +1,354 @@
+
+============================================================
+Melee Weapons:
+Round up for STR/2, I.E. 3 STR grants a 2, 5 grants a 3.
+Effects:
+Capacitant Shield (CS) burn: d10/2 damage for 2 turns (Does not stack). +5 dam against robotic units.
+============================================================
+
+Grabber Knife 4EP
+This knife is designed in such a way as to aid its user in grabbing the enemy. It has a large barb at the tip, is hook shaped, etc.
+Whenever you roll a successful grappling check, you may deal STR * 3 or DEX * 3 damage to your opponent.
+Adjacent
+40%
+7 * (STR or DEX)
+
+============================================================
+Pistols:
+(All pistols are considered CQB Weapons)
+Minimum Strength 2, Reload DC 20 unless otherwise noted. Reload time 2 Half Actions.
+============================================================
+
+Mathews Model .223 10EP
+75m
+30%
+7 rds, .223; FMJ / HP
+50
+Reload DC 30%
+Single Action Revolver: cannot be fired as a free action.
+
+Laz Pistol 10EP
+90m
+25%
+20rds, 5kWatt P-Pack / 7kWatt P-Pack
+30
+7kWatt pack increases damage by 10, decreases capacity to 12 shots.
+Disregard Sheilds.
+
+Anvil Arms R60 10EP
+65m
+40%
+5 rds, .60 SPM
+60
+Reload DC 30%
+Single Action Revolver: cannot be fired as a free action.
+Acts as hollow point, +10 unarmoured, -10 armoured
+
+RMM Auto 6 11EP
+65m
+35%
+6 rds, .480 RMM; AP / HP / CS
+56
+Reload DC 30%
+Semi-Automatic, recoil-reducing bottom-cylinder barrel design.
+
+Plas-Disc Mini-Launcher 12EP
+80m
+45%
+5 rds, Plas-Disc Canister; Standard / Cutter Rds
+60
+Cutter Rounds disregard 10pts of D.R.
+All Ammo inflicts Plasma Burn.
+
+
+============================================================
+Sub-Machine Guns:
+Capable of high rates of fire, but utilizing lighter calibers than a traditional combat rifle. Fire DEX/2 shots per full turn, rounding down. (DEX 5 = 2 shots, DEX 8 = 4 shots) Maximum LVL + 1.( All SMGs are considered CQB weapons)
+Minimum Strength 4, Reload DC 25% unless otherwise noted. Reload time 2 Half Actions.
+============================================================
+
+Anvil Arms AR-34 PDW 9EP
+A pint-size verison of the famous AR-68, the AR-34 PDW incorporates the famous AA Pushrod with an extremely short 6inch barrel and a skelotonized folding stock. Due to the lightweight of the rifle, a special low-powder cartridge is used to decrease its potency.
+70m
+35%
+30 rds, 6.78x39mm Rifle Magazine; FMJ / HP / CS
+44
+Maximum 3 shots per Round. Reload DC 30%
+
+Mathews "Bolter" 10 EP
+Short barrel length on a beefy body makes for an odd looking gun. Firing the hefty 45 magnum round though, you already aren't worried about shooting targets at any significant range.
+50m
+45%
+20rds, 45 Mag; Bolt / FMJ
+50
+Bolt round adds an additional 10 damage, but reduces range by 10m
+
+Frontier X-26L
+The X-26L is a lighter variant of an experimental carbine. Boasting a faster firing rate and a specially designed armour piercing round, the X-26L was conceived of for special task force pointmen.
+50m
+35%
+46 rds, 4.6mm SPC; AP
+40
+Due to the faster firing rate, on a successful hit, the shooter rolls for an additional hit. Standard SMG rules apply, and additional shots fired due to this rule do not factor towards the SMG's dexterity based bonuses.
+
+============================================================
+Shotguns:
+All pump shotguns take 1 action to fire, 1 action to rack. In the racking action, you can load an additional round of your specification for free. Double barrel and semi auto shotguns do not follow this rule.
+For buck shot:
+Roll d10 for # shots that make contact. Each shot does listed damage.
+Outside of range, roll d10 for # shots, with the normal minimum number being the maximum number. E.G. for the hunting shotgun, if you shoot a target at 50m, roll a d10. If you roll a 6, you only hit with 5 pellets.
+Outside of range for slugs, subtract 20 damage, and 20%.
+Dragon''s Breath does not hit outside of range.
+Minimum Strength 4, Reload DC 30% unless otherwise noted. Reload time 3 Half Actions
+Additionally: For Slug, add 5% to the hit DC for each shotgun.
+============================================================
+
+Mathews Model 3x12 7EP
+60m
+25%
+4rds, 12ga Buck / Slug
+Buck: 6 dam, minimum 3
+Slug: 62
+Tri-Barrel/Break-Barrel
+
+ECSC PAO-8 10EP
+50m
+25%
+7rds, 8ga Buck / Frag
+Buck: 70
+Frag: 70 Explosive Damage, 5m radius. Add 2EP per frag round. Ask your GM before using Frag rounds.
+
+RMM Auto-12 10EP
+55m
+20%
+7rds, 12ga Slug / Buck
+Slug: 62
+Buck: 6 dam, minimum 5
+Semi-Automatic, tube fed.
+
+Anvil Arms AR-12 12EP
+50m
+30%
+10rds, 12ga Box Magazine; Slug / Frag
+62, Reload DC 25%, Reload time 2 Half Actions.
+Semi-Automatic, Box fed.
+
+Frontier Plas-12 11EP
+40m
+20%
+7 rds 12ga Plasma: Slug / Buck / Dragon’s Breath
+Slug: 45 + 2d10
+Buck: 7 dam, minimum 5
+Dragon’s Breath: 7d10, range reduced to 10m
+All ammo inflicts Plasma Burn.
+
+============================================================
+Carbines & Battle Rifles
+Minimum Strength 5, Reload DC 27% unless otherwise noted. Reload time 2 Half Actions.
+============================================================
+
+RMM S-92 8EP
+With an integrated silencer and flash suppressor, the S-92 is a great weapon for close quarters or stealthy operations.
+Targets beyond 30m will not hear or see your fired shot. Targets within 30m are 50% less likely to notice your shot.
+70m
+45%
+18 Rds, .480 RMM; AP / HP / CS
+56
+
+Frontier Plas-Disc Launcher 16EP
+100m
+40%
+10rds, Plas-Disc Canister / Cutter Rds
+65
+Cutter Rounds disregard 10pts of D.R.
+All Ammo inflicts Plasma Burn.
+
+Frontier Laz-Rifle 16EP
+150m
+20%
+35 rds, 10kWatt R-pack / 12kWatt R-pack
+35
+12kWatt increases damage by 10, decreases capacity to 20.
+Disregard Shields. Inflicts Stacking Burn damage.
+
+Mathews HK-80 18EP
+120m
+45%
+20rds, Low Intelligence Nanite Infused
+30
+Each successive headshot increases damage by 15 to a max of 90.
+
+============================================================
+Assault Rifles:
+Minimum Strength 5, Reload DC 25% unless otherwise noted. Reload time 2 Half Actions.
+============================================================
+
+Anvil Arms KMR 10EP
+100m
+30%
+100 rds, 7.62 x 51mm Belt
+62
+Supporting Fire
+Minimum 7 Str to carry. 40% reload
+
+
+G&W XK20 12EP
+70m / 120m
+35%
+20 rds, 13x54mm (.50 cal) Magazine; Special Purpose Bullet, SPB
+62 / 67
+Due to the advanced bullet and mechanical research and development that went into the production of this prototype weapon, it has split damage for different ranges. Because of the large caliber round size, target takes penetrating damage.
+
+Frontier Plas-20 12EP
+120m
+35%
+20 rds, Plas-20 Magazine; HO-SV / HO-LV / HO-HV
+62
+HO-LV treated like HP
+HO-HV treated like AP
+All ammo inflicts Plasma Burn
+
+============================================================
+Long Rifles:
+Due to high velocities used in long rifle bullets, when a target is under the minimum engagement range, they take 20 less damage because of hit-pre-acceleration, PointBlank penetration, etc.
+Minimum 5 strength to carry. All targets are inflicted with "Pinned" condition when hit. Reload DC 30% unless otherwise noted. Reload time 3 Half Actions.
+============================================================
+
+G&W XK20 Mod 0 HE 14EP
+20-200m / 500m
+35%
+20 rds, 13x54mm HE (.50 cal) Magazine; SPB / SPB CS
+65 / 70
+Due to the advanced bullet and mechanical research and development that went into the production of this prototype weapon, it has split damage for different ranges. 
+In addition, the High Energy variant requires 1 action of charge up time.
+Because of the large caliber round size, target takes penetrating damage. Reload DC 26%, Reload time 2 Half Actions.
+Marksman only.
+
+Frontier Plas-5 HE (Minimum 6 strength to carry) 15EP
+30-1000m
+30%
+5 rds, Plas-5 Pack; HO-HE / HO-HV Incendiary
+65
+HO-HE contains High Energy plasma shots. These shots burst on impact, dealing Plasma Burns to targets within 5m at 80% chance.
+All ammo inflicts Plasma Burn.
+Reload time 2 Half ACtions
+
+Mathews BA .408 (minimum 6 strength to carry) 15EP
+40-150m / 20-2000m
+45% / 20%
+7 rds, .408 cal RMM special; AP / Incendiary
+80
+Due to the complex nature of this Special Purpose Rifle, it requires extensive military style training in order to unlock its full potential. If you do not have at least a skill level of 30 in sniping, you cannot fire this effectively, and take a +15% to accuracy from the low range.
+Penetrating Damage. Marksman Only. Minimum Level 10
+
+============================================================
+Heavy / Special Weapons:
+Heavy and Special weapons types require very specific and exotic ammunitions,
+and often require certain skillsets to be used. They come in many shapes and sizes,
+but are generally medium to extra large in size.
+Minimum Strength 7 to carry, Reload DC 30% unless otherwise noted. Reload time 4 Half Actions.
+============================================================
+
+"Incapacitator" Stun-barb gun 10EP
+This quad barrelled shotgun acts as a long-range tazer rifle. On trigger pull, an electrified barb is shot from each barrell.
+This gun has been outlawed in a lot of near-earth colonies for its tendency to inflict permanent physical damage,
+and in some cases, very heavy damage on the nervous system.
+40m
+35%
+8 rds, 2 volleys of 4 shots.
+10x 4 barbs (40 damage max)
+Target rolls a fort save against electric damage, dc of 80%. On fail, target takes additional 10 Shock damage per barb and is stunned for 2 turns.
+Target may make a medical roll to remove a barb. On a fail, target takes 5 damage per barb.
+
+Mathews TX-8 Rotary Grenade Launcher 18EP
+(Requires 6 STR)
+60m
+30%
+8 rds, 40mm HE; AA / CHEM / FRAG / PLAS
+HE: 70 Explosive damage in 5m radius.
+AA: Target takes 50 Damage to their armor, and takes 2 turns of bleed damage (d10 / 2)
+CHEM: creates a 15m clowd of burning, choking smoke. targets take 30 Poison damage and become sickened for 4 turns until they can pass a FORT save at 70%. each turn they take an additional 10 damage.
+FRAG: See ECSC Fragmentation grenade.
+PLAS: See Frontier Plasma Grenade.
+All rounds other than Smoke and CHEM can destroy 2m of light wall / light fortification.
+Usesr loads the TX-8 with up to 8 rounds. If they load different grenade types, they must note so. As a single action, you may break open the loading chamber and insert a round to be fired next. A full reload takes 3 actions, and a half reload takes 2 actions.
+
+L.I.S.C. (Laser Ionizing Shock Cannon) 12EP
+A powerful blue laser is used to ionioze the air between the user and their target. A complex array of mirrors additionaly ionizes the
+air around the target. The Cannon then lets loose 40,000 volts of electricity, which travels down the path of the laser, delivering
+painful theropy to the target, and anyone unfortunate enough to be nearby.
+(Requires STR 7, INT 5)
+50m
+30% to primary. 50% to all targets within 5m of primary.
+70 Shock damage to primary. 55 Shock damage to secondary.
+Requires one action to ionize the air before it can be shot.
+
+Frontier Directed Plasma Thrower 13EP
+motes of red light collect at the end of the barrel, 
+
+Frontier EMC-9 16EP
+The Electro Magnetic Coilgun was a project developed by Frontier at their Mars base in the Sol system. It was capable of accelerating a .45 mm projectile to near Mach 3 speeds. The projectile, a nickel plated depleted uranium core devastates armoured and unarmoured targets alike. Due to the high amount of electricty it takes to fire off a round, it takes 1 full action to fire the weapon, then 2 full actions to recharge.
+1000m
+20%
+5 rds, 11x45mm NiU Rod
+80, + Bleed Damage
+
+-----------------------------------------
+Atelsakor Plasma Weapons
+All plasma weapons in this category deal necrotic damage and inflict plasma burn.
+If a plasma shot from these weapons hits armour, instead of dealing damage to the target after DR, the plasma shot will melt through the armour, dealing its amount of damage to the PH of the armor.
+Reload DC 30% Reload time 2 Half Actions.
+------------------------------------------
+
+Light Plasma Repeater 6EP
+As a Les Paul is to a beginner's plastic string guitar, the Atelsakor's Plasma Rifle is to the Frontier technology. Each Atelsakor Plasma rifle fires burning spheres of plasma, which burst on impact and melt through armour and cover.
+80m
+35%
+20 shots. Standard action to reload.
+42 Plasma Damage.
+
+Plasma Driver 8EP
+150m
+25%
+5 shots. Requires an action to charge after an action of firing.
+42 Plasma Damage.
+
+Heavy Plasma Repeater 8EP
+90m
+30%
+10 shots.
+47 Plasma Damage.
+
+Plasma Propelled Explosive 10EP
+75m
+30%
+Single Shot, Rocket.
+120 Plasma Damage. All targets within 10m must pass a FORT or DEX save at 90% to resist damage or dodge. Targets may make both saves if one stat is above 8. If both stats are 5 or below, add the stats together for the Saving throw to dodge.
+
+---------------------------------------
+Rocket Launchers
+All rocket launchers require a STR of 7 to carry or use.
+---------------------------------------
+
+ECSC RPE-8 10EP
+The ECSC Rocket Propelled Explosive (8) is an anti-armour or anti-Material rocket propelled weapon. Its payload consists of a rocket propellent platform, which houses 8 micro explosives. These explosives launch at angle once they come within 10m of their target, spreading into a cone of explosive damage over a 10m area.
+80m
+35%
+Single Shot, Rocket
+Against Armoured Vehicles and terrain: 100 Explosive damage spread over a 10m area. Will punch through up to 1 foot of concrete, rock, wood, or  other comparable materials for a 3m hole. WIll punch through 6in or less of steel, aluminum, titanium, etc. for a 1m hole. To specific armour targets, if the armor rating is 100 damage or less, the armor is destroyed.
+Against NPCs / PCs: Any target in a 5m radius of the impact site must pass a Reaction save at 80% to dodge or resist 75 Explosive damage. Targets that pass the check are dazed for 3 turns or until they can pass another FORT save at 80%.
+
+Anvil Arms AT-20 10EP
+The evolution of the simple and effective fire-and-forget RPG, the AT-20 packs a punch against personel as well as fortifications and armored vehicles.
+75m
+30%
+Single Shot, Rocket
+120 Explosive damage to a single armored target, or 120 damage to anyone in a 5m radius, unless they pass a Reaction save at 80%. Targets that pass the check are dazed for 3 turns or until they can pass another FORT save at 80%.
+
+G&W SRAW 10EP
+The G&W Short Range Assault Weapon utilizes a multi-function fragmentational warhead, which is just as effective against walls and bunkers as it is against personel. However, it lacks in armor piercing capabilities. The SRAW is equiped with a targeting computer, and will fly above its target before flying straight down ontop of the target. It also features a line-of-sight dumbfire mode.
+65m
+15%
+Single Shot, Rocket.
+Destroys up to 4m of wall, fortification, sandbag, etc.
+Against Personel, the SRAW deals d10*10 damage to anyone in a 5m radius, unless they pass a Reaction save at 80%. Targets that pass the check are dazed for 3 turns or until they can pass another FORT save at 80%.
