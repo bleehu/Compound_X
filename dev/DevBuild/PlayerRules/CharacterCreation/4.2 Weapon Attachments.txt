@@ -249,3 +249,5 @@ Allows the user a Straight-pull action to chamber a new round, increasing rate o
 
 Standalone Grenade Launcher 2EP
 A polymer and metal frame to mount an underbarrel grenade launcher. Allows use of an underbarrel grenade launcher as a secondary weapon, freeing up the underside of a primary for other attachments.
+
+//Copyright 2016 Taylor Rowland

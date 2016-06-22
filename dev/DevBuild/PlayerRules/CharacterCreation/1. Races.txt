@@ -65,3 +65,4 @@ Archons do not have a health bar. Instead, they have 300 + 20*int NAnites. They 
 - Max 100 into an "Armour" Pool
 - As many remaining as they like into a "Mana" Pool.
 
+//Copyright 2016 Taylor Rowland

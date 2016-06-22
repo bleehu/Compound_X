@@ -240,3 +240,5 @@ Expend 50 nanites to activate the cloaking shield. while moving, the cloak DC is
 ╚══════════╩═════════════╩══════════╩════════════════╩═════════════════╝
 *  For levels 1-4, you may only cloak once per encounter.
 ** At level 20, you can cloak immediately after your cloak fades, but you must pass another stealth check to continue cloaking.
+
+//Copyright 2016 Taylor Rowland

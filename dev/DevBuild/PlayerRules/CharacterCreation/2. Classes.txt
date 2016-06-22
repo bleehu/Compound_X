@@ -332,3 +332,5 @@ Some Feat -
 V
 Additional level
 Players can level up a feat at every 10th level, or choose to purchase a new feat.
+
+//Copyright 2016 Taylor Rowland

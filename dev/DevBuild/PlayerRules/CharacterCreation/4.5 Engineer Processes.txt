@@ -874,3 +874,4 @@ target, dealing 30 damage and emitting a flash similar to a flashbang.
 /////	Defender
 
 
+//Copyright 2016 Taylor Rowland

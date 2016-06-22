@@ -349,3 +349,6 @@ Soft Armour Vest (Can be worn under plate carriers to compound protection)
 //==============================
 //
 //==============================
+
+
+//Copyright 2016 Taylor Rowland

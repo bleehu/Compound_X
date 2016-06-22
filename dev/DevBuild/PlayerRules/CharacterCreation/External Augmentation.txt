@@ -164,3 +164,4 @@ All weapons may be equipped with weapon attachments, however the following items
         Add ability:
             Choose an ability from the list.
 
+//Copyright 2016 Taylor Rowland

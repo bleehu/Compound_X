@@ -327,3 +327,4 @@ Integrated Improved Silencer.
 Reload DC 26%, 2 Half Actions
 
 
+//Copyright 2016 Taylor Rowland

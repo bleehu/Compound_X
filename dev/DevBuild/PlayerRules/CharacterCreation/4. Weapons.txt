@@ -381,3 +381,6 @@ ECSC PRS 13EP
 Bolt Action: take 1 action to fire, 1 action to chamber a new round.
 Integrated Improved Silencer.
 Reload DC 26%, 2 Half Actions
+
+
+//Copyright 2016 Taylor Rowland

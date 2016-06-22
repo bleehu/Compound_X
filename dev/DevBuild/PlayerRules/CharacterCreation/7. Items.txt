@@ -125,3 +125,5 @@ Misc. Items and RP trinkets:
 Examples of RP trinkets include cigarettes, a lighter, cards, a wallet, an ID pass, etc. Basically items that cannot be used in combat, but would have great value in RP. These cost 0EP but you can only have a maximum of 2 items at start.
 
 Examples of Misc. Items include rope (20m), compass and map, matches, flashlight, a single magazine for your gun, flares, etc. These are basically items that have an actual use of some sort. 1 EP each, 5 free at start.
+
+//Copyright 2016 Taylor Rowland

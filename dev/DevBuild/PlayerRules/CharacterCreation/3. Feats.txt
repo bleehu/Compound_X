@@ -181,3 +181,4 @@ Multi-Target [ X*40 Nanites]:
 Prerequisites:
 Take 2 actions to concentrate on up to Level +1 number of targets, where X is the number of targets. Or wait 1 action to target Level/2(round up) Targets. You may Roll once to determine if you hit all of these targets. If you fail the roll, then you may roll again to hit your first target normally.
 
+//Copyright 2016 Taylor Rowland

@@ -31,3 +31,6 @@ Built in Armour: Take any Heavy Armour for 7EP less, or armors cost 4 EP less.
 Purpose Built: Take an additional skill at 10 points during character creation. This is considered a Class skill.
 25m Darkvision
 Weakness (Electrical): Electrical damage deals an additional 50% damage.
+
+
+//Copyright 2016 Taylor Rowland

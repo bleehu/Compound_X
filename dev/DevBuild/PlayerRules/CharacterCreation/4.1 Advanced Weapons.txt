@@ -352,3 +352,5 @@ The G&W Short Range Assault Weapon utilizes a multi-function fragmentational war
 Single Shot, Rocket.
 Destroys up to 4m of wall, fortification, sandbag, etc.
 Against Personel, the SRAW deals d10*10 damage to anyone in a 5m radius, unless they pass a Reaction save at 80%. Targets that pass the check are dazed for 3 turns or until they can pass another FORT save at 80%.
+
+//Copyright 2016 Taylor Rowland

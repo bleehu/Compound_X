@@ -485,3 +485,5 @@ melee weapons, has -16% to miss with melee weapons, and moves +2m per action. As
 a side effect, the target takes a -1 to both Intelligence and charisma for the
 duration of the effect. This trick only works on biologic patients. This effect
 lasts for 8 turns. 
+
+//Copyright 2016 Taylor Rowland
