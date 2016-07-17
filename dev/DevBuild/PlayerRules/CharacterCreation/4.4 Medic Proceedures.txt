@@ -204,8 +204,8 @@ recoursive without limit.
 Nanite Cost: 40
 Duration: 	Standard Action
 Range:		20m
-Effect:		Imparts enough force on a target or object to toss a 300lb 
-target 10m away.
+Effect:		Imparts enough force on a target or object to shift a 300lb 
+target 10m away by 1m.
 
 /////	Mild Phenethylamine Agonist
 Nanite Cost:60
