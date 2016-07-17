@@ -120,6 +120,9 @@ If you have Skill in Repair, see the skill sheet for separate instructions.
 Nanite Pack: 1EP
 Restores 2d10 + 20 nanites.
 
+Hacking Spyke: 100 credits
+alows physical penetration of a cybernetic target and gives a +20 to hack rolls against that target.
+
 Misc. Items and RP trinkets:
 
 Examples of RP trinkets include cigarettes, a lighter, cards, a wallet, an ID pass, etc. Basically items that cannot be used in combat, but would have great value in RP. These cost 0EP but you can only have a maximum of 2 items at start.
