@@ -29,15 +29,15 @@ Single Action Revolver: cannot be fired as a free action.
 
 Laz Pistol 10EP
 90m
-25%
+15%
 20rds, 5kWatt P-Pack / 7kWatt P-Pack
-30
+45
 7kWatt pack increases damage by 10, decreases capacity to 12 shots.
 Disregard Sheilds.
 
 Anvil Arms R60 10EP
 65m
-40%
+20%
 5 rds, .60 SPM
 60
 Reload DC 30%
@@ -55,7 +55,7 @@ Semi-Automatic, recoil-reducing bottom-cylinder barrel design.
 Plas-Disc Mini-Launcher 12EP
 80m
 45%
-5 rds, Plas-Disc Canister; Standard / Cutter Rds
+10 rds, Plas-Disc Canister; Standard / Cutter Rds
 60
 Cutter Rounds disregard 10pts of D.R.
 All Ammo inflicts Plasma Burn.

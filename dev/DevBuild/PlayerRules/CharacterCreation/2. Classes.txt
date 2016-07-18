@@ -175,7 +175,7 @@ Expend 10 nanites to paint a target. All damage dealt by allies to this target i
 
 "Paladin" - You are a righteous warrier, vetted and trained by one of the powerful corporations or some other technologically advanced entity. You seek to uphold the principals which define the group you''ve sworn allegience to. Through this devotion you have been granted access to high tech in order to pursue your goals and missions.
 Passives: Terms and Conditions clause compliance, access to Paladin Spell tree at level 3. a number of spell points equal to your Int/2 (round down) per level.
-Weapon Profiencies: Pistls, Carbines, SMGs, Long Rifles
+Weapon Profiencies: Pistls, Carbines, SMGs, Long Rifles, Assault Rifles.
 Armour Proficiencies: Medium, Heavy
 Feats:
 ----------------------

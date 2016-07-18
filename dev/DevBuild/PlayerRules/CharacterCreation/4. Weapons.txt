@@ -236,17 +236,17 @@ Mathews .357 Carbine 5EP
 46
 All rounds are available in a .357 Mag. version, which increases the base damage by 5, but increases the cost of each magazine by 1EP
 
+Mathews M-01 Carbine 6EP
+85m
+40%
+20rds, .30 Carbine; FMJ / AP
+55
+
 Anvil Arms C25 6EP
 80m
 40%
 25rds, 6.78x39mm; FMJ / Tracer
 55
-
-Mathews M-01 Carbine 6EP
-85m
-35%
-20rds, .30 Carbine; FMJ / AP
-52
 
 ECSC Mk28 7EP
 75m

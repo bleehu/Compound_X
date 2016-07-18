@@ -110,15 +110,18 @@ Frontier Plasma Grenade: 6EP
 
 Health Items:
 
-MediKit: 1EP
+MediKit: $100
 For normal wounds (50% damage or less) roll percents under 50. On pass, heal 30 + percent rolled. For severe wounds (50% damage or more), roll percents under 50. On pass, heal 30. If you have Skill in Medicine, see the skill sheet for separate instructions.
 
-Repair kit: 1EP
+Repair kit: $100
 For normal damage (50% or less) roll percents under 50. On pass, repair 30 + percent rolled. For severe wounds (50% or more), roll percents under 50. On pass, repair 30.
 If you have Skill in Repair, see the skill sheet for separate instructions.
 
-Nanite Pack: 1EP
+Nanite Pack: $100
 Restores 2d10 + 20 nanites.
+
+Security Spike: $100
++20 to a hack check on a door with a physical access panel. DC 30 to place. Once hacked the door can be controlled remotely.
 
 Misc. Items and RP trinkets:
 
