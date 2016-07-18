@@ -1,7 +1,7 @@
 Items List
 
 Night Vision Goggles (3EP):
-IR visibility for low light conditions.
+IR visibility for low light conditions. Resolution clouds after 100m.
 
 Gas Mask (3EP):
 Prevents the inhalation of noxious or toxic air-borne compunds. Reduce PER based rolls (including strike rolls) by 10.
