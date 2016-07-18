@@ -72,37 +72,37 @@ Grenades:
 All grenades require a skill of at least 10 to use.
 Targets can roll a luck or perception check at 95% in order to dodge.
 
-ECSC Smoke Grenade: 2EP
+ECSC Smoke Grenade: $100
 30m
 60% to land where intended
 D10 burn damage to exact spot of impact
 For a circle of 10m radius, all targets are now in stealth at 80%. Anyone looking in or out of smoke must roll an 81% or higher (disregarding bonuses) in order to fire through smoke. Targets that are adjacent need not abide by this rule (including one target outside the circle adjacent to a target inside the circle). If you are fully behind the smoke and a target is on the complete opposite side, the smoke completely obscures your vision, leaving you with a perception check of 120% in order to see all the way through the smoke. Smoke lasts for 12 turns or 2 minutes.
 
-ECSC CID Chemical Incapacitation Device 3EP
+ECSC CID Chemical Incapacitation Device $200
 (Gas grenade)
 25m
 60% to land where intended
 D10 burn damage to spot of impact
 10m radius cloud of choking chemicals. anyne caught in the circle suffers the following effects: partial blindness due to uncontrolable tears (+30% to hit), coughing fits (-50% stealth), and take 10 damage per round spent in the cloud. Targets can negate the effects with a gas mask. Targets who leave the cloud will continue to exhibit partial blindness for 3 turns after leaving the fog, and coughing for 6 turns.
 
-RMM FlashBang distraction and clearing device: 2EP
+RMM FlashBang distraction and clearing device: $200
 30m
 70% to land where intended
 Everyone in the room gets blinded for 2 turns. You can break the blindness with a perception check at 85% (disregarding bonuses). If the grenade detonates in the open, it’s blinding range is 10m
 
-ECSC Fragmentation Grenade: 4EP
+ECSC Fragmentation Grenade: $600
 40m
 60% to land where intended and 95% to hit
 50 + 2 * bleed within 2.5m
 20 damage + 2 * bleed within 5m
 
-RMM Frag+ Grenade: 5EP
+RMM Frag+ Grenade: $750
 45m
 60% to land where intended and 95% to hit
 60 + 2 * bleed within 2.5m
 20 + 2 * bleed within 5m
 
-Frontier Plasma Grenade: 6EP
+Frontier Plasma Grenade: $900
 35m
 65% to land where intended and 95% to hit
 65 + 2 * plasma burn within 3m
