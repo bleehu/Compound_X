@@ -44,10 +44,6 @@ Focus Energy:
 Prerequisites:
 Spend one Full-Action to increase the effects of a spell or Nanite based action by 20%, (20% better roll, 20 damage, up to you.)
 
-Flash Dance: 
-Prerequisites:
-Expend 10*lvl Nanites. Allows the user to make Lvl number of attacks with their melee weapon within a 5m space, rolling for each strike. All bonuses that would normally apply to a standard attack still apply.
-
 Gunsmith: 
 Prerequisites:
 Combine up to 2 weapon total conversions (ask GM about applicability of desired conversations).
@@ -56,9 +52,9 @@ Last Shot Counts:
 Prerequisites:
 The last shot in every mag deals Double-Crit damage, but your reload DC is twice as high.
 
-Kata(LVL 10): 
-Prerequisites:
-Whenever you land a successful melee hit against someone, you may roll for X additional attacks, where X is your LVL. Each additional attack has 20% lower chance to hit than the previous hit. (A 4th level character making their 3rd strike in a row would be rolling at +40% accuracy).
+Kata: 
+Prerequisites: Level 10 or higher
+Whenever you land a successful melee hit against someone, you may roll for X additional attacks, where X is your LVL. Each additional attack has 20% lower chance to hit than the previous hit. (A 4th level character making their 3rd strike in a row would be rolling at +40% miss chance).
 
 Nanite Concentration:
 Prerequisites: Level 5
@@ -90,7 +86,7 @@ Prerequisites: <3 CHA and >8 INT
 Your character has something going for them. You may ask the GM how many bullets each opponent has left in their weapon.
 
 Run 'N' Gun: 
-Prerequisites:
+Prerequisites: PER > 6
 you may move at half speed while firing. +10% accuracy. If this feat is performed while sprinting, half your movment speed before you add the 2m from sprinting. The accuracy penalties stack. 
 
 Signature Move: 
@@ -173,9 +169,13 @@ Aimed Shot [10 Nanites]:
 Prerequisites:
 Add an action to your normal Shooting time. During this time you concentrate on your target in order to deal crit damage on your next shot. This is akin to seeing a chink in armour and aiming for it, or shooting a target''s arm so they cannot use their weapon, etc.
 
-Gun Kata [30 Nanites]: 
+Flash Dance: 
 Prerequisites:
-For up to 3rds, reduce weapon range to 15m, increase accuracy by 50%. Treat any weapon as if it were a CQB weapon.
+Expend 10*lvl Nanites. Allows the user to make Lvl number of attacks with their melee weapon within a 5m space, rolling for each strike. All bonuses that would normally apply to a standard attack still apply.
+
+Gun Kata [30 Nanites / Turn]: 
+Prerequisites: Level 10 or higher
+For up to 3rds, reduce weapon range to 15m, increase accuracy by 50%. Treat any weapon as if it were a CQB weapon. After a successful strike, you may roll for an additional strike during the same action on any target within the 15m range.
 
 Multi-Target [ X*40 Nanites]: 
 Prerequisites:
