@@ -19,7 +19,7 @@ Pistols:
 Minimum Strength 2, Reload DC 20 unless otherwise noted. Reload time 2 Half Actions.
 ============================================================
 
-Mathews Model .223 10EP
+Mathews Model .223 $1310
 75m
 30%
 7 rds, .223; FMJ / HP
@@ -27,7 +27,7 @@ Mathews Model .223 10EP
 Reload DC 30%
 Single Action Revolver: cannot be fired as a free action.
 
-Laz Pistol 10EP
+Laz Pistol $1720
 90m
 15%
 20rds, 5kWatt P-Pack / 7kWatt P-Pack
@@ -35,7 +35,7 @@ Laz Pistol 10EP
 7kWatt pack increases damage by 10, decreases capacity to 12 shots.
 Disregard Sheilds.
 
-Anvil Arms R60 10EP
+Anvil Arms R60 $1560
 65m
 20%
 5 rds, .60 SPM
@@ -44,7 +44,7 @@ Reload DC 30%
 Single Action Revolver: cannot be fired as a free action.
 Acts as hollow point, +10 unarmoured, -10 armoured
 
-RMM Auto 6 11EP
+RMM Auto 6 $1180
 65m
 35%
 6 rds, .480 RMM; AP / HP / CS
@@ -52,7 +52,7 @@ RMM Auto 6 11EP
 Reload DC 30%
 Semi-Automatic, recoil-reducing bottom-cylinder barrel design.
 
-Plas-Disc Mini-Launcher 12EP
+Plas-Disc Mini-Launcher $1540
 80m
 45%
 10 rds, Plas-Disc Canister; Standard / Cutter Rds
@@ -67,7 +67,7 @@ Capable of high rates of fire, but utilizing lighter calibers than a traditional
 Minimum Strength 4, Reload DC 25% unless otherwise noted. Reload time 2 Half Actions.
 ============================================================
 
-Anvil Arms AR-34 PDW 9EP
+Anvil Arms AR-34 PDW $1000
 A pint-size verison of the famous AR-68, the AR-34 PDW incorporates the famous AA Pushrod with an extremely short 6inch barrel and a skelotonized folding stock. Due to the lightweight of the rifle, a special low-powder cartridge is used to decrease its potency.
 70m
 35%
@@ -75,7 +75,7 @@ A pint-size verison of the famous AR-68, the AR-34 PDW incorporates the famous A
 44
 Maximum 3 shots per Round. Reload DC 30%
 
-Mathews "Bolter" 10 EP
+Mathews "Bolter" $690
 Short barrel length on a beefy body makes for an odd looking gun. Firing the hefty 45 magnum round though, you already aren't worried about shooting targets at any significant range.
 50m
 45%
@@ -83,7 +83,7 @@ Short barrel length on a beefy body makes for an odd looking gun. Firing the hef
 50
 Bolt round adds an additional 10 damage, but reduces range by 10m
 
-Frontier X-26L
+Frontier X-26L $700
 The X-26L is a lighter variant of an experimental carbine. Boasting a faster firing rate and a specially designed armour piercing round, the X-26L was conceived of for special task force pointmen.
 50m
 35%
@@ -147,15 +147,15 @@ Carbines & Battle Rifles
 Minimum Strength 5, Reload DC 27% unless otherwise noted. Reload time 2 Half Actions.
 ============================================================
 
-RMM S-92 8EP
+RMM S-92 $2200
 With an integrated silencer and flash suppressor, the S-92 is a great weapon for close quarters or stealthy operations.
 Targets beyond 30m will not hear or see your fired shot. Targets within 30m are 50% less likely to notice your shot.
 70m
 45%
 18 Rds, .480 RMM; AP / HP / CS
-56
+62
 
-Frontier Plas-Disc Launcher 16EP
+Frontier Plas-Disc Launcher $2250
 100m
 40%
 10rds, Plas-Disc Canister / Cutter Rds
@@ -163,7 +163,7 @@ Frontier Plas-Disc Launcher 16EP
 Cutter Rounds disregard 10pts of D.R.
 All Ammo inflicts Plasma Burn.
 
-Frontier Laz-Rifle 16EP
+Frontier Laz-Rifle $2700
 150m
 20%
 35 rds, 10kWatt R-pack / 12kWatt R-pack
@@ -171,7 +171,7 @@ Frontier Laz-Rifle 16EP
 12kWatt increases damage by 10, decreases capacity to 20.
 Disregard Shields. Inflicts Stacking Burn damage.
 
-Mathews HK-80 18EP
+Mathews HK-80 $3600
 120m
 45%
 20rds, Low Intelligence Nanite Infused
@@ -183,23 +183,14 @@ Assault Rifles:
 Minimum Strength 5, Reload DC 25% unless otherwise noted. Reload time 2 Half Actions.
 ============================================================
 
-Anvil Arms KMR 10EP
-100m
-30%
-100 rds, 7.62 x 51mm Belt
-62
-Supporting Fire
-Minimum 7 Str to carry. 40% reload
-
-
-G&W XK20 12EP
+G&W XK20 12EP $2420
 70m / 120m
 35%
 20 rds, 13x54mm (.50 cal) Magazine; Special Purpose Bullet, SPB
 62 / 67
 Due to the advanced bullet and mechanical research and development that went into the production of this prototype weapon, it has split damage for different ranges. Because of the large caliber round size, target takes penetrating damage.
 
-Frontier Plas-20 12EP
+Frontier Plas-20 $2810
 120m
 35%
 20 rds, Plas-20 Magazine; HO-SV / HO-LV / HO-HV
@@ -209,39 +200,6 @@ HO-HV treated like AP
 All ammo inflicts Plasma Burn
 
 ============================================================
-Long Rifles:
-Due to high velocities used in long rifle bullets, when a target is under the minimum engagement range, they take 20 less damage because of hit-pre-acceleration, PointBlank penetration, etc.
-Minimum 5 strength to carry. All targets are inflicted with "Pinned" condition when hit. Reload DC 30% unless otherwise noted. Reload time 3 Half Actions.
-============================================================
-
-G&W XK20 Mod 0 HE 14EP
-20-200m / 500m
-35%
-20 rds, 13x54mm HE (.50 cal) Magazine; SPB / SPB CS
-65 / 70
-Due to the advanced bullet and mechanical research and development that went into the production of this prototype weapon, it has split damage for different ranges. 
-In addition, the High Energy variant requires 1 action of charge up time.
-Because of the large caliber round size, target takes penetrating damage. Reload DC 26%, Reload time 2 Half Actions.
-Marksman only.
-
-Frontier Plas-5 HE (Minimum 6 strength to carry) 15EP
-30-1000m
-30%
-5 rds, Plas-5 Pack; HO-HE / HO-HV Incendiary
-65
-HO-HE contains High Energy plasma shots. These shots burst on impact, dealing Plasma Burns to targets within 5m at 80% chance.
-All ammo inflicts Plasma Burn.
-Reload time 2 Half ACtions
-
-Mathews BA .408 (minimum 6 strength to carry) 15EP
-40-150m / 20-2000m
-45% / 20%
-7 rds, .408 cal RMM special; AP / Incendiary
-80
-Due to the complex nature of this Special Purpose Rifle, it requires extensive military style training in order to unlock its full potential. If you do not have at least a skill level of 30 in sniping, you cannot fire this effectively, and take a +15% to accuracy from the low range.
-Penetrating Damage. Marksman Only. Minimum Level 10
-
-============================================================
 Heavy / Special Weapons:
 Heavy and Special weapons types require very specific and exotic ammunitions,
 and often require certain skillsets to be used. They come in many shapes and sizes,
@@ -249,7 +207,23 @@ but are generally medium to extra large in size.
 Minimum Strength 7 to carry, Reload DC 30% unless otherwise noted. Reload time 4 Half Actions.
 ============================================================
 
-"Incapacitator" Stun-barb gun 10EP
+Anvil Arms KMR $3470
+160m
+30%
+80 rds, 7.62 x 51mm Belt
+62, Bleed Damage
+Supporting Fire
+Minimum 7 Str to carry. 40% reload
+
+Mathews Model 240-B $3600
+160m
+25%
+80 rds, .308 RMM-Mag Belt
+60, Bleed damage.
+Supporting Fire
+Minimum 7 Str to carry. 40% reload.
+
+"Incapacitator" Stun-barb gun $2200
 This quad barrelled shotgun acts as a long-range tazer rifle. On trigger pull, an electrified barb is shot from each barrell.
 This gun has been outlawed in a lot of near-earth colonies for its tendency to inflict permanent physical damage,
 and in some cases, very heavy damage on the nervous system.
@@ -259,8 +233,9 @@ and in some cases, very heavy damage on the nervous system.
 10x 4 barbs (40 damage max)
 Target rolls a fort save against electric damage, dc of 80%. On fail, target takes additional 10 Shock damage per barb and is stunned for 2 turns.
 Target may make a medical roll to remove a barb. On a fail, target takes 5 damage per barb.
+Reload takes 2 half actions.
 
-Mathews TX-8 Rotary Grenade Launcher 18EP
+Mathews TX-8 Rotary Grenade Launcher $1470
 (Requires 6 STR)
 60m
 30%
@@ -273,7 +248,7 @@ PLAS: See Frontier Plasma Grenade.
 All rounds other than Smoke and CHEM can destroy 2m of light wall / light fortification.
 Usesr loads the TX-8 with up to 8 rounds. If they load different grenade types, they must note so. As a single action, you may break open the loading chamber and insert a round to be fired next. A full reload takes 3 actions, and a half reload takes 2 actions.
 
-L.I.S.C. (Laser Ionizing Shock Cannon) 12EP
+L.I.S.C. (Laser Ionizing Shock Cannon) $2700
 A powerful blue laser is used to ionioze the air between the user and their target. A complex array of mirrors additionaly ionizes the
 air around the target. The Cannon then lets loose 40,000 volts of electricity, which travels down the path of the laser, delivering
 painful theropy to the target, and anyone unfortunate enough to be nearby.
@@ -283,10 +258,18 @@ painful theropy to the target, and anyone unfortunate enough to be nearby.
 70 Shock damage to primary. 55 Shock damage to secondary.
 Requires one action to ionize the air before it can be shot.
 
-Frontier Directed Plasma Thrower 13EP
-motes of red light collect at the end of the barrel, 
+Frontier Directed Plasma Thrower $11,250
+(Requires STR 6 and int 6)
+motes of blue light collect at the end of the barrel, and a hellish barage of blue plasma is unleashed from the maw of this cannon.
+15m
+0%
+20 bursts or 30 seconds constant.
+Targets take 50 plasma damage and are dealt 5 turns of plasma damage.
+Takes 1 half action to charge and 1 half action to fire.
+The user may choose to continue firing for a number of turns, and doesn't need to pause to aim or charge up a shot when doing so.
+All targets in a line 1 meter wide from the user must pass a DC 80 Reflex saving throw.
 
-Frontier EMC-9 16EP
+Frontier EMC-9 $34000
 The Electro Magnetic Coilgun was a project developed by Frontier at their Mars base in the Sol system. It was capable of accelerating a .45 mm projectile to near Mach 3 speeds. The projectile, a nickel plated depleted uranium core devastates armoured and unarmoured targets alike. Due to the high amount of electricty it takes to fire off a round, it takes 1 full action to fire the weapon, then 2 full actions to recharge.
 1000m
 20%
@@ -330,7 +313,7 @@ Rocket Launchers
 All rocket launchers require a STR of 7 to carry or use.
 ---------------------------------------
 
-ECSC RPE-8 10EP
+ECSC RPE-8 $20,800
 The ECSC Rocket Propelled Explosive (8) is an anti-armour or anti-Material rocket propelled weapon. Its payload consists of a rocket propellent platform, which houses 8 micro explosives. These explosives launch at angle once they come within 10m of their target, spreading into a cone of explosive damage over a 10m area.
 80m
 35%
@@ -338,20 +321,54 @@ Single Shot, Rocket
 Against Armoured Vehicles and terrain: 100 Explosive damage spread over a 10m area. Will punch through up to 1 foot of concrete, rock, wood, or  other comparable materials for a 3m hole. WIll punch through 6in or less of steel, aluminum, titanium, etc. for a 1m hole. To specific armour targets, if the armor rating is 100 damage or less, the armor is destroyed.
 Against NPCs / PCs: Any target in a 5m radius of the impact site must pass a Reaction save at 80% to dodge or resist 75 Explosive damage. Targets that pass the check are dazed for 3 turns or until they can pass another FORT save at 80%.
 
-Anvil Arms AT-20 10EP
+Anvil Arms AT-20 $19,690
 The evolution of the simple and effective fire-and-forget RPG, the AT-20 packs a punch against personel as well as fortifications and armored vehicles.
 75m
 30%
 Single Shot, Rocket
-120 Explosive damage to a single armored target, or 120 damage to anyone in a 5m radius, unless they pass a Reaction save at 80%. Targets that pass the check are dazed for 3 turns or until they can pass another FORT save at 80%.
+120 Explosive damage to a single armored target, or 80 damage to anyone in a 5m radius, unless they pass a Reaction save at 80%. Targets that pass the check are dazed for 3 turns or until they can pass another FORT save at 80%.
 
-G&W SRAW 10EP
+G&W SRAW $30,000
 The G&W Short Range Assault Weapon utilizes a multi-function fragmentational warhead, which is just as effective against walls and bunkers as it is against personel. However, it lacks in armor piercing capabilities. The SRAW is equiped with a targeting computer, and will fly above its target before flying straight down ontop of the target. It also features a line-of-sight dumbfire mode.
-65m
+100m
 15%
 Single Shot, Rocket.
 Destroys up to 4m of wall, fortification, sandbag, etc.
-Against Personel, the SRAW deals d10*10 damage to anyone in a 5m radius, unless they pass a Reaction save at 80%. Targets that pass the check are dazed for 3 turns or until they can pass another FORT save at 80%.
+Against Personel, the SRAW deals d10*10 damage (reroll if d10<5) to anyone in a 5m radius, unless they pass a Reaction save at 80%. Targets that pass the check are dazed for 3 turns or until they can pass another FORT save at 80%.
+
+============================================================
+Long Rifles:
+Due to high velocities used in long rifle bullets, when a target is under the minimum engagement range, they take 20 less damage because of hit-pre-acceleration, PointBlank penetration, etc.
+Minimum 5 strength to carry. All targets are inflicted with Pinned condition when hit. Reload DC 30% unless otherwise noted. Reload time 3 Half Actions.
+============================================================
+
+G&W XK20 Mod 0 HE $11,380
+20-200m / 500m
+35%
+20 rds, 13x54mm HE (.50 cal) Magazine; SPB / SPB CS
+65 / 70
+Due to the advanced bullet and mechanical research and development that went into the production of this prototype weapon, it has split damage for different ranges. 
+In addition, the High Energy variant requires 1 action of charge up time.
+Because of the large caliber round size, target takes penetrating damage. Reload DC 26%, Reload time 2 Half Actions.
+Marksman only.
+
+Frontier Plas-5 HE (Minimum 6 strength to carry) $26,250
+30-1000m
+30%
+5 rds, Plas-5 Pack; HO-HE / HO-HV Incendiary
+65
+HO-HE contains High Energy plasma shots. These shots burst on impact, dealing Plasma Burns to targets within 5m at 80% chance.
+All ammo inflicts Plasma Burn.
+Reload time 2 Half ACtions
+
+Mathews BA .408 (minimum 6 strength to carry) $68,000
+40-150m / 20-2000m
+45% / 20%
+7 rds, .408 cal RMM special; AP / Incendiary
+80
+Due to the complex nature of this Special Purpose Rifle, it requires extensive military style training in order to unlock its full potential. If you do not have at least a skill level of 30 in sniping, you cannot fire this effectively, and take a +15% to accuracy from the low range.
+Penetrating Damage. Marksman Only. Target recieves Bleeding condition, DC 80
+
 
 //===================================================================
 //Copyright 2016 Taylor Rowland

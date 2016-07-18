@@ -7,21 +7,21 @@ Effects:
 Capacitant Shield (CS) burn: d10/2 damage for 2 turns (Does not stack). +5 dam against robotic units.
 ============================================================
 
-Hand to Hand (untrained): 0EP
+Hand to Hand (untrained): (free)
 Adjacent
 55%
 10 + STR
 
-Hand to Hand (Trained): 0EP
+Hand to Hand (Trained): (free)
 Adjacent
 40%
 30+(STR or DEX)
 20% disarm (unless weapon is attached via sling, etc.)
 
-Hand to Hand (Expert): N/A, 0EP if specialist
+Hand to Hand (Expert): N/A, (free if specialist)
 2m
 25%
-8 * (STR or DEX)
+50 + (STR or DEX)
 50% disarm (unless weapon is part of target). Can use disarm to grapple an opponent using their weapon's sling.
 
 Edged Weapons:
@@ -80,13 +80,13 @@ Pistols:
 Minimum Strength 2, Reload DC 20 unless otherwise noted. With DEX less than 5, Single Action revolvers must be re-cocked as a half action. Reload time 2 Half Actions
 ============================================================
 
-ECSC Mk9 Auto 1EP
+ECSC Mk9 Auto $460
 30 m
 25%
 11 rds, 9mm Magazine / HP
 41
 
-Mathews Model 19 1EP
+Mathews Model 19 $322
 20 m
 30%
 6 rds, .357; FMJ / HP
@@ -94,19 +94,19 @@ Mathews Model 19 1EP
 Reload 23%
 Single Action Revolver: cannot be fired as a free action.
 
-ECSC Mk26 Auto 1EP
+ECSC Mk26 Auto $490
 35 m
 35%
 15 rds, .40 Magazine; FMJ / CS
 43
 
-CZ 75 P01 2EP
+CZ 75 P01 $572
 40m
 35%
 15rds, 10mm Magazine; FMJ / HP
 44
 
-Mathews Model 25 2EP
+Mathews Model 25 $490
 30 m
 30%
 6 rds, .45 Long; FMJ / AP
@@ -114,19 +114,19 @@ Mathews Model 25 2EP
 Reload 23%
 Single Action Revolver: cannot be fired as a free action.
 
-G&W 10mm Auto 2EP
+G&W 10mm Auto $500
 35 m
 35%
 15 rds, 10mm Magazine; CS
 44
 
-Anvil Armament P-45 2EP
+Anvil Armament P-45 $611
 40 m
 35%
 12 rds, .45 Auto; FMJ / HP
 47
 
-Mathews Model 24 3EP
+Mathews Model 24 $910
 50 m
 30%
 6 rds, .44 Magnum; FMJ / HP / AP
@@ -134,7 +134,7 @@ Mathews Model 24 3EP
 Reload 23%
 Single Action Revolver: cannot be fired as a free action.
 
-Frontier Plas-8 5EP
+Frontier Plas-8 $1060
 45 m
 30%
 8 rds, Plas-8 packs; LO-SV / HO-SV / LO-HV
@@ -150,32 +150,32 @@ Capable of high rates of fire, but utilizing lighter calibers than a traditional
 Minimum Strength 4, Reload DC 25% unless otherwise noted. Reload time 2 Half Actions.
 ============================================================
 
-ECSC Mk9 MP 8EP
+ECSC Mk9 MP $650
 45 m
 30%
 33 rds, 9mm Magazine / HP
 41
 
-ECSC Mk7 PDW 8EP
+ECSC Mk7 PDW $740
 60m
 40%
 25rds 9mm / HP
 41
 
-G&W XMP 30 9EP
+G&W XMP 30 $910
 65m
 35%
 30rds, .40 RMM / HP
 43
 
-Frontier 240M 10EP
+Frontier 240M $1000
 With an innovative bolt design that rotates down 60 degrees after firing, the 240M is able to retain impressive accuracy due to decreased muzzle rise, even at high rates of fire.
 65m
 30%
 20rds 10mm
 44
 
-Mathews Light Repeating Rifle 11EP
+Mathews Light Repeating Rifle $780
 60m
 45%
 32 rds, .45 FMJ / HP
@@ -229,39 +229,39 @@ penalty. Reload DC 25%. Each mag pouch in a peice of armor holds 8 shells.
 Carbines & Battle Rifles
 Minimum Strength 5, Reload DC 25% unless otherwise noted. Reload time 2 Half Actions
 ============================================================
-Mathews .357 Carbine 5EP
+Mathews .357 Carbine $1120
 75m
 35%
 15rds, .357; FMJ / AP / HP
 46
 All rounds are available in a .357 Mag. version, which increases the base damage by 5, but increases the cost of each magazine by 1EP
 
-Mathews M-01 Carbine 6EP
+Mathews M-01 Carbine $1400
 85m
 40%
 20rds, .30 Carbine; FMJ / AP
 55
 
-Anvil Arms C25 6EP
+Anvil Arms C25 $1320
 80m
 40%
 25rds, 6.78x39mm; FMJ / Tracer
 55
 
-ECSC Mk28 7EP
+ECSC Mk28 $1310
 75m
 30%
 30 rds, 5.56x45mm Rifle Magazine; FMJ / HP
 50
 CQB rifle
 
-Mathews SK0 8EP
+Mathews SK0 $1560
 100m
 40%
 20 rds, .223 ECSC; FMJ / HP
 52
 
-G&W FBR-C 9EP
+G&W FBR-C $2390
 110m
 30%
 30 rds, 7.62x51mm Rifle Magazine; FMJ / AP
@@ -272,26 +272,26 @@ Assault Rifles:
 Minimum Strength 5, Reload DC 25% unless otherwise noted. Reload time 2 Half Actions
 ============================================================
 
-Anvil Arms AR-74 8EP
+Anvil Arms AR-74 $1710
 100m
 40%
 30 rds, 7.62x45mm Rifle Magazine; FMJ / AP / Incendiary
 57
 
-Anvil Arms AR-68 8EP
+Anvil Arms AR-68 $1480
 80m
 35%
 30 rds, 6.78x39mm Rifle Magazine; FMJ / HP / CS
 57
 
-ECSC Mk16 8EP
+ECSC Mk16 $2100
 120m
 30%
 30 rds, 5.56x45mm Rifle Magazine; FMJ / Tracer
 50
 Tracer inflicts 1 turn of bleed damage.
 
-G&W FBR 9EP
+G&W FBR $2600
 120m
 30%
 30 rds, 7.62x51mm Rifle Magazine; FMJ / AP
@@ -304,7 +304,7 @@ Heavy Weapons:
 Reload DC 40%, strength required 5 unless otherwise stated.
 A full action to reload unless otherwise stated.
 ============================================================
-ECSC Mk249B 10EP
+ECSC Mk249 $1950
 Requires strength of 7 to carry
 120m
 35%
@@ -352,28 +352,28 @@ On all engagements farther than 200m, you must take 1 Full Action to adjust your
 Minimum 5 strength to carry. All targets are inflicted with "Pinned" condition when hit. Reload DC 30% unless otherwise noted. Reload time 3 Half Actions.
 ============================================================
 
-Anvil Arms SR-150 10EP
+Anvil Arms SR-150 $5440
 20-200m
 20%
 5 rds, 7.62x54R; FMJ / AP
 68
 Bolt action: take 1 action to chamber round, 1 action to fire.
 
-ECSC Mk12 Mod 0 9EP
+ECSC Mk12 Mod 0 $3500
 20-200m
 30%
 20 rds, 5.56x45mm Rifle Magazine; FMJ
 50
 Reload DC 25%, 2Half Actions
 
-Anvil Arms SR-250 10EP
+Anvil Arms SR-250 $8160
 30-300m
 20%
 5rds, 7.62x54R; FMJ / AP
 68
 Bolt Action: take 1 action to fire, 1 action to chamber a new round.
 
-ECSC PRS 13EP
+ECSC PRS $8000
 10-150m
 25%
 5 rds, .300 Blackout; FMJ / AP

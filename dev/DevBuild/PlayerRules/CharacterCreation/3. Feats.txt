@@ -4,6 +4,10 @@ Michael
 Passive Feats
 ====================
 
+Backstab:
+Prerequisites: Level 3 and higher Assassins and Monks.
+Any damage dealt to an opponent from behind deals Extra-Crit damage.
+
 Blind Fire: 
 Prerequisites:
 There are so many bullets flying, you'd rather not peak your head out to look at your enemy. +65% firing Penalty, fire from a Hunkered position. Remove any buffs from Assisstance atachments, Aiming Attachments, and slings. (its reccomended to calculate this separate accuracy and write it down next to your regular accuracy)
@@ -38,7 +42,7 @@ As a free action, you can use any keyboard, terminal or monitor to perform a bas
 
 First Shot Counts: 
 Prerequisites:
-When reloading, if you Critically succeed, the first round out of that magazine deals Double-Crit damage.
+When reloading, if you Critically succeed, the first round out of that magazine deals Extra-Crit damage.
 
 Focus Energy: 
 Prerequisites:
@@ -55,6 +59,10 @@ The last shot in every mag deals Double-Crit damage, but your reload DC is twice
 Kata: 
 Prerequisites: Level 10 or higher
 Whenever you land a successful melee hit against someone, you may roll for X additional attacks, where X is your LVL. Each additional attack has 20% lower chance to hit than the previous hit. (A 4th level character making their 3rd strike in a row would be rolling at +40% miss chance).
+
+Monk:
+Prerequisites: Level 7 or higher
+Able to use full damage for lethal strikes with hand to hand.
 
 Nanite Concentration:
 Prerequisites: Level 5
@@ -86,7 +94,7 @@ Prerequisites: <3 CHA and >8 INT
 Your character has something going for them. You may ask the GM how many bullets each opponent has left in their weapon.
 
 Run 'N' Gun: 
-Prerequisites: PER > 6
+Prerequisites: PER > 6, DEX > 6 or Soldier, Specialist classes.
 you may move at half speed while firing. +10% accuracy. If this feat is performed while sprinting, half your movment speed before you add the 2m from sprinting. The accuracy penalties stack. 
 
 Signature Move: 
@@ -139,7 +147,7 @@ Any time that someone would be suspicious of your actions, they will be less lik
 
 Wealthy Sponsor: 
 Prerequisites:
-Roll a number of dice equal to your LUK / 5 (round up) + 1 and take the result divided by 2 in extra EP, or take the average of the result (1d10 = 3, 2d10 = 6, can be taken twice).
+Gain LUK * Lvl * 750 credits.
 
 Weapon Familiarization (can be taken once): 
 Prerequisites:

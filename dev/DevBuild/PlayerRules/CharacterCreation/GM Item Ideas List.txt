@@ -1,0 +1,5 @@
+/*=======================================
+ * The purpose of this document is to provide GMs with some interesting ideas for player items
+ *=====================================*/
+
+ Passive Camoflage clock: Add 30 to 50 (depending on level recieved) to stealth checks, and do not take a penalty from stealthing in plain sight.
