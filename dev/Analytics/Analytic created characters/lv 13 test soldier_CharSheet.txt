@@ -6,27 +6,27 @@ Physical Description:
 Looks like a dude with a gun
 
 
-Lv:				13
+Lv:				5 (go to 13)
 Class: 			Soldier
-Health: 		50 + (FORT*10) (7 fort = 120 health. 1 fort = 60 health)
-Nanites: 		50 + (10*int) (9 int = 140 nanites. 3 int = 80 nanites)
-Armor type: 	(write the size and level, ex "Medium Lvl 4+")
+Health: 		130/130
+Nanites: 		90/90
+Armor type: 	
 Percent Hit:	
-D.R.
-Nanite Health: (For nanite sheilds)
+Dmg redux:		
+Nanite Health: 	none
 ==STATS== //Assuming 6 average for Human race. Other races, subtract 2 points for average stats.
-STR || 6 
+STR || 8 
 PER || 6
-FOR || 6
-CHA || 6
-INT || 6
+FOR || 8
+CHA || 5
+INT || 4
 DEX || 6
-LUK || 6
+LUK || 5
 ========
 SAVING THROWS:
-WIL || 12 //2*(CHA + FOR - 6)
-SHK || 12 //2*(INT + FOR - 6)
-REF || 12 //2*(DEX + PER - 6)
+WIL || 14
+SHK || 12
+REF || 12
 ========
 Weapons: (See weapons Document. You may carry 1 primary, one secondary, and one melee)
 ========
@@ -43,12 +43,31 @@ Percent Hit:
 Damage:
 Misc.:
 + Attachment and effect
+		==============================
+				Feats:
+		==============================
+Quickdraw
+6th sense
+Flashdance
+It'll heal
 
-Feats:
+		==============================
+				Skills:
+		==============================
+Door Kick					10
+Rifle Skills				10
+Hyperdrive jump				10
+Pumping iron				10
+Holding liquer				10
+Scuba diving				8
+underwater basket weaving 	8
+Go playing					8
+If you level up INT on level 5, do you get the extra 2 skill points? 10
 
-Skills:
-Pick 5 skills, put a 10 next to each.
 
-Inventory:
-Pick up to 2 RP items (Cigs, dog dags, Sister's skull, etc.)
 
+		==============================
+				Inventory:
+		==============================
+helmet with ace card in it
+flask of gin
