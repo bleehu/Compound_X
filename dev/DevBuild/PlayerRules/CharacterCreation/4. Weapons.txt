@@ -44,15 +44,15 @@ Adjacent
 CS Edged Knife: 3EP
 Adjacent
 40%
-9 * (STR or DEX) + CS burn
-Ignore armor percents, but armor does deal D.R. Inflict CS burn. If target has Capacitant Shield armor, all damage is inflicted to the armor, unless the armor is completely discharged.
+7 * (STR or DEX) + CS burn
+Ignore armour percents, Inflict CS burn. If target has Capacitant Shield armour, CS burn is canceled and all damage is inflicted to the shield, unless the shield is completely discharged.
 
 
 CS Edged Combat Sword: 4EP
 1m
 35%
-9*(STR) + 10 + CS Burn
-Ignore armor percents, but armor does deal D.R. Inflict CS burn. If target has Capacitant Shield armor, CS burn is canceled and all damage is inflicted to the armor, unless the armor is completely discharged
+7*(STR) + 10 + CS Burn
+Ignore armour percents, Inflict CS burn. If target has Capacitant Shield armour, CS burn is canceled and all damage is inflicted to the shield, unless the shield is completely discharged
 
 =============================================================================  
 \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \

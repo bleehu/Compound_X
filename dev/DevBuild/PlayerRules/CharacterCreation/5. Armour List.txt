@@ -1,173 +1,181 @@
-Armor List:
-Concealed Armour
-Light Armour
-Medium Armour
-Heavy Armour
-Full Armour
-Cloaking Armour
-Customizble Armour
+/*
+ * Armour Document
+ * This document lists the armours available to characters in standard campaigns.
+ * Standard Balistic Armours
+ *	 - Concealed
+ *	 - Recon
+ *	 - Light
+ * 	 - Medium
+ * 	 - Heavy
+ * 	 - Full
+ * Shield Units
+ *	 - Light
+ *	 - Medium
+ *	 - Heavy
+ * Shielded Armour
+ *	 - Medium
+ *	 - Heavy
+ * NAnite Cloaking Armour
+ */
 
-==============================
-Concealed Armour: Concealed armour is less effective at covering up your vital regions than medium armour, but you are able to hide the presence of body armour under flowing robes, a jacket, etc.
-==============================
+/*========================================
+ * STANDARD BALISTIC ARMOURS
+ *======================================*/
 
-Level 2 3EP
-15 DR
-30%
-3 Prim. Mags, 1 Secondary Mag.
-1 grenade clip
+Any n+ level of protection, the amount of Damage Reduction (DR) is rolled at the time of purchase. A level 4+ armour plate might be anywhere from 16-25 DR for its lifetime, depending on what you roll when you purchase it. These armours are a bit of a gamble, since they may provide better protection than the next tier up, or they might only provide marginally better protection than the last tier.
 
-Level 3+ 5EP
-15 + d10 DR
-30%
-3 Prim. Mags, 1 Secondary Mag.
-1 grenade clip
+//////////////////////
+//Concealed Setups
+//Offering slightly worse protection and armament for the price, but with
+//the bonus of being concealable under a coat or jacket for clandestine or
+//stealth oriented operations.
+    
+    Runner''s Kit 20EP, $20
+        Conceal Rig, Shoulder Harness
+            Pistol Holster, 2 Pistol mags
+            cannot be worn with plate carriers, soft armour, or tactical vests.
+        
+    Gunner Kit 50EP, $50
+        Trauma Plate Vest
+            Holds 1 trauma plate in the front. 35% coverage, 20 DR. Concealable.
+        Conceal Rig, Shoulder Harness
+            Pistol Holster, 2 Pistol mags
+            cannot be worn with plate carriers, soft armour, or tactical vests.
+    
+    Enforcer Kit 60EP $60
+        Trauma Plate Vest
+            Holds 1 trauma plate in the front. 35% coverage, 20 DR. Concealable.
+        Conceal Rig, Waist
+            Pistol Holster or 2 primary mags, 2 secondary mags
+    
+    Clandestine Ops Kit 80EP, $80
+        Trauma Plate Vest
+            Holds 1 trauma plate in the front. 35% coverage, 20 DR. Concealable.
+        Conceal Rig, Waist
+            Pistol Holster or 2 primary mags, 2 secondary mags
+        Conceal Rig, Shoulder Harness
+            Pistol Holster, 2 Pistol mags
+            cannot be worn with plate carriers, soft armour, or tactical vests.
+    
+///////////////////////////////////////////////////////////////////////////
+//Recon Armour Setups:
+//Tactical Vest with soft armour underneath. Soft armour must be repaired
+//or replaced after every 4 missions / conflicts / battles (assuming damage
+// received during each)
+//3 primary mags, 2 secondary mags, 1 grenade.
+    
+    Level 2 40EP, $40
+        60%
+        10 DR
+    
+    Level 3 50EP, $45
+        60%
+        15 DR
+    
+    Level 3+ 55EP, $50
+        60%
+        10 + d10 DR
+    
+///////////////////////////////////////////////////////////////////////////
+//Light Armour Setups:
+//A "Chest Rig" which holds one front plate and some gear.
+//4 primary mags, 4 of combined secondary mags and grenades.
+    
+    Level 2 50EP, $60
+        30%
+        10 DR
+    
+    Level 2+ 55EP, $65
+        30%
+        5 + d10 DR
+        
+    Level 3 60EP, $70
+        30%
+        15 DR
+    
+    Level 3+ 65EP, $75
+        30%
+        10 + d10 DR
+    
+///////////////////////////////////////////////////////////////////////////
+//Medium Armour Setups:
+//A smaller plate carrier which holds a moderate amount of gear.
+//6 primary mags, 5 of combined secondary mags and grenades.
+    
+    Level 3 90EP, $150
+        60%
+        15 DR
+        
+    Level 3+ 95EP, $160
+        60%
+        10 + d10 DR
+        
+    Level 4 100EP, $170
+        60%
+        20 DR
+        
+    Level 4+105EP,  $180
+        60%
+        15 + d10 DR
+    
+///////////////////////////////////////////////////////////////////////////
+//Heavy Armour Setups:
+//A hefty plate carrier which holds front, back and side plates as well as
+//extended amounts of gear.
+//8 primary mags, 6 of combined secondary mags and grenades.
+//With side plates included (any armour listed as 80% coverage) take a -1m movement speed penalty.
+    
+    Level 3 100EP, $180
+        60%
+        15 DR
+        
+    Level 3 100EP, $195
+        80%
+        15 DR
+        
+    Level 3+ 105EP, $190
+        60%
+        10 + d10 DR
+        
+    Level 3+ 105EP, $200
+        80%
+        10 + d10 DR
+        
+    Level 4 110EP, $200
+        60%
+        20 DR
+        
+    Level 4 110EP, $220
+        80% 
+        20 DR
+        
+    Level 4+ 115EP, $210
+        60%
+        15 + d10 DR
+        
+    Level 4+ 115EP, $230
+        80%
+        15 + d10 DR
+        
+    Level 5 120EP, $220
+        60%
+        25 DR
+        
+    Level 5 120EP, $245
+        80%
+        25 DR
+        
+    Level 5+ 125EP, $230
+        60%
+        20 + d10 DR
+        
+    Level 5+ 125EP, $250
+        80%
+        20 + d10 DR
 
-Heavy:
-
-Level 3 8EP
-20 DR
-45%
-3 Prim. Mags, 1 Secondary Mag.
-1 grenade clip
-
-Level 4+ 10EP
-23 + d10 DR
-45%
-3 Prim. Mags, 1 Secondary Mag.
-1 grenade clip
-
-==============================
-Light Armor: Covers the front of your chest, part of the abdomen. 1 single plate.
-==============================
-
-Level 1 0EP
-10 DR
-30%
-3 Prim. Mags, 1 Secondary Mag.
-2 grenade clips
-
-Level 2 1EP
-15 DR
-35%
-3 Prim. Mags, 1 Secondary Mag.
-2 grenade clips
-
-Grenadier''s Bandolier 2 EP
-0 DR
-0%
-2 Prim. Mags, 1 Secondary Mag.
-5 grenade clips
-
-Level 3 2EP
-20 DR
-35%
-3 Prim. Mags, 1 Secondary Mag.
-2 grenade clips
-
-==============================
-Medium Armor: Covers the front of your chest, and your back. 2 single plates.
-==============================
-
-Level 2A 2EP
-15 DR
-55%
-5 Prim. Mags, 3 Secondary Mag.
-2 grenade clips
-
-Level 2 3EP
-10 + d10 DR
-55%
-5 Prim. Mags, 3 Secondary Mag.
-2 grenade clips
-
-Level 3A 4EP
-20 DR
-55%
-5 Prim. Mags, 3 Secondary Mag.
-2 grenade clips
-
-Level 3 5EP
-15 + d10 DR
-55%
-5 Prim. Mags, 3 Secondary Mag.
-2 grenade clips
-
-Level 4 6EP
-25 DR
-55%
-5 Prim. Mags, 3 Secondary Mag.
-2 grenade clips
-
-Class A Capacitant Shielding 8EP
-Nanites/2 used as Health bar for shield. Regenerate 25 CS per turn of no-hit.
-10 DR
-60%
-5 Prim. Mags, 3 Secondary Mag.
-2 grenade clips
-
-Class B Capacitant Shielding 10EP
-Nanites/2 used as Health bar for shield. Regenerate 50 CS per turn of no-hit.
-15 DR
-60%
-5 Prim. Mags, 3 Secondary Mag.
-2 grenade clips
-
-==============================
-Heavy Armor: Covers the front of your chest, your back, your sides.
-==============================
-
-Level 3A 6EP
-20 DR
-70%
-8 Prim. Mags, 4 Secondary Mag.
-3 grenade clips
-
-Level 3 7EP
-15 + d10 DR
-70%
-8 Prim. Mags, 4 Secondary Mag.
-3 grenade clips
-
-Mad Bomber''s Bandolier  7 EP
-10 DR
-40%
-3 Prim. Mags, 2 Secondary Mag.
-8 grenade clips
-
-Level 4 8EP
-25 DR
-70%
-8 Prim. Mags, 4 Secondary Mag.
-3 grenade clips
-This armor is really heavy. It slows down your move speed by 1m.
-
-Level 4+ 9EP
-23 + d10 DR
-70%
-8 Prim. Mags, 4 Secondary Mag.
-4 grenade clips
-This armor is really heavy. It slows down your move speed by 1m.
-
-Class B Capacitant Shielding 12EP
-Nanites/2 used as Health bar for shield. Regenerate 50 CS per turn of no-hit.
-15 DR
-75%
-8 Prim. Mags, 4 Secondary Mag.
-3 grenade clips
-This armor is really heavy. It slows down your move speed by 1m.
-
-Class C Capacitant Shielding 16EP
-Nanites used as Health bar for shield. Regenerate 50 CS per turn of no-hit.
-20 DR
-75%
-8 Prim. Mags, 4 Secondary Mag.
-3 grenade clips
-This armor is really heavy. It slows down your move speed by 1m.
-
-==============================
-Full Armor: Covers the front of your chest, your back, your sides, shoulders, neck, pelvic region, and tops of your legs.
-==============================
+///////////////////////////////////////////////////////////////////////////
+//Full Armor:
+//Covers the front of your chest, your back, your sides, shoulders, neck, pelvic region, and tops of your legs.
 
 EOD Level 5 armor 20EP
 30 DR
@@ -201,13 +209,13 @@ Nanites used as Health bar for shield. Regenerate 50 CS per turn of no-hit.
 3 grenade clips
 This armor is really heavy. It slows down your move speed by 2m.
 
-==============================
-Nanite Cloaking Armour
-Devote a Portion of your nanite pool to a clocking pool.
-Lvl 1-5 expend 15 Nanites per cloak turn. Lvl 6+ 10 Nanites.
-Max Turns of cloak = Lvl +1; Cloaking becomes available after waiting 4 Actions.
-Cloaking grants the wearer stealth at a DC of 50. However, when a player cloaks, enemies will not see them unless they are actively looking for the wearer. For enemies that saw the wearer cloak, the DC is 25 less.
-==============================
+/*========================================
+ * NANITE CLOAKING ARMOURS
+ * Devote a Portion of your nanite pool to a clocking pool.
+ * Lvl 1-5 expend 15 Nanites per cloak turn. Lvl 6+ 10 Nanites.
+ * Max Turns of cloak = Lvl +1; Cloaking becomes available after waiting 4 Actions.
+ * Cloaking grants the wearer stealth at a DC of 50. However, when a player cloaks, enemies will not see them unless they are actively looking for the wearer. For enemies that saw the wearer cloak, the DC is 25 less.
+ *======================================*/
 
 Basic Cloaking Suit 25EP
 5 DR
@@ -242,81 +250,6 @@ Expend 10 extra Nanites per turn.
 Charge-Up time 5 actions.
 Cloaking DR is 30, uncloaked DR is 15
 30%
-
-==============================
-Customizable Armour: Each base has an amount of MOLLE real-estate. Each pouch has an amount of space it takes up. You can put on as many pouches as you can fit in any configuration you wish.
-==============================
-Add an amount of EP equal to the Protection Level you selct for the armour plate.
-D.R. = 5+ 5*Protetion Level. No half levels available (only 1, 2, 3, 4, no 2a, 3a, and no 3+ or 4+)
-Add 6 EP +2 per level of capacitive shielding. (Level C C.Shielding would add 12 EP)
-
-Light Base 2EP
-35%
-
-Medium Base 4EP
-55%
-
-Heavy Base 6EP
-70%
-
-Pouches:
-	//AR/Carbine/Magfed Shotgun pouches
-	Primary Mag Pouch (AR/Carbine):
-	2x4 space, 1 Mag. Can stack 1 "single" pouch on base pouch (would allow for 2 mags to reside in a 2x4 space, or say, you could weave a chemlight into the front of a mag pouch.)
-
-	Primary Double Mag Pouch (AR/Carbine):
-	4x4 space, 2 Mags. Can stack 1 "single" pouch on base pouch.
-
-	Primary Mag pouch, Double (AR/Carbine):
-	2x4 space, 2 Mags.
-
-	Primary Double Mag Pouch, Double (AR/Carbine):
-	4x4 space, 4 Mags.
-
-	Primary Triple Mag Pouch (AR/Carbine):
-	6x4 space, 3 Mags. Can stack 1 "single" pouch on base pouch.
-
-	Primary Triple Mag Pouch, Double (AR/Carbine):
-	6x4 space, 6 Mags.
-
-	//SMG pouches
-	Primary Mag Pouch (SMG):
-	2x4 space, 2 Mags. Can stack 1 "single" pouch on base pouch.
-
-	Primary Double Mag Pouch (SMG):
-	4x4 space, 4 Mags. Can stack 1 "single" pouch on base pouch.
-
-	Primary Triple Mag Pouch (SMG):
-	6x4 space, 6 Mags. Can stack 1 "single" pouch on base pouch.
-
-	Primary Mag Pouch, Double (SMG):
-	2x4 space, 4 Mags.
-
-	Primary Double Mag Pouch, Double (SMG):
-	4x4 space, 8 Mags.
-
-	Primary Triple Mag Pouch, Double (SMG):
-	6x4 space, 12 Mags.
-
-	//Shotgun shell pouches are like a taco, the back side attaches to the vest, the front side can be flipped down, exposing the shells inside.
-	Primary Mag Pouch (Shotgun):
-	2x4 space, 12 shells
-	Primary Double Mag Pouch (Shotgun):
-	4x4 space, 24 shells
-	Primary Triple Mag Pouch (Shotgun): 
-	6x4 space, 36 shells
-
-
-
-
-	Primary Mag Pouch
-	Primary Double Mag Pouch
-	Primary Triple Mag Pouch
-	Primary Mag Pouch, Double
-	Primary Double Mag Pouch, Double
-	Primary Triple Mag Pouch, Double
-
-
 
 //===================================================================
 //Copyright 2016 Taylor Rowland

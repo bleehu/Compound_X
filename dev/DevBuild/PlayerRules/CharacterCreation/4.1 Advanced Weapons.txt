@@ -6,12 +6,18 @@ Effects:
 Capacitant Shield (CS) burn: d10/2 damage for 2 turns (Does not stack). +5 dam against robotic units.
 ============================================================
 
-Grabber Knife 4EP
+Grabber Knife 
 This knife is designed in such a way as to aid its user in grabbing the enemy. It has a large barb at the tip, is hook shaped, etc.
 Whenever you roll a successful grappling check, you may deal STR * 3 or DEX * 3 damage to your opponent.
 Adjacent
 40%
 7 * (STR or DEX)
+
+CS Edged Katana
+1m
+50%
+40 + (6*DEX)
+Inflicts CS burn
 
 ============================================================
 Pistols:
@@ -368,6 +374,25 @@ Mathews BA .408 (minimum 6 strength to carry) $68,000
 80
 Due to the complex nature of this Special Purpose Rifle, it requires extensive military style training in order to unlock its full potential. If you do not have at least a skill level of 30 in sniping, you cannot fire this effectively, and take a +15% to accuracy from the low range.
 Penetrating Damage. Marksman Only. Target recieves Bleeding condition, DC 80
+
+
+============================================================
+Other Weapons:
+Weapons in this category are specialized and require special skill in the particular weapon. An example would be Bows, you must have skill with bows in order to use them. Feats which list damages for guns are not applicable to bows, etc.
+============================================================
+
+Composite Bow:
+STR*5 meters
+40% (Bow Use)
+50 + (2 * STR)
+A user may knock an arrow for a half action, and draw and release for a half action. You may also choose to draw the bow back and hold it to release an arrow as a free action at a future time. Users can hold the bow drawn for STR number of turns.
+
+Compound Bow:
+STR*5 meters
+30% (Bow Use)
+60 + (2 * STR)
+A user may knock an arrow for a half action, and draw and release for a half action. You may also choose to draw the bow back and hold it to release an arrow as a free action at a future time. Users can hold the bow drawn for STR number of turns.
+
 
 
 //===================================================================
