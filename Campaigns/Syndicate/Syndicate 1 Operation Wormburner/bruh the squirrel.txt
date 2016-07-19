@@ -1,0 +1,44 @@
+Bruh the Squirrel
+--------------------------------------------------
+This adorable brown flying squirrel loves freedom!
+
+Strength:		1
+Perception:		6
+Fortitude:		1
+Charisma:		4
+Intelligence:	4
+Dexterity:		8
+Luck:			0
+
+Loyalty:	3/5
+Happiness:	3/5
+
+25 health
+8 nanites
+0 shields
+0 EP
+
+Feats:
+* 6th sense
+* pipsqueak
+* extra normal
+
+Command: Chitter
+Indicates calm or passive action. 
+
+Command: Squeak
+Indicates aggression or affirmative action.
+
++30 to luck rolls
+
+Skills:
+20:		{secret}
+20:		{secret}
+20:		{secret}
+10:		{secret}
+
+completing a mission together adds a loyalty point. If this would push loyalty
+over the maximum, increase the maximum.
+Getting knocked out decreases loyalty by 2 and sets happiness to 2. 
+Being ignored for a long period of time reduces happiness and loyalty.
+Being cared for increases happiness and loyalty. 

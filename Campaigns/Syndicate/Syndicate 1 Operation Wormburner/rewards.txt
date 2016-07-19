@@ -1,0 +1,326 @@
+==================================================
+==================================================
+//	Reward loot drops 
+==================================================
+==================================================
+
+==================================================
+//	Weapons
+==================================================
+
+The Lost Revolver
+--------------------------------------------------
+A slightly tarnished 6-shot short barelled revolver with a polished wooden 
+handle and the Rigistruct logo stamped on the side of the barrel.
+
+Cost: 	2 EP
+Range: 	30 m
+Miss: 	30%
+Ammo:	6 rds, .45 Long; FMJ / AP
+Damage:	52
+Reload: 23%
+
+Single Action Revolver: cannot be fired as a free action.
+Rigistruct Built: halve the chance to jam or break.  
+
+Kalihan's 5.7 Operator
+--------------------------------------------------
+Pried from the cold, dead hands of a very cruel man.
+The matte black pistol is suprisingly light. No 
+bolt imprints or serial numbers. It's been modified
+by a pro. It's much lighter than you'd thought it'd 
+be
+
+cost:	4 EP
+Range:	80m
+Miss:	20%
+Ammo:	10 rds of 5.7 x 28mm baffled
+damage:	40 points
+
+Integrated improved suppressor and IR laser.
+Cannot be modified. Cannot share ammo.
++15 to CHA checks with contract killers
+
+--------------------------------------------------
+
+
+Kalihan's MAP-7SD
+--------------------------------------------------
+Pried from the cold, dead hands of a very cruel man.
+The matte black smg is suprisingly light. No 
+bolt imprints or serial numbers. It's been modified
+by a pro. It's much lighter than you'd thought it'd 
+be. Can be used easily one-handed.
+
+cost:	8 EP
+Range:	80m
+Miss:	30%
+Ammo:	25 rds of 5.7 x 28mm baffled
+damage:	48 points
+
+Integrated improved suppressor, Reflex sight and IR laser.
+Cannot be modified. Cannot share ammo.
++15 to CHA checks with contract killers
+
+--------------------------------------------------
+
+Strudwick x-18 Hydra
+--------------------------------------------------
+This simple, sturdy assault rifle has an experimental 
+hybrid reciever to accomidate a left, center and right 
+ammo clips. Polished cedar stock is a nice touch. 
+Requires strength 4 to carry.
+
+Cost: 	8 EP
+Range: 	110m
+Miss:	35%
+Ammo:	15x3 rds of 5.56x45mm
+Damage:	56 points
+
+Extra reliable; -10% chance to jam. Each clip must be
+reloaded seperately, but while loaded, which magazine
+is being fired from can be toggled as a free action.
+
+--------------------------------------------------
+
+Jigallab's Gambler
+--------------------------------------------------
+This assault rifle is mostly purple, appears to be
+made of plastic and is ... held together... with
+duct tape? Is this a joke?
+
+Cost: 	8 EP
+Range: 	110m
+Miss:	35%
+Ammo:	15x2 rds of 5.56x45mm
+Damage:	56 points
+
+Every 4th bullet fired out of the same clip has a 
+30 + (4 * Luck) chance to do 7 * n extra damage,
+where this is the 4 * nth bullet in the clip.
+Jigallab's Gambler has a permanent grenade launcher
+attatched to it. It must be loaded normaly, but 
+when it's fired, roll a d6.
+1 - a 5m radius of confetti bursts and rains down
+	doing nothing.
+2 - a 5m radius of smoke erupts from the target
+3 - a 7m radius of tear gas erupts from the target
+4 - an exploding sheep spawns at the target and 
+	snuzzles the nearest tango.
+5 - Chain lightning errupts from the point of impact
+	and recoursively jumps 5m from every 
+	strike point to the nearest enemy that hasn't
+	 been hit yet dealing 40 electric damage
+6 - a 10 m psuedonuclear explosion erupts from the
+	target. Dealing 110 damage and throwing
+	small objects out of the way.
+
+--------------------------------------------------
+==================================================
+//	Armor 
+==================================================
+
+Kalihan's Smokeout Armor
+--------------------------------------------------
+Type: 				Light
+Cost:				2 EP
+Damage Reduction:	25
+Coverage:			45%
+3 Primary Mags, 2 Secondary Mags
+4 Grenade Clips
++5 to stealth rolls
+
+==================================================
+//	Explosives
+==================================================
+
+Molotov Cocktail
+--------------------------------------------------
+Made with the shittiest booze on hand.
+
++ fills a 3m circle with fire
++ deals 40 damage on hit
++ deals 20 damage every turn a target is on fire
+
+range is 10 + 1.5 * strength bonus
+--------------------------------------------------
+
+
+==================================================
+//	Ammo 
+==================================================
+
+	Baffled Ammo
+--------------------------------------------------
+Reduces noise of bullet travel to zero and reduces noise of impact to a whisper.
+Zero RP cost, but bullets are made of an organic material that decays after two
+missions.
+
++ stealth rolls to hide silent weapons fire automatically succeed. 
++ a bullet impact can be heard if a character is within 5m of the impact, 
+	actively curious and makes a search check over DC 50.
+- reduces range by 10 m
+- reduces damage by 5
+
+--------------------------------------------------
+
+	Gluon Rounds
+--------------------------------------------------
+These rounds contain an incompressible, unshatterable Gluon matrix. These 
+rounds are manufactured by a luxury weapons corporation and are not available
+to the public or military. They occupy 3 RP per clip.
+
++ Pierces armor and shields, no damage reduction for peircing cover
+- after the tenth shot, 5% chance to jam weapon
+
+--------------------------------------------------
+
+	Shredder Ammo
+--------------------------------------------------
+Rounds splinter into hyperkinetic shrapnel upon impact. No RP cost,
+but Rounds loose hyperkenetic charge after 2 missions and then
+act like hollowpoints.
+
+- multiplies armor resistance of target by 2.5
++ deals an additional 40 damage on hits
+- reduces range by 10 m
+
+--------------------------------------------------
+
+	Short-circuit rounds
+--------------------------------------------------
+These rounds splinter into conductive metalic fragments soaked in piezoelectric
+resin. The effect is that it resonates and crosses any signaling hardware that it
+hits. However, these rounds trade this scrambling effect for penetration, and dont
+penetrate armor as well. Occupies 1 RP
+
+- If it hits armor or shields, it does no damage
++ deals an additional 60 damage on hits to security drones 
+- reduces range by 10 m
+
+--------------------------------------------------
+
+==================================================
+//	Items 
+==================================================
+
+Kalihan's IR Goggles
+--------------------------------------------------
+Matte black IR goggles that fit a little more comfortably than normal.
+The usual slight capacitive whine that IR goggles make when they switch
+on is muted, and they make no noise when you pull them on or take them off.
+The lenses have a slight purple tinge to them.
+
+Cost: 	3 EP
+Effect:	When turned on (half action), grants night vision and vision through
+smoke. Allows the wearer to see heat signatures through very thin obstructions
+(like a canvas tent wall) or see heat signatures at slightly greater range than 
+the standard IR goggles. Grants +5 to perception checks for enemies and to 
+tracking.
+
+==================================================
+//	Pets 
+==================================================
+
+Bruh the Squirrel
+--------------------------------------------------
+This adorable brown flying squirrel loves freedom!
+
+Strength:		1
+Perception:		6
+Fortitude:		1
+Charisma:		4
+Intelligence:	4
+Dexterity:		8
+Luck:			0
+
+Loyalty:	3/5
+Happiness:	3/5
+
+25 health
+8 nanites
+0 shields
+0 EP
+
+Feats:
+* 6th sense
+* pipsqueak
+* extra normal
+
+Command: Chitter
+Indicates calm or passive action. 
+>>> Loyalty > 4, Happiness > 4:
+	Your choice of three below. Or:
+	Roll Charisma. If DC check of 60 is passed, Bruh
+	builds a nest. Increase loyalty by 1.
+	
+>>> Loyalty > 4, Happiness > 2:
+	Roll Charisma. If passes DC 40, increase happiness.
+	Bruh finds the nearest food and shares it with you. 
+	
+>>> Loyalty > 2, Happiness > 4:
+	Roll charisma. If DC 40 is passed, increase happiness by 1. Bruh chitters
+	happily back, then chitters happily with a teammate. If that teammate 
+	passes a DC check of 40, increase loyalty by 1. The process contintues until
+	a teammate fails the roll, or 3 loyalty points are gained.
+
+>>> Loyalty > 2, Happiness > 2:
+	Roll charisma. If passes DC of 40, increase happiness.
+	Bruh curls up in pocket and takes a nap.
+	
+>>> Happiness < 2:
+	Bruh is displeased. Bruh Throws the nearest small object at your face to
+	express his unhappiness. Increase happiness, because violence is it's own
+	reward.
+
+>>> Loyalty < 2:
+	Bruh ignore you the first time this happens and collects nest building 
+	material in your pocket. Subsequent times this happens, he chitters back;
+	roll charisma. If a DC of 50 is passed, increase loyalty by 1.
+
+Command: Squeak
+Indicates aggression or affirmative action.
+>>> Loyalty > 4, Happiness > 4:
+	Your choice of the three below. Or Contextual. Spend one loyalty point.
+	
+>>> Loyalty > 4, Happiness > 2:
+	Roll Charisma. If passes a DC check of 60, picks pocket of nearest enemy.
+	Prioritizes things to make nests or shiny pins from enemies grenades.
+	Spend one loyalty point.
+	
+>>> Loyalty > 2, Happiness > 4:
+	Bruh pearches on your head.
+	Roll charisma. If passes a DC of 40, Bruh squeaks and rolls perception, 
+	then points at the nearest hidden object of interest.
+	
+>>> Loyalty > 2, Happiness > 2:
+	Bruh sees that you are throwing bullets and wants to throw them too.
+	He takes a third of the bullets out of one of your clips and begins to
+	fling them at enemies. Bruh rolls luck to see if this has any effect
+	what so ever. 
+	
+	
+>>> Happiness < 2:
+	Bruh takes his anger out by biting someone. Roll charisma. If a DC of
+	60 is passed, he bites a badguy. If DC is failed. He bites you. Add 
+	one happiness for catharsis. Bites do 20 damage. Bruh rolls luck if
+	biting enemy. If DC of 70 is passed, hillarity ensues. 
+	
+	
+>>> Loyalty < 2:
+	Bruh leaves you.
+
+
++30 to luck rolls
+
+Skills:
+20:		woodland survival
+20:		nest building
+20:		tracking
+10:		Freedom
+
+completing a mission together adds a loyalty point. If this would push loyalty
+over the maximum, increase the maximum.
+Getting knocked out decreases loyalty by 2 and sets happiness to 2. 
+Being ignored for a long period of time reduces happiness and loyalty.
+Being cared for increases happiness and loyalty. 
