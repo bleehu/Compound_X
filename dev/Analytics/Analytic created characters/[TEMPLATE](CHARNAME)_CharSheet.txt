@@ -9,10 +9,15 @@ Level:			xx
 Class: 			(See Class Document) [1] //Hunter [1]: Class is hunter, level 1
 Health: 		50 + (FORT*10) (7 fort = 120 health. 1 fort = 60 health)
 Nanites:		50 + (10*int) (9 int = 140 nanites. 3 int = 80 nanites)
+
 Armor type: 	(write the size and level, ex "Medium Lvl 4+")
-Percent Hit:	
-Dmg redux:		
+Percent Hit:		x%
+Dmg redux:			x
+Primary mags:		x mags
+Secondary Mags:		x mags
+Nade pouches:		x nades
 Nanite Health: 	(For nanite sheilds)
+
 ==STATS== //Assuming 6 average for Human race. Other races, subtract 2 points for average stats.
 STR || 6 
 PER || 6
@@ -33,6 +38,7 @@ Primary Name:
 Range:
 Percent Hit:
 Damage:
+Clip:
 Misc.:
 + Attachment and effect
 
@@ -40,6 +46,7 @@ Secondary Name:
 Range:
 Percent Hit:
 Damage:
+clip:
 Misc.:
 + Attachment and effect
 
@@ -57,3 +64,7 @@ Pick 5 skills, put a 10 next to each.
 		==============================
 Pick up to 2 RP items (Cigs, dog dags, Sister's skull, etc.)
 
+		==============================
+				Ledger:
+		==============================
+Game start 			+xxxx		=xxxx
