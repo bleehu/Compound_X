@@ -15,13 +15,13 @@ Adjacent
 Hand to Hand (Trained): (free)
 Adjacent
 40%
-30+(STR or DEX)
+30+(STR+ or DEX+)
 20% disarm (unless weapon is attached via sling, etc.)
 
 Hand to Hand (Expert): N/A, (free if specialist)
 2m
 25%
-50 + (STR or DEX)
+50 + (STR+ or DEX+)
 50% disarm (unless weapon is part of target). Can use disarm to grapple an opponent using their weapon's sling.
 
 Edged Weapons:

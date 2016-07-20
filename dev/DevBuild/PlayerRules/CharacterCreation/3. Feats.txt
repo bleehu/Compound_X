@@ -28,6 +28,10 @@ Conceal Weapon:
 Prerequisites:
 Make a stealth check to hide your chosen pistol, shotgun, or smg on your person. Minimum score of 20. Roll determines DC for enemy to actively search and find weapon.
 
+Cross-Train:
+Prerquisites: Int 8
+Instead of taking your regular Class feat on the next level, you may learn one from another class.
+
 Double Tap: 
 Prerequisites:
 Increase your crit range by 10%. Whenever your hit falls into crit range, expend an additional bullet in order to deal 2x crit damage. Only Useable with Semi-Auto or Full auto weapons. Not applicable to SA Revolvers, Bolt Action, Pump-Action, etc.
@@ -75,7 +79,7 @@ Allows the user to better concentrate on their expenditure of nanites, allowing 
 
 Nanite Regeneration: 
 Prerequisites:
-For every crit you score, restore your nanites by the amount of crit damage dealt.
+For every crit you score, restore your nanites by the amount of crit damage dealt. (10 nanites for standard crit, 20 for ex-crit)
 
 Point-man: 
 Prerequisites:
@@ -122,7 +126,7 @@ Prerequisites:
 Take a full action to breath slowly and line up your shot. -5% miss chance and +10m range each per level taken. Maximum 4 levels.
 
 Strong Back: 
-Prerequisites:
+Prerequisites: STR 7
 You've done a lot of lifting and hauling in your time, allowing you to carry more than some. Instead of a secondary weapon, you can carry another primary weapon.
 
 Suppression: 
