@@ -1,10 +1,10 @@
 
-============================================================
+//============================================================
 Melee Weapons:
 Round up for STR/2, I.E. 3 STR grants a 2, 5 grants a 3.
 Effects:
 Capacitant Shield (CS) burn: d10/2 damage for 2 turns (Does not stack). +5 dam against robotic units.
-============================================================
+//============================================================
 
 Grabber Knife 
 This knife is designed in such a way as to aid its user in grabbing the enemy. It has a large barb at the tip, is hook shaped, etc.

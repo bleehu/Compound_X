@@ -15,7 +15,7 @@
  * Shielded Armour
  *	 - Medium
  *	 - Heavy
- * NAnite Cloaking Armour
+ * Nanite Cloaking Armour
  */
 
 /*========================================

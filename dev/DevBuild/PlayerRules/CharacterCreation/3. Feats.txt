@@ -10,7 +10,7 @@ Any damage dealt to an opponent from behind deals Extra-Crit damage.
 
 Blind Fire: 
 Prerequisites:
-There are so many bullets flying, you'd rather not peak your head out to look at your enemy. +65% firing Penalty, fire from a Hunkered position. Remove any buffs from Assisstance atachments, Aiming Attachments, and slings. (its reccomended to calculate this separate accuracy and write it down next to your regular accuracy)
+There are so many bullets flying, you''d rather not peak your head out to look at your enemy. +65% firing Penalty, fire from a Hunkered position. Remove any buffs from Assisstance atachments, Aiming Attachments, and slings. (its reccomended to calculate this separate accuracy and write it down next to your regular accuracy)
 
 Combat Expertise [Guns]: 
 Prerequisites:
@@ -22,7 +22,7 @@ Prerequisites:
 
 Combat Expertise [Support]: 
 Prerequisites:
--15% to skill checks for class-related tasks. (if your class is medicine, this wouldn't apply to hacking, etc.). +5% to Guns or Melee in combat.
+-15% to skill checks for class-related tasks. (if your class is medicine, this wouldn''t apply to hacking, etc.). +5% to Guns or Melee in combat.
 
 Conceal Weapon: 
 Prerequisites:
