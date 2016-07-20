@@ -7,7 +7,7 @@ On selecting a class, you gain all of the passives listed, and get to choose bet
 
 "Soldier" - You have the blood of a warrior flowing through you. Your sole purpose is to fight until the threat is neutrilized.
 Passives: Gain Weapon Use(X) at 10
-Weapon Proficiencies: Carbines, Shotguns, Pistols, Heavy Weapons.
+Weapon Proficiencies: Carbines, Shotguns, Pistols, Assault Rifles.
 Armour Proficiencies: Light, Medium, Heavy.
 Class Feats:
 ----------------------
@@ -180,7 +180,7 @@ Armour Proficiencies: Medium, Heavy
 Feats:
 ----------------------
 Portable Shield:
-A shield can be projected from your off hand. When attacked, roll as if the shield were your armour, which has separate stats. 80% hit chance, 0 DR, 100 Nanite health. Requires the off hand be empty. Hit chance only applies when opponent is in front of the character. If an attak is coming from a flank or from behind, then ignore the Shield.
+A shield can be projected from your off hand. When attacked, roll as if the shield were your armour, which has separate stats. 80% hit chance, 0 DR, 100 Nanite health. Requires the off hand be empty. Hit chance only applies when opponent is in front of the character. If an attak is coming from a flank or from behind, then ignore the Shield. (Projects a tangible shield, not merely a CS field)
 |
 |
 |
