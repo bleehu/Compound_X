@@ -1,0 +1,73 @@
+Name: Test Soldier 76
+Description of Attitude, demenor, etc:
+Kinda stoic
+
+Physical Description: 
+Looks like a dude with a gun
+
+
+Lv:				5 (go to 13)
+Class: 			Soldier
+Health: 		130/130
+Nanites: 		90/90
+Armor type: 	
+Percent Hit:	
+Dmg redux:		
+Nanite Health: 	none
+==STATS== //Assuming 6 average for Human race. Other races, subtract 2 points for average stats.
+STR || 8 
+PER || 6
+FOR || 8
+CHA || 5
+INT || 4
+DEX || 6
+LUK || 5
+========
+SAVING THROWS:
+WIL || 14
+SHK || 12
+REF || 12
+========
+Weapons: (See weapons Document. You may carry 1 primary, one secondary, and one melee)
+========
+Primary Name:
+Range:
+Percent Hit:
+Damage:
+Misc.:
++ Attachment and effect
+
+Secondary Name:
+Range:
+Percent Hit:
+Damage:
+Misc.:
++ Attachment and effect
+		==============================
+				Feats:
+		==============================
+Quickdraw
+6th sense
+Flashdance
+It'll heal
+
+		==============================
+				Skills:
+		==============================
+Door Kick					10
+Rifle Skills				10
+Hyperdrive jump				10
+Pumping iron				10
+Holding liquer				10
+Scuba diving				8
+underwater basket weaving 	8
+Go playing					8
+If you level up INT on level 5, do you get the extra 2 skill points? 10
+
+
+
+		==============================
+				Inventory:
+		==============================
+helmet with ace card in it
+flask of gin
