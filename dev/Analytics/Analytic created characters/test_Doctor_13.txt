@@ -1,0 +1,86 @@
+Name: Test Doctor 7
+Description of Attitude, demenor, etc:
+Extra sarcastic.
+
+Physical Description: 
+Blonde lady with a bonesaw
+
+
+Lv:				13
+Class: 			Doctor
+Health: 		x/x
+Nanites: 		x/x
+
+Armor type: 		x
+Percent Hit:		x
+Dmg redux:			x
+Nanite Health: 		x
+Primary Mags:		x
+Secondary Mags:		x
+Nades:				0
+
+==STATS== 
+STR || 6 
+PER || 6
+FOR || 6
+CHA || 6
+INT || 6
+DEX || 6
+LUK || 6
+========
+SAVING THROWS:
+WIL || 14
+SHK || 12
+REF || 12
+========
+Weapons:
+========
+Primary Name:	x
+Range:			x
+Percent Hit:	x
+Damage:			x
+Clip:			x
+Misc.:			x
++ Attachment and effect
+
+Secondary Name: x
+Range:			x
+Percent Hit:	x
+Damage:			x
+Clip:			x
+Misc.:
++ Attachment and effect
+		==============================
+				Feats:
+		==============================
+x
+
+		==============================
+				Skills:
+		==============================
+x					10
+x				10
+x				10
+x				10
+x				10
+
+
+
+		==============================
+				Inventory:
+		==============================
+x
+
+		==============================
+				Malpractice Skills:
+		==============================
+		
+		==============================
+				Hipocratic Skills:
+		==============================
+
+		==============================
+				Ledger:
+		==============================
+Game start 			+2000		=2000
+Hazard pay (est)	+13*1000	=15000
