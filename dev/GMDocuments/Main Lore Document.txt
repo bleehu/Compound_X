@@ -9,9 +9,3 @@ The nearest colonies form an "inner ring," comprised of 7 planets within 15 LY f
 HARD contact: Hostile Alien Race Detected contact warning.
 FARLAND protocol: First Alien Race: Labled as Negative Disposition.
 FARLAND protocol enacted sends a "flash probe" back to the nearest Inner-Rim military instalation via a randomized coordinate jump in order to warn humanity of hostile contact. The enacting ship wipes all drive data of earth and ECCU colonies, all long-range transmissions are cut and nuclear self-destruct (primed to the captain's voice) is primed.
-
-//Session one notes
-story begins with breifing on oard the Excaliber, an ECSC class 3 battle crusier. /*see stats on "ship Stats" doc*/ The squad meets up in one of the Excaliber's four hangers. There are many small ship-ship defense fighters hanging on racks, and mechanics and technicians are racing around prepping various ships. one ship in particular has many technicians surrounding it. This is the Victory's Horizon, the civilian craft that the squad will use to insert into the space station.
-A surly looking officer walks on deck from one of the entrances, and someone shouts "Officer on deck!" nearby non-critical crew snap to attention and salute before he looks around, salutes and says casually "at ease."
-;The story so far
-}

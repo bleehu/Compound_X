@@ -332,7 +332,7 @@ Instead of rolling to hit based on oppenent armour + hand to hand skill, you onl
 |
 V
 Shadow Walk
-Roll a Knowlege [Nnaites] check, DC 50. You may teleport up to (Result-50)/10 meters. You may also roll stealth after emerging at no action cost. Movement in this manner is considered to take a half action, plus a half action for the skill check.
+Roll a Knowlege [Nnaites] check, DC 50. You may teleport up to (Result-50)/10 meters. You may also roll stealth after emerging at no action cost (exiting in stealth). Movement in this manner is considered to take a half action, plus a half action for the skill check. Monks still receive a penalty attack for performing a skill check in melee combat.
 
 
 /*

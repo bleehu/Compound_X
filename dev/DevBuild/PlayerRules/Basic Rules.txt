@@ -96,7 +96,7 @@ Player Weapon Customization:
 ==============================
 
 Weapon custimization can be done anytime you are in a town, space station, or other mercantile area. Ask the GM if there are weapon shops or kiosks around, they should point you to one. From there you can apply upgrades and attachments.
-THe GM may tell you specific attachments that are available, or they may say you can just go about your usual custimization. Only one attachment can be used per section (unless specifically stated in the item's description). 
+THe GM may tell you specific attachments that are available, or they may say you can just go about your usual custimization. Only one attachment can be used per section (unless specifically stated in the item''s description). 
 
 ==============================
 Combat:
@@ -107,7 +107,7 @@ Combat starts when either you or an enemy decides they would like to make an att
 Melee Notes:
 A character occupies 1m of space. however, as Compund X is not played out on a squares-board, usually it doesn't matter if two players are within the same 1m space.
 Two Players locked in melee combat are considered to be in adjacent 1m spaces, not in the same 1m space. Have you ever seen a fight? you don't start face-face unless you're at a bar.
-Generally speaking, once a character has initiated melee combat with another character, they are both considered to be in "melee combat," and occupy adjacent 1m spaces. At this point (unless one characteer has a cqb weapon) both characters are assumed to be using their fists or other melee weapons. If a character wishes to leave melee combat, they incur a "penalty attack." Characters also incur "penalty attacks" when moving through or next to an enemy character's 1m space, or within range of a melee weapon that the enemy has equipped.
+Generally speaking, once a character has initiated melee combat with another character, they are both considered to be in "melee combat," and occupy adjacent 1m spaces. At this point (unless one characteer has a cqb weapon) both characters are assumed to be using their fists or other melee weapons. If a character wishes to leave melee combat, they incur a "penalty attack." Characters also incur "penalty attacks" when moving through or next to an enemy character's 1m space, or within range of a melee weapon that the enemy has equipped, and when performing a skill check when in melee combat.
 Melee combat is relatively simple. To hit an enemy player, add your dexterity or strength modifier to a roll, plus any relevant skill. The result must be greater than the opponent's DEX * 5 + any skill in combat (Guard DC). Your damage dealt is based on your DEX or STR modifier. If you are weilding a weapon against an unarmed opponent, they may still incur damage depending on their skill.
 A character may grapple another character when they are both in melee distance. Doing so provides the grappled player a "penalty attack" on the grapling player. During grappling, both sides roll opposing grapple checks to see who maintains control. Once you have control you may make a grapple check to subdue your opponent (either through choke-out, pin, or a joint lock). You may also strike an opponent during grappling, but if the strike fails your opponent may attempt to gain control of the grapple. Skill in grappling is different than skill in unarmed combat.
 

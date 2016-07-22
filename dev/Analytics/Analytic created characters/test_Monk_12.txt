@@ -3,10 +3,10 @@ Description of Attitude, demenor, etc:
 Monk Frank has left his montessori in order to travel through the galaxy, searching for those who would abuse technology and set them on the right Path. He tries to be calm and think through situations, often asking himself what his mentors would do or say. He maintains neutrality in most disputes, seeking to avoid violence whenever possible. This does not however mean he is timid in any way, and he will often take initiative when necesary.
 
 Physical Description:
-5'2 and balding, Monk Frank is aged 38. He has been training for most of his life and remains extremely fit and mobile. He has deep blue eyes and a well kempt shotish beard.
+5 foot 2 and balding, Monk Frank is aged 38. He has been training for most of his life and remains extremely fit and mobile. He has deep blue eyes and a well kempt shotish beard.
 
 Class: Monk [12]
-Health: 120
+Health: 130
 Nanites: 100
 Armor type: N/A
 Percent Hit:
@@ -15,7 +15,7 @@ Nanite Health: N/A
 ==STATS==
 STR || 5 +0
 PER || 5 +0
-FOR || 7 +8
+FOR || 8 +12
 CHA || 7 +8
 INT || 5 +0
 DEX || 10 +20
@@ -37,18 +37,20 @@ Guard: 70
 
 Feats:
 Shadow Strike: DC 50 Nanite check to hit opponent.
+Shadow Walk: DC 50 Nanite. teleport (result-50)/10 meters. can roll stealth after emerging at no cost (exiting in stealth). takes half action to do skill check, half action to move.
 Combat Expertise [Melee] -5% skill checks in combat.
 Flash Dance [Lvl*10] : LVL # attacks in 5m space, roll each strike.
 Backstab: Damage from behind is e-Crit.
-Signiture Move - Dragon's Maw: Monk Frank performs a two-handed punch or palm-strike, pushing his opponent while dealing damage.
+Signiture Move - Dragon''s Maw: Monk Frank performs a two-handed punch or palm-strike, pushing his opponent while dealing damage.
 Monk: Full damage on unarmed strike.
+Kata: On successful hit, roll for up to Lvl extra strikes. each extra strike is -20% to hit.
 
 Skills:
-Stealth - 15
+Stealth - 30
 Spot - 15
 Acrobatics - 25
-Knowledge [Nanites] - 45
-Diplomacy - 10
+Knowledge [Nanites] - 65
+Diplomacy - 15
 Unarmed Expert - 20
 
 Inventory:
