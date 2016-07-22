@@ -53,7 +53,13 @@ Misc.:
 		==============================
 				Feats:
 		==============================
-x
+1.
+2.
+3.
+4.
+5.
+6.
+7.
 
 		==============================
 				Skills:
@@ -157,6 +163,37 @@ trick only works on biologic patients.
 
 /////	9. Proceedure Gamma
 proceedure gamma hasn't been developed yet! GRIPE!!!
+
+/////	10.Illegal Stim
+Nanite Reward:	40
+Range:			Touch
+Action:			Half Action
+Effect:			For 5 turns, the patient moves 3m more per action (max 13), gets 
+a -14% to miss with guns and a +30 to rolls to parkour around obsticles. As a 
+side effect, the target suffers a +25% to miss with melee weapons and a -15 to
+charisma rules from being jittery. Increasing the dosage does not increase the
+effects. This trick only works on biologic patients.
+
+/////	11.Remote Surgery
+Nanite Reward:	20
+Range:			20m
+Action:			Full Action
+Effect:			One of the patient's wounds are healed for half of the Doc's 
+heal roll. This trick only works on biologic patients.
+
+/////	12.P.E.G.s
+Nanite Reward:	40
+Range:			Touch
+Action:			2 Full Actions
+Effect:			Stands for Persistant Emergent Generalists, a type of surgical 
+nanobot that stays in the patient's bloodstream and continues to administer 
+care over an extended period of time. Effect lasts for 10 turns and heals 10 
+health every turn. If nanites are hacked, deals damage instead. PEGs are easily
+detectable by tech scanning technologies or spells. PEGs cannot heal a patient
+over their maximum health.
+
+/////	13. Proceedure Alpha
+Not written yet! GRIPE!!!!
 
 
 		==============================
