@@ -6,7 +6,7 @@ Physical Description:
 5 foot 2 and balding, Monk Frank is aged 38. He has been training for most of his life and remains extremely fit and mobile. He has deep blue eyes and a well kempt shotish beard.
 
 Class: Monk [12]
-Health: 130
+Health: 151
 Nanites: 100
 Armor type: N/A
 Percent Hit:
@@ -44,6 +44,7 @@ Backstab: Damage from behind is e-Crit.
 Signiture Move - Dragon''s Maw: Monk Frank performs a two-handed punch or palm-strike, pushing his opponent while dealing damage.
 Monk: Full damage on unarmed strike.
 Kata: On successful hit, roll for up to Lvl extra strikes. each extra strike is -20% to hit.
+Tough: +21 health at level 12.
 
 Skills:
 Stealth - 30

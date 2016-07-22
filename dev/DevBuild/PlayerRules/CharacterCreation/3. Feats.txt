@@ -76,7 +76,6 @@ Allows the user to better concentrate on their expenditure of nanites, allowing 
     +20% to a non-combat-action at a cost of 20 nanites for 1 turn (ask GM before aplying to an action.)
     Others, run any ideas by GM.
     
-
 Nanite Regeneration: 
 Prerequisites:
 For every crit you score, restore your nanites by the amount of crit damage dealt. (10 nanites for standard crit, 20 for ex-crit)
