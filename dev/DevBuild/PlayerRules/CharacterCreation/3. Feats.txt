@@ -62,7 +62,7 @@ The last shot in every mag deals Double-Crit damage, but your reload DC is twice
 
 Kata: 
 Prerequisites: Level 10 or higher
-Whenever you land a successful melee hit against someone, you may roll for X additional attacks, where X is your LVL. Each additional attack has 20% lower chance to hit than the previous hit. (A 4th level character making their 3rd strike in a row would be rolling at +40% miss chance).
+Whenever you land a successful melee hit against someone, you may roll for X additional attacks, where X is your LVL/2. Each additional attack has 20% lower chance to hit than the previous hit. (A 4th level character making their 3rd strike in a row would be rolling at +40% miss chance). This -20% debuff applies to a monk's Shadow Strike as well, increasing the DC by 20 per strike instead of increasing the strike's miss chance.
 
 Monk:
 Prerequisites: Level 7 or higher
