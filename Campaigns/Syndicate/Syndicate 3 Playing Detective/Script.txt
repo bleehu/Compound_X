@@ -1,4 +1,4 @@
-Continuing their quest to find the people who funded Kalihan (who blew up Potto-Otto in the intro and fought the players in the first mission) leads the players to the metropolis of Toulouse on New Toulon. The cities near Toulouse are major shipyards and trading/distribution hubs. Toulouse is the home to many rim-wealthy shipwrights and architects who retire to the wild country sided to live where their wealth affords them much and to dine on the renowned wine and coffee grown in the countryside.
+Continuing their quest to find the people who funded Kalihan (who blew up Potto-Otto in the intro and fought the players in the first mission) leads the players to the metropolis of Toulouse on the planet of New Toulon. The cities near Toulouse are major shipyards and trading/distribution hubs. Toulouse is the home to many rim-wealthy shipwrights and architects who retire to the wild country sided to live where their wealth affords them much and to dine on the renowned wine and coffee grown in the countryside.
 
 Depending on what happened at the end of the first mission, Kalihan was either Killed In Action (KIA) or was captured. If captured, he could have given up the details of who hired him to the players. If he held his tongue, he undergoes interrogation with Vimi Vindelay to whom he spills his guts. If Kalihan was killed, then the mechanic on board holder is able to pull a few scraps of data from the ship's computer, which say that it left the spaceport on Toulouse several days ago.
 
@@ -8,7 +8,7 @@ I like to give players some time to goof off on the carrier that is their home. 
 
 When it's time to start, the team will be called to the dropship bay for a quick briefing by their handler. The handler explains that they will be escorting Vimi Vindelay to the surface to meet a contact who might have a lead on who paid Kalihan. The handler then introduces Vimi, who is a civilian contractor with Human Intelligence (HUMINT). She has a PHD in psychology specializing in predictive analytics. While brilliant and charismatic, she has very little combat effectiveness. It is important that this mission be covert, so as not to tip off the cell that you are pursuing that you have these leads. As such, your cover story is that you are all on shore leave. In so much as such guarantees can be made, nobody outside of this group should know what your mission is. Not the police, not any assets you may turn on the ground, not even nonessential officers here aboard Diligence. "Shore leave" will last three days, after which Diligence will resume its patrol whether you're aboard or not. 
 
-Since your cover story is that you are on shore leave, you will be expected to look and act that part. To that end, you will be getting the typical advance on your contract, plus hazard pay. In the file in front of you should be 600 credits. You may swing by the bank to have your digital lucre exchanged for local currency, which some vendors will find more palatable. 
+Since your cover story is that you are on shore leave, you will be expected to look and act that part. To that end, you will be getting the typical advance on your contract, plus hazard pay. In the file in front of you should be 600 credits. You may swing by the bank to have your digital lucre exchanged for local currency, which some vendors will find more palatable. You will have to use it to buy food for the 3 days that you are out, and it would help get a room at the hotel that you are to rondevouz with Vimi once on the planet at 6pm that night.
 
 The handler also explains that Toulouse is owned by the Bon Corporation, who employ their own police force. The army has no jurisdiction outside of the terrorist hunt. Even if fired upon, a perfectly legal kill would require an official police inquest, which would leave the perpetrator stranded on New Toulon longer than ECSC Diligence will be in orbit. "Keep your noses clean! Or else!" 
 
@@ -21,7 +21,7 @@ If the players hacked Kalihan's stealth ship, then they have two options for ins
 (Space port)
 Upon landing and disembarking, the team waves goodbye to Teacup and walks out to the space dock which is surrounded by miscellaneous repair and service equipment. Since most of the maintenance routes are locked down, the only way out is up a large ramp marked with a sign that says "to main terminal." 
 When the team leaves, they are met at the top of the ramp by three Bon security officers; two deputies and the police chief, all with fabulous thick mustaches. Officer Jaques has a grey mustache and short hair to match. He wears medium deputy armor with a gleaming revolver and a matte white shotgun slung across his back. Deputy Bartolone has a hand on his laser pistol which is in the hip holster attached to his perfectly polished white light armor. He periodically checks a computer on his left forearm and scans the perimeter. Chief Hollande wears white heavy power armor without a helmet, preferring to let the populace see his face. The power armor has a large chaingun slung across its back, heavy plate armor and obvious enhancement attachments. All three have an array of CID grenades in easy-to-reach pouches. 
-“Bonjour, patrons. Je m’appelle Chief Bortolone <My name is Chief Bortolone>. I make it a priority to meet newcomers in my town. We are of course pleased to have public defenders of the ECSC take their shore leave here, but I must insist that while you are here, you leave defending the public to me and mine.  Que tu comprends? <understand?>”
+“Bonjour, patrons. Je m’appelle Chief Hollande <My name is Chief Hollande>. I make it a priority to meet newcomers in my town. We are of course pleased to have public defenders of the ECSC take their shore leave here, but I must insist that while you are here, you leave defending the public to me and mine.  Que tu comprends? <understand?>”
 
 ///// 	Deputy Jaques
 Strength:	5
@@ -41,7 +41,7 @@ Charisma:	4
 Int:		9
 Dex:		8
 Luck:		2
-The dutiful cop. A whitehat priest with unlimited counterspell, 6th sense, and cannot be caught flatfooted. 
+The dutiful cop. A whitehat priest with unlimited counterspell, 6th sense, and cannot be caught flatfooted. Weilds a laser pistol with ludicrous accuracy that chunks through armor.
 
 /////	Chief Hollande
 Strength:	10
@@ -52,8 +52,29 @@ Int:		6
 Dex:		8
 Luck:		4
 The law in this town. Wears power armor when out on patrol. The hard limit that prevents you from breaking character and ransacking the town. Has lv 30 chaingun, wrist-mounted grenade launcher, anti-hacking module, radar, and 1200 point shields. Also flashing lights. 
+
 Having said their piece, the cops move on to speak to the next wave of shore leave takers. Vimi explains that she has some errands to run, and suggests the party act casual and do what they’d like. She requests that they rendezvous at a hotel room that evening at 6. She suggests that their shore leave act would be more convincing if they split up. A squad taking shore leave together might seem a little odd.
+
 If a character has 6th sense, they might feel as though they are being watched. If a perception DC of 200 is passed, six suspicious characters are identified. Don’t explain who they are, just describe their appearance and behavior. 3 of which are red herrings, one of which is a Syndicate operative, another is a core religious assassin, another of which is a gang informant. 
+- One man is a figure wearing a black hood and cloak. If anyone is detecting technology, it's clear that he has quite a bit of it.
+	The man moves gracefully almost seeming to glide. He keeps his head bowed always and his eyes seem to reflect more light than
+	normal. They almost seem to glint.
+- One grey bearded man with an eyepatch leans in a dark corner smoking something and keeping his hands in his pockets. He disappears
+	down an alleyway when he catches you looking at him.
+- One of the panhandlers at the port is perfectly as dingy as the rest of them, and his cardboard mat that he sits on fits in perfectly, but he's not actually begging. The trash from food scraps scattered around him would indicate he's been there for at least a day. 
+- A teenager with a leather jacket and shoes that don't quite fit mills about along with the crowds, but always seems to be just in sight of you. The leather jacket doesn't quite conceal a black sleeve tattoo. (tattoo is out of sight. If confronted, he cusses a lot and calls anyone older than 16 "grandpa" or "grandma." He won't show anything willingly and denies doing anything. The tattoo is of a polar bear.)
+- A man in dirty coveralls sits on a grey metal shipping crate holding an Anvil Arms C25 carbine by the barrel and leaning on his knee. He watches you curiously with a scowl. A half-drinken glass bottle sits on the crate next to him.
+- Usually labor robots keep their cameras on what they're doing, and this one has as well... for the most part. It was only in the reflection off a store front sign that you swore you caught him staring at you as you went by. (if approached, the robot plays dumb and acts just like a labor robot. It suggests redirecting any questions to it's captain. In truth, the robot is a syndicate assassin droid who if for some reason has its cover blown may raise sheilds and pull out a wicked sword and try to assassinate whomever has guessed very discretely, or disappear through vents and escape tunnels in the port)
+
+From the Spaceport, the players have several options for destinations: 
+-market
+-bank
+-Temple
+-police station
+-The hotel
+-Bar
+-countryside
+
 (Market)
 Beggar- 
 Donating to the beggar prompts a luck check. The luckier you are, the better advice the beggar gives you. See reward for tipping the street performer. 
