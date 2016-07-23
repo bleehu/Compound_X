@@ -80,7 +80,7 @@ Beggar-
 Donating to the beggar prompts a luck check. The luckier you are, the better advice the beggar gives you. See reward for tipping the street performer. 
 Pistol Shrimp gun shop-
 
-Fritz and Hanz-
+Fritz and Hanz- The sniper brothers from the side mission make an apperance in the market. They are flambeuyantly gay and rather abusive to any ECSC personell; their contracts typically target them. While they hate ECSC and look down on them for their "poor training" and "abhorent lack of fasion sense." They won't actually start anthing outside of a combat zone. German accents.
 Street performer-
 Juggles geese. Suggested donation is 20 credits. If player donates, they will later get a perk called good tipper, which grants a bonus to charisma rolls in public, but don’t give the perk right away. By delaying handing out the perk, we get to see who tips and who doesn’t. Also teaches that rewards aren’t all instant gratification; the way to get rewarded is to play your character. 
 (country side)
@@ -223,6 +223,7 @@ Attack: hax
 Attack: arcane blast 30% to miss, 50 damage
 Attack: cult dagger 20% chance to miss. Ignore shields. 
 After the fight, Vimi volunteers to clean up the bodies. She suggests that the party get kitted and take an ATV to the farmhouse. She tosses someone the keys. 
+
 (The Nightclub)
 A small barn with strobing lights and very loud music pumping out of it sits on the outskirts of the town. Drunken locals bandy about talking about gossip and falling off of their horses. Dress ranges from the rebellious to the I’m-just-off-work-in-the-fields. Locals are unfriendly to “tourists” if they catch that the party is from off world. Vupen muscle guys and social engineer ladies move between a bar, the pit of people dancing and listening to the music and leaning against beater ATVs and wooden fences outside. In the distance, an orchard is visible in the light from the moons. The main farmhouse can just be seen on the other side of it. 
 If trouble is started, or weapons are seen, the party is quickly overwhelmed by Vupen thugs and bouncers. After some time, cops show and begin arresting and tazing people. Players may wake up the next morning in a cell at police HQ.
@@ -244,7 +245,7 @@ Coffee 		- 20 credits	(+ 2 perception for next encounter)
 Scone		- 10 credits
 Bagel		- 10 credits
 Croissant	- 30 credits
-“Our friends have three houses that I’ve been to. Cops broke up a party at one of them last night. No Marko, only drugs. Which leaves three others. Problem is, if a party starts at on house then everyone will want to go. So we’ll have to start the band playing at both houses at the same time. One is on 112524 Rider Ave, the other is on 5th and Webb. Both have smoke alarms, but I’ll turn those off at 6 for the party. Meet me back at the club for the after party. Synch?”
+“Our friends have three houses that I’ve been to. Cops broke up a party at one of them last night. No Marko, only drugs. Which leaves three others. Problem is, if a party starts at one house then everyone will want to go. So we’ll have to start the band playing at both houses at the same time. One is on 112524 Rider Ave, the other is on 5th and Webb. Both have smoke alarms, but I’ll turn those off at 6 for the party. Meet me back at the club for the after party. Synch?”
 Party members respond. Q and A needs to be subtle, or Tay will shush them. 
 “Good. Don’t be late. Don’t forget to get transportation. And if there’s so much as a scratch on Marko, I’ll burn you. Que tu comprends?” Taylor gathers her terminal, leaves some cash on the table to pay for her bill and disappears into the crowd. 
 The party is free to prep for the op and feign enjoying shore leave. 
@@ -273,3 +274,6 @@ Taylor thanks you for your help and sends you special hacking or anti-hacking ge
 
 Mission Bonus: Assassin team engaged and defeated
 You take some of their nice stuff.
+
+Mission Bonus: Gang Boss Interrogated.
+Gives you a contact for mission 5. Also the combination for his safe, which has a go bag in it full of goodies.
