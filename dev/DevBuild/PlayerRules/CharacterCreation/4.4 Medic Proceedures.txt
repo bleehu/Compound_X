@@ -405,7 +405,17 @@ Range:			6m circle, doc is the origin
 Action:			Full Action
 Effect:			Every biologic patient in range has one wound healed by 40 
 points. The doc gets n nanites back where n is the number of patients healed.
-Heals allies and enemies.
+Heals allies and enemies. The doc gets a -200 to stealth rolls when performing
+this proceedure.
+
+/////	Improved Healing Nova
+Nanite Reward:	30 * n
+Range:			6m circle, doc is the origin
+Action:			Full Action
+Effect:			Every biologic patient in range has Two wounds healed by 40 
+points. The doc gets n nanites back where n is the number of wounds healed.
+Only Heals Allies. The doc gets a -50 to stealth rolls when performing this
+proceedure.
 
 /////	5-HT Inhibiter
 Nanite Reward:	10
