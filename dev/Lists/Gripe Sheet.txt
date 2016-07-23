@@ -4,7 +4,7 @@ You get very little when you level up to level 9, but it rains bonuses when you 
 
 Soldier's Battle Cry class feat doesn't factor CHA?
 
-Proceedure Gamma is blank in medic's Hippocratic tree!!!! 
+Proceedure Gamma is blank in medic's Hippocratic tree!!!! [fixed]
 
 Proceedure Alpha is blank in medic hippocratic tree!!! [fixed]
 Healing Nova is missing from medic hippocratic tree!!! [fixed] 
