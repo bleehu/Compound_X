@@ -134,7 +134,6 @@ You are THE guru accross the holonets for <vehicle>. Add 50 onto a pertinent rol
 
 "Adept" - Your specialized skills with technology are combined with battle training, providing you an edge in combat situations.
 Passives: Gain 100 nanites. any number of these can be put into a permanent passive CS Class B unit that is implanted in your body. When not wearing armor, it covers 75% excluding head, hands, and feet. when wearing armor, it extends your DR by 10 and you gain 5% coverage.
-Able to Cast Spells from the Utility classification on the Warlock Spell List. You gain a number of Spell points with which to purchase spells that is equal to  (Int-3) Ability each level.
 Weapon Proficiencies: Pistols, SMGs, Carbines.
 Armour Proficiencies: Light, Medium.
 Class Feats:
@@ -258,7 +257,7 @@ V
 25% to hit, or on hit affect enemy plus deal crit-2 damage
 ----------------------
 Exploit enemy - 
-Spend one action examing enemy (50% roll). On success, you find a critical weakness. This weakness can be hit for double crit damage.
+Spend one action examing enemy (50% roll). On success, you find a critical weakness. This weakness can be hit for Extra-crit damage.
 |
 |
 |

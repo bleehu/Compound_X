@@ -100,7 +100,7 @@ ECSC Mk26 Auto $490
 15 rds, .40 Magazine; FMJ / CS
 43
 
-CZ 75 P01 $572
+CZ 75 P01 $570
 40m
 35%
 15rds, 10mm Magazine; FMJ / HP

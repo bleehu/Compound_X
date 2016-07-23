@@ -99,12 +99,12 @@ Muzzle Break 2EP
 Reduces Recoil from the gun, allowing for more accurate follow-up shots.
 Accuracy -5%
 
-Flash / Sound Suppressor 5EP
+Flash / Sound Suppressor $100
 Greatly reduces the muzzle flash and some of the weapon report from firing. Targets are not likely to see you or hear you when not particularly looking for you. When alerted to your presence, they are 60% less likely to find your position.
 Range - 10m
 Not useable on shotguns or HMGs
 
-Improved Flash / Sound Suppressor 8EP
+Improved Flash / Sound Suppressor $300
 Completely removes muzzle flash and the weapon report. Targets cannot locate you due to firing your weapon.
 Range -20m
 Damage -5
@@ -155,7 +155,7 @@ Slings
 ===================
 
 Pistol Lanyard 2EP
-If you drop your pistol, it'll fall harmlessly to your leg level instead of dropping onto the ground.
+If you drop your pistol, it''ll fall harmlessly to your leg level instead of dropping onto the ground.
 Holstering your weapon is a free action. Drawing your pistol takes a full action next time.
 
 Two Point Sling 3EP
@@ -182,7 +182,7 @@ CS tipped Magazine 2EP
 Inflicts a CS burn on hit, dealing d10/2 damage for 2 turns, +5 damage agsint robots.
 
 RMM Match Grade Ammo 2EP
-This high quality ammunition isn't cheap, but it increases the consistancy of your shots. -10% miss chance.
+This high quality ammunition isn''t cheap, but it increases the consistancy of your shots. -10% miss chance.
 
 High Velocity Ammunition 5EP
 Increased velocity grants a +10% increase to range, and +10 damage.

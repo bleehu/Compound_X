@@ -28,7 +28,7 @@ Door Kicking
 125 - Standard Metal Door (the sort you might find on the backside of a grocery store)
 150 - Reinforced Metal Door
 175 - Airlock-type Door (I don't know how you're kicking through this. You must be super man, or hulk or something.)
-If you are on the side that the door opens to, (aka you're kicking the door the opposite way it was meant to be opened) add 50 to the DC.
+If you are on the side that the door opens to, (aka you''re kicking the door the opposite way it was meant to be opened) add 50 to the DC.
 
 --------------------
 Lifting
@@ -70,7 +70,7 @@ General
 75 - Resist passing out from taking more than 65 damage
 100 - Resisting someone actively torturing you
 125 - Resist a limb being cut off
-150 - i doubt you'll need anything beyond here. Pain at these levels would inflict additional damage.
+150 - i doubt you''ll need anything beyond here. Pain at these levels would inflict additional damage.
 175 - Failing a pain check here, you drop to 10 HP and become unconscious.
 
 ==============================
@@ -100,7 +100,7 @@ Hacking
 25 - detect presence of a watcher program
 50 - unlock a corporate level door; cover your tracks after editing files
 75 - unlock a militarized door; take control of a public works network; decrypt secure comms.
-100 - decrypt / hack into an IT enthusiast's network w/o being detected; decrypt military level communications; Take full control of a basic network
+100 - decrypt / hack into an IT enthusiast''s network w/o being detected; decrypt military level communications; Take full control of a basic network
 125 - hack into a military network w/o being detected; Take full control of a corporate network
 150 - Take full control of a military network
 

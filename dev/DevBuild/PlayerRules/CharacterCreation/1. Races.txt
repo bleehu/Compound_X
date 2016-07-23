@@ -20,7 +20,7 @@ Racial Traits:
 Camouflage: While in Jungle terrain, you are 20% better able to stealthily conceal yourself.
 Stalker: Gain Stealth and Awareness skills at +5
 Low-Light Vision: can see in moonlight as well as if it were day-light. only requires dim light to see well.
-Sprinter - +10 movement speed when charging, retreating,  or otherwise moving under preasure.
+Sprinter - +1m movement speed when charging, retreating,  or otherwise moving under preasure.
 
 
 Detachment A Security Drone

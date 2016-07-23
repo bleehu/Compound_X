@@ -1,52 +1,82 @@
-Name:
+Name:Tibor Stepanek
 Description of Attitude, demenor, etc:
-
+A true Paladin, Tibor does not stray from the terrifying. He''d give his life for his friends, squadmates and brothers. Trained from birth at a corporate temple, Tibor 
 
 Physical Description:
 (See Race document)
 
-Class: (See Class Document) [1] //Hunter [1]: Class is hunter, level 1
-Health: 50 + (FORT*10) (7 fort = 120 health. 1 fort = 60 health)
-Nanites: 50 + (10*int) (9 int = 140 nanites. 3 int = 80 nanites)
-Armor type: (write the size and level, ex "Medium Lvl 4+")
-Percent Hit:
-D.R.
-Nanite Health: (For nanite sheilds)
-==STATS== //Assuming 6 average for Human race. Other races, subtract 2 points for average stats.
-STR || 6 
-PER || 6
-FOR || 6
-CHA || 6
-INT || 6
-DEX || 6
-LUK || 6
+Class: Paladin [5] $10
+Health: 1
+Nanites: 135
+Armor type: Heavy 5+, cold resistant
+Percent Hit: 75%
+D.R. 30
+Nanite Health: N/A
+Speed: 4m
+==STATS==
+STR || 5 +0
+PER || 5 +0
+FOR || 7 +8
+CHA || 5 +0
+INT || 10 +20
+DEX || 5 +0
+LUK || 5 +0
 ========
 SAVING THROWS:
-WIL || 12 //2*(CHA + FOR - 6)
-SHK || 12 //2*(INT + FOR - 6)
-REF || 12 //2*(DEX + PER - 6)
+WIL || 12
+SHK || 22
+REF || 8
 ========
-Weapons: (See weapons Document. You may carry 1 primary, one secondary, and one melee)
+Weapons:
 ========
-Primary Name:
-Range:
-Percent Hit:
-Damage:
+Primary Name: "FBR"
+Range: 135
+Percent Hit: 0%
+Damage: 50
+28/30
 Misc.:
-+ Attachment and effect
++ 1.2x Hologramic +15m, -10%
++ Red Laser -10% < 50m
++ Heavy Profile Barrel -10%, +1 STR
++ 1 point sling (quickdraw, -1 STR)
+Spare Mags: 8/8
 
-Secondary Name:
-Range:
-Percent Hit:
-Damage:
+Secondary Name: "CZ 75 P01"
+Range: 45m
+Percent Hit: 25%
+Damage: 44
+15/15
 Misc.:
-+ Attachment and effect
++ muzzle break -5%
++ reflex site -5%, +5m
 
 Feats:
+Smite Enemey: Once per engagement, double damage to an enemy.
+Combat Expertise (Guns): -15% to hit. +5% melee or -5% skills
+Double Tap: crit range +10%
+First Shot Counts: when reloading, if you critically succeed, first round does extra crit damage.
 
 Skills:
-Pick 5 skills, put a 10 next to each.
+Diplomacy - 20
+Medicine - 20
+Knowledge [Nanites] - 25
+Unarmed Combat (trained) - 15
+Weapon Use (Rifles) - 25
+Acrobatics - 25
 
 Inventory:
-Pick up to 2 RP items (Cigs, dog dags, Sister's skull, etc.)
+Holy Symbol
+Nanite Pack: 2d10 + 20 nanites
 
+Arm HUD
+Special Cold Goggles: + heat vision, 30m
+
+Paladin Spells:
+Mage Armour (3) [X]: Gain a nanite shield, X * 3. Max X = 20+(25)+ 20 shiled to allies.
+Divine Favor(3) [5]: Gain +5 damage and -5% per P.Level (round down).
+Detect Evil (1) [0]: +20% detect evil.
+Detect High Tech [10]: detect high tech in area. can tell between objects which is most advanced technology, relative tech strengths, discern info about them, etc.
+Thunderstomp()[30]: all targets in 8m radius pass Shock saving throw or are tripped. DC = 35
+Circle of Lightning(3)[50]: 18m, 50 electric damage. DC 45 Shock Saving throw to resist electric incapacitation.
+Weapon Malfunction[30]: Force a target''s weapon to Jam. DC = 20
+Weapon Overload(3)[50]: Maga explodes. DC 70, deals weapon damage to target.
