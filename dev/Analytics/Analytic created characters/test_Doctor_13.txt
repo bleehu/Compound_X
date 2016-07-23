@@ -53,25 +53,30 @@ Misc.:
 		==============================
 				Feats:
 		==============================
-1.
-2.
-3.
-4.
-5.
-6.
-7.
+		
+1.	Adrenaline Rush
+2.	Quickdraw
+3.	Sixth Sense
+4.	Sleight of Hand
+5.	Upgrade + 10 nanites
+6.	Upgrade + 10 nanites
+7.	Spray n Pray
 
 		==============================
 				Skills:
 		==============================
 
-x					10
-x				10
-x				10
-x				10
-x				10
+Anatomy			5
+Pathology		5
+Medicine		10
+start 1			10
+start 2			10
+start 3			10
+start 4			10
+start 5			10
+10*12 			120
 
-total:
+total: 			190
 
 		==============================
 				Inventory:
@@ -85,6 +90,133 @@ Medkit x 3
 				Malpractice Skills:
 		==============================
 		
+/////	1.Medical Emergency
+Nanite Cost:40
+Duration: 	Free Action
+Range:		Self
+Effect:		Increase move speed to 12m per action
+and get a +30 to accrobatics checks. Effect persists for 1 turn. While 
+in a medical emergency, the Doc suffers a +28% chance to miss, 'cause
+they have more important things to worry about. Cannot be used to move
+more than 36m per turn.
+
+/////	2.Nanite Spike
+Nanite Cost:30
+Duration: 	Standard Action
+Range:		40m
+Effect:		10 % chance to miss. Deal 52 piercing damage.
+If target has no shield left and is still alive, apply a 
+poison payload of your choice.		
+		
+/////	3.Poison: Mild Halucinogen
+Nanite Cost:20
+Duration: 	5 turns
+Range:		Payload (use in combination with other powers)
+Effect:		Target must pass a DC 70 Will check. If they fail, 
+they suffer one of four effects as chosen by GM or by random dice roll:
+- Target panics and runs away as fast as he can
+- Target beleives nearest ally is a vicious, man-eating, submarine-sized
+ferret, bent on eating his belly button and attacks accordingly
+- Target is tricked into thinking he is being eaten alive by bugs and
+strips naked immediately and attempts to squish them all
+- Target discovers that their weapon is actually a sprinkler, and begins
+watering the grass dilligently
+Halucinogens only affects biologic targets.
+		
+/////	4. Quarentine
+Nanite Cost:120
+Duration: 	Half Action
+Range:		2 to 8m radius within 30m at your discression
+Effect:		All enemies within the the radius of effect cannot leave 
+the area of effect. Effect persists for 8 turns.
+		
+/////	5. Poison: Fentanyl Derivative
+Nanite Cost:60
+Duration: 	engagement
+Range:		Payload (use in combination with other powers)
+Effect:		Target must pass a DC 60 Shock check for every action they take over
+the next 3 turns. If they fail a check, the action they were about to take is
+canceled and they lose that action. If they fail three checks they pass out. 
+if they pass out, they must pass a shock check of 120 to wake up. Only works
+on biologic targets.
+
+/////	6. Breakout
+Nanite Cost:60
+Duration: 	Standard Action
+Range:		15m to 20m radius, with Doc as the center
+Effect:		Apply a payload of poison of your choosing to every target in range.
+Targets with gas masks are immune. Allies are targeted as well.
+
+/////	7. Multi Spikes
+Nanite Cost:90
+Duration: 	Standard Action
+Range:		30m
+Effect:		You launch off three nanite spikes in quick succession using both
+hands. Each has an 18 % chance to miss. You may pick up to three targets to 
+launch at. Each spike that hits deals 52 piercing damage. If target has no 
+shield left and is still alive, apply a poison payload of your choice.
+
+/////	8. Poison:	PAX
+Nanite Cost:100
+Duration: 	1 Day
+Range:		Payload (use in combination with other powers)
+Effect:		A target exposed to the PAX strain must pass a DC 240 Will save.
+Upon losing the save, the target rolls 1d100 (2d10, one for the 10's place,
+one for the 1's place as usual). If the target does not roll a 14, the target
+is instantly pacified. A pacified target will not attack anyone or anything
+for any reason, even if it has reason to fear for its life. It will comply
+with simple commands slowly, as if in a stupor. Prolonged exposure to PAX
+will result in targets ceasing to eat, sleep, or move until they starve to
+death. In the event that a 14 is rolled, the target reacts badly to the PAX.
+The target will enter an unsatiable rage, and will attack the nearest living
+thing - bare handed if need be - with total disregard for the target's saftey.
+A target that has reacted badly to PAX will never lie down. It will continue
+to kill and eat any living target until it dies of overconsumption or exaustion.
+PAX only affects biologic targets.
+
+/////	9. Epidemic
+Nanite Cost:80
+Duration: 	Standard Action
+Range:		30m to 35m radius, with Doc as the center
+Effect:		Apply a payload of poison of your choosing to every target in range.
+Targets with gas masks are immune. Allies are targeted as well.
+
+/////	10. Poison:	NF-34
+Nanite Cost:80
+Duration: 	20 turns
+Range:		Payload (use in combination with other powers)
+Effect:		The biologic agent eats away at the target's flesh and biologic 
+parts at an astonishing rate. The target takes 3d10 damage per turn for the 
+duration of their afliction. They can be cured by decontamination devices or 
+specially trained medics. Targets that are wearing a gas mask, but have any 
+exposed biology are affected by this even if a deployment method says they 
+wouldn't. Use of biologic weapons are severely frowned upon in most civilized 
+regions of space.
+
+/////	11. Poison: Thiopental Derivative
+Nanite Cost:15
+Duration: 	Standard Action
+Range:		Payload (use in combination with other powers)
+Effect:		Truth serum. Principle uses are for role playing. While any 
+character could procure similar substances as a role-playing item for 1EP
+a piece, the value of this trick is that it's free, almost unlimited and 
+you don't need to worry about smuggling it anywhere.
+
+/////	12. Fast Spike
+Nanite Cost:30
+Duration: 	Half Action
+Range:		40m
+Effect:		16 % chance to miss. Deal 52 piercing damage.
+If target has no shield left and is still alive, apply a 
+poison payload of your choice.
+
+/////	13. Transmission Vector
+Nanite Cost:60
+Duration: 	Standard Action
+Range:		5m radius centered at a point up to 30m from the Doc
+Effect:		Targets without gas masks have the poison payload of your choice
+applied to them.
+
 		==============================
 				Hipocratic Skills:
 		==============================
@@ -161,8 +293,16 @@ Effect:			For 5 turns, the patient moves 2m more per action and gets a
 with melee weapons. Increasing the dosage does not increase the effects. This
 trick only works on biologic patients.
 
-/////	9. Proceedure Gamma
-proceedure gamma hasn't been developed yet! GRIPE!!!
+/////	9. Oni
+Nanite Reward:	25
+Range:			Touch
+Action:			Half Action
+Effect:			Phentermine derivative manufactured by Sakai Corp on kimon in
+sector 5. Central nervous system stimulant. Patient gets a +20 to reflex rolls
+and a +20 to initiative (turn order) for 5 turns. Oni doesn't give more than one
+turn per round. May only be used on biologic patients. Cannot be used on a 
+patient more than once lest they get mortally constipated, impotent, or their heart 
+explodes. (note: these are the effects of a Phentermine overdose) 
 
 /////	10.Illegal Stim
 Nanite Reward:	40

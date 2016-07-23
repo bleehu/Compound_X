@@ -9,7 +9,8 @@ Range:		Self
 Effect:		Increase move speed to 12m per action
 and get a +30 to accrobatics checks. Effect persists for 1 turn. While 
 in a medical emergency, the Doc suffers a +28% chance to miss, 'cause
-they have more important things to worry about.
+they have more important things to worry about. Cannot be used to move
+more than 36m per turn.
 
 /////	Nanite Spike
 Nanite Cost:30
@@ -35,6 +36,13 @@ Effect:		You launch off three nanite spikes in quick succession using both
 hands. Each has an 18 % chance to miss. You may pick up to three targets to 
 launch at. Each spike that hits deals 52 piercing damage. If target has no 
 shield left and is still alive, apply a poison payload of your choice.
+
+/////	Peircing Spike
+Nanite Cost:35
+Duration: 	Standard Action
+Range:		45m
+Effect:		10 % chance to miss. Deal 42 piercing damage.
+ignores sheilds and balistic armor. Apply a poison payload of your choice.
 
 /////	Poison: Mild Halucinogen
 Nanite Cost:20
@@ -87,6 +95,18 @@ target is alone, the nearest person-sized object will do.
 side. They immediatly join your valiant squad of fighting squids in the 
 pursuit of cake. The target has the worst munchies.
 Halucinogens only affects biologic targets.
+
+/////	Poison: Fentanyl Derivative
+Nanite Cost:60
+Duration: 	engagement
+Range:		Payload (use in combination with other powers)
+Effect:		Target must pass a DC 60 Shock check for every action they take over
+the next 3 turns. If they fail a check, the action they were about to take is
+canceled and they lose that action. If they fail three checks they pass out. 
+if they pass out, they must pass a shock check of 120 to wake up. Only works
+on biologic targets.
+
+
 
 /////	Breakout
 Nanite Cost:60
