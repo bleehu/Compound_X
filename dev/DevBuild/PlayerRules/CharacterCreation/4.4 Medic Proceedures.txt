@@ -326,10 +326,19 @@ Action:			2 Full Actions
 Effect:			Stands for Persistant Emergent Generalists, a type of surgical 
 nanobot that stays in the patient's bloodstream and continues to administer 
 care over an extended period of time. Effect lasts for 10 turns and heals 10 
-health every turn. If nanites are hacked, deals damage instead. PEGs are easily
-detectable by tech scanning technologies or spells. PEGs cannot heal a patient
-over their maximum health.
- 
+health every turn. DC 60 to hack. If nanites are hacked, deals damage instead. 
+PEGs are easily detectable by tech scanning technologies or spells. PEGs cannot
+ heal a patient over their maximum health.
+
+/////	Improved P.E.G.s
+Nanite Reward:	50
+Range:			Touch
+Action:			1 Full Action
+Effect:			Stands for Persistant Emergent Generalists, a type of surgical 
+nanobot that stays in the patient's bloodstream and continues to administer 
+care over an extended period of time. Effect lasts for 5 turns and heals 20 
+health every turn. DC 130 to hack. If nanites are hacked, deals damage instead. PEGs are easily detectable by tech scanning technologies or spells. PEGs cannot heal a patient over their maximum health.
+
 /////	Mild Stim
 Nanite Reward:	15
 Range:			Touch
@@ -444,6 +453,17 @@ Effect:			For 5 turns, the patient moves 2m more per action and gets a
 -9% to miss with guns. As a side effect, the target suffers a +25% to miss 
 with melee weapons. Increasing the dosage does not increase the effects. This
 trick only works on biologic patients. 
+
+/////	Oni
+Nanite Reward:	25
+Range:			Touch
+Action:			Half Action
+Effect:			Phentermine derivative manufactured by Sakai Corp on kimon in
+sector 5. Central nervous system stimulant. Patient gets a +20 to reflex rolls
+and a +20 to initiative (turn order) for 5 turns. Oni doesn't give more than one
+turn per round. May only be used on biologic patients. Cannot be used on a 
+patient more than once lest they get mortally constipated, impotent, or their heart 
+explodes. (note: these are the effects of a Phentermine overdose) 
 
 /////	Illegal Stim
 Nanite Reward:	40
