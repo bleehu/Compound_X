@@ -56,6 +56,7 @@ Smite Enemey: Once per engagement, double damage to an enemy.
 Combat Expertise (Guns): -15% to hit. +5% melee or -5% skills
 Double Tap: crit range +10%
 First Shot Counts: when reloading, if you critically succeed, first round does extra crit damage.
+Supression: Targets shot at must pass DC 30 Shaock save to move or fire onn their next turn.
 
 Skills:
 Diplomacy - 20
@@ -74,11 +75,13 @@ Nanite Pack: 2d10 + 20 nanites
 Special Cold Goggles: + heat vision, 30m
 
 Paladin Spells:
-Mage Armour (3) [X]: Gain a nanite shield, X * 3. Max X = 20+(25)+ 20 shiled to allies.
-Divine Favor(3) [5]: Gain +5 damage and -5% per P.Level (round down).
+Mage Armour[X]: Gain a nanite shield, X * 3. Max X = 20+(25)+ 20 shiled to allies.
+Improved Mage Armour (4)[X]: X * P.Lvl, Plus gain 5 * P.lvl D.R. after shield pops (single use). X = 10*Lvl max.
+Divine Favor(4) [5]: Gain +5 damage and -5% per P.Level (round down).
 Detect Evil (1) [0]: +20% detect evil.
 Detect High Tech [10]: detect high tech in area. can tell between objects which is most advanced technology, relative tech strengths, discern info about them, etc.
 Thunderstomp()[30]: all targets in 8m radius pass Shock saving throw or are tripped. DC = 35
-Circle of Lightning(3)[50]: 18m, 50 electric damage. DC 45 Shock Saving throw to resist electric incapacitation.
+Circle of Lightning(4)[50]: 18m, 50 electric damage. DC 45 Shock Saving throw to resist electric incapacitation.
 Weapon Malfunction[30]: Force a target''s weapon to Jam. DC = 20
-Weapon Overload(3)[50]: Maga explodes. DC 70, deals weapon damage to target.
+Weapon Overload(4)[50]: Maga explodes. DC 70, deals weapon damage to target.
+Compel Evil [10]: Force enemy (DC caster level * CHA) to attack you rather than allies.

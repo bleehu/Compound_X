@@ -1,4 +1,4 @@
-This document describes the Difficulty Classes for various skills as a way for players to get a baseline assessment of their character's ineptitude.
+This document describes the Difficulty Classes for various skills as a way for players to get a baseline assessment of their character''s ineptitude.
 
 "Skill DCs:"
 	To accomodate the new Stat bonus system, skill DCs will be altered. There will be no rolling to pass a skill check. If your skill + relevant Stat Bonus passes the DC, you are able to complet the task. In combat, you will have to roll to see if you can do the task quickly, and the DCs will be higher due to the stressful situation.
@@ -20,14 +20,14 @@ STRENGTH DCs
 --------------------
 Door Kicking
 --------------------
-0 - un-latched weak wooden door. Will basically just swing in on it's hinges
+0 - un-latched weak wooden door. Will basically just swing in on it''s hinges
 25 - weak wooden door (or a standard wooden door after putting a few rounds through the latch / lock)
 50 - Standard Wooden door
 75 - Reinforced Door (either metal in the frame, or extra latches, serious bolt locks . . .  etc)
 100 - Weak Metal Door
 125 - Standard Metal Door (the sort you might find on the backside of a grocery store)
 150 - Reinforced Metal Door
-175 - Airlock-type Door (I don't know how you're kicking through this. You must be super man, or hulk or something.)
+175 - Airlock-type Door (I don''t know how you''re kicking through this. You must be super man, or hulk or something.)
 If you are on the side that the door opens to, (aka you''re kicking the door the opposite way it was meant to be opened) add 50 to the DC.
 
 --------------------

@@ -57,9 +57,9 @@ every 5th level +1 stat point, +1 Class feat
 ╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
 ║ 8     ║ "        ║ 5     ║            ║            ║ 7             ║
 ╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
-║ 9     ║ "        ║       ║            ║            ║               ║
+║ 9     ║ "        ║       ║            ║ +1         ║               ║
 ╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
-║ 10    ║ "        ║ 6     ║ 2          ║ +1         ║ 8             ║
+║ 10    ║ "        ║ 6     ║ 2          ║            ║ 8             ║
 ╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
 ║ 11    ║ "        ║       ║            ║            ║               ║
 ╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
@@ -150,6 +150,8 @@ Hunkering costs one half-action, and you cannot fire your weapons. Imagine curli
 Reloading:
 When a gun runs out of amunition, the user must pause to reload. "But how long do I gotta be outta the battle?" Great question!
 Each gun has a "Reload DC," rated based on the skill and brevity of the weapon's reload. For example, an assault rifle, which has a very obvious magazine release button and protruding magazine, has an average DC of 25. More complex weapons, such as high-precision sniper systems or exotic sub-machine guns might have a higher DC, maybe 35. If the Player passes the reload, then the reload time is standard. For Box-Magazine fed Semi- and Fully-Automatic weapons, this is 1 Full Action. Other, more complex weapons will specify their reload time. On a critical Success (anything in the 90-100 range), the reload time is halved (for Bolt-Actions it is reduced to 1 Half-Action). On a failure, the reload time takes double.
+
+When players take more than 70 damage, they must roll a FORT save at a DC of the damage taken. on fail they pass out. on success they stay conscious. When players fail, they may roll each turn at a DC of 70 to wake up. They continune to roll either for 15-FORT turns, or until they pass.
 
 Conditions:
 Bleeding - d10 damage per turn. Broken with Medicine Skill check. DC varries. If you have a bleed condition, seek medical aid immediately, You CAN Bleed Out, you have been warned.

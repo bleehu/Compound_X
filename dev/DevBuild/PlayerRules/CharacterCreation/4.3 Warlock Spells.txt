@@ -76,6 +76,10 @@ Weapon Malfunction [30]: Force a target''s weapon to Jam. DC = 50 - P.Lvl*10
 V
 Weapon Overload [50]: Magazine of target''s weapon is overloaded and explodes. Deal damage equal to the weapon''s damage. Magazine is destroyed. DC = 100 - P.Lvl*10
 
+Camoflage Area [20]: Create a stealthed area P.Level * 2 m around. Everything in the area is considered hidden, DC caster''s (CHA + P.Levels) * 5
+| 3
+#
+
 ============================================================
 CONVENTIONAL DAMAGE SPELL TREE
 ============================================================
