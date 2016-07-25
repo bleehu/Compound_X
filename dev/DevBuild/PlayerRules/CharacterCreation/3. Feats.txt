@@ -107,6 +107,12 @@ Run 'N' Gun:
 Prerequisites: PER > 6, DEX > 6 or Soldier, Specialist classes.
 you may move at half speed while firing. +10% accuracy. If this feat is performed while sprinting, half your movment speed before you add the 2m from sprinting. The accuracy penalties stack. 
 
+Salty Hashtables
+Prerequisites: Must be a mechanical race
+Your data inputs are sanitized and encrypted, complete with checksums!
+Hacking you is 20% harder and you are aware whenever one of your senses is 
+malfunctioning.
+
 Signature Move: 
 Prerequisites:
 What can you say. When you do what you''re good at, you do it well. Come up with a Name or Motto for your signature move, and you gain +10% towards this action. HOWEVER, you must shout your Motto or the Name when you perform this move. And hey, keep this move on the DL unless it is absolutely necessary to be used. You wouldn''t want posers to copy it. (Note: this is an RP''d action meant to be performed in cqc, not simply aiming your rifle at their head and squeezing the trigger while shouting "BOOM HEADSHOT!" Please ask for GM permission when using this feat.)
