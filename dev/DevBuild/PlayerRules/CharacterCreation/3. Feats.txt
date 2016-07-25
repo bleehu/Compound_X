@@ -59,6 +59,10 @@ Focus Energy:
 Prerequisites:
 Spend one Full-Action to increase the effects of a spell or Nanite based action by 20%, (20% better roll, 20 damage, up to you.)
 
+Four on the Floor:
+Prerequisites: Pilot or 20 skill in piloting
+Tires were meant to be balded. You get a +20 to any difficult maneuver with a land vehicle in which you do not catch air. This works with vehicles that have treads or some other method of land support as well.
+
 Gunsmith: 
 Prerequisites:
 Combine up to 2 weapon total conversions (ask GM about applicability of desired conversations).
