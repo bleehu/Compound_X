@@ -67,6 +67,10 @@ Gunsmith:
 Prerequisites:
 Combine up to 2 weapon total conversions (ask GM about applicability of desired conversations).
 
+I'm a leaf on the wind:
+Prerequisite: Pilot or 40 skill in piloting
+You get a +20% to pilot skill checks in airborne or spaceborne vehicles, and an additional +20% o unconventional maneuvers in such as well, but you and your vehicle take double damage for the next three turns after using these bonuses. (any teammates in such a vehicle do not take double damage)
+
 Last Shot Counts: 
 Prerequisites:
 The last shot in every mag deals Double-Crit damage, but your reload DC is twice as high.
