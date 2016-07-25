@@ -1,3 +1,17 @@
+Human
+Society:
+Humans are the most common sentient species in ECSC. While most belong to the empire that is centered near their home planet, many other cultures and sub cultures dot the surrounding systems ranging from corporations to patriarchies to pirate anarchies. 
+Qualities:
+Humans are bipedal mammals with opposable thumbs and no tail. Their fur grows so thin in most places, that they appear bald all over with the periodic exception of the tops of their heads.
+Type:		Organic
+Size:		Medium
+Speed:		Normal
+Stat Modifiers:	
++2 stat points to spend at level 1
+Language: 	Emperial Common, +1 dialect
+Racial Traits:	
+None
+
 Tundari
 Society: Tribal system, lead by a counsil of elders.
 Homeworld:Tundaaari
