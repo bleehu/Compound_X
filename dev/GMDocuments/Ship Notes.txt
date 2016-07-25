@@ -1,7 +1,7 @@
 /*=========================================
  * This document explains the current technology level relating to
  * ships in the Compound X universe. This document will assume an
- * average ship. Some ships have better features than oothers,
+ * average ship. Some ships have better features than others,
  * especially in the military and private sectors.
  *=======================================*/
 
