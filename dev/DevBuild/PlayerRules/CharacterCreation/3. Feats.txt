@@ -28,6 +28,13 @@ Conceal Weapon:
 Prerequisites:
 Make a stealth check to hide your chosen pistol, shotgun, or smg on your person. Minimum score of 20. Roll determines DC for enemy to actively search and find weapon.
 
+Concussive Matainence:
+Prerequisites: 20 skill in repair or Engineer class. STR 4
+For a half action, you may whack something broken to try to fix it at a repair DC of  +15%
+or
+Take a half action to smack something that you've failed to repair. Your next repair check gets a -15% DC.
+regardless, you can only use concusive matainence on a target once per encounter.
+
 Cross-Train:
 Prerquisites: Int 8
 Instead of taking your regular Class feat on the next level, you may learn one from another class.
