@@ -1,0 +1,38 @@
+Official Tank rules
+
+For Rigistruct Hover Tank on planet CX-509
+
+Seats four players:
+	-	Driver
+	-	Loader
+	-	Turret
+	-	Fun stuff (E-pulse sheilds, Cloaking, Invis and self repair)
+
+Has 400 health or 4 vehicle health
+Moves 60m per full action
+Cannot be plasma burned
+
+Main cannon:
+200m range
+200 damage with standard round
+25% accuracy DC
+
+Loading:
+requires a STR DC 50 to load each shell as a full action
+Loader has access to a panel that makes shells. Panel has 6 buttons
+Order is important, as they are labled in chineese
+	-	Opalescent
+			???
+	-	Red
+			???
+	-	Orange
+			standard shot
+	-	Blue
+			Flaming anti-personell shot
+	-	Green
+			Acid anti-vehicle shot
+	-	Black
+			fires a black hole depending on crew teamwork DC
+			
+The person in the "fun stuff" seat may trigger E-Pulse Sheilds, cloaking and self-repair at different DCs.
+Tank cannot fire and E-Pulse in the same round.
