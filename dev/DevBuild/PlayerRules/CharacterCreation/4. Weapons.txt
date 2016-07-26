@@ -325,12 +325,12 @@ No optics, barrel attachments or extended mags. Fires three bullets
 whenever you would fire one, but only every third bullet counts for 
 any per bullet effects. 
 
-Strudwick Arms Ultralight Autocannon 14 EP
+Strudwick Arms Ultralight Autocannon 14 EP $1800?
 Requires strength 6 to carry.
 140m
 30%
 6 rounds, 35mm impact detonating HESH warheads
-80 damage, 3d10 splash damage in 1m adjacent
+80 damage, 3d10 splash damage in 1m adjacent.
 Damages vehicles. No optics or barrel attachments.
 
 G&W AA-29 Personal Flack Cannon 14 EP

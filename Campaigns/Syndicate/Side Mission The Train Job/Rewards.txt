@@ -1,0 +1,77 @@
+Garred: Hunter
+"Hey hotshot!" As you walk through the Rigistruct camp on the way back to your 
+ship for final extraction, an allied sniper wearing Rigistruct colors calls 
+you over. "Heard your group got to trade shots with that asshole merc who's 
+been poppin' my guys. Did ya drop him?" He seems disappointed when you tell him
+that he got away. "Well Matt helped me out a while back. Thanks for makin' sure
+he never took a second one. Here, take this."
++ Side Rail attatchment: lazer mic
+May be used to covertly eavesdrop on a target from great distances away. For 
+best results, aim at a thin solid surface near the target. RP effects. See GM 
+for details.
+"Snipin's thirsty work. Take this too. Looks like you could use it."
++RP item: Canteen
+
+
+
+
+ITU-9001
++Rigistruct Antivirus
++Gyroscopes
+"Hey big guy, Thanks for watching my back out there. You're not bad for a bucket of
+bolts. Since the bad guys are sending some hackers, I thought maybe you could use this. "
+
++ Data storage device
+contains "Land-Ho! Open source antivirus and spyware protection" +15% to resisting
+RATs, Data worms, etc.
+
+"Also, I was workin' on a thing in my garage, but it's almost ready and I think you'll put it to good use. Stay safe out there man. "
+
++ Matt's Experimental Gyroscopes
+You get a +5% to parkour or unconventional acrobatic movments, and since it's built
+Rigistruct tough, you also get a +5% to maintain your berrings when battered by 
+concussive forces.
+
+
+Von Hellsong
+"Captain, it's been a pleasure working with you. I can't thank you enough for
+clearing the way for our air support. You've saved lives today, son.  Take this,
+hopefully it'll return the favor."
+
+Rigistruct MOLLE Plate Light Armor Base: 4 EP 
+45% coverage
++5 damage reduction
+Digital Forrest cammoflage with Rigistruct orange trim, insignia and straps. Light
+ceramic balistic plates with Rigistruct polycarbide inclusions so it's extra bullet proof. 
+
+"It's important to reflect on one's victories without resting on your laurels. Taking
+a team unto the breach and pushing them to the edge without losing one is a helluva 
+thing. Have one on me."
+
+RP item: The Commander's imported Cigar
+Smells expensive. Smells like victory.
+
+
+Davidaross
+
+"Hey, I wanted to say thanks for saving my life. First when that sniper hit me,
+and for the work you did with me on that dam. They promoted me you know, I get
+to stay back at the FOB and teach the other mechanics to keep their heads down.
+I get to see my daughter on the weekends. Anyway, I won't be needing this anymore.
+I'd like you to have it."
+
+Matt's Sidearm		5EP
+40m
+25%
+6 rounds, .357 [standard, FMJ(AP), HP, Magnum, CS, HV, exotic]
+56 damage
+A long barelled revolver somewhere between oft used and well cared for. It's 
+suprisingly well balanced and the action feels very smooth. Single Action Revolver: cannot be fired as a free action. Reload DC 40; reload time half action. If failed, reload time one full action. It has the Rigistruct insignia stamped into the grip.
+
+"And my daughter drew this for me. I have a bunch of 'em, and based on the subject
+matter of this particular piece, I thought maybe it'd remind you to keep sticking
+up for the little guys"
+
++RP Item: Matt's Daughter's stick figure drawing.
+A crayon drawing clearly depicting a well-muscled warlock saving Matt and dismembering
+an evil elephant. Or sniper, it's kinda hard to tell.
