@@ -1,5 +1,10 @@
-Michael
-
+/*========================================
+ * This document lists the feats available to characters in Compund X
+ * Feats may be taken on every even level as described in the Basic
+ * Rules document. Passive feats are used freely with no limit
+ * (unless otherwise stated) while active feats require the user to
+ * spend a number of nanites, specified next to the feat's name.
+ *======================================*/
 ====================
 Passive Feats
 ====================
@@ -28,13 +33,6 @@ Conceal Weapon:
 Prerequisites:
 Make a stealth check to hide your chosen pistol, shotgun, or smg on your person. Minimum score of 20. Roll determines DC for enemy to actively search and find weapon.
 
-Concussive Matainence:
-Prerequisites: 20 skill in repair or Engineer class. STR 4
-For a half action, you may whack something broken to try to fix it at a repair DC of  +15%
-or
-Take a half action to smack something that you've failed to repair. Your next repair check gets a -15% DC.
-regardless, you can only use concusive matainence on a target once per encounter.
-
 Cross-Train:
 Prerquisites: Int 8
 Instead of taking your regular Class feat on the next level, you may learn one from another class.
@@ -59,21 +57,13 @@ Focus Energy:
 Prerequisites:
 Spend one Full-Action to increase the effects of a spell or Nanite based action by 20%, (20% better roll, 20 damage, up to you.)
 
-Four on the Floor:
-Prerequisites: Pilot or 20 skill in piloting
-Tires were meant to be balded. You get a +20 to any difficult maneuver with a land vehicle in which you do not catch air. This works with vehicles that have treads or some other method of land support as well.
-
 Gunsmith: 
 Prerequisites:
 Combine up to 2 weapon total conversions (ask GM about applicability of desired conversations).
 
-I'm a leaf on the wind:
-Prerequisite: Pilot or 40 skill in piloting
-You get a +20% to pilot skill checks in airborne or spaceborne vehicles, and an additional +20% o unconventional maneuvers in such as well, but you and your vehicle take double damage for the next three turns after using these bonuses. (any teammates in such a vehicle do not take double damage)
-
 Last Shot Counts: 
 Prerequisites:
-The last shot in every mag deals Extra-Crit damage, but your reload DC is twice as high.
+The last shot in every mag deals Extra`-Crit damage, but your reload DC is twice as high.
 
 Kata: 
 Prerequisites: Level 10 or higher
@@ -114,12 +104,6 @@ Your character has something going for them. You may ask the GM how many bullets
 Run 'N' Gun: 
 Prerequisites: PER > 6, DEX > 6 or Soldier, Specialist classes.
 you may move at half speed while firing. +10% accuracy. If this feat is performed while sprinting, half your movment speed before you add the 2m from sprinting. The accuracy penalties stack. 
-
-Salty Hashtables
-Prerequisites: Must be a mechanical race
-Your data inputs are sanitized and encrypted, complete with checksums!
-Hacking you is 20% harder and you are aware whenever one of your senses is 
-malfunctioning.
 
 Signature Move: 
 Prerequisites:

@@ -6,18 +6,24 @@ Effects:
 Capacitant Shield (CS) burn: d10/2 damage for 2 turns (Does not stack). +5 dam against robotic units.
 //============================================================
 
-Grabber Knife 
+Grabber Knife: $200
 This knife is designed in such a way as to aid its user in grabbing the enemy. It has a large barb at the tip, is hook shaped, etc.
 Whenever you roll a successful grappling check, you may deal STR * 3 or DEX * 3 damage to your opponent.
-Adjacent
+1m (Adjacent)
 40%
 7 * (STR or DEX)
 
-CS Edged Katana
-1m
+Muzashi CS Edged Katana: $455
+2m
 50%
 40 + (6*DEX)
 Inflicts CS burn
+
+Plasma Sword: $560
+This sword emits a steady beam of plasma which can cut through almost anything (except titanium and stronger metals, stone, hardened CS).
+2m
+40%
+40 + (6*DEX) + Plasma Burn
 
 ============================================================
 Pistols:

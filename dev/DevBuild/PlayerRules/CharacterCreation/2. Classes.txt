@@ -2,7 +2,7 @@ Core classes:
 //====================================================
 Your character starts at level 0. At level 0 you have skills and feats, but no class or class feats.
 At level 1 you get to select a class, and recieve the class passives. However, you do not select a class feat until level 5.
-On selecting a class, you gain all of the passives listed, and get to choose between one of two listed feats. For any listed class, if it says "Gain X Skill at 10" that means you get to add the X skill to your skill list, and it starts at rank 10, meaning a +10% to any roll for that skill. At the first level taken in a class, you get the single star version of the feat. At level 5 and every 5 levels thereafter, you can choose to rank up the feat, or add the other feat to your character.
+On selecting a class, you gain all of the passives listed, and get to choose between one of two listed feats. For any listed class, if it says "Gain X Skill at 10" that means you get to add the X skill to your skill list, and it starts at rank 10, meaning a +10% to any roll for that skill. At the first level taken in a class (other than level 1), you get the single star version of the feat. At level 5 and every 5 levels thereafter, you can choose to rank up the feat, or add the other feat to your character.
 //====================================================
 
 "Soldier" - You have the blood of a warrior flowing through you. Your sole purpose is to fight until the threat is neutrilized.
@@ -242,6 +242,7 @@ At the cost of 20 Nanites, you can summon Nanite-crystal blades. These blades ar
 V
 At the cost of 15 Nanites, your Nanite-Crystal Blades can be summoned. Damage dealt by these blades is always treated as Standard-Crit damage, in addition to any CS burns afflicted to the target. Blades appear at the users hand, wrist, etc. Blades can also appear with some momentum (for RP purposes).
 
+//Currently under review, class changes to come. Consider Hunter as an alternative.
 "Marksman" - Your knowledge of bullet balistcs, experience at ranges, etc. has given you keen insight into firing a gun very, very accurately.
 Passives: Gain Sniping at 10 or Aimed shot at 10
 Weapon Proficiencies: Long Rifles, Pistols.

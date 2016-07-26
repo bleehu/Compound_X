@@ -1,8 +1,15 @@
-All weapons deal additional 5 damage when 20 or less is rolled at hit. If 10 or less is rolled to hit, an additional 5 damage is added on top of the 20%
+/*=======================================
+ * This document lists the weapons available to players in Compound
+ * X. There are more weapons, listed in the "Advanced Weapons"
+ * document, however those are considered higher level weapons or
+ * quest rewards.
+ * All weapons deal an additional 10 damage when a roll of 90-95
+ * occurs. This is a Critical hit. When a roll of 96-100 occurs, all
+ * weapons deal an additional 20 damage. This is an Extra-Crit.
+ *=====================================*/
 
 ============================================================
 Melee Weapons:
-Round up for STR/2, I.E. 3 STR grants a 2, 5 grants a 3.
 Effects:
 Capacitant Shield (CS) burn: d10/2 damage for 2 turns (Does not stack). +5 dam against robotic units.
 ============================================================
@@ -12,44 +19,44 @@ Adjacent
 55%
 10 + STR
 
-Hand to Hand (Trained): (free)
+Hand to Hand (Trained): (requires 10 skill in unarmed combat)
 Adjacent
 40%
 30+(STR+ or DEX+)
 20% disarm (unless weapon is attached via sling, etc.)
 
-Hand to Hand (Expert): N/A, (free if specialist)
+Hand to Hand (Expert): (Requires Combat Expertise [Melee] and unarmed skill, or class passive.)
 2m
 25%
 50 + (STR+ or DEX+)
 50% disarm (unless weapon is part of target). Can use disarm to grapple an opponent using their weapon's sling.
 
-Edged Weapons:
+//Edged Weapons:
 
-Combat Knives: 1EP
-Adjacent
+Combat Knives: $120
+1m (adjacent)
 40%
 8* (STR or DEX)
 
-Combat Swords: 2EP
-1m
+Combat Swords: $325
+2m
 35%
 8*(STR) + 10
 
-Power Fist: 2EP
-Adjacent
+Power Fist: $165
+1m (adjacent)
 40%
 11*STR
 
-CS Edged Knife: 3EP
-Adjacent
+CS Edged Knife: $200
+1m (adjacent)
 40%
 7 * (STR or DEX) + CS burn
 Ignore armour percents, Inflict CS burn. If target has Capacitant Shield armour, CS burn is canceled and all damage is inflicted to the shield, unless the shield is completely discharged.
 
 
-CS Edged Combat Sword: 4EP
-1m
+CS Edged Combat Sword: $405
+2m (adjacent)
 35%
 7*(STR) + 10 + CS Burn
 Ignore armour percents, Inflict CS burn. If target has Capacitant Shield armour, CS burn is canceled and all damage is inflicted to the shield, unless the shield is completely discharged
