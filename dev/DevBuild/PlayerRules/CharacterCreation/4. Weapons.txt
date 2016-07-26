@@ -55,7 +55,7 @@ CS Edged Knife: $200
 Ignore armour percents, Inflict CS burn. If target has Capacitant Shield armour, CS burn is canceled and all damage is inflicted to the shield, unless the shield is completely discharged.
 
 
-CS Edged Combat Sword: $405
+CS Edged Combat Sword: $400
 2m (adjacent)
 35%
 7*(STR) + 10 + CS Burn
