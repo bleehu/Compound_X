@@ -154,15 +154,15 @@ On basic doors, you can blow off the locking mechanism on a roll over 10%.
 Slings
 ===================
 
-Pistol Lanyard 2EP
+Pistol Lanyard $100
 If you drop your pistol, it''ll fall harmlessly to your leg level instead of dropping onto the ground.
 Holstering your weapon is a free action. Drawing your pistol takes a full action next time.
 
-Two Point Sling 3EP
+Two Point Sling $100
 You can use your sling to stabilize your grip arm. -5% accuracy.
 Reduce strength needed by 1.
 
-One Point Sling 4EP
+One Point Sling $150
 Due to the positioning of the weapon, you can draw your primary as a free action.
 Reduce strength required by 1. Holstering your weapon is a free action.
 

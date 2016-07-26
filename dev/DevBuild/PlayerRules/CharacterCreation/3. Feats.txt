@@ -58,7 +58,7 @@ Combine up to 2 weapon total conversions (ask GM about applicability of desired 
 
 Last Shot Counts: 
 Prerequisites:
-The last shot in every mag deals Double-Crit damage, but your reload DC is twice as high.
+The last shot in every mag deals Extra-Crit damage, but your reload DC is twice as high.
 
 Kata: 
 Prerequisites: Level 10 or higher

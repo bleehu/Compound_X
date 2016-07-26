@@ -75,7 +75,7 @@ Nanite Pack: 2d10 + 20 nanites
 Special Cold Goggles: + heat vision, 30m
 
 Paladin Spells:
-Mage Armour[X]: Gain a nanite shield, X * 3. Max X = 20+(25)+ 20 shiled to allies.
+Mage Armour[X]: Gain a nanite shield, X * 3. Max X = 20 + (25) + 20 shiled to allies.
 Improved Mage Armour (4)[X]: X * P.Lvl, Plus gain 5 * P.lvl D.R. after shield pops (single use). X = 10*Lvl max.
 Divine Favor(4) [5]: Gain +5 damage and -5% per P.Level (round down).
 Detect Evil (1) [0]: +20% detect evil.

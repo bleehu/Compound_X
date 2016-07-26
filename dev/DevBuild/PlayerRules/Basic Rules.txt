@@ -91,6 +91,8 @@ At any time out of combat, you may decide to use one of your skills. If you are 
 If you want to use a skill in combat, see the Combat: Actions subsection.
 Skill ranks are exact percentiles to pass a skill check. If you have 50 ranks in a skill, then you have a +50% chance to pass a skill check for that skill. Everytime you purchase a new skill for 10 Skill points, it starts as a +10 skill. When leveling up you may add up to 5 points to any one skill.
 
+Defenders win Ties for opossing rolls. If a character ties a DC they fail.
+
 ==============================
 Player Weapon Customization:
 ==============================
@@ -109,7 +111,7 @@ A character occupies 1m of space. however, as Compund X is not played out on a s
 Two Players locked in melee combat are considered to be in adjacent 1m spaces, not in the same 1m space. Have you ever seen a fight? you don't start face-face unless you're at a bar.
 Generally speaking, once a character has initiated melee combat with another character, they are both considered to be in "melee combat," and occupy adjacent 1m spaces. At this point (unless one characteer has a cqb weapon) both characters are assumed to be using their fists or other melee weapons. If a character wishes to leave melee combat, they incur a "penalty attack." Characters also incur "penalty attacks" when moving through or next to an enemy character's 1m space, or within range of a melee weapon that the enemy has equipped, and when performing a skill check when in melee combat.
 Melee combat is relatively simple. To hit an enemy player, add your dexterity or strength modifier to a roll, plus any relevant skill. The result must be greater than the opponent's DEX * 5 + any skill in combat (Guard DC). Your damage dealt is based on your DEX or STR modifier. If you are weilding a weapon against an unarmed opponent, they may still incur damage depending on their skill.
-A character may grapple another character when they are both in melee distance. Doing so provides the grappled player a "penalty attack" on the grapling player. During grappling, both sides roll opposing grapple checks to see who maintains control. Once you have control you may make a grapple check to subdue your opponent (either through choke-out, pin, or a joint lock). You may also strike an opponent during grappling, but if the strike fails your opponent may attempt to gain control of the grapple. Skill in grappling is different than skill in unarmed combat.
+A character may grapple another character when they are both in melee distance. Doing so provides the grappled player a "penalty attack" on the graPpling player. During grappling, both sides roll opposing grapple checks to see who maintains control. Once you have control you may make a grapple check to subdue your opponent (either through choke-out, pin, or a joint lock). You may also strike an opponent during grappling, but if the strike fails your opponent may attempt to gain control of the grapple. Skill in grappling is different than skill in unarmed combat.
 
 Actions:
 During combat, your character is given 2 Full Actions to use for fighting, movement, using items, etc. Each action is split into two half-Actions. Here is a table of common tasks and their relative Action point cost:
