@@ -33,7 +33,7 @@ Concussive Matainence:
 Prerequisites: 20 skill in repair or Engineer class. STR 4
 For a half action, you may whack something broken to try to fix it at a repair DC of  +15%
 or
-Take a half action to smack something that you've failed to repair. Your next repair check gets a -15% DC.
+Take a half action to smack something that you''ve failed to repair. Your next repair check gets a -15% DC.
 regardless, you can only use concusive matainence on a target once per encounter.
 
 Conceal Weapon: 
