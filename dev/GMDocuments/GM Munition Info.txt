@@ -1,0 +1,37 @@
+/*========================================
+ * GM Munition Information
+ * This document outlines common rounds used within the ECSC and
+ * beyond, and attempts to infrom GMs of their potency for
+ * clarity and consistancy across multiple campaigns and within
+ * a distributed development effort.
+ *======================================*/
+
+Pistol Rounds
+.22
+.380 ACP
+9 mm
+.40
+10 mm
+.357 magnum
+.45
+.45 long
+.44 magnum
+.50 AE
+.500 S&W
+.60
+.62
+.680 RMM
+
+Rifle Rounds
+5.56 x 45 NATO
+6.78 x 
+7.62 x 39
+.308
+7.62 x 51 NATO
+7.62 x 54R
+.338 Lapua Magnum
+
+
+//System for GMS create balanced enemy weapons
+//technical document. Weapon for certain class, these are stats and dynamics you must keep in mind from a game balance perspective.
+//talk about tactical relationships / balance relationships between guns.

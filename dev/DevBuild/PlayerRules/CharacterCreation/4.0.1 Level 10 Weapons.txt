@@ -4,26 +4,28 @@ Pistols:
 Minimum Strength 2, Reload DC 20 unless otherwise noted. With DEX less than 5, Single Action revolvers must be re-cocked as a half action. Reload time 2 Half Actions
 ============================================================
 
-Mathews Model 30 		$2200
-50m
-35%
-6 rds, .44 magnum
-62 damage
+Mathews Model 36 $1580
+65 m
+25%
+6 rds, .46 Magnum; FMJ / HP / AP
+65
+Reload 23%
+Single Action Revolver: cannot be fired as a free action.
 
-Raging Heffer			$2200
-25m
-26%
-6 rounds, .50 
+Raging Heffer			$1680
+60m
+30%
+6 rounds, .500 S&W
 80 damage
 
-Smithers P3K			$1800
+Smithers P3K			$700
 35m
 28%
-11 rds	.380 ACP
-45 damage
+11 rds	.40 ACP
+55 damage
 +10% chance to crit, no penalty to suppressing
 
-Thor Pitton Dart Tazer	$620
+Thor Pitton Dart Tazer	$540
 20m 
 32%
 5 rounds, Tazer darts
@@ -46,7 +48,7 @@ Capable of high rates of fire, but utilizing lighter calibers than a traditional
 Minimum Strength 4, Reload DC 25% unless otherwise noted. Reload time 2 Half Actions.
 ============================================================
 
-ECSC MK9 PDW				$3600
+ECSC MK9 PDW				$3600//naming
 50m
 40%
 30 rounds 9mm
@@ -59,22 +61,25 @@ Carbines & Battle Rifles
 Minimum Strength 5, Reload DC 25% unless otherwise noted. Reload time 2 Half Actions
 ============================================================
 
-ECSC GASH-L 				$3800
-80m
-35%
-30 rounds 5.56
-60 damage
+
 
 ============================================================
 Assault Rifles:
 Minimum Strength 5, Reload DC 25% unless otherwise noted. Reload time 2 Half Actions
 ============================================================
 
-ECSC GASH-H 				$4000
-80m
-29%
+ECSC AR-SOC L               $2440
+130m
+25%
 30 rounds 5.56
-68 damage
+50 damage
+
+
+ECSC AR-SOC H 				$3720
+150m
+20%
+20 rounds 7.62x51 NATO
+62 damage
 
 
 ============================================================
@@ -85,7 +90,7 @@ at least 20 points in heavy weapons skill unless otherwise
 stated.
 ============================================================
 
-Strudwick Arms LA-8b Light Autocannon $7400
+Strudwick Arms LA-8b Light Autocannon $20,650
 Requires strength 7 to carry.
 180m
 26%
@@ -123,7 +128,7 @@ Instead of taking an accuracy penalty to firing at a target in cover, The Light
 Coilgun takes a damge penalty; 10 damage for an opponent in light cover, 20 
 damage for an opponent in heavy cover, and an additional 20 for an opponent 
 that hunkered down. Cannot fire through multiple layers of cover. Does not 
-grant awareness of an enemy you can't see or hear. Cannot be silenced. 
+grant awareness of an enemy you can''t see or hear. Cannot be silenced. 
 Subsequent shots on the same turn accrue a stacking 15% chance to miss.
 
 ============================================================

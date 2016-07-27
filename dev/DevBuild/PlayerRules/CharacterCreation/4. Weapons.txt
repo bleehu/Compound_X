@@ -241,7 +241,8 @@ Mathews .357 Carbine $1120
 35%
 15rds, .357; FMJ / AP / HP
 46
-All rounds are available in a .357 Mag. version, which increases the base damage by 5, but increases the cost of each magazine by 1EP
+All rounds are available in a .357 Mag. version, which increases the base damage by 5, but increases the cost of each magazine by 
+CQB rifle
 
 Mathews M-01 Carbine $1400
 85m
@@ -267,12 +268,14 @@ Mathews SK0 $1560
 40%
 20 rds, .223 ECSC; FMJ / HP
 52
+CQB rifle
 
 G&W FBR-C $2390
 110m
 30%
-30 rds, 7.62x51mm Rifle Magazine; FMJ / AP
+20 rds, 7.62x51mm Rifle Magazine; FMJ / AP
 62
+CQB rifle
 
 ============================================================
 Assault Rifles:
@@ -301,7 +304,7 @@ Tracer inflicts 1 turn of bleed damage.
 G&W FBR $2600
 120m
 30%
-30 rds, 7.62x51mm Rifle Magazine; FMJ / AP
+20 rds, 7.62x51mm Rifle Magazine; FMJ / AP
 62
 
 
@@ -330,7 +333,8 @@ Reqires Strength of 7 to carry.
 Supporting Fire
 No optics, barrel attachments or extended mags. Fires three bullets 
 whenever you would fire one, but only every third bullet counts for 
-any per bullet effects. 
+any per bullet effects.
+//minigun
 
 Strudwick Arms Ultralight Autocannon 14 EP $1800?
 Requires strength 6 to carry.
@@ -339,6 +343,7 @@ Requires strength 6 to carry.
 6 rounds, 35mm impact detonating HESH warheads
 80 damage, 3d10 splash damage in 1m adjacent.
 Damages vehicles. No optics or barrel attachments.
+//turret from halo, gauss rifle
 
 G&W AA-29 Personal Flack Cannon 14 EP
 Requires strength 5 to carry
@@ -349,8 +354,9 @@ Requires strength 5 to carry
 6 rounds, Deathmetal custom flack rounds
 Each shot into a door reduces the DC of kicking down that door by 65.
 If the DC becomes 0, the door is blown open. No optics or barrel attachments.
+//flak cannon from unreal tournament / roadhog's shotgun from shotgun
 
-
+//Add KMR and Mk240 b
 
 ============================================================
 Long Rifles:
@@ -371,7 +377,7 @@ ECSC Mk12 Mod 0 $3500
 30%
 20 rds, 5.56x45mm Rifle Magazine; FMJ
 50
-Reload DC 25%, 2Half Actions
+Reload DC 25%, 2 Half Actions
 
 Anvil Arms SR-250 $8160
 30-300m
@@ -388,6 +394,8 @@ ECSC PRS $8000
 Bolt Action: take 1 action to fire, 1 action to chamber a new round.
 Integrated Improved Silencer.
 Reload DC 26%, 2 Half Actions
+
+//add some rifles and buff SR series rfles 100m after marksman update
 
 
 //===================================================================
