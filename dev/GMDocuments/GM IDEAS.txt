@@ -12,13 +12,15 @@ Western Campaign
 $500 for a days work as an adventurer or mercenary. $2500/week, $10,000/month
 Square meals
 Ammunition used
-depending on mission, about 3 OOG metings, 1 encounter per meeting, $1000 per encounter, $3000 per contract ()
-
-$6000 
+depending on mission, about 3 O-O-G metings, 1 encounter per meeting, $1000 per encounter, $3000 per contract.
+1 meal = $15
 
 Change armour pricing steeper, and make certain "Levels" of armour correspond to certain materials.
-
-slug goes farther, less dmaage than medi of buck
+Level 2 = Steel Plate 10 10
+Level 3 = Ceramic Plate 15 20
+Level 4 = Carbon-Steel Fiber 20 30
+Level 5 = Ceramic Nano-Crystal 25 40
+Switch rolling of armour penitration to attacker, makes more sense that you have to roll to hit not their armour. also that way anyone with a feat that negates part of armour can add that to their roll instead of telling the defender to do that.
 
 12 ga buck
 0-3m 80 dam, 2 bleed

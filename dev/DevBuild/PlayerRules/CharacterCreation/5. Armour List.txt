@@ -23,34 +23,72 @@
  *======================================*/
 
 Any n+ level of protection, the amount of Damage Reduction (DR) is rolled at the time of purchase. A level 4+ armour plate might be anywhere from 16-25 DR for its lifetime, depending on what you roll when you purchase it. These armours are a bit of a gamble, since they may provide better protection than the next tier up, or they might only provide marginally better protection than the last tier.
+///////////////////////////////////////////////////////////////////////////
+//Undersuits
+//Various undersuits exist, providing buffs to the wearer. Undersuits are
+//wearable by all classes unless otherwise stated. Undersuits provide a 
+//damage reduction to any hits that miss armour. Additionally any damage
+//which only affect a limb has the suit's DR applied to it. Undersuits
+//count as a full set of clothing, so any clothes worn over them look out
+//of place.
+    //Flightsuits offer basic protection from the elements.
+    //Traditionally come in Tan, Olive Drab, Wolf-Grey, Dark Earth, Black, Camo Patterns, etc.    
+    Polymer-Alloy flightsuit $1500
+    5 DR
 
-//////////////////////
+    Nano-steel Kevlar flightsuit $1750
+    10 DR
+
+    Carbon-Steel Fiber flightsuit $2000
+    15 DR
+
+    Carbon-Ceramic Fiber flightsuit $2250
+    20 DR
+
+    //These environment suits are air- and water-tight when combined with an EVA helmet. They are bulky and any DEX skill-checks are at a -10% and movement is reduced in RP.
+    //Traditionally come in white, yellow or red.
+    Polymer-Alloy flightsuit
+    This basic environment suit offers no balistic protection. When shot, the suit will decompress or compress (as necessary).
+
+    Nano-steel Kevlar environment suit $5000
+    10 DR
+    Suit integrity: 5 shots
+
+    Carbon-Steel Fiber environment suit $5500
+    15 DR
+    Suit integrity: 10 shots
+
+    Carbon-Ceramic Fiber environment suit $6000
+    20 DR
+    Suit integrity: 20 shots
+
+///////////////////////////////////////////////////////////////////////////
 //Concealed Setups
 //Offering slightly worse protection and armament for the price, but with
 //the bonus of being concealable under a coat or jacket for clandestine or
 //stealth oriented operations.
     
-    Runner''s Kit 20EP, $20
+    Runner''s Kit: $20
         Conceal Rig, Shoulder Harness
             Pistol Holster, 2 Pistol mags
             cannot be worn with plate carriers, soft armour, or tactical vests.
         
-    Gunner Kit 50EP, $50
+    Gunner Kit: $100
         Trauma Plate Vest
-            Holds 1 trauma plate in the front. 35% coverage, 20 DR. Concealable.
+            Holds 1 trauma plate in the front. 35% coverage, 15 DR. Concealable.
         Conceal Rig, Shoulder Harness
             Pistol Holster, 2 Pistol mags
             cannot be worn with plate carriers, soft armour, or tactical vests.
     
-    Enforcer Kit 60EP $60
+    Enforcer Kit: $110
         Trauma Plate Vest
-            Holds 1 trauma plate in the front. 35% coverage, 20 DR. Concealable.
+            Holds 1 trauma plate in the front. 35% coverage, 15 DR. Concealable.
         Conceal Rig, Waist
             Pistol Holster or 2 primary mags, 2 secondary mags
     
-    Clandestine Ops Kit 80EP, $80
+    Clandestine Ops Kit: $120
         Trauma Plate Vest
-            Holds 1 trauma plate in the front. 35% coverage, 20 DR. Concealable.
+            Holds 1 trauma plate in the front. 35% coverage, 15 DR. Concealable.
         Conceal Rig, Waist
             Pistol Holster or 2 primary mags, 2 secondary mags
         Conceal Rig, Shoulder Harness
@@ -64,59 +102,59 @@ Any n+ level of protection, the amount of Damage Reduction (DR) is rolled at the
 // received during each)
 //3 primary mags, 2 secondary mags, 1 grenade.
     
-    Level 2 40EP, $40
+    Kevlar Vest $60
         60%
         10 DR
     
-    Level 3 50EP, $45
+    Carbon-Steel Fiber, $180
         60%
-        15 DR
+        20 DR
     
-    Level 3+ 55EP, $50
+    Carbon-Steel Fiber, reinforced, $220
         60%
-        10 + d10 DR
+        15 + d10 DR
     
 ///////////////////////////////////////////////////////////////////////////
 //Light Armour Setups:
 //A "Chest Rig" which holds one front plate and some gear.
 //4 primary mags, 4 of combined secondary mags and grenades.
     
-    Level 2 50EP, $60
+    Steel Plate, $120
         30%
         10 DR
     
-    Level 2+ 55EP, $65
+    Steel Plate, reinforced, $130
         30%
         5 + d10 DR
         
-    Level 3 60EP, $70
+    Ceramic Plate, $340
         30%
-        15 DR
+        20 DR
     
-    Level 3+ 65EP, $75
+    Ceramic Plate, Steel backed $360
         30%
-        10 + d10 DR
+        15 + d10 DR
     
 ///////////////////////////////////////////////////////////////////////////
 //Medium Armour Setups:
 //A smaller plate carrier which holds a moderate amount of gear.
 //6 primary mags, 5 of combined secondary mags and grenades.
     
-    Level 3 90EP, $150
-        60%
-        15 DR
-        
-    Level 3+ 95EP, $160
-        60%
-        10 + d10 DR
-        
-    Level 4 100EP, $170
+    Ceramic Plate, $390
         60%
         20 DR
         
-    Level 4+105EP,  $180
+    Ceramic Plate, Steel backed, $440
         60%
         15 + d10 DR
+        
+    Carbon-Steel Fiber, $500
+        60%
+        30 DR
+        
+    Carbon-Steel Fiber, Titanium backed,  $550
+        60%
+        25 + d10 DR
     
 ///////////////////////////////////////////////////////////////////////////
 //Heavy Armour Setups:
@@ -125,89 +163,67 @@ Any n+ level of protection, the amount of Damage Reduction (DR) is rolled at the
 //8 primary mags, 6 of combined secondary mags and grenades.
 //With side plates included (any armour listed as 80% coverage) take a -1m movement speed penalty.
     
-    Level 3 100EP, $180
+    Ceramic Plate $420
         60%
         15 DR
         
-    Level 3 100EP, $195
+    Ceramic Plate $470
         80%
         15 DR
         
-    Level 3+ 105EP, $190
+    Ceramic Plate, Steel backed, $450
         60%
         10 + d10 DR
         
-    Level 3+ 105EP, $200
+    Ceramic Plate, Steel backed, $500
         80%
         10 + d10 DR
-        
-    Level 4 110EP, $200
+    //Carbon-Steel Fiber    
+    Carbon-Steel Fiber, $500
         60%
-        20 DR
+        30 DR
         
-    Level 4 110EP, $220
+    Carbon-Steel Fiber, $560
         80% 
-        20 DR
+        30 DR
         
-    Level 4+ 115EP, $210
+    Carbon-Steel Fiber, Titanium backed, $530
         60%
-        15 + d10 DR
+        25 + d10 DR
         
-    Level 4+ 115EP, $230
+    Carbon-Steel Fiber, Titanium backed, $590
         80%
-        15 + d10 DR
-        
-    Level 5 120EP, $220
+        25 + d10 DR
+    //Ceramic    
+    Ceramic Nano-Crystal, $590
         60%
-        25 DR
+        40 DR
         
-    Level 5 120EP, $245
+    Ceramic Nano-Crystal, $660
         80%
-        25 DR
+        40 DR
         
-    Level 5+ 125EP, $230
+    Ceramic Nano-Crystal, Titanium backed, $650
         60%
-        20 + d10 DR
+        35 + d10 DR
         
-    Level 5+ 125EP, $250
+    Ceramic Nano-Crystal, Titanium backed, $720
         80%
-        20 + d10 DR
+        35 + d10 DR
 
 ///////////////////////////////////////////////////////////////////////////
 //Full Armor:
 //Covers the front of your chest, your back, your sides, shoulders, neck, pelvic region, and tops of your legs.
 
-EOD Level 5 armor 20EP
-30 DR
-95%
-Movement restricted to 3m per Full Action (or your max speed if less than 3). No use of melee, and regular actions take twice as long.
-8 Prim. Mags, 4 Secondary Mag.
-4 grenade clips
-This armor is really heavy. It slows down your move speed by 2m.
+    Carbon-Steel Fiber
 
-Class A Capacitant Shielding 20EP
-Nanites/2 used as Health bar for shield. Regenerate 25 CS per turn of no-hit.
-10 DR
-95%
-8 Prim. Mags, 4 Secondary Mag.
-3 grenade clips
-This armor is really heavy. It slows down your move speed by 2m.
+    EOD Ceramic Nano Crystal armour $1200
+    45 DR
+    95%
+    Movement restricted to 3m per Full Action (or your max speed if less than 3). No use of melee, and regular actions take twice as long.
+    8 primary mags, 6 of combined secondary and grenades.
 
-Class B Capacitant Shielding 25EP
-Nanites/2 used as Health bar for shield. Regenerate 50 CS per turn of no-hit.
-15 DR
-95%
-8 Prim. Mags, 4 Secondary Mag.
-3 grenade clips
-This armor is really heavy. It slows down your move speed by 2m.
 
-Class C Capacitant Shielding 30EP
-Nanites used as Health bar for shield. Regenerate 50 CS per turn of no-hit.
-15 DR
-95%
-8 Prim. Mags, 4 Secondary Mag.
-3 grenade clips
-This armor is really heavy. It slows down your move speed by 2m.
 
 /*========================================
  * NANITE CLOAKING ARMOURS

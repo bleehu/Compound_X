@@ -36,8 +36,7 @@ Frontier Plas-8 $1060
 45 m
 30%
 8 rds, Plas-8 packs; LO-SV / HO-SV / LO-HV
-47
-2 turns plasma burn
+47, 1 Plasma Burn token.
 HO-SV treated like HP
 LO-HV treated like AP
 Reload 28%
