@@ -388,7 +388,7 @@ Bolt action: take 1 action to chamber round, 1 action to fire.
 Anvil Arms SR-250 $8160
 30-300m
 20%
-5rds, 7.62x54R; FMJ / AP
+5 rds, 7.62x54R; FMJ / AP
 68
 Bolt Action: take 1 action to fire, 1 action to chamber a new round.
 

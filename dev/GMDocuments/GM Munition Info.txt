@@ -8,126 +8,152 @@
 
 //Pistol Rounds
 .22
-30 m
-30 damage
+30 m, 30 damage
+Typical mag size: 20 and 25 for pistols, 30 and 35 for smgs.
 civilian, subsonic
 
 .380 ACP
 30 m, 35 damage
+Typical mag size: 5 or 6 for revolvers, 14 for pistols.
 civilian, subsonic
 
 9 mm
 30 m, 41 damage
+Typical mag size: 16 to 19 for pistols, 25 to 35 for smgs.
 civilain and military.
 
 .40
 35 m, 43 damage
+Typical mag size: 14 or 15 for pistols, 25 to 30 for smgs
 civilian and military.
 
 10 mm
 40 m, 44 damage
+Typical mag size: 14 or 15 for pistols, 25 or 30 for smgs.
 military, uncommonly civilian.
 
 .357 magnum
 40 m, 46 damage
+Typical mag size: 6 or 13 for pistols.
 civilian, high kick = lower accuracy 
 
 .45 ACP
 40 m, 47 damage
+Typical mag size: 7 or 12 for pistols
 civilian and military, subsonic.
 
 .45 long /.45 colt
 45 m, 47 damage
+Typical mag size: 6 for pistols
 civilian, rare. long cartidge = revolver round
 
 .44 magnum
 50 m, 52 damage
+Typical mag size: 6 or 8 for pistols
 civilian and military. high kick = lower accuracy
 
 .480 RMM
 65 m, 56 damage
+Typical mag size: 5 or 6 for pistols
 civilian, rare. long cartidge = revolver.
 
 12.5 mm
 55 m, 60
+Typical mag size: 7 for pistols
 military, especially russian. high kick = lower accuracy
 
 .50 AE
 50 m, 60
+Typical mag size: 7 for pistols, 20 for smgs.
 military. high kick = lower accuracy
 
 .500 S&W
 55 m, 60
+Typical mag size: 5 or 6 for pistols.
 civilian. long cartridge = revolver. high kick = lower accuracy
 
 15 mm Special Purpose Magnum / SPM
 65 m, 60
+Typical mag size: 5 for revolver.
 hollowpoint round only. high kick = lower accuracy. Produced by Anvil Arms almost exclusively.
 
 //Rifle Rounds
 5.45 x 39 mm
 90 m, 50 damage
+Typical mag size: 25 for carbines, 30 or 35 for assault rifles.
 russian military.
 
 5.56 x 45 NATO / .223
 110 m, 50 damage
+Typical mag size: 20 for carbines and long rifles, 30 or 40 for assault rifles, 200 or 250 for lmgs.
 ECSC military.
 
 6.78 x 41 mm
 90 m, 55 damage
+Typical mag size: 20 or 25.
 russian custom round, rare.
 
 .30 carbine / .30-06
 90 m, 55 damage
+Typical mag size: 20 for carbines.
 civilian, especially mid-rim.
-
-
 
 .300 Blackout
 200 m, 56 damage
+Typical mag size: 10 or 15 for carbines, 7 for long rifles.
 military, special purpose round.
 
 7.62 x 39
 90 m, 57 damage
+Typical mag size: 10 or 15 for carbines, 30 for assault rifles, 150 or 200 for lmgs.
 russian military. AK-47 round.
 
 //Long rifle rounds
 .308
 300 m, 62 damage
+Typical mag size: 7 to 10 for long rifles, 100 for lmgs.
 ECSC military.
 
 7.62 x 51 NATO
 200 - 300 m depending on application, 62 damage
+Typical mag size: 7 to 10 for long rifles, 80 or 120 for lmgs.
 miltary, both ECSC and russian.
 
 7.62 x 54R
 500 m, 68 damage
+Typical mag size: 5 for long rifles.
 russian military
 
 .338 Lapua Magnum
 750 m, 70 damage
+Typical mag size: 5 for long rifles.
 ECSC military
 
 .460 Mathews
 800 m, 74 damage
+Typical mag size: 5 for long rifles, 50 to 70 for medium machine guns.
 Mathews custom, rare.
 
 12.7 x 99 mm NATO / .50 BMG
 1200 m, 85 damage
+Typical mag size: 5 or 10 for long rifles, 100 for HMGs
 military
 
 //Other rounds
 40 mm Grenade
 60m, 70 explosive damage
+Typical mag size: 1 for a standard launcher, 5, 6 or 8 for an MGL.
 ECSC standard greande launcher shot.
 
 Rockets:
 90 m, 80-120 explosive damage, depending on anti-personel vs anti-armour.
+Typical mag size: 1.
 
-
-//System for GMS create balanced enemy weapons
-//technical document. Weapon for certain class, these are stats and dynamics you must keep in mind from a game balance perspective.
-//talk about tactical relationships / balance relationships between guns.
+Most standard military and security units deploy a Battle Rifle or Asault Rifle with the bulk of their forces. The AR-68 is a great choice to base design off of, and in fact would have many clones. Most battle rifles and assault rifles use rounds in the range of 5.45x39 to 7.62x39.
+Long rifles can be used by marksmen to pick off enemies and pin them at cover so that other units can move up.
+Support and heavy weapons are actually a little rare to run across. Generally nothing larger than a 7.62 NATO round is used in a man-portable support weapon. Some autocannons or other special rifles may have larger calibers, but will also have smaller magazine size.
+Sub machine guns are used by crewman like pilots and operators because of their compact size. they are also great choices for private security for the same reason.
+Energy weapons aren''t generally used by military forces as they are too expensive.
 
 
 Manufacturers:
