@@ -83,14 +83,14 @@ Bleeding: The target has sustained a heavy hit that must be patched up. Target t
 
 ============================================================
 Pistols:
-(All pistols are considered CQB Weapons)
+(All pistols are considered CQB Weapons);
 Minimum Strength 2, Reload DC 20 unless otherwise noted. With DEX less than 5, Single Action revolvers must be re-cocked as a half action. Reload time 2 Half Actions
 ============================================================
 
 ECSC Mk9 Auto $460
 30 m
 25%
-11 rds, 9mm Magazine / HP
+11 rds, 9mm Magazine; FMJ / HP
 41
 
 Mathews Model 19 $322
@@ -169,6 +169,12 @@ ECSC Mk7 PDW $740
 25rds 9mm / HP
 41
 
+Mathews M-01 Carbine $1400
+85m
+40%
+20rds, .30 Carbine; FMJ / AP
+55
+
 G&W XMP 30 $910
 65m
 35%
@@ -181,13 +187,6 @@ With an innovative bolt design that rotates down 60 degrees after firing, the 24
 30%
 20rds 10mm
 44
-
-Mathews Light Repeating Rifle $780
-60m
-45%
-32 rds, .45 FMJ / HP
-47
-Gain an extra shot per round with STR>6
 
 ============================================================
 Shotguns:
@@ -243,16 +242,10 @@ Mathews .357 Carbine $1120
 All rounds are available in a .357 Mag. version, which increases the base damage by 5, but increases the cost of each magazine by 
 CQB rifle
 
-Mathews M-01 Carbine $1400
-85m
-40%
-20rds, .30 Carbine; FMJ / AP
-55
-
 Anvil Arms C25 $1320
 80m
 40%
-25rds, 6.78x39mm; FMJ / Tracer
+25rds, 5.45x39mm; FMJ / Tracer
 55
 
 ECSC Mk28 $1310
@@ -262,12 +255,17 @@ ECSC Mk28 $1310
 50
 CQB rifle
 
-Mathews SK0 $1560
-100m
+Mathews M-01 Carbine $1400
+85m
 40%
-20 rds, .223 ECSC; FMJ / HP
-52
-CQB rifle
+20rds, .30 Carbine; FMJ / AP
+55
+
+Mathews SK0 $2220
+130m
+40%
+20 rds, 7.62x39; FMJ / HP
+57
 
 G&W FBR-C $2390
 110m
@@ -284,13 +282,13 @@ Minimum Strength 5, Reload DC 25% unless otherwise noted. Reload time 2 Half Act
 Anvil Arms AR-74 $1710
 100m
 40%
-30 rds, 7.62x45mm Rifle Magazine; FMJ / AP / Incendiary
+30 rds, 7.62x39mm Rifle Magazine; FMJ / AP / Incendiary
 57
 
 Anvil Arms AR-68 $1480
 80m
 35%
-30 rds, 6.78x39mm Rifle Magazine; FMJ / HP / CS
+30 rds, 5.45x39mm Rifle Magazine; FMJ / HP / CS
 57
 
 ECSC Mk16 $2100
@@ -364,19 +362,28 @@ On all engagements farther than 200m, you must take 1 Full Action to adjust your
 Minimum 5 strength to carry. All targets are inflicted with "Pinned" condition when hit. Reload DC 30% unless otherwise noted. Reload time 3 Half Actions.
 ============================================================
 
-Anvil Arms SR-150 $5440
-20-200m
-20%
-5 rds, 7.62x54R; FMJ / AP
-68
-Bolt action: take 1 action to chamber round, 1 action to fire.
-
 ECSC Mk12 Mod 0 $3500
 20-200m
 30%
 20 rds, 5.56x45mm Rifle Magazine; FMJ
 50
 Reload DC 25%, 2 Half Actions
+
+ECSC PRS $5000
+10-150m
+15%
+7 rds, .300 whisper; FMJ / AP
+57
+Bolt Action: take 1 action to fire, 1 action to chamber a new round.
+Integrated Improved Silencer.
+Reload DC 26%, 2 Half Actions
+
+Anvil Arms SR-150 $5440
+20-200m
+20%
+5 rds, 7.62x54R; FMJ / AP
+68
+Bolt action: take 1 action to chamber round, 1 action to fire.
 
 Anvil Arms SR-250 $8160
 30-300m
@@ -385,16 +392,7 @@ Anvil Arms SR-250 $8160
 68
 Bolt Action: take 1 action to fire, 1 action to chamber a new round.
 
-ECSC PRS $8000
-10-150m
-25%
-5 rds, .300 Blackout; FMJ / AP
-71
-Bolt Action: take 1 action to fire, 1 action to chamber a new round.
-Integrated Improved Silencer.
-Reload DC 26%, 2 Half Actions
-
-//add some rifles and buff SR series rfles 100m after marksman update
+//add some rifles and buff SR series rifles 100m after marksman update
 
 
 //===================================================================

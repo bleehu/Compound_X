@@ -47,10 +47,10 @@ Laz Pistol $1720
 7kWatt pack increases damage by 10, decreases capacity to 12 shots.
 Disregard Sheilds.
 
-Anvil Arms R60 $1560
+Anvil Arms R15 $1560
 65m
 20%
-5 rds, .60 SPM
+5 rds, 15mm SPM
 60
 Reload DC 30%
 Single Action Revolver: cannot be fired as a free action.
@@ -83,15 +83,15 @@ Anvil Arms AR-34 PDW $1000
 A pint-size verison of the famous AR-68, the AR-34 PDW incorporates the famous AA Pushrod with an extremely short 6inch barrel and a skelotonized folding stock. Due to the lightweight of the rifle, a special low-powder cartridge is used to decrease its potency.
 70m
 35%
-30 rds, 6.78x39mm Rifle Magazine; FMJ / HP / CS
+30 rds, 5.45x39mm Rifle Magazine; FMJ / HP / CS
 44
 Maximum 3 shots per Round. Reload DC 30%
 
 Mathews "Bolter" $690
-Short barrel length on a beefy body makes for an odd looking gun. Firing the hefty 45 magnum round though, you already aren't worried about shooting targets at any significant range.
+Short barrel length on a beefy body makes for an odd looking gun. Firing the hefty 45 magnum round though, you already aren''t worried about shooting targets at any significant range.
 50m
 45%
-20rds, 45 Mag; Bolt / FMJ
+20rds, .45 Magnum; Bolt / FMJ
 50
 Bolt round adds an additional 10 damage, but reduces range by 10m
 
@@ -101,7 +101,7 @@ The X-26L is a lighter variant of an experimental carbine. Boasting a faster fir
 35%
 46 rds, 4.6mm SPC; AP
 40
-Due to the faster firing rate, on a successful hit, the shooter rolls for an additional hit. Standard SMG rules apply, and additional shots fired due to this rule do not factor towards the SMG's dexterity based bonuses.
+Due to the faster firing rate, on a successful hit, the shooter rolls for an additional hit. Standard SMG rules apply, and additional shots fired due to this rule do not factor towards the SMG''s dexterity based bonuses.
 
 ============================================================
 Shotguns:
@@ -195,7 +195,7 @@ Minimum Strength 5, Reload DC 25% unless otherwise noted. Reload time 2 Half Act
 G&W XK20 12EP $2420
 70m / 120m
 35%
-20 rds, 13x54mm (.50 cal) Magazine; Special Purpose Bullet, SPB
+20 rds, 12.7x54mm (.50 cal) Magazine; Special Purpose Bullet, SPB
 62 / 67
 Due to the advanced bullet and mechanical research and development that went into the production of this prototype weapon, it has split damage for different ranges. Because of the large caliber round size, target takes penetrating damage.
 
@@ -224,11 +224,11 @@ Anvil Arms KMR $3470
 Supporting Fire
 Minimum 7 Str to carry. 40% reload
 
-Mathews Model 240-B $3600
+Mathews Model 240-B $3720
 160m
 25%
 80 rds, .308 RMM-Mag Belt
-60, Bleed damage.
+62, Bleed damage.
 Supporting Fire
 Minimum 7 Str to carry. 40% reload.
 

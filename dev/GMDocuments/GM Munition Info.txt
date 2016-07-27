@@ -6,32 +6,162 @@
  * a distributed development effort.
  *======================================*/
 
-Pistol Rounds
+//Pistol Rounds
 .22
-.380 ACP
-9 mm
-.40
-10 mm
-.357 magnum
-.45
-.45 long (.45 colt)
-.44 magnum
-.50 AE
-.500 S&W
-.60
-.62
-.680 RMM
+30 m
+30 damage
+civilian, subsonic
 
-Rifle Rounds
-5.56 x 45 NATO
-6.78 x 
+.380 ACP
+30 m, 35 damage
+civilian, subsonic
+
+9 mm
+30 m, 41 damage
+civilain and military.
+
+.40
+35 m, 43 damage
+civilian and military.
+
+10 mm
+40 m, 44 damage
+military, uncommonly civilian.
+
+.357 magnum
+40 m, 46 damage
+civilian, high kick = lower accuracy 
+
+.45 ACP
+40 m, 47 damage
+civilian and military, subsonic.
+
+.45 long /.45 colt
+45 m, 47 damage
+civilian, rare. long cartidge = revolver round
+
+.44 magnum
+50 m, 52 damage
+civilian and military. high kick = lower accuracy
+
+.480 RMM
+65 m, 56 damage
+civilian, rare. long cartidge = revolver.
+
+12.5 mm
+55 m, 60
+military, especially russian. high kick = lower accuracy
+
+.50 AE
+50 m, 60
+military. high kick = lower accuracy
+
+.500 S&W
+55 m, 60
+civilian. long cartridge = revolver. high kick = lower accuracy
+
+15 mm Special Purpose Magnum / SPM
+65 m, 60
+hollowpoint round only. high kick = lower accuracy. Produced by Anvil Arms almost exclusively.
+
+//Rifle Rounds
+5.45 x 39 mm
+90 m, 50 damage
+russian military.
+
+5.56 x 45 NATO / .223
+110 m, 50 damage
+ECSC military.
+
+6.78 x 41 mm
+90 m, 55 damage
+russian custom round, rare.
+
+.30 carbine / .30-06
+90 m, 55 damage
+civilian, especially mid-rim.
+
+
+
+.300 Blackout
+200 m, 56 damage
+military, special purpose round.
+
 7.62 x 39
+90 m, 57 damage
+russian military. AK-47 round.
+
+//Long rifle rounds
 .308
+300 m, 62 damage
+ECSC military.
+
 7.62 x 51 NATO
+200 - 300 m depending on application, 62 damage
+miltary, both ECSC and russian.
+
 7.62 x 54R
+500 m, 68 damage
+russian military
+
 .338 Lapua Magnum
+750 m, 70 damage
+ECSC military
+
+.460 Mathews
+800 m, 74 damage
+Mathews custom, rare.
+
+12.7 x 99 mm NATO / .50 BMG
+1200 m, 85 damage
+military
+
+//Other rounds
+40 mm Grenade
+60m, 70 explosive damage
+ECSC standard greande launcher shot.
+
+Rockets:
+90 m, 80-120 explosive damage, depending on anti-personel vs anti-armour.
 
 
 //System for GMS create balanced enemy weapons
 //technical document. Weapon for certain class, these are stats and dynamics you must keep in mind from a game balance perspective.
 //talk about tactical relationships / balance relationships between guns.
+
+
+Manufacturers:
+
+ECSC:
+Common weapons, main military pretty standard arms manufacturer, much like Colt or FN Herstal.
+
+Anvil Arms:
+Started by a family of Russio-slavians. Used by Reformed Soviet Union soldiers, common among underground criminal organizations too. standard bad-guy guns. Think Kalashnikov.
+
+RMM:
+Match Grade ammunition and also some custom weapons. Think Remmington. 
+
+G&W:
+German arms manufacturer. Fairly standard in previous generation armies.
+
+Mathews:
+Old style guns. Reliable and not too costly. Also has a branch that builds custom builds that are very finely crafted.
+
+Frontier:
+ECSC R&D firm that deals in experimental weaponry for military applications and private sector security. Plasma, Lasers, Coilguns are mostly made by Frontier for humans.
+
+Strudwick Arms:
+European military armament group. Produce heavier weapons in a utilitarian package.
+
+Level 10 and higher manufacturers:
+Muzashi:
+Japanese fine crafter of custom weapons. These guns are usually one-offs produced per customer order and require measurements. Hand-me downs are still expensive and may not be one-size-fits-all, but will outperform almost any military rifle.
+Mostly produce energy weapons and long rifles.
+
+Zurlinsk:
+A relatively small design and prototyping firm. Their claim to fame is the ZAS MkII security Drone project, predecessor to the current SDA-C drones used in the military and private sector.
+Mainly produce balistic weapons, including coilguns.
+
+Demarani:
+Italian custom weapon shop.
+Very fine balistic weapons, especially shotguns and carbines.
