@@ -222,9 +222,14 @@ Pistol - Carbine kit 8EP
 A tactical frame bolts around the shooter''s pistol, and a longer barrel is attached. Accuracy at longer range is now attainable, along with the ability to mount up to 4x magnification, foregrips, etc. Modified Pistol is still considered a CQB Weapon.
 +50m range
 
-Sawn-off shotgun barrel 3EP
-Range - 15m
-//Either miss chance decreases by a lot, or increases by a little and damage increases by a little.
+Sawn-off shotgun barrel Secondary $500
+Miss + 15%
+Dam + 10
+Applies only to break-action shotguns.
+
+Sawn-off shotgun barrel Primary $250
+Miss + 15%
+Dam + 10
 
 .300 Blackout Conversion for Mk12 / Mk16 / Mk28 7EP
 Fires a special .300 AAC Blackout round, which carries more energy than a standard .223 RMM round, but has a lower velocity in order to work more efficiently with suppressors.

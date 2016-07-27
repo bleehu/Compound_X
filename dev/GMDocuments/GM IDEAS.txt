@@ -7,7 +7,7 @@ Muzashi Fine Weapons Company, level 10+ weapon manufacturer
 Strudwick Arms, level 10+ weapon manufacturer
 RMM Weapons, level 10+ weapon manufacturer
 
-balance shotguns tonight
+Western Campaign
 
 $500 for a days work as an adventurer or mercenary. $2500/week, $10,000/month
 Square meals
@@ -17,3 +17,18 @@ depending on mission, about 3 OOG metings, 1 encounter per meeting, $1000 per en
 $6000 
 
 Change armour pricing steeper, and make certain "Levels" of armour correspond to certain materials.
+
+slug goes farther, less dmaage than medi of buck
+
+12 ga buck
+0-3m 80 dam, 2 bleed
+3-10m 65 dam, 2 bleed
+10-20m 50 dam, 2 bleed
+
+12 ga flechet round
+0-3 80dam, -20 armoured, 4 bleed
+3-10
+10-20
+
+12 ga slug
+50m 60 dam
