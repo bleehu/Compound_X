@@ -191,46 +191,45 @@ Gain an extra shot per round with STR>6
 
 ============================================================
 Shotguns:
-All pump shotguns take 1 action to fire, 1 action to rack. In the racking action, you can load an additional round of your specification for free. Double barrel and semi auto shotguns do not follow this rule.
-When a target is hit with buckshot, remember that armor mitigates damage per pellet, not per shot.
-Outside of range for slugs, subtract 20 damage, and 20%.
+All pump shotguns take 1 Half Action to fire, 1 Half Action to rack. In the racking action, you can load an additional round of your specification as a half action. Double barrel and semi auto shotguns do not follow this rule.
+Slug damage deals damage as a normal rifle would, dealing its full damage up to the listed distance.
+Buck-Shot damage is dealt in 3 distinct distances, which are listed. All buck shot deals 2 bleed tokens to the target.
 Minimum Strength 4, Reload DC 30% unless otherwise noted. Reload time 3 Half Actions unless otherwise stated.
-Additionally: For Slug, add 5% to the hit DC for each shotgun.
 ============================================================
-Mathews Model 2x12 7EP
-Range:		40m
+Mathews Model 2x12 $800
 Miss:		20%
 Capacity:	2rds, 12ga Buck / Slug
-Damage:		10 points x 8 pellets
+Buck Shot: 80 dam out to 3m, 65 out to 10m, 50 out to 20m.
+Slug: 60 dam out to 50m.
 Double-Barrel/Break-Barrel. Full action to reload. Each mag pouch in a peice of armor holds 8 shells.
 
-Anvil Arms Hunting Shotgun 8EP
-Range:		40 m
+Anvil Arms Hunting Shotgun $900
 Miss:		15%
-Capacity:	6 rds, 12ga Buck / Slug
-Buck: 		9 points x 7 pellets
+Capacity:	6 rds +1 in chamber, 12ga Buck / Slug
+Buck Shot: 80 dam out to 3m, 65 out to 10m, 50 out to 20m.
+Slug: 60 dam out to 50m.
 
-Mathews Model 2287 8EP
-Range:		45 m
-Miss:		23%
-Capacity:	5 rds, 20ga Slug / CS slug
-Damage:		65 points x 1 pellet
+Mathews Model 2287 $950
+45 m
+23%
+5 rds, 20ga Slug / CS slug
+55
 Lever Action; Slugs only
 
-ECSC Mk900 9EP
-Range:		40m
-Miss:		15%
-Capacity:	7 rds, 12ga Buck / Slug
-Damage:		16 points x 5 pellets
+ECSC Mk900 $1000
+15%
+7 rounds + 1 in chamber, 12ga Buck / Slug
+Buck Shot: 80 dam out to 3m, 65 out to 10m, 50 out to 20m.
+Slug: 60 dam out to 50m.
 
-Mathews Over / Under 10EP
-Range:		60m
-Miss:		15%
+Mathews Over / Under $1200
+Miss:		10%
 Capacity:	2 rds, 12ga Slug / Buck / CS Buck
-Damage: 	9 points x 7 pellets
+Buck Shot: 80 dam out to 3m, 65 out to 10m, 50 out to 20m.
+Slug: 60 dam out to 50m.
 Due to the nature of the Over / Under, you can load both Buck and Slug at the 
-same time. Both barrels can be fired at the same time, at a -10% accuracy 
-penalty. Reload DC 25%. Each mag pouch in a peice of armor holds 8 shells.
+same time. Both barrels can be fired at the same time, at a +10% miss chance 
+penalty. Reload DC 25%, Full Action reload time. Each mag pouch in a peice of armor holds 8 shells.
 
 ============================================================
 Carbines & Battle Rifles

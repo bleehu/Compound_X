@@ -105,54 +105,51 @@ Due to the faster firing rate, on a successful hit, the shooter rolls for an add
 
 ============================================================
 Shotguns:
-All pump shotguns take 1 action to fire, 1 action to rack. In the racking action, you can load an additional round of your specification for free. Double barrel and semi auto shotguns do not follow this rule.
-For buck shot:
-Roll d10 for # shots that make contact. Each shot does listed damage.
-Outside of range, roll d10 for # shots, with the normal minimum number being the maximum number. E.G. for the hunting shotgun, if you shoot a target at 50m, roll a d10. If you roll a 6, you only hit with 5 pellets.
-Outside of range for slugs, subtract 20 damage, and 20%.
-Dragon''s Breath does not hit outside of range.
+All pump shotguns take 1 Half Action to fire, 1 Half Action to rack. In the racking action, you can load an additional round of your specification as a half action. Double barrel and semi auto shotguns do not follow this rule.
+Slug damage deals damage as a normal rifle would, dealing its full damage up to the listed distance.
+Buck-Shot damage is dealt in 3 distinct distances, which are listed. All buck shot deals 2 bleed tokens to the target.
 Minimum Strength 4, Reload DC 30% unless otherwise noted. Reload time 3 Half Actions
-Additionally: For Slug, add 5% to the hit DC for each shotgun.
 ============================================================
 
-Mathews Model 3x12 7EP
+Mathews Model 3x12 $1200
 60m
-25%
-4rds, 12ga Buck / Slug
-Buck: 6 dam, minimum 3
-Slug: 62
-Tri-Barrel/Break-Barrel
+18%
+3 rds, 12 ga Buck / Slug
+Buck Shot: 80 dam out to 3m, 65 out to 10m, 50 out to 20m.
+Slug: 60 dam out to 50m.
+Tri-Barrel/Break-Barrel. Reload DC 25%, Full Action reload time.
 
-ECSC PAO-8 10EP
-50m
-25%
-7rds, 8ga Buck / Frag
-Buck: 70
-Frag: 70 Explosive Damage, 5m radius. Add 2EP per frag round. Ask your GM before using Frag rounds.
-
-RMM Auto-12 10EP
-55m
+ECSC PAO-8 $1400
 20%
-7rds, 12ga Slug / Buck
-Slug: 62
-Buck: 6 dam, minimum 5
-Semi-Automatic, tube fed.
+7rds, 8ga Buck / Frag (+$20 per Frag round)
+Buck Shot: 100 dam out to 5m, 80 out to 15m, 60 out to 30m.
+Frag: 70 Explosive Damage, 2m radius. Ask your GM before buying Frag rounds.
+Pump action.
 
-Anvil Arms AR-12 12EP
+RMM Auto-12 $1500
+25%/15%
+7rds, 12ga Slug / Buck
+Buck Shot: 80 dam out to 3m, 65 out to 10m, 50 out to 20m.
+Slug: 60 dam out to 50m.
+Semi-Automatic/Pump, tube fed.
+
+Anvil Arms AR-12 $2000
 50m
 30%
-10rds, 12ga Box Magazine; Slug / Frag
-62, Reload DC 25%, Reload time 2 Half Actions.
-Semi-Automatic, Box fed.
+10rds, 12ga Box Magazine; Slug / Frag (+$20 per Frag round)
+60
+Frag: 70 Explosive Damage, 2m radius. Ask your GM before buying Frag rounds.
+Reload DC 25%, Reload time 2 Half Actions.
+Fully automatic, Box fed.
 
-Frontier Plas-12 11EP
-40m
-20%
+Frontier Plas-12 $2300
+20%/10%
 7 rds 12ga Plasma: Slug / Buck / Dragon’s Breath
-Slug: 45 + 2d10
-Buck: 7 dam, minimum 5
-Dragon’s Breath: 7d10, range reduced to 10m
-All ammo inflicts Plasma Burn.
+Buck Shot: 80 dam out to 3m, 70 out to 10m, 60 out to 20m.
+Slug: 60 dam out to 50m.
+Dragon’s Breath: 7d10, range reduced to 10m, deals 3 plasma tokens
+Semi-Automatic/Pump, tube fed.
+All ammo inflicts 2 Plasma Burn tokens instead of Bleed tokens.
 
 ============================================================
 Carbines & Battle Rifles

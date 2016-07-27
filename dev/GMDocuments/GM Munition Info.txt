@@ -14,7 +14,7 @@ Pistol Rounds
 10 mm
 .357 magnum
 .45
-.45 long
+.45 long (.45 colt)
 .44 magnum
 .50 AE
 .500 S&W

@@ -32,3 +32,18 @@ slug goes farther, less dmaage than medi of buck
 
 12 ga slug
 50m 60 dam
+
+10 ga
+
+8 ga
+0-5m 100 dam, 2 bleed
+5-15m 80 dam, 2 bleed
+15-30m 60 dam, 2 bleed
+
+20 ga
+slug, 45m, 55 dam
+
+12 ga plasma
+0-3 80 dam, 2 plasma
+3-10 70 dam, 2 plasma
+10-20 60 dam, 2 plasma
