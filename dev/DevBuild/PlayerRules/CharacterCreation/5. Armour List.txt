@@ -1,7 +1,9 @@
 /*
  * Armour Document
  * This document lists the armours available to characters in standard campaigns.
+ * Armour additions
  * Standard Balistic Armours
+ *   - Undersuits
  *	 - Concealed
  *	 - Recon
  *	 - Light
@@ -19,10 +21,50 @@
  */
 
 /*========================================
+ * Armour Additions and Helmets
+ * These additions may be worn with or added to armour.
+ *======================================*/
+    Primary Leg Rig $60
+    +2 primary mag space, not including price for mags.
+
+    Secondary Leg Rig $60
+    +3 secondary mag / 40mm grenade space.
+
+    //Tactical and Combat helmets can hold NVGs, lights, radios, etc.
+    Kevlar Tactical Helmet $380
+    5 DR, 30%
+
+    Carbon-Fiber Tactical Helmet $400
+    10 DR, 30%
+
+    Kevlar Advanced Combat Helmet $430
+    5 DR, 35%
+
+    Carbon-Fiber Advanced Combat Helmet $450
+    10 DR, 35%
+
+    Kevlar Enhanced Combat Helemt $480
+    5 DR, 40%
+
+    Carbon-Fiber Enhanced Combat Helmet $500
+    10 DR, 40%
+
+    Kevlar Flight Helmet $580
+    5 DR, 50%
+    A simple flight helmet. does not provide full seal, but can be paired with air- and space-craft external oxygen systems.
+
+    //Environment helmets provide a full seal
+    Kevlar Environment Helmet $900
+    5 DR, 60%
+
+    Carbon-Fiber Environment Helmet $1000
+    10 DR, 60%
+    
+/*========================================
  * STANDARD BALISTIC ARMOURS
  *======================================*/
 
-Any n+ level of protection, the amount of Damage Reduction (DR) is rolled at the time of purchase. A level 4+ armour plate might be anywhere from 16-25 DR for its lifetime, depending on what you roll when you purchase it. These armours are a bit of a gamble, since they may provide better protection than the next tier up, or they might only provide marginally better protection than the last tier.
+Any reinforced armour, the amount of Damage Reduction is rolled at the time of purchase. A Carbon-Steel Fiber Titanium Reinforced armour plate might be anywhere from 26-35 DR for its lifetime, depending on what you roll when you purchase it. These armours are a bit of a gamble, since they may provide better protection than the next tier up, or they might only provide marginally better protection than the last tier.
 ///////////////////////////////////////////////////////////////////////////
 //Undersuits
 //Various undersuits exist, providing buffs to the wearer. Undersuits are
@@ -45,10 +87,18 @@ Any n+ level of protection, the amount of Damage Reduction (DR) is rolled at the
     Carbon-Ceramic Fiber flightsuit $2250
     20 DR
 
+    EOD Ceramic Nano Crystal armour $4000
+    60 DR
+    100%
+    Movement restricted to 3m per Full Action, or your max speed if less than 3. No use of melee, and regular actions take twice as long.
+    8 primary mags, 6 of combined secondary and grenades.
+    Oversuit. cannot be worn with an Undersuit.
+    15 DR all over body.
+
     //These environment suits are air- and water-tight when combined with an EVA helmet. They are bulky and any DEX skill-checks are at a -10% and movement is reduced in RP.
     //Traditionally come in white, yellow or red.
     Polymer-Alloy flightsuit
-    This basic environment suit offers no balistic protection. When shot, the suit will decompress or compress (as necessary).
+    This basic environment suit offers no balistic protection. When shot, the suit will decompress or compress, as necessary.
 
     Nano-steel Kevlar environment suit $5000
     10 DR
@@ -214,15 +264,15 @@ Any n+ level of protection, the amount of Damage Reduction (DR) is rolled at the
 ///////////////////////////////////////////////////////////////////////////
 //Full Armor:
 //Covers the front of your chest, your back, your sides, shoulders, neck, pelvic region, and tops of your legs.
+//8 primary mags, 6 of combined secondary and grenades.
 
-    Carbon-Steel Fiber
-
-    EOD Ceramic Nano Crystal armour $1200
-    45 DR
-    95%
-    Movement restricted to 3m per Full Action (or your max speed if less than 3). No use of melee, and regular actions take twice as long.
-    8 primary mags, 6 of combined secondary and grenades.
-
+    Carbon-Steel Fiber $800
+    30 DR
+    100%
+    
+    Ceramic Nano-Crystal $1200
+    40 DR
+    100%
 
 
 /*========================================
@@ -231,37 +281,38 @@ Any n+ level of protection, the amount of Damage Reduction (DR) is rolled at the
  * Lvl 1-5 expend 15 Nanites per cloak turn. Lvl 6+ 10 Nanites.
  * Max Turns of cloak = Lvl +1; Cloaking becomes available after waiting 4 Actions.
  * Cloaking grants the wearer stealth at a DC of 50. However, when a player cloaks, enemies will not see them unless they are actively looking for the wearer. For enemies that saw the wearer cloak, the DC is 25 less.
+ * Wearers need only expend nanites on a turn that they perform actions. if they are doing nothing but watching, they may cloak for free. Cloaking requires concentration, so when a user diverts their attention to perform an action, they must use some nanites to continue to hold the cloak.
  *======================================*/
 
-Basic Cloaking Suit 25EP
+Basic Cloaking Suit $2500
 5 DR
 30%
 
-Intermediate Cloaking Suit 35EP5r
+Intermediate Cloaking Suit $3500
 Add 30 Nanites to your pool.
 Cloak DC +25, expend 5 extra nanites per turn.
 5 DR
 30%
 
-Advanced Cloaking Suit 40EP
+Advanced Cloaking Suit $4000
 Add 30 Nanites to your pool.
 Cloak DC +50, Expend 10 extra Nanites per turn.
 Charge-Up time 3 actions
 5 DR
 
-Experimental Cloaking Suit 70EP
+Experimental Cloaking Suit $7000
 Remove 50 Nanites from your cloaking pool.
 Cloak DC +50, Expend 5 Less Nanites Per turn. Max turns +2
 Charge-Up time 5 actions
 10 DR
 30%
 
-Armour Cloaking Suit 30EP
+Armour Cloaking Suit $3000
 Cloak DC -25, expend 5 extra nanites per turn.
 Cloaking DR is 25, uncloaked DR is 10
 30%
 
-Advanced Cloaking Suit 45EP
+Advanced Cloaking Suit $4500
 Expend 10 extra Nanites per turn.
 Charge-Up time 5 actions.
 Cloaking DR is 30, uncloaked DR is 15
