@@ -18,6 +18,10 @@ Since this is a well-known location, Players should be given a topographical map
 
 If the players hacked Kalihan's stealth ship, then they have two options for insertion; Use the stealth ship to drop in covertly, or just take a regular dropship to the spaceport. If the stealth ship hasn't been earned, Teacup will fly them to the space port.
 
+////////////////////////////////////////
+//////////		Day 1 		//////////
+////////////////////////////////////////
+
 (Space port)
 Upon landing and disembarking, the team waves goodbye to Teacup and walks out to the space dock which is surrounded by miscellaneous repair and service equipment. Since most of the maintenance routes are locked down, the only way out is up a large ramp marked with a sign that says "to main terminal." 
 When the team leaves, they are met at the top of the ramp by three Bon security officers; two deputies and the police chief, all with fabulous thick mustaches. Officer Jaques has a grey mustache and short hair to match. He wears medium deputy armor with a gleaming revolver and a matte white shotgun slung across his back. Deputy Bartolone has a hand on his laser pistol which is in the hip holster attached to his perfectly polished white light armor. He periodically checks a computer on his left forearm and scans the perimeter. Chief Hollande wears white heavy power armor without a helmet, preferring to let the populace see his face. The power armor has a large chaingun slung across its back, heavy plate armor and obvious enhancement attachments. All three have an array of CID grenades in easy-to-reach pouches. 
@@ -75,7 +79,8 @@ From the Spaceport, the players have several options for destinations:
 -Bar
 -countryside
 
-(Market)
+			(Market)
+			
 Beggar- 
 Donating to the beggar prompts a luck check. The luckier you are, the better advice the beggar gives you. See reward for tipping the street performer. 
 Pistol Shrimp gun shop-
@@ -83,7 +88,9 @@ Pistol Shrimp gun shop-
 Fritz and Hanz- The sniper brothers from the side mission make an apperance in the market. They are flambeuyantly gay and rather abusive to any ECSC personell; their contracts typically target them. While they hate ECSC and look down on them for their "poor training" and "abhorent lack of fasion sense." They won't actually start anthing outside of a combat zone. German accents.
 Street performer-
 Juggles geese. Suggested donation is 20 credits. If player donates, they will later get a perk called good tipper, which grants a bonus to charisma rolls in public, but don’t give the perk right away. By delaying handing out the perk, we get to see who tips and who doesn’t. Also teaches that rewards aren’t all instant gratification; the way to get rewarded is to play your character. 
-(country side)
+
+			(country side)
+			
 Graveyard-
 Easter egg. Has graves for each player character who has passed away.
 	+	Kage Nakamura “killed in the line of duty”
@@ -124,8 +131,9 @@ It has a gorgeous polished wood stock. Break action.
 70 damage
 Minimum 5 strength to carry. Deals an additional ten damage to critters. -6% chance to miss against airborne targets. 
 
-(Temple)
+			(Temple)
 A large, ornate columned building stands on a lofted block. Mildly haunting chants echo from its halls. Large banners extoll this temple’s particular deities. 
+
 /////	Father Augustine
 A white-robed, fair skinned human with hair unseasonably grey. He’s actually only 53. Unflappable, jovial, humble, but just a little sarcastic. He lives to bring technology’s blessing to people, regardless of race or creed. “ce que peux faire poir toi, mon enfant?” (the ‘t’ in enfant is silent) Father Augustine is also one on the greatest hackers on the world. (Yes, “on” the world. There’s more than one world in the galaxy, dupe) He gets a free action after any counterspell, and may counterspell any warlock ability, as well as plasma fire and some rockets. He also may act on nanites in friend’s or foes bodies. 
 Strength:	3
@@ -170,9 +178,10 @@ Amen.
  
 
 
-(Police Station)
+			(Police Station)
 You go here if you’re picked up for any assaults, murders, thefts, battery etc. The place is built like a fortress. There’s anti-air and anti-orbital batteries on the roof. There’s about 10-20 cops ranging from cadets to the chief and his detectives milling about doing paperwork, cleaning weapons and combing fabulous mustaches. 
-(bar)
+
+			(bar)
 The bartender “Gordie” has a short dark haircut and is wearing sunglasses inside. The bar has a sorta I-want-to-be-swanky-but-this-is-a-frontier-town feel. The music is in good taste, but is being played from a mostly boilerplate stereo system. The lighting is colorful and upbeat, but most of the furniture is made of wood. The beer sucks, but its much better than the bilgewater you can get at the canteen aboard Diligence. 
 Teacup, Firebrand and a couple of the deck crew are in a corner booth sharing tots, complaining about officers and throwin’ some back.
 “Be careful there, slugger. So long as you leave your piece at the door and don’t be casting any of that mumbo-jumbo ‘round here, any tussle among honest folk will stay that way.”
@@ -184,7 +193,7 @@ Beer nuts		-	20 credits
 Crossword puzzle	-	2 credits
 Some thug starts a bar fight for whichever reason is most convenient. Maybe he has a problem with off-worlders, maybe he just doesn’t like the ECSC, he’s tougher than you so someone should hire him as a merc, or maybe it’s your funny haircut. Thug is trained in hand to hand and has 120 health. 
 
-(The hotel at 6)
+			(The hotel at 6)
 You walk into the hotel lobby and are greeted by the concierge at the desk, who informs you that you can rent the agreed upon room for 100 credits a night. If the party pays per room, they get the keys to the room and shown to the stairs. If they don’t, they have to pick the locks, and pass a DC 40 luck check to see if someone else gets assigned to their room, which could have awkward consequences, like being fined for trespassing.  
 After a few short moments in the room, Vimi knocks and enters. She asks if you made sure that you weren’t followed. Remember whether they took counter intelligence precautions of any sort, it will matter later. Regardless of how the party answers, Vimi says that she didn’t see any interlopers. She announces to the room that it is probably safe for Bicycle to show himself. 
 Bicycle decloaks in such a way as to make a dramatic entrance. No matter how high a character’s perception roll is, they can’t detect him. If there is a female player in the party, perhaps he flirts with her. If not, he might decloak in the team leader’s face, remarking to Vimi that he’s not sure if he trusts them. If there is another proud personality in the party, Bicycle might play on this by talking smack about their skills or gear. This is at the GM’s discretion how to play it.  
@@ -224,7 +233,7 @@ Attack: arcane blast 30% to miss, 50 damage
 Attack: cult dagger 20% chance to miss. Ignore shields. 
 After the fight, Vimi volunteers to clean up the bodies. She suggests that the party get kitted and take an ATV to the farmhouse. She tosses someone the keys. 
 
-(The Nightclub)
+			(The Nightclub)
 A small barn with strobing lights and very loud music pumping out of it sits on the outskirts of the town. Drunken locals bandy about talking about gossip and falling off of their horses. Dress ranges from the rebellious to the I’m-just-off-work-in-the-fields. Locals are unfriendly to “tourists” if they catch that the party is from off world. Vupen muscle guys and social engineer ladies move between a bar, the pit of people dancing and listening to the music and leaning against beater ATVs and wooden fences outside. In the distance, an orchard is visible in the light from the moons. The main farmhouse can just be seen on the other side of it. 
 If trouble is started, or weapons are seen, the party is quickly overwhelmed by Vupen thugs and bouncers. After some time, cops show and begin arresting and tazing people. Players may wake up the next morning in a cell at police HQ.
 Bartender is a man of few words, sort of hard of hearing. He gives a 10 credit discount for friends of Vupen.
@@ -235,8 +244,11 @@ Upon search, they find Taylor with some friends with their feet up relaxing in t
 Fritz and Hanz might be present at the club.
 Players get tired at 2am, and very tired after 330. They should go back to their room or find a place to sleep for the night. 
 
-//////////	Day 2
-(The café at 8)
+////////////////////////////////////////
+//////////		Day 2		//////////
+////////////////////////////////////////
+
+			(The café at 8)
 A small café with colorful umbrellas and black metal seats that are surprisingly comfortable sits right on the canal. It’s a balmy 301 Kelvins with a pleasant breeze. A slight breeze is blowing northward with some light fluffy clouds in the sky. The moons are partially visible in the sky. Large ships in high orbit drift by overhead periodically, but they are far enough away that they look small like toys. The warm breeze smells of coffee and cinnamon pastries that the many bakeries and cafes that dot the plaza are pedaling for breakfast.  Taylor got there at 7, several empty coffee cups sit on the small tale around her mobile terminal. As you approach, a studly looking freighter worker swaggers up to her and brags that he’s from the core and offers to buy her next cup. With neither a word nor a glance, Taylor keeps typing with one hand and flips him off with the other. The worker sulks off looking dejected. 
 If anyone in the party scans the perimeter, they notice deputy Bartolone enjoying breakfast and watching them subtly from a café across the plaza. If not, he lurks unseen.
 As the party gets closer to Taylor, she kicks out a chair for someone to sit in, still typing furiously. 
@@ -248,14 +260,33 @@ Croissant	- 30 credits
 “Our friends have three houses that I’ve been to. Cops broke up a party at one of them last night. No Marko, only drugs. Which leaves three others. Problem is, if a party starts at one house then everyone will want to go. So we’ll have to start the band playing at both houses at the same time. One is on 112524 Rider Ave, the other is on 5th and Webb. Both have smoke alarms, but I’ll turn those off at 6 for the party. Meet me back at the club for the after party. Synch?”
 Party members respond. Q and A needs to be subtle, or Tay will shush them. 
 “Good. Don’t be late. Don’t forget to get transportation. And if there’s so much as a scratch on Marko, I’ll burn you. Que tu comprends?” Taylor gathers her terminal, leaves some cash on the table to pay for her bill and disappears into the crowd. 
-The party is free to prep for the op and feign enjoying shore leave. 
-(Rider Ave, 6pm)
+The party is free to prep for the op and feign enjoying shore leave.
+ 
+			(Rider Ave, 6pm)
+
 Breach and clear exercise. Complicated by three pirate mercenaries who have come about being hired to hijack a Sakai cargo ship. Hostage is not in the house. The team finds opiates instead. Also, white spray paint for leaving gang signs. 
-(Webb St, 6pm)
+
+			(Webb St, 6pm)
+
 Breach and clear exercise. Better not shoot the hostage! 
-(The Night Club, Part 2)
+
+/////	Sleeping Polaire Gaurd
+
+/////	Aramis
+A thug sits on a couch watching a big screen TV with a trashy show on
+
+/////
+
+/////
+
+			(The Night Club, Part 2)
+
 Taylor and Marko are reunited romantically. Taylor promises to help you hack tomorrow. 
-//////////	Day 3
+
+////////////////////////////////////////
+//////////		Day 3		//////////
+////////////////////////////////////////
+
 (Ours Polaires den, 6am)
 Taylor meets you nearby with some Vupen muscle. She suggests kicking in the door and trying to get the gang boss alive. Players get a call from Bycicle, he says he’s found a way in stealthily through the sewers. It would require holding your breath and swimming through the canal a ways, but there’ll be a much lower body count. Or you could just try to smooze your way in, assuming you haven’t blown your cover.
 See map.
