@@ -1,6 +1,6 @@
-If you level up INT on level 5, do you get the extra 2 skill points?
+If you level up INT on level 5, do you get the extra 2 skill points? [yes, not listed?]
 
-You get very little when you level up to level 9, but it rains bonuses when you hit lv 10. Maybe spread the love out a bit?
+You get very little when you level up to level 9, but it rains bonuses when you hit lv 10. Maybe spread the love out a bit? [fixed]
 
 Soldier's Battle Cry class feat doesn't factor CHA?
 
@@ -8,3 +8,31 @@ Proceedure Gamma is blank in medic's Hippocratic tree!!!! [fixed]
 
 Proceedure Alpha is blank in medic hippocratic tree!!! [fixed]
 Healing Nova is missing from medic hippocratic tree!!! [fixed] 
+
+
+Gripes from the weekend of 7/31/15
+
+Rules for stealth attack? Added damage? Added accuracy?
+
+Gun ideas:
+	+	noisy cricket
+	+	Lucio Gun
+	+	Freeze gun? Mei?
+
+Demoman range needs nerfing desperately
+
+Blitzcrank melee weapon?
+
+New hacking system needed
+
+Driving DCs way too hard
+
+Engineer undertuned?
+
+Shotgun preemptive feat to counter melee classes?
+
+clarify drone scrapping rules
+
+barbed wire power?
+
+plas swords suck
