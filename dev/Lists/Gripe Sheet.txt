@@ -27,9 +27,9 @@ New hacking system needed	[fixed]
 
 Driving DCs way too hard	[discussed/fixed]
 
-Engineer undertuned?
+Engineer undertuned?		
 
-Shotgun preemptive feat to counter melee classes?
+Shotgun preemptive feat to counter melee classes?	[added]
 
 clarify drone scrapping rules
 
@@ -48,3 +48,5 @@ cast at what you can't see?
 verbiage on vamp?
 
 copywrite check!
+
+feild suppiriority day (engi wrench whack)
