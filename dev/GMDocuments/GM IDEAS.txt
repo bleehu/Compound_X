@@ -49,3 +49,12 @@ slug, 45m, 55 dam
 0-3 80 dam, 2 plasma
 3-10 70 dam, 2 plasma
 10-20 60 dam, 2 plasma
+
+LUK+/2 subtracted from crit range.
+LUK+/2 added to armour rating
+
+Un-percievable damage?
+
+Noisey Cricket gun. Very expensive, lots of damage, not available to melee classes and warlocks
+//add melee upgrade / attachment system
+//

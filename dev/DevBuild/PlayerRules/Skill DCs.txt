@@ -137,17 +137,19 @@ General
 Driving
 --------------------
 0 - open a door
-20 - Start a car
+20 - Start an unfamiliar vehicle
 25 - Drive around an obstacle
 50 - Take a sharp corner at medium speed
 75 - Drift an average corner at high speed
 100 - Drift a sharp corner at high speed
 
+get within 3m of an obstacle, DC is your speed in KPH
+
 --------------------
 Flying
 --------------------
 25 - Basic flying
-50 - dodge passive obsitcles (buildings, blimps etc)
+50 - dodge passive obstacles (buildings, blimps etc)
 75 - Dodge active obstacles (asteroids, other ships)
 100 - Dodge a seeking object (missiles, kamikaze piolots, ships trying to aggressivley dock)
 

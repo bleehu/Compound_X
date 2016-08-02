@@ -93,6 +93,10 @@ ECSC military.
 Typical mag size: 20 or 25.
 russian custom round, rare.
 
+6.8 mm grendle
+80 m, 57 damage
+typical mag size: 18 for carbines, 26 or 30 for assault rifles
+
 .30 carbine / .30-06
 90 m, 55 damage
 Typical mag size: 20 for carbines.
@@ -191,3 +195,4 @@ Mainly produce balistic weapons, including coilguns.
 Demarani:
 Italian custom weapon shop.
 Very fine balistic weapons, especially shotguns and carbines.
+

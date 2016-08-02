@@ -9,6 +9,8 @@
 Passive Feats
 ====================
 
+//shotgun "bulltrue" feat.
+
 Backstab:
 Prerequisites: Level 3 and higher Assassins and Monks.
 Any damage dealt to an opponent from behind deals Extra-Crit damage.
@@ -191,7 +193,7 @@ Prerequisites:
     - Assault and Battery: +10m range to assault rifles and carbines.
     - Sniper: +5 damage and -5% accuracy to Long Rifles
     - HeavyMetal fan: +5% use Heavy Weapons
-    - Demo Man: +5m explosive radius, +5 skill to use.
+    - Demo Man: +5 damage explosive radius, +5 skill to use.
     - Penetrating Shot: +10 Bow damage to armoured targets. (Calculated after halving bow damage)
 
 ====================

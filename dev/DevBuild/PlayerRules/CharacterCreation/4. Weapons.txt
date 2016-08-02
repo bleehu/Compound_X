@@ -321,37 +321,32 @@ Supporting fire
 Tracer Rounds inflict 1 bleed damage, 1 burn on next turn.
 Minimum Strength 7 to carry. Reload DC 40%
 
-Anvil Arms XM-33 Minigun 12 EP
+Anvil Arms XM-545 Minigun $3000
 Reqires Strength of 7 to carry.
 60m
-40%
-100 rds, 5mm linked belt; 
-30 damage per bullet
-Supporting Fire
-No optics, barrel attachments or extended mags. Fires three bullets 
-whenever you would fire one, but only every third bullet counts for 
-any per bullet effects.
-//minigun
+0%
+300 rds, 5.45 x 39 mm belt; 
+50 damage
+Requires 1 full action of spin-up time.
+Supporting Fire. No optics, barrel attachments or extended mags.
 
-Strudwick Arms Ultralight Autocannon 14 EP $1800?
+Strudwick Arms Ultralight Autocannon $7600
 Requires strength 6 to carry.
 140m
 30%
-6 rounds, 35mm impact detonating HESH warheads
-80 damage, 3d10 splash damage in 1m adjacent.
+10 rounds, 20mm vicinity detonating HE rounds.
+75 explosive damage, 40 shrapnel 1m adjacent.
 Damages vehicles. No optics or barrel attachments.
-//turret from halo, gauss rifle
 
-G&W AA-29 Personal Flack Cannon 14 EP
+G&W AA-29 Personal Flack Cannon
 Requires strength 5 to carry
 50m range
 15%
 10 damage per pellet
 2d10 (min 4) pellets below 15m, 2s10 (min 3) out to 50m.
 6 rounds, Deathmetal custom flack rounds
-Each shot into a door reduces the DC of kicking down that door by 65.
-If the DC becomes 0, the door is blown open. No optics or barrel attachments.
-//flak cannon from unreal tournament / roadhog's shotgun from shotgun
+Each shot into a door reduces the DC of kicking down that door by 65. If the DC becomes 0, the door is blown open. No optics or barrel attachments.
+//flak cannon from unreal tournament / roadhog's shotgun from overwatch
 
 //Add KMR and Mk240 b
 

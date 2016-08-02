@@ -288,8 +288,8 @@ V
 Gain (Level/5)* 50 Nanites. All spells in this school cost 20 Nanites less to cast. Any damage dealt or health restored is increased by 20
 
 "Beserker" - As an afficionado of the combat arts, you understand how important tactile feedback is. Guns simply don't offer the appropriate ammount, which is why you prefer to BEAT YOUR ENEMIES TO DEATH USING YOUR BARE HANDS WHENEVER POSSIBLE!!!!!!!!!!!!!!!!!!!! MORE EXCLIMATION MARKS!!!!!!!!!!!!!!!! 
-Passives: -1 to Luck and Intelligence, +1 to Strength and Fortitude.
-Weapon Proficiencies: Pistols, Expert Hand-to-hand.
+Passives: -1 to Luck and Intelligence, +1 to Strength and Fortitude. Expert unarmed.
+Weapon Proficiencies: Pistols.
 Armour Proficiencies: Medium, Heavy.
 Class Feats:
 ----------------------

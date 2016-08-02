@@ -1,84 +1,54 @@
-Name:Tibor Stepanek
+Name: 
 Description of Attitude, demenor, etc:
-A true Paladin, Tibor does not stray from the terrifying. He''d give his life for his friends, squadmates and brothers. Trained from birth at a corporate temple, Tibor 
+
 
 Physical Description:
 (See Race document)
 
-Class: Paladin [5] $10
-Health: 120/120
-Nanites: 135/135
-Armor type: Heavy 5+, cold resistant
-Percent Hit: 75%
-D.R. 30
+Class: 
+Health: 
+Nanites: 
+Armor type: 
+Percent Hit: 
+D.R. 
 Nanite Health: N/A
-Speed: 4m
+Speed: 
 ==STATS==
-STR || 5 +0
-PER || 5 +0
-FOR || 7 +8
-CHA || 5 +0
-INT || 10 +20
-DEX || 5 +0
-LUK || 5 +0
+STR || 6 +0
+PER || 6 +0
+FOR || 6 +0
+CHA || 6 +0
+INT || 6 +0
+DEX || 6 +0
+LUK || 6 +0
 ========
 SAVING THROWS:
 WIL || 12
-SHK || 22
-REF || 8
+SHK || 12
+REF || 12
 ========
 Weapons:
 ========
-Primary Name: "FBR"
-Range: 135
-Percent Hit: 0%
-Damage: 50
-27/30
-Misc.:
-+ 1.2x Hologramic +15m, -10%
-+ Red Laser -10% < 50m
-+ Heavy Profile Barrel -10%, +1 STR
-+ 1 point sling (quickdraw, -1 STR)
-Spare Mags: 8/8
+Primary Name: 
+Range: 
+Percent Hit: 
+Damage: 
 
-Secondary Name: "CZ 75 P01"
-Range: 45m
-Percent Hit: 25%
-Damage: 44
-15/15
 Misc.:
-+ muzzle break -5%
-+ reflex site -5%, +5m
-Spare Mags: 4/6
+
+
+Secondary Name: 
+Range: 
+Percent Hit: 
+Damage: 
+Misc.:
+
 
 Feats:
-Smite Enemey: Once per engagement, double damage to an enemy.
-Combat Expertise (Guns): -15% to hit. +5% melee or -5% skills
-Double Tap: crit range +10%
-First Shot Counts: when reloading, if you critically succeed, first round does extra crit damage.
+
 
 Skills:
-Diplomacy - 20
-Medicine - 20
-Knowledge [Nanites] - 25
-Unarmed Combat (trained) - 15
-Weapon Use (Rifles) - 25
-Acrobatics - 25
-Knowlege [Weapons] - 10
-Awareness - 10
+
 
 Inventory:
-Holy Symbol
-Nanite Pack: 2d10 + 20 nanites
 
-Special Cold Goggles: + heat vision, 30m
-
-Paladin Spells:
-Mage Armour (3) [X]: Gain a nanite shield, X * 3. Max X = 20+(25)+ 20 shiled to allies.
-Divine Favor(3) [5]: Gain +5 damage and -5% per P.Level (round down).
-Detect Evil (1) [0]: +20% detect evil.
-Detect High Tech [10]: detect high tech in area. can tell between objects which is most advanced technology, relative tech strengths, discern info about them, etc.
-Thunderstomp()[30]: all targets in 8m radius pass Shock saving throw or are tripped. DC = 35
-Circle of Lightning(3)[50]: 18m, 50 electric damage. DC 45 Shock Saving throw to resist electric incapacitation.
-Weapon Malfunction[30]: Force a target''s weapon to Jam. DC = 20
-Weapon Overload(3)[50]: Maga explodes. DC 70, deals weapon damage to target.

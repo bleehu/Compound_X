@@ -37,6 +37,7 @@ every 2nd level, +1 feat
 With Charisma 9 or higher, 2 feats on level 4, 8, 12, etc.
 every level 2*int skill points,
 every 5th level +1 stat point, +1 Class feat
+On levels 5, 9, 15 and 20, the stat point increase happens before any calculation, so if you had 10 int, and increased to 11, you would get 22 skill points for the level.
 
 ╔═══════╦══════════╦═══════╦════════════╦════════════╦═══════════════╗
 ║ Level ║ Skill P. ║ Feats ║ Class Feat ║ Stat Point ║ Feats (9 CHA) ║
@@ -105,6 +106,10 @@ Combat:
 ==============================
 
 Combat starts when either you or an enemy decides they would like to make an attack. Each "Player turn" lasts 6 seconds, and consists of 2 "Full Actions" (described below).
+
+//Rules for stealth attack / flat foot
+//-20%, -10% crit, reduce chance to hit armour (20%?)
+//If your attack would normally force the target to roll a fort save, they are incapacitaed by default with no roll.
 
 Melee Notes:
 A character occupies 1m of space. however, as Compund X is not played out on a squares-board, usually it doesn't matter if two players are within the same 1m space.
@@ -253,6 +258,12 @@ Expend 50 nanites to activate the cloaking shield. while moving, the cloak DC is
 ╚══════════╩═════════════╩══════════╩════════════════╩═════════════════╝
 *  For levels 1-4, you may only cloak once per encounter.
 ** At level 20, you can cloak immediately after your cloak fades, but you must pass another stealth check to continue cloaking.
+
+
+==============================
+Vehicles
+==============================
+//something something special maneuver.
 
 //===================================================================
 //Copyright 2016 Taylor Rowland
