@@ -1,0 +1,47 @@
+Detachment A Security Drone
+Society: Slave soldiers. Squad families.
+Security Drones are specialized drones that have been granted a greater AI capacity to learn and think independantly. They are native to ECSC Compound X experimentation laboratory.
+They have a steel reinforced frame, and are usually armor plated. The coloration of plating can range anywhere in the natural colors and camouflages, or Flat Grey, or Flat Black. They have a single occular sensor situated on a smallish sqaure head. They generally stand somewhere in the 6 foot to 7 foot range, and weigh between 400 and 700 pounds.
+Favored Class: Marksman, Soldier, Adept, Technician, Mechanic.
+
+Type: Robotic (Does not need to eat, breath, or sleep. Must spend 6 hours to recharge after a 24 hour period. this can be done via a self-contained reactor. Not affected by mind-influence, succeptable to hack attempts).
+Size: Medium+
+Speed: Normal
+Stat Modifiers: INT + 1, FORT + 2. LUCK -3.
+Language: Basic
+Racial Traits:
+Built in Armour: Take any Heavy Armour for 7EP less, or armors cost 4 EP less.
+Purpose Built: Take an additional skill at 10 points during character creation. This is considered a Class skill.
+25m Darkvision
+Weakness (Electrical): Electrical damage deals an additional 50% damage.
+
+Humans
+Humans get no special features. You're a human, you know your qualities, strengths and weaknesses, congrats.
+
+Cyborgs
+Cyborgs are any human with biomechanical upgrades which enhance the body or mind. enhancments can be 
+Favord Class: Priest, Mechanic, Pilot.
+Size: Medium
+Speed: Normal
+Stat modifiers: 
+     - Pick 2 stats, increase by 1. pick 1 stat, decrease by 2.
+     -
+Language: Basic
+Racial Traits:
+Enhanced neural interface - access computer terminals wirelessly, hands free, at the speed of thought. This is implemented by a +10 to either hack, pilot, or diagnose/repair digital.
+
+//===================================================================
+//Copyright 2016 Taylor Rowland
+//
+//Licensed under the Apache License, Version 2.0 (the "License");
+//you may not use this file except in compliance with the License.
+//You may obtain a copy of the License at
+//
+//   http://www.apache.org/licenses/LICENSE-2.0
+//
+//Unless required by applicable law or agreed to in writing, software
+//distributed under the License is distributed on an "AS IS" BASIS,
+//WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+//See the License for the specific language governing permissions and
+//limitations under the License.
+//===================================================================

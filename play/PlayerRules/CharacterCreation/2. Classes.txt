@@ -1,0 +1,285 @@
+Core classes:
+//====================================================
+Your character starts at level 0. At level 0 you have skills and feats, but no class or class feats.
+At level 1 you get to select a class, and recieve the class passives. However, you do not select a class feat until level 5.
+On selecting a class, you gain all of the passives listed, and get to choose between one of two listed feats. For any listed class, if it says "Gain X Skill at 10" that means you get to add the X skill to your skill list, and it starts at rank 10, meaning a +10% to any roll for that skill. At the first level taken in a class (other than level 1), you get the single star version of the feat. At level 5 and every 5 levels thereafter, you can choose to rank up the feat, or add the other feat to your character.
+//====================================================
+
+"Soldier" - You have the blood of a warrior flowing through you. Your sole purpose is to fight until the threat is neutrilized.
+Passives: Gain Weapon Use(X) at 10
+Weapon Proficiencies: Carbines, Shotguns, Pistols, Assault Rifles.
+Armour Proficiencies: Light, Medium, Heavy.
+Class Feats:
+----------------------
+Battle Cry / Raise Moral -
+You roar as you lead the charge against the enemy. 50% chance to raise allied effectivness 15% on each of their next rolls (including your next roll). You must use your next action to run towards enemies (minimum 1m), ending out of cover.
+|
+|
+|
+V
+Either 75% success, 30% added to next allied rolls, or you can end in partial cover.
+----------------------
+It''ll heal (Min. Requirement of 7 fortitude)
+Make a FORT save at 50% to ignore an enemy damage. Remove one action next turn to stare down your enemy, curse at them hitting you, make a badass remark, etc. All damage taken during the encounter stacks, and half is taken at the end of the encounter, regardless of your condition.
+|
+|
+|
+V
+Fort save is at 75%, or you take 1/3 of damages dealt
+
+"Specialist" - There is always a need for the type of person willing and able to bring the heaviest of fire down upon their enemies. The Specialist will be there when the odds are stacked highest against the forces for good, and he''ll be prepared to use heavy force to even those odds.
+Gain Thrown Weapons at 10.
+Weapon Proficiencies: Assault Rifles, Heavy Weapons, Pistols.
+Armour Proficiencies: Light, Medium, Heavy, Full, Concealed.
+Class Feats:
+----------------------
+Needs more dakka -
+You fire off a hail of bullets to pin your enemy. Fire 4 shots for a full action, each shot DC +25%. If the target is still alive, they must pass a Shock DC of 50 or be pinned for 2 turns.
+|
+|
+|
+V
+Your ferocity knows no bounds. Fire off up to 6 shots, DC +25% for each.
+----------------------
+Heavier Ordinance not required -
+Your expertise with heavy weapons is sufficient for the task at hand. -25% accuracy and +25 damage once per day for a heavy weapons attack.
+|
+|
+|
+V
+Your expertise with heavy weapons is overkill for the task at hand. -30% accuracy and +35 damage once per day for a heavy weapon attack.
+
+"Doctor" - You know how or why something works (most likely humans / humanoid bodies), and put that knowledge to good use by supporting your team.
+Passives: Gain 5 skill in Anatomy, 5 skill in Pathology, and 10 skill in medicine. Every level, you gain one skill in both of the "hippocratic" and "malpractice" skill trees. At the beggining of each encounter, you begin with only half of your full count of nanites, but over the course of the battle, you may gain up to 600 nanites max. 
+Weapon Proficiencies: Pistols, Shotguns, SMGs
+Armour Proficiencies: Light, Medium.
+Class Feats:
+----------------------
+Scalpel jockey -
+You can slice with the best of them, mostly because there really isn't any competition for "Best frenzied medic" in these parts. 50% chance to stabilize an organic who is crashing, or heal 25 health.
+|
+|
+|
+V
+You've learned to use more than just your scalpel and some gauze. 75% chance success, or stabilize and heal 25 health, or just heal 50 health.
+
+"Pilot" - You have a yearning to test the limits of the vehicles you operate. The boundaries of speed and maneuvering were meant to be broken - by you.
+Passives: Gain Piloting skill at 10.
+Weapon Proficiencies: Pistols, Shotguns, SMGs
+Armour Proficiencies: Light, Medium.
+Class Feats:
+----------------------
+Planes, Trains, Automobiles -
+This is sorta familiar to something you once saw, or rode on. Maybe? Unfamiliar vehicles can be operated (albeit pretty poorly) after you pass a DC 50 check, or take up to 3 actions examining.
+|
+|
+|
+V
+You have flown, operated and driven just about everything there is. Except that. Make a DC 40 check, or take up to 2 actions examining.
+----------------------
+Extensive training <Vehicle> -
+Your complete knowledge of <vehicle> makes your operation of it seem easy. Add 25 to any check concerning your operation, knowldege, or maintenence of the vehicle.
+|
+|
+|
+V
+You are THE guru accross the holonets for <vehicle>. Add 50 onto a pertinent roll about the vehicle.
+
+"Adept" - Your specialized skills with technology are combined with battle training, providing you an edge in combat situations.
+Passives: Gain 100 nanites. any number of these can be put into a permanent passive CS Class B unit that is implanted in your body. When not wearing armor, it covers 75% excluding head, hands, and feet. when wearing armor, it extends your DR by 10 and you gain 5% coverage.
+Weapon Proficiencies: Pistols, SMGs, Carbines.
+Armour Proficiencies: Light, Medium.
+Class Feats:
+----------------------
+Energy Burst -
+You can emanate a short burst of nanite induced energy. This energy can be used to: Restore 100% of the nanites you expend to an ally. Deplete a target''s nanite reserve by 100% of what you expend. OR create an explosion at a target that deals 50 damage, plus causes C.S. to anyone caught in a 5 m radius, at a range of <X> nanites expended (Max 50).
+----------------------
+CS Manipulation -
+You can use your CS to create basic items (knives, frisbees, boomerangs, anything that is relatively 2-D shaped and smaller than .25x.25m) it gets <X> health, dependant on number of nanites used to create it (minimum 5). You can also use any adjacent CS unit as a melee tool that can hit at 5*INT damage + CS Burn, 50% to hit.
+|
+|
+|
+V
+Items can be slightly more complex, up to .5x.5x.5m. Choose one of the following: CS Melee bash is extended to 5m or deals 7*INT damage + CS Burn, or hits at 75%.
+
+"Hunter" - An expert tracker, you''re the one hired when someone wants something found. Expertly trained in manipulating your nanites to aid in pursuit of a quarry, or in marking enemies for execution.
+Passives: Gain Tracking - 10. Shotguns used are treated as Long Rifles, increasing distance by 70m, and base accuracy by 10%. Use of Nanite cloaking armor is 20EP less. At level 3 and above as a Hunter, Cloaking costs 10 nanites less.
+NOTICE: SEE BASIC RULES FOR ADDITIONAL CLOAKING ATTRIBUTES.
+Weapon Proficiencies: Pistols, Long Rifles, Shotguns, Carbines.
+Armour Proficiencies: Light.
+Feats:
+----------------------
+Hunter Vision - (Lvl/2 # uses per day.)
+Your breathing calms, as time appears to slow down. Your vision turns into miriad shades of grey. You see a faint path of color representing the trail of your quarry. +35% to a tracking check, Or take 3 turns to pass the check.
+|
+|
+|
+V
+The Trail becomes bright against a monochrome background of edged shades of grey. +75% to a tracking check, or maximum 2 turns to pass.
+----------------------
+Highlight Target:
+Expend 10 nanites to mark a target. All damage dealt by allies to this target is increased by 10, and any perception checks are 25% easier to pass. Use once per encounter. Maximum of Level number uses per day. Lasts for duration of encounter
+|
+|
+|
+V
+Expend 10 nanites to paint a target. All damage dealt by allies to this target is increased by 20, and any perception checks are 50% easier to pass. Use twice per encounter. Level number of uses per day. Lasts for the day.
+
+"Gunslinger"
+Passives: (APPLY ONLY TO PISTOL) 
+Choose one: Pistoleer lvl 1, Quick draw, Conceal Weapon, Steady Shot, +5 Round capacity to mags, +2 mags to arsenal. Also choose two bonuses, and one weakness: 
+    - Bonuses: +10 Dam, +10m, +10% accuracy, +CS burn, +1 rds in mag;
+    - Weaknesses: -10 Dam, -10m, -10% accuracy, -1 magazine;
+Weapon Proficiencies: Pistol.
+Armour Proficiencies: Light, Concealed.
+Feats:
+----------------------
+Heightened awareness -
+Being aware comes with your level of training. You cannot be caught flat-footed, but opponents can still get surprise rounds against you.
+|
+|
+|
+V
+You are omni-aware to any attacks made against you or allies. Whenever an enemy attempts to make an attack of opportunity on you or any allies within eye-sight, you gain an attack of opportunity on them.
+----------------------
+Enhanced Gun-Kata -
+You are a disciple of the art of close-range pistol fighting. Applies to any target within 30m. On a successful hit, you may continue rolling hits until you fail to hit or run out of rounds in your magazine. You must make each successive hit on a different target. THIS MEANS ONE HIT PER TARGET PER KATA.
+|
+|
+|
+V
+You are a master of pistols. Applies to an target within 35m. On a successful hit, you may continue rolling hits until you fail to hit. if you run out of rounds, you may reload mid-kata by passing a DC 75% DEX check. You may hit a target multiple times, but there must be one shot between shots fired at a single target. (Ask GM).
+
+"Assassin" - The galaxy is a dangerous place for those who would believe their power or influence are limitless. The assassin lurks in the shadows, either as a lone force of justice, or as part of a larger organization. They have rightfully earned the title of Galaxy''s greatest Hand to Hand Fighters.
+Passives: No penalty for engaging in Grappling maneuvers. Dex +1. Luck-1. Assassins wear a Shadow Cloak, which allows them to become a mere silhouette. When in partial darkness or darker (anything darker than an unlit back-alley), the static (non-moving) DC increases by 10.
+NOTICE: SEE BASIC RULES FOR ADDITIONAL CLOAKING ATTRIBUTES
+Weapon Proficiencies: Pistol, Hand to Hand Expert
+Armour Proficiencies: Light, Concealed.
+Feats:
+----------------------
+Shadowy Assassin -
+Your moving cloak DC increases by 10. Attacks made while in cloaking do not break your cloaking unless you are observed making the attack. Any damage dealt while in cloak is treated as standard-Crit damage.
+|
+|
+|
+V
+Your moving cload DC increases by 20, Attacks made while in cloacking do not break your cloaking. If you are observed making the attack, the observer must pass your cloaking DC in order to observe the attack. All damage dealt is treated as 2x Crit damage.
+----------------------
+Azure-Assassin -
+At the cost of 20 Nanites, you can summon Nanite-crystal blades. These blades are as tough as high-carbon steel, have properties of a CS edged knife, but break after a single use. They can be thrown or used manually. Blades appear at the users hand, as if pulling them from nowhere.
+|
+|
+|
+V
+At the cost of 15 Nanites, your Nanite-Crystal Blades can be summoned. Damage dealt by these blades is always treated as Standard-Crit damage, in addition to any CS burns afflicted to the target. Blades appear at the users hand, wrist, etc. Blades can also appear with some momentum (for RP purposes).
+
+//Currently under review, class changes to come. Consider Hunter as an alternative.
+"Marksman" - Your knowledge of bullet balistcs, experience at ranges, etc. has given you keen insight into firing a gun very, very accurately.
+Passives: Gain Sniping at 10 or Aimed shot at 10
+Weapon Proficiencies: Long Rifles, Pistols.
+Armour Proficiencies: Light, Concealed, Cloaking.
+Class Feats:
+----------------------
+Precise shot - 
+Your skill with a gun is such that you can pick a point on a target to hit. 50% to hit, no damage, but rather will affect the target. On fail, any percent under 50% (max 25) is added onto a normal shot for damage.
+|
+|
+|
+V
+25% to hit, or on hit affect enemy plus deal crit-2 damage
+----------------------
+Exploit enemy - 
+Spend one action examing enemy (50% roll). On success, you find a critical weakness. This weakness can be hit for Extra-crit damage.
+|
+|
+|
+V
+Either spend one full action, and chance of success is 75%, or take a free action for 50%. Double crit damage to hit
+
+"Beserker" - As an afficionado of the combat arts, you understand how important tactile feedback is. Guns simply don't offer the appropriate ammount, which is why you prefer to BEAT YOUR ENEMIES TO DEATH USING YOUR BARE HANDS WHENEVER POSSIBLE!!!!!!!!!!!!!!!!!!!! MORE EXCLIMATION MARKS!!!!!!!!!!!!!!!! 
+Passives: -1 to Luck and Intelligence, +1 to Strength and Fortitude. Expert unarmed.
+Weapon Proficiencies: Pistols.
+Armour Proficiencies: Medium, Heavy.
+Class Feats:
+----------------------
+Blood Rage -
+You gain a permanent 30 health. In addition, you deal an extra point of melee damage for each health point you are missing. If more than a third of your health is missing, your move speed is 1m per action farther.
+|
+|
+|
+V
+You gain a permanent additional 30 health. If you are missing more than half of your health, you gain a -20% chance to miss with melee weapons.
+----------------------
+Beast Mode
+Once per engagement, you give a mighty shout and rush to engage your foe(s). For 2 turns, your move speed increases by 2m per full action, your melee damage increases by 30 points and you gain 60 temporary hp which lasts until the end of this effect. 
+|
+|
+|
+V
+Enemies within 3m * your charisma of you when you shout must pass a DC 70 check not to target you, you gain a temporary 120 hp. This effect lasts an additional turn as well.
+
+Monk
+Head to any secluded Corporate Temple and you'll find many Monks studying the ancient texts and learning about sacred technology. Of these holy disciples, a few are trained to defend the Temple in case of attack. All Monks take an Oath to not utilize "lesser" technologies (guns, armour, and even nanite packs.), for only through embracing the Higher Technologies can one Advance oneself to the planes of the Great Ones.
+Passives: No penalty for engaging in Grappling maneuvers. Dex +1. Hand to hand Expert, 20. +20 damage to non-lethal attacks, +10 damage to lethal attacks. At level 5, and again at level 15 all monks must head back to their home temple or seek a wise master to learn more advanced techniques. Until this training has been completed, a monk cannot proceed to the next level (5 or 15). Part of this training is also usually a Monk's Aura shield, which reduces incoming damage (regardless of type) by 10, and reduces melee damage by 20, but at the cost of 100 nanites spent to activate the shield. Activation is a free action. Each shield lasts for one encounter. Monks may meditate once per day for an hour to regain any nanites lost in this way.
+Weapon Proficiencies: none
+Armour Proficiencies: none
+Class Feats:
+----------------------
+Elemental Strike -
+Choose a type from the following list, and deal 1 counter of that type to your opponent on each successful unarmed strike, with its listed effect: Fire: 10 burn damage. Ice: 10 cold damage. Plasma: 10 burn damage. Electricity: 10 shock damage.
+|
+|
+|
+V
+Elemental Strike, Advanced
+Fire: 15 burn damage, target catches fire and must put it out. Ice: 15 cold damage, area hit now has minor frostbite. Plasma: Stricken area is disabled. Electric: 15 shock damage and target is paralyzed for 1 turn, DC Knowledge [Nanites] Check. You may either uppgrade your existing element type, or take a second element type from the first list. You may also choose to switch to one of the following types: Necrotic: 10 necrotic damage, target is afflicted with necrocy and must seek medical attention. Vampiric: Heal self for 10, target loses 20 nanites. Capacitive: target loses 20 nanites and recieves 1 CS burn counter. Other (Discuss any ideas you have with the GM).
+
+Shadow Strike -
+Instead of rolling to hit based on oppenent armour + hand to hand skill, you only have to pass a DC 50 Knowledge [Nanites] check.
+|
+|
+|
+V
+Shadow Walk
+Roll a Knowlege [Nnaites] check, DC 50. You may teleport up to (Result-50)/10 meters. You may also roll stealth after emerging at no action cost (exiting in stealth). Movement in this manner is considered to take a half action, plus a half action for the skill check. Monks still receive a penalty attack for performing a skill check in melee combat.
+
+
+/*
+Scoundrel
+Passives: 
+Weapon Proficiencies: 
+Feats:
+Some Feat -
+* 1st level
+**Additional level
+Players can level up a feat at every third level from level 1 (1, 4, 7, etc.), or choose to purchase a new feat.
+/*
+Class Name
+Passives added
+Weapon Proficiencies: 
+Class Feats:
+----------------------
+Some Feat -
+1st level
+|
+|
+|
+V
+Additional level
+Players can level up a feat at every 10th level, or choose to purchase a new feat.
+
+//===================================================================
+//Copyright 2016 Taylor Rowland
+//
+//Licensed under the Apache License, Version 2.0 (the "License");
+//you may not use this file except in compliance with the License.
+//You may obtain a copy of the License at
+//
+//   http://www.apache.org/licenses/LICENSE-2.0
+//
+//Unless required by applicable law or agreed to in writing, software
+//distributed under the License is distributed on an "AS IS" BASIS,
+//WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+//See the License for the specific language governing permissions and
+//limitations under the License.
+//===================================================================

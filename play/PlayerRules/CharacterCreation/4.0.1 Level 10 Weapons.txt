@@ -1,0 +1,162 @@
+============================================================
+Pistols:
+(All pistols are considered CQB Weapons)
+Minimum Strength 2, Reload DC 20 unless otherwise noted. With DEX less than 5, Single Action revolvers must be re-cocked as a half action. Reload time 2 Half Actions
+============================================================
+
+Mathews Model 36 $1580
+65 m
+25%
+6 rds, .46 Magnum; FMJ / HP / AP
+65
+Reload 23%
+Single Action Revolver: cannot be fired as a free action.
+
+Raging Heffer			$1680
+60m
+30%
+6 rounds, .500 S&W
+80 damage
+
+Smithers P3K			$700
+35m
+28%
+11 rds	.40 ACP
+55 damage
++10% chance to crit, no penalty to suppressing
+
+Thor Pitton Dart Tazer	$540
+20m 
+32%
+5 rounds, Tazer darts
+20 damage
+Target must make a DC 90 Shock check. Failing that roll stuns the target for 3 turns.
+
+Frontier Plas-8 $1060
+45 m
+30%
+8 rds, Plas-8 packs; LO-SV / HO-SV / LO-HV
+47, 1 Plasma Burn token.
+HO-SV treated like HP
+LO-HV treated like AP
+Reload 28%
+
+============================================================
+Sub-Machine Guns:
+Capable of high rates of fire, but utilizing lighter calibers than a traditional combat rifle. Fire DEX/2 shots per full turn, rounding down. (DEX 5 = 2 shots, DEX 8 = 4 shots) Maximum LVL + 1.( All SMGs are considered CQB weapons)
+Minimum Strength 4, Reload DC 25% unless otherwise noted. Reload time 2 Half Actions.
+============================================================
+
+ECSC MK9 PDW				$3600//naming
+50m
+40%
+30 rounds 9mm
+40 damage
+
+
+
+============================================================
+Carbines & Battle Rifles
+Minimum Strength 5, Reload DC 25% unless otherwise noted. Reload time 2 Half Actions
+============================================================
+
+
+
+============================================================
+Assault Rifles:
+Minimum Strength 5, Reload DC 25% unless otherwise noted. Reload time 2 Half Actions
+============================================================
+
+ECSC AR-SOC L               $2440
+130m
+25%
+30 rounds 5.56
+50 damage
+
+
+ECSC AR-SOC H 				$3720
+150m
+20%
+20 rounds 7.62x51 NATO
+62 damage
+
+
+============================================================
+Heavy Weapons:
+Reload DC 40%, strength required 5 unless otherwise stated.
+A full action to reload unless otherwise stated. Requires
+at least 20 points in heavy weapons skill unless otherwise
+stated.
+============================================================
+
+Strudwick Arms LA-8b Light Autocannon $20,650
+Requires strength 7 to carry.
+180m
+26%
+4 rounds, 40mm impact detonating Shaped High Explosive warheads
+140 damage, 5d10 splash damage in adjacent 1m. 3d10 in adjacent 2m.
+Damages Vehicles. No Optics or barrel attatchments.
+
+ECSC MG-41 Minigun 		$7000
+Requires Strength of 7 to carry
+80m
+36%
+150 rds, 5mm linked belt
+25 damage per bullet
+Supporting Fire
+No Optics, barrel attatchments or extended mags. Fires four bullets
+whenever you would fire one. But only every fourth bullet counts for 
+any per bullet effects. Each magazine takes the carry space of four
+normal mags. Damages light vehicles.
+
+Mathews Mass Ordinance Dispersal Device		$8000
+Min 6 Str
+150m
+5%
+35 rounds, (small calliber)
+20 Damage
+Each time fired, the Percent Miss penalty increases by 5% unless a Full Action is taken to let the weapon cool down.
+
+G&W ECG-8E Light Coilgun		$6600
+Requires Strength 6 to carry
+600m
+24%
+6 rounds, 12mm Ionized Ultradense Bolts
+54 damage
+Instead of taking an accuracy penalty to firing at a target in cover, The Light
+Coilgun takes a damge penalty; 10 damage for an opponent in light cover, 20 
+damage for an opponent in heavy cover, and an additional 20 for an opponent 
+that hunkered down. Cannot fire through multiple layers of cover. Does not 
+grant awareness of an enemy you can''t see or hear. Cannot be silenced. 
+Subsequent shots on the same turn accrue a stacking 15% chance to miss.
+
+============================================================
+Long Rifles:
+Due to high velocities used in long rifle bullets, when a target is under the minimum engagement range, they take 20 less damage because of hit-pre-acceleration, PointBlank penetration, etc.
+On all engagements farther than 200m, you must take 1 Full Action to adjust your scope for windage and elevation between targets of differing distance.
+Minimum 5 strength to carry. All targets are inflicted with "Pinned" condition when hit. Reload DC 30% unless otherwise noted. Reload time 3 Half Actions.
+============================================================
+
+Shiva Antimaterial Rifle		$6300
+Requires 8 strength to carry
+800m
+24%
+1 round, Antimaterial
+240 damage
+Damages vehicles, cannot be suppressed. 
+
+SRS 99 Series 5 				$6200
+Requires 6 strength to carry
+1.5km
+15% below 800m, 30% above
+6 rounds something-something-Lapua?
+120 damage
+Bolt action
+
+Artimis Urban Combat Rifle		$7100
+Requires 6 strength to carry
+200m
+30%
+10 rds .306 long
+80 damage
+semi auto

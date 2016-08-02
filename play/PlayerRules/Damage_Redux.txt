@@ -1,0 +1,367 @@
+Armour redux
+
+damage types:
+ballistic damage is a physical force which emparts damage on a physical level. Bullets are the most common form of ballistic damage. A sabbot round from a gauss rifle is another example of a ballistic damage source.
+mellee damage is from any weapon which can slash, stab, or bludgeon. Swords, knifves, fists, etc. handheld simple weapons.
+
+energy damage is damage which on an atomic or chemical level breaks down items. Lasers, Plasma, and Arcane (nanite) based attacks are the most common sources of energy damage.
+
+Armour types:
+Shields protect against most forms of energy damage. They usually come in three classes, A, B and C, which determine their capacity and recharge rate.
+
+Standard armour protects from most ballistic and mellee damage sources, as well as some non-traditional damage sources such as explosive, or some effects from Nanite-based sorcery (like Shards for example).
+
+Lasers will cut right through Standard Armour, and deal their full damage to the target. Similarly, bullets, knives, firs, and explosions will go right through a shield, dealing full damage to the wearer. Plasma exists as a physical entity, but is also influenced by energy. As such, Plasma is partially stopped by both shields and armour, but to a lesser degree than either''s normative damage type.
+
+//==============================
+// Armour
+//==============================
+Any n+ level of protection, the amount of Damage Reduction (DR) is rolled at the time of purchase. A level 4+ armour plate might be anywhere from 16-25 DR for its lifetime, depending on what you roll when you purchase it. These armours are a bit of a gamble, since they may provide better protection than the next tier up, or they might only provide marginally better protection than the last tier.
+
+    //////////////////////
+    //Concealed Setups
+    //Offering slightly worse protection and armament for the price, but with
+    //the bonus of being concealable under a coat or jacket for clandestine or
+    //stealth oriented operations.
+    Runner''s Kit 20EP, $20
+        Conceal Rig, Shoulder Harness
+            Pistol Holster, 2 Pistol mags
+            cannot be worn with plate carriers, soft armour, or tactical vests.
+        
+    Gunner Kit 50EP, $50
+        Trauma Plate Vest
+            Holds 1 trauma plate in the front. 35% coverage, 20 DR. Concealable.
+        Conceal Rig, Shoulder Harness
+            Pistol Holster, 2 Pistol mags
+            cannot be worn with plate carriers, soft armour, or tactical vests.
+    
+    Enforcer Kit 60EP $60
+        Trauma Plate Vest
+            Holds 1 trauma plate in the front. 35% coverage, 20 DR. Concealable.
+        Conceal Rig, Waist
+            Pistol Holster or 2 primary mags, 2 secondary mags
+    
+    Clandestine Ops Kit 80EP, $80
+        Trauma Plate Vest
+            Holds 1 trauma plate in the front. 35% coverage, 20 DR. Concealable.
+        Conceal Rig, Waist
+            Pistol Holster or 2 primary mags, 2 secondary mags
+        Conceal Rig, Shoulder Harness
+            Pistol Holster, 2 Pistol mags
+            cannot be worn with plate carriers, soft armour, or tactical vests.
+    
+    ///////////////////////////////////////////////////////////////////////////
+    //Recon Armour Setups:
+    //Tactical Vest with soft armour underneath. Soft armour must be repaired
+    //or replaced after every 4 missions / conflicts / battles (assuming damage
+    // received during each)
+    //3 primary mags, 2 secondary mags, 1 grenade.
+    Level 2 40EP, $40
+        60%
+        10 DR
+    
+    Level 3 50EP, $45
+        60%
+        15 DR
+    
+    Level 3+ 55EP, $50
+        60%
+        10 + d10 DR
+    
+    ///////////////////////////////////////////////////////////////////////////
+    //Light Armour Setups:
+    //A "Chest Rig" which holds one front plate and some gear.
+    //4 primary mags, 4 of combined secondary mags and grenades.
+    Level 2 50EP, $60
+        30%
+        10 DR
+    
+    Level 2+ 55EP, $65
+        30%
+        5 + d10 DR
+        
+    Level 3 60EP, $70
+        30%
+        15 DR
+    
+    Level 3+ 65EP, $75
+        30%
+        10 + d10 DR
+    
+    ///////////////////////////////////////////////////////////////////////////
+    //Medium Armour Setups:
+    //A smaller plate carrier which holds a moderate amount of gear.
+    //6 primary mags, 5 of combined secondary mags and grenades.
+    Level 3 90EP, $150
+        60%
+        15 DR
+        
+    Level 3+ 95EP, $160
+        60%
+        10 + d10 DR
+        
+    Level 4 100EP, $170
+        60%
+        20 DR
+        
+    Level 4+105EP,  $180
+        60%
+        15 + d10 DR
+    
+    ///////////////////////////////////////////////////////////////////////////
+    //Heavy Armour Setups:
+    //A hefty plate carrier which holds front, back and side plates as well as
+    //extended amounts of gear.
+    //8 primary mags, 6 of combined secondary mags and grenades.
+    //With side plates included (any armour listed as 80% coverage) take a -1m movement speed penalty.
+    Level 3 100EP, $180
+        60%
+        15 DR
+        
+    Level 3 100EP, $195
+        80%
+        15 DR
+        
+    Level 3+ 105EP, $190
+        60%
+        10 + d10 DR
+        
+    Level 3+ 105EP, $200
+        80%
+        10 + d10 DR
+        
+    Level 4 110EP, $200
+        60%
+        20 DR
+        
+    Level 4 110EP, $220
+        80% 
+        20 DR
+        
+    Level 4+ 115EP, $210
+        60%
+        15 + d10 DR
+        
+    Level 4+ 115EP, $230
+        80%
+        15 + d10 DR
+        
+    Level 5 120EP, $220
+        60%
+        25 DR
+        
+    Level 5 120EP, $245
+        80%
+        25 DR
+        
+    Level 5+ 125EP, $230
+        60%
+        20 + d10 DR
+        
+    Level 5+ 125EP, $250
+        80%
+        20 + d10 DR
+    
+//==============================
+// Shields
+//==============================
+    Shield units are still a developing technology. They are generally more expensive than other forms of protection, and most often used in industry to protect miners and crewmen while doing EVAs. The same technology has been found useful in lessening the effect of energy based weapons, but is not widely available to the public. Rest assured that wearing a Shield generator will paint you as someone to be wary of, and you will stick out.
+    
+    When activated, a translucent blue sheen appears inches away from the wearer''s body. Multiple Field Manipulation points exist within the vest in order to maintain proper shield density and shape, so the shield looks as if it consists of multiple 2D faces joined together.
+    
+    Shield Basics:
+    There are 4 classes of shields: A, B, C and D.The shields come in light, medium, or heavy variants. Shield class cooresponds to recharge rate, while the variant cooresponds to capacity. Additionally, Shields come in either 50% coverage, which merely covers the critical regions (center mass) of the body, and 100% coverage, which is a shield that covers the entire torso.
+    
+    Light: +10EP
+    Medium: +15EP
+    Heavy: +20EP
+    
+    Class A: 3 turns, 25 nanites +1EP
+    Class B: 2 turns, 25 nanites +2EP
+    Class C: 1 turn, 25 nanites +3EP
+    Class D: 1 turn, 50 nanites. +6EP
+    
+    50% +2EP
+    100% +4EP
+
+    ///////////////////////////////////////////////////////////////////////////
+    // Light
+    // 1/2 Nanite reserve.
+        Class A 130EP, $130
+            50%
+            
+        Class A 15EP, $150
+            100%
+        
+        Class B 14EP, $140
+            50%
+        
+        Class B 16EP, $160
+            100%
+        
+        Class C 15EP, $150
+            50%
+    
+    ///////////////////////////////////////////////////////////////////////////
+    // Medium
+    // Full Nanite reserve.
+        Class A 20EP, $200
+            100%
+        
+        Class B 19EP, $190
+            50%
+        
+        Class B 21EP, $210
+            100%
+        
+        Class C 20EP, $200
+            50%
+            
+        Class C 22EP, $220
+            100%
+        
+        Class D 23EP, $230
+            50%
+    
+    ///////////////////////////////////////////////////////////////////////////
+    // Heavy
+    // 150% of nanites as reserve.
+        Class B 26EP, $240
+            100%
+        
+        Class C 25EP, $250
+            50%
+        
+        Class C 27EP, $270
+            100%
+        
+        Class D 26EP, $260
+            50%
+        
+        Class D 28EP, $280
+            100%
+
+//==============================
+// Shielded Armour
+//==============================
+
+Medium
+
+Heavy
+
+
+
+//==============================
+//Armour cost / price analysis stats
+//==============================
+Armour cost listed is per plate. Plate Carriers list number of plate slots. Side plate sets are half of the cost of a full plate. 
+
+Soft Armour Vest (Can be worn under plate carriers to compound protection)
+    Soft armour vests are cheap alternatives to plate carriers with hard armour plates. They are not as tough as hard armour, and after a few shots they will need to be replacced. (Replace every 4 missions)
+        Level 2 $10
+            60%
+            10 DR
+    
+        Level 3 $15
+            60%
+            15 DR
+        Level 3+ $20
+            60%
+            10 + d10 DR
+    
+    Hard Armour Plates (Must be inserted into a plate carrier)
+        +30% coverage per plate purchased. Side plates are +20%, half cost of full plates (round to lower $10).
+        //
+        Level 2
+            10 DR
+            2EP, $20
+        
+        //
+        Level 2 +
+            5 + d10 DR
+            2EP, $25
+        
+        //
+        Level 3
+            15 DR
+            3EP, $30
+        
+        //
+        Level 3 +
+            10 + d10 DR
+            3EP, $35
+        
+        //
+        Level 4
+            20 DR
+            4EP, $40
+        
+        //
+        Level 4 +
+            15 + d10 DR
+            4EP, $45
+        
+        //
+        Level 5
+            25 DR
+            5EP, $50
+        
+        //
+        Level 5 +
+            20 + d10 DR
+            5EP, $55
+    
+    -----------------------
+    
+    Conceal Rig, Waist
+        Pistol Holster or 2 primary mags, 2 secondary mags
+        3 EP, $30
+    Conceal Rig, Shoulder Harness
+        Pistol Holster, 2 Pistol mags
+        cannot be worn with plate carriers, soft armour, or tactical vests.
+        2 EP, $20
+    Trauma Plate Vest
+        Holds 1 trauma plate in the front. 35% coverage, 20 DR. Concealable.
+        3 EP, $30
+        
+    First Line (Tactical Belt)
+        Pistol Holter, 1 primary mag, 2 secondary mags, dump pouch
+        30 EP, $30
+    First Line, Upgraded
+        Pistol Holster, 2 Primary Mags, 3 secondary mags, ifak pouch, dump pouch
+        30 EP, $30
+    Tactical Vest
+        3 primary mags, 2 Secondary mags, 1 grenade.
+        30 EP, $30
+    Small Chest Rig
+        4 primary mags, 2 Secondary mags, 2 grenades
+        Front only.
+        30 EP, $40
+    Medium Plate Carrier
+        6 primary mags, 5 of combined secondary and grenade slots.
+        Front, Back.
+        60 EP, $90
+    Large Plate Carrier
+        8 primary mags, 6 of combined secondary and grenade slots.
+        Front, Back, Sides
+        70 EP, $120
+    
+//==============================
+//
+//==============================
+
+//===================================================================
+//Copyright 2016 Taylor Rowland
+//
+//Licensed under the Apache License, Version 2.0 (the "License");
+//you may not use this file except in compliance with the License.
+//You may obtain a copy of the License at
+//
+//   http://www.apache.org/licenses/LICENSE-2.0
+//
+//Unless required by applicable law or agreed to in writing, software
+//distributed under the License is distributed on an "AS IS" BASIS,
+//WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+//See the License for the specific language governing permissions and
+//limitations under the License.
+//===================================================================
