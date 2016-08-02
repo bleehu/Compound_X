@@ -89,6 +89,11 @@ This assault rifle is mostly purple, appears to be
 made of plastic and is ... held together... with
 duct tape? Is this a joke?
 
+upon inspection, it feels ominous and pulses with
+a vaguely evil arcane energy. If you are a nanite user,
+it speakes to you in your head, but you cannot make out
+what it is saying.
+
 Cost: 	8 EP
 Range: 	110m
 Miss:	35%
@@ -123,10 +128,10 @@ when it's fired, roll a d6.
 Kalihan's Smokeout Armor
 --------------------------------------------------
 Type: 				Light
-Cost:				2 EP
+Cost:				2 EP (cannot be bought or fenced)
 Damage Reduction:	25
 Coverage:			45%
-3 Primary Mags, 2 Secondary Mags
+3 Primary Mags, 6 Secondary Mags
 4 Grenade Clips
 +5 to stealth rolls
 
