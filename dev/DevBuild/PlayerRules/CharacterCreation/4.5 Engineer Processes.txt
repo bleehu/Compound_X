@@ -469,16 +469,25 @@ Build Time:			3 Full Actions
 Modular I/O ports: 	5 ports
 Duration: 			Permanent
 Health:				86
-Speed:				6m per Action
+Speed:				9m per Action if unladen and health is over 80. 
+					-4m per action if health < 80. -2m per action if a 
+					peripheral has changed health total.
 Roaming range:		10m from network mote.
 Size:				1m x .6m x .8m
-Disrupt DC:			60
-Pwn DC:				110
-Effect:				This quadrapedal drone comes equiped with several side
-pouches to store any pariphanelia found on the battlefield for transport, as
-well as significalntly more capacity for paripherals than its flying brethren.
+Disrupt DC:			50
+Pwn DC:				90
+Effect:				This small bipedal drone comes equiped with a distributed
+computing NIC card for improved performance in large packs. The PD-5 also comes 
+standard with a biomemetic sharp grasping claws and a tail that adapts 
+proceeduraly to maintain balance at high speeds as  well as significalntly more
+capacity for paripherals than its flying brethren. The Grasping claws may make 
+melee attacks at a 40% chance to miss for 40 damage ignoring armor. PD-5 bots 
+take a -20% to miss for each other friendly PD-5 within 6m due to their 
+distributed network architecture, but if one PD bot is pwnd, all PD bots within
+that range are pwnd as well. Disrupted PD-5 bots don't count for other's 
+accuracy bonus.
 Standard PD bots make soft hydraulic sounds when moving, and so may not have 
-stealth scores over 90. This limitation may be solved with clever RP, see your
+stealth scores over 80. This limitation may be solved with clever RP, see your
 GM with ideas.  
 When a drone is reclaimed, it frees up the control point cost that it occupied,
 but does not reimburse its controler's nanites that were used to assemble it.
