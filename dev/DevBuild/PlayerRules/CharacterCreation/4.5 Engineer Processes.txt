@@ -678,6 +678,19 @@ Effect:			Sometimes the low-tech solution is best. You unfold a series of
 armadillo ceramic and carbon nanotube plates that are pretty good at stopping
 bullets. This gives partial cover for 2 meters in one direction. 
 
+/////	Adaptive Gun Mount
+Type:			Structure
+Build Cost:		10 nanites
+Build Time:		1 Full Action
+Duration:		Permanent
+Health:			46 health
+Size:			.5m x .5m x .1m
+Effect:			You set up a recoil-dampening weapon stand that grants partial
+cover and a +10% accuracy bonus to whomever sets up here. Will fit in windows,
+off the back of a truck, etc. Adheres to a solid, flat surface. Engineer who
+built it gets 10 nanites every time an ally hits a target using their gun mount.
+does not proc for an engineer using their own mount.
+
 
 /////	Gun Emplacement
 Type: 		Structure
@@ -686,7 +699,7 @@ Build Time:	Full Action
 Duration: 	Permanent
 Health:		1 vehicle health
 Size:		1m x 1m x 1m
-Effect:		You piece together a heavy turret with a 200 round .5.56 calibur belt
+Effect:		You piece together a heavy turret with a 200 round 5.56 calibur belt
 of ammo. The balistic plate in front offers partial cover for whomever uses it.
 Each hit deals 53 damage and the gun has a 30% chance to miss. It cannot be 
 aimed, but it can be ripped off of its emplacement by a character that has 8 
@@ -700,12 +713,12 @@ Type:		Trap
 
 /////	ASPRO-S system
 Type: 		Structure
-Construction Cost:120 Nanites
-Build Time:	2 Full Actions
-Duration: 	Permanent
-Health:		50
-Size:		1m x 1m x 3m
-Effect:		Your nanites and you assemble an active countermeasure system that 
+Construction Cost:	120 Nanites
+Build Time:			2 Full Actions
+Duration: 			Permanent
+Health:				50
+Size:				1m x 1m x 3m
+Effect:				Your nanites and you assemble an active countermeasure system that 
 eleminates incoming explosive ordinance. When active, this system destroys any
 incoming grenades, missiles, rockets or thrown weapons that it has line of 
 sight to from the top of its 3m mast within a 6m radius. Any incoming munitions
