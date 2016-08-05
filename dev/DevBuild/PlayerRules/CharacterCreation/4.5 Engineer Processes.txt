@@ -409,7 +409,7 @@ at a time unless otherwise stated.
 ====================	Embeded Systems		====================
 /////	Dragonfly
 Type: 				Drone
-Construction Cost:	60 Nanites
+Construction Cost:	40 Nanites
 Control Point Cost: 1 point
 Build Time:			2 Full Actions
 Modular I/O ports: 	1 port
@@ -435,8 +435,8 @@ same turn that it is shot at adds a 25% chance for the attacker to miss.
 
 /////	KRO-W5
 Type: 				Drone
-Construction Cost:	100 Nanites
-Control Point Cost: 2 points
+Construction Cost:	60 Nanites
+Control Point Cost: 1 point
 Build Time:			3 Full Actions
 Modular I/O ports: 	3 ports
 Duration: 			Permanent
@@ -463,8 +463,8 @@ but does not reimburse its controler's nanites that were used to assemble it.
 
 /////	PD-5 Scout Bot
 Type: 				Drone
-Construction Cost:	120 Nanites
-Control Point Cost: 2 points
+Construction Cost:	60 Nanites
+Control Point Cost: 1 point
 Build Time:			3 Full Actions
 Modular I/O ports: 	5 ports
 Duration: 			Permanent
@@ -486,7 +486,7 @@ but does not reimburse its controler's nanites that were used to assemble it.
 /////	Cerberus Attack Drone
 Type: 				Drone
 Construction Cost:	220 Nanites
-Control Point Cost: 4 points
+Control Point Cost: 2 points
 Build Time:			4 Full Actions
 Modular I/O ports: 	9 ports
 Duration: 			Permanent
@@ -509,31 +509,34 @@ but does not reimburse its controler's nanites that were used to assemble it.
 /////	Titan Multipurpose Drone
 Type: 				Drone
 Construction Cost:	350 Nanites
-Control Point Cost: 5 points
+Control Point Cost: 4 points
 Build Time:			4 Full Actions
 Modular I/O ports: 	13 ports
 Duration: 			Permanent
 Health:				300
 Speed:				7m per Action
-Roaming range:		8m from network mote.
+Roaming range:		20m from network mote.
 Size:				1.2m x 1.2m x 2.4m
 Disrupt DC:			30
 Pwn DC:				70
 Effect:				The titan multipurpose drone is a bipedal megalith of death
 and science. Plasma induction core explodes violently when destroyed. 
-The titan comes with a 
+The titan comes with a 7.62 repeater that has a 20% chance to miss and deals 55 
+damage. fed from a 150 round drum. May also make melee attacks with its offhand.
+20% chance to miss. Deals 160 damage, kinda like being punched by a backhoe. 
 When a drone is reclaimed, it frees up the control point cost that it occupied,
 but does not reimburse its controler's nanites that were used to assemble it.
 
 /////	Peripheral: popgun
 Type:				Peripheral
-Construction Cost:	30 nanites
+Construction Cost:	50 nanites
 Build Time:			1 Full Action
 Modular I/O ports:	Uses 1 port
 Ammo:				Holds 20 shots
 Accuracy:			30%
 Damage:				40 points
 Range:				30m
+Drone Health:		+15
 A simple 9mm repeater module bolted to the universal adapter ports on a drone.
 Reloading takes a full action, but always suceeds and never crits. Drones 
 reload with perfect consistency. Additional ammo available as a separate
@@ -542,17 +545,17 @@ Atatchments added to a drone are returned when the drone is reclaimed.
 
 /////	Peripheral: Ammo
 Type:				Peripheral
-Construction Cost:	30 nanites
+Construction Cost:	20 nanites
 Build Time:			1 Full Action
 Modular I/O ports:	Uses 1 port
 Ammo:				Holds 3 full refills.
 Ammo storage and adaptive reffiting subsystem all rolled into one. May only 
 reload one weapon paripheral per Action, but may reload the weapon peripherals
-of other drones. 
+of other drones. Also adds 30 health to a drone.
 
 /////	Peripheral: Tazer
 Type:				Peripheral
-Construction Cost:	20 nanites
+Construction Cost:	40 nanites
 Build Time:			1 Full Action
 Modular I/O ports:	Uses 1 port
 Ammo:				Holds 4 shots
@@ -568,12 +571,12 @@ being paralyzed on their following turn.
 
 /////	Peripheral: Armor
 Type:				Peripheral
-Construction Cost:	30 nanites
+Construction Cost:	25 nanites
 Build Time:			1 Full Action
 Modular I/O ports:	Uses 1 port
-Coverage:			50%
+Coverage:			+50%
 Reduction:			20 points
-Drone health:		+40 points
+Drone health:		+46 points
 Slowdown:			1m/Action
 Sometimes, you just need a drone to be able to take a hit. Occupied I/O port 
 allows armor diagnostics and triggering of reactive balistic cells.
@@ -598,6 +601,7 @@ Ammo:				Holds 60 shots
 Accuracy:			30%
 Damage:				20 points per bullet
 Range:				60m
+Drone Health:		+20
 Fires 3 bullets per shot which are individually rolled.
 
 /////	Peripheral: Antenae
@@ -612,13 +616,14 @@ pwn attempts.
 
 /////	Peripheral: Flack Cannon
 Type:				Peripheral
-Construction Cost:	70 nanites
+Construction Cost:	80 nanites
 Build Time:			1 Full Action
 Modular I/O ports:	Uses 3 ports
 Ammo:				Holds 8 shots
 Accuracy:			30%
 Damage:				60 points
 Range:				50m
+Drone Health:		+25
 A cannon that fires explosive shrapnel rounds. + 30m range and +20% accuracy
 when firing on airborne targets. 10 points of damage inflicted in a 1m radius
 from impact. Each shot into a door reduces the DC of kicking down that door by
@@ -626,13 +631,14 @@ from impact. Each shot into a door reduces the DC of kicking down that door by
 
 /////	Peripheral: Rockets
 Type:				Peripheral
-Construction Cost:	80 nanites
+Construction Cost:	100 nanites
 Build Time:			1 Full Action
 Modular I/O ports:	Uses 1 port
 Ammo:				Holds 8 shots
 Accuracy:			50%
 Damage:				80 points
 Range:				80m
+Drone health:		+25
 Big Badda Boom. Gets a 30% accuracy increase to target that have an IR laser 
 shining on it. A hunter's mark's effect on this weapon is doubled. IR marks and
 hunter marks don't stack. 2 rocket hits count as an anti-vehicle hit. 
