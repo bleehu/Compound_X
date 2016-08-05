@@ -56,5 +56,10 @@ LUK+/2 added to armour rating
 Un-percievable damage?
 
 Noisey Cricket gun. Very expensive, lots of damage, not available to melee classes and warlocks
-//add melee upgrade / attachment system
-//
+//=============================
+//  To Work on:
+//      Engineer
+//      Paladin
+//      Priest
+//      Marksman
+//      Melee Customization

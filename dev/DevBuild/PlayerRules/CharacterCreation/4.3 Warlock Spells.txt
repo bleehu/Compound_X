@@ -37,6 +37,9 @@ Detect High-Tech [10]: Detect any highly advanced technology in the immediate ar
 |
 #1
 
+//Strike True
+//Ally hit buff
+
 Cure Light Wounds [30]: Restore P.Lvl*10 + 20 health
 |
 | 2

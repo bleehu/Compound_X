@@ -15,20 +15,21 @@ Deism?
 branches withn the precursors focussed on differering technology. the orgs that found dif temples base their doctrine off of the technology they found (warpers would be travelers, mind controllers would be manipulative (lawful evil)).
 
 List of techs:
-    dematerialisers
-        necrotic ne
-        z-entropy ce
-        ability negation / nanite capping le
 
     materializers
-        elemental cg
         builders/creators lg
         life ng
+        elemental cg
 
     neutral
+        nanite retainers (want to steal all the nanites to protect the universe from thier ill-effects) ln
         Phasing nn
         mind controllers cn
-        nanite retainers (want to steal all the nanites to protect the universe from thier ill-effects) ln
+
+    dematerialisers
+        ability negation / nanite capping le
+        necrotic ne
+        z-entropy ce
 
 Salvation: Reabsorption into the universes nanite pool
 
