@@ -117,12 +117,12 @@ Action:		Half Action
 Duration:	8 Turns
 Range:		Touch
 Effect:		You temporarily dissable your cybernetic ally's regression system,
-the part of their personality program that slows down to tripple check the 
+the part of their personality program that slows down to triple check the 
 results of their actions. This sends them into a rage mode. They still know
 friend from foe, and they still have a jenky understanding of their higher-
 order skills like lockipicking, hacking, or social finess, but they have no
 fear, no pain, no remorse and no hesitation for about half of a minute. Your
-Ally Cannot feel shock durring this durration, and cannot be repaired (they
+ally Cannot feel shock durring this durration, and cannot be repaired (they
 won't stand still). They get a bonus +15% to accuracy nearer than 41m. They
 also deal an extra 20 damage with melee or fire an extra bullet with rapid-
 fire weapons. They take a penalty of 25% to skill checks, including accrobat or
@@ -190,7 +190,10 @@ Duration: 	8 turns
 Range:		Touch
 Effect: You release a spider-like micro repair bot that repairs a cybernetic
 ally for 8 turns before running out of power. The microbot is able to heal
-15 health per turn. The microbot burns up in CS burn.
+15 health per turn. The microbot burns up in CS burn. A Microassembler uses
+wireless cloud calculation to stay small, but on-blueprint. As such, it is
+vulnerable to hack checks at a DC of 50. A hacked micro assembler reveals its
+location and may deal 5 damage per turn.
 
 /////	Engine Tuning
 Nanite Gain:50
@@ -421,6 +424,8 @@ less than 8kg. Powered by a Li+ battery, will almost never explode when
 destroyed. Due to it's not-quite-quiet rotors, limits deployer's stealth scores
 to a maximum of 75. If the deployer moves outside of its 6m service range, the
 dragonfly will passively move to the nearest point to it that is in range.
+When a drone is reclaimed, it frees up the control point cost that it occupied,
+but does not reimburse its controler's nanites that were used to assemble it. 
 
 /////	KRO-W5
 Type: 				Drone
@@ -447,6 +452,8 @@ Li+ battery and almost never explodes when destroyed. The Crow doesn't come
 with landing gear typically, so to get it to carry something other than a 
 peripheral an engineer would have to jerry rig something on to it. See GM for 
 Role Playing options. 
+When a drone is reclaimed, it frees up the control point cost that it occupied,
+but does not reimburse its controler's nanites that were used to assemble it.
 
 /////	PD-5 Scout Bot
 Type: 				Drone
@@ -469,6 +476,8 @@ printer or nanite synthesizer may be built into it at the usual cost of nanites.
 Standard PD bots make soft hydraulic sounds when moving, and so may not have 
 stealth scores over 90. This limitation may be solved with clever RP, see your
 GM with ideas.  
+When a drone is reclaimed, it frees up the control point cost that it occupied,
+but does not reimburse its controler's nanites that were used to assemble it.
 
 /////	Cerberus Attack Drone
 Type: 				Drone
@@ -490,6 +499,8 @@ and have trouble with stairs, but their turret can quickly turn and fire. They
 come with armor that covers 80% of their systems and reduces incoming fire by 
 30 points. One anti-vehicle hit will down them however. Large enough for a 
 player to take partial cover behind. 
+When a drone is reclaimed, it frees up the control point cost that it occupied,
+but does not reimburse its controler's nanites that were used to assemble it.
 
 /////	Titan Multipurpose Drone
 Type: 				Drone
@@ -506,6 +517,8 @@ Disrupt DC:			30
 Pwn DC:				70
 Effect:				The titan multipurpose drone is a bipedal megalith of death
 and science. Plasma induction core explodes violently when destroyed. 
+When a drone is reclaimed, it frees up the control point cost that it occupied,
+but does not reimburse its controler's nanites that were used to assemble it.
 
 /////	Peripheral: popgun
 Type:				Peripheral
