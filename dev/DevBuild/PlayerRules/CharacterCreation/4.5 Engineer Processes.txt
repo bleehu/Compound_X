@@ -15,7 +15,8 @@ Duration: 	N/A
 Range:		Touch
 Effect:		Only usable on cybernetic allies that are "bleeding" out. That ally
 is now stable and has 30 hp, rather than having to stabalize the target and 
-then heal them.
+then heal them. Not a quiet proceedure; detectable within 40m by a perception 
+check of 30.
 
 /////	Data Scrub
 Nanite Gain:35
@@ -48,7 +49,7 @@ damage after wrench hit. Add to that DC 10 for each minor status effect and
 15 for each major status effect, at the GM's discretion. If The DC is passed,
 Fix all minor status effects, one major status effect, or heal one wound. This
 process may only be performed on cybernetic allies, turrets, vehicles or as
-an RP event.
+an RP event. Not to be confused with the concussive maitnence feat.
 
 /////	Defrag
 Nanite Gain:15
@@ -57,7 +58,7 @@ Duration:	Until First Use
 Range:		Touch
 Effect:		You auto-balance your cybernetic ally's priority queues, defrag
 their memory and basically perform typical matainence. Feeling refreshed,
-your ally continues on their way. Your ally gets a +2% bonus to their next
+your ally continues on their way. Your ally gets a +5% bonus to their next
 RP roll.
 
 /////	Actuator Overdrive
@@ -101,7 +102,7 @@ Effect:		A cybernetic ally gets a -14% to miss for the duration of the engagment
 They also get a +35 to reloading weapons quickly and a +10 to perception checks, but
 take 20 damage from system overheat.
 
-/////	Colocation Process
+/////	Colocation Processing
 Nanite Gain:20
 Action:		Half Action
 Duration:	Until First Use
@@ -266,7 +267,10 @@ cybernetic allies for 8 turns before running out of power. The microbots are
 able to heal 15 health per turn. The microbots burn up if one of their subjects
 is affected by CS burn. For this, the engineer gains 40 * n nanites, where n is 
 the number of allies affected. The engineer can only perform this once per 
-engagement.
+engagement. A Microassembler uses wireless cloud calculation to stay small, 
+but on-blueprint. As such, it is vulnerable to hack checks at a DC of 50. A 
+hacked micro assembler reveals its location and may deal 5 damage per turn.
+The microbot swarm director automatically detects disobedient microbots.
 
 ====================	Optronic/Cycotonic		====================
 
@@ -275,7 +279,7 @@ Nanite Gain:	20 nanites
 Action:			Half Action
 Duration:		Immediate
 Range:			Touch
-Effect:			Recharges an ally's sheild by 40 points. Cannot be used to
+Effect:			Recharges an ally's sheild by 60 points. Cannot be used to
 charge an ally's sheilds over their max value. An engineer cannot recharge
 their own sheilds.
 
@@ -425,7 +429,9 @@ destroyed. Due to it's not-quite-quiet rotors, limits deployer's stealth scores
 to a maximum of 75. If the deployer moves outside of its 6m service range, the
 dragonfly will passively move to the nearest point to it that is in range.
 When a drone is reclaimed, it frees up the control point cost that it occupied,
-but does not reimburse its controler's nanites that were used to assemble it. 
+but does not reimburse its controler's nanites that were used to assemble it.
+Due to its small size and jerky flight movement, a Dragonfly that moved on the
+same turn that it is shot at adds a 25% chance for the attacker to miss.
 
 /////	KRO-W5
 Type: 				Drone
@@ -434,7 +440,7 @@ Control Point Cost: 2 points
 Build Time:			3 Full Actions
 Modular I/O ports: 	3 ports
 Duration: 			Permanent
-Health:				20
+Health:				46
 Speed:				8m per Action if unladen. 6m per Action if a port contains
 a peripheral.
 Roaming range:		10m from network mote.
@@ -443,7 +449,7 @@ Disrupt DC:			80
 Pwn DC:				120
 Effect:				The KRO-W5 or "Crow" is a lightweight quad-rotor drone 
 designed for low-altitude opperation. Combining agility with modularity. Its
-onboard targeting laser gives the ally nearest to it a +2 bonus to accuracy 
+onboard targeting laser gives the ally nearest to it a +10 bonus to accuracy 
 against the nearest enemy that it has line of sight to. It also has a redundant
 kernal checksum system to make hacking it more difficult. While unladen, its
 rotors run slightly quieter than most; as long as it isn't carrying anything 
@@ -462,7 +468,7 @@ Control Point Cost: 2 points
 Build Time:			3 Full Actions
 Modular I/O ports: 	5 ports
 Duration: 			Permanent
-Health:				80
+Health:				86
 Speed:				6m per Action
 Roaming range:		10m from network mote.
 Size:				1m x .6m x .8m
@@ -471,8 +477,6 @@ Pwn DC:				110
 Effect:				This quadrapedal drone comes equiped with several side
 pouches to store any pariphanelia found on the battlefield for transport, as
 well as significalntly more capacity for paripherals than its flying brethren.
-Another of its unique tallents is that for the cost of 2 ports each, an ammo
-printer or nanite synthesizer may be built into it at the usual cost of nanites.
 Standard PD bots make soft hydraulic sounds when moving, and so may not have 
 stealth scores over 90. This limitation may be solved with clever RP, see your
 GM with ideas.  
@@ -486,7 +490,7 @@ Control Point Cost: 4 points
 Build Time:			4 Full Actions
 Modular I/O ports: 	9 ports
 Duration: 			Permanent
-Health:				80
+Health:				216
 Speed:				4m per Action
 Roaming range:		8m from network mote.
 Size:				1m x .8m x 1m
@@ -509,7 +513,7 @@ Control Point Cost: 5 points
 Build Time:			4 Full Actions
 Modular I/O ports: 	13 ports
 Duration: 			Permanent
-Health:				180
+Health:				300
 Speed:				7m per Action
 Roaming range:		8m from network mote.
 Size:				1.2m x 1.2m x 2.4m
@@ -517,6 +521,7 @@ Disrupt DC:			30
 Pwn DC:				70
 Effect:				The titan multipurpose drone is a bipedal megalith of death
 and science. Plasma induction core explodes violently when destroyed. 
+The titan comes with a 
 When a drone is reclaimed, it frees up the control point cost that it occupied,
 but does not reimburse its controler's nanites that were used to assemble it.
 
@@ -533,6 +538,7 @@ A simple 9mm repeater module bolted to the universal adapter ports on a drone.
 Reloading takes a full action, but always suceeds and never crits. Drones 
 reload with perfect consistency. Additional ammo available as a separate
 peripheral. As a unique ability, may have red lasers or suppressors added.
+Atatchments added to a drone are returned when the drone is reclaimed.
 
 /////	Peripheral: Ammo
 Type:				Peripheral
