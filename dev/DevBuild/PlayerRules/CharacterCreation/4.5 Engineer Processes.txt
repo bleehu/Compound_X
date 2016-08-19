@@ -650,7 +650,8 @@ Range:				80m
 Drone health:		+25
 Big Badda Boom. Gets a 30% accuracy increase to target that have an IR laser 
 shining on it. A hunter's mark's effect on this weapon is doubled. IR marks and
-hunter marks don't stack. 2 rocket hits count as an anti-vehicle hit. 
+hunter marks don't stack. 2 rocket hits count as an anti-vehicle hit. At level
+7, rocket damage is 110 points per rocket.
 
 /////	Peripheral: Network Security Module
 Type:				Peripheral
@@ -966,7 +967,23 @@ target, dealing 30 damage and emitting a flash similar to a flashbang.
 
 
 /////	Noisy Cricket
-
+Type:			Disposable munition system
+Build Cost:		55 nanites
+Build Time:		1 Full Action
+Duration:		until it runs out of ammo
+Accuracy:		25%
+Clip:			4
+Damage:			60 within 1m radius of hit.
+Effect:			"I uh... haven't figured out how to fit the cartridge into a 
+				magazine without it ... you know... exploding. But what's in
+it should work just fine." you hand an ally (not you) a little sidearm that 
+has been your pet project for a while. Ignores sheilds. After every shot,
+the player who fired it rolls luck. If they roll over 80 (modified), all
+enemies who took damage have their sheilds wink out due to EMP. If they
+roll under 10, their sheilds and any nearby allies within 5m of them lose 
+their sheilds due to EMP. Does not effect the function of drones or robots.
+Every enemy hit with the noisy cricket gives 30 nanites to the engineer who
+built it.
 
 
 /////	Oversheild Inductor
