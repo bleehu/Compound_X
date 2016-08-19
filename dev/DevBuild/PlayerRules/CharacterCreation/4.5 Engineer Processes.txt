@@ -788,7 +788,8 @@ around a hit target with a 30% chance to miss. One shell "clip" with a full
 action to reload. 130m range with a high arc. Ignores cover penalties if the 
 shell comes straight down on top of the target. Successful hits have a 30%
 chance to daze the target. Every hit that an ally (not you) makes with a
-mortar that you placed gives you 40 nanites.
+mortar that you placed gives you 40 nanites. Each emplacement comes with 
+ten shells and may be refilled at a cost of 100 nanites.
 
 /////	IED
 Type:				Trap
@@ -838,6 +839,21 @@ scavenging. Your GM gets the final say on what your returns are, as a baseline,
 an enemy Detatchment Security Drone would be worth about 120 nanites.
 
 /////	Heavy Mortar
+Type: 		Structure
+Construction Cost:320 Nanites
+Build Time:	4 Full Actions
+Duration: 	Permanent
+Health:		1 vehicle health
+Size:		2m x 2m x 2m
+Effect:		That's it. You've just had it with those ###holes behind cover over
+there taking potshots at you and your squad. This oughta teach 'em. You 
+construct a mortar tube and shell printer. Deals 80 damage in a 3m radius
+around a hit target with a 30% chance to miss. Three shell "clip" with a full 
+action to reload. 300m range with a high arc. Ignores cover penalties if the 
+shell comes straight down on top of the target. Successful hits have a 30%
+chance to daze the target. Every hit that an ally (not you) makes with a
+mortar that you placed gives you 40 nanites. Each emplacement comes with 
+ten shells and may be refilled at a cost of 100 nanites. 50m minimum range.
 
 /////	Remote ANFO
 
