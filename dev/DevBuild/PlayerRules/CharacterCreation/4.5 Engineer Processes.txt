@@ -633,7 +633,7 @@ Accuracy:			30%
 Damage:				60 points
 Range:				50m
 Drone Health:		+25
-A cannon that fires explosive shrapnel rounds. + 30m range and +20% accuracy
+A cannon that fires explosive shrapnel rounds. + 30m range and -20% to miss
 when firing on airborne targets. 10 points of damage inflicted in a 1m radius
 from impact. Each shot into a door reduces the DC of kicking down that door by
 65. If the DC becomes 0, the door is blown open.
@@ -677,6 +677,15 @@ Size:			2m x .2m x .8m
 Effect:			Sometimes the low-tech solution is best. You unfold a series of
 armadillo ceramic and carbon nanotube plates that are pretty good at stopping
 bullets. This gives partial cover for 2 meters in one direction. 
+
+/////	Barbed Wire
+Type:			Structure
+Build Cost:		20 nanites
+Build Time:		1 Half Action
+Duration:		Permanent
+Health:			60 health points; immune to bullets but not to slashing weapons.
+Size:			1m x .1m x .3m
+Effect:			???????.
 
 /////	Adaptive Gun Mount
 Type:			Structure
@@ -808,6 +817,7 @@ per-bullet effects. Supporting Fire.
 
 
 /////	??????
+spoilers ;)
 
 /////	Reverse engineer
 Type:			Action
