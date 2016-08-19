@@ -950,7 +950,7 @@ Duration:		Permanent
 Health:			40 Points
 Size:			.5m x .5m x .3m
 Effect:			You create a specialized drone that will only follow a Marksman
-who is friendly. The spotter takes it's turn with that marksman, and takes 
+who is friendly. The spotter takes its turn with that marksman, and takes 
 orders from that marksman. It comes equiped with night vision, thermal imaging,
 advanced audio sensor arrays and EM spectrum sweepers. It gives audio and visual
 cues to what it sees. Unless otherwise specified, it's voice is that of an 
