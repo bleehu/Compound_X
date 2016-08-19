@@ -1002,7 +1002,10 @@ Build Time:		1 Full Action
 Duration:		Permanent
 Health:			40 Points
 Size:			.5m x .5m x .3m
-Effect:	
+Effect:			you attatch a nanite capacitor to your teammate's cloaking 
+				armor, which allows it to maintain a cloak for 2 more turns.
+The engineer who deploys this gets 50 nanites in return. A cloaking 
+capacitor is detectable by detect high tech rolls above a 1.
 
 /////	Defender
 
