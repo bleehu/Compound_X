@@ -774,7 +774,7 @@ Disarm DC:			60%
 Damage:				110 points
 Range:				4m cone in the direction that the claymore is facing
 Effect:				Detonates on proxy in the cone of effect. Will be fooled by
-cloaking.
+cloaking. You may affix a claymore to any hard, flat surface.
 
 /////	Scavenge
 Type:			Action
