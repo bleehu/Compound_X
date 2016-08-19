@@ -970,6 +970,20 @@ target, dealing 30 damage and emitting a flash similar to a flashbang.
 
 
 /////	Oversheild Inductor
+Type:			Drone
+Build Cost:		40 nanites
+Build Time:		1 Full Action
+Duration:		Permanent
+Health:			20 Points
+Size:			.5m x .5m x .3m
+Effect:			You create a small flying drone that follows one particular
+				ally (not you). The drone carries an addaptive resonator and
+nanite sheild inductor that overcharges your teammate's sheilds to 40 points 
+above their usual max. It also heals any damage to your teammate's sheilds 
+by 20 points at the end of your teammate's turn every turn. It's not really
+quiet though, so the teammate that the drone is following cannot score stealth
+rolls above 70. 
+
 
 /////	Nanite Totem
 
