@@ -685,7 +685,13 @@ Build Time:		1 Half Action
 Duration:		Permanent
 Health:			60 health points; immune to bullets but not to slashing weapons.
 Size:			1m x .1m x .3m
-Effect:			???????.
+Effect:			You keep a coil of barbed wire for those times when you need to
+				politely discourage someone from going a particular way. The
+barbed wire is clearly visible, and any character attempting to move out of a
+space occupied by barbed wire must pass a DC 70 FORT check. A character in/on 
+barbed wire takes 30 slashing/cutting damage for each full action or after 
+every second half action. Barbed wire does not hinder certain ethereal 
+characters.	Barbed wire does not hinder most vehicles, but it can pop tires.			
 
 /////	Adaptive Gun Mount
 Type:			Structure
