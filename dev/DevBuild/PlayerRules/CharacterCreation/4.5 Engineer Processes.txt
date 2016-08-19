@@ -982,7 +982,9 @@ nanite sheild inductor that overcharges your teammate's sheilds to 40 points
 above their usual max. It also heals any damage to your teammate's sheilds 
 by 20 points at the end of your teammate's turn every turn. It's not really
 quiet though, so the teammate that the drone is following cannot score stealth
-rolls above 70. 
+rolls above 70. For every 20 points (including the first 40 of over-heal) of
+sheild strength that the drone heals, the engineer who built it gets 15 
+nanites in return.
 
 
 /////	Nanite Totem
@@ -994,6 +996,13 @@ rolls above 70.
 /////	BFG
 
 /////	Cloaking Capacitor
+Type:			Wearable
+Build Cost:		40 nanites
+Build Time:		1 Full Action
+Duration:		Permanent
+Health:			40 Points
+Size:			.5m x .5m x .3m
+Effect:	
 
 /////	Defender
 
