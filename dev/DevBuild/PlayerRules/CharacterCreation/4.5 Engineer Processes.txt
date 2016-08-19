@@ -938,11 +938,6 @@ ceramic plates onto that coffee table over there and setting it where you
 need it to be. However you pull it off, you manage to create a 2m x 2m area
 of good cover for 360 degrees. 
 
-
-/////	Supplementary Appendage
-
-
-
 /////	Spotter
 Type:			Drone
 Build Cost:		30 nanites
@@ -1002,9 +997,6 @@ quiet though, so the teammate that the drone is following cannot score stealth
 rolls above 70. For every 20 points (including the first 40 of over-heal) of
 sheild strength that the drone heals, the engineer who built it gets 15 
 nanites in return.
-
-
-/////	Nanite Totem
 
 /////	Hunter
 
