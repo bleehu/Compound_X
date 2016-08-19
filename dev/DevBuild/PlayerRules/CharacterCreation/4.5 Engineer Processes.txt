@@ -724,7 +724,21 @@ shooter gets a free fifth shot. Every hit that an ally (not you) makes with a
 turret that you placed gives you 30 nanites. Supporting Fire weapon.
 
 /////	Snare
-Type:		Trap
+Type:				Trap
+Construction Cost:	5 nanites
+Build Time:			1 Half Action
+Disarm DC:			30%
+Damage:				0 points
+Range:				1 particular square meter
+Effect:				DC 20 + (20 * Engineer character Level) for an enemy to 
+					spot with a max of 90. When a character steps on a snare,
+their movement ends. They may not move until they pass a DC 60 Fortitude check.
+An additional fortitude check may be made at the cost of a half action. If the
+engineer who made this is at least level 5 and has an intelligence of at least
+8, the DC to escape is 80. If Int 8 and level > 10, DC is 120. Snares burn if
+damaged with fire or plasma and break if slashed. Snares may be shot, but are
+considered 'hunkered behind cover' at all times. Snares cannot be detected with
+detect high tech. Snares will trap friendly characters.  
 
 /////	ASPRO-S system
 Type: 		Structure
@@ -771,7 +785,9 @@ Effect:			You gather materials from fallen foes or derelict equipment in
 the feild to replenish your stock of components. You gain an amount of nanites
 depending on the condition, size, complexity and familiarity of what you are
 scavenging. Your GM gets the final say on what your returns are, as a baseline,
-an enemy Detatchment Security Drone would be worth about 80 nanites.
+an enemy Detatchment Security Drone would be worth about 80 nanites. Yoou cannot
+Scavenge active machinery. Some machinery may be too complex to scavenge or may
+be incompatible with your microassembler.
 
 
 /////	Light Mortar
