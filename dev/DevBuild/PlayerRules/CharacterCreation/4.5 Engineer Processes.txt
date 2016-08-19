@@ -872,6 +872,21 @@ mortar that you placed gives you 40 nanites. Each emplacement comes with
 ten shells and may be refilled at a cost of 100 nanites. 50m minimum range.
 
 /////	Remote ANFO
+Type:				Trap
+Construction Cost:	60 nanites
+Build Time:			1 Action
+Disarm DC:			80%
+Damage:				250 points or 4 vehicle damage
+Range:				6m radius
+Effect:				"um... sir, should you be... are you cleared to have that?"
+					Won't detonate if shot. Even with plasma. And, boy does 
+this sucker pack a punch. DC of 30 to hack it and set it off early. Setting one
+gives you a remote that can easily be held in an off hand, even if using a 2
+handed weapon. If a teammate detonates the ANFO, the engineer that set it gains
+10 nanites. Anyone within 9m radius of the blast gets an "ears are ringing"
+status effect which gives a -90% to perception checks based on sound for three
+turns. Remote ANFO comes in a sticky bundle and will cling to any shaped hard 
+surface. It will even cling to the wings of dropships during reentry.
 
 /////	Rocket Sentry
 Type:				Structure
