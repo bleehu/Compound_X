@@ -1,0 +1,78 @@
+							
+							---------Items List----------
+							
+		These are the items available to most arms markets that level 10
+	players would have access to. 
+	
+
+---------	misc wearables
+
+Thermal/Sonar Goggles ($300):
+IR visibility for no light conditions. Resolution clouds after 300m. Can 
+see through obsticles less than 15cm thick if they have no thermal, sonic or 
+reflective signature.
+
+Air scrubbers ($500):
+Prevents the inhalation of noxious or toxic air-borne compunds.
+
+---------	tools of the trade
+
+Hand-Cuffs ($200):
+Reusable ultra-dense plastic adjustable-size encrytion-key handcuffs. Cannot be
+picked with lockpicks alone. Strength check of DC 170 to break. Automatically 
+synches tighter if wearer breaks thumb to escape.
+
+Nanite-draining handcuffs ($600):
+Reusable handcuffs which automatically counterspell any abilities cast by 
+wearer.
+
+Jaws of life ($800):
+Requires Strength 7 to carry, 8 to use.
+Reusable. Loud. Add 150 to rolls to open a door or crush something with a 
+diameter less than 30cm.
+
+Breaching charges (8EP):
+Will remove a door from your path. Make sure no one is within 2m of the door in any direction or they take damage as if hit by an ECSC fragmentation grenade.
+
+----------	Misc. Thrown Weapons:
+All thrown weapons inflict bleed damage.
+
+
+
+----------	Grenades:
+All grenades require a skill of at least 10 to use.
+Targets can roll a luck or perception check at 95% in order to dodge.
+
+
+
+----------	Health Items:
+
+MediKit: $100
+For normal wounds (50% damage or less) roll percents under 50. On pass, heal 30 + percent rolled. For severe wounds (50% damage or more), roll percents under 50. On pass, heal 30. If you have Skill in Medicine, see the skill sheet for separate instructions.
+
+Repair kit: $100
+For normal damage (50% or less) roll percents under 50. On pass, repair 30 + percent rolled. For severe wounds (50% or more), roll percents under 50. On pass, repair 30.
+If you have Skill in Repair, see the skill sheet for separate instructions.
+
+Nanite Pack: $100
+Restores 2d10 + 20 nanites.
+
+Misc. Items and RP trinkets:
+
+
+
+//===================================================================
+//Copyright 2016 Taylor Rowland and Michael Hedges
+//
+//Licensed under the Apache License, Version 2.0 (the "License");
+//you may not use this file except in compliance with the License.
+//You may obtain a copy of the License at
+//
+//   http://www.apache.org/licenses/LICENSE-2.0
+//
+//Unless required by applicable law or agreed to in writing, software
+//distributed under the License is distributed on an "AS IS" BASIS,
+//WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+//See the License for the specific language governing permissions and
+//limitations under the License.
+//===================================================================
