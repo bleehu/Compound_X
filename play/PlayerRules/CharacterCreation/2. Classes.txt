@@ -243,31 +243,6 @@ V
 Shadow Walk
 Roll a Knowlege [Nnaites] check, DC 50. You may teleport up to (Result-50)/10 meters. You may also roll stealth after emerging at no action cost (exiting in stealth). Movement in this manner is considered to take a half action, plus a half action for the skill check. Monks still receive a penalty attack for performing a skill check in melee combat.
 
-
-/*
-Scoundrel
-Passives: 
-Weapon Proficiencies: 
-Feats:
-Some Feat -
-* 1st level
-**Additional level
-Players can level up a feat at every third level from level 1 (1, 4, 7, etc.), or choose to purchase a new feat.
-/*
-Class Name
-Passives added
-Weapon Proficiencies: 
-Class Feats:
-----------------------
-Some Feat -
-1st level
-|
-|
-|
-V
-Additional level
-Players can level up a feat at every 10th level, or choose to purchase a new feat.
-
 //===================================================================
 //Copyright 2016 Taylor Rowland
 //
