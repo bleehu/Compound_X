@@ -244,7 +244,7 @@ Shadow Walk
 Roll a Knowlege [Nnaites] check, DC 50. You may teleport up to (Result-50)/10 meters. You may also roll stealth after emerging at no action cost (exiting in stealth). Movement in this manner is considered to take a half action, plus a half action for the skill check. Monks still receive a penalty attack for performing a skill check in melee combat.
 
 //===================================================================
-//Copyright 2016 Taylor Rowland
+//Copyright 2016 Taylor Rowland and Michael Hedges
 //
 //Licensed under the Apache License, Version 2.0 (the "License");
 //you may not use this file except in compliance with the License.
