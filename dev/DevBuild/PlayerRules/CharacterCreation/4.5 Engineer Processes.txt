@@ -962,7 +962,22 @@ cannot leave their marksman, and do not occupy a control point. Unlike many
 similar models, the spotter drone is quite stealthy.
 
 /////	Parabolic Antenae
-
+Type:			Structure
+Build Cost:		20 nanites
+Build Time:		2 Full Actions
+Duration:		Permanent
+Health:			80 points
+Size:			.75 x .75. .5 (base) antenae is adjustable
+Effect:			You didn't exactly understand what your preist was saying about
+				what was in this thing, but you could tell he was quite 
+excited. Something about hexedemial core proceessor, radio and wireless 
+peripherals, embeded botnet, altera SHIELD encryption accellerator, digital
+signal processor, signal triangluator and all wrapped up with a web application
+firewall. Allows any priest within 8m of the station to make wireless hacking 
+checks with a +20 to rolls. Gives friendly drones in range a +10 to resist 
+being hacked. Also provides four friendly network nodes, all isoltated by
+separate firewalls. The engineer who deployed this gets 10 nanites for each
+system disrupted and 20 nanites for each system pwnd using this antenae. 
 
 
 /////	Noisy Cricket
