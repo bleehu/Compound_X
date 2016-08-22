@@ -85,6 +85,30 @@ Your complete knowledge of <vehicle> makes your operation of it seem easy. Add 2
 V
 You are THE guru accross the holonets for <vehicle>. Add 50 onto a pertinent roll about the vehicle.
 
+"Engineer" - You solve problems. For insance, you know how to stop some mean mutha-hubbard from tearin' you and your team a structurally supurfluous new behind. You know how to fix engines, machines, circuits, you name it. And when you're not busy fixing what other people broke, you get to work on making new stuff. Which some knucklehead will probably eventually break too. 
+passives: You gain get 10 skill points in repair. Every level, you get one Process point in each of the "repair" and "build" skill trees.  At the begining of an engagement, you start with only half of your nanites, but you may accrue up to 600 nanites max. You also start with 2 permanent control points, which enable control over any automatons you construct.
+Weapon Proficiencies: Pistol, Carbine, Shotgun
+Armour Proficiencies: Light, Medium
+Class Feats: 
+-----------------------
+A little Controlling - 
+You gain an additional permanant control point
+|
+|
+|
+V
+Control Phreak -
+You gain an additional permanant control point (absolute max of 5 permanant points)
+----------------------
+Repairman -
+you gain a 10% chance to stabalize a crashing robotic ally and a +10% to repair checks.
+|
+|
+|
+V
+Overbuilt -
+Any time you build a construction, you may spend an additional 15 nanites to give that construction 50 additional health.
+
 "Adept" - Your specialized skills with technology are combined with battle training, providing you an edge in combat situations.
 Passives: Gain 100 nanites. any number of these can be put into a permanent passive CS Class B unit that is implanted in your body. When not wearing armor, it covers 75% excluding head, hands, and feet. when wearing armor, it extends your DR by 10 and you gain 5% coverage.
 Weapon Proficiencies: Pistols, SMGs, Carbines.
