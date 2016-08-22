@@ -216,13 +216,7 @@ but are generally medium to extra large in size.
 Minimum Strength 7 to carry, Reload DC 30% unless otherwise noted. Reload time 4 Half Actions.
 ============================================================
 
-Anvil Arms KMR $3470
-160m
-30%
-80 rds, 7.62 x 51mm Belt
-62, Bleed Damage
-Supporting Fire
-Minimum 7 Str to carry. 40% reload
+
 
 Mathews Model 240-B $3720
 160m
