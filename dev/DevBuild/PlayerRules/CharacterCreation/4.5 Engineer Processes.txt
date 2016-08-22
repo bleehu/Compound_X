@@ -961,7 +961,7 @@ target, dealing 30 damage and emitting a flash similar to a flashbang. Spotters
 cannot leave their marksman, and do not occupy a control point. Unlike many 
 similar models, the spotter drone is quite stealthy.
 
-/////	Parabolic Antenae
+/////	Darknet Processor
 Type:			Structure
 Build Cost:		20 nanites
 Build Time:		2 Full Actions
