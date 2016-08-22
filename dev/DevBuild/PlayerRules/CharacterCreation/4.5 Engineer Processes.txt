@@ -945,6 +945,8 @@ Build Time:		1 Full Action
 Duration:		Permanent
 Health:			40 Points
 Size:			.5m x .5m x .3m
+Disrupt DC:		30
+Pwn DC:			70
 Effect:			You create a specialized drone that will only follow a Marksman
 who is friendly. The spotter takes its turn with that marksman, and takes 
 orders from that marksman. It comes equiped with night vision, thermal imaging,
@@ -955,7 +957,9 @@ Marksman's perception modifier (since they are working as a team) at a bonus of
 20 points. It does not need to roll perception to detect cloaked characters 
 within 20m, since they show up like lit christmas trees on the EM sweepers. In 
 an emergency, the spotter may move up to 12m and self-destruct on a close-range
-target, dealing 30 damage and emitting a flash similar to a flashbang. 
+target, dealing 30 damage and emitting a flash similar to a flashbang. Spotters
+cannot leave their marksman, and do not occupy a control point. Unlike many 
+similar models, the spotter drone is quite stealthy.
 
 /////	Parabolic Antenae
 
@@ -998,7 +1002,27 @@ rolls above 70. For every 20 points (including the first 40 of over-heal) of
 sheild strength that the drone heals, the engineer who built it gets 15 
 nanites in return.
 
-/////	Hunter
+/////	Pointer
+Type: 				Drone
+Construction Cost:	50 Nanites
+Control Point Cost: 0 points
+Build Time:			2 Full Actions
+Modular I/O ports: 	2 ports
+Duration: 			Permanent
+Health:				86
+Speed:				8m per Action.
+Roaming range:		10m from imprinted hunter.
+Size:				1m x .6m x .8m
+Disrupt DC:			60
+Pwn DC:				90
+Effect:				You construct a quadropedal drone and upload the cainine
+					AI to it's processor. You imprint your team's hunter upon
+it. The pointer comes prefabricated with a head-mounted 12-gague peripheral 
+with 10 shots. It also has a "point" behavior which it uses to highlight 
+targets for its master. The hunter who owns the pointer gets -15% to miss a 
+highlighted target. A pointer cannot fire while pointing. Pointers are not
+quite and cap stealth scores at 80. Shotgun deals 80 dam out to 3m, 65 out to 
+10m, 50 out to 20m.
 
 /////	Medic Drone
 Type:			Drone
