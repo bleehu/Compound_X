@@ -611,7 +611,8 @@ Accuracy:			30%
 Damage:				20 points per bullet
 Range:				60m
 Drone Health:		+20
-Fires 3 bullets per shot which are individually rolled.
+Fires 3 bullets per shot which are individually rolled. In order to unlock,
+engineer must have unlocked antenae and sheild capacitor peripherals.
 
 /////	Peripheral: Antenae
 Type:				Peripheral
@@ -1086,7 +1087,26 @@ The engineer who deploys this gets 50 nanites in return. A cloaking
 capacitor is detectable by detect high tech rolls above a 1.
 
 /////	Defender
-
+Type: 				Drone
+Construction Cost:	60 Nanites
+Control Point Cost: 0 points
+Build Time:			3 Full Actions
+Modular I/O ports: 	3 ports
+Duration: 			Permanent
+Health:				72
+Speed:				8m per Action if unladen. 6m per Action if a port contains
+a peripheral.
+Roaming range:		10m from Assigned Teammate.
+Size:				.5m x .1m x .2m
+Disrupt DC:			60
+Pwn DC:				90
+Effect:				You set up and deploy a quad rotor flying combat assit 
+drone and task it to follow the direction of one of your allies (not you).
+ While unladen, its rotors run slightly quieter than most; as long as it 
+isn't carrying anything and its ports are unused, it has a maximum stealth 
+check of 90. It runs on a Li+ battery and almost never explodes when destroyed.
+When a drone is reclaimed, it frees up the control point cost that it occupied,
+but does not reimburse its controler's nanites that were used to assemble it.
 
 //===================================================================
 //Copyright 2016 Taylor Rowland and Michael Hedges
