@@ -349,7 +349,14 @@ Each shot into a door reduces the DC of kicking down that door by 65. If the DC 
 Clips cost $120 each
 //flak cannon from unreal tournament / roadhog's shotgun from overwatch
 
-//Add KMR and Mk240 b
+//Add Mk240 b
+Anvil Arms KMR $3470
+160m
+30%
+80 rds, 7.62 x 51mm Belt
+62, Bleed Damage
+Supporting Fire
+Minimum 7 Str to carry. 40% reload
 
 ============================================================
 Long Rifles:

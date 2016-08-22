@@ -348,6 +348,13 @@ Requires strength 6 to carry
 Each shot into a door reduces the DC of kicking down that door by 65. If the DC becomes 0, the door is blown open. No optics or barrel attachments. 0% chance to miss airborne targets.
 Clips cost $120 each
 
+Anvil Arms KMR $3470
+160m
+30%
+80 rds, 7.62 x 51mm Belt
+62, Bleed Damage
+Supporting Fire
+Minimum 7 Str to carry. 40% reload
 
 ============================================================
 Long Rifles:
