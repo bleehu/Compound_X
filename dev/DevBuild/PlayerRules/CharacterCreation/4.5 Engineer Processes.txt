@@ -985,12 +985,13 @@ Type:			Disposable munition system
 Build Cost:		55 nanites
 Build Time:		1 Full Action
 Duration:		until it runs out of ammo
-Accuracy:		25%
+Range:			60m
+Accuracy:		25% to miss
 Clip:			4
 Damage:			60 within 1m radius of hit.
 Effect:			"I uh... haven't figured out how to fit the cartridge into a 
 				magazine without it ... you know... exploding. But what's in
-it should work just fine." you hand an ally (not you) a little sidearm that 
+it should work just fine." you hand an allied gunslinger a little sidearm that 
 has been your pet project for a while. Ignores sheilds. After every shot,
 the player who fired it rolls luck. If they roll over 80 (modified), all
 enemies who took damage have their sheilds wink out due to EMP. If they
@@ -1058,6 +1059,19 @@ every time the medic uses the drone to heal something. Medic drones are not
 quiet and limit a medic to a stealth score of 75 while active.
 
 /////	BFG
+Type:			Disposable munition system
+Build Cost:		75 nanites
+Build Time:		1 Full Action
+Duration:		until it runs out of ammo
+Range:			500m
+Accuracy:		25%
+Clip:			4 Ni U Rods
+Damage:			120 points, ignores armor.
+Effect:			You assemble a large antimatter slug impeller on the ground and
+				instruct your weapons specialist to pick it up and use it until
+the cannister runs out. You explain that he shouldn't drop it, but don't break
+his brain with the physics behind it. The engineer that deploys this gets 30
+nanites per hit with this weapon.
 
 /////	Cloaking Capacitor
 Type:			Wearable
