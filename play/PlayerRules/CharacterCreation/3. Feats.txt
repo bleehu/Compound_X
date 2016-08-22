@@ -9,8 +9,6 @@
 Passive Feats
 ====================
 
-//shotgun "bulltrue" feat.
-
 Backstab:
 Prerequisites: Level 3 and higher Assassins and Monks.
 Any damage dealt to an opponent from behind deals Extra-Crit damage.
