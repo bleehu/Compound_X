@@ -27,7 +27,7 @@ New hacking system needed	[fixed]
 
 Driving DCs way too hard	[discussed/fixed]
 
-Engineer undertuned?		[in prog]
+Engineer undertuned?		[fixed]
 
 Shotgun preemptive feat to counter melee classes?	[added]
 
