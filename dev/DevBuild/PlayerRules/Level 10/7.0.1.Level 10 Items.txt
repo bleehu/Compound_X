@@ -31,9 +31,6 @@ Requires Strength 7 to carry, 8 to use.
 Reusable. Loud. Add 150 to rolls to open a door or crush something with a 
 diameter less than 30cm.
 
-Breaching charges (8EP):
-Will remove a door from your path. Make sure no one is within 2m of the door in any direction or they take damage as if hit by an ECSC fragmentation grenade.
-
 ----------	Misc. Thrown Weapons:
 All thrown weapons inflict bleed damage.
 
@@ -47,15 +44,15 @@ Targets can roll a luck or perception check at 95% in order to dodge.
 
 ----------	Health Items:
 
-MediKit: $100
-For normal wounds (50% damage or less) roll percents under 50. On pass, heal 30 + percent rolled. For severe wounds (50% damage or more), roll percents under 50. On pass, heal 30. If you have Skill in Medicine, see the skill sheet for separate instructions.
+Biofoam: $500
+For normal wounds (50% damage or less) roll percents under 50. On pass, heal 60 + percent rolled. For severe wounds (50% damage or more), roll percents under 50. On pass, heal 60. If you have Skill in Medicine, see the skill sheet for separate instructions.
 
-Repair kit: $100
-For normal damage (50% or less) roll percents under 50. On pass, repair 30 + percent rolled. For severe wounds (50% or more), roll percents under 50. On pass, repair 30.
+Adaptive Epoxy kit: $500
+For normal damage (50% or less) roll percents under 50. On pass, repair 60 + percent rolled. For severe wounds (50% or more), roll percents under 50. On pass, repair 60.
 If you have Skill in Repair, see the skill sheet for separate instructions.
 
-Nanite Pack: $100
-Restores 2d10 + 20 nanites.
+Nanite Reserve: $500
+Restores 4d10 + 30 nanites.
 
 Misc. Items and RP trinkets:
 
