@@ -1001,6 +1001,22 @@ nanites in return.
 /////	Hunter
 
 /////	Medic Drone
+Type:			Drone
+Build Cost:		40 nanites
+Build Time:		1 Full Action
+Duration:		Permanent
+Health:			20 Points
+Size:			.5m x .5m x .3m
+Disrupt DC:		30
+Pwn DC:			70
+Effect:			You set up and deploy a MD-413 surgical assistant hover drone.
+				It follows one particular medic and speeds up all hippocratic
+proceedures to a half action (no effect if action would be a half action or 
+faster anyway). It also adds a +15 to medical skill checks and adds a +15 to
+perception checks made by that medic. The medic drone does not cost any control
+points. The engineer who deployed the medic drone is able to reclaim 10 nanites
+every time the medic uses the drone to heal something. Medic drones are not 
+quiet and limit a medic to a stealth score of 75 while active.
 
 /////	BFG
 
