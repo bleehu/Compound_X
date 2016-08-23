@@ -6,7 +6,7 @@
  * a distributed development effort.
  *======================================*/
 
-//Pistol Rounds
+//		Pistol Rounds
 .22
 30 m, 30 damage
 Typical mag size: 20 and 25 for pistols, 30 and 35 for smgs.
@@ -77,7 +77,7 @@ civilian. long cartridge = revolver. high kick = lower accuracy
 Typical mag size: 5 for revolver.
 hollowpoint round only. high kick = lower accuracy. Produced by Anvil Arms almost exclusively.
 
-//Rifle Rounds
+//		Rifle Rounds
 5.45 x 39 mm
 90 m, 50 damage
 Typical mag size: 25 for carbines, 30 or 35 for assault rifles.
@@ -143,7 +143,7 @@ Mathews custom, rare.
 Typical mag size: 5 or 10 for long rifles, 100 for HMGs
 military
 
-//Other rounds
+//		Other rounds
 40 mm Grenade
 60m, 70 explosive damage
 Typical mag size: 1 for a standard launcher, 5, 6 or 8 for an MGL.
@@ -159,8 +159,72 @@ Support and heavy weapons are actually a little rare to run across. Generally no
 Sub machine guns are used by crewman like pilots and operators because of their compact size. they are also great choices for private security for the same reason.
 Energy weapons aren''t generally used by military forces as they are too expensive.
 
+//				Weapon design guidelines
+	A qualitative guide to making custom rewards for dungeons/quests/missions 
+etc along with explination as to why we do what we do. 
 
-Manufacturers:
+//		Melee weapons
+range:		In general, melee weapons should only be able to reach into the adjacent square. 
+damage:
+accuracy:
+cost:
+
+
+//		Pistols
+range:
+damage:
+accuracy:
+cost:
+
+//		SMGs
+range:
+damage:
+accuracy:
+cost:
+
+//		Shotguns
+range:
+damage:
+accuracy:
+cost:
+
+//		Battle Rifles and Carbines
+range:
+damage:
+accuracy:
+cost:
+
+//		Assault Rifles
+range:
+damage:
+accuracy:
+cost:
+
+//		Heavy Weapons
+range:
+damage:
+accuracy:
+cost:
+
+//		Long Rifles
+range:
+damage:
+accuracy:
+cost:
+
+//		Sniper Rifles
+range:
+damage:
+accuracy:
+cost:
+
+//		Bows and Crossbows
+range:
+damage:
+accuracy:
+cost:
+
+				Manufacturers:
 
 ECSC:
 Common weapons, main military pretty standard arms manufacturer, much like Colt or FN Herstal.
