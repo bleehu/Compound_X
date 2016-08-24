@@ -161,7 +161,7 @@ Energy weapons aren''t generally used by military forces as they are too expensi
 
 //				Weapon design guidelines
 	A qualitative guide to making custom rewards for dungeons/quests/missions 
-etc along with explination as to why we do what we do. 
+etc along with explination as to why we do what we do. This is from a game balance perspective, not a lore perspective.
 
 //		Melee weapons
 range:		In general, melee weapons should only be able to reach into the adjacent square. 
@@ -186,10 +186,24 @@ accuracy:
 cost:
 
 //		SMGs
-range:
-fire rate:
-damage:
-accuracy:
+range:		SMGs necessarily have a longer range than shotguns, but a shorter range than their slower-firing big brothers:
+			Carbines, assault rifles and battle rifles. Don't forget that all SMGs count as CQB weapons!
+fire rate:	Submachinegun's primary personality trait is the ability to send LOTS of rounds downrange very quickly. 
+			SMGs have the unique trait of firing DEX/2 shots per full turn, rounding down. (DEX 5 = 2 shots, DEX 8 = 4 shots) 
+			Maximum LVL + 1. Most characters that use SMGs tend to have high dex. Compromising this with small magazines or
+			any other significant fire rate limiter compromises what makes an SMG distinct. So make sure when designing 
+			an SMG to keep a high mag count!
+damage:		SMGs tend to make up for low damage by making lots of shots per turn. SMGs may have less damage than even pistols
+			of the same quality, rarity, level and cost. Due to their high rate of fire and low damage, they tend to work well
+			against many weak targets, or targets with a lot of health, but little armor. While armored targets will fare 
+			better because armor reduction procs per bullet. While this is true of most SMGs, you could create an SMG 
+			that handles a little better against armor but sacrifices cost or accuracy without breaking the personality of
+			an SMG.
+accuracy:	Since SMGs fire more bullets per turn, the law of large numbers gives a better approximation of the ammount of
+			damage we can expect an SMG to do; so a poorer accuracy is less debilitating for an SMG than it is for say a
+			shotgun or sniper rifle. When giving an SMG an accuracy rating, remember to balance the average damage with
+			fire rate, bullet damage, accuracy and range as compared to a carbine. Expect players to compensate for low 
+			accuracy with weapon attatchments if possible.
 cost:
 
 //		Shotguns
