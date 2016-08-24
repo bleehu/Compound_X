@@ -165,9 +165,17 @@ etc along with explination as to why we do what we do.
 
 //		Melee weapons
 range:		In general, melee weapons should only be able to reach into the adjacent square. 
-damage:
-accuracy:
-cost:
+damage:		Melee weapons tend to scale damage to either DEX or STR or both. Due to the high-risk tactics the high-reward
+			that balances it tends to be high damage when compared to primary weapons of the same level, rarity and cost.
+accuracy:	While most weapons rely on perception and attatchments to enhance accuracy, melee weapons actually have their accuracy
+			vary by a character's skill. Which means that melee characters after level five expect to have around a -40 to miss. As
+			such, melee weapons should have a moderately high to-miss chance by level and regardless of rarity. Also consider that
+			closing to melee range poses a high-risk strategy. If the melee attack misses due to accuracy that is too low, it leaves
+			the user open to counter-attack.
+cost:		Melee weapons in general should be cheaper than primary weapons of the same level, rarity, and stats. Note that most melee
+			weapons also don't require the constant cash drain of ammo, so they tend to be money savers for the characters that use them.
+			As such, keep in mind that Beserkers and assassins tend to start with less money than most other classes, but gain it 
+			quicker as their allies spend money on ammo and attatchments.
 
 
 //		Pistols
