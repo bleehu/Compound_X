@@ -191,9 +191,14 @@ accuracy:
 cost:
 
 //		Shotguns
-range:
-damage:
-accuracy:
+range:		The range of a shotgun is the most important characteristic to deliver on this weapon's distinct personality.
+			To develope the schema for the player that shotguns are a counter to enemy melee units, a shotgun's optimal 
+			range must be long enough to outrange a melee weapon, but short enough to not rob SMGs of their niche. 
+			Shotguns should for usablitly stay contrained to the damage breakdown of 3 meters, 10 meters, 20 meters. 
+damage:		
+accuracy:	Shotguns suggest a similar high-risk, high-reward strategy to that of melee weapons. Since the risk of firing
+			a shotgun comes in closing distance to your target, adding the additional risk of missing would be redundant.
+			TL;DR: Shotguns should be quite accurate.
 cost:
 
 //		Battle Rifles and Carbines
