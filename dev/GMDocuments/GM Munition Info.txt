@@ -180,12 +180,14 @@ cost:		Melee weapons in general should be cheaper than primary weapons of the sa
 
 //		Pistols
 range:
+fire rate:
 damage:
 accuracy:
 cost:
 
 //		SMGs
 range:
+fire rate:
 damage:
 accuracy:
 cost:
@@ -195,45 +197,61 @@ range:		The range of a shotgun is the most important characteristic to deliver o
 			To develope the schema for the player that shotguns are a counter to enemy melee units, a shotgun's optimal 
 			range must be long enough to outrange a melee weapon, but short enough to not rob SMGs of their niche. 
 			Shotguns should for usablitly stay contrained to the damage breakdown of 3 meters, 10 meters, 20 meters. 
-damage:		
+fire rate:	Shotguns typically have a slower fire rate, needing to pump a slide and change aim more often due to their
+			close engagement range. But shotguns typically rely on other characteristics to maintain their distinction.
+damage:		Shotgun damage at close range should be debilitatingly devestating. In order to have the stopping power 
+			necessary to make the high-risk high-reward close play worth it, a hit with a shotgun shell under 10m should
+			gank a non-elite enemy of the same level. As part of maintaining the personality of shotguns as a weapon class,
+			a hit on an enemy between 10m and 20m should do non-negligable damage, but should deal less than a third of
+			a non-elite enemy's health pool.
 accuracy:	Shotguns suggest a similar high-risk, high-reward strategy to that of melee weapons. Since the risk of firing
 			a shotgun comes in closing distance to your target, adding the additional risk of missing would be redundant.
 			TL;DR: Shotguns should be quite accurate.
-cost:
+cost:		In general, shotguns themselves should be moderate to expensive, while buckshot ammo should be very cheap.
+			Special ammo for shotguns changes their behavior more radically than special ammo for other weapons. This
+			change in behavior modifies their apparent personality, so special shotgun shells should be very expensive
+			in comparison to other ammo. i.e. dragonbreath shells should be about as expensive as plasma rounds for
+			a long rifle.
 
 //		Battle Rifles and Carbines
 range:
 damage:
+fire rate:
 accuracy:
 cost:
 
 //		Assault Rifles
 range:
 damage:
+fire rate:
 accuracy:
 cost:
 
 //		Heavy Weapons
 range:
 damage:
+fire rate:
 accuracy:
 cost:
 
 //		Long Rifles
 range:
 damage:
+fire rate:
 accuracy:
 cost:
 
 //		Sniper Rifles
 range:
 damage:
+fire rate:
 accuracy:
 cost:
 
 //		Bows and Crossbows
 range:
 damage:
+fire rate:
 accuracy:
 cost:
 
@@ -258,7 +276,7 @@ Frontier:
 ECSC R&D firm that deals in experimental weaponry for military applications and private sector security. Plasma, Lasers, Coilguns are mostly made by Frontier for humans.
 
 Strudwick Arms:
-European military armament group. Produce heavier weapons in a utilitarian package.
+European military armament group. Produce heavier weapons in a utilitarian package. Hedquartered in sector 5.
 
 Level 10 and higher manufacturers:
 Muzashi:
