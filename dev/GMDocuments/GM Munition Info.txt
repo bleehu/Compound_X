@@ -204,7 +204,9 @@ accuracy:	Since SMGs fire more bullets per turn, the law of large numbers gives 
 			shotgun or sniper rifle. When giving an SMG an accuracy rating, remember to balance the average damage with
 			fire rate, bullet damage, accuracy and range as compared to a carbine. Expect players to compensate for low 
 			accuracy with weapon attatchments if possible.
-cost:
+cost:		In contrast to shotguns, which have expensive platforms and cheap ammo, SMGs should in general have cheap platforms
+			and expensive net ammo cost. While each individual SMG round should be laughably cheap, SMGs should run through
+			rounds quicker than any other weapon (with the possible exception of heavy chainguns).
 
 //		Shotguns
 range:		The range of a shotgun is the most important characteristic to deliver on this weapon's distinct personality.
