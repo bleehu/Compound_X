@@ -12,7 +12,7 @@ Healing Nova is missing from medic hippocratic tree!!! [fixed]
 
 Gripes from the weekend of 7/31/15
 
-Rules for stealth attack? Added damage? Added accuracy?
+Rules for stealth attack? Added damage? Added accuracy? [added]
 
 Gun ideas:
 	+	noisy cricket
@@ -54,3 +54,5 @@ feild suppieriority day (engi wrench whack)
 =====================	Gripes from weekend of 8/27/16	===========
 
 Notes before starting needs an update; gives a feat at level 1.
+
+revisit hunters use shotguns at +70m range
