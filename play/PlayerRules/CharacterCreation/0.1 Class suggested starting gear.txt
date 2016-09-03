@@ -99,6 +99,7 @@ Armour Proficiencies: Light, Concealed.
 Passives: Gain Sniping at 10 or Aimed shot at 10
 Weapon Proficiencies: Long Rifles, Pistols.
 Armour Proficiencies: Light, Concealed, Cloaking.
+$5000
 
 "Warlock" - None can quite understand the training you''ve undergone. What is known is that you have studied extensively with High Preists of the HoloNet or underneath a very powerful Sorcerer. You are capable of doing things with your nanites others couldn''t even dream of.
 Passives: Gain Sorcery at 20. Gain 100 Nanites.
