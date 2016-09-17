@@ -5,16 +5,16 @@ Optics / Aiming Aids
 You may only have 1 scope, unless otherwise stated.
 ====================
 
-Tritium Glow Iron Sights 2EP
+Tritium Glow Iron Sights $100
 1x magnification, but allows for much better target aquisition. Can be mounted on 45 degree mounts in addition to a scope in order to negate a minimum engagment distance penalty.
 Accuracy -5%
 Can be used on any conventional, nonexplosives weapon (E.G. pistols, shotguns, rifles, etc.).
 
-Grenade Launcher Iron Sights 2EP
+Grenade Launcher Iron Sights $200
 1x Magnification. Allows better estimation of distances for use with grenade launcher.
 Underbarrel Grenade Launcher -10% miss chance.
 
-1x Dot Sight 2EP
+1x Dot Sight $150
 Your basic tube-shaped dot-projection. Dot can be changed from blue-green-red for various lighting situations and terrains.
 Accuracy -3%
 Range +10m
