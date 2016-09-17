@@ -35,20 +35,20 @@ nx Magnifier for Dot Scopes n+2EP
 A basic magnifying tube capable of increasing the effective range of a weapon. Must be paired with a dot sight.
 Range + (n*20)
 
-3.2x Scope 6EP
+3.2x Scope $300
 A heavy-duty tube made for heavy weapons and sustained automatic fire, but would suit single-fire weapons just as well. Sports a black multi-chevron reticle suitable for daytime brightlight use.
 Range + 50m, Minimum +10m.
 
-4x Scope 6EP
+4x Scope $400
 Range +75m, minimum +15m.
 Can only be used on Long Rifles, Carbines.
 
-2-7x Scope 10EP
-As a full action, you can adjust the magnification on this scope in order to better see your target. Once sighted to a certain range, other targets that are within 20m can still be fired upon. otherwise you must adjust your magnification.
+2-7x Scope $800
+As a Half action, you can adjust the magnification on this scope in order to better see your target. Once sighted to a certain range, other targets that are within 20m can still be fired upon. otherwise you must adjust your magnification.
 Accuracy -20%
 Range +100m, minimum +10m
 
-7x Scope 8EP
+7x Scope $400
 Range +120m, minimum +30m
 Can only be used on Long Rifles.
 
