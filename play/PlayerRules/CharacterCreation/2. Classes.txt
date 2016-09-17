@@ -127,7 +127,7 @@ V
 Items can be slightly more complex, up to .5x.5x.5m. Choose one of the following: CS Melee bash is extended to 5m or deals 7*INT damage + CS Burn, or hits at 75%.
 
 "Hunter" - An expert tracker, you''re the one hired when someone wants something found. Expertly trained in manipulating your nanites to aid in pursuit of a quarry, or in marking enemies for execution.
-Passives: Gain Tracking - 10. Shotguns used are treated as Long Rifles, increasing distance by 70m, and base accuracy by 10%. Use of Nanite cloaking armor is 20EP less. At level 3 and above as a Hunter, Cloaking costs 10 nanites less.
+Passives: Gain Skill in Tracking - 10. Use of Nanite cloaking armor is $1,000 less. At level 3 and above as a Hunter, Cloaking costs 10 nanites less.
 NOTICE: SEE BASIC RULES FOR ADDITIONAL CLOAKING ATTRIBUTES.
 Weapon Proficiencies: Pistols, Long Rifles, Shotguns, Carbines.
 Armour Proficiencies: Light.
