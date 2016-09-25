@@ -85,3 +85,11 @@ Add feats for SMG
 Add feat for shotgun
 Add feat for Carbine
 Bar classes from weapon feats: Pilot, Assassin, Warlock, Monk, Beserker, Soldier, Priest
+=======
+•	Update what armors classes can wear (Ex. Can pilot wear concealed?)
+•	Need to change weapon conversions to credits from ep
+•	Need to set price for plasma cutter/blow torch
+•	Dexterity DCs seem overly high for what they do
+•	Engineer Build and Repair Diagrams sheet needs to be updated to include:
+o	Build: Force Multiplier – Darknet Processor, Pointer.  Embedded Systems: Con-DOR, Network Security Module.  
+>>>>>>> aa97acd... Added Gripes from pirate weekend
