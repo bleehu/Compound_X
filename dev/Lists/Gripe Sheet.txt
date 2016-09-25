@@ -58,3 +58,13 @@ Lever action shotgun is worst in every way
 Notes before starting needs an update; gives a feat at level 1.
 
 revisit hunters use shotguns at +70m range
+
+
+=====================	Gripes from weekend of 9/18/16	===========
+
+•	Update what armors classes can wear (Ex. Can pilot wear concealed?)
+•	Need to change weapon conversions to credits from ep
+•	Need to set price for plasma cutter/blow torch
+•	Dexterity DCs seem overly high for what they do
+•	Engineer Build and Repair Diagrams sheet needs to be updated to include:
+o	Build: Force Multiplier – Darknet Processor, Pointer.  Embedded Systems: Con-DOR, Network Security Module.  
