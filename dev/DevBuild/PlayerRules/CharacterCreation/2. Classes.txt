@@ -7,7 +7,7 @@ On selecting a class, you gain all of the passives listed, and get to choose bet
 
 "Soldier" - You have the blood of a warrior flowing through you. Your sole purpose is to fight until the threat is neutrilized.
 Passives: Gain Weapon Use(X) at 10
-Weapon Proficiencies: Carbines, Shotguns, Pistols, Assault Rifles.
+Weapon Proficiencies: Pistols, Submachine guns, Carbines and Battle Rifles, Shotguns, Assault Rifles.
 Armour Proficiencies: Light, Medium, Heavy.
 Class Feats:
 ----------------------
@@ -27,9 +27,9 @@ Make a FORT save at 50% to ignore an enemy damage. Remove one action next turn t
 V
 Fort save is at 75%, or you take 1/3 of damages dealt
 
-"Specialist" - There is always a need for the type of person willing and able to bring the heaviest of fire down upon their enemies. The Specialist will be there when the odds are stacked highest against the forces for good, and he''ll be prepared to use heavy force to even those odds.
+"Specialist" - There is always a need for the type of person willing and able to bring the heaviest of fire down upon their enemies. The Specialist will be there when the odds are stacked highest against the forces for good, and he'll be prepared to use heavy force to even those odds.
 Gain Thrown Weapons at 10.
-Weapon Proficiencies: Assault Rifles, Heavy Weapons, Pistols.
+Weapon Proficiencies: Pistols, Carbines and Battle Rifles, Heavy Weapons.
 Armour Proficiencies: Light, Medium, Heavy, Full, Concealed.
 Class Feats:
 ----------------------
@@ -52,7 +52,7 @@ Your expertise with heavy weapons is overkill for the task at hand. -30% accurac
 "Doctor" - You know how or why something works (most likely humans / humanoid bodies), and put that knowledge to good use by supporting your team.
 Passives: Gain 5 skill in Anatomy, 5 skill in Pathology, and 10 skill in medicine. Every level, you gain one skill in both of the "hippocratic" and "malpractice" skill trees. At the beggining of each encounter, you begin with only half of your full count of nanites, but over the course of the battle, you may gain up to 600 nanites max. 
 Weapon Proficiencies: Pistols, Shotguns, SMGs
-Armour Proficiencies: Light, Medium.
+Armour Proficiencies: Concealed, Recon, Light, Medium.
 Class Feats:
 ----------------------
 Scalpel jockey -
@@ -65,8 +65,8 @@ You've learned to use more than just your scalpel and some gauze. 75% chance suc
 
 "Engineer" - You solve problems. For insance, you know how to stop some mean mutha-hubbard from tearin' you and your team a structurally supurfluous new behind. You know how to fix engines, machines, circuits, you name it. And when you're not busy fixing what other people broke, you get to work on making new stuff. Which some knucklehead will probably eventually break too. 
 passives: You gain get 10 skill points in repair. Every level, you get one Process point in each of the "repair" and "build" skill trees.  At the begining of an engagement, you start with only half of your nanites, but you may accrue up to 600 nanites max. You also start with 2 permanent control points, which enable control over any automatons you construct.
-Weapon Proficiencies: Pistol, Carbine, Shotgun
-Armour Proficiencies: Light, Medium
+Weapon Proficiencies: Pistol, Carbine and Battle Rifles, Shotgun
+Armour Proficiencies: Concealed, Recon, Light, Medium.
 Class Feats: 
 -----------------------
 A little Controlling - 
@@ -90,7 +90,7 @@ Any time you build a construction, you may spend an additional 15 nanites to giv
 "Priest" - you''ve lived your life in the deepest recesses of the holonet, and have come out alive, and strong. You can figure out how a security system works, can hack into systems, or even hack your allys nanites to perform better.
 Passives: Gain PC use [HACKING] at 10 OR Knowledge [NANITES] at 10
 Weapon Proficiencies: Pistols, SMGs.
-Armour Proficiencies: Light, medium.
+Armour Proficiencies: Concealed, Recon, Light, Medium.
 Class Feats
 ----------------------
 Exploit weakness -
@@ -113,7 +113,7 @@ Nanites have almost become second nature to you. You can check on the health and
 "Pilot" - You have a yearning to test the limits of the vehicles you operate. The boundaries of speed and maneuvering were meant to be broken - by you.
 Passives: Gain Piloting skill at 10.
 Weapon Proficiencies: Pistols, Shotguns, SMGs
-Armour Proficiencies: Light, Medium.
+Armour Proficiencies: Concealed, Recon, Light, Medium.
 Class Feats:
 ----------------------
 Planes, Trains, Automobiles -
@@ -134,8 +134,8 @@ You are THE guru accross the holonets for <vehicle>. Add 50 onto a pertinent rol
 
 "Adept" - Your specialized skills with technology are combined with battle training, providing you an edge in combat situations.
 Passives: Gain 100 nanites. any number of these can be put into a permanent passive CS Class B unit that is implanted in your body. When not wearing armor, it covers 75% excluding head, hands, and feet. when wearing armor, it extends your DR by 10 and you gain 5% coverage.
-Weapon Proficiencies: Pistols, SMGs, Carbines.
-Armour Proficiencies: Light, Medium.
+Weapon Proficiencies: Pistols, SMGs, Carbines and Battle Rifles.
+Armour Proficiencies: Concealed, Recon, Light, Medium.
 Class Feats:
 ----------------------
 Energy Burst -
@@ -152,12 +152,12 @@ Items can be slightly more complex, up to .5x.5x.5m. Choose one of the following
 "Hunter" - An expert tracker, you''re the one hired when someone wants something found. Expertly trained in manipulating your nanites to aid in pursuit of a quarry, or in marking enemies for execution.
 Passives: Gain skil in Tracking - 10. Use of Nanite cloaking armor is $1000 less. At level 3 and above as a Hunter, Cloaking costs 10 nanites less.
 NOTICE: SEE BASIC RULES FOR ADDITIONAL CLOAKING ATTRIBUTES.
-Weapon Proficiencies: Pistols, Long Rifles, Shotguns, Carbines.
-Armour Proficiencies: Light.
+Weapon Proficiencies: Pistols, Long Rifles, Shotguns, Carbines and Battle Rifles.
+Armour Proficiencies: Concealed, Recon, Light, Cloaking.
 Feats:
 ----------------------
 Hunter Vision - (Lvl/2 # uses per day.)
-Your breathing calms, as time appears to slow down. Your vision turns into miriad shades of grey. You see a faint path of color representing the trail of your quarry. +35% to a tracking check, Or take 3 turns to pass the check.
+Your breathing calms, as time appears to slow down. Your vision turns into myriad shades of grey. You see a faint path of color representing the trail of your quarry. +35% to a tracking check, Or take 3 turns to pass the check.
 |
 |
 |
@@ -175,7 +175,7 @@ Expend 10 nanites to paint a target. All damage dealt by allies to this target i
 "Paladin" - You are a righteous warrier, vetted and trained by one of the powerful corporations or some other technologically advanced entity. You seek to uphold the principals which define the group you''ve sworn allegience to. Through this devotion you have been granted access to high tech in order to pursue your goals and missions.
 Passives: Terms and Conditions clause compliance, access to Paladin Spell tree at level 3. a number of spell points equal to your Int/2 (round down) per level.
 Weapon Profiencies: Pistls, Carbines, SMGs, Long Rifles, Assault Rifles.
-Armour Proficiencies: Medium, Heavy
+Armour Proficiencies: Recon, Light, Medium, Heavy.
 Feats:
 ----------------------
 Portable Shield:
@@ -200,7 +200,7 @@ Choose one: Pistoleer lvl 1, Quick draw, Conceal Weapon, Steady Shot, +5 Round c
     - Bonuses: +10 Dam, +10m, +10% accuracy, +CS burn, +1 rds in mag;
     - Weaknesses: -10 Dam, -10m, -10% accuracy, -1 magazine;
 Weapon Proficiencies: Pistol.
-Armour Proficiencies: Light, Concealed.
+Armour Proficiencies: Recon, Light, Concealed.
 Feats:
 ----------------------
 Heightened awareness -
@@ -223,7 +223,7 @@ You are a master of pistols. Applies to an target within 35m. On a successful hi
 Passives: No penalty for engaging in Grappling maneuvers. Dex +1. Luck-1. Assassins wear a Shadow Cloak, which allows them to become a mere silhouette. When in partial darkness or darker (anything darker than an unlit back-alley), the static (non-moving) DC increases by 10.
 NOTICE: SEE BASIC RULES FOR ADDITIONAL CLOAKING ATTRIBUTES
 Weapon Proficiencies: Pistol, Hand to Hand Expert
-Armour Proficiencies: Light, Concealed.
+Armour Proficiencies: Concealed, Recon, Light, Cloaking.
 Feats:
 ----------------------
 Shadowy Assassin -
@@ -246,7 +246,7 @@ At the cost of 15 Nanites, your Nanite-Crystal Blades can be summoned. Damage de
 "Marksman" - Your knowledge of bullet balistcs, experience at ranges, etc. has given you keen insight into firing a gun very, very accurately.
 Passives: Gain Sniping at 10 or Aimed shot at 10
 Weapon Proficiencies: Long Rifles, Pistols.
-Armour Proficiencies: Light, Concealed, Cloaking.
+Armour Proficiencies: Recon, Light, Concealed, Cloaking.
 Class Feats:
 ----------------------
 Precise shot - 
@@ -290,7 +290,7 @@ Gain (Level/5)* 50 Nanites. All spells in this school cost 20 Nanites less to ca
 "Beserker" - As an afficionado of the combat arts, you understand how important tactile feedback is. Guns simply don't offer the appropriate ammount, which is why you prefer to BEAT YOUR ENEMIES TO DEATH USING YOUR BARE HANDS WHENEVER POSSIBLE!!!!!!!!!!!!!!!!!!!! MORE EXCLIMATION MARKS!!!!!!!!!!!!!!!! 
 Passives: -1 to Luck and Intelligence, +1 to Strength and Fortitude. Expert unarmed.
 Weapon Proficiencies: Pistols.
-Armour Proficiencies: Medium, Heavy.
+Armour Proficiencies: Concealed, Recon, Light, Medium, Heavy.
 Class Feats:
 ----------------------
 Blood Rage -

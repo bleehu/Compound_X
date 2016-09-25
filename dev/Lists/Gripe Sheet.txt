@@ -68,3 +68,7 @@ revisit hunters use shotguns at +70m range
 •	Dexterity DCs seem overly high for what they do
 •	Engineer Build and Repair Diagrams sheet needs to be updated to include:
 o	Build: Force Multiplier – Darknet Processor, Pointer.  Embedded Systems: Con-DOR, Network Security Module.  
+
+=====================	Gripes from Version 2 hotfix 1	===========
+Soldier's class feat Battlecry should use CHA
+Soldier's class feat Battlecry part 2 should not create partial cover
