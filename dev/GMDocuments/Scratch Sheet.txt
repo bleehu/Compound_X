@@ -18,27 +18,36 @@ V
 {Favor Cost} Next Level: [Nanite Cost]
     Description
 */
+// Suggested nanite costs for spells with immediate effect.
+// +10 nanites per turn.
+// scales linearly with duration in terms of half action. A +20 damage spell that lasts 1 turn (4 half-actions) should cost 4x the nanites as one which applies to a single attack.
+// Level 1 - [20] +20 dam/health/roll/DR
+// Level 2 - [40] +40
+// Level 3 - [60] +60
+// Level 4 - [80] +80
+
+Prayers take 1 Full Action to complete and any nanites spent on them are lost until the effects of the prayer wear off. Spells are a Half-Action to cast and remove the listed amount of nanites once cast.
 All spells have CHA+ meters range, unless otherwise written.
 
 
 {2} Lay on Hands: [20]
-|   Restore 20 HP to an ally or stabilize them.
+|   Touch Effect: Restore 20 HP to an ally or stabilize them.
 |
 V
 {4} Cure Light Wounds: [40]
-|   Restore 30 HP to an ally. Heals a small wound. (less than 40 damage sustained from a single source).
+|   Touch Effect: Restore 30 HP to an ally. Heals a small wound. (less than 40 damage sustained from a single source).
 |
 V
 {8} Cure Moderate Wounds: [60]
-|   Restore 50 HP to an ally. Heals a moderate wound. (less than 60 damage sustained from a single source).
+|   Touch Effect: Restore 50 HP to an ally. Heals a moderate wound. (less than 60 damage sustained from a single source).
 |
 V
 {12} Divine Blessing: [100]
-|   Restore 90 HP to an ally. Heals a heavy wound and revives ally. (Less than 90 damage sustained from a single source).
+|   Touch Effect: Restore 90 HP to an ally. Heals a heavy wound and revives ally. (Less than 90 damage sustained from a single source).
 |
 V
 {20} Divine Intervention: [175]
-    Restores an ally from the brink of death. If an ally''s health drops below 0 during the encounter and would normally perish, so long as this spell is used during the same encounter they will be revived to 1/4 of their max HP.
+    Touch Effect: Restores an ally from the brink of death. If an ally''s health drops below 0 during the encounter and would normally perish, so long as this spell is used during the same encounter they will be revived to 1/4 of their max HP.
 
 
 {5} Holy Blade: [30]
@@ -51,11 +60,13 @@ V
 {5} Divine Armour: [30]
     +5 DR to an ally''s armour for 3 turns.
 
-{10} Prayer of Meditation:
-    Take 2 full actions to Pray. Regain 40 Nanites.
 
-{25} Prayer of Sorrow: [150]
-    +200 damage, single attack. After attack, take 200 damage and gain Downed condition.
+{10} Turn Xeno: [50]
+|   By channeling your nanites into a postive force of will, you can force Xenos to flee in panic. Xenos within CHA+ m of you must pass a Will Save DC 50 + Knowledge [Nanites] or be forced to flee for 5 turns. Xenos with INT higher than 6 may make a Will Save each turn they are fleeing.
+|
+V
+{15} Destroy Xeno: [100]
+    Instead of panicing any Xenos in your range, target one Xeno and deal them 100 damage. Target makes a Will Save of DC 75 + Knowledge [Nanites]. If the spell hits, they roll Shock as normal for taking an extraordinary amount of damage.
 
 {5} Righteous Fury: [20]
 |   Personal Effect: Cannot take cover for 5 turns. +10 DR and +10 damage for 3 turns.
@@ -70,15 +81,14 @@ V
 {8} Bullet Ward: [60]
     All allies gain +5 DR for 4 turns.
 
-{8} Prayer of Vengeance: [55]
+{8} Prayer of Vengeance: [45]
     When a team member gains the Downed condition, you gain +5 DR and +10 damage for the next 4 turns.
 
-{10} Turn Xeno: [50]
-|   By channeling your nanites into a postive force of will, you can force Xenos to flee in panic. Xenos within CHA+ m of you must pass a Will Save DC 50 + Knowledge [Nanites] or be forced to flee for 5 turns. Xenos with INT higher than 6 may make a Will Save each turn they are fleeing.
-|
-V
-{15} Destroy Xeno: [100]
-    Instead of panicing any Xenos in your range, target one Xeno and deal them 100 damage. Target makes a Will Save of DC 75 + Knowledge [Nanites]. If the spell hits, they roll Shock as normal for taking an extraordinary amount of damage.
+{10} Prayer of Meditation: [0]
+    Take 2 full actions to Pray. Regain 40 Nanites.
+
+{25} Prayer of Sorrow: [150]
+    +200 damage, single attack. After attack, take 200 damage and gain Downed condition.
 
 {} Prayer: []
 

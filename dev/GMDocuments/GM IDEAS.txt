@@ -1,11 +1,33 @@
 GM IDEAS
 
+/////////////////////////////////////////////
+//  GM IDEAS DOCUMENT
+//      TODO
+//      General Ideas
+//      Weapons
+//      Characters
+//          NPCs
+//          Players
+
+//=============================
+//  To Work on:
+//      Engineer - Mike
+//      Paladin - Basics in lace, testable
+//      Priest - testable
+//      Marksman - Notes on additions
+//      Melee Customization - Need to completely think out
+
+
+//=============================
+//General Ideas
+
 Feat or class which has minor time control?
 An example of a feat or class ability would be pay 50 nanites for an extra full action on your turn.
 
 Muzashi Fine Weapons Company, level 10+ weapon manufacturer
 Strudwick Arms, level 10+ weapon manufacturer
 RMM Weapons, level 10+ weapon manufacturer
+Schroder Technology Firm, LEvel 10+ weapon manufacturer. Coil Guns.
 
 Western Campaign
 
@@ -55,11 +77,19 @@ LUK+/2 added to armour rating
 
 Un-percievable damage?
 
+
+//==============================
+// Weapons
+
 Noisey Cricket gun. Very expensive, lots of damage, not available to melee classes and warlocks
+
 //=============================
-//  To Work on:
-//      Engineer
-//      Paladin
-//      Priest
-//      Marksman
-//      Melee Customization
+// Characters
+
+Half Monk, Half Assassin. Bandages all over, uses a nanite chain whip.
+
+Member of the Ranger Force, a group of ex-Mercs and others who have formed a stringent task-force outside of any one nation, society or empire. They only seek to restore order to the galaxy. Hes a 5 level hunter, 10 level Paladin. Very knowledgeable on matters pertaining to Nanites, creatures and galactic phenomena. (Think Witcher feel.)
+
+Front-Line High Paladin Commander. Legendary within the ECSC as the Angels'' Sword, she is a role-model for soldiers everywhere.
+
+Paladin which uses only a Katana and smg sidearm.

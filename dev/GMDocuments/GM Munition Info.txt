@@ -78,6 +78,15 @@ Typical mag size: 5 for revolver.
 hollowpoint round only. high kick = lower accuracy. Produced by Anvil Arms almost exclusively.
 
 //Rifle Rounds
+3 x 25 mm Tungeston Core Caseless
+100 m, 60 damage, 2x bleed
+Rare ECSC military or Rare custom firearm round. Fired out of a coilgun.
+
+4.5 x 45 mm Tungeston Core Caseless
+150 m / 1000 m depending on application; 75 / 90 damage. 2x bleed
+Typical magsize: 25 for carbine, 10 for long rifle, 35 for assault rifle. 130 for box mag HMG
+Rare ECSC military or Rare custom firearm round. Fired out of a coilgun.
+
 5.45 x 39 mm
 90 m, 50 damage
 Typical mag size: 25 for carbines, 30 or 35 for assault rifles.
@@ -132,6 +141,11 @@ russian military
 750 m, 70 damage
 Typical mag size: 5 for long rifles.
 ECSC military
+
+10 x 80 mm Tungsten Core Caseless
+500 m / 2000 m, 95 / 115 damage, 3x bleed
+Typical Mag size: 10 rounds for long rifles, 15 for assault rifles, 50 for caseless belts.
+Rare ECSC anti-material round.
 
 .460 Mathews
 800 m, 74 damage
