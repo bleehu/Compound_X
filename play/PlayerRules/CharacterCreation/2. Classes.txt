@@ -85,6 +85,30 @@ Your complete knowledge of <vehicle> makes your operation of it seem easy. Add 2
 V
 You are THE guru accross the holonets for <vehicle>. Add 50 onto a pertinent roll about the vehicle.
 
+"Engineer" - You solve problems. For insance, you know how to stop some mean mutha-hubbard from tearin' you and your team a structurally supurfluous new behind. You know how to fix engines, machines, circuits, you name it. And when you're not busy fixing what other people broke, you get to work on making new stuff. Which some knucklehead will probably eventually break too. 
+passives: You gain get 10 skill points in repair. Every level, you get one Process point in each of the "repair" and "build" skill trees.  At the begining of an engagement, you start with only half of your nanites, but you may accrue up to 600 nanites max. You also start with 2 permanent control points, which enable control over any automatons you construct.
+Weapon Proficiencies: Pistol, Carbine, Shotgun
+Armour Proficiencies: Light, Medium
+Class Feats: 
+-----------------------
+A little Controlling - 
+You gain an additional permanant control point
+|
+|
+|
+V
+Control Phreak -
+You gain an additional permanant control point (absolute max of 5 permanant points)
+----------------------
+Repairman -
+you gain a 10% chance to stabalize a crashing robotic ally and a +10% to repair checks.
+|
+|
+|
+V
+Overbuilt -
+Any time you build a construction, you may spend an additional 15 nanites to give that construction 50 additional health.
+
 "Adept" - Your specialized skills with technology are combined with battle training, providing you an edge in combat situations.
 Passives: Gain 100 nanites. any number of these can be put into a permanent passive CS Class B unit that is implanted in your body. When not wearing armor, it covers 75% excluding head, hands, and feet. when wearing armor, it extends your DR by 10 and you gain 5% coverage.
 Weapon Proficiencies: Pistols, SMGs, Carbines.
@@ -103,7 +127,7 @@ V
 Items can be slightly more complex, up to .5x.5x.5m. Choose one of the following: CS Melee bash is extended to 5m or deals 7*INT damage + CS Burn, or hits at 75%.
 
 "Hunter" - An expert tracker, you''re the one hired when someone wants something found. Expertly trained in manipulating your nanites to aid in pursuit of a quarry, or in marking enemies for execution.
-Passives: Gain Tracking - 10. Shotguns used are treated as Long Rifles, increasing distance by 70m, and base accuracy by 10%. Use of Nanite cloaking armor is 20EP less. At level 3 and above as a Hunter, Cloaking costs 10 nanites less.
+Passives: Gain Skill in Tracking - 10. Use of Nanite cloaking armor is $1,000 less. At level 3 and above as a Hunter, Cloaking costs 10 nanites less.
 NOTICE: SEE BASIC RULES FOR ADDITIONAL CLOAKING ATTRIBUTES.
 Weapon Proficiencies: Pistols, Long Rifles, Shotguns, Carbines.
 Armour Proficiencies: Light.
@@ -243,33 +267,8 @@ V
 Shadow Walk
 Roll a Knowlege [Nnaites] check, DC 50. You may teleport up to (Result-50)/10 meters. You may also roll stealth after emerging at no action cost (exiting in stealth). Movement in this manner is considered to take a half action, plus a half action for the skill check. Monks still receive a penalty attack for performing a skill check in melee combat.
 
-
-/*
-Scoundrel
-Passives: 
-Weapon Proficiencies: 
-Feats:
-Some Feat -
-* 1st level
-**Additional level
-Players can level up a feat at every third level from level 1 (1, 4, 7, etc.), or choose to purchase a new feat.
-/*
-Class Name
-Passives added
-Weapon Proficiencies: 
-Class Feats:
-----------------------
-Some Feat -
-1st level
-|
-|
-|
-V
-Additional level
-Players can level up a feat at every 10th level, or choose to purchase a new feat.
-
 //===================================================================
-//Copyright 2016 Taylor Rowland
+//Copyright 2016 Taylor Rowland and Michael Hedges
 //
 //Licensed under the Apache License, Version 2.0 (the "License");
 //you may not use this file except in compliance with the License.

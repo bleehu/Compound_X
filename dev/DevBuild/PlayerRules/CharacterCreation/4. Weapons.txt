@@ -334,18 +334,19 @@ Strudwick Arms Ultralight Autocannon $7600
 Requires strength 6 to carry.
 140m
 30%
-10 rounds, 20mm vicinity detonating HE rounds.
+4 rounds, 20mm vicinity detonating HE rounds.
 75 explosive damage, 40 shrapnel 1m adjacent.
 Damages vehicles. No optics or barrel attachments.
+Clips cost $200 each
 
 G&W AA-29 Personal Flack Cannon
-Requires strength 5 to carry
+Requires strength 6 to carry
 50m range
 15%
-10 damage per pellet
-2d10 (min 4) pellets below 15m, 2s10 (min 3) out to 50m.
+180 dam out to 3m, 80 out to 10m, 20 out to 20m.
 6 rounds, Deathmetal custom flack rounds
-Each shot into a door reduces the DC of kicking down that door by 65. If the DC becomes 0, the door is blown open. No optics or barrel attachments.
+Each shot into a door reduces the DC of kicking down that door by 65. If the DC becomes 0, the door is blown open. No optics or barrel attachments. 0% chance to miss airborne targets.
+Clips cost $120 each
 //flak cannon from unreal tournament / roadhog's shotgun from overwatch
 
 Anvil Arms KMR $3470

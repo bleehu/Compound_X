@@ -6,7 +6,7 @@
  * a distributed development effort.
  *======================================*/
 
-//Pistol Rounds
+//		Pistol Rounds
 .22
 30 m, 30 damage
 Typical mag size: 20 and 25 for pistols, 30 and 35 for smgs.
@@ -157,7 +157,7 @@ Mathews custom, rare.
 Typical mag size: 5 or 10 for long rifles, 100 for HMGs
 military
 
-//Other rounds
+//		Other rounds
 40 mm Grenade
 60m, 70 explosive damage
 Typical mag size: 1 for a standard launcher, 5, 6 or 8 for an MGL.
@@ -173,8 +173,119 @@ Support and heavy weapons are actually a little rare to run across. Generally no
 Sub machine guns are used by crewman like pilots and operators because of their compact size. they are also great choices for private security for the same reason.
 Energy weapons aren''t generally used by military forces as they are too expensive.
 
+//				Weapon design guidelines
+	A qualitative guide to making custom rewards for dungeons/quests/missions 
+etc along with explination as to why we do what we do. This is from a game balance perspective, not a lore perspective.
 
-Manufacturers:
+//		Melee weapons
+range:		In general, melee weapons should only be able to reach into the adjacent square. 
+damage:		Melee weapons tend to scale damage to either DEX or STR or both. Due to the high-risk tactics the high-reward
+			that balances it tends to be high damage when compared to primary weapons of the same level, rarity and cost.
+accuracy:	While most weapons rely on perception and attatchments to enhance accuracy, melee weapons actually have their accuracy
+			vary by a character's skill. Which means that melee characters after level five expect to have around a -40 to miss. As
+			such, melee weapons should have a moderately high to-miss chance by level and regardless of rarity. Also consider that
+			closing to melee range poses a high-risk strategy. If the melee attack misses due to accuracy that is too low, it leaves
+			the user open to counter-attack.
+cost:		Melee weapons in general should be cheaper than primary weapons of the same level, rarity, and stats. Note that most melee
+			weapons also don't require the constant cash drain of ammo, so they tend to be money savers for the characters that use them.
+			As such, keep in mind that Beserkers and assassins tend to start with less money than most other classes, but gain it 
+			quicker as their allies spend money on ammo and attatchments.
+
+
+//		Pistols
+range:
+fire rate:
+damage:
+accuracy:
+cost:
+
+//		SMGs
+range:		SMGs necessarily have a longer range than shotguns, but a shorter range than their slower-firing big brothers:
+			Carbines, assault rifles and battle rifles. Don't forget that all SMGs count as CQB weapons!
+fire rate:	Submachinegun's primary personality trait is the ability to send LOTS of rounds downrange very quickly. 
+			SMGs have the unique trait of firing DEX/2 shots per full turn, rounding down. (DEX 5 = 2 shots, DEX 8 = 4 shots) 
+			Maximum LVL + 1. Most characters that use SMGs tend to have high dex. Compromising this with small magazines or
+			any other significant fire rate limiter compromises what makes an SMG distinct. So make sure when designing 
+			an SMG to keep a high mag count!
+damage:		SMGs tend to make up for low damage by making lots of shots per turn. SMGs may have less damage than even pistols
+			of the same quality, rarity, level and cost. Due to their high rate of fire and low damage, they tend to work well
+			against many weak targets, or targets with a lot of health, but little armor. While armored targets will fare 
+			better because armor reduction procs per bullet. While this is true of most SMGs, you could create an SMG 
+			that handles a little better against armor but sacrifices cost or accuracy without breaking the personality of
+			an SMG.
+accuracy:	Since SMGs fire more bullets per turn, the law of large numbers gives a better approximation of the ammount of
+			damage we can expect an SMG to do; so a poorer accuracy is less debilitating for an SMG than it is for say a
+			shotgun or sniper rifle. When giving an SMG an accuracy rating, remember to balance the average damage with
+			fire rate, bullet damage, accuracy and range as compared to a carbine. Expect players to compensate for low 
+			accuracy with weapon attatchments if possible.
+cost:		In contrast to shotguns, which have expensive platforms and cheap ammo, SMGs should in general have cheap platforms
+			and expensive net ammo cost. While each individual SMG round should be laughably cheap, SMGs should run through
+			rounds quicker than any other weapon (with the possible exception of heavy chainguns).
+
+//		Shotguns
+range:		The range of a shotgun is the most important characteristic to deliver on this weapon's distinct personality.
+			To develope the schema for the player that shotguns are a counter to enemy melee units, a shotgun's optimal 
+			range must be long enough to outrange a melee weapon, but short enough to not rob SMGs of their niche. 
+			Shotguns should for usablitly stay contrained to the damage breakdown of 3 meters, 10 meters, 20 meters. 
+fire rate:	Shotguns typically have a slower fire rate, needing to pump a slide and change aim more often due to their
+			close engagement range. But shotguns typically rely on other characteristics to maintain their distinction.
+damage:		Shotgun damage at close range should be debilitatingly devestating. In order to have the stopping power 
+			necessary to make the high-risk high-reward close play worth it, a hit with a shotgun shell under 10m should
+			gank a non-elite enemy of the same level. As part of maintaining the personality of shotguns as a weapon class,
+			a hit on an enemy between 10m and 20m should do non-negligable damage, but should deal less than a third of
+			a non-elite enemy's health pool.
+accuracy:	Shotguns suggest a similar high-risk, high-reward strategy to that of melee weapons. Since the risk of firing
+			a shotgun comes in closing distance to your target, adding the additional risk of missing would be redundant.
+			TL;DR: Shotguns should be quite accurate.
+cost:		In general, shotguns themselves should be moderate to expensive, while buckshot ammo should be very cheap.
+			Special ammo for shotguns changes their behavior more radically than special ammo for other weapons. This
+			change in behavior modifies their apparent personality, so special shotgun shells should be very expensive
+			in comparison to other ammo. i.e. dragonbreath shells should be about as expensive as plasma rounds for
+			a long rifle.
+
+//		Battle Rifles and Carbines
+range:
+damage:
+fire rate:
+accuracy:
+cost:
+
+//		Assault Rifles
+range:
+damage:
+fire rate:
+accuracy:
+cost:
+
+//		Heavy Weapons
+range:
+damage:
+fire rate:
+accuracy:
+cost:
+
+//		Long Rifles
+range:
+damage:
+fire rate:
+accuracy:
+cost:
+
+//		Sniper Rifles
+range:
+damage:
+fire rate:
+accuracy:
+cost:
+
+//		Bows and Crossbows
+range:
+damage:
+fire rate:
+accuracy:
+cost:
+
+				Manufacturers:
 
 ECSC:
 Common weapons, main military pretty standard arms manufacturer, much like Colt or FN Herstal.
@@ -195,7 +306,7 @@ Frontier:
 ECSC R&D firm that deals in experimental weaponry for military applications and private sector security. Plasma, Lasers, Coilguns are mostly made by Frontier for humans.
 
 Strudwick Arms:
-European military armament group. Produce heavier weapons in a utilitarian package.
+European military armament group. Produce heavier weapons in a utilitarian package. Hedquartered in sector 5.
 
 Level 10 and higher manufacturers:
 Muzashi:
