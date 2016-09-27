@@ -72,3 +72,9 @@ o	Build: Force Multiplier – Darknet Processor, Pointer.  Embedded Systems: Con
 =====================	Gripes from Version 2 hotfix 1	===========
 Soldier's class feat Battlecry should use CHA
 Soldier's class feat Battlecry part 2 should not create partial cover
+
+=====================	GM meeting 9/26/16	===========
+Add STR to full auto Assault rifles
+Change assault rifles to automatic rifles
+add LMGs to automatic rifles
+
