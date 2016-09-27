@@ -77,4 +77,11 @@ Soldier's class feat Battlecry part 2 should not create partial cover
 Add STR to full auto Assault rifles
 Change assault rifles to automatic rifles
 add LMGs to automatic rifles
+Give soldiers bonus to initiative
 
+Add class feat for Adept to get AR
+Add class feat for hunter to get Shotuns
+Add feats for SMG
+Add feat for shotgun
+Add feat for Carbine
+Bar classes from weapon feats: Pilot, Assassin, Warlock, Monk, Beserker, Soldier, Priest
