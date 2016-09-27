@@ -19,13 +19,13 @@ Nade pouches:		x nades
 Nanite Health: 	(For nanite sheilds)
 
 ==STATS== //Assuming 6 average for Human race. Other races, subtract 2 points for average stats.
-STR || 6 
-PER || 6
-FOR || 6
-CHA || 6
-INT || 6
-DEX || 6
-LUK || 6
+STR || 6 +4
+PER || 6 +4
+FOR || 6 +4
+CHA || 6 +4
+INT || 6 +4
+DEX || 6 +4
+LUK || 6 +4
 ========
 SAVING THROWS:
 WIL || 12 //2*(CHA + FOR - 6)

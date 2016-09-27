@@ -12,6 +12,18 @@ Language: 	Emperial Common, +1 dialect
 Racial Traits:	
 None
 
+Cyborg
+Same traits as a human, but start with 40 stat points.
+Pick one item from the following list as an augmentation:
+    Bionic Legs: +2m move speed, +1m jump height and distance.
+    Augmented Arms: +2 STR or DEX. (DEX gained in this way does not affect movement speed or acrobatics, only manual tasks)
+    Eye Enhancements: +1 PER, lowlight vision 30m
+    Internal Reinforcing: Critical Damage threshold +3, +5 base health.
+    External Reinforcing: 5 DR passive, potential for RP abilities.
+    Weapon Implant: Must be extensive, like an arm cannon, or leg-gun, etc.n
+
+You may pick a second augmentation, but you will start $1000 poorer, and will be looked upon as a second-class citizen in some establishments. (especially farther into the core where purity is more favored)
+
 Tundari
 Society: Tribal system, lead by a counsil of elders.
 Homeworld:Tundaaari

@@ -72,6 +72,13 @@ Plas-Disc Mini-Launcher $1540
 Cutter Rounds disregard 10pts of D.R.
 All Ammo inflicts Plasma Burn.
 
+Particle Hand-Cannon $2250
+Fires a concentrated stream of high-velocity particles.
+45m
+0%
+10 rds, HV-H+ Beam round.
+75. Ignore Armour. Not affected by CS
+
 
 ============================================================
 Sub-Machine Guns:
@@ -151,6 +158,15 @@ Dragon’s Breath: 7d10, range reduced to 10m, deals 3 plasma tokens
 Semi-Automatic/Pump, tube fed.
 All ammo inflicts 2 Plasma Burn tokens instead of Bleed tokens.
 
+Particle Scatter-Gun $2850
+This cannon releases multiple difused streams of particles for maximum target coverage. Auto range-adjustment enables the angle of blast cone to change based on target distance. This enables a uniform spread regardless of range.
+0%
+8 rds, HV-H+_D rds. 12ga form factor.
+95 dam out to 10m, 90 out to 25m, 85 out to 50m. Ignore Armor. Not affected by CS
+Semi-Automatic
+Lightning erupts around the muzzle as this gun is fired, and a solid yellow-white beam of particles is ejected towards the target. The pure intensity and concentration of particles boils away most substances it comes into contact with. Cannot be equipped with any barrel attachments.
+
+
 ============================================================
 Carbines & Battle Rifles
 Minimum Strength 5, Reload DC 27% unless otherwise noted. Reload time 2 Half Actions.
@@ -208,29 +224,19 @@ HO-LV treated like HP
 HO-HV treated like AP
 All ammo inflicts Plasma Burn
 
+Particle Rifle  $7000
+200m
+0%
+25 rds, HV-H+
+70
+Lightning erupts around the muzzle as this gun is fired, and a solid yellow-white beam of particles is ejected towards the target. The pure intensity and concentration of particles boils away most substances it comes into contact with. Cannot be equipped with any barrel attachments.
+
 ============================================================
 Heavy / Special Weapons:
-Heavy and Special weapons types require very specific and exotic ammunitions,
 and often require certain skillsets to be used. They come in many shapes and sizes,
 but are generally medium to extra large in size.
 Minimum Strength 7 to carry, Reload DC 30% unless otherwise noted. Reload time 4 Half Actions.
 ============================================================
-
-Anvil Arms KMR $3470
-160m
-30%
-80 rds, 7.62 x 51mm Belt
-62, Bleed Damage
-Supporting Fire
-Minimum 7 Str to carry. 40% reload
-
-Mathews Model 240-B $3720
-160m
-25%
-80 rds, .308 RMM-Mag Belt
-62, Bleed damage.
-Supporting Fire
-Minimum 7 Str to carry. 40% reload.
 
 "Incapacitator" Stun-barb gun $2200
 This quad barrelled shotgun acts as a long-range tazer rifle. On trigger pull, an electrified barb is shot from each barrell.
@@ -239,7 +245,7 @@ and in some cases, very heavy damage on the nervous system.
 40m
 35%
 8 rds, 2 volleys of 4 shots.
-10x 4 barbs (40 damage max)
+10x 4 barbs. (40 damage max)
 Target rolls a fort save against electric damage, dc of 80%. On fail, target takes additional 10 Shock damage per barb and is stunned for 2 turns.
 Target may make a medical roll to remove a barb. On a fail, target takes 5 damage per barb.
 Reload takes 2 half actions.
@@ -250,7 +256,7 @@ Mathews TX-8 Rotary Grenade Launcher $1470
 30%
 8 rds, 40mm HE; AA / CHEM / FRAG / PLAS
 HE: 70 Explosive damage in 5m radius.
-AA: Target takes 50 Damage to their armor, and takes 2 turns of bleed damage (d10 / 2)
+AA: Target takes 50 Damage to their armor, and takes 2 turns of bleed damage. (d10 / 2)
 CHEM: creates a 15m clowd of burning, choking smoke. targets take 30 Poison damage and become sickened for 4 turns until they can pass a FORT save at 70%. each turn they take an additional 10 damage.
 FRAG: See ECSC Fragmentation grenade.
 PLAS: See Frontier Plasma Grenade.
@@ -267,6 +273,13 @@ painful theropy to the target, and anyone unfortunate enough to be nearby.
 70 Shock damage to primary. 55 Shock damage to secondary.
 Requires one action to ionize the air before it can be shot.
 
+Yaeger Rotary Cannon ZX-4 $3600
+90m
+30%
+200 rds, .30-06
+55
+Each successful hit enables you to roll for an additional hit, up to 4 times.
+
 Frontier Directed Plasma Thrower $11,250
 (Requires STR 6 and int 6)
 motes of blue light collect at the end of the barrel, and a hellish barage of blue plasma is unleashed from the maw of this cannon.
@@ -275,15 +288,29 @@ motes of blue light collect at the end of the barrel, and a hellish barage of bl
 20 bursts or 30 seconds constant.
 Targets take 50 plasma damage and are dealt 5 turns of plasma damage.
 Takes 1 half action to charge and 1 half action to fire.
-The user may choose to continue firing for a number of turns, and doesn't need to pause to aim or charge up a shot when doing so.
+The user may choose to continue firing for a number of turns, and doesn''t need to pause to aim or charge up a shot when doing so.
 All targets in a line 1 meter wide from the user must pass a DC 80 Reflex saving throw.
 
 Frontier EMC-9 $34000
-The Electro Magnetic Coilgun was a project developed by Frontier at their Mars base in the Sol system. It was capable of accelerating a .45 mm projectile to near Mach 3 speeds. The projectile, a nickel plated depleted uranium core devastates armoured and unarmoured targets alike. Due to the high amount of electricty it takes to fire off a round, it takes 1 full action to fire the weapon, then 2 full actions to recharge.
 1000m
 20%
 5 rds, 11x45mm NiU Rod
 80, + Bleed Damage
+
+Yaeger Rotary Cannon ZX-4 $3600
+90m
+30%
+200 rds, .30-06
+55
+Each successful hit enables you to roll for an additional hit, up to 4 times.
+
+Sustained Beam Cannon $18,700
+500m
+0%
+100 rds, HV-H+_High-Output
+50
+This weapon spews forth a thick stream of high-velocity particles which start as a thick beam, but narrow as the rifle is fired for a longer period of time. Each successive shot, -5% miss, +5 damage. Max burst: (Knowledge[Nanites]/10) + 2. Cool down: 1 Full Action.
+
 
 -----------------------------------------
 Atelsakor Plasma Weapons
@@ -370,13 +397,21 @@ HO-HE contains High Energy plasma shots. These shots burst on impact, dealing Pl
 All ammo inflicts Plasma Burn.
 Reload time 2 Half ACtions
 
-Mathews BA .408 (minimum 6 strength to carry) $68,000
+Mathews BA .408 (minimum 6 strength to carry) $64,000
 40-150m / 20-2000m
 45% / 20%
 7 rds, .408 cal RMM special; AP / Incendiary
 80
 Due to the complex nature of this Special Purpose Rifle, it requires extensive military style training in order to unlock its full potential. If you do not have at least a skill level of 30 in sniping, you cannot fire this effectively, and take a +15% to accuracy from the low range.
 Penetrating Damage. Marksman Only. Target recieves Bleeding condition, DC 80
+
+Beam Rifle $82,500
+1500m
+0%
+6rds, HV-H+_LR (.400 Heavy Rifle form factor);
+85. Ignore Armour. Not affected by CS.
+"Bolt Action", requires 1 Half-Action of cooldown time, which is accompanied by the cycling of the bolt.
+Lightning erupts around the muzzle as this gun is fired, and a solid yellow-white beam of particles is ejected towards the target. The pure intensity and concentration of particles boils away most substances it comes into contact with. Cannot be equipped with any barrel attachments.
 
 
 ============================================================

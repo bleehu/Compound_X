@@ -119,6 +119,25 @@ Chain Lightning [50]: Hits target, plus anyone within P.Lvl*5m from target for d
 V
 Thunder Cloud [70]: Everyone in a P.Lvl*10m Radius from you takes damage, 50% chance to stun.
 
+//need to do some balancing here
+(Sustained barage) [20]:
+    20 damage. Each successive time cast, nanite cost increases by 5, damage increases by 10. Maximum Knowledge[Nanites]/10 casts.
+    Cool down:
+        Knowledge[Nanites] <= 50, 3 Full Actions
+                           <= 75, 2 Full Actions
+                            > 75, 1 Full Action
+(Nanite Battle Companion) [100]
+    Cast time: 2 Full Actions.
+    Creates a companion sphere 30cm in diameter which follows the caster and attacks once per caster''s turn, as a free action to the caster, with the following traits:
+    50 health. +20% miss chance to enemy attacks
+    30m range
+    30%
+    60 damage
+    Nanites spent on the companion are lost and cannot be replenished until it is dismissed or destroyed.
+    Pick 1 trait per P.Lvl and boost it by 10%
+| 5
+#
+
 ============================================================
 DEMATERIALIZER SPELL TREE
 ============================================================
