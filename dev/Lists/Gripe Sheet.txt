@@ -85,3 +85,11 @@ Add feats for SMG
 Add feat for shotgun
 Add feat for Carbine
 Bar classes from weapon feats: Pilot, Assassin, Warlock, Monk, Beserker, Soldier, Priest
+
+We still have EP?
+Level 10 Items
+Level 10 Weapons
+Level 10 Weapon attatchments
+Level 10 Armor
+Level 10 Spells
+Discuss Armor?
