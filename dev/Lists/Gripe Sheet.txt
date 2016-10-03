@@ -15,7 +15,7 @@ Gripes from the weekend of 7/31/15
 Rules for stealth attack? Added damage? Added accuracy? [added]
 
 Gun ideas:
-	+	noisy cricket
+	+	noisy cricket [engi ability]
 	+	Lucio Gun
 	+	Freeze gun? Mei?
 
@@ -57,7 +57,7 @@ Lever action shotgun is worst in every way
 
 Notes before starting needs an update; gives a feat at level 1.
 
-revisit hunters use shotguns at +70m range
+revisit hunters use shotguns at +70m range [removed]
 
 
 =====================	Gripes from weekend of 9/18/16	===========
