@@ -17,19 +17,19 @@ branches withn the precursors focussed on differering technology. the orgs that 
 List of techs:
 
     materializers
-        builders/creators lg
-        life ng
-        elemental cg
+        builders/creators [lawful good]
+        life [neutral good]
+        elemental [chaotic good]
 
     neutral
-        nanite retainers (want to steal all the nanites to protect the universe from thier ill-effects) ln
-        Phasing nn
-        mind controllers cn
+        nanite retainers (want to steal all the nanites to protect the universe from thier ill-effects) [lawful neutral]
+        Phasing [true neutral]
+        mind controllers [chaotic neutral]
 
     dematerialisers
-        ability negation / nanite capping le
-        necrotic ne
-        z-entropy ce (vampirisim)
+        ability negation / nanite capping [lawful evil]
+        necrotic [neutral evil]
+        z-entropy [chaotic evil] (vampirisim)
 
 Salvation: Reabsorption into the universes nanite pool
 
