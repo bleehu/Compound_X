@@ -29,7 +29,8 @@
 
 //Firetypes
 #define SINGLEFIRE 0
-#define BOLT_ACTION 1
+#define SEMI_AUTO 1
+#define FULL_AUTO 2
 
  int main () {
     printf("Running Weapon Generator Version A_1.1\n");
@@ -87,13 +88,13 @@
     if (stats[TYPE] == PISTOL) {//Pistol
         stats[FIRE_TYPE] = rand()%2;
     } else if (stats[TYPE] == SMG) {//Smg
-        stats[FIRE_TYPE] = 2;
+        stats[FIRE_TYPE] = FULL_AUTO;
     } else if (stats[TYPE] == SHOTGUN) { //Shotgun
         stats[FIRE_TYPE] = rand()%2;
     } else if (stats[TYPE] == CARBINE) {//Carbine
-        stats[FIRE_TYPE] = 1; 
+        stats[FIRE_TYPE] = SINGLEFIRE; 
     } else if (stats[TYPE] == AUTOMATIC) {//Assault Rifle
-        stats[FIRE_TYPE] = 2;
+        stats[FIRE_TYPE] = FULL_AUTO;
     } else if (stats[TYPE] == HEAVY) {//Heavy Weapon
         stats[FIRE_TYPE] = rand()%3;
     } else if (stats[TYPE] == LONG_RIFLE) {//Long Rifle
@@ -270,13 +271,13 @@
     printf("Damage: %d\n",stats[DAMAGE]);
     printf("Fire-type: ");
     switch (stats[FIRE_TYPE]) {
-        case 0:
+        case SINGLEFIRE:
             printf("Single / Bolt");
         break;
-        case 1:
+        case SEMI_AUTO:
             printf("Semi-Auto");
         break;
-        case 2:
+        case FULL_AUTO:
             printf("Automatic");
         break;
     }
