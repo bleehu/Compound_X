@@ -17,6 +17,11 @@ class Gun:
 	
 	def shoot(self):
 		print "Bang. Did %s damage" % self.damage
+		
+	def tostring(self):
+		returnMe = "%s: %s at %sm %s%% %s credits" % (self.type, self.damage, self.range, self.miss_chance, self.cost)
+		returnMe = "%s %s rounds %s" % (returnMe, self.capacity, self.fire_type)
+		return returnMe
 
 def make_pistol(gun, level):
 	gun.range = (5 * random.randint(0,5)) + 30 + (level * 2)
@@ -108,6 +113,12 @@ def display_gun(gun):
 	print "Has %s%% chance to miss and has fire type %s with a clip size of %s" % (gun.miss_chance, gun.fire_type, gun.capacity)
 	print "Has a %s credit price tag on it." % gun.cost
 
+def write_gun(gun):
+	print "writing to file."
+	with open(args.o, 'a') as outfile:
+		outfile.write(gun.tostring())
+		outfile.write("\n")
+
 def main():
 	print "beggining Random Gun generation. Version 1.0.p"
 	#get args
@@ -115,6 +126,7 @@ def main():
 	#-db DATABSE -u USERNAME -p PASSWORD -size 20
 	parser.add_argument("-n", metavar="N", help="If set, makes N number of random guns.")
 	parser.add_argument("-L", metavar="Level", help="if set, makes all guns level L. Level 10 by default.")
+	parser.add_argument("-o", metavar="Filename", help="if set, writes weapons to a text file named filename")
 	global args
 	args = parser.parse_args()
 	level = 10
@@ -127,6 +139,8 @@ def main():
 	for index in range(n):
 		newGun = make_random_gun(level)
 		display_gun(newGun)
+		if args.o:
+			write_gun(newGun)
 	
 
 main()
