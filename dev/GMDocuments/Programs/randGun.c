@@ -225,7 +225,7 @@
         }
     }
 
-    //Determine range, 6
+    //Determine cost, 6
     //Avg damage * range
     //Avg damage = (100-miss)/100*dam
     //6 price; 0 Type; 1 range; 2 percent miss; 3 rds/mag; 4 damage;
