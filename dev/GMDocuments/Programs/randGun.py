@@ -1,8 +1,11 @@
-import random
 import argparse
+import ConfigParser
 import pdb
+import random
 
+#declare globals
 args = None
+config = None
 
 class Gun:
 	
@@ -14,6 +17,7 @@ class Gun:
 		self.cost = 200
 		self.capacity = 20 # rounds
 		self.fire_type = "Single"
+		self.reload_chance = 20
 	
 	def shoot(self):
 		print "Bang. Did %s damage" % self.damage
@@ -44,7 +48,8 @@ def make_pistol(gun, level):
 		gun.miss_chance = random.randint(0, 30 - level)
 		gun.capacity = random.randint(4,30)
 		gun.fire_type = "Semi"
-		gun.cost = gun.damage * gun.miss_chance * gun.capacity / 2	
+		gun.cost = gun.damage * gun.miss_chance * gun.capacity / 2
+		
 def make_shotgun(gun, level):
 	gun.range = 20
 	gun.damage = 110
@@ -118,7 +123,7 @@ def make_random_gun(level):
 	elif newGun.type == "Heavy":
 		make_heavy(newGun, level)
 	else:
-		print "weapon type not recognized. Add new method?"
+		print "weapon type %s not recognized. Add new method?" % newGun.type
 		exit()
 	return newGun
 	
@@ -135,17 +140,25 @@ def write_gun(gun):
 
 def main():
 	print "beggining Random Gun generation. Version 1.0.p"
-	#get args
+	#get ready to comandline args
 	parser = argparse.ArgumentParser()
-	#-db DATABSE -u USERNAME -p PASSWORD -size 20
+	#define help for argument parser so we can use --help at commandline
 	parser.add_argument("-n", metavar="N", help="If set, makes N number of random guns.")
 	parser.add_argument("-L", metavar="Level", help="if set, makes all guns level L. Level 10 by default.")
 	parser.add_argument("-o", metavar="Filename", help="if set, writes weapons to a text file named filename")
+	#now we're ready, actually grab them. Because we want to call these anywhere, give
+	#a shout out to the global args variable, instead of the local one.
 	global args
 	args = parser.parse_args()
 	
+	#if no options were set, print to the console that commands are a thing. Just in case 
+	# a user doesn't know.
 	if not args.o and not args.n and not args.L:
 		print "You can use randGun.py like a unix command. Try '$python randGun.py --help'."
+	
+	global config
+	config = ConfigParser.ConfigParser()
+	config.readfp(open("randGun.config"))
 	
 	level = 10
 	if args.L:
