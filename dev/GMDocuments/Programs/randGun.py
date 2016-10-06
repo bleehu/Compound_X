@@ -23,14 +23,28 @@ class Gun:
 		returnMe = "%s %s rounds %s" % (returnMe, self.capacity, self.fire_type)
 		return returnMe
 
+def make_revolver(gun, level):
+	self.type = "Pistol(Revolver)"
+	self.range = 30 + (random.randint(0, 5 + (level * 2)) * 5)
+	self.capacity = 6
+	if level > 10:
+		self.capacity = 8
+	self.damage = (10 * level) + 50 + random.randint(0,6) * 5
+	self.fire_type = "Hammer Pull"
+	self.miss_chance = random.randint(15,40)
+	self.cost = (self.damage * self.capacity * self.miss_chance / 200) - 400
+
 def make_pistol(gun, level):
-	gun.range = (5 * random.randint(0,5)) + 30 + (level * 2)
-	gun.damage = random.randint(0, 30 - level)
-	gun.miss_chance = random.randint(0, 30 - level)
-	gun.capacity = random.randint(4,30)
-	gun.fire_type = "Semi"
-	gun.cost = gun.damage * gun.miss_chance * gun.capacity / 2
-	
+	dice = random.randint(1,3)
+	if dice == 2:
+		make_revolver(gun, level)
+	else:
+		gun.range = (5 * random.randint(0,5)) + 30 + (level * 2)
+		gun.damage = random.randint(0, 30 - level)
+		gun.miss_chance = random.randint(0, 30 - level)
+		gun.capacity = random.randint(4,30)
+		gun.fire_type = "Semi"
+		gun.cost = gun.damage * gun.miss_chance * gun.capacity / 2	
 def make_shotgun(gun, level):
 	gun.range = 20
 	gun.damage = 110
@@ -129,6 +143,10 @@ def main():
 	parser.add_argument("-o", metavar="Filename", help="if set, writes weapons to a text file named filename")
 	global args
 	args = parser.parse_args()
+	
+	if not args.o and not args.n and not args.L:
+		print "You can use randGun.py like a unix command. Try '$python randGun.py --help'."
+	
 	level = 10
 	if args.L:
 		level = int(args.L)
