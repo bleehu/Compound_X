@@ -31,6 +31,12 @@ Requires Strength 7 to carry, 8 to use.
 Reusable. Loud. Add 150 to rolls to open a door or crush something with a 
 diameter less than 30cm.
 
+Dampening Charge ($600):
+Requires 20 skill in explosive to use. DC 80 to set up, rolled by the GM and not
+told to the player until detonation. DC 30 to hack. When detonated, dampens all
+sound above 20 dbspl (average speaking volume) to -30 db spl (inaudible by 
+organic canaine) while leaving everything below that unchanged. 
+
 ----------	Misc. Thrown Weapons:
 All thrown weapons inflict bleed damage.
 
