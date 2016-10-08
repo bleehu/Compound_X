@@ -1,0 +1,9 @@
+/*==================================================
+ * External Augmentations
+ * This document outlines the two forms of external augmentation:
+ * Combat frames, and combat suits. Combat Frames are lighter, 
+ * providing no armour bonuses themselves and are simple ways of
+ * increasing physical combat effectiveness. Combat Suits on the
+ * other hand offer better protection and many modular attachment 
+ * points.
+ *================================================*/
