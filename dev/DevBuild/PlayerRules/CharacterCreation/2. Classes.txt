@@ -7,7 +7,7 @@ Core classes:
 
 "Soldier" - You have the blood of a warrior flowing through you. Your sole purpose is to fight until the threat is neutrilized.
 Passives: Gain Weapon Use(X) at 10, Gain a +15 to Rolls for initiative (you go first more often).
-Weapon Proficiencies: Pistols, Submachine guns, Carbines and Battle Rifles, Shotguns, Assault Rifles.
+Weapon Proficiencies: Pistols, Submachine guns, Carbines and Battle Rifles, Shotguns, Automatic Rifles.
 Armour Proficiencies: Light, Medium, Heavy.
 Class Feats:
 ----------------------
@@ -180,7 +180,7 @@ Expend 10 nanites to paint a target. All damage dealt by allies to this target i
 //needs work
 "Paladin" - You are a righteous warrier, vetted and trained by one of the powerful corporations or some other technologically advanced entity. You seek to uphold the principals which define the group you''ve sworn allegience to. Through this devotion you have been granted access to high tech in order to pursue your goals and missions.
 Passives: Terms and Conditions clause compliance, access to Paladin Spell tree at level 3. By adhering to the Terms and Conditions, a Paladin gains an amount of Favor within their church and can unlock new paladin spells by spending Favor. Starting at level 3, a Paladin gains Favor equal to their Charisma each level. Favor does not have to be spent, and can be saved up to learn more potent prayers and spells.
-Weapon Profiencies: Pistls, Carbines, SMGs, Long Rifles, Assault Rifles.
+Weapon Profiencies: Pistls, Carbines, SMGs, Long Rifles, Automatic Rifles.
 Armour Proficiencies: Recon, Light, Medium, Heavy.
 Feats:
 ----------------------

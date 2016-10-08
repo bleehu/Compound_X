@@ -10,7 +10,7 @@ Proceedure Alpha is blank in medic hippocratic tree!!! [fixed]
 Healing Nova is missing from medic hippocratic tree!!! [fixed] 
 
 
-Gripes from the weekend of 7/31/15
+=====================	Gripes from the weekend of 7/31/15	=====================	
 
 Rules for stealth attack? Added damage? Added accuracy? [added]
 
@@ -77,8 +77,8 @@ Soldier's class feat Battlecry part 2 should not create partial cover [fixed in 
 
 =====================	GM meeting 9/26/16	===========
 Add STR to full auto Assault rifles [changed in dev]
-Change assault rifles to automatic rifles [in prog]
-add LMGs to automatic rifles
+Change assault rifles to automatic rifles [check]
+add LMGs to automatic rifles [check]
 Give soldiers bonus to initiative [added in dev]
 
 Add class feat for Adept to get AR [added in dev]
