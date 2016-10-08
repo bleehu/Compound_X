@@ -153,7 +153,7 @@ Reload 28%
 
 ============================================================
 Sub-Machine Guns:
-Capable of high rates of fire, but utilizing lighter calibers than a traditional combat rifle. Fire DEX/2 shots per full turn, rounding down. (DEX 5 = 2 shots, DEX 8 = 4 shots) Maximum LVL + 1.( All SMGs are considered CQB weapons)
+Capable of high rates of fire, but utilizing lighter calibers than a traditional combat rifle. Fire DEX/3 shots per Half Action, rounding down. (DEX 5 = 2 shots, DEX 8 = 4 shots) Maximum LVL + 1.( All SMGs are considered CQB weapons)
 Minimum Strength 4, Reload DC 25% unless otherwise noted. Reload time 2 Half Actions.
 ============================================================
 
@@ -275,8 +275,9 @@ G&W FBR-C $2390
 CQB rifle
 
 ============================================================
-Assault Rifles:
+Automatic Rifles:
 Minimum Strength 5, Reload DC 25% unless otherwise noted. Reload time 2 Half Actions
+Fire STR/3 shots per half action. Round down.
 ============================================================
 
 Anvil Arms AR-74 $1710

@@ -76,8 +76,8 @@ Soldier's class feat Battlecry should use CHA [fixed in dev]
 Soldier's class feat Battlecry part 2 should not create partial cover [fixed in dev]
 
 =====================	GM meeting 9/26/16	===========
-Add STR to full auto Assault rifles
-Change assault rifles to automatic rifles
+Add STR to full auto Assault rifles [changed in dev]
+Change assault rifles to automatic rifles [in prog]
 add LMGs to automatic rifles
 Give soldiers bonus to initiative [added in dev]
 
