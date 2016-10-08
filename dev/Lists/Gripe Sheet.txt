@@ -65,11 +65,11 @@ revisit hunters use shotguns at +70m range [removed]
 •	Update what armors classes can wear (Ex. Can pilot wear concealed?) [Hotfix]
 •	Need to change weapon conversions to credits from ep	[fixed in dev]
 •	Need to set price for plasma cutter/blow torch	[fixed in dev]
-•	Dexterity DCs seem overly high for what they do
+•	Dexterity DCs seem overly high for what they do [reviewed]
 •	Engineer Build and Repair Diagrams sheet needs to be updated to include:
 o	Build: 
-Force Multiplier – Darknet Processor, Pointer.  [blocking]
-Embedded Systems: Con-DOR, Network Security Module.  [blocking]
+Force Multiplier – Darknet Processor, Pointer.  [fixed in dev]
+Embedded Systems: Con-DOR, Network Security Module.  [fixed in dev]
 
 How much money does each class start with!?!
 
@@ -101,3 +101,4 @@ Discuss Armor? [Taylor's got it]
 =====================	Ongoing Dev	===========
 Moar Level 10 items
 New Feats!
+Need to rename skills in engineer process build picture
