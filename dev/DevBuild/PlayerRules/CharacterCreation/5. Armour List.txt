@@ -236,7 +236,7 @@ Any reinforced armour, the amount of Damage Reduction is rolled at the time of p
     Carbon-Steel Fiber, $560
         80% 
         30 DR
-        
+        40
     Carbon-Steel Fiber, Titanium backed, $530
         60%
         25 + d10 DR
