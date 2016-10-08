@@ -25,6 +25,11 @@ This sword emits a steady beam of plasma which can cut through almost anything (
 40%
 40 + (6*DEX) + Plasma Burn
 
+Chain whip $500
+3m
+40%
+8 * DEX
+
 ============================================================
 Pistols:
 (All pistols are considered CQB Weapons)
