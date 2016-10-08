@@ -1,23 +1,26 @@
 Core classes:
 /*====================================================
- * Your character starts at level 0. At level 0 you have skills and feats, but no class or class feats.
+ * Your character starts at level 0. At level 0 you have skills, but no class, class feats or regular feats.
  * At level 1 you get to select a class, and recieve the class passives. However, you do not select a class feat until level 5.
  * On selecting a class, you gain all of the passives listed, and get to choose between one of two listed feats. For any listed class, if it says "Gain X Skill at 10" that means you get to add the X skill to your skill list, and it starts at rank 10, meaning a +10% to any roll for that skill. At the first level taken in a class [other than level 1), you get the single star version of the feat. At level 5 and every 5 levels thereafter, you can choose to rank up the feat, or add the other feat to your character.
  *==================================================*/
 
 "Soldier" - You have the blood of a warrior flowing through you. Your sole purpose is to fight until the threat is neutrilized.
-Passives: Gain Weapon Use(X) at 10
+Passives: Gain Weapon Use(X) at 10, Gain a +15 to Rolls for initiative (you go first more often).
 Weapon Proficiencies: Pistols, Submachine guns, Carbines and Battle Rifles, Shotguns, Assault Rifles.
 Armour Proficiencies: Light, Medium, Heavy.
 Class Feats:
 ----------------------
 Battle Cry / Raise Moral -
-You roar as you lead the charge against the enemy. 50% chance to raise allied effectivness 15% on each of their next rolls [including your next roll). You must use your next action to run towards enemies [minimum 1m), ending out of cover.
+You roar as you lead the charge against the enemy. 50% + (CHA mod) chance to 
+raise allied effectivness 15% on each of their next rolls [including your next 
+roll). You must use your next action to run towards enemies [minimum 1m). 
+Allies must be able to hear and understand you to get the bonus.
 |
 |
 |
 V
-Either 75% success, 30% added to next allied rolls, or you can end in partial cover.
+Either 75% + (CHA mod) success or 30% added to next allied rolls.
 ----------------------
 It''ll heal [Min. Requirement of 7 fortitude)
 Make a FORT save at 50% to ignore an enemy damage. Remove one action next turn to stare down your enemy, curse at them hitting you, make a badass remark, etc. All damage taken during the encounter stacks, and half is taken at the end of the encounter, regardless of your condition.
@@ -140,6 +143,9 @@ Class Feats:
 Energy Burst -
 You can emanate a short burst of nanite induced energy. This energy can be used to: Restore 100% of the nanites you expend to an ally. Deplete a target''s nanite reserve by 100% of what you expend. OR create an explosion at a target that deals 50 damage, plus causes C.S. to anyone caught in a 5 m radius, at a range of <X> nanites expended [Max 50).
 ----------------------
+Hardware Upgrade -
+You gain access to Automatic Rifles.
+----------------------
 CS Manipulation -
 You can use your CS to create basic items [knives, frisbees, boomerangs, anything that is relatively 2-D shaped and smaller than .25x.25m] it gets <X> health, dependant on number of nanites used to create it [minimum 5). You can also use any adjacent CS unit as a melee tool that can hit at 5*INT damage + CS Burn, 50% to hit.
 |
@@ -219,6 +225,9 @@ You are a disciple of the art of close-range pistol fighting. Applies to any tar
 |
 V
 You are a master of pistols. Applies to an target within 35m. On a successful hit, you may continue rolling hits until you fail to hit. if you run out of rounds, you may reload mid-kata by passing a DC 75% DEX check. You may hit a target multiple times, but there must be one shot between shots fired at a single target. (Ask GM).
+----------------------
+How the West Was Won - 
+Gain access to shotguns
 
 "Assassin" - The galaxy is a dangerous place for those who would believe their power or influence are limitless. The assassin lurks in the shadows, either as a lone force of justice, or as part of a larger organization. They have rightfully earned the title of Galaxy''s greatest Hand to Hand Fighters.
 Passives: No penalty for engaging in Grappling maneuvers. Dex +1. Luck-1. Assassins wear a Shadow Cloak, which allows them to become a mere silhouette. When in partial darkness or darker, the static DC increases by 10.

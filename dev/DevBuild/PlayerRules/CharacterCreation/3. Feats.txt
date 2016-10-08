@@ -211,6 +211,21 @@ Wealthy Sponsor:
 Prerequisites:
 Gain LUK * Lvl * 750 credits.
 
+Weapon Training Elective - Carbine:
+Prerequisite: Cannot be taken by the following classes:
+Pilot, Assassin, Warlock, Monk, Beserker, Soldier, Priest
+Gain access to Carbines/Battle Rifles
+
+Weapon Training Elective - Shotguns:
+Prerequisite: Cannot be taken by the following classes:
+Pilot, Assassin, Warlock, Monk, Beserker, Soldier, Priest
+Gain access to Shotguns
+
+Weapon Training Elective - SMG:
+Prerequisite: Cannot be taken by the following classes:
+Pilot, Assassin, Warlock, Monk, Beserker, Soldier, Priest
+Gain access to SMGs
+
 Weapon Familiarization (can be taken once): 
 Prerequisites:
 Remove 15% miss chance from any one weapon model.

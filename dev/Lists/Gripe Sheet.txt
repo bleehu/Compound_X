@@ -63,33 +63,38 @@ revisit hunters use shotguns at +70m range [removed]
 =====================	Gripes from weekend of 9/18/16	===========
 
 •	Update what armors classes can wear (Ex. Can pilot wear concealed?) [Hotfix]
-•	Need to change weapon conversions to credits from ep	
-•	Need to set price for plasma cutter/blow torch	
+•	Need to change weapon conversions to credits from ep	[fixed in dev]
+•	Need to set price for plasma cutter/blow torch	[fixed in dev]
 •	Dexterity DCs seem overly high for what they do
 •	Engineer Build and Repair Diagrams sheet needs to be updated to include:
 o	Build: Force Multiplier – Darknet Processor, Pointer.  Embedded Systems: Con-DOR, Network Security Module.  
 
+How much money does each class start with!?!
+
 =====================	Gripes from Version 2 hotfix 1	===========
-Soldier's class feat Battlecry should use CHA
-Soldier's class feat Battlecry part 2 should not create partial cover
+Soldier's class feat Battlecry should use CHA [fixed in dev]
+Soldier's class feat Battlecry part 2 should not create partial cover [fixed in dev]
 
 =====================	GM meeting 9/26/16	===========
 Add STR to full auto Assault rifles
 Change assault rifles to automatic rifles
 add LMGs to automatic rifles
-Give soldiers bonus to initiative
+Give soldiers bonus to initiative [added in dev]
 
-Add class feat for Adept to get AR
-Add class feat for hunter to get Shotuns
-Add feats for SMG
-Add feat for shotgun
-Add feat for Carbine
-Bar classes from weapon feats: Pilot, Assassin, Warlock, Monk, Beserker, Soldier, Priest
+Add class feat for Adept to get AR [added in dev]
+Add class feat for Gunslinger to get Shotuns [added in dev]
+Add feats for SMG [added in dev]
+Add feat for shotgun [added in dev]
+Add feat for Carbine [added in dev]
+Bar classes from weapon feats: Pilot, Assassin, Warlock, Monk, Beserker, Soldier, Priest [double checked]
 
 We still have EP?
-Level 10 Items
+Level 10 Items [added some]
 Level 10 Weapons
 Level 10 Weapon attatchments
 Level 10 Armor
 Level 10 Spells
 Discuss Armor?
+
+=====================	Ongoing Dev	===========
+Moar Level 10 items
