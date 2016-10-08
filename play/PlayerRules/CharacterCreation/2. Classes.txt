@@ -320,8 +320,13 @@ V
 Enemies within 3m * your charisma of you when you shout must pass a DC 70 check not to target you, you gain a temporary 120 hp. This effect lasts an additional turn as well.
 
 "Monk"
+<<<<<<< HEAD
 Head to any secluded Corporate Temple and you''ll find many Monks studying the ancient texts and learning about sacred technology. Of these holy disciples, a few are trained to defend the Temple in case of attack. All Monks take an Oath to not utilize "lesser" technologies [guns, armour, and even nanite packs.], for only through embracing the Higher Technologies can one Advance oneself to the planes of the Great Ones.
 Passives: No penalty for engaging in Grappling maneuvers. Dex +1. Hand to hand Expert, 20. +20 damage to non-lethal attacks, +10 damage to lethal attacks. At level 5, and again at level 15 all monks must head back to their home temple or seek a wise master to learn more advanced techniques. Until this training has been completed, a monk cannot proceed to the next level. Part of this training is also usually a Monk''s Aura shield, which reduces incoming damage, regardless of type, by 10, and reduces melee damage by 20, but at the cost of 100 nanites spent to activate the shield. Activation is a free action. Each shield lasts for one encounter. Monks may meditate once per day for an hour to regain any nanites lost in this way.
+=======
+Head to any secluded Corporate Temple and you'll find many Monks studying the ancient texts and learning about sacred technology. Of these holy disciples, a few are trained to defend the Temple in case of attack. All Monks take an Oath to not utilize "lesser" technologies (guns, armour, and even nanite packs.), for only through embracing the Higher Technologies can one Advance oneself to the planes of the Great Ones.
+Passives: No penalty for engaging in Grappling maneuvers. Dex +1. Hand to hand Expert, 20. +20 damage to non-lethal attacks, +10 damage to lethal attacks. At level 5, and again at level 15 all monks must head back to their home temple or seek a wise master to learn more advanced techniques. Until this training has been completed, a monk cannot proceed to the next level (5 or 15). Part of this training is also usually a Monk's Aura shield, which reduces incoming damage (regardless of type) by 10, and reduces melee damage by 20, but at the cost of 100 nanites spent to activate the shield. Activation is a free action. Each shield lasts for one encounter. Monks may meditate once per day for an hour to regain any nanites lost in this way.
+>>>>>>> 4a63259cfcda55b1a3d434d1f116e31324c07619
 Weapon Proficiencies: none
 Armour Proficiencies: none
 Class Feats:
