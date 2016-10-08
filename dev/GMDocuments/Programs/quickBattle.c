@@ -64,9 +64,8 @@ void enemyTurn (int enemy) {
 //"Item" prompts an item selection when applicable.
 //"Other" prompts a description of the action, and prints it.
 void playerTurn (int activeEnemies, int* player) {
-    //4 half-actions
-
-    int ha = 4;
+    int ha = 4; //Number of Half-Actions a player has per turn.
+    //This is an artifact of the way the pen & paper game is played.
 
     char* action = malloc(sizeof(char)*8);
 
@@ -187,3 +186,19 @@ void main() {
         }
     }
 }
+
+//===================================================================
+//Copyright 2016 Taylor Rowland
+//
+//Licensed under the Apache License, Version 2.0 (the "License");
+//you may not use this file except in compliance with the License.
+//You may obtain a copy of the License at
+//
+//   http://www.apache.org/licenses/LICENSE-2.0
+//
+//Unless required by applicable law or agreed to in writing, software
+//distributed under the License is distributed on an "AS IS" BASIS,
+//WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+//See the License for the specific language governing permissions and
+//limitations under the License.
+//===================================================================
