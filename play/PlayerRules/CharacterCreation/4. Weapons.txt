@@ -153,7 +153,7 @@ Reload 28%
 
 ============================================================
 Sub-Machine Guns:
-Capable of high rates of fire, but utilizing lighter calibers than a traditional combat rifle. Fire DEX/2 shots per full turn, rounding down. (DEX 5 = 2 shots, DEX 8 = 4 shots) Maximum LVL + 1.( All SMGs are considered CQB weapons)
+Capable of high rates of fire, but utilizing lighter calibers than a traditional combat rifle. Fire DEX/3 shots per Half Action, rounding down. (DEX 5 = 2 shots, DEX 8 = 4 shots) Maximum LVL + 1.( All SMGs are considered CQB weapons)
 Minimum Strength 4, Reload DC 25% unless otherwise noted. Reload time 2 Half Actions.
 ============================================================
 
@@ -275,8 +275,9 @@ G&W FBR-C $2390
 CQB rifle
 
 ============================================================
-Assault Rifles:
+Automatic Rifles:
 Minimum Strength 5, Reload DC 25% unless otherwise noted. Reload time 2 Half Actions
+Fire STR/3 shots per half action. Round down.
 ============================================================
 
 Anvil Arms AR-74 $1710
@@ -305,6 +306,21 @@ G&W FBR $2600
 62
 
 
+Anvil Arms KMR $3470
+160m
+30%
+80 rds, 7.62 x 51mm Belt
+62, Bleed Damage
+Supporting Fire
+Minimum 7 Str to carry. 40% reload
+
+Mathews Model 240-B $3720
+160m
+25%
+80 rds, .308 RMM-Mag Belt
+62, Bleed damage.
+Supporting Fire
+Minimum 7 Str to carry. 40% reload.
 
 ============================================================
 Heavy Weapons:
@@ -347,14 +363,7 @@ Requires strength 6 to carry
 6 rounds, Deathmetal custom flack rounds
 Each shot into a door reduces the DC of kicking down that door by 65. If the DC becomes 0, the door is blown open. No optics or barrel attachments. 0% chance to miss airborne targets.
 Clips cost $120 each
-
-Anvil Arms KMR $3470
-160m
-30%
-80 rds, 7.62 x 51mm Belt
-62, Bleed Damage
-Supporting Fire
-Minimum 7 Str to carry. 40% reload
+//flak cannon from unreal tournament / roadhog's shotgun from overwatch
 
 ============================================================
 Long Rifles:

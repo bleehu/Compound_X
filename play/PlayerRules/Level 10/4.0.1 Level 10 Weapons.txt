@@ -41,6 +41,13 @@ HO-SV treated like HP
 LO-HV treated like AP
 Reload 28%
 
+Schroder K-20 $3200
+100m
+10%
+20 rds, 3 x 25mm Tungsten Core Caseless;
+60 + 2x bleed.
+A tremendous zap occurs as each bank of capacitors discharges in an instant, accelerating the small projectile to Mach-2 within the barrel. Dual Capacitor banks allow for no recharge time between shots, as there is always a charged set to fire a round.
+
 ============================================================
 Sub-Machine Guns:
 Capable of high rates of fire, but utilizing lighter calibers than a traditional combat rifle. Fire DEX/2 shots per full turn, rounding down. (DEX 5 = 2 shots, DEX 8 = 4 shots) Maximum LVL + 1.( All SMGs are considered CQB weapons)
@@ -53,17 +60,45 @@ ECSC MK9 PDW				$3600//naming
 30 rounds 9mm
 40 damage
 
+Schroder K-35 $3500
+100m
+10%
+35 rds, 3 x 25mm Tungsten Core Caseless
+60 + 2x bleed.
+A tremendous zap occurs as each bank of capacitors discharges in an instant, accelerating the small projectile to Mach-2 within the barrel. Dual Capacitor banks allow for no recharge time between shots, as there is always a charged set to fire a round.
 
+============================================================
+Shotguns:
+All pump shotguns take 1 Half Action to fire, 1 Half Action to rack. In the racking action, you can load an additional round of your specification as a half action. Double barrel and semi auto shotguns do not follow this rule.
+Slug damage deals damage as a normal rifle would, dealing its full damage up to the listed distance.
+Buck-Shot damage is dealt in 3 distinct distances, which are listed. All buck shot deals 2 bleed tokens to the target.
+Minimum Strength 4, Reload DC 30% unless otherwise noted. Reload time 3 Half Actions
+============================================================
+
+Schroder C-6 $3220
+This Over-Under shotgun fires special Shotshells which each contain 3 caseless rounds. Loading is as simple as breaking open the barrels and inserting 1 shell into each barrel. Each round must be individually pumped into the rail chamber, leading to a unique break-barrel loaded, pump action firearm.
+100m
+10% / 15%
+2 rds, 3 x 25 mm Tungsten Core Shotshell
+60 + 2x bleed.
+A tremendous zap occurs as each bank of capacitors discharges in an instant, accelerating the small projectile to Mach-2 within the barrel. Dual Capacitor banks allow for no recharge time between shots, as there is always a charged set to fire a round. Pump Action on every other shot, so 1 half action to fire once, another to fire again, then a half-action to chamber the next two rounds. For an extra $200, the weapon can be purchased as a semi-automatic version, but with 15% miss instead of 10%
+Minimum strength 6.
 
 ============================================================
 Carbines & Battle Rifles
 Minimum Strength 5, Reload DC 25% unless otherwise noted. Reload time 2 Half Actions
 ============================================================
 
+Schroder G-25 $5810
+150m
+10%
+25 rds, 4.5 x 45 mm Tungsten Core Caseless
+75 + 2x Bleed
+A tremendous zap occurs as each bank of capacitors discharges in an instant, accelerating the small projectile to Mach-2 within the barrel. Dual Capacitor banks allow for no recharge time between shots, as there is always a charged set to fire a round.
 
 
 ============================================================
-Assault Rifles:
+Automatic Rifles:
 Minimum Strength 5, Reload DC 25% unless otherwise noted. Reload time 2 Half Actions
 ============================================================
 
@@ -74,12 +109,18 @@ ECSC AR-SOC L               $2440
 50 damage
 
 
-ECSC AR-SOC H 				$3720
+ECSC AR-SOC H 			$3720
 150m
 20%
 20 rounds 7.62x51 NATO
 62 damage
 
+Schroder G-25 $6780
+175m
+10%
+35 rds, 4.5 x 45 mm Tungsten Core Caseless
+75 + 2x Bleed
+A tremendous zap occurs as each bank of capacitors discharges in an instant, accelerating the small projectile to Mach-2 within the barrel. Dual Capacitor banks allow for no recharge time between shots, as there is always a charged set to fire a round.
 
 ============================================================
 Heavy Weapons:
@@ -130,6 +171,23 @@ that hunkered down. Cannot fire through multiple layers of cover. Does not
 grant awareness of an enemy you can''t see or hear. Cannot be silenced. 
 Subsequent shots on the same turn accrue a stacking 15% chance to miss.
 
+Schroder G-130 $6250
+150m
+10%
+130 rds, 4.5 x 45 mm Tungsten Core Caseless
+75 + 2x Bleed
+A tremendous zap occurs as each bank of capacitors discharges in an instant, accelerating the small projectile to Mach-2 within the barrel. Dual Capacitor banks allow for no recharge time between shots, as there is always a charged set to fire a round.
+The cacophony of electronic discharge, coupled with the intense sensation of swarms of hypersonic rounds flying past intimidates the target. 75% Shock saving throw to move or fire.
+
+Schroder HLG-50 $24,000
+500 m
+10%
+50 rds, 10 x 80 mm Tungsten Core Caseless Belt
+90 + 3x bleed
+Minimum strength 9.
+A tremendous zap occurs as each bank of capacitors discharges in an instant, accelerating the small projectile to Mach-2 within the barrel. Dual Capacitor banks allow for no recharge time between shots, as there is always a charged set to fire a round.
+The cacophony of electronic discharge, coupled with the intense sensation of swarms of hypersonic rounds flying past intimidates the target. 75% Shock saving throw to move or fire.
+
 ============================================================
 Long Rifles:
 Due to high velocities used in long rifle bullets, when a target is under the minimum engagement range, they take 20 less damage because of hit-pre-acceleration, PointBlank penetration, etc.
@@ -160,3 +218,11 @@ Requires 6 strength to carry
 10 rds .306 long
 80 damage
 semi auto
+
+Schroder HLG-10 $118,500
+2000 m
+10%
+10 rds, 10 x 80 mm Tungsten Core Caseless
+115 + 3x bleed
+"Bolt Action" rotates between two barrels while chambering the next round.
+Minimum strength 8.

@@ -1,3 +1,4 @@
+//============================================================
 Human
 Society:
 Humans are the most common sentient species in ECSC. While most belong to the empire that is centered near their home planet, many other cultures and sub cultures dot the surrounding systems ranging from corporations to patriarchies to pirate anarchies. 
@@ -12,6 +13,8 @@ Language: 	Emperial Common, +1 dialect
 Racial Traits:	
 None
 
+
+//============================================================
 Tundari
 Society: Tribal system, lead by a counsil of elders.
 Homeworld:Tundaaari
@@ -36,7 +39,7 @@ Stalker: Gain Stealth and Awareness skills at 15 if you take them as level 1 ski
 Low-Light Vision: can see in moonlight as well as if it were day-light. only requires dim light to see well.
 Sprinter - +1m movement speed when charging, retreating,  or otherwise moving under preasure.
 
-
+//============================================================
 Detachment A Security Drone
 Society: Slave soldiers. Squad families.
 Security Drones are specialized drones that have been granted a greater AI capacity to learn and think independantly. They are native to ECSC Compound X experimentation laboratory.
@@ -55,6 +58,7 @@ Purpose Built: Take an additional skill at 10 points during character creation. 
 25m Darkvision.
 Weakness (Electrical): Electrical damage deals an additional 50% damage.
 
+//============================================================
 Archon
 Society: These constructs are made up of nanites. Commonly A.I.s that have broken from their world of solitude and gained a corporeal body, these powerful creations are as difficult to take down as they are rare.
 Preferred Classes: Warlock, Priest, Pilot.
@@ -79,6 +83,30 @@ Archons do not have a health bar. Instead, they have 300 + 20*int Nanites. They 
 - Max 200 into a "Health" Pool
 - Max 100 into an "Armour" Pool
 - As many remaining as they like into a "Mana" Pool.
+
+//============================================================
+Cyborg
+
+Preferred Classes: Any
+Type: Enhanced Organic.
+Size: Medium
+Speed: Normal+
+Stat Modifiers: 40 point pool.
+Languge: ECSC Standard
+Racial Traits:
+    Pick any three augments:
+    Occular Augmentation: +1 Perception, Darkvision 20m.
+    Enhanced Speed: +1 movement.
+    Enhanced Strength: +1 STR, metal arms, legs, or both.
+    Neural Implant: +1 Intelligence.
+    Speed Geared Fine Motor Controls: +1 DEX, no augment to movement speed.
+    Skeletal Support Structure: +1 FORT.
+    Implanted Weapon: Pick a pistol from the basic weapons list. This pistol is implanted in a limb. You may manipulate your limb to use this weapon at the cost of a half action. While the weapon is out, that limb does not operate at its normal capacities. Hands would not grasp, legs would not superbly support you, etc. Subrtact the price of the weapon from your class starting money. The weapon can be upgraded to another pistol with a DC 25 Biomechanics check, or a DC 50 Mechanics check. It can be upgraded to any CQB weapon with a DC 50 Biomechanics or DC 75 Mechanics check.
+    Integrated multitool: Your fingers hide a basic toolkit, including low-speed motorized screwdrivers, soldering iron, wrenches, quantum spanner, toothpick, pliers, sharp edge, lock pick, etc. If it fits in a leatherman, its plausible that it would be in this toolkit.
+
+Cyborgs share all weaknesses with their base race, generally humans. They additionaly are weak against electric damage taking an extra 50% damage.(10 damage would become 15). They are also succeptible to hacking, although they would not come under control, they would merely loose the use of their augmentations and any affected limbs. DC 80 Hack check.
+Once at level 3, and every 5 levels thereafter a Cyborg may purchase an additional augment at the cost of $2000. They must see a cybernetics expert to have this augment installed.
+
 
 //===================================================================
 //Copyright 2016 Taylor Rowland

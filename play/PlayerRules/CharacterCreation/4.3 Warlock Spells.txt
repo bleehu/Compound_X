@@ -12,8 +12,9 @@ YOU''D LIKE ADDED IN.
 
 //ADD MORE DETAIL / description / clarity
 //more spells.
-Each spell has a tree. Uppon leveling up, you gain a number of spell points equal to half your intelligence. You may choose to level up a spell for 1 spell point, or save up your spell points for later levels. You can progress the spell down it''s tree once you have spent the required number of points on the previous level. For example, if the progression cost is 3, you must spend 3 points on a spell before unlocking the ability to progress the spell.
-You may only spend one point on a spell per level, unless specifically stated otherwise. In each spell description, the effect is increased based on the number of spell points put into progrssing the spell tree, these are referred to as Progression Levels or P.Lvls. You may progress any spell no more than 5 levels (including the progression from the previous spell). Even after progressing down the tree, you may choose to upgrade and use prior versions of a spell. Some spells age better than others.
+
+By spending much time researching, meditating, and practicing, a warlock can increase the power with which they cast their spells. Each level, warlocks gain a number of spell points equal to half their intelligence. One point can be put into each spell per level. Each spell can have 5 points put into it, unless otherwise noted. Spells within the tree are unlocked once the listed number of spell points have been spent. For example, if the "Progression Cost" is 3, you must spend 3 points on the prior spell, then the next spell is unlocked and you must put points into it to increase its potency.
+In each spell description, the effect is increased based on the number of spell points used to advance the spell. These are referred to as Progression Levels, or P.Levels. Even after unlocking spells further along the tree, you can advance earlier spells. Some spells age better than others with age.
 
 Spells are written in the following format:
 Spell Name [Nanite Cost]: Description of effects.
@@ -27,7 +28,7 @@ Next Spell or max level of Spell
 Current Spell ||------[Leveling = 3 (or 2, w/e)]------[Next Level cost = 1 (all spells)] Next Level
 
 ============================================================
-UTILITY SPELL TREE
+NEUTRAL SPELL TREE
 ============================================================
 
 Blind [20]: Blinds the target for 1 turn minimum, max P.Lvl # turns. Target rolls Reaction save at DC 20 + 3*INT to resist. Range is 30m.
@@ -35,6 +36,9 @@ Blind [20]: Blinds the target for 1 turn minimum, max P.Lvl # turns. Target roll
 Detect High-Tech [10]: Detect any highly advanced technology in the immediate area. Works like a sixth sense in terms of range and strength. Potential uses include sensing what the most powerful piece of tech is, relative tech strengths of multiple objects, or discerning possible manufacturer of tech.
 |
 #1
+
+//Strike True
+//Ally hit buff
 
 Cure Light Wounds [30]: Restore P.Lvl*10 + 20 health
 |
@@ -85,7 +89,7 @@ Camoflage Area [40]: Create a stealthed area P.Level * 2 m diameter. Everything 
 #
 
 ============================================================
-CONVENTIONAL DAMAGE SPELL TREE
+MATERIALIZER SPELL TREE
 ============================================================
 
 Arcane Blast [40]: Deals 40 + P.Lvl turns C.S. Burn. 70m range, acurracy is 40% (INT base)
@@ -115,8 +119,27 @@ Chain Lightning [50]: Hits target, plus anyone within P.Lvl*5m from target for d
 V
 Thunder Cloud [70]: Everyone in a P.Lvl*10m Radius from you takes damage, 50% chance to stun.
 
+//need to do some balancing here
+(Sustained barage) [20]:
+    20 damage. Each successive time cast, nanite cost increases by 5, damage increases by 10. Maximum Knowledge[Nanites]/10 casts.
+    Cool down:
+        Knowledge[Nanites] <= 50, 3 Full Actions
+                           <= 75, 2 Full Actions
+                            > 75, 1 Full Action
+(Nanite Battle Companion) [100]
+    Cast time: 2 Full Actions.
+    Creates a companion sphere 30cm in diameter which follows the caster and attacks once per caster''s turn, as a free action to the caster, with the following traits:
+    50 health. +20% miss chance to enemy attacks
+    30m range
+    30%
+    60 damage
+    Nanites spent on the companion are lost and cannot be replenished until it is dismissed or destroyed.
+    Pick 1 trait per P.Lvl and boost it by 10%
+| 5
+#
+
 ============================================================
-NECROMANCY SPELL TREE
+DEMATERIALIZER SPELL TREE
 ============================================================
 Cloud of Smog [20]: Creates a 10m diameter cloud of choking smog. Deals 10 damage per round in the cloud, and anyone in the cloud must pass a FORT save DC (10*rds in smog) + (5*Caster''s CHA). If the FORT save is failed, the target faints in the cloud and continues to take damage. Cloud lasts P.Lvl turns. 20m range.
 |

@@ -6,6 +6,8 @@ Network Motes: Any repair process that an engineer uses on a cybernetic ally
 allies) leaves a "network mote" on that ally. When calculating roaming range
 of drones built in the build tree, the range of the drone is taken from the
 nearest network mote or the engineer that deployed it.
+Unlocking a Repair tree skill requires having unlocked the skill below it on the 
+tree. Please see the Engineer Skill Tree - Repair.png for dependancies.
 
 ====================	  Cyberphysical			====================
 /////	Reboot
@@ -405,6 +407,8 @@ Drones do not count as "cybernetic allies" for most repair skills, though you ca
 repair kits as normal. They take their turns independantly, with 2 Full actions per turn, and they
 take their owner's (not necissarily their deployer's) initiative. A Drone can only use 4 IO ports 
 at a time unless otherwise stated. 
+Unlocking a Build tree skill requires having unlocked the skill below it on the 
+tree. Please see the Engineer Skill Tree - Build.png for dependancies.
 
 ====================	Embeded Systems		====================
 /////	Dragonfly
@@ -489,6 +493,30 @@ accuracy bonus.
 Standard PD bots make soft hydraulic sounds when moving, and so may not have 
 stealth scores over 80. This limitation may be solved with clever RP, see your
 GM with ideas.  
+When a drone is reclaimed, it frees up the control point cost that it occupied,
+but does not reimburse its controler's nanites that were used to assemble it.
+
+/////	Con-D0R
+Type: 				Drone
+Construction Cost:	55 Nanites
+Control Point Cost: 1 point
+Build Time:			3 Full Actions
+Modular I/O ports: 	4 ports
+Duration: 			Permanent
+Health:				56
+Speed:				14 per action
+Roaming range:		30 from network mote.
+Size:				1m x .6m x .8m
+Disrupt DC:			40
+Pwn DC:				80
+Effect:				The reCON Direct zero Robot is right where you need it to 
+be. Or if not, It'll be there extremely soon. While it lacks a little in armor, 
+it is the fastest drone available and carries a decent payload of peripherals.
+Unfortunately, it's long range carrier wave makes it a little more prone to 
+cyber attacks than it's slower ilk. If the Con-D0R agile-wing drone has moved 
+at least 10m in the last turn, enemies on the ground take a +20% to miss shooting
+at it. If the Con-D0R has less than half of its ports occupied, enemies on the 
+ground take an additional +10% when this effect is active.
 When a drone is reclaimed, it frees up the control point cost that it occupied,
 but does not reimburse its controler's nanites that were used to assemble it.
 
