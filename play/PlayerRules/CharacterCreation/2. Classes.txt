@@ -85,7 +85,7 @@ Your complete knowledge of <vehicle> makes your operation of it seem easy. Add 2
 V
 You are THE guru accross the holonets for <vehicle>. Add 50 onto a pertinent roll about the vehicle.
 
-"Engineer" - You solve problems. For insance, you know how to stop some mean mutha-hubbard from tearin' you and your team a structurally supurfluous new behind. You know how to fix engines, machines, circuits, you name it. And when you're not busy fixing what other people broke, you get to work on making new stuff. Which some knucklehead will probably eventually break too. 
+"Engineer" - You solve problems. For insance, you know how to stop some mean mutha-hubbard from tearin'' you and your team a structurally supurfluous new behind. You know how to fix engines, machines, circuits, you name it. And when you're not busy fixing what other people broke, you get to work on making new stuff. Which some knucklehead will probably eventually break too. 
 passives: You gain get 10 skill points in repair. Every level, you get one Process point in each of the "repair" and "build" skill trees.  At the begining of an engagement, you start with only half of your nanites, but you may accrue up to 600 nanites max. You also start with 2 permanent control points, which enable control over any automatons you construct.
 Weapon Proficiencies: Pistol, Carbine and Battle Rifles, Shotgun
 Armour Proficiencies: Concealed, Recon, Light, Medium.
@@ -242,7 +242,7 @@ Once per engagement, you give a mighty shout and rush to engage your foe(s). For
 V
 Enemies within 3m * your charisma of you when you shout must pass a DC 70 check not to target you, you gain a temporary 120 hp. This effect lasts an additional turn as well.
 
-Monk
+"Monk"
 Head to any secluded Corporate Temple and you'll find many Monks studying the ancient texts and learning about sacred technology. Of these holy disciples, a few are trained to defend the Temple in case of attack. All Monks take an Oath to not utilize "lesser" technologies (guns, armour, and even nanite packs.), for only through embracing the Higher Technologies can one Advance oneself to the planes of the Great Ones.
 Passives: No penalty for engaging in Grappling maneuvers. Dex +1. Hand to hand Expert, 20. +20 damage to non-lethal attacks, +10 damage to lethal attacks. At level 5, and again at level 15 all monks must head back to their home temple or seek a wise master to learn more advanced techniques. Until this training has been completed, a monk cannot proceed to the next level (5 or 15). Part of this training is also usually a Monk's Aura shield, which reduces incoming damage (regardless of type) by 10, and reduces melee damage by 20, but at the cost of 100 nanites spent to activate the shield. Activation is a free action. Each shield lasts for one encounter. Monks may meditate once per day for an hour to regain any nanites lost in this way.
 Weapon Proficiencies: none
