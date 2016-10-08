@@ -67,7 +67,9 @@ revisit hunters use shotguns at +70m range [removed]
 •	Need to set price for plasma cutter/blow torch	[fixed in dev]
 •	Dexterity DCs seem overly high for what they do
 •	Engineer Build and Repair Diagrams sheet needs to be updated to include:
-o	Build: Force Multiplier – Darknet Processor, Pointer.  Embedded Systems: Con-DOR, Network Security Module.  
+o	Build: 
+Force Multiplier – Darknet Processor, Pointer.  [blocking]
+Embedded Systems: Con-DOR, Network Security Module.  [blocking]
 
 How much money does each class start with!?!
 
@@ -94,7 +96,7 @@ Level 10 Weapons
 Level 10 Weapon attatchments
 Level 10 Armor
 Level 10 Spells
-Discuss Armor?
+Discuss Armor? [Taylor's got it]
 
 =====================	Ongoing Dev	===========
 Moar Level 10 items
