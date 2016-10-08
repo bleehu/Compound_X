@@ -1,0 +1,66 @@
+Name: Saburo Kyo, Yamada
+Description of Attitude, demenor, etc:
+
+
+Physical Description:
+Wears a grey hakima, matching grey hooded cloak, black gi-top with red/white clan emblem. Kabuki mask is black, with details iin white and red, and finer details in grey. 
+Cyborg:
+Speed Geared Fine Motor Controls, +1 DEX; Neural Implant, +1 INT; Occular Augmentation, +1 PER;
+50% damage increase from electrical damage.
+
+$3865 + $1000/level = 12865
+
+Class: Hunter [2]
+Health: 100
+Nanites: 120
+Armor type: 
+Percent Hit: 
+D.R. 
+Nanite Health: N/A
+Speed: 
+==STATS==
+STR || 6 +4
+PER || 9 +16
+FOR || 5 +0
+CHA || 6 +4
+INT || 7 +8
+DEX || 7 +8
+LUK || 5 +0
+========
+SAVING THROWS:
+WIL || 10
+SHK || 12
+REF || 20
+========
+Weapons:
+========
+Primary Name: 
+Range: 
+Percent Hit: 
+Damage: 
+
+Misc.:
+
+
+Secondary Name: 
+Range: 
+Percent Hit: 
+Damage: 
+Misc.:
+
+
+Feats:
+Bulltrue: Enemy moving from 4m towards you can be fired upon as a free action. If they are bloodied as a result, they may not make a melee attack on you.
+Weapon Skill Tree: Shotgun Surgeon I: -10% armour; if no armour +5 damage
+
+
+Skills:
+Tracking - 20
+Weapon Use [Exotic] - 10
+Stealth - 14
+Lockpicking - 10
+Decieve - 10
+Knowledge [Criminal] - 10
+
+Inventory:
+
