@@ -79,7 +79,7 @@ Recon Suit: 65EP
             minimum recharge rate of 2 turns between cloaks, even at higher levels.
 ------------------------------
 Combat Suit Additions:
-All weapons may be equipped with weapon attachments, however the following items do not apply to weapon stats while being used by the suit's systems: weapon sights, foregrips, slings, bipod, unnderbarrel launcher/shotgun, straightpull bolt.
+All weapons may be equipped with weapon attachments, however the following items do not apply to weapon stats while being used by the suit''s systems: weapon sights, foregrips, slings, bipod, unnderbarrel launcher/shotgun, straightpull bolt.
 ------------------------------
 
     Arm Hardpoints:
