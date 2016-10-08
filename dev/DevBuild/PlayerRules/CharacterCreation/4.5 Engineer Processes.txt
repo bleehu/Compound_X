@@ -496,6 +496,30 @@ GM with ideas.
 When a drone is reclaimed, it frees up the control point cost that it occupied,
 but does not reimburse its controler's nanites that were used to assemble it.
 
+/////	Con-D0R
+Type: 				Drone
+Construction Cost:	55 Nanites
+Control Point Cost: 1 point
+Build Time:			3 Full Actions
+Modular I/O ports: 	4 ports
+Duration: 			Permanent
+Health:				56
+Speed:				14 per action
+Roaming range:		30 from network mote.
+Size:				1m x .6m x .8m
+Disrupt DC:			40
+Pwn DC:				80
+Effect:				The reCON Direct zero Robot is right where you need it to 
+be. Or if not, It'll be there extremely soon. While it lacks a little in armor, 
+it is the fastest drone available and carries a decent payload of peripherals.
+Unfortunately, it's long range carrier wave makes it a little more prone to 
+cyber attacks than it's slower ilk. If the Con-D0R agile-wing drone has moved 
+at least 10m in the last turn, enemies on the ground take a +20% to miss shooting
+at it. If the Con-D0R has less than half of its ports occupied, enemies on the 
+ground take an additional +10% when this effect is active.
+When a drone is reclaimed, it frees up the control point cost that it occupied,
+but does not reimburse its controler's nanites that were used to assemble it.
+
 /////	Cerberus Attack Drone
 Type: 				Drone
 Construction Cost:	220 Nanites
