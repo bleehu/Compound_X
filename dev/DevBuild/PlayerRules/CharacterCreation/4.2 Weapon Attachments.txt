@@ -5,62 +5,81 @@ Optics / Aiming Aids
 You may only have 1 scope, unless otherwise stated.
 ====================
 
-Tritium Glow Iron Sights 2EP
+Tritium Glow Iron Sights $50
 1x magnification, but allows for much better target aquisition. Can be mounted on 45 degree mounts in addition to a scope in order to negate a minimum engagment distance penalty.
 Accuracy -5%
 Can be used on any conventional, nonexplosives weapon (E.G. pistols, shotguns, rifles, etc.).
 
-Grenade Launcher Iron Sights 2EP
+Grenade Launcher Iron Sights $100
 1x Magnification. Allows better estimation of distances for use with grenade launcher.
 Underbarrel Grenade Launcher -10% miss chance.
 
-1x Dot Sight 2EP
+1x Dot Sight $100
 Your basic tube-shaped dot-projection. Dot can be changed from blue-green-red for various lighting situations and terrains.
 Accuracy -3%
 Range +10m
 
-1x Reflex Site 4EP
-A reflex-projected site, comprised of a light source and a single pane of rectangular glass. Allows for smaller F.O.V. blockage. Has a small cross, chevron, or dot as the indicator.
+1x Reflex Site $100
+A reflex-projected site, comprised of a light source and a single pane of 
+rectangular glass. Allows for smaller F.O.V. blockage. Has a small cross, 
+chevron, or dot as the indicator. Cannot be used on pistols
 Accuracy -5%
-Range +10m / +5m for pistol
-Can be used on pistols for -1EP
+Range +10m 
 
-1.2x Hologramic projector 6EP
-Projects a hologram target aquisition reticle, which compensates slightly for windage or target movement. also artificially enhances view so as to magnify by 120%.
-Range +15m, +5m for pistol
+1x Pistol Reflex Site $80
+A reflex-projected site, comprised of a light source and a single pane of 
+rectangular glass. Allows for smaller F.O.V. blockage. Has a small cross, 
+chevron, or dot as the indicator. Can only be used on pistols.
+Accuracy -5%
+Range +5m
+
+1.2x Hologramic projector $240
+Projects a hologram target aquisition reticle, which compensates slightly 
+for windage or target movement. also artificially enhances view so as to 
+magnify by 120%. Cannot be used on pistols.
+Range +15m
 Accuracy -10%
-Can be used on pistols for -1EP
 
-nx Magnifier for Dot Scopes n+2EP
-A basic magnifying tube capable of increasing the effective range of a weapon. Must be paired with a dot sight.
+1.2x Pistol Hologramic projector $190
+Projects a hologram target aquisition reticle, which compensates slightly
+for windage or target movement. also artificially enhances view so as to 
+magnify by 120%. Can only be used on pistols.
+Range +5m
+Accuracy -10%
+
+nx Magnifier for Dot Scopes n+$80
+A basic magnifying tube capable of increasing the effective range of a weapon.
+Must be paired with a dot sight.
 Range + (n*20)
 
-3.2x Scope 6EP
-A heavy-duty tube made for heavy weapons and sustained automatic fire, but would suit single-fire weapons just as well. Sports a black multi-chevron reticle suitable for daytime brightlight use.
+3.2x Scope $320
+A heavy-duty tube made for heavy weapons and sustained automatic fire, but 
+would suit single-fire weapons just as well. Sports a black multi-chevron 
+reticle suitable for daytime brightlight use.
 Range + 50m, Minimum +10m.
 
-4x Scope 6EP
+4x Scope $340
 Range +75m, minimum +15m.
 Can only be used on Long Rifles, Carbines.
 
-2-7x Scope 10EP
+2-7x Scope $760
 As a full action, you can adjust the magnification on this scope in order to better see your target. Once sighted to a certain range, other targets that are within 20m can still be fired upon. otherwise you must adjust your magnification.
 Accuracy -20%
 Range +100m, minimum +10m
 
-7x Scope 8EP
+7x Scope $400
 Range +120m, minimum +30m
 Can only be used on Long Rifles.
 
-8x Scope 9EP
+8x Scope $600
 Range +150m, minimum +35m
 Can only be used on Long Rifles.
 
-Range Finder 4EP
+Range Finder $370
 Notifies the user of the target's range via an infrared laser beam. Useful for calculated bullet drop for a sniper. When a Sniper takes a full round to adjust it's scope''s windage or elevation due to distance, negate the full round and adjust the scope as a free action.
 (can be used in addition to another scope)
 
-IR scope 8EP
+IR scope $440
 Enables visibility in dark settings. This scope does not have any inherent magnification, and needs to be used in conjunction with a scope or dot site.
 
 ====================
@@ -68,25 +87,25 @@ Assistance Attachments
 You may only have one type of laser, and maximum of two total of the following.
 ====================
 
-Flashlight 2EP
+Flashlight $60
 Its a flashlight. It lights things up.
 30m visibilty in dark.
 
-IR flashlight 3EP
+IR flashlight $240
 Works well with IR goggles. Actually, it only works with IR goggles.
 30m visibility in dark with IR goggles.
 
-Bipod 3EP
+Bipod $320
 Requires one full action to deploy the bipod. user can diengage for a free action. After disengaging, user must still take a full action to deploy. Cannot be used with any foregrip or underbarrel weapon.
 Accuracy -20%
 
-Red Laser 3EP
+Red Laser $140
 Accuracy -10% when Range < 50m
 
-Green Laser 3EP
+Green Laser $140
 Accuracy -10% when Range > 60m
 
-IR Laser 5EP
+IR Laser $320
 Accuracy -10% when range <50m. Must be used with IR goggles or an IR sight.
 Can also be used to paint a target for Airstrikes or Orbital Strikes.
 
@@ -95,7 +114,7 @@ Barrel Attachments
 You may only choose one barrel type, and one barrel attachment.
 ====================
 
-Muzzle Break 2EP
+Muzzle Break $80
 Reduces Recoil from the gun, allowing for more accurate follow-up shots.
 Accuracy -5%
 
@@ -110,11 +129,11 @@ Range -20m
 Damage -5
 Not useable on Shotguns or HMGs
 
-Light Profile Barrel 3EP
+Light Profile Barrel $100
 When a conventional ammunition weapon requires a STR check to carry or use, subtract 1 from the STR check.
 Hit DC +10%
 
-Heavy Profile Barrel 3EP
+Heavy Profile Barrel $120
 This heavier barrel reduces recoil, increases the accuracy of follow-up shots.
 Accuracy -10%, STR +1
 
@@ -123,15 +142,15 @@ Lower Rail attachments
 You may only choose one of these. You may not use a Bipod in conjunction with any of these except the foregrips.
 ====================
 
-Vertical Foregrip 2EP
+Vertical Foregrip $80
 Increase weapon stability.
 Accuracy -5%
 
-Angled Foregrip 3EP
+Angled Foregrip $140
 Somehow better than a standard Foregrip.
 Accuracy -10%
 
-Grenade Launcher 8EP
+Grenade Launcher $2200
 60m
 35%
 1 rd, 40mm HE; AA / CHEM / FRAG / PLAS
@@ -143,7 +162,7 @@ PLAS: See Frontier Plasma Grenade.
 All rounds other than Smoke and CHEM can destroy 2m of light wall / light fortification.
 A full reload takes 1 Full Action, 25%; Firing is a Half Action.
 
-Under Barrel Shotgun 8EP
+Under Barrel Shotgun $910
 On basic doors, you can blow off the locking mechanism on a roll over 10%.
 20m
 30%
@@ -169,33 +188,33 @@ Reduce strength required by 1. Holstering your weapon is a free action.
 ===================
 Ammunition / Magazine Accessories
 ===================
-Extended Magazines 3EP
+Extended Magazines $50 + mag cost
 Adds +2 rounds to Long Rifles and Shotguns, +5 rounds to Pistols and Carbines, +10 rounds to Assault Rifles & SMGs.
 
-Hollow Point Magazine 2EP
-Increases damage to targets +15/-15 for unarmoured/armoured
+Hollow Point Magazine $100 + mag cost
+Increases damage to targets +15/-15 for unarmoured/armoured.
 
-Armour Piercing Magazine 2EP
+Armour Piercing Magazine $100 + mag cost
 Increases damage to targets +15/-15 for armoured/unarmoured
 
-CS tipped Magazine 2EP
-Inflicts a CS burn on hit, dealing d10/2 damage for 2 turns, +5 damage agsint robots.
+CS tipped Magazine $150 + mag cost
+Inflicts a CS burn on hit, dealing d10/2 damage for 2 turns, +5 damage against robots.
 
-RMM Match Grade Ammo 2EP
+RMM Match Grade Ammo $100 + mag cost
 This high quality ammunition isn''t cheap, but it increases the consistancy of your shots. -10% miss chance.
 
-High Velocity Ammunition 5EP
+High Velocity Ammunition $200 + mag cost
 Increased velocity grants a +10% increase to range, and +10 damage.
 (Available for all standard munition guns)
 
-Shotgun Slugs	0EP
+Shotgun Slugs	$0
 Instead of firing a number of pellets and a wad, a slug is a single large 
 projectile.
 Increase miss chance by 15%. Increase range by 20m. Reduce net damage by 2 
 pellets and deal that damage in a single projectile (so that armor damage
 mitigation only affects hits once).
 
-Magpulls 3EP (2EP for pistols)
+Magpulls $80 ($60 for pistols)
 Decrease the Reload DC by 5% for any box magazines. (Applicable to Pistols, SMGS, Some Shotgunns, Carbines and Assault Rifles)
 
 ====================
@@ -203,22 +222,22 @@ Total Conversions
 You may only utilize one weapon conversion at a time. HOWEVER, for conversions relying on switching out a reciever, you may carry at max one additional receiver in order to swap kits on the go. You must pass 2 Weapons use / knowledge [Weapons] checks in order to successfully convert your weapon on the go. DC 60. Failure on one check instantly jams the weapon on first shot. Failure on both checks requires an additional check.
 ====================
 
-Revolver Bottom-Cylinder Fire 5EP
+Revolver Bottom-Cylinder Fire $500
 Modifies the pistol to fire from the bottom cylinder rather than the top, decreasing the kick from firing.
 Accuracy -15%
 
-Revolver Gas Routing System 6EP
+Revolver Gas Routing System $600
 Adds a gas tube or piston system which automatically cocks the hammer when a round is fired. Turns any revolver into a semi-automatic revolver.
 
-Pistol Hot-Load Reinforced Slide 3EP
+Pistol Hot-Load Reinforced Slide $240
 This heavier slide allows the pistol to fire Magnum loads, increasing damage output of the pistol. Not useable with revolvers or plasma pistols.
 +10 Dam
 
-Pistol Lightened Machining slide 8EP
+Pistol Lightened Machining slide $800
 This lighter weight slide utilizes carbon fiber reinforced polymer with a metal shell to provide a lightweight slide that retains strength for full-auto and burst fire.
 See SMG rules for firing. Not useable with Revolvers.
 
-Pistol - Carbine kit 8EP
+Pistol - Carbine kit $860
 A tactical frame bolts around the shooter''s pistol, and a longer barrel is attached. Accuracy at longer range is now attainable, along with the ability to mount up to 4x magnification, foregrips, etc. Modified Pistol is still considered a CQB Weapon.
 +50m range
 
@@ -231,7 +250,7 @@ Sawn-off shotgun barrel Primary $250
 Miss + 15%
 Dam + 10
 
-.300 Blackout Conversion for Mk12 / Mk16 / Mk28 7EP
+.300 Blackout Conversion for Mk12 / Mk16 / Mk28 $700
 Fires a special .300 AAC Blackout round, which carries more energy than a standard .223 RMM round, but has a lower velocity in order to work more efficiently with suppressors.
 100m
 30%
@@ -239,20 +258,20 @@ Fires a special .300 AAC Blackout round, which carries more energy than a standa
 58
 Ignore damage penalties due to flash suppressors. If used on a Mk28, retain CQB Weapon
 
-G&W FBR CQBR MOD conversion for FBR 7EP
+G&W FBR CQBR MOD conversion for FBR $700
 With a shorter, light profile barrel this reciever allows the user to retain the high stopping power of the FBR, and additionally allows them a CQB platform to take advantage of.
 100m
 30%
 (Damage and ammor capacities retained)
 CQB Weapon
 
-Plasma Generation Chamber 20EP
+Plasma Generation Chamber $3200
 Turns your boring, standard munition guns into a god-killing, blue plasma belching death machine. Weapon keeps its base range and accuracy. Increase damage by 25 and add plasma burn. Increase strength requirement by 1. Your weapon now uses appropriate plasma packs as ammunition. Pistols = 8 rds, shotguns = 7rds, SMGs = 30rds, Carbines = 20rds, Assault Rifles = 25, Long rifles = 10rds.
 
-Straight Pull for ECSC PSR, Anvil Arms SR-250 5EP
+Straight Pull for ECSC PSR, Anvil Arms SR-250 $460
 Allows the user a Straight-pull action to chamber a new round, increasing rate of fire. With DEX higher than 7, you can fire 1 round every Action.
 
-Standalone Grenade Launcher 2EP
+Standalone Grenade Launcher $600
 A polymer and metal frame to mount an underbarrel grenade launcher. Allows use of an underbarrel grenade launcher as a secondary weapon, freeing up the underside of a primary for other attachments.
 
 //===================================================================

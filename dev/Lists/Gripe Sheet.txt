@@ -88,7 +88,7 @@ Add feat for shotgun [added in dev]
 Add feat for Carbine [added in dev]
 Bar classes from weapon feats: Pilot, Assassin, Warlock, Monk, Beserker, Soldier, Priest [double checked]
 
-We still have EP?
+We still have EP? [fixed in dev]
 Level 10 Items [added some]
 Level 10 Weapons
 Level 10 Weapon attatchments
@@ -98,3 +98,4 @@ Discuss Armor?
 
 =====================	Ongoing Dev	===========
 Moar Level 10 items
+New Feats!
