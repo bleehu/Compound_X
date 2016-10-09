@@ -123,20 +123,20 @@ Any reinforced armour, the amount of Damage Reduction is rolled at the time of p
             Pistol Holster, 2 Pistol mags
             cannot be worn with plate carriers, soft armour, or tactical vests.
         
-    Gunner Kit: $100
+    Gunner Kit: $190
         Trauma Plate Vest
             Holds 1 trauma plate in the front. 35% coverage, 15 DR. Concealable.
         Conceal Rig, Shoulder Harness
             Pistol Holster, 2 Pistol mags
             cannot be worn with plate carriers, soft armour, or tactical vests.
     
-    Enforcer Kit: $110
+    Enforcer Kit: $200
         Trauma Plate Vest
             Holds 1 trauma plate in the front. 35% coverage, 15 DR. Concealable.
         Conceal Rig, Waist
             Pistol Holster or 2 primary mags, 2 secondary mags
     
-    Clandestine Ops Kit: $120
+    Clandestine Ops Kit: $220
         Trauma Plate Vest
             Holds 1 trauma plate in the front. 35% coverage, 15 DR. Concealable.
         Conceal Rig, Waist
@@ -177,11 +177,11 @@ Any reinforced armour, the amount of Damage Reduction is rolled at the time of p
         30%
         5 + d10 DR
         
-    Ceramic Plate, $340
+    Ceramic Plate, $210
         30%
         20 DR
     
-    Ceramic Plate, Steel backed $360
+    Ceramic Plate, Steel backed $220
         30%
         15 + d10 DR
     
@@ -190,19 +190,19 @@ Any reinforced armour, the amount of Damage Reduction is rolled at the time of p
 //A smaller plate carrier which holds a moderate amount of gear.
 //6 primary mags, 5 of combined secondary mags and grenades.
     
-    Ceramic Plate, $390
+    Ceramic Plate, $420
         60%
         20 DR
         
-    Ceramic Plate, Steel backed, $440
+    Ceramic Plate, Steel backed, $430
         60%
         15 + d10 DR
         
-    Carbon-Steel Fiber, $500
+    Carbon-Steel Fiber, $570
         60%
         30 DR
         
-    Carbon-Steel Fiber, Titanium backed,  $550
+    Carbon-Steel Fiber, Titanium backed,  $580
         60%
         25 + d10 DR
     
@@ -213,51 +213,51 @@ Any reinforced armour, the amount of Damage Reduction is rolled at the time of p
 //8 primary mags, 6 of combined secondary mags and grenades.
 //With side plates included (any armour listed as 80% coverage) take a -1m movement speed penalty.
     
-    Ceramic Plate $420
+    Ceramic Plate $370
         60%
         15 DR
         
-    Ceramic Plate $470
+    Ceramic Plate $510
         80%
         15 DR
         
-    Ceramic Plate, Steel backed, $450
+    Ceramic Plate, Steel backed, $380
         60%
         10 + d10 DR
         
-    Ceramic Plate, Steel backed, $500
+    Ceramic Plate, Steel backed, $520
         80%
         10 + d10 DR
     //Carbon-Steel Fiber    
-    Carbon-Steel Fiber, $500
+    Carbon-Steel Fiber, $570
         60%
         30 DR
         
-    Carbon-Steel Fiber, $560
+    Carbon-Steel Fiber, $710
         80% 
         30 DR
-        40
-    Carbon-Steel Fiber, Titanium backed, $530
+        
+    Carbon-Steel Fiber, Titanium backed, $580
         60%
         25 + d10 DR
         
-    Carbon-Steel Fiber, Titanium backed, $590
+    Carbon-Steel Fiber, Titanium backed, $720
         80%
         25 + d10 DR
     //Ceramic    
-    Ceramic Nano-Crystal, $590
+    Ceramic Nano-Crystal, $780
         60%
         40 DR
         
-    Ceramic Nano-Crystal, $660
+    Ceramic Nano-Crystal, $920
         80%
         40 DR
         
-    Ceramic Nano-Crystal, Titanium backed, $650
+    Ceramic Nano-Crystal, Titanium backed, $790
         60%
         35 + d10 DR
         
-    Ceramic Nano-Crystal, Titanium backed, $720
+    Ceramic Nano-Crystal, Titanium backed, $930
         80%
         35 + d10 DR
 
@@ -266,11 +266,11 @@ Any reinforced armour, the amount of Damage Reduction is rolled at the time of p
 //Covers the front of your chest, your back, your sides, shoulders, neck, pelvic region, and tops of your legs.
 //8 primary mags, 6 of combined secondary and grenades.
 
-    Carbon-Steel Fiber $800
+    Carbon-Steel Fiber $850
     30 DR
     100%
     
-    Ceramic Nano-Crystal $1200
+    Ceramic Nano-Crystal $1060
     40 DR
     100%
 
@@ -288,31 +288,32 @@ Basic Cloaking Suit $2500
 5 DR
 30%
 
-Intermediate Cloaking Suit $3500
+Intermediate Cloaking Suit $2900
 Add 30 Nanites to your pool.
 Cloak DC +25, expend 5 extra nanites per turn.
 5 DR
 30%
 
-Advanced Cloaking Suit $4000
+Advanced Cloaking Suit $3300
 Add 30 Nanites to your pool.
 Cloak DC +50, Expend 10 extra Nanites per turn.
-Charge-Up time 3 actions
+Charge-Up time 3 Half-Actions
 5 DR
+30%
 
-Experimental Cloaking Suit $7000
+Experimental Cloaking Suit $4020
 Remove 50 Nanites from your cloaking pool.
 Cloak DC +50, Expend 5 Less Nanites Per turn. Max turns +2
-Charge-Up time 5 actions
+Charge-Up time 5 Half-Actions
 10 DR
 30%
 
-Armour Cloaking Suit $3000
+Armour Cloaking Suit $2100
 Cloak DC -25, expend 5 extra nanites per turn.
 Cloaking DR is 25, uncloaked DR is 10
 30%
 
-Advanced Cloaking Suit $4500
+Advanced Armour Cloaking Suit $2560
 Expend 10 extra Nanites per turn.
 Charge-Up time 5 actions.
 Cloaking DR is 30, uncloaked DR is 15
