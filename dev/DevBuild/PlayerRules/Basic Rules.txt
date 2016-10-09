@@ -86,7 +86,8 @@ On levels 5, 9, 15 and 20, the stat point increase happens before any calculatio
 ==============================
 RP / Using Skills:
 ==============================
-
+|  |  |  |
+|po|<>|..|
 The GM may ask you to roll a certain skill to see if your character can do something. This may be something like "Roll Awareness to see if you spot the truck barreling towards you," or it might look like "Roll Medicine to see if you can patch up the gaping wound in your chest spewing blood." Anytime you need to Pass a Skill check, there will be a DC to overcome in order to successfully pass the check. Again: YOU MUST ROLL *OVER* A DC TO PERFORM A SKILL. the DC does not need to be given out by the GM, but if a DC seems too high, you have the right to grumble (but seriously, ask your GM if something seems too difficult. There is usually a reason why tying your shoe takes a DC of 70% on that particular day, etc). After you have rolled, please apply any and all relevant skills to your result. If you are rolling to silently take down an opponent, the GM can either have you roll a stealth check and an unarmed combat check, or double the DC, and have you roll once adding both modfiers. Also add any relevant Stat Bonuses to a roll. When rolling awareness, add your PER Bonus, etc.
 At any time out of combat, you may decide to use one of your skills. If you are not preasured by imminant / immediate danger, you may take a 100% to pass a skill check, then apply any ranks in the skill. When rushed by a time constraint or danger, you can take a 50% to pass a skill check, then apply any ranks in said skill. However, some checks cannot be passed in this way. If you are staring at a ship's blast doors, and want to kick them down, yeah . . . good luck with that.
 If you want to use a skill in combat, see the Combat: Actions subsection.
