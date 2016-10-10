@@ -31,33 +31,33 @@
     +3 secondary mag / 40mm grenade space.
 
     //Tactical and Combat helmets can hold NVGs, lights, radios, etc.
-    Kevlar Tactical Helmet $380
+    Kevlar Tactical Helmet $100
     5 DR, 30%
 
-    Carbon-Fiber Tactical Helmet $400
+    Carbon-Fiber Tactical Helmet $120
     10 DR, 30%
 
-    Kevlar Advanced Combat Helmet $430
+    Kevlar Advanced Combat Helmet $130
     5 DR, 35%
 
-    Carbon-Fiber Advanced Combat Helmet $450
+    Carbon-Fiber Advanced Combat Helmet $155
     10 DR, 35%
 
-    Kevlar Enhanced Combat Helemt $480
+    Kevlar Enhanced Combat Helemt $170
     5 DR, 40%
 
-    Carbon-Fiber Enhanced Combat Helmet $500
+    Carbon-Fiber Enhanced Combat Helmet $190
     10 DR, 40%
 
-    Kevlar Flight Helmet $580
+    Kevlar Flight Helmet $240
     5 DR, 50%
     A simple flight helmet. does not provide full seal, but can be paired with air- and space-craft external oxygen systems.
 
     //Environment helmets provide a full seal
-    Kevlar Environment Helmet $900
+    Kevlar Environment Helmet $350
     5 DR, 60%
 
-    Carbon-Fiber Environment Helmet $1000
+    Carbon-Fiber Environment Helmet $380
     10 DR, 60%
     
 /*========================================
