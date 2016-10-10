@@ -6,74 +6,88 @@
  * increasing physical combat effectiveness. Combat Suits on the
  * other hand offer better protection and many modular attachment 
  * points.
+ * Suits and frames are not water-proof, and will cease functioning
+ * if fully submerged. They are resistant to water, so rain and
+ * splashes of water will not affect them. However any amount of
+ * water pressure will breach the seals and fry the circuitry
+ * controlling the frame/suit.
  * Stat increase can affect any stat except Charisma or Luck.
  *================================================*/
 
 ==============================
 Combat Frames
+All combat frames incur a stealth penalty of -20%
+$500 per armament slot. $2000 per stat increase.
 ==============================
 
-Basic Frame:
+Basic Frame: $5000
     Armament:
      - 1 arm hardpoint
-     - 1 back slot
+     - 1 utility slot
     Augmentation:
      - DEX +1
      - STR +1
+    Max Subsystems: 2
 
-Advanced Frame:
+Advanced Frame: $7500
     Armament:
      - 2 arm hardpoints
-     - 1 sack slot
+     - 1 utility slot
     Augmentation:
      - Pick 1 stat and increase it by 2
      - Pick 1 stat and increase it by 1
+    Max Subsystems: 3
 
-Stealth Frame:
+Stealth Frame: $6000
     Armament:
-     - 
+     - 1 arm hardpoint
+     - 1 deployable sword
     Augmentation:
-
+     - DEX +2
+     - High quality fully-sealed servos and pneumatic actuators allow for flexible and precise movement with almost no discernable noise. No stealth penalty.
+    Max Subsystems: 3
 ==============================
 Combat Suits
+All combat suits incur a stealth penalty of -40%
+$500 per armament slot. $2000 per stat increase. Armour, shielding and cloaking charges apply as per normal calculation.
 ==============================
 
-Basic Suit:
+Basic Suit: $6700
     Armour:
-     - 20 DR
      - 100%
+     - 20 DR
      - 4 primary mags, 2 secondary mags
     Armament:
      - 1 arm hardpoint
      - 1 shoulder hardpoint
-     - 1 chest slot
-     - 1 back slot
+     - 2 utility slots
     Augmentation:
      - STR +2
      - Speed -1m
+    Max Subsystems: 4
 
-Heavy Suit:
+Heavy Suit: $10190
     Armour:
-     - 45 DR
      - 100%
+     - 45 DR
      6 primary mags, 3 secondary mags
     Armament:
      - 2 arm hardpoints
      - 2 shoulder hardpoints
-     - 1 chest slot
-     - 1 back slot
+     - 2 utility slots
     Augmentation:
      - STR +2
      - PER +1
      - Speed -2m
+    Max Subsystems: 6
 
-Recon Suit:
+Recon Suit: $11020
     Armour:
-     - 10 DR
      - 100%
+     - 10 DR
      - 4 primary mags 2 secondary mags
     Armament:
-     - 1 back slot
+     - 1 utility slot
     Augmentation:
      - DEX +2
      - 25m sensor array (+50 passive awareness, 25m)
@@ -83,9 +97,12 @@ Recon Suit:
         +15% stealth DC while activated.
         +3 turns of cloack per claock activation.
         minimum recharge rate of 2 turns between cloaks, even at higher levels.
+    Max Subsystems: 2 (including built in cloaking)
 
 ==============================
 Modular Additions
+All modular additions count towards the Subsystem
+limit of the suit (except armour, waterproofing, AMMM, and Augmentation Tuning).
 ==============================
 
 Arm Hardpoints:
@@ -108,7 +125,7 @@ Arm Hardpoints:
     Deployable Shield $200
         A .75m x 1m shield deploys from your arm.
         It may be used to provide partial cover, even when moving.
-    Mini Missles $4,240
+    Mini Missles $4240
         40m
         40%
         3 rockets, GG15x120 mini
@@ -125,72 +142,88 @@ Shoulder Hardpoints:
         80 dam (On hit, two "hits" occur).
         Reload DC 55%, 2 Full Actions.
         
-Back Slots:
-
-    Shield Generator, Class B: 12EP
+Utility Slots:
+    Shield Generator, Class A: $2900
+        Applies a shield with the following stats:
+        85%
+        100 Health
+        25 CS per turn of no hit. When depleted, 1 recalibration turn is required before recharging can begin.
+        
+    Shield Generator, Class B: $3400
         Applies a shield with the following stats:
         100%
         100 health
         25 CS per turn of no hit.
-    Shield Generator, Class C: 16EP
+        
+    Shield Generator, Class C: $3700
         Applies a shield with the following stats:
         100%
         150 health
         50 CS per turn of no hit.
-    Cloak Generator: 25EP
+        
+    Cloak Generator: $2300
         Basic Cloaking.
-    Improved Cloaking Generator: 35EP
+        
+    Improved Cloaking Generator: $2780
         Stealth DC +20%
         Cloak Duration +1 turn
         Cloak Cost: +5 nanites / turn
-    Upgraded Powerplant:
-        Allows more useage of suit abilities
-
-Chest Slots:
-
-    Shield Generator, Class A: 8EP
-        Applies a shield with the following stats:
-        100%
-        100 Health
-        25 CS per turn of no hit. When depleted, 1 recalibration turn is required before recharging can begin.
-    Improved Armour: 3EP
+        
+    Upgraded Powerplant: $600
+        Increase Subsystem count by 3.
+        
+    Advanced Powerplant: $1000
+        Increase Subsystem count by 5.
+        
+    Improved Suit Armour: $610
         +10 DR
-    Advanced Armour: 6EP
+        
+    Advanced Suit Armour: $700
         +20 DR
 
-Leg Enhancements:
+Leg Enhancements: (1 per frame/suit)
 
-    Enhanced Jumping: 4EP
+    Enhanced Jumping: $500
         Jump 2m vertically, 3m horizontally static.
-    Improved Jumping: 7EP
+    Improved Jumping: $900
         Jump 4m vertically, 5m horizontally static.
-    Enhanced Speed: 3EP
+    Enhanced Speed: $1000
         +1m/movement
-    Improved Speed: 5EP
+    Improved Speed: $2000
         +2m/movement
-    Advanced Speed: 8EP
+    Advanced Speed: $4000
         +4m/movement
 
-Foot Enhancements:
+Foot Enhancements: (1 per frame/suit)
 
-    Jet Boots (aids in jumping)
-    Climbing spikes:
+    Rocket Assist: $500
+        +1m jump height, +2m jump length
+    Climbing spikes: $200
+        +20% to climb checks.
 
-System Enhancements:
+System Enhancements: (Suits and Frames may have as many System enhancements as can be afforded, within the Subsystem limit of the suit.)
 
-    Advanced Waterproofing
-    Advanced Movement Management Module (AMMM): 4EP
+    Advanced Waterproofing: $1000
+        Can withstand up to 200 atmospheres of preasure (roughly 2km underwater), and also absolute vaccuum.
+    Advanced Movement Management Module (AMMM): $500
         Allows use of "speed" and "jump" enhancements simultaneously.
-    Autonomous Defensive CrpytoSys: 10EP
+    Autonomous Defensive CrpytoSys: $200
         Makes it harder to hack into suit.
         +20% to hacking DC for opponents.
-    Increased augmentation: 10EP
+    Augmentation Tuning: $2000 * number of stat bonuses.
         +1 to each augmentation listed.
-    Automatic weapon system:
-        Spend two Full Actions. for the next X turns, where X = Perception, your shoulder mounted weapon(s) will target and attack a number of opponents equal to your INT / 2 max.
-    Add ability:
-        Choose an ability from the list.
-
+    Tune-Up: $2000
+        Add a +1 stat modifier of your choice to your suit''s augments. Keep in mind that Charisma and Luck are exempt.
+    Enhanced Targeting module: $600
+        Negate the miss chance penalty on all installed weapons. They fire with their listed miss chance from the Weapons Document or Advanced Weapons Document.
+    
+    Basic AWES (Automatic Weapon Engaging System): $3000
+        Controls one shoulder mounted weapon system autonomously, providing free use of a shoulder mounted weapon. Add one Full Action per turn dedicated to the shoulder mounted weapon.
+        Shoulder mounted weapons do not fall under hip fire rules for accuracy and will fire at their listed miss chance.
+    
+    Enhanced AWES: $5000
+        Controls up to two shoulder mounted weapon system autonomously, providing free use of a shoulder mounted weapon. Add one Full Action per turn dedicated to each shoulder mounted weapon.
+        Shoulder mounted weapons do not fall under hip fire rules for accuracy and will fire at their listed miss chance.
 //===================================================================
 //Copyright 2016 Taylor Rowland
 //
