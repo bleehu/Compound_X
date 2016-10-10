@@ -102,3 +102,4 @@ Discuss Armor? [Taylor's got it]
 Moar Level 10 items
 New Feats!
 Need to rename skills in engineer process build picture
+Remove ammo types from weapons document, they should only be in the attatchments section

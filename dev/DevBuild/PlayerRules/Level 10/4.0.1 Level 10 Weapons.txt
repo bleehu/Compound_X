@@ -88,6 +88,19 @@ Minimum strength 6.
 Carbines & Battle Rifles
 Minimum Strength 5, Reload DC 25% unless otherwise noted. Reload time 2 Half Actions
 ============================================================
+ECSC AR-SOC C			$2440
+120m
+22%
+20 rounds 5.56 NATO
+50 damage
+
+Strudwick Arms LA75 Bullpup		$3100
+100m
+30%
+30 rounds 7.62 x 51 NATO
+62
+Never jams; if a 1 or 2 is rolled on fire, one round is fired normally, one 
+extra round is ejected like a shell casing. Minimum strength 6 to carry.
 
 Schroder G-25 $5810
 150m
@@ -98,8 +111,9 @@ A tremendous zap occurs as each bank of capacitors discharges in an instant, acc
 
 
 ============================================================
-Assault Rifles:
+Automatic Rifles:
 Minimum Strength 5, Reload DC 25% unless otherwise noted. Reload time 2 Half Actions
+Fire STR/3 shots per half action. Round down.
 ============================================================
 
 ECSC AR-SOC L               $2440
@@ -114,6 +128,16 @@ ECSC AR-SOC H 				$3720
 20%
 20 rounds 7.62x51 NATO
 62 damage
+
+Strudwick Arms LA85 Bullpup		$5240
+180m
+25%
+40 rounds 7.62x51 NATO
+72 damage + 2xBleeding
+Supporting Fire
+Minimum strength 7 to carry. 
+Never jams; if a 1 or 2 is rolled on fire, one round is fired normally, one 
+extra round is ejected like a shell casing. 
 
 Schroder G-25 $6780
 175m
