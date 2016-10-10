@@ -40,7 +40,24 @@ organic canaine) while leaving everything below that unchanged.
 ----------	Misc. Thrown Weapons:
 All thrown weapons inflict bleed damage.
 
+Carbide Kunai	$120 each
+3 Kunai take up a grenade slot in armor
+40%, 30% if skilled
+STR * 3 m range
+STR * 6 damage
++30 to stealth rolls to hide an attack with these thrown
 
+Plasma Catalyst Throwing Stars	$340
+5 Stars take up a grenade slot in user's armor
+35%, 25% if skilled
+DEX * 3 m range
+30 damage, 2 plasma burn tokens
+
+Plasma Catalyst Kunai	$360 each
+3 Kunai take up a grenade slot in armor
+40%, 30% if skilled
+STR * 4 m range
+30 damage, 3 plasma burn tokens
 
 ----------	Grenades:
 All grenades require a skill of at least 10 to use.
