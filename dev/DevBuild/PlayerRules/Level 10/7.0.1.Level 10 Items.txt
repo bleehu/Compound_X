@@ -63,7 +63,11 @@ STR * 4 m range
 All grenades require a skill of at least 10 to use.
 Targets can roll a luck or perception check at 95% in order to dodge.
 
-
+Vega LTL Flashcard		$180
+40% to land where inteanded
+STR * 5 m thrown
+if detonated in the open, has 15m blind/deafen range
+Enemy must pass 115% perception check to resist. Disregard feats.
 
 ----------	Health Items:
 
