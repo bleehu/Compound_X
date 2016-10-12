@@ -60,6 +60,10 @@ ECSC MK9 PDW				$3600//naming
 30 rounds 9mm
 40 damage
 
+Paralax DE-22 Ghostbuster	$7200
+
+doesn't jam; overheats burning user for 15 damage.
+
 Schroder K-35 $3500
 100m
 10%
@@ -74,6 +78,25 @@ Slug damage deals damage as a normal rifle would, dealing its full damage up to 
 Buck-Shot damage is dealt in 3 distinct distances, which are listed. All buck shot deals 2 bleed tokens to the target.
 Minimum Strength 4, Reload DC 30% unless otherwise noted. Reload time 3 Half Actions
 ============================================================
+
+Frontier Xenon AX-12	$9400
+Miss:	25%
+Capacity:	6 rounds
+Buckshot: 120 damage and 2 plasma burn tokens out to 3m,
+		90 and 1 plasma burn token out to 10m, 
+		60 and 1 plasma burn token out to 20m
+Slug: 80 damage and 1 plasma burn token out to 60m
+Plasma shells cost $60 each
+Pump Action
+Reloading only takes a half action, if reload roll is above 80% loads 3 shells, 
+if roll is below 30%, only loads 1 shell. Loads 2 shells otherwise. 
+//Devnotes
+Generic plasma shotgun. generated offline without access to price tool. 
+Personality is expensive, glowing and should be one of the most efficient ways for a
+player to disperse plasma at close range. Xenon is a nobel gas sometimes excited 
+to plasma state for use in Neon-like signs. ('cause it's a different color)
+devnotes will not be pushed to play branch
+//end devnotes
 
 Schroder C-6 $3220
 This Over-Under shotgun fires special Shotshells which each contain 3 caseless rounds. Loading is as simple as breaking open the barrels and inserting 1 shell into each barrel. Each round must be individually pumped into the rail chamber, leading to a unique break-barrel loaded, pump action firearm.
@@ -138,6 +161,16 @@ Supporting Fire
 Minimum strength 7 to carry. 
 Never jams; if a 1 or 2 is rolled on fire, one round is fired normally, one 
 extra round is ejected like a shell casing. 
+
+Frontier Neon APR-180		$11000
+160m
+28%
+24 rounds plasma bolt
+50 damage and 1 plasma burn token
+each clip costs $360
+//dev note
+generic plasma assault rifle. lower damage further and add one more burn token?
+//end dev note
 
 Schroder G-25 $6780
 175m
