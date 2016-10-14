@@ -6,6 +6,17 @@ Effects:
 Capacitant Shield (CS) burn: d10/2 damage for 2 turns (Does not stack). +5 dam against robotic units.
 //============================================================
 
+CS Edged Circular Saw $520
+Adjacent
+35%
+65 + CS Burn
+
+Plasma Torch $360
+Adjacent
+35%
+40 + Burn
+
+
 Grabber Knife: $200
 This knife is designed in such a way as to aid its user in grabbing the enemy. It has a large barb at the tip, is hook shaped, etc.
 Whenever you roll a successful grappling check, you may deal STR * 3 or DEX * 3 damage to your opponent.
@@ -35,6 +46,13 @@ Pistols:
 (All pistols are considered CQB Weapons)
 Minimum Strength 2, Reload DC 20 unless otherwise noted. Reload time 2 Half Actions.
 ============================================================
+
+ECSC Mk26 EVA $1140
+Similar to the ECSC EVA-C, the ECSC Mk9 EVA was developed for fighting in zero g, zero atmosphere environments and also fires caseless amunition.
+30m/70m
+35%
+15 rds, 10mm Caseless, HP only
+45/50
 
 Mathews Model .223 $1310
 75m
@@ -200,6 +218,14 @@ Frontier Laz-Rifle $2700
 35
 12kWatt increases damage by 10, decreases capacity to 20.
 Disregard Shields. Inflicts Stacking Burn damage.
+
+ECSC EVA-C $3675
+The ECSC Extravehicular Activity Carbine was developed to be used in zero gravity, zero atmosphere environments and fires a special 6.5mm caseless amunition. It has less range than traditional rifles while in atmosphere and gravity, and has far less penetration than most rifles. However, this means that it is capable of passing through a target without critical colateral damage while in an orbiting or deep-space platform. (Range and damage are represented as two values, In Atmosphere / Zero Atmosphere)
+55m / 150m
+35%
+25 rds, 6.5x40mm Caseless; HP only
+50/60
+CQB rifle
 
 Mathews HK-80 $3600
 120m
