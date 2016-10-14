@@ -80,7 +80,7 @@ Notifies the user of the target's range via an infrared laser beam. Useful for c
 (can be used in addition to another scope)
 
 IR scope $440
-Enables visibility in dark settings. This scope does not have any inherent magnification, and needs to be used in conjunction with a scope or dot site.
+Enables visibility in dark settings. This scope does not have any inherent magnification, and needs to be used in conjunction with a scope or dot sight.
 
 ====================
 Assistance Attachments
@@ -114,39 +114,40 @@ Barrel Attachments
 You may only choose one barrel type, and one barrel attachment.
 ====================
 
-Muzzle Break $80
+Muzzle Break $50
 Reduces Recoil from the gun, allowing for more accurate follow-up shots.
-Accuracy -5%
+Miss Chance -5%
+Does not apply to lasers, coilguns or plasma guns.
 
 Flash / Sound Suppressor $100
 Greatly reduces the muzzle flash and some of the weapon report from firing. Targets are not likely to see you or hear you when not particularly looking for you. When alerted to your presence, they are 60% less likely to find your position.
 Range - 10m
-Not useable on shotguns or HMGs
+Only applies to balistic weapons. Not useable on coilguns, shotguns or HMGs.
 
 Improved Flash / Sound Suppressor $300
 Completely removes muzzle flash and the weapon report. Targets cannot locate you due to firing your weapon.
 Range -20m
 Damage -5
-Not useable on Shotguns or HMGs
+Only applies to balistic weapons. Not useable on coilguns, shotguns or HMGs.
 
 Light Profile Barrel $100
 When a conventional ammunition weapon requires a STR check to carry or use, subtract 1 from the STR check.
-Hit DC +10%
+Miss Chance +10%
 
-Heavy Profile Barrel $120
+Heavy Profile Barrel $100
 This heavier barrel reduces recoil, increases the accuracy of follow-up shots.
-Accuracy -10%, STR +1
+Miss Chance -10%, STR +1
 
 ====================
 Lower Rail attachments
 You may only choose one of these. You may not use a Bipod in conjunction with any of these except the foregrips.
 ====================
 
-Vertical Foregrip $80
+Vertical Foregrip $50
 Increase weapon stability.
 Accuracy -5%
 
-Angled Foregrip $140
+Angled Foregrip $100
 Somehow better than a standard Foregrip.
 Accuracy -10%
 
@@ -178,7 +179,7 @@ If you drop your pistol, it''ll fall harmlessly to your leg level instead of dro
 Holstering your weapon is a free action. Drawing your pistol takes a full action next time.
 
 Two Point Sling $100
-You can use your sling to stabilize your grip arm. -5% accuracy.
+You can use your sling to stabilize your grip arm. -5% Miss Chance.
 Reduce strength needed by 1.
 
 One Point Sling $150
