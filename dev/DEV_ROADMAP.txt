@@ -1,0 +1,25 @@
+//====================
+DEV ROADMAP: Compound_X
+//====================
+
+Current Version: 1.5
+New features:
+Hacking has been improved, using a new node system that is explicit. //GMS take note that you will need to incorporate new things into your levels to accommodate this. Please read up on the hacking changes.
+Class improvements to Priest, Paladin, Warlock, Engineer, Marksman and Soldier.
+
+//--------------------
+Version 1.6:
+External Augments [Done]
+Level 10 Support
+    - Weapons
+    - Items
+    - Armour
+    - Attachments
+    - Feats
+    - Enemies
+GM Enemy documentation
+Bug Scrubbing / Sustaining playability
+
+//--------------------
+Version 1.6.1:
+Feat additions for lower levels
