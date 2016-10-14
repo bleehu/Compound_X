@@ -274,6 +274,74 @@ Any reinforced armour, the amount of Damage Reduction is rolled at the time of p
     40 DR
     100%
 
+/*========================================
+ * SHIELD UNITS
+ * Shields cover the wearer in a magnetic field which repels lasers
+ * and removes some of the brunt of plasma bolts. They are completely
+ * open to balistic fire, however. Traditionally a shield unit
+ * consists of a generator pack which is generally the size of a
+ * small backpack, and some Magnetic Field Stabilizers that extend
+ * over the areas of the body which would be covered by the shield.
+ * Once the shield's capacitor units are exhausted, the shield breaks
+ * and needs a while to recharge. If the user maintains their shield
+ * without letting it break, they can avoid the costly recharge time.
+ * The capacity of the field is dependant on the user mainly, but also varries depending on the shiled model.
+ *======================================*/
+    Class A, Basic $2500
+    Nanites/2 Capacity
+    70%
+    25 Nanites / turn
+    1 Full Actions recharge
+
+    Class B, Basic $3000
+    Nanites/2 Capacity
+    70%
+    50 Nanites / turn
+    1 Full Actions recharge
+
+    Class C, Basic $3100//2440
+    Nanites/1 Capacity
+    70%
+    50 Nanites / turn
+    1 Full-Action recharge
+
+    Class A, Improved $2775//2095
+    Nanites/2
+    85%
+    25 Nanites / turn
+    2 Full Actions
+
+    Class B, Improved $3275
+    Nanites/2
+    85%
+    50 Nanites / turn
+    2 Full Actions
+
+    Class C, Improved $3375
+    Nanites/1
+    85%
+    50 Nanites / turn
+    2 Full Actions
+
+    Class A, Advanced $3050
+    Nanites/2
+    100%
+    25 Nanites / turn
+    3 Full Actions
+
+    Class B, Advanced $3550
+    Nanites/2
+    100%
+    50 Nanites / turn
+    3 Full Actions
+
+    Class C, Advanced $3650
+    Nanites/1
+    100%
+    100 Nanites / turn
+    3 Full Actions
+
+
 
 /*========================================
  * NANITE CLOAKING ARMOURS
