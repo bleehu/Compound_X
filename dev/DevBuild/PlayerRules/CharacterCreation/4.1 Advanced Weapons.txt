@@ -20,7 +20,7 @@ Muzashi CS Edged Katana: $455
 Inflicts CS burn
 
 Plasma Sword: $560
-This sword emits a steady beam of plasma which can cut through almost anything (except titanium and stronger metals, stone, hardened CS).
+This sword emits a steady beam of plasma which can cut through almost anything (except titanium and stronger metals, stone, Nanite Shielding).
 2m
 40%
 40 + (6*DEX) + Plasma Burn
