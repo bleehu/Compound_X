@@ -9,12 +9,6 @@
 Passive Feats
 ====================
 
-Bulltrue:
-Prerequisites: Must have training in Shotguns
-If an enemy moves from being at least 4m from you to being less than 3m from you and you have a loaded shotgun drawn,
-you may fire at them as a free action. If the target is bloodied by the attack, they may not make a melee attack against you
-with their next half action.
-
 Backstab:
 Prerequisites: Level 3 and higher Assassins and Monks.
 Any damage dealt to an unaware opponent from behind deals Extra-Crit damage.
@@ -22,6 +16,12 @@ Any damage dealt to an unaware opponent from behind deals Extra-Crit damage.
 Blind Fire: 
 Prerequisites:
 There are so many bullets flying, you''d rather not peak your head out to look at your enemy. +65% firing Penalty, fire from a Hunkered position. Remove any buffs from Assisstance atachments, Aiming Attachments, and slings. (its reccomended to calculate this separate accuracy and write it down next to your regular accuracy)
+
+Bulltrue:
+Prerequisites: Must have training in Shotguns
+If an enemy moves from being at least 4m from you to being less than 3m from you and you have a loaded shotgun drawn,
+you may fire at them as a free action. If the target is bloodied by the attack, they may not make a melee attack against you
+with their next half action.
 
 Combat Expertise [Guns]: 
 Prerequisites:
