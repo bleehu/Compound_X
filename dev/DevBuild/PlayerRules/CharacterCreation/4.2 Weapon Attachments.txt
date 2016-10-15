@@ -14,51 +14,51 @@ Grenade Launcher Iron Sights $100
 1x Magnification. Allows better estimation of distances for use with grenade launcher.
 Underbarrel Grenade Launcher -10% miss chance.
 
-1x Dot Sight $100
+1x Dot Sight $130
 Your basic tube-shaped dot-projection. Dot can be changed from blue-green-red for various lighting situations and terrains.
 Accuracy -3%
 Range +10m
 
-1x Reflex Site $100
+1x Reflex Site $150
 A reflex-projected site, comprised of a light source and a single pane of 
 rectangular glass. Allows for smaller F.O.V. blockage. Has a small cross, 
 chevron, or dot as the indicator. Cannot be used on pistols
 Accuracy -5%
 Range +10m 
 
-1x Pistol Reflex Site $80
+1x Pistol Reflex Site $100
 A reflex-projected site, comprised of a light source and a single pane of 
 rectangular glass. Allows for smaller F.O.V. blockage. Has a small cross, 
 chevron, or dot as the indicator. Can only be used on pistols.
 Accuracy -5%
 Range +5m
 
-1.2x Hologramic projector $240
+1.2x Hologramic projector $250
 Projects a hologram target aquisition reticle, which compensates slightly 
 for windage or target movement. also artificially enhances view so as to 
 magnify by 120%. Cannot be used on pistols.
 Range +15m
 Accuracy -10%
 
-1.2x Pistol Hologramic projector $190
+1.2x Pistol Hologramic projector $150
 Projects a hologram target aquisition reticle, which compensates slightly
 for windage or target movement. also artificially enhances view so as to 
 magnify by 120%. Can only be used on pistols.
 Range +5m
 Accuracy -10%
 
-nx Magnifier for Dot Scopes n+$80
-A basic magnifying tube capable of increasing the effective range of a weapon.
+nx Magnifier for Dot Scopes $n*200
+A basic magnifying tube capable of increasing the effective range of a weapon. Flips out of the way for a half action.
 Must be paired with a dot sight.
 Range + (n*20)
 
-3.2x Scope $320
+3.2x Scope $500
 A heavy-duty tube made for heavy weapons and sustained automatic fire, but 
 would suit single-fire weapons just as well. Sports a black multi-chevron 
 reticle suitable for daytime brightlight use.
 Range + 50m, Minimum +10m.
 
-4x Scope $340
+4x Scope $750
 Range +75m, minimum +15m.
 Can only be used on Long Rifles, Carbines.
 
@@ -75,8 +75,11 @@ Can only be used on Long Rifles.
 Range +150m, minimum +35m
 Can only be used on Long Rifles.
 
+15-20x Scope $1000
+Enables high-precision rifles to make full use of their range.
+
 Range Finder $370
-Notifies the user of the target's range via an infrared laser beam. Useful for calculated bullet drop for a sniper. When a Sniper takes a full round to adjust it's scope''s windage or elevation due to distance, negate the full round and adjust the scope as a free action.
+Notifies the user of the target''s range via an infrared laser beam. Useful for calculated bullet drop for a sniper. When a Sniper takes a full round to adjust it''s scope''s windage or elevation due to distance, negate the full round and adjust the scope as a free action.
 (can be used in addition to another scope)
 
 IR scope $440
