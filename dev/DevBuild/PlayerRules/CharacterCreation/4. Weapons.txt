@@ -75,7 +75,7 @@ Effects:
 Plasma burn:  2d10 damage per turn (Stackable)
 Armor Piercing: rounds ignore 15 DR to armored targets (add 15 damage against armored targets); subtract 15 damage to unarmored targets.
 Hollow Point: add 15 damage to unarmored targets; subtract 15 damage to armored targets.
-Supporting Fire: On Hit, target is forced to take cover for one action (stackable), unless they pass a 70% FORT or INT check. If they pass the check, they negate the cover, but take an additional shot (roll for hit).
+Supporting Fire: On Hit, target is forced to take cover for one action (stackable), unless they pass a 70% FORT or INT check. If they pass the check, they negate the cover, but take an additional shot (roll for hit). Additionally, targets affected by supporting fire cannot make a reflex shot against anyone leaving cover.
 Penetrating Damage: Armored targets take an additional 5 damage, and will need special treatments to remove armor fragments from their bodies. Unarmored targets take an additional 5 damage due to special ballistics characteristics. Target gains Bleeding condition.
 Incendiary Round: target takes 2 * d10 explosive damage.
 Capacitive Sheilded rounds deal CS burn. +5 dam against robotic units.
@@ -367,7 +367,6 @@ Clips cost $120 each
 
 ============================================================
 Long Rifles:
-Due to high velocities used in long rifle bullets, when a target is under the minimum engagement range, they take 20 less damage because of hit-pre-acceleration, PointBlank penetration, etc.
 On all engagements farther than 200m, you must take 1 Full Action to adjust your scope for windage and elevation between targets of differing distance.
 Minimum 5 strength to carry. All targets are inflicted with "Pinned" condition when hit. Reload DC 30% unless otherwise noted. Reload time 3 Half Actions.
 ============================================================
