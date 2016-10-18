@@ -1,0 +1,52 @@
+"Marksman" - Your expert knowledge of bullet balistics, feel for physics and keen eyes have given you insight into the art of precision warfare.
+Passives: Gain sniping at 10. Long Rifles do not have minimum ranges imposed due to the use of a high-power scope. However, you will have to make a reflex save to fire at any targets that fall inside the traditional "minimum" range, so be sure to note what that range is.
+Weapon Proficiencies: Long rifles, Pistols.
+Armour Proficiencies: Recon, Light, Concealed.
+Class Feats:
+----------------------
+Pin Target
+Select a target. +25% to hit. On hit, target is Pinned. If the target attempts to move from their pinned cover, you may roll a DC 60 sniping skill check to hit them. For the remainder of the encounter, you get a +10% to hit the selected target. If your rifle has Pin listed as an attribute, then any time the selected target is pinned you may attack them reflexively if they move from their pinned cover. If the target dies you may select a new target.
+|
+|
+|
+V
+Multi-Pin
+You may pin up to PER targets at a time. +20% to hit a Pinned target.
+----------------------
+Tech Rounds
+Spend 10 nanites. Choose from the following list of effects:
+    Gas round: On hit, releases a cloud of gas 3m accross centered on the target. Any enemies inside this cloud take a +10% accuracy debuff for 1 turn, and 10 damage.
+    Flash round: On hit, a blinding light emenates from the target. All players within 5m of the target are stunned for 1 turn.
+    Shock round: On hit, electrifies the target, dealing an additional 10 damage (+ more for cybernetic units) and also paralyzes them, forfeiting their first Full-Action, FORT DC 50
+|
+|
+|
+V
+Tech Rounds II
+Spend 10 nanites. Choose from the following list of effects:
+    Thermite round: On hit, target takes 10 burning damage, and 10 points off of their armour Hit Percent. if the roll is less than 20% over, then the cover takes 20 damage.
+    Node round: Extend the range of a friendly Mechanic''s drone control to the hit enemy.
+    Drain round: Half damage dealt to the target''s Nanite pool.
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    

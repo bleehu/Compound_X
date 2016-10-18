@@ -13,12 +13,6 @@ Prerequisites: Dex 7, level 6 and Dual Weild feat
 Reduce the miss penalty from dual weilding to 10% each. Reduce the reload penalty to reloading to 10%.
 You may fire at more than one target at once for an additional 20% to miss penalty.
 
-Bulltrue:
-Prerequisites: Must have training in Shotguns
-If an enemy moves from being at least 4m from you to being less than 3m from you and you have a loaded shotgun drawn,
-you may fire at them as a free action. If the target is bloodied by the attack, they may not make a melee attack against you
-with their next half action.
-
 Backstab:
 Prerequisites: Level 3 and higher Assassins and Monks.
 Any damage dealt to an unaware opponent from behind deals Extra-Crit damage.
@@ -26,6 +20,12 @@ Any damage dealt to an unaware opponent from behind deals Extra-Crit damage.
 Blind Fire: 
 Prerequisites:
 There are so many bullets flying, you''d rather not peak your head out to look at your enemy. +65% firing Penalty, fire from a Hunkered position. Remove any buffs from Assisstance atachments, Aiming Attachments, and slings. (its reccomended to calculate this separate accuracy and write it down next to your regular accuracy)
+
+Bulltrue:
+Prerequisites: Must have training in Shotguns
+If an enemy moves from being at least 4m from you to being less than 3m from you and you have a loaded shotgun drawn,
+you may fire at them as a free action. If the target is bloodied by the attack, they may not make a melee attack against you
+with their next half action.
 
 Combat Expertise [Guns]: 
 Prerequisites:
@@ -266,6 +266,10 @@ Run double your movement distance for X # ofturns.
 Aimed Shot [10 Nanites]: 
 Prerequisites:
 Add an action to your normal Shooting time. During this time you concentrate on your target in order to deal crit damage on your next shot. This is akin to seeing a chink in armour and aiming for it, or shooting a target''s arm so they cannot use their weapon, etc.
+
+Bunker:
+Prerequisites: High-Technology class (Monk, Paladin, Adept, Priest) or Knowledge [Nanites] > 40
+Expend 25 Nanites, gain 25% to a piece of cover for 4 turns
 
 Combat Roll [40 Nanites]:
 Prerequisites: Dex of 5 or more

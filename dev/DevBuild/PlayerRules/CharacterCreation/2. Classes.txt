@@ -252,28 +252,37 @@ At the cost of 20 Nanites, you can summon Nanite-crystal blades. These blades ar
 V
 At the cost of 15 Nanites, your Nanite-Crystal Blades can be summoned. Damage dealt by these blades is always treated as Standard-Crit damage, in addition to any CS burns afflicted to the target. Blades appear at the users hand, wrist, etc. Blades can also appear with some momentum for RP purposes.
 
-//needs work
-"Marksman" - Your knowledge of bullet balistcs, experience at ranges, etc. has given you keen insight into firing a gun very, very accurately.
-Passives: Gain Sniping at 10 or Aimed shot at 10
-Weapon Proficiencies: Long Rifles, Pistols.
-Armour Proficiencies: Recon, Light, Concealed, Cloaking.
+"Marksman" - Your expert knowledge of bullet balistics, feel for physics and keen eyes have given you insight into the art of precision warfare.
+Passives: Gain sniping at 10. Long Rifles do not have minimum ranges imposed due to the use of a high-power scope. However, you will have to make a reflex save to fire at any targets that fall inside the traditional "minimum" range, so be sure to note what that range is.
+Weapon Proficiencies: Long rifles, Pistols.
+Armour Proficiencies: Recon, Light, Concealed.
 Class Feats:
 ----------------------
-Precise shot - 
-Your skill with a gun is such that you can pick a point on a target to hit. 50% to hit, no damage, but rather will affect the target. On fail, any percent under 50% (max 25] is added onto a normal shot for damage.
+Pin Target
+Select a target. +25% to hit. On hit, target is Pinned. If the target attempts to move from their pinned cover, you may roll a DC 60 sniping skill check to hit them. For the remainder of the encounter, you get a +10% to hit the selected target. If your rifle has Pin listed as an attribute, then any time the selected target is pinned you may attack them reflexively if they move from their pinned cover. If the target dies you may select a new target.
 |
 |
 |
 V
-25% to hit, or on hit affect enemy plus deal crit-2 damage
+Multi-Pin
+You may pin up to PER targets at a time. +20% to hit a Pinned target.
 ----------------------
-Exploit enemy - 
-Spend one action examining enemy, DC 50. On success, you find a critical weakness. This weakness can be hit for Extra-crit damage.
+Tech Rounds
+Spend 10 nanites. Choose from the following list of effects:
+    Gas round: On hit, releases a cloud of gas 3m accross centered on the target. Any enemies inside this cloud take a +10% accuracy debuff for 1 turn, and 10 damage.
+    Flash round: On hit, a blinding light emenates from the target. All players within 5m of the target are stunned for 1 turn.
+    Shock round: On hit, electrifies the target, dealing an additional 10 damage (+ more for cybernetic units) and also paralyzes them, forfeiting their first Full-Action, FORT DC 50
 |
 |
 |
 V
-Either spend one full action, and chance of success is 75%, or take a free action for 50%. Double crit damage to hit
+Tech Rounds II
+Spend 10 nanites. Choose from the following list of effects, activated on a successful hit:
+    Thermite round: Target takes 10 burning damage, and 10 points off of their armour Hit Percent. if the roll is less than 20% over, then the cover takes 20 damage.
+    Node round: Extend the range of a friendly Mechanic''s drone control to the hit enemy.
+    Drain round: Half damage dealt to the target''s Nanite pool.
+    Seeker round: Increase your crit range by 10%.
+    Denial of Service: Does not deal damage. Half of your standard damage may be used as a bonus to a friendly Priest''s hack 
 
 "Warlock" - None can quite understand the training you''ve undergone. What is known is that you have studied extensively with High Preists of the HoloNet or underneath a very powerful Sorcerer. You are capable of doing things with your nanites others couldn''t even dream of.
 Passives: Gain Sorcery at 20. Gain 100 Nanites.

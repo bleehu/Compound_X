@@ -26,47 +26,15 @@
  * Armour Additions and Helmets
  * These additions may be worn with or added to armour.
  *======================================*/
-    Primary Leg Rig $60
-    +2 primary mag space, not including price for mags.
-
-    Secondary Leg Rig $60
-    +3 secondary mag / 40mm grenade space.
 
     //Tactical and Combat helmets can hold NVGs, lights, radios, etc.
-    Kevlar Tactical Helmet $380
-    5 DR, 30%
-
-    Carbon-Fiber Tactical Helmet $400
-    10 DR, 30%
-
-    Kevlar Advanced Combat Helmet $430
-    5 DR, 35%
-
-    Carbon-Fiber Advanced Combat Helmet $450
-    10 DR, 35%
-
-    Kevlar Enhanced Combat Helemt $480
-    5 DR, 40%
-
-    Carbon-Fiber Enhanced Combat Helmet $500
-    10 DR, 40%
-
-    Kevlar Flight Helmet $580
-    5 DR, 50%
-    A simple flight helmet. does not provide full seal, but can be paired with air- and space-craft external oxygen systems.
 
     //Environment helmets provide a full seal
-    Kevlar Environment Helmet $900
-    5 DR, 60%
-
-    Carbon-Fiber Environment Helmet $1000
-    10 DR, 60%
     
 /*========================================
  * STANDARD BALISTIC ARMOURS
  *======================================*/
 
-Any reinforced armour, the amount of Damage Reduction is rolled at the time of purchase. A Carbon-Steel Fiber Titanium Reinforced armour plate might be anywhere from 26-35 DR for its lifetime, depending on what you roll when you purchase it. These armours are a bit of a gamble, since they may provide better protection than the next tier up, or they might only provide marginally better protection than the last tier.
 ///////////////////////////////////////////////////////////////////////////
 //Undersuits
 //Various undersuits exist, providing buffs to the wearer. Undersuits are
@@ -77,75 +45,15 @@ Any reinforced armour, the amount of Damage Reduction is rolled at the time of p
 //of place.
     //Flightsuits offer basic protection from the elements.
     //Traditionally come in Tan, Olive Drab, Wolf-Grey, Dark Earth, Black, Camo Patterns, etc.    
-    Polymer-Alloy flightsuit $1500
-    5 DR
-
-    Nano-steel Kevlar flightsuit $1750
-    10 DR
-
-    Carbon-Steel Fiber flightsuit $2000
-    15 DR
-
-    Carbon-Ceramic Fiber flightsuit $2250
-    20 DR
-
-    EOD Ceramic Nano Crystal armour $4000
-    60 DR
-    100%
-    Movement restricted to 3m per Full Action, or your max speed if less than 3. No use of melee, and regular actions take twice as long.
-    8 primary mags, 6 of combined secondary and grenades.
-    Oversuit. cannot be worn with an Undersuit.
-    15 DR all over body.
 
     //These environment suits are air- and water-tight when combined with an EVA helmet. They are bulky and any DEX skill-checks are at a -10% and movement is reduced in RP.
     //Traditionally come in white, yellow or red.
-    Polymer-Alloy flightsuit
-    This basic environment suit offers no balistic protection. When shot, the suit will decompress or compress, as necessary.
-
-    Nano-steel Kevlar environment suit $5000
-    10 DR
-    Suit integrity: 5 shots
-
-    Carbon-Steel Fiber environment suit $5500
-    15 DR
-    Suit integrity: 10 shots
-
-    Carbon-Ceramic Fiber environment suit $6000
-    20 DR
-    Suit integrity: 20 shots
 
 ///////////////////////////////////////////////////////////////////////////
 //Concealed Setups
 //Offering slightly worse protection and armament for the price, but with
 //the bonus of being concealable under a coat or jacket for clandestine or
 //stealth oriented operations.
-    
-    Runner''s Kit: $20
-        Conceal Rig, Shoulder Harness
-            Pistol Holster, 2 Pistol mags
-            cannot be worn with plate carriers, soft armour, or tactical vests.
-        
-    Gunner Kit: $100
-        Trauma Plate Vest
-            Holds 1 trauma plate in the front. 35% coverage, 15 DR. Concealable.
-        Conceal Rig, Shoulder Harness
-            Pistol Holster, 2 Pistol mags
-            cannot be worn with plate carriers, soft armour, or tactical vests.
-    
-    Enforcer Kit: $110
-        Trauma Plate Vest
-            Holds 1 trauma plate in the front. 35% coverage, 15 DR. Concealable.
-        Conceal Rig, Waist
-            Pistol Holster or 2 primary mags, 2 secondary mags
-    
-    Clandestine Ops Kit: $120
-        Trauma Plate Vest
-            Holds 1 trauma plate in the front. 35% coverage, 15 DR. Concealable.
-        Conceal Rig, Waist
-            Pistol Holster or 2 primary mags, 2 secondary mags
-        Conceal Rig, Shoulder Harness
-            Pistol Holster, 2 Pistol mags
-            cannot be worn with plate carriers, soft armour, or tactical vests.
     
 ///////////////////////////////////////////////////////////////////////////
 //Recon Armour Setups:
@@ -154,60 +62,16 @@ Any reinforced armour, the amount of Damage Reduction is rolled at the time of p
 // received during each)
 //3 primary mags, 2 secondary mags, 1 grenade.
     
-    Kevlar Vest $60
-        60%
-        10 DR
-    
-    Carbon-Steel Fiber, $180
-        60%
-        20 DR
-    
-    Carbon-Steel Fiber, reinforced, $220
-        60%
-        15 + d10 DR
-    
 ///////////////////////////////////////////////////////////////////////////
 //Light Armour Setups:
 //A "Chest Rig" which holds one front plate and some gear.
 //4 primary mags, 4 of combined secondary mags and grenades.
-    
-    Steel Plate, $120
-        30%
-        10 DR
-    
-    Steel Plate, reinforced, $130
-        30%
-        5 + d10 DR
-        
-    Ceramic Plate, $340
-        30%
-        20 DR
-    
-    Ceramic Plate, Steel backed $360
-        30%
-        15 + d10 DR
-    
+
 ///////////////////////////////////////////////////////////////////////////
 //Medium Armour Setups:
 //A smaller plate carrier which holds a moderate amount of gear.
 //6 primary mags, 5 of combined secondary mags and grenades.
-    
-    Ceramic Plate, $390
-        60%
-        20 DR
-        
-    Ceramic Plate, Steel backed, $440
-        60%
-        15 + d10 DR
-        
-    Carbon-Steel Fiber, $500
-        60%
-        30 DR
-        
-    Carbon-Steel Fiber, Titanium backed,  $550
-        60%
-        25 + d10 DR
-    
+
 ///////////////////////////////////////////////////////////////////////////
 //Heavy Armour Setups:
 //A hefty plate carrier which holds front, back and side plates as well as
@@ -215,66 +79,65 @@ Any reinforced armour, the amount of Damage Reduction is rolled at the time of p
 //8 primary mags, 6 of combined secondary mags and grenades.
 //With side plates included (any armour listed as 80% coverage) take a -1m movement speed penalty.
     
-    Ceramic Plate $420
-        60%
-        15 DR
-        
-    Ceramic Plate $470
-        80%
-        15 DR
-        
-    Ceramic Plate, Steel backed, $450
-        60%
-        10 + d10 DR
-        
-    Ceramic Plate, Steel backed, $500
-        80%
-        10 + d10 DR
+    //Ceramic Plate
+
     //Carbon-Steel Fiber    
-    Carbon-Steel Fiber, $500
-        60%
-        30 DR
-        
-    Carbon-Steel Fiber, $560
-        80% 
-        30 DR
-        
-    Carbon-Steel Fiber, Titanium backed, $530
-        60%
-        25 + d10 DR
-        
-    Carbon-Steel Fiber, Titanium backed, $590
-        80%
-        25 + d10 DR
-    //Ceramic    
-    Ceramic Nano-Crystal, $590
-        60%
-        40 DR
-        
-    Ceramic Nano-Crystal, $660
-        80%
-        40 DR
-        
-    Ceramic Nano-Crystal, Titanium backed, $650
-        60%
-        35 + d10 DR
-        
-    Ceramic Nano-Crystal, Titanium backed, $720
-        80%
-        35 + d10 DR
+
+    //Ceramic Nano-Crystal  
 
 ///////////////////////////////////////////////////////////////////////////
 //Full Armor:
 //Covers the front of your chest, your back, your sides, shoulders, neck, pelvic region, and tops of your legs.
 //8 primary mags, 6 of combined secondary and grenades.
 
-    Carbon-Steel Fiber $800
-    30 DR
+/*========================================
+ * SHIELD UNITS
+ * Shields cover the wearer in a magnetic field which repels lasers
+ * and removes some of the brunt of plasma bolts. They are completely
+ * open to balistic fire, however. Traditionally a shield unit
+ * consists of a generator pack which is generally the size of a
+ * small backpack, and some Magnetic Field Stabilizers that extend
+ * over the areas of the body which would be covered by the shield.
+ * Once the shield's capacitor units are exhausted, the shield breaks
+ * and needs a while to recharge. If the user maintains their shield
+ * without letting it break, they can avoid the costly recharge time.
+ * The capacity of the field is dependant on the user mainly, but also varries depending on the shiled model.
+ *======================================*/
+    Class A, Multi-capacitor Array Mesh [MCAM] $3095
+    Nanites/2 capacity
+    85%
+    35 Nanites / turn
+    1 Half Action
+
+    Class B, MCAM $3515
+    Nanites/2 capacity
+    85%
+    70 Nanites / turn
+    1 Half-Action
+
+    Class C, MCAM $3615
+    Nanites/1 capacity
+    85%
+    70 Nanites / turn
+    1 Half-Action
+
+    Class D, Advanced $3900
+    Nanites/1 capacity
     100%
-    
-    Ceramic Nano-Crystal $1200
-    40 DR
+    75 Nanites/turn
+    3 Full Actions
+
+    Muzashi O-Yoroi $4000
+    Nanites/1 capacity
     100%
+    75 Nanites/turn
+    1 Full Action recharge
+
+
+ /*========================================
+ * SHIELDED ARMOUR
+ *======================================*/
+
 
 
 /*========================================

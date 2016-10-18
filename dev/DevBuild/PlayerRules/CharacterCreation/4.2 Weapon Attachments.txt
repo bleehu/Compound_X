@@ -14,51 +14,51 @@ Grenade Launcher Iron Sights $100
 1x Magnification. Allows better estimation of distances for use with grenade launcher.
 Underbarrel Grenade Launcher -10% miss chance.
 
-1x Dot Sight $100
+1x Dot Sight $130
 Your basic tube-shaped dot-projection. Dot can be changed from blue-green-red for various lighting situations and terrains.
 Accuracy -3%
 Range +10m
 
-1x Reflex Site $100
+1x Reflex Site $150
 A reflex-projected site, comprised of a light source and a single pane of 
 rectangular glass. Allows for smaller F.O.V. blockage. Has a small cross, 
 chevron, or dot as the indicator. Cannot be used on pistols
 Accuracy -5%
 Range +10m 
 
-1x Pistol Reflex Site $80
+1x Pistol Reflex Site $100
 A reflex-projected site, comprised of a light source and a single pane of 
 rectangular glass. Allows for smaller F.O.V. blockage. Has a small cross, 
 chevron, or dot as the indicator. Can only be used on pistols.
 Accuracy -5%
 Range +5m
 
-1.2x Hologramic projector $240
+1.2x Hologramic projector $250
 Projects a hologram target aquisition reticle, which compensates slightly 
 for windage or target movement. also artificially enhances view so as to 
 magnify by 120%. Cannot be used on pistols.
 Range +15m
 Accuracy -10%
 
-1.2x Pistol Hologramic projector $190
+1.2x Pistol Hologramic projector $150
 Projects a hologram target aquisition reticle, which compensates slightly
 for windage or target movement. also artificially enhances view so as to 
 magnify by 120%. Can only be used on pistols.
 Range +5m
 Accuracy -10%
 
-nx Magnifier for Dot Scopes n+$80
-A basic magnifying tube capable of increasing the effective range of a weapon.
+nx Magnifier for Dot Scopes $n*200
+A basic magnifying tube capable of increasing the effective range of a weapon. Flips out of the way for a half action.
 Must be paired with a dot sight.
 Range + (n*20)
 
-3.2x Scope $320
+3.2x Scope $500
 A heavy-duty tube made for heavy weapons and sustained automatic fire, but 
 would suit single-fire weapons just as well. Sports a black multi-chevron 
 reticle suitable for daytime brightlight use.
 Range + 50m, Minimum +10m.
 
-4x Scope $340
+4x Scope $750
 Range +75m, minimum +15m.
 Can only be used on Long Rifles, Carbines.
 
@@ -75,12 +75,15 @@ Can only be used on Long Rifles.
 Range +150m, minimum +35m
 Can only be used on Long Rifles.
 
+15-20x Scope $1000
+Enables high-precision rifles to make full use of their range.
+
 Range Finder $370
-Notifies the user of the target's range via an infrared laser beam. Useful for calculated bullet drop for a sniper. When a Sniper takes a full round to adjust it's scope''s windage or elevation due to distance, negate the full round and adjust the scope as a free action.
+Notifies the user of the target''s range via an infrared laser beam. Useful for calculated bullet drop for a sniper. When a Sniper takes a full round to adjust it''s scope''s windage or elevation due to distance, negate the full round and adjust the scope as a free action.
 (can be used in addition to another scope)
 
 IR scope $440
-Enables visibility in dark settings. This scope does not have any inherent magnification, and needs to be used in conjunction with a scope or dot site.
+Enables visibility in dark settings. This scope does not have any inherent magnification, and needs to be used in conjunction with a scope or dot sight.
 
 ====================
 Assistance Attachments
@@ -114,39 +117,40 @@ Barrel Attachments
 You may only choose one barrel type, and one barrel attachment.
 ====================
 
-Muzzle Break $80
+Muzzle Break $50
 Reduces Recoil from the gun, allowing for more accurate follow-up shots.
-Accuracy -5%
+Miss Chance -5%
+Does not apply to lasers, coilguns or plasma guns.
 
 Flash / Sound Suppressor $100
 Greatly reduces the muzzle flash and some of the weapon report from firing. Targets are not likely to see you or hear you when not particularly looking for you. When alerted to your presence, they are 60% less likely to find your position.
 Range - 10m
-Not useable on shotguns or HMGs
+Only applies to balistic weapons. Not useable on coilguns, shotguns or HMGs.
 
 Improved Flash / Sound Suppressor $300
 Completely removes muzzle flash and the weapon report. Targets cannot locate you due to firing your weapon.
 Range -20m
 Damage -5
-Not useable on Shotguns or HMGs
+Only applies to balistic weapons. Not useable on coilguns, shotguns or HMGs.
 
 Light Profile Barrel $100
 When a conventional ammunition weapon requires a STR check to carry or use, subtract 1 from the STR check.
-Hit DC +10%
+Miss Chance +10%
 
-Heavy Profile Barrel $120
+Heavy Profile Barrel $100
 This heavier barrel reduces recoil, increases the accuracy of follow-up shots.
-Accuracy -10%, STR +1
+Miss Chance -10%, STR +1
 
 ====================
 Lower Rail attachments
 You may only choose one of these. You may not use a Bipod in conjunction with any of these except the foregrips.
 ====================
 
-Vertical Foregrip $80
+Vertical Foregrip $50
 Increase weapon stability.
 Accuracy -5%
 
-Angled Foregrip $140
+Angled Foregrip $100
 Somehow better than a standard Foregrip.
 Accuracy -10%
 
@@ -178,7 +182,7 @@ If you drop your pistol, it''ll fall harmlessly to your leg level instead of dro
 Holstering your weapon is a free action. Drawing your pistol takes a full action next time.
 
 Two Point Sling $100
-You can use your sling to stabilize your grip arm. -5% accuracy.
+You can use your sling to stabilize your grip arm. -5% Miss Chance.
 Reduce strength needed by 1.
 
 One Point Sling $150

@@ -1,9 +1,9 @@
 This Document outlines some modified weapons. Feel free to use these set-ups on your own weapon.
 
 ====================
-ECSC Mk12 Mod 1 DMR 24EP
+ECSC Mk12 Mod 1 DMR $
 ====================
-ECSC Mk12 Mod 0 9EP
+ECSC Mk12 Mod 0 $3500
 20-200m
 30%
 20 rds, 5.56x45mm Rifle Magazine; FMJ
@@ -11,7 +11,7 @@ ECSC Mk12 Mod 0 9EP
 --------------------
 Additions:
 --------------------
-4x Scope                6EP
+4x Scope                $340
 Bipod                   2EP
 Muzzle Break            2EP
 Heavy Profile Barrel    3EP
