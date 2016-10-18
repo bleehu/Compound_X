@@ -21,7 +21,7 @@ Gun ideas:
 
 Demoman range needs nerfing desperately [fixed]
 
-Blitzcrank melee weapon?
+Blitzcrank melee weapon?[chains baby!]
 
 New hacking system needed	[fixed]
 
@@ -90,16 +90,19 @@ Add feat for shotgun [added in dev]
 Add feat for Carbine [added in dev]
 Bar classes from weapon feats: Pilot, Assassin, Warlock, Monk, Beserker, Soldier, Priest [double checked]
 
-We still have EP? [fixed in dev]
+We still have EP?
 Level 10 Items [added some]
 Level 10 Weapons
 Level 10 Weapon attatchments
 Level 10 Armor
 Level 10 Spells
-Discuss Armor? [Taylor's got it]
+Discuss Armor
 
 =====================	Ongoing Dev	===========
 Moar Level 10 items
 New Feats!
-Need to rename skills in engineer process build picture
+Need to rename skills in engineer process build picture[check]
 Remove ammo types from weapons document, they should only be in the attatchments section
+Bleedout rules
+Adept nerfs
+Sheild rules?

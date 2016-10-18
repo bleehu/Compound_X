@@ -8,6 +8,10 @@
 ====================
 Passive Feats
 ====================
+Akimbo:
+Prerequisites: Dex 7, level 6 and Dual Weild feat
+Reduce the miss penalty from dual weilding to 10% each. Reduce the reload penalty to reloading to 10%.
+You may fire at more than one target at once for an additional 20% to miss penalty.
 
 Bulltrue:
 Prerequisites: Must have training in Shotguns
@@ -62,6 +66,15 @@ Double Tap:
 Prerequisites:
 Increase your crit range by 10%. Whenever your hit falls into crit range, expend an additional bullet in order to deal 2x crit damage. Only Useable with Semi-Auto or Full auto weapons. Not applicable to SA Revolvers, Bolt Action, Pump-Action, etc.
 
+Dual Weild:
+Prerequisites: Dex 6
+Maybe you've got a bigger corpus colocum and your right brain and left brain are in higher synch than
+most people; or maybe you've seen too many John Woo holomovies. Either way, you've managed to 
+effectively fight using a weapon in each hand. The weapons must be from the same weapon class (i.e. 
+either two pistosl, two melee weapons, etc). While weilding dual weapons, you may fire both at the
+same time at the same target with a +30% to miss with both of them. You may not target more than one
+target at a time. Reloading while dual weilding adds 20% to the difficulty.
+
 Empty the Mag: 
 Prerequisites:
 It happens. You aren''t quite sure if you can hit your target perhaps, or maybe you round that corner and are staring down the barrel of an enemy AR-68. Whatever the case, you need to dump the mag in their face to guarantee your safety. Roll to pass a DC 30% dex check. on success, you may fire off the remainder of your clip or magazine (Applies only to semi- and fully-automatic weapons, maximum 10 shots). Roll hits for each shot. Using this feat takes 3 half actions, and must be completed in the span of one turn. After using this feat, the user must reload their weapon for it to be effective again. Can only be used once per encounter, LVL number of times per day. At level 5 and beyond, can be used twice per encounter.
@@ -96,7 +109,7 @@ You do not take a penalty when using an improvised weapon. Chair legs can be use
 
 Last Shot Counts: 
 Prerequisites:
-The last shot in every mag deals Extra`-Crit damage, but your reload DC is twice as high.
+The last shot in every mag deals Extra-Crit damage, but your reload DC is twice as high.
 
 Leaf on the wind:
 Prerequisite: Pilot or 40 skill in piloting

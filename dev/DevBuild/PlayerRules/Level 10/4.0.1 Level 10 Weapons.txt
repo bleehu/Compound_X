@@ -61,8 +61,13 @@ ECSC MK9 PDW				$3600//naming
 40 damage
 
 Paralax DE-22 Ghostbuster	$7200
-
+60m
+20%
+30 exposure battery
+35 laser damage
 doesn't jam; overheats burning user for 15 damage.
+
+
 
 Schroder K-35 $3500
 100m
