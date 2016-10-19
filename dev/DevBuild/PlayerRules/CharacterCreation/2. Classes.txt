@@ -6,7 +6,7 @@ Core classes:
  *==================================================*/
 
 "Soldier" - You have the blood of a warrior flowing through you. Your sole purpose is to fight until the threat is neutrilized.
-Passives: Gain Weapon Use(X) at 10, Gain a +15 to Rolls for initiative (you go first more often).
+Passives: Gain Weapon Use[X] at 10, Gain a +15 to Rolls for initiative. (you go first more often).
 Weapon Proficiencies: Pistols, Submachine guns, Carbines and Battle Rifles, Shotguns, Automatic Rifles.
 Armour Proficiencies: Light, Medium, Heavy.
 Class Feats:
@@ -30,7 +30,7 @@ Make a FORT save at 50% to ignore an enemy damage. Remove one action next turn t
 V
 Fort save is at 75%, or you take 1/3 of damages dealt
 
-"Specialist" - There is always a need for the type of person willing and able to bring the heaviest of fire down upon their enemies. The Specialist will be there when the odds are stacked highest against the forces for good, and he'll be prepared to use heavy force to even those odds.
+"Specialist" - There is always a need for the type of person willing and able to bring the heaviest of fire down upon their enemies. The Specialist will be there when the odds are stacked highest against the forces for good, and he''ll be prepared to use heavy force to even those odds.
 Gain Thrown Weapons at 10.
 Weapon Proficiencies: Pistols, Carbines and Battle Rifles, Heavy Weapons.
 Armour Proficiencies: Light, Medium, Heavy, Full, Concealed.
@@ -271,7 +271,7 @@ Tech Rounds
 Spend 10 nanites. Choose from the following list of effects:
     Gas round: On hit, releases a cloud of gas 3m accross centered on the target. Any enemies inside this cloud take a +10% accuracy debuff for 1 turn, and 10 damage.
     Flash round: On hit, a blinding light emenates from the target. All players within 5m of the target are stunned for 1 turn.
-    Shock round: On hit, electrifies the target, dealing an additional 10 damage (+ more for cybernetic units) and also paralyzes them, forfeiting their first Full-Action, FORT DC 50
+    Shock round: On hit, electrifies the target, dealing an additional 10 damage + more for cybernetic units and also paralyzes them, forfeiting their first Full-Action, FORT DC 50
 |
 |
 |
@@ -291,20 +291,20 @@ Armour Proficiencies: Light.
 Feats: (Damage buffs do not stack. Damage buffs based on first feat taken.)
 ----------------------
 Battle-Mage:
-Gain [Level/5) * 50 Nanites; Spend two Full Actions to meditate. Regain a number of Nanites equal to the result - 40, Knowledge [Nanites]. All spell damage dealt is increased by 5 per 2 Warlock levels.
+Gain [Level/5] * 50 Nanites; Spend two Full Actions to meditate. Regain a number of Nanites equal to the result - 40, Knowledge [Nanites]. All spell damage dealt is increased by 5 per 2 Warlock levels.
 |
 |
 |
 V
-Gain [Level/5)* 50 Nanites; Spend two Full Actions to meditate. Regain a number of Nanites equal to the result, Knowledge [Nanites] + 10 * your Warlock levels. All Spell Damage is increased by 5 per Warlock Level.
+Gain [Level/5]* 50 Nanites; Spend two Full Actions to meditate. Regain a number of Nanites equal to the result, Knowledge [Nanites] + 10. All Spell Damage is increased by 5 per Warlock Level.
 -----------------------
 Sorcerer:
-Gain [Level/5)* 50 Nanites; Pick a classification of spells. All spells in this class cost 10 Nanites less to cast. Any damage dealt or health restored is increased by 10.
+Gain [Level/5]* 50 Nanites; Pick a classification of spells. All spells in this class cost 10 Nanites less to cast. Any damage dealt or health restored is increased by 10.
 |
 |
 |
 V
-Gain [Level/5)* 50 Nanites; All spells in this school cost 20 Nanites less to cast. Any damage dealt or health restored is increased by 20
+Gain [Level/5]* 50 Nanites; All spells in this school cost 20 Nanites less to cast. Any damage dealt or health restored is increased by 20
 
 "Beserker" - As an afficionado of the combat arts, you understand how important tactile feedback is. Guns simply don''t offer the appropriate ammount, which is why you prefer to BEAT YOUR ENEMIES TO DEATH USING YOUR BARE HANDS WHENEVER POSSIBLE!!!!!!!!!!!!!!!!!!!! MORE EXCLIMATION MARKS!!!!!!!!!!!!!!!! 
 Passives: -1 to Luck and Intelligence, +1 to Strength and Fortitude. Expert unarmed.

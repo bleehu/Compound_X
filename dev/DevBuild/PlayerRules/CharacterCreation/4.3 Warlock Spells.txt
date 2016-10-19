@@ -14,7 +14,7 @@ YOU''D LIKE ADDED IN.
 //more spells.
 
 By spending much time researching, meditating, and practicing, a warlock can increase the power with which they cast their spells. Each level, warlocks gain a number of spell points equal to half their intelligence. One point can be put into each spell per level. Each spell can have 5 points put into it, unless otherwise noted. Spells within the tree are unlocked once the listed number of spell points have been spent. For example, if the "Progression Cost" is 3, you must spend 3 points on the prior spell, then the next spell is unlocked and you must put points into it to increase its potency.
-In each spell description, the effect is increased based on the number of spell points used to advance the spell. These are referred to as Progression Levels, or P.Levels. Even after unlocking spells further along the tree, you can advance earlier spells. Some spells age better than others with age.
+In each spell description, the effect is increased based on the number of spell points used to advance the spell. These are referred to as Progression Levels, or P.Levels. Even after unlocking spells further along the tree, you can advance earlier spells. Some spells age better than others.
 
 Spells are written in the following format:
 Spell Name [Nanite Cost]: Description of effects.
@@ -55,12 +55,12 @@ Cure Heavy Wounds [70]: Restore P.Lvl*20 + 55 Health.
 Stabalize [X]: Spend X Nanites, where X is the DC to stabalize the target. The target is no longer dying, but is not restored any health. Touch Spell.
 
 //lasts encounter, depleted, or some amount of time.
-Mage Armour [X]: Gain a nanite shield. Shield = [X nanites] * P.Lvl. Touch effect. Max X = 20+(5*Lvl) Can be used P.Lvl # times per encounter. Add 20 to shield when used on an ally.
+Mage Armour [X]: Gain a nanite shield, 100% coverage of body. Shield = [X nanites]. Touch effect. Max X = 30+(10*P.Lvl) Can be used P.Lvl # times per encounter. Add 20 to shield when used on an ally.
 |
 | 3
 |
 V
-Improved Mage Armour [X]: Gain a nanite shield. Shield = [X nanites] * P.Lvl, Plus gain 5*P.Lvl D.R. The damage reduction is broken after first being used. Touch Effect. Max X = (10*Lvl)
+Improved Mage Armour [X]: Gain a nanite shield. Shield = [X nanites], Plus gain 5*P.Lvl D.R. The damage reduction is broken when the shield breaks. Touch Effect. Max X = 40+(12*P.Lvl). Can be used Level # times per encounter. Add 30 to shield when used on an ally.
 
 Thunderstomp [30]: All targets in a 8m radius must pass a Shock Saving Throw or are tripped. DC = 20 + 5 * P.Lvl.
 |
@@ -112,7 +112,7 @@ Lightning Bolt [40]: Deal 20 + P.Lvl*10 Shock Damage, with 30% chance to stun ta
 | 2
 |
 V
-Chain Lightning [50]: Hits target, plus anyone within P.Lvl*5m from target for damage. 35% chance to stun.
+Chain Lightning [50]: Hits target, plus can jump to any one target P.Lvl meters away. Make up to P.Lvl + 1 jumps.
 |
 | 2
 |

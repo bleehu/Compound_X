@@ -201,6 +201,10 @@ The first time this feat is taken, enemies shot at must pass a Shock DC of 30 in
     - Opponent movement reduced by 5m for 1 turn
     - -20% on a hit against the enemy on your next shot if they move after suppression.
 
+Tele-Cast
+Prerequisites: Paladin, Warlock
+You may use a mellee weapon to perform touch effect spells.
+
 Toughness: 
 Prerequisites:
 Roll a number of dice equal to your FORT / 5 (round up) + 1 and take the result in extra hit points, or take the average of the result (1d10 = 5, 2d10 = 10, can be taken twice).
