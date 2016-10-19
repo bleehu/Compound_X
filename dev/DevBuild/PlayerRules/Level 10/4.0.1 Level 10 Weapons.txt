@@ -65,7 +65,7 @@ Paralax DE-22 Ghostbuster	$7200
 20%
 30 exposure battery
 35 laser damage
-doesn't jam; overheats burning user for 15 damage.
+doesn''t jam; overheats burning user for 15 damage.//overheats when?
 
 
 
@@ -119,7 +119,7 @@ Minimum Strength 5, Reload DC 25% unless otherwise noted. Reload time 2 Half Act
 ECSC AR-SOC C			$2440
 120m
 22%
-20 rounds 5.56 NATO
+20 rounds 5.56 x 45 NATO
 50 damage
 
 Strudwick Arms LA75 Bullpup		$3100
@@ -147,14 +147,14 @@ Fire STR/3 shots per half action. Round down.
 ECSC AR-SOC L               $2440
 130m
 25%
-30 rounds 5.56
+30 rounds 5.56 x 45 NATO
 50 damage
 
 
 ECSC AR-SOC H 				$3720
 150m
 20%
-20 rounds 7.62x51 NATO
+20 rounds 7.62 x 51 NATO
 62 damage
 
 Strudwick Arms LA85 Bullpup		$5240
