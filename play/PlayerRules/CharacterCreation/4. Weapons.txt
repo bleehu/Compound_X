@@ -29,7 +29,7 @@ Hand to Hand (Expert): (Requires Combat Expertise [Melee] and unarmed skill, or 
 2m
 25%
 50 + (STR+ or DEX+)
-50% disarm (unless weapon is part of target). Can use disarm to grapple an opponent using their weapon's sling.
+50% disarm (unless weapon is part of target). Can use disarm to grapple an opponent using their weapon''s sling.
 
 //Edged Weapons:
 
@@ -53,7 +53,6 @@ CS Edged Knife: $200
 40%
 7 * (STR or DEX) + CS burn
 Ignore armour percents, Inflict CS burn. If target has Capacitant Shield armour, CS burn is canceled and all damage is inflicted to the shield, unless the shield is completely discharged.
-
 
 CS Edged Combat Sword: $400
 2m (adjacent)
@@ -80,6 +79,11 @@ Penetrating Damage: Armored targets take an additional 5 damage, and will need s
 Incendiary Round: target takes 2 * d10 explosive damage.
 Capacitive Sheilded rounds deal CS burn. +5 dam against robotic units.
 Bleeding: The target has sustained a heavy hit that must be patched up. Target takes d10/2 damage per turn until they pass a medical skill roll at DC of the damage sustained.
+
+Magazines: Damage*Rounds/100, rounded. 10% tax for lasers, 20% tax for plasma.
+ECSC Mk9 Auto mags cost $4
+Anvil Arms KMR box cost $50
+
 
 ============================================================
 Pistols:
@@ -304,7 +308,6 @@ G&W FBR $2600
 30%
 20 rds, 7.62x51mm Rifle Magazine; FMJ / AP
 62
-
 
 Anvil Arms KMR $3470
 160m
