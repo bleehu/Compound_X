@@ -6,7 +6,7 @@ Core classes:
  *==================================================*/
 
 "Soldier" - You have the blood of a warrior flowing through you. Your sole purpose is to fight until the threat is neutrilized.
-Passives: Gain Weapon Use(X) at 10, Gain a +15 to Rolls for initiative (you go first more often).
+Passives: Gain Weapon Use[X] at 10, Gain a +15 to Rolls for initiative. (you go first more often).
 Weapon Proficiencies: Pistols, Submachine guns, Carbines and Battle Rifles, Shotguns, Automatic Rifles.
 Armour Proficiencies: Light, Medium, Heavy.
 Class Feats:
@@ -30,7 +30,7 @@ Make a FORT save at 50% to ignore an enemy damage. Remove one action next turn t
 V
 Fort save is at 75%, or you take 1/3 of damages dealt
 
-"Specialist" - There is always a need for the type of person willing and able to bring the heaviest of fire down upon their enemies. The Specialist will be there when the odds are stacked highest against the forces for good, and he'll be prepared to use heavy force to even those odds.
+"Specialist" - There is always a need for the type of person willing and able to bring the heaviest of fire down upon their enemies. The Specialist will be there when the odds are stacked highest against the forces for good, and he''ll be prepared to use heavy force to even those odds.
 Gain Thrown Weapons at 10.
 Weapon Proficiencies: Pistols, Carbines and Battle Rifles, Heavy Weapons.
 Armour Proficiencies: Light, Medium, Heavy, Full, Concealed.
