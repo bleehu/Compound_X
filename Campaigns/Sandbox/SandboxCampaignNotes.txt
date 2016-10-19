@@ -18,13 +18,14 @@ Sandbox Campaign Notes
 Liz Rogon - (Pilot)
 Hirito Muzashi - (Monk)
 //PCs
-Tibalt - Mage [Rose]
-Niner - Assassin [David]
-Sam Vaughn - Priest [Mike]
-(Zach) - (Pilot) [Zach]
-(Kyle) - 
-(Stephen) - 
-(Sarah) - 
+Tibalt / Rose - Warlock
+Niner / Alex - Assassin
+Sam Vaugn / Mike - Priest
+Zach - Pilot
+Greg / Kyle - Warlock
+Stephen - Adept
+Sarah - Medic
+Butler / David - Berserker
 
 
 //========================================
