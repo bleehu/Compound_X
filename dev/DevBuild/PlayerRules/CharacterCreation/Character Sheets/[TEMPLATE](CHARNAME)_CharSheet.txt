@@ -14,13 +14,13 @@ D.R.
 Nanite Health: N/A
 Speed: 
 ==STATS==
-STR || 6 +0
-PER || 6 +0
-FOR || 6 +0
-CHA || 6 +0
-INT || 6 +0
-DEX || 6 +0
-LUK || 6 +0
+STR || 6 +4
+PER || 6 +4
+FOR || 6 +4
+CHA || 6 +4
+INT || 6 +4
+DEX || 6 +4
+LUK || 6 +4
 ========
 SAVING THROWS:
 WIL || 12
@@ -31,7 +31,7 @@ Weapons:
 ========
 Primary Name: 
 Range: 
-Percent Hit: 
+Percent Miss: 
 Damage: 
 
 Misc.:
@@ -39,7 +39,7 @@ Misc.:
 
 Secondary Name: 
 Range: 
-Percent Hit: 
+Percent Miss: 
 Damage: 
 Misc.:
 
