@@ -10,9 +10,6 @@ YOU''D LIKE ADDED IN.
  /  /  /  /  /  /  /  /  /  /  /  /  /  /  /  /  /  /  /  /  /  /  /  /  /  /  /  /  /  /  
 =============================================
 
-//ADD MORE DETAIL / description / clarity
-//more spells.
-
 By spending much time researching, meditating, and practicing, a warlock can increase the power with which they cast their spells. Each level, warlocks gain a number of spell points equal to half their intelligence. One point can be put into each spell per level. Each spell can have 5 points put into it, unless otherwise noted. Spells within the tree are unlocked once the listed number of spell points have been spent. For example, if the "Progression Cost" is 3, you must spend 3 points on the prior spell, then the next spell is unlocked and you must put points into it to increase its potency.
 In each spell description, the effect is increased based on the number of spell points used to advance the spell. These are referred to as Progression Levels, or P.Levels. Even after unlocking spells further along the tree, you can advance earlier spells. Some spells age better than others.
 
