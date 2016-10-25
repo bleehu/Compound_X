@@ -40,22 +40,9 @@ Detect High-Tech [10]: Detect any highly advanced technology in the immediate ar
 //Strike True
 //Ally hit buff
 
-Cure Light Wounds [30]: Restore P.Lvl*10 + 20 health
-|
-| 2
-|
-V
-Cure Moderate Wounds [50]: Restore P.Lvl*10 + 40 Health
-|
-| 3
-|
-V
-Cure Heavy Wounds [70]: Restore P.Lvl*20 + 55 Health.
-
 Stabalize [X]: Spend X Nanites, where X is the DC to stabalize the target. The target is no longer dying, but is not restored any health. Touch Spell.
 
-//lasts encounter, depleted, or some amount of time.
-Mage Armour [X]: Gain a nanite shield, 100% coverage of body. Shield = [X nanites]. Touch effect. Max X = 30+(10*P.Lvl) Can be used P.Lvl # times per encounter. Add 20 to shield when used on an ally.
+Mage Armour [X]: Gain a nanite shield, 100% coverage of body. Shield = [X nanites]. Touch effect. Max X = 30+(10*P.Lvl) Can be used P.Lvl # times per encounter. Add 20 to shield when used on an ally. Lasts duration of encounter.
 |
 | 3
 |
@@ -83,8 +70,7 @@ Weapon Malfunction [30]: Force a target''s weapon to Jam. DC = 50 - P.Lvl*10
 V
 Weapon Overload [50]: Magazine of target''s weapon is overloaded and explodes. Deal damage equal to the weapon''s damage. Magazine is destroyed. DC = 100 - P.Lvl*10
 
-//lasts cha # turns
-Camoflage Area [40]: Create a stealthed area P.Level * 2 m diameter. Everything in the area is considered hidden, DC caster''s (CHA + P.Levels) * 5.
+Camoflage Area [40]: Create a stealthed area P.Level * 2 m diameter. Everything in the area is considered hidden, DC caster''s (CHA + P.Levels) * 5. Lasts CHA number of turns.
 | 3
 #
 
@@ -150,16 +136,17 @@ Cloud of Acid [30]: Creates a 10m cloud of acidic gas. Deals 20 damage per round
 
 Stun [20]: Paralyzes the target for 1 turn minimum, max P.Lvl # turns. Target rolls Shock save at DC 20 + 3*INT to resist. Range is 30m.
 
-Summon Tenticals [40]: Summon a P.Lvl*1m patch of thick, black tentacles for 1+P.Lvl turns. All oponents in the patch must pass a grapple check, DC 30 + 10*P.Lvl, or they are pinned until they can overcome the grapple check. Anyone who moves into this patch must pass this check each round they are in the patch in order to retain their stance. Grappled opponents cannot move and their only action can be to resist the grapple.
+//rework into two distinct spells to make it match the dematerializer theme more. Level one is the traditional tentical patch. Level 2 deals necrotic damage, literally eats away at what it is grappling.
+Summon Tenticals [40]: Summon a P.Lvl*1m circle of thick, black tentacles for 1+P.Lvl turns. All oponents in the circle must pass a grapple check, DC 30 + 10*P.Lvl, or they are pinned until they can overcome the grapple check. Anyone who moves into this circle must pass this check each round they are in the circle in order to retain their stance. Grappled opponents cannot move and their only action can be to resist the grapple.
 | 5
-#//where summoned? circular shape / reword "patch"
+#
 //balance actions available. Any skill check, movement, or attacks must be preceded by the passing of a str check.
 //limit number cast by warlocks?
 //visible in standard light, 50% invis when dark?
 //ability to get into confined spaces.
 //there needs to be connected space of patch in order for continuation of patch.
 
-//level require?
+Minimum level 5
 Acid Touch [30]: Deals 20+P.Lvl*10 Melting or Necrotic damage (depending on your character). DC is opponent''s armour%. on fail, deal the damage to the target''s armour% CHA m range.
 | 5
 #
@@ -168,7 +155,7 @@ Invoke Fear [10]: Target is afraid of subject and will flee or cower for P.Lvl #
 | 5
 #
 
-//level requirement
+Minimum level 5
 Nanite Leach [10*P.Lvl]: Remove up to 10*P.Lvl nanites from opponent. If the opponent''s nanites are depleted, excess leech is dealt as damage. CHA m range. Target resist with Shock save, DC 20+P.Lvl*Int.
 |
 | 4
