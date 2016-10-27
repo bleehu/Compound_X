@@ -153,9 +153,7 @@ int getValue(int** memList, int mem, int stat) {
 int qBattle (int numEn, int numPlay, int** Enemies, int** Players) {
 
     int enAli = numEn;//Alive Enemies
-    sleep(50000);
     int plAli = numPlay;//Alive Players
-    sleep(50000);
     //randomly decide if players of enemies go first
     int order = rand()%2;
     //TODO replace with full initiative list
@@ -169,96 +167,112 @@ int qBattle (int numEn, int numPlay, int** Enemies, int** Players) {
         int count = 0;
         if (order == 1) {
             //Players
-            for (m = 0; m < numPlay; m++) {
+            for (m = 0; m < numPlay; m++) {//Each Player's Turn
                 if (Players[m][0] > 0) {
-                    count = 0;
-                    do {
-                        target = rand()%numEn;
-                        count++;
-                    } while (Enemies[target][0] <= 0 && count < 3*numEn);
-                    if (rand()%100+1 > Players[m][4] && Enemies[target][0] > 0) {
-                        if (rand()%100+1 > Enemies[target][2]) {//roll to see if it hits armour
-                            //if the roll is greater than armour%, deal full damage
-                            Enemies[target][0] -= (Players[m][3]);
-                        } else {
-                            //else we will reduce the damage by the enemy's DR
-                            Enemies[target][0] -= (Players[m][3] - Enemies[target][1]);
-                        }
-                        if (Enemies[target][0] <= 0) {
-                            enAli--;
-                        }
-                    }
-                    
+                    int action;
+                    for (action = 0; action < 4; action++) {
+                        if (action > 0) {
+                            count = 0;
+                            do {
+                                target = rand()%numEn;
+                                count++;
+                            } while (Enemies[target][0] <= 0 && count < 3*numEn);
+                            if (rand()%100+1 > Players[m][4] + Enemies[target][5] && Enemies[target][0] > 0) {
+                                if (rand()%100+1 > Enemies[target][2]) {//roll to see if it hits armour
+                                    //if the roll is greater than armour%, deal full damage
+                                    Enemies[target][0] -= (Players[m][3]);
+                                } else {
+                                    //else we will reduce the damage by the enemy's DR
+                                    Enemies[target][0] -= (Players[m][3] - Enemies[target][1]);
+                                }
+                                if (Enemies[target][0] <= 0) {
+                                    enAli--;
+                                }
+                            }
+                        }//End of Action
+                    }//End of Turn
                 }
             }
             //Enemies
-            for (m = 0; m < numEn; m++) {
+            for (m = 0; m < numEn; m++) {//Each Enemy's turn
                 if (Enemies[m][0] > 0) {
-                    count = 0;
-                    do {
-                        target = rand()%numPlay;
-                        count++;
-                    } while (Players[target][0] <= 0 && count < 3*numPlay);
-                    if (rand()%100+1 > Enemies[m][4] && Players[target][0] > 0) {
-                        if (rand()%100+1 > Players[target][2]) {//roll to see if it hits armour
-                            //if the roll is greater than armour%, deal full damage
-                            Players[target][0] -= (Enemies[m][3]);
-                        } else {
-                            //else we will reduce the damage by the enemy's DR
-                            Players[target][0] -= (Enemies[m][3] - Players[target][1]);
-                        }
-                        if (Players[target][0] <= 0) {
-                            plAli--;
-                        }
-                    }
-                    
+                    int action;
+                    for (action = 0; action < 4; action++) {
+                        if (action > 0) {
+                            count = 0;
+                            do {
+                                target = rand()%numPlay;
+                                count++;
+                            } while (Players[target][0] <= 0 && count < 3*numPlay);
+                            if (rand()%100+1 > Enemies[m][4] + Players[target][5] && Players[target][0] > 0) {
+                                if (rand()%100+1 > Players[target][2]) {//roll to see if it hits armour
+                                    //if the roll is greater than armour%, deal full damage
+                                    Players[target][0] -= (Enemies[m][3]);
+                                } else {
+                                    //else we will reduce the damage by the enemy's DR
+                                    Players[target][0] -= (Enemies[m][3] - Players[target][1]);
+                                }
+                                if (Players[target][0] <= 0) {
+                                    plAli--;
+                                }
+                            }
+                        }//End of Action
+                    }//End of Turn
                 }
             }
         } else {
             //Enemies
-            for (m = 0; m < numEn; m++) {
+            for (m = 0; m < numEn; m++) {//Each Enemy's turn
                 if (Enemies[m][0] > 0) {
-                    count = 0;
-                    do {
-                        target = rand()%numPlay;
-                        count++;
-                    } while (Players[target][0] <= 0 && count < 3*numPlay);
-                    if (rand()%100+1 > Enemies[m][4] && Players[target][0] > 0) {
-                        if (rand()%100+1 > Players[target][2]) {//roll to see if it hits armour
-                            //if the roll is greater than armour%, deal full damage
-                            Players[target][0] -= (Enemies[m][3]);
-                        } else {
-                            //else we will reduce the damage by the enemy's DR
-                            Players[target][0] -= (Enemies[m][3] - Players[target][1]);
-                        }
-                        if (Players[target][0] <= 0) {
-                            plAli--;
-                        }
-                    }
-                    
+                    int action;
+                    for (action = 0; action < 4; action++) {
+                        if (action > 0) {
+                            count = 0;
+                            do {
+                                target = rand()%numPlay;
+                                count++;
+                            } while (Players[target][0] <= 0 && count < 3*numPlay);
+                            if (rand()%100+1 > Enemies[m][4] + Players[target][5] && Players[target][0] > 0) {
+                                if (rand()%100+1 > Players[target][2]) {//roll to see if it hits armour
+                                    //if the roll is greater than armour%, deal full damage
+                                    Players[target][0] -= (Enemies[m][3]);
+                                } else {
+                                    //else we will reduce the damage by the enemy's DR
+                                    Players[target][0] -= (Enemies[m][3] - Players[target][1]);
+                                }
+                                if (Players[target][0] <= 0) {
+                                    plAli--;
+                                }
+                            }
+                        }//End of Action
+                    }//End of Turn
                 }
             }
             //Players
-            for (m = 0; m < numPlay; m++) {
+             for (m = 0; m < numPlay; m++) {//Each Player's Turn
                 if (Players[m][0] > 0) {
-                    count = 0;
-                    do {
-                        target = rand()%numEn;
-                        count++;
-                    } while (Enemies[target][0] <= 0 && count < 3*numEn);
-                    if (rand()%100+1 > Players[m][4] && Enemies[target][0] > 0) {
-                        if (rand()%100+1 > Enemies[target][2]) {//roll to see if it hits armour
-                            //if the roll is greater than armour%, deal full damage
-                            Enemies[target][0] -= (Players[m][3]);
-                        } else {
-                            //else we will reduce the damage by the enemy's DR
-                            Enemies[target][0] -= (Players[m][3] - Enemies[target][1]);
-                        }
-                        if (Enemies[target][0] <= 0) {
-                            enAli--;
-                        }
-                    }
-                    
+                    int action;
+                    for (action = 0; action < 4; action++) {
+                        if (action > 0) {
+                            count = 0;
+                            do {
+                                target = rand()%numEn;
+                                count++;
+                            } while (Enemies[target][0] <= 0 && count < 3*numEn);
+                            if (rand()%100+1 > Players[m][4] + Enemies[target][5] && Enemies[target][0] > 0) {
+                                if (rand()%100+1 > Enemies[target][2]) {//roll to see if it hits armour
+                                    //if the roll is greater than armour%, deal full damage
+                                    Enemies[target][0] -= (Players[m][3]);
+                                } else {
+                                    //else we will reduce the damage by the enemy's DR
+                                    Enemies[target][0] -= (Players[m][3] - Enemies[target][1]);
+                                }
+                                if (Enemies[target][0] <= 0) {
+                                    enAli--;
+                                }
+                            }
+                        }//End of Action
+                    }//End of Turn
                 }
             }
         }
@@ -270,10 +284,8 @@ int battle (int numEn, int numPlay, int** Enemies, int** Players) {
 
     int enAli = numEn;//Alive Enemies
     printf("Living Enemies: %d\n", enAli);
-    sleep(50000);
     int plAli = numPlay;//Alive Players
     printf("Living Players: %d\n", plAli);
-    sleep(50000);
     //randomly decide if players of enemies go first
     int order = rand()%2;
     //TODO replace with full initiative list
@@ -288,124 +300,136 @@ int battle (int numEn, int numPlay, int** Enemies, int** Players) {
         int count = 0;
         if (order == 1) {
             //Players
-            for (m = 0; m < numPlay; m++) {
+            for (m = 0; m < numPlay; m++) {//Each Player's Turn
                 if (Players[m][0] > 0) {
                     printf("Player %d's HP: %d\n", m+1, Players[m][0]);
-                    count = 0;
-                    do {
-                        target = rand()%numEn;
-                        count++;
-                        //printf("Target: %d; HP: %d\n", target, Enemies[target][0]);
-                    } while (Enemies[target][0] <= 0 && count < 3*numEn);
-                    if (rand()%100+1 > Players[m][4] && Enemies[target][0] > 0) {
-                        if (rand()%100+1 > Enemies[target][2]) {//roll to see if it hits armour
-                            //if the roll is greater than armour%, deal full damage
-                            Enemies[target][0] -= (Players[m][3]);
-                            printf("Player %d hit Enemy %d for %d Damage!\n", m+1, target+1, Players[m][3]);
-                        } else {
-                            //else we will reduce the damage by the enemy's DR
-                            Enemies[target][0] -= (Players[m][3] - Enemies[target][1]);
-                            printf("Player %d hit Enemy %d for %d Damage!\n", m+1, target+1, Players[m][3] - Enemies[target][1]);
-                        }
-                        if (Enemies[target][0] <= 0) {
-                            enAli--;
-                            printf("Enemy %d has been defeated!\n", target+1);
-                        }
-                    } else {
-                        printf("Player %d missed Enemy %d!\n", m+1, target+1);
-                    }
-                    
+                    int action;
+                    for (action = 0; action < 4; action++) {
+                        if (action > 0) {
+                            count = 0;
+                            do {
+                                target = rand()%numEn;
+                                count++;
+                            } while (Enemies[target][0] <= 0 && count < 3*numEn);
+                            if (rand()%100+1 > Players[m][4] + Enemies[target][5] && Enemies[target][0] > 0) {
+                                if (rand()%100+1 > Enemies[target][2]) {//roll to see if it hits armour
+                                    //if the roll is greater than armour%, deal full damage
+                                    Enemies[target][0] -= (Players[m][3]);
+                                    printf("Player %d hit Enemy %d for %d Damage!\n", m+1, target+1, Players[m][3]);
+                                } else {
+                                    //else we will reduce the damage by the enemy's DR
+                                    Enemies[target][0] -= (Players[m][3] - Enemies[target][1]);
+                                    printf("Player %d hit Enemy %d for %d Damage!\n", m+1, target+1, Players[m][3] - Enemies[target][1]);
+                                }
+                                if (Enemies[target][0] <= 0) {
+                                    enAli--;
+                                    printf("Enemy %d has been defeated!\n", target+1);
+                                }
+                            } else {
+                                printf("Player %d missed Enemy %d!\n", m+1, target+1);
+                            }
+                        }//End of Action
+                    }//End of Turn
                 }
             }
             //Enemies
-            for (m = 0; m < numEn; m++) {
+            for (m = 0; m < numEn; m++) {//Each Enemy's turn
                 if (Enemies[m][0] > 0) {
                     printf("Enemy %d's HP: %d\n", m+1, Enemies[m][0]);
-                    count = 0;
-                    do {
-                        target = rand()%numPlay;
-                        count++;
-                        //printf("Target: %d; HP: %d\n", target, Players[target][0]);
-                    } while (Players[target][0] <= 0 && count < 3*numPlay);
-                    if (rand()%100+1 > Enemies[m][4] && Players[target][0] > 0) {
-                        if (rand()%100+1 > Players[target][2]) {//roll to see if it hits armour
-                            //if the roll is greater than armour%, deal full damage
-                            Players[target][0] -= (Enemies[m][3]);
-                            printf("Enemy %d hit Player %d for %d Damage!\n", m+1, target+1, Enemies[m][3]);
-                        } else {
-                            //else we will reduce the damage by the enemy's DR
-                            Players[target][0] -= (Enemies[m][3] - Players[target][1]);
-                            printf("Enemy %d hit Player %d for %d Damage!\n", m+1, target+1, Enemies[m][3] - Players[target][1]);
-                        }
-                        if (Players[target][0] <= 0) {
-                            plAli--;
-                            printf("Player %d has been defeated!\n", target+1);
-                        }
-                    } else {
-                        printf("Enemy %d missed Player %d!\n", m+1, target+1);
-                    }
-                    
+                    int action;
+                    for (action = 0; action < 4; action++) {
+                        if (action > 0) {
+                            count = 0;
+                            do {
+                                target = rand()%numPlay;
+                                count++;
+                            } while (Players[target][0] <= 0 && count < 3*numPlay);
+                            if (rand()%100+1 > Enemies[m][4] + Players[target][5] && Players[target][0] > 0) {
+                                if (rand()%100+1 > Players[target][2]) {//roll to see if it hits armour
+                                    //if the roll is greater than armour%, deal full damage
+                                    Players[target][0] -= (Enemies[m][3]);
+                                    printf("Enemy %d hit Player %d for %d Damage!\n", m+1, target+1, Enemies[m][3]);
+                                } else {
+                                    //else we will reduce the damage by the enemy's DR
+                                    Players[target][0] -= (Enemies[m][3] - Players[target][1]);
+                                    printf("Enemy %d hit Player %d for %d Damage!\n", m+1, target+1, Enemies[m][3] - Players[target][1]);
+                                }
+                                if (Players[target][0] <= 0) {
+                                    plAli--;
+                                    printf("Player %d has been defeated!\n", target+1);
+                                }
+                            } else {
+                                printf("Enemy %d missed Player %d!\n", m+1, target+1);
+                            }
+                        }//End of Action
+                    }//End of Turn
                 }
             }
         } else {
             //Enemies
-            for (m = 0; m < numEn; m++) {
+            for (m = 0; m < numEn; m++) {//Each Enemy's turn
                 if (Enemies[m][0] > 0) {
                     printf("Enemy %d's HP: %d\n", m+1, Enemies[m][0]);
-                    count = 0;
-                    do {
-                        target = rand()%numPlay;
-                        count++;
-                        //printf("Target: %d; HP: %d\n", target, Players[target][0]);
-                    } while (Players[target][0] <= 0 && count < 3*numPlay);
-                    if (rand()%100+1 > Enemies[m][4] && Players[target][0] > 0) {
-                        if (rand()%100+1 > Players[target][2]) {//roll to see if it hits armour
-                            //if the roll is greater than armour%, deal full damage
-                            Players[target][0] -= (Enemies[m][3]);
-                            printf("Enemy %d hit Player %d for %d Damage!\n", m+1, target+1, Enemies[m][3]);
-                        } else {
-                            //else we will reduce the damage by the enemy's DR
-                            Players[target][0] -= (Enemies[m][3] - Players[target][1]);
-                            printf("Enemy %d hit Player %d for %d Damage!\n", m+1, target+1, Enemies[m][3] - Players[target][1]);
-                        }
-                        if (Players[target][0] <= 0) {
-                            plAli--;
-                            printf("Player %d has been defeated!\n", target+1);
-                        }
-                    } else {
-                        printf("Enemy %d missed Player %d!\n", m+1, target+1);
-                    }
-                    
+                    int action;
+                    for (action = 0; action < 4; action++) {
+                        if (action > 0) {
+                            count = 0;
+                            do {
+                                target = rand()%numPlay;
+                                count++;
+                            } while (Players[target][0] <= 0 && count < 3*numPlay);
+                            if (rand()%100+1 > Enemies[m][4] + Players[target][5] && Players[target][0] > 0) {
+                                if (rand()%100+1 > Players[target][2]) {//roll to see if it hits armour
+                                    //if the roll is greater than armour%, deal full damage
+                                    Players[target][0] -= (Enemies[m][3]);
+                                    printf("Enemy %d hit Player %d for %d Damage!\n", m+1, target+1, Enemies[m][3]);
+                                } else {
+                                    //else we will reduce the damage by the enemy's DR
+                                    Players[target][0] -= (Enemies[m][3] - Players[target][1]);
+                                    printf("Enemy %d hit Player %d for %d Damage!\n", m+1, target+1, Enemies[m][3] - Players[target][1]);
+                                }
+                                if (Players[target][0] <= 0) {
+                                    plAli--;
+                                    printf("Player %d has been defeated!\n", target+1);
+                                }
+                            } else {
+                                printf("Enemy %d missed Player %d!\n", m+1, target+1);
+                            }
+                        }//End of Action
+                    }//End of Turn
                 }
             }
             //Players
-            for (m = 0; m < numPlay; m++) {
+             for (m = 0; m < numPlay; m++) {//Each Player's Turn
                 if (Players[m][0] > 0) {
                     printf("Player %d's HP: %d\n", m+1, Players[m][0]);
-                    count = 0;
-                    do {
-                        target = rand()%numEn;
-                        count++;
-                        //printf("Target: %d; HP: %d\n", target, Enemies[target][0]);
-                    } while (Enemies[target][0] <= 0 && count < 3*numEn);
-                    if (rand()%100+1 > Players[m][4] && Enemies[target][0] > 0) {
-                        if (rand()%100+1 > Enemies[target][2]) {//roll to see if it hits armour
-                            //if the roll is greater than armour%, deal full damage
-                            Enemies[target][0] -= (Players[m][3]);
-                            printf("Player %d hit Enemy %d for %d Damage!\n", m+1, target+1, Players[m][3]);
-                        } else {
-                            //else we will reduce the damage by the enemy's DR
-                            Enemies[target][0] -= (Players[m][3] - Enemies[target][1]);
-                            printf("Player %d hit Enemy %d for %d Damage!\n", m+1, target+1, Players[m][3] - Enemies[target][1]);
-                        }
-                        if (Enemies[target][0] <= 0) {
-                            enAli--;
-                            printf("Enemy %d has been defeated!\n", target+1);
-                        }
-                    } else {
-                        printf("Player %d missed Enemy %d!\n", m+1, target+1);
-                    }
-                    
+                    int action;
+                    for (action = 0; action < 4; action++) {
+                        if (action > 0) {
+                            count = 0;
+                            do {
+                                target = rand()%numEn;
+                                count++;
+                            } while (Enemies[target][0] <= 0 && count < 3*numEn);
+                            if (rand()%100+1 > Players[m][4] + Enemies[target][5] && Enemies[target][0] > 0) {
+                                if (rand()%100+1 > Enemies[target][2]) {//roll to see if it hits armour
+                                    //if the roll is greater than armour%, deal full damage
+                                    Enemies[target][0] -= (Players[m][3]);
+                                    printf("Player %d hit Enemy %d for %d Damage!\n", m+1, target+1, Players[m][3]);
+                                } else {
+                                    //else we will reduce the damage by the enemy's DR
+                                    Enemies[target][0] -= (Players[m][3] - Enemies[target][1]);
+                                    printf("Player %d hit Enemy %d for %d Damage!\n", m+1, target+1, Players[m][3] - Enemies[target][1]);
+                                }
+                                if (Enemies[target][0] <= 0) {
+                                    enAli--;
+                                    printf("Enemy %d has been defeated!\n", target+1);
+                                }
+                            } else {
+                                printf("Player %d missed Enemy %d!\n", m+1, target+1);
+                            }
+                        }//End of Action
+                    }//End of Turn
                 }
             }
         }
@@ -436,6 +460,19 @@ void resetList (int type, int numMem, int** resList, int** masList) {
 //Full mode stops at each turn to ask if anything has changed.
 
 void main() {
+    printf("Welcome to QuickBattle version 0.5, this is an alpha release. Currently,\n");
+    printf("you are able to specify the number of enemies and players on each side\n");
+    printf("and specify weather you want to run in one of three modes:\n");
+    printf("Verbose mode takes you through a single battle, outlining each player's\n");
+    printf("Health at the start of their turn, as well as who they attack and what\n");
+    printf("damage they deal, if any. At the end of the battle, the number of alive\n");
+    printf("Players and Enemies is displayed, along with the healths of the winning\n");
+    printf("side.\n");
+    printf("Quiet mode runs through a single battle without spitting out any data\n");
+    printf("other than the number of Enemies and Players alive at the end of the\n");
+    printf("battle, as well as the healths of the winning team.\n");
+    printf("Multi-Battle mode is similar to quiet mode, but runs as many times as\n");
+    printf("specified, then reports the win/loss ratio of the player team.\n");
     while (1 < 2) {
         int numEn, numPlay;
         char mode = 'Q';
