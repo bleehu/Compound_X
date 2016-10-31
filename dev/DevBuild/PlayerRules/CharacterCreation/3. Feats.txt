@@ -94,7 +94,7 @@ Increase your crit range by 10%. Whenever your hit falls into crit range, expend
 
 Dual Weild:
 Prerequisites: Dex 6
-Maybe you''ve got a bigger corpus colocum and your right brain and left brain are in higher synch than most people; or maybe you''ve seen too many John Woo holomovies. Either way, you''ve managed to effectively fight using a weapon in each hand. The weapons must be from the same weapon class (i.e. either two pistosl, two melee weapons, etc). While weilding dual weapons, you may fire both at the same time at the same target with a +30% to miss with both of them. You may not target more than one target at a time. Reloading while dual weilding adds 20% to the difficulty.
+Maybe you''ve got a bigger corpus colocum and your right brain and left brain are in higher synch than most people; or maybe you''ve seen too many John Woo holomovies. Either way, you''ve managed to effectively fight using a weapon in each hand. The weapons must be of the same type, either two pistols, two smgs, etc. While weilding dual weapons, you may fire both at the same time at the same target with a +30% to miss with both of them. You may not target more than one target at a time. Reloading while dual weilding adds 20% to the difficulty. Additionally the sum of the strength requirements must be equal to or less than your strength.
 
 Empty the Mag: 
 Prerequisites:
