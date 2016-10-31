@@ -358,13 +358,13 @@ Basic Cloaking Suit $2500
 5 DR
 30%
 
-Intermediate Cloaking Suit $2900
+Intermediate Cloaking Suit $3100
 Add 30 Nanites to your pool.
 Cloak DC +25, expend 5 extra nanites per turn.
 5 DR
 30%
 
-Advanced Cloaking Suit $3300
+Advanced Cloaking Suit $3500
 Add 30 Nanites to your pool.
 Cloak DC +50, Expend 10 extra Nanites per turn.
 Charge-Up time 3 Half-Actions
@@ -378,7 +378,7 @@ Charge-Up time 5 Half-Actions
 10 DR
 30%
 
-Armour Cloaking Suit $2100
+Armour Cloaking Suit $2080
 Cloak DC -25, expend 5 extra nanites per turn.
 Cloaking DR is 25, uncloaked DR is 10
 30%
