@@ -48,6 +48,13 @@ HO-SV treated like HP
 LO-HV treated like AP
 Reload 28%
 
+Muzashi K-DP $3060 / $13
+85 m
+20%
+15 rds, Krypton-12;
+65 dam, 2 x Plasma Burn
+Made for dual-weilding, these pistols utilize magnetic magazines that can be reloaded without the use of an off-hand. Reload DC 15%
+
 Schroder K-20 $3200
 100m
 10%
@@ -74,7 +81,13 @@ Paralax DE-22 Ghostbuster	$7200
 35 laser damage
 doesn''t jam; overheats burning user for 15 damage.//overheats when?
 
-
+Muzashi K-DS $3340 / $26
+90 m
+20%
+30 rds, Krypton-12;
+65 dam, 2 x Plasma Burn
+Made for dual-weilding, these SMGs utilize magnetic magazines that can be reloaded without the use of an off-hand. Reload DC 15%
+The K-LS features a burst fire mode which allows for 2 round burst. Rather than firing DEX/2 shots per turn, fire 2 shots per half-action.
 
 Schroder K-35 $3500
 100m
@@ -144,6 +157,18 @@ Strudwick Arms LA75 Bullpup		$3100
 Never jams; if a 1 or 2 is rolled on fire, one round is fired normally, one 
 extra round is ejected like a shell casing. Minimum strength 6 to carry.
 
+Zurlinsk Type-300 $4510 / $23
+135 m
+22%
+24 rds, Argon-10;
+60 dam, 2 x Plasma Burn
+
+Muzashi K-BR $5640 / $26
+150 m
+15%
+30 rds, Krypton-12;
+65 dam, 2 x Plasma Burn
+
 Schroder G-25 $5810
 150m
 10%
@@ -164,6 +189,11 @@ ECSC AR-SOC L               $2440
 30 rounds 5.56 x 45 NATO
 50 damage
 
+Frontier Neon APR-180 $3680 / $17
+160m
+28%
+24 rounds plasma bolt
+50 damage and 1 plasma burn token
 
 ECSC AR-SOC H 				$3720
 150m
@@ -181,12 +211,24 @@ Minimum strength 7 to carry.
 Never jams; if a 1 or 2 is rolled on fire, one round is fired normally, one 
 extra round is ejected like a shell casing. 
 
-Frontier Neon APR-180		$11000
-160m
-28%
-24 rounds plasma bolt
-50 damage and 1 plasma burn token
-each clip costs $360
+Muzashi K-AR $7200 / $26
+200 m
+20%
+30 rds, Krypton-12;
+65 dam, 2 x Plasma Burn
+
+G&W XMG $11,220 / $187
+220 m
+20%
+130 rds, Xenon-22;
+90 dam, 3 x plasma burn
+
+G&W XR $11,715 / $50
+220
+15%
+35 rds
+90 dam, 3 x Plasma Burn
+
 //dev note
 generic plasma assault rifle. lower damage further and add one more burn token?
 //end dev note
@@ -294,6 +336,20 @@ Requires 6 strength to carry
 10 rds .306 long
 80 damage
 semi auto
+
+Muzashi K-LR $19,300 / $13
+400 m
+10%
+12 rds, Krypton-20;
+85 dam, 2 x Plasma Burn
+Semi-Auto
+
+G&W XEV $43,310 / $29
+750 m
+5%
+20 rds, Xenon-20 Disc;
+90 dam, 3 x Plasma Burn
+Bolt Action
 
 Schroder HLG-10 $118,500
 2000 m
