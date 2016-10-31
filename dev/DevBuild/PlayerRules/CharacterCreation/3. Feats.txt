@@ -13,6 +13,8 @@ Prerequisites: Dex 7, level 6 and Dual Weild feat
 Reduce the miss penalty from dual weilding to 10% each. Reduce the reload penalty to reloading to 10%.
 You may fire at more than one target at once for an additional 20% to miss penalty.
 
+
+
 Backstab:
 Prerequisites: Level 3 and higher Assassins and Monks.
 Any damage dealt to an unaware opponent from behind deals Extra-Crit damage.
@@ -68,12 +70,7 @@ Increase your crit range by 10%. Whenever your hit falls into crit range, expend
 
 Dual Weild:
 Prerequisites: Dex 6
-Maybe you've got a bigger corpus colocum and your right brain and left brain are in higher synch than
-most people; or maybe you've seen too many John Woo holomovies. Either way, you've managed to 
-effectively fight using a weapon in each hand. The weapons must be from the same weapon class (i.e. 
-either two pistosl, two melee weapons, etc). While weilding dual weapons, you may fire both at the
-same time at the same target with a +30% to miss with both of them. You may not target more than one
-target at a time. Reloading while dual weilding adds 20% to the difficulty.
+Maybe you''ve got a bigger corpus colocum and your right brain and left brain are in higher synch than most people; or maybe you''ve seen too many John Woo holomovies. Either way, you''ve managed to effectively fight using a weapon in each hand. The weapons must be from the same weapon class (i.e. either two pistosl, two melee weapons, etc). While weilding dual weapons, you may fire both at the same time at the same target with a +30% to miss with both of them. You may not target more than one target at a time. Reloading while dual weilding adds 20% to the difficulty.
 
 Empty the Mag: 
 Prerequisites:
@@ -117,7 +114,7 @@ You get a +20% to pilot skill checks in airborne or spaceborne vehicles, and an 
 
 Kata: 
 Prerequisites: Level 10 or higher
-Whenever you land a successful melee hit against someone, you may roll for X additional attacks, where X is your LVL/2. Each additional attack has 20% lower chance to hit than the previous hit. (A 4th level character making their 3rd strike in a row would be rolling at +40% miss chance). This -20% debuff applies to a monk's Shadow Strike as well, increasing the DC by 20 per strike instead of increasing the strike's miss chance.
+Whenever you land a successful melee hit against someone, you may roll for X additional attacks, where X is your LVL/2. Each additional attack has 20% lower chance to hit than the previous hit. (A 4th level character making their 3rd strike in a row would be rolling at +40% miss chance). This -20% debuff applies to a monk''s Shadow Strike as well, increasing the DC by 20 per strike instead of increasing the strike''s miss chance.
 
 Monk:
 Prerequisites: Level 7 or higher
@@ -191,7 +188,7 @@ Take a full action to breath slowly and line up your shot. -5% miss chance and +
 
 Strong Back: 
 Prerequisites: STR 7
-You've done a lot of lifting and hauling in your time, allowing you to carry more than some. Instead of a secondary weapon, you can carry another primary weapon.
+You''ve done a lot of lifting and hauling in your time, allowing you to carry more than some. Instead of a secondary weapon, you can carry another primary weapon.
 
 Suppression: 
 Prerequisites:
@@ -216,6 +213,26 @@ Roll a number of dice equal to your INT / 5 (round up) + 1 and take the result i
 Unconventinal Warfare:
 Prerequisites: Any feat > 9, combat style must primarily use this stat.
 You are trained in the art of combative tossing, or some other obscure fighting technique
+
+Unlocked: Boomstick
+Prerequisites: Adept, Gunslinger
+Enables the use of shotguns by the listed classes.
+
+Unlocked: Weapons Training
+Prerequisites: Monk
+Enables the use of mellee weapons by the Monk class.
+
+Unlocked: Spray and Pray
+Prerequisites: Engineer
+Enables the use of SMGs by the Engineer class.
+
+Unlocked: Small Arms Shipment
+Prerequisites: Marksman, Doctor, Priest
+Enables the use of Carbines and Battle Rifles by the listed classes.
+
+Unlocked: Welcome to the Front Line
+Prerequisites: Adept, Paladin
+Enables the use of Automatic Rifles by the listed classes.
 
 Very Normal: 
 Prerequisites:
@@ -281,7 +298,7 @@ Move 6m in one half action, no more, no less. This movement does not trigger
 Bulltrue or Pre-emptive Strike. Enemies attacking you take a +20% to miss when
 attacking you for the turn after you use this feat, and you take a +15% to miss 
 for the action after using this feat ends. If this mallice would not run out 
-until after this turn, it's effect wraps around to the beggining of your next 
+until after this turn, it''s effect wraps around to the beggining of your next 
 turn. Cannot be used in concert with run n gun.
 
 Cover Slide [20 Nanites]:
