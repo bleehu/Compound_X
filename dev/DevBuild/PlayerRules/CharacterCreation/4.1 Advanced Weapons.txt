@@ -87,10 +87,10 @@ RMM Auto 6 $1180
 Reload DC 30%
 Semi-Automatic, recoil-reducing bottom-cylinder barrel design.
 
-Plas-Disc Mini-Launcher $1540
+Plas-Disc Mini-Launcher $1720
 80m
 45%
-10 rds, Plas-Disc Canister; Standard / Cutter Rds
+10 rds, Neon-15; Standard / Cutter Rds
 60
 Cutter Rounds disregard 10pts of D.R.
 All Ammo inflicts Plasma Burn.
@@ -174,7 +174,7 @@ Fully automatic, Box fed.
 
 Frontier Plas-12 $2300
 20%/10%
-7 rds 12ga Plasma: Slug / Buck / Dragon’s Breath
+7 rds Argon-12ga: Slug / Buck / Dragon’s Breath
 Buck Shot: 80 dam out to 3m, 70 out to 10m, 60 out to 20m.
 Slug: 60 dam out to 50m.
 Dragon’s Breath: 7d10, range reduced to 10m, deals 3 plasma tokens
@@ -203,10 +203,10 @@ Targets beyond 30m will not hear or see your fired shot. Targets within 30m are 
 18 Rds, .480 RMM; AP / HP / CS
 62
 
-Frontier Plas-Disc Launcher $2250
+Plas-Disc Launcher $2450
 100m
 40%
-10rds, Plas-Disc Canister / Cutter Rds
+10rds, Neon-30; Standard / Cutter Rds
 65
 Cutter Rounds disregard 10pts of D.R.
 All Ammo inflicts Plasma Burn.
@@ -246,14 +246,14 @@ G&W XK20 12EP $2420
 62 / 67
 Due to the advanced bullet and mechanical research and development that went into the production of this prototype weapon, it has split damage for different ranges. Because of the large caliber round size, target takes penetrating damage.
 
-Frontier Plas-20 $2810
+Frontier Plas-20 $3540
 120m
 35%
-20 rds, Plas-20 Magazine; HO-SV / HO-LV / HO-HV
-62
+20 rds, Argon-10; HO-SV / HO-LV / HO-HV
+60
 HO-LV treated like HP
 HO-HV treated like AP
-All ammo inflicts Plasma Burn
+All ammo inflicts 2 x Plasma Burn
 
 Particle Rifle  $7000
 200m
@@ -419,13 +419,13 @@ In addition, the High Energy variant requires 1 action of charge up time.
 Because of the large caliber round size, target takes penetrating damage. Reload DC 26%, Reload time 2 Half Actions.
 Marksman only.
 
-Frontier Plas-5 HE (Minimum 6 strength to carry) $26,250
+Frontier Plas-5 HE (Minimum 6 strength to carry) $38,000
 30-1000m
 30%
-5 rds, Plas-5 Pack; HO-HE / HO-HV Incendiary
-65
-HO-HE contains High Energy plasma shots. These shots burst on impact, dealing Plasma Burns to targets within 5m at 80% chance.
-All ammo inflicts Plasma Burn.
+5 rds, Krypton-20; HO-HE / HO-HV Xenon
+80
+HO-HV consists of Xenon plasma. These shots burst on impact, dealing 3 Plasma Burns to targets within 5m at 80% chance.
+All ammo inflicts 2 Plasma Burn.
 Reload time 2 Half ACtions
 
 Mathews BA .408 (minimum 6 strength to carry) $64,000

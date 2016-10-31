@@ -117,7 +117,7 @@ Typical mag size: 20 for carbines.
 civilian, especially mid-rim.
 
 .300 Blackout
-200 m, 56 damage
+85 m, 60 damage
 Typical mag size: 10 or 15 for carbines, 7 for long rifles.
 military, special purpose round.
 
@@ -179,28 +179,28 @@ Sub machine guns are used by crewman like pilots and operators because of their 
 Energy weapons aren''t generally used by military forces as they are too expensive.
 
 //	Plasma
-Plasma bolts are defined by the gas used and the bore of the barrel. A standard shot from an ECSC/Frontier Plas-20 is an Argon-.50. The Gas used determines the number of plasma burn tokens imparted on the target. Helium being a comparatively less dense plasma imparts 0 plasma tokens, while Xenon would impart 5 plasma burn tokens per shot. The bore selected will inform you of the damage output. a .30 bore will deal 55 damage, just like a .30 rifle round. Plasma ranges are abut 50 meters farther than their balistic counter-parts. Common combinations include:
+Plasma bolts are defined by the gas used and the bore of the barrel. A standard shot from an ECSC/Frontier Plas-20 is an Argon-.50. The Gas used determines the number of plasma burn tokens imparted on the target. Helium being a comparatively less dense plasma imparts 0 plasma tokens, while Xenon would impart 3 plasma burn tokens per shot. The bore selected will inform you of the damage output. Neon bolts are orange in color, Argon are dark blue, Krypton are green, and Xenon are a pale blue, almost white. Common combinations include:
 	//Pistols
-	Neon-.40
-	Neon-.357
-	Argon-5.7 mm
-	Argon-4.8 mm - 52 damage, 120 meters
-	Krypton-3.2 mm - 55 damage, 145 meters
+	Neon-15 mm - 60 dam, horizontal disc.
+	Argon-8 mm - 55 dam, bolt.
+	Krypton-12 mm - 65 dam, bolt.
+
 	//Carbines and Automatic Rifles
-
-	Neon-5.45 mm - 50 dam, 140 m [Russian]
-	Neon-5.56 mm - 50 dam, 160 m [ECSC]
-	Neon-.30 - 55 dam, 140 m [ECSC]
-	Argon
-
-	Krypton
-
-	Xenon
+	Neon-30 mm - 65 dam, horizontal disc.
+	Argon-10 mm - 60 dam, bolt.
+	Krypton-10 mm - 70 dam, bolt.
+	Xenon-15 mm - 75 dam, bolt.
 	
 	//Long Rifles
-	Argon
-	Krypton
-	Xenon
+	Argon-15 mm - 80 dam, bolt.
+	Krypton-20 mm - 85 dam, bolt.
+	Xenon-22 mm - 90 dam, bolt.
+
+	Plasma Burn Tokens:
+	Neon: 1
+	Argon: 2
+	Krypton: 2
+	Xenon: 3
 
 //	Lasers
 
