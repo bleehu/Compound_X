@@ -29,7 +29,7 @@ void initEnemies(int numEn, int** Enemies) {
     int j;
     for (j = 0; j < numEn; j++) {
         printf("\nPlease only input numbers for the following Enemies:\n");
-        /*printf("\nHealth? ");
+        printf("\nHealth? ");
         scanf("%d", &Enemies[j][0]);
         printf("\nDR? ");
         scanf("%d", &Enemies[j][1]);
@@ -42,8 +42,9 @@ void initEnemies(int numEn, int** Enemies) {
         printf("\nCover Bonus (0/25/50)? ");
         scanf("%d", &Enemies[j][5]);
         printf("\nHunkered (0/25)? ");
-        scanf("%d", &Enemies[j][6]);*/
-        printf("\nHealth? 100");
+        scanf("%d", &Enemies[j][6]);
+        
+        /*printf("\nHealth? 100");
         Enemies[j][0] = 100;
         printf("\nDR? 30");
         Enemies[j][1] = 30;
@@ -57,7 +58,7 @@ void initEnemies(int numEn, int** Enemies) {
         Enemies[j][5] = 0;
         printf("\nHunkered (0/25)? 0");
         Enemies[j][6] = 0;
-        printf("\n");
+        printf("\n");*/
     }
     printf("\n");
 
@@ -69,7 +70,7 @@ void initPlayers(int numPlay, int** Players) {
     int j;
     for (j = 0; j < numPlay; j++) {
         printf("\nPlease only input numbers for the following Players:\n");
-        /*printf("\nHealth? ");
+        printf("\nHealth? ");
         scanf("%d", &Players[j][0]);
         printf("\nDR? ");
         scanf("%d", &Players[j][1]);
@@ -82,8 +83,9 @@ void initPlayers(int numPlay, int** Players) {
         printf("\nCover Bonus (0/25/50)? ");
         scanf("%d", &Players[j][5]);
         printf("\nHunkered (0/25)? ");
-        scanf("%d", &Players[j][6]);*/
-        printf("\nHealth? 120");
+        scanf("%d", &Players[j][6]);
+        
+        /*printf("\nHealth? 120");
         Players[j][0] = 120;
         printf("\nDR? 35");
         Players[j][1] = 35;
@@ -97,7 +99,7 @@ void initPlayers(int numPlay, int** Players) {
         Players[j][5] = 0;
         printf("\nHunkered (0/25)? 0");
         Players[j][6] = 0;
-        printf("\n");
+        printf("\n");*/
     }
     printf("\n");
     free(input);
