@@ -13,6 +13,30 @@ Prerequisites: Dex 7, level 6 and Dual Weild feat
 Reduce the miss penalty from dual weilding to 10% each. Reduce the reload penalty to reloading to 10%.
 You may fire at more than one target at once for an additional 20% to miss penalty.
 
+Aquired: Additional Plating
+Prerequisites: Marksman, Gunslinger
+Enables the use of Medium Armour by the listed classes.
+
+Aquired: Battle Ready
+Prerequisites: Pilot, Adept
+Enables the use of Heavy armour by the listed classes.
+
+Aquired: Metal Jacket
+Prerequisites: Soldier, Engineer, Adept, Berserker
+Enables the use of Full Armour by the listed classes.
+
+Aquired: The Clandestine Option
+Prerequisites: Soldier, Specialist, Pilot, Adept, Hunter, Warlock
+Enables the use of Concealed Armour by the listed classes.
+
+Aquired: The Stealth Option
+Prerequisites: Soldier, Engineer, Doctor, Priest, Pilot, Adept, Gunslinger, Warlock, Monk, Berserker
+
+Aquired: With Friends Like These . . .
+Prerequisites: Pilot, Engineer or Piloting 40
+
+Aquired: . . . Who Needs Nano-Technologies?
+Prerequisites: Pilot or "Aquired: With Friends Like These . . ." and Piloting 60
 
 
 Backstab:
