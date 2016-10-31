@@ -194,8 +194,14 @@ Plasma bolts are defined by the gas used and the bore of the barrel. A standard 
 	Argon
 
 	Krypton
+
+	Xenon
 	
 	//Long Rifles
+	Argon
+	Krypton
+	Xenon
+
 //	Lasers
 
 
