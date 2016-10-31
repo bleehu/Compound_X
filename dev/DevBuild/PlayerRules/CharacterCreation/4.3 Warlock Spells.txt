@@ -133,15 +133,19 @@ Cloud of Acid [30]: Creates a 10m cloud of acidic gas. Deals 20 damage per round
 
 Stun [20]: Paralyzes the target for 1 turn minimum, max P.Lvl # turns. Target rolls Shock save at DC 20 + 3*INT to resist. Range is 30m.
 
-//rework into two distinct spells to make it match the dematerializer theme more. Level one is the traditional tentical patch. Level 2 deals necrotic damage, literally eats away at what it is grappling.
 Summon Tenticals [40]: Summon a P.Lvl*1m circle of thick, black tentacles for 1+P.Lvl turns. All oponents in the circle must pass a grapple check, DC 30 + 10*P.Lvl, or they are pinned until they can overcome the grapple check. Anyone who moves into this circle must pass this check each round they are in the circle in order to retain their stance. Grappled opponents cannot move and their only action can be to resist the grapple.
 | 5
 #
-//balance actions available. Any skill check, movement, or attacks must be preceded by the passing of a str check.
-//limit number cast by warlocks?
-//visible in standard light, 50% invis when dark?
-//ability to get into confined spaces.
-//there needs to be connected space of patch in order for continuation of patch.
+
+
+Summon Tenticals [40]: Summon a circle of thick, black tenticals P.Lvl meters in diameter for P.Lvl+1 turns. All opponents who are in the circle or who move into the circle must pass a grapple check, DC [10*P.Lvl + 30] or they are pinned. This check must be made each round as a half action before the opponent can perform any other actions. On fail, they are trapped for the round. +50% to the tentical spot DC when in darkness. The tenticals only appear in adjacent open spaces. if the spell is cast next to a closed door, for example, the tenticals do not appear on both sides of the door.
+|
+| 4
+|
+V
+Necrotic Tenticals [50]: A circle of thick black tenticals with sinister green tips is generated as in the prior spell. Each time an opponent is successfully grappled, they take P.Lvl*10 Necrotic damage.
+| 2
+#
 
 Minimum level 5
 Acid Touch [30]: Deals 20+P.Lvl*10 Melting or Necrotic damage (depending on your character). DC is opponent''s armour%. on fail, deal the damage to the target''s armour% CHA m range.
