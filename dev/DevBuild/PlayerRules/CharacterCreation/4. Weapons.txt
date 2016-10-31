@@ -5,7 +5,7 @@
  * quest rewards.
  * All weapons deal an additional 10 damage when a roll of 90-95
  * occurs. This is a Critical hit. When a roll of 96-100 occurs, all
- * weapons deal an additional 20 damage. This is an Extra-Crit.
+ * weapons deal an additional 20 damage to base. This is an Extra-Crit.
  *=====================================*/
 
 ============================================================
@@ -87,13 +87,13 @@ Pistols:
 Minimum Strength 2, Reload DC 20 unless otherwise noted. With DEX less than 5, Single Action revolvers must be re-cocked as a half action. Reload time 2 Half Actions
 ============================================================
 
-ECSC Mk9 Auto $460
+ECSC Mk9 Auto $460 / $5
 30 m
 25%
 11 rds, 9mm Magazine; FMJ / HP
 41
 
-Mathews Model 19 $322
+Mathews Model 19 $322 / $3
 20 m
 30%
 6 rds, .357; FMJ / HP
@@ -101,19 +101,19 @@ Mathews Model 19 $322
 Reload 23%
 Single Action Revolver: cannot be fired as a free action.
 
-ECSC Mk26 Auto $490
+ECSC Mk26 Auto $490 / $6
 35 m
 35%
 15 rds, .40 Magazine; FMJ / CS
 43
 
-CZ 75 P01 $570
+CZ 75 P01 $570 / $7
 40m
 35%
 15rds, 10mm Magazine; FMJ / HP
 44
 
-Mathews Model 25 $490
+Mathews Model 25 $490 / $3
 30 m
 30%
 6 rds, .45 Long; FMJ / AP
@@ -121,19 +121,19 @@ Mathews Model 25 $490
 Reload 23%
 Single Action Revolver: cannot be fired as a free action.
 
-G&W 10mm Auto $500
+G&W 10mm Auto $500 / $7
 35 m
 35%
 15 rds, 10mm Magazine; CS
 44
 
-Anvil Armament P-45 $611
+Anvil Armament P-45 $611 / $6
 40 m
 35%
 12 rds, .45 Auto; FMJ / HP
 47
 
-Mathews Model 24 $910
+Mathews Model 24 $910 / $3
 50 m
 30%
 6 rds, .44 Magnum; FMJ / HP / AP
@@ -141,7 +141,7 @@ Mathews Model 24 $910
 Reload 23%
 Single Action Revolver: cannot be fired as a free action.
 
-Frontier Plas-8 $1320
+Frontier Plas-8 $1320 / $7
 45 m
 30%
 8 rds, Argon-8; LO-SV / HO-SV / LO-HV
@@ -153,39 +153,39 @@ Reload 28%
 
 ============================================================
 Sub-Machine Guns:
-Capable of high rates of fire, but utilizing lighter calibers than a traditional combat rifle. Fire DEX/3 shots per Half Action, rounding down. (DEX 5 = 2 shots, DEX 8 = 4 shots) Maximum LVL + 1.( All SMGs are considered CQB weapons)
+Capable of high rates of fire, but utilizing lighter calibers than a traditional combat rifle. Fire DEX/3 shots per Half Action, rounding down. (DEX 5 = 1 shots, DEX 8 = 2 shots) Maximum LVL + 1.( All SMGs are considered CQB weapons)
 Minimum Strength 4, Reload DC 25% unless otherwise noted. Reload time 2 Half Actions.
 ============================================================
 
-ECSC Mk9 MP $650
+ECSC Mk9 MP $650 / $14
 45 m
 30%
 33 rds, 9mm Magazine / HP
 41
 
-ECSC Mk7 PDW $740
+ECSC Mk7 PDW $740 / $10
 60m
 40%
 25rds 9mm / HP
 41
 
-Mathews M-01 Carbine $1400
+Mathews M-01 Carbine $1400 / $11
 85m
 40%
 20rds, .30 Carbine; FMJ / AP
 55
 
-G&W XMP 30 $910
+G&W XMP 30 $910 / $13
 65m
 35%
 30rds, .40 RMM / HP
 43
 
-Frontier 240M $1000
+Frontier 240M $1140 / $13
 With an innovative bolt design that rotates down 60 degrees after firing, the 240M is able to retain impressive accuracy due to decreased muzzle rise, even at high rates of fire.
 65m
-30%
-20rds 10mm
+20%
+30rds 10mm
 44
 
 ============================================================
@@ -195,33 +195,33 @@ Slug damage deals damage as a normal rifle would, dealing its full damage up to 
 Buck-Shot damage is dealt in 3 distinct distances, which are listed. All buck shot deals 2 bleed tokens to the target.
 Minimum Strength 4, Reload DC 30% unless otherwise noted. Reload time 3 Half Actions unless otherwise stated.
 ============================================================
-Mathews Model 2x12 $800
+Mathews Model 2x12 $800 / $1 per shell
 Miss:		20%
 Capacity:	2rds, 12ga Buck / Slug
 Buck Shot: 80 dam out to 3m, 65 out to 10m, 50 out to 20m.
 Slug: 60 dam out to 50m.
 Double-Barrel/Break-Barrel. Full action to reload. Each mag pouch in a peice of armor holds 8 shells.
 
-Anvil Arms Hunting Shotgun $900
+Anvil Arms Hunting Shotgun $900 / $1 per shell
 Miss:		15%
 Capacity:	6 rds +1 in chamber, 12ga Buck / Slug
 Buck Shot: 80 dam out to 3m, 65 out to 10m, 50 out to 20m.
 Slug: 60 dam out to 50m.
 
-Mathews Model 2287 $950
-45 m
+Mathews Model 2287 $950 / $3 for 5 shells
+45 m 
 23%
 5 rds, 20ga Slug / CS slug
 55
 Lever Action; Slugs only
 
-ECSC Mk900 $1000
+ECSC Mk900 $1000 / $1 per shell
 15%
 7 rounds + 1 in chamber, 12ga Buck / Slug
 Buck Shot: 80 dam out to 3m, 65 out to 10m, 50 out to 20m.
 Slug: 60 dam out to 50m.
 
-Mathews Over / Under $1200
+Mathews Over / Under $1200 / $1 per shell
 Miss:		10%
 Capacity:	2 rds, 12ga Slug / Buck / CS Buck
 Buck Shot: 80 dam out to 3m, 65 out to 10m, 50 out to 20m.
@@ -234,40 +234,40 @@ penalty. Reload DC 25%, Full Action reload time. Each mag pouch in a peice of ar
 Carbines & Battle Rifles
 Minimum Strength 5, Reload DC 25% unless otherwise noted. Reload time 2 Half Actions
 ============================================================
-Mathews .357 Carbine $1120
+Mathews .357 Carbine $1120 / $7
 75m
 35%
 15rds, .357; FMJ / AP / HP
 46
-All rounds are available in a .357 Mag. version, which increases the base damage by 5, but increases the cost of each magazine by 
+All rounds are available in a .357 Mag. version, which increases the base damage by 5, but increases the cost of each magazine by $1
 CQB rifle
 
-Anvil Arms C25 $1320
+Anvil Arms C25 $1320 / $14
 80m
 40%
 25rds, 5.45x39mm; FMJ / Tracer
 55
 
-ECSC Mk28 $1310
+ECSC Mk28 $1310 / $15
 75m
 30%
 30 rds, 5.56x45mm Rifle Magazine; FMJ / HP
 50
 CQB rifle
 
-Mathews M-01 Carbine $1400
+Mathews M-01 Carbine $1400 / $11
 85m
 40%
 20rds, .30 Carbine; FMJ / AP
 55
 
-Mathews SK0 $2220
+Mathews SK0 $2220 / $11
 130m
 40%
 20 rds, 7.62x39; FMJ / HP
 57
 
-G&W FBR-C $2390
+G&W FBR-C $2390 / $12
 110m
 30%
 20 rds, 7.62x51mm Rifle Magazine; FMJ / AP
@@ -280,50 +280,52 @@ Minimum Strength 5, Reload DC 25% unless otherwise noted. Reload time 2 Half Act
 Fire STR/3 shots per half action. Round down.
 ============================================================
 
-Anvil Arms AR-74 $1710
+Anvil Arms AR-74 $1370 / $17
 100m
 40%
 30 rds, 7.62x39mm Rifle Magazine; FMJ / AP / Incendiary
 57
 
-Anvil Arms AR-68 $1480
-80m
+Anvil Arms AR-68 $1850 / $17
+100m
 35%
 30 rds, 5.45x39mm Rifle Magazine; FMJ / HP / CS
 57
 
-ECSC Mk16 $2100
+ECSC Mk16 $2100 / $15
 120m
 30%
 30 rds, 5.56x45mm Rifle Magazine; FMJ / Tracer
 50
 Tracer inflicts 1 turn of bleed damage.
 
-G&W FBR $2600
+G&W FBR $2600 / $12
 120m
 30%
 20 rds, 7.62x51mm Rifle Magazine; FMJ / AP
 62
 
-ECSC Mk249 $1950
+ECSC Mk249 $1950 / $50
 Requires strength of 7 to carry
 120m
 35%
-100 rds, 5.56x45mm Ammo Belt; Tracer Rounds / CS
+100 rds, 5.56x45mm Linked; Tracer Rounds / CS
 50
 Supporting fire
 Tracer Rounds inflict 1 bleed damage, 1 burn on next turn.
 Minimum Strength 7 to carry. Reload DC 40%
 
-Anvil Arms KMR $3470
+Anvil Arms KMR $3470 / $50
+Requires strength of 7 to carry
 160m
 30%
-80 rds, 7.62 x 51mm Belt
+80 rds, 7.62 x 51mm Linked
 62, Bleed Damage
 Supporting Fire
 Minimum 7 Str to carry. 40% reload
 
-Mathews Model 240-B $3720
+Mathews Model 240-B $3720 / $50
+Requires strength of 7 to carry
 160m
 25%
 80 rds, .308 RMM-Mag Belt
@@ -333,21 +335,26 @@ Minimum 7 Str to carry. 40% reload.
 
 ============================================================
 Heavy Weapons:
-Reload DC 40%, strength required 5 unless otherwise stated.
+Reload DC 40%, strength required 6 unless otherwise stated.
 A full action to reload unless otherwise stated.
 ============================================================
 
-Anvil Arms XM-545 Minigun $3000
-Reqires Strength of 7 to carry.
+G&W AA-29 Personal Flack Cannon $2070 / $18
+15%
+100 dam out to 10m, 80 out to 20m, 60 out to 50m.
+20 rounds, 
+Each shot into a door reduces the DC of kicking down that door by 65. If the DC becomes 0, the door is blown open. No optics or barrel attachments.
+
+Anvil Arms XM-545 Minigun $3000 / $150
+Reqires Strength of 8 to carry.
 60m
-0%
+30%
 300 rds, 5.45 x 39 mm belt; 
 50 damage
-Requires 1 full action of spin-up time.
+Requires 1 full action of spin-up time. Fires STR/3 rounds per Half-Action, round down.
 Supporting Fire. No optics, barrel attachments or extended mags.
 
-Strudwick Arms Ultralight Autocannon $7600
-Requires strength 6 to carry.
+Strudwick Arms Ultralight Autocannon $7600 / $200
 140m
 30%
 4 rounds, 20mm vicinity detonating HE rounds.
@@ -355,23 +362,13 @@ Requires strength 6 to carry.
 Damages vehicles. No optics or barrel attachments.
 Clips cost $200 each
 
-G&W AA-29 Personal Flack Cannon
-Requires strength 6 to carry
-50m range
-15%
-180 dam out to 3m, 80 out to 10m, 20 out to 20m.
-6 rounds, Deathmetal custom flack rounds
-Each shot into a door reduces the DC of kicking down that door by 65. If the DC becomes 0, the door is blown open. No optics or barrel attachments. 0% chance to miss airborne targets.
-Clips cost $120 each
-//flak cannon from unreal tournament / roadhog's shotgun from overwatch
-
 ============================================================
 Long Rifles:
 On all engagements farther than 200m, you must take 1 Full Action to adjust your scope for windage and elevation between targets of differing distance.
 Minimum 5 strength to carry. All targets are inflicted with "Pinned" condition when hit. Reload DC 30% unless otherwise noted. Reload time 3 Half Actions.
 ============================================================
 
-ECSC PRS $4325
+ECSC PRS $4325 / $4
 10-150m
 15%
 7 rds, .300 Blackout; FMJ / AP
@@ -380,27 +377,21 @@ Bolt Action: take 1 action to fire, 1 action to chamber a new round.
 Integrated Improved Silencer.
 Reload DC 26%, 2 Half Actions
 
-ECSC Mk12 Mod 0 $3500
+ECSC Mk12 Mod 0 $3500 / $10
 20-200m
 30%
 20 rds, 5.56x45mm Rifle Magazine; FMJ
 50
 Reload DC 25%, 2 Half Actions
 
-ECSC PRS $5000
-10-150m
-15%
-7 rds, .300 Blackout; FMJ / AP
-60
-
-Anvil Arms SR-150 $5440
+Anvil Arms SR-150 $5440 / $3
 20-200m
 20%
 5 rds, 7.62x54R; FMJ / AP
 68
 Bolt action: take 1 action to chamber round, 1 action to fire.
 
-Anvil Arms SR-250 $8160
+Anvil Arms SR-250 $8160 / $5
 30-300m
 20%
 5 rds, 7.62x54R; FMJ / AP
