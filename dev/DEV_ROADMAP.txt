@@ -12,7 +12,7 @@ Version 1.6:
 External Augments [Done]
 Fix Armour Pricing for shield units.
 Level 10 Support
-    - Weapons
+    - Weapons 
     - Items
     - Armour [Taylor]
     - Attachments
