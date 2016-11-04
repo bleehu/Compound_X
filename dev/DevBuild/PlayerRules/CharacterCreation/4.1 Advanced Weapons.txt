@@ -105,7 +105,7 @@ Fires a concentrated stream of high-velocity particles.
 ============================================================
 Sub-Machine Guns:
 Capable of high rates of fire, but utilizing lighter calibers than a traditional combat rifle. Fire DEX/2 shots per full turn, rounding down. (DEX 5 = 2 shots, DEX 8 = 4 shots) Maximum LVL + 1.( All SMGs are considered CQB weapons)
-Minimum Strength 4, Reload DC 25% unless otherwise noted. Reload time 2 Half Actions.
+Minimum Strength 4, Reload DC 25% unless otherwise noted. Reload time 2 Half Actions. Jam range 2%
 ============================================================
 
 Anvil Arms AR-34 PDW $1070 / $13
@@ -236,6 +236,7 @@ Each successive headshot increases damage by 15 to a max of 90.
 ============================================================
 Automatic Rifles:
 Minimum Strength 5, Reload DC 25% unless otherwise noted. Reload time 2 Half Actions.
+Fire STR/3 shots per half action, Round down. Jam range 2%
 ============================================================
 
 G&W XK20 12EP $2420 / $13
