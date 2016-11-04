@@ -7,8 +7,13 @@
  *======================================*/
 
 //		Pistol Rounds
-.22
+.22 Long Rifle
 30 m, 30 damage
+Typical mag size: 20 and 25 for pistols, 30 and 35 for smgs.
+civilian, subsonic
+
+.22 LR Magnum
+60 m,  40 damage
 Typical mag size: 20 and 25 for pistols, 30 and 35 for smgs.
 civilian, subsonic
 
@@ -102,14 +107,20 @@ russian military.
 Typical mag size: 20 for carbines and long rifles, 30 or 40 for assault rifles, 200 or 250 for lmgs.
 ECSC military.
 
+6.5 mm grendle
+100 m, 68 damage
+typical mag size: 20 for carbines, 30 for assault rifles
+military, special purpose round. Same form factor as 5.56x45 NATO.
+
 6.78 x 41 mm
 90 m, 55 damage
 Typical mag size: 20 or 25.
 russian custom round, rare.
 
-6.8 mm grendle
-80 m, 57 damage
-typical mag size: 18 for carbines, 26 or 30 for assault rifles
+6.8 mm RMM SPC
+120 m, 63 damage
+typical mag size: 20 or 22 for carbines, 30 for assault rifles.
+military, special purpose round. Same form factor as 5.56x45 NATO.
 
 .30 carbine / .30-06
 90 m, 55 damage
@@ -119,7 +130,7 @@ civilian, especially mid-rim.
 .300 Blackout
 85 m, 60 damage
 Typical mag size: 10 or 15 for carbines, 7 for long rifles.
-military, special purpose round.
+military, special purpose round. Same form factor as 5.56x45 NATO.
 
 7.62 x 39
 90 m, 57 damage
@@ -128,7 +139,7 @@ russian military. AK-47 round.
 
 //Long rifle rounds
 .308
-300 m, 62 damage
+300 m, 65 damage
 Typical mag size: 7 to 10 for long rifles, 100 for lmgs.
 ECSC military.
 
