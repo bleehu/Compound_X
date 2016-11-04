@@ -154,7 +154,7 @@ Reload 28%
 ============================================================
 Sub-Machine Guns:
 Capable of high rates of fire, but utilizing lighter calibers than a traditional combat rifle. Fire DEX/3 shots per Half Action, rounding down. (DEX 5 = 1 shots, DEX 8 = 2 shots) Maximum LVL + 1.( All SMGs are considered CQB weapons)
-Minimum Strength 4, Reload DC 25% unless otherwise noted. Reload time 2 Half Actions.
+Minimum Strength 4, Reload DC 25% unless otherwise noted. Reload time 2 Half Actions. Jam range 2%
 ============================================================
 
 ECSC Mk9 MP $650 / $14
@@ -277,7 +277,7 @@ CQB rifle
 ============================================================
 Automatic Rifles:
 Minimum Strength 5, Reload DC 25% unless otherwise noted. Reload time 2 Half Actions
-Fire STR/3 shots per half action. Round down.
+Fire STR/3 shots per half action, Round down. Jam range 2%
 ============================================================
 
 Anvil Arms AR-74 $1370 / $17
@@ -351,7 +351,7 @@ Reqires Strength of 8 to carry.
 30%
 300 rds, 5.45 x 39 mm belt; 
 50 damage
-Requires 1 full action of spin-up time. Fires STR/3 rounds per Half-Action, round down.
+Requires 1 full action of spin-up time. Fires STR/3 rounds per Half-Action, round down. Jam range 2%
 Supporting Fire. No optics, barrel attachments or extended mags.
 
 Strudwick Arms Ultralight Autocannon $7600 / $200
