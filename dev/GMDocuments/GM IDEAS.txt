@@ -83,6 +83,49 @@ Un-percievable damage?
 
 Noisey Cricket gun. Very expensive, lots of damage, not available to melee classes and warlocks
 
+//Pistol
+RMM Number 2 $2560 / $10
+60m
+2%
+24 rds, .22 LR Magnum;
+40 Damage.
+2 round burst only, second shot is 4% accuracy
+
+//Shotgun
+
+//SMG
+RMM Number 7 $5640 / $28
+80 m
+7%, -5% per hit on burst or sustained automatic fire.
+60 rds, 5.7 mm; FMJ
+48 Damage.
+Two fire modes: traditional automatic mode, and three round burst.
+
+//Battle Rifle
+Demarani IV $4340 / $17
+100 m
+-15%
+24 rds, 6.5mm Grendle
+68 Damage, +5 / +10 crit range.
+
+//Automatic Rifle
+Excalibur $9960 / $14
+300 m
+5%
+22 rds, .308;
+65 Damage. +5/+5 crit range.
+On hit, stun target, DC 75
+//Long Rifle
+Muzashi Phantom-Bow $30,287 / $9
+0-675 m
+-10%
+13 rds, .338 Lapua Magnum
+70 Damage. 80/85 crit ranges.
+Bolt-Action. Integrated Level 2 flash and sound suppressor makes the gun whisper silent.
+
+Vorpel Rounds $200+mag cost
+	On a roll of a natural 96-100, instead of dealing extra-crit damage, the shooter scores a headshot, removing the head of the target. If the target would normally die from losing its head, it does so.
+
 //=============================
 // Characters
 
