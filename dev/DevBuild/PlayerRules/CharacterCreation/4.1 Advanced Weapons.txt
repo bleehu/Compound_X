@@ -99,7 +99,7 @@ Fires a concentrated stream of high-velocity particles.
 45m
 0%
 10 rds, HV-H+ Beam round.
-75. Ignore Armour. Not affected by CS
+75. Ignore Armour and CS shielding. Still affected by Nanite Shielding.
 
 
 ============================================================
@@ -184,7 +184,7 @@ Particle Scatter-Gun $2850 / $4 per shell
 This cannon releases multiple difused streams of particles for maximum target coverage. Auto range-adjustment enables the angle of blast cone to change based on target distance. This enables a uniform spread regardless of range.
 0%
 8 rds, HV-H+_D rds. 12ga form factor.
-95 dam out to 10m, 90 out to 25m, 85 out to 50m. Ignore Armor. Not affected by CS
+95 dam out to 10m, 90 out to 25m, 85 out to 50m. Ignore Armour and CS shielding. Still affected by Nanite Shielding.
 Semi-Automatic
 Lightning erupts around the muzzle as this gun is fired, and a solid yellow-white beam of particles is ejected towards the target. The pure intensity and concentration of particles boils away most substances it comes into contact with. Cannot be equipped with any barrel attachments.
 
@@ -258,7 +258,7 @@ Particle Rifle  $7000 / $23
 200m
 0%
 25 rds, HV-H+
-70
+70. Ignore Armour and CS shielding. Still affected by Nanite Shielding.
 Lightning erupts around the muzzle as this gun is fired, and a solid yellow-white beam of particles is ejected towards the target. The pure intensity and concentration of particles boils away most substances it comes into contact with. Cannot be equipped with any barrel attachments.
 
 ============================================================
@@ -285,7 +285,7 @@ Mathews TX-8 Rotary Grenade Launcher $1470 / Cost for each round is 10% the cost
 60m
 30%
 8 rds, 40mm HE; AA / CHEM / FRAG / PLAS
-HE: 70 Explosive damage in 5m radius.
+HE: 70 Explosive damage in 5m diameter.
 AA: Target takes 50 Damage to their armor, and takes 2 turns of bleed damage. (d10 / 2)
 CHEM: creates a 5m cloud of burning, choking smoke. targets take 30 Poison damage and become sickened for 4 turns until they can pass a FORT save at 70%. each turn they take an additional 10 damage.
 FRAG: See ECSC Fragmentation grenade.
@@ -322,18 +322,18 @@ Takes 1 half action to charge and 1 half action to fire.
 The user may choose to continue firing for a number of turns, and doesn''t need to pause to aim or charge up a shot when doing so.
 All targets in a line 1 meter wide from the user must pass a DC 80 Reflex saving throw.
 
-Frontier EMC-9 $34000 / $4
+Sustained Beam Cannon $16,500 / $150
+500m
+0%
+100 rds, HV-H+_High-Output
+50. Ignore Armour and CS shielding. Still affected by Nanite Shielding.
+This weapon spews forth a thick stream of high-velocity particles which start as a thick beam, but narrow as the rifle is fired for a longer period of time. Each successive shot, -5% miss, +5 damage. Max burst: (Knowledge[Nanites]/10) + 2. Cool down: 1 Full Action.
+
+Frontier EMC-9 $37,000 / $5
 1000m
 20%
 5 rds, 11x45mm NiU Rod
 80, + Bleed Damage
-
-Sustained Beam Cannon $18,700 / $120
-500m
-0%
-100 rds, HV-H+_High-Output
-50
-This weapon spews forth a thick stream of high-velocity particles which start as a thick beam, but narrow as the rifle is fired for a longer period of time. Each successive shot, -5% miss, +5 damage. Max burst: (Knowledge[Nanites]/10) + 2. Cool down: 1 Full Action.
 
 
 -----------------------------------------
@@ -402,7 +402,7 @@ Due to high velocities used in long rifle bullets, when a target is under the mi
 Minimum 5 strength to carry. All targets are inflicted with Pinned condition when hit. Reload DC 30% unless otherwise noted. Reload time 3 Half Actions.
 ============================================================
 
-G&W XK20 Mod 0 HE $11,380 / $14
+G&W XK20 Mod 0 HE $7550 / $14
 20-200m / 500m
 35%
 20 rds, 13x54mm HE Magazine; SPB / SPB CS
@@ -412,17 +412,17 @@ In addition, the High Energy variant requires 1 action of charge up time.
 Because of the large caliber round size, target takes penetrating damage. Reload DC 26%, Reload time 2 Half Actions.
 Marksman only.
 
-Frontier Plas-5 HE $38,000 / $6
+Frontier Plas-5 HE $15,600 / $6
 Minimum 6 strength to carry
 30-1000m
 30%
 5 rds, Krypton-20; HO-HE / HO-HV Xenon
 80
-HO-HV consists of Xenon plasma. These shots burst on impact, dealing 3 Plasma Burns to targets within 5m at 80% chance.
+HO-HV consists of Xenon plasma. These shots burst on impact, dealing 3 Plasma Burns to targets within 2m at 80% chance. These magazines cost $28.
 All ammo inflicts 2 Plasma Burn.
 Reload time 2 Half ACtions
 
-Mathews BA .408 $64,000 / $12
+Mathews BA .408 $25,900 / $7
 Minimum 6 strength to carry
 40-150m / 20-2000m
 45% / 20%
@@ -431,11 +431,11 @@ Minimum 6 strength to carry
 Due to the complex nature of this Special Purpose Rifle, it requires extensive military style training in order to unlock its full potential. If you do not have at least a skill level of 30 in sniping, you cannot fire this effectively, and take a +15% to accuracy from the low range.
 Penetrating Damage. Marksman Only. Target recieves Bleeding condition, DC 80
 
-Beam Rifle $82,500 / $20
+Beam Rifle $28,500 / $21
 1500m
 0%
 6rds, HV-H+_LR (.400 Heavy Rifle form factor);
-85. Ignore Armour. Not affected by CS.
+85. Ignore Armour and CS shielding. Still affected by Nanite Shielding.
 "Bolt Action", requires 1 Half-Action of cooldown time, which is accompanied by the cycling of the bolt.
 Lightning erupts around the muzzle as this gun is fired, and a solid yellow-white beam of particles is ejected towards the target. The pure intensity and concentration of particles boils away most substances it comes into contact with. Cannot be equipped with any barrel attachments.
 
