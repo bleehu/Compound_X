@@ -65,21 +65,21 @@ A tremendous zap occurs as each bank of capacitors discharges in an instant, acc
 ============================================================
 Sub-Machine Guns:
 Capable of high rates of fire, but utilizing lighter calibers than a traditional combat rifle. Fire DEX/2 shots per full turn, rounding down. (DEX 5 = 2 shots, DEX 8 = 4 shots) Maximum LVL + 1.( All SMGs are considered CQB weapons)
-Minimum Strength 4, Reload DC 25% unless otherwise noted. Reload time 2 Half Actions.
+Minimum Strength 4, Reload DC 25% unless otherwise noted. Reload time 2 Half Actions. Jam range 2%
 ============================================================
+
+Paralax DE-22 Ghostbuster	$1440 / $15
+60m
+20%
+30 exposure battery
+35 laser damage
+doesn''t jam; overheats burning user for 15 damage.//overheats when?
 
 ECSC MK9 PDW				$3600//naming
 50m
 40%
 30 rounds 9mm
 40 damage
-
-Paralax DE-22 Ghostbuster	$7200
-60m
-20%
-30 exposure battery
-35 laser damage
-doesn''t jam; overheats burning user for 15 damage.//overheats when?
 
 Muzashi K-DS $3340 / $26
 90 m
@@ -180,7 +180,7 @@ A tremendous zap occurs as each bank of capacitors discharges in an instant, acc
 ============================================================
 Automatic Rifles:
 Minimum Strength 5, Reload DC 25% unless otherwise noted. Reload time 2 Half Actions
-Fire STR/3 shots per half action. Round down.
+Fire STR/3 shots per half action. Round down. Jam range 2%
 ============================================================
 
 ECSC AR-SOC L               $2440
@@ -342,13 +342,6 @@ G&W XEV $43,312 / $29
 20 rds, Xenon-20 Disc;
 90 dam, 3 x Plasma Burn
 Bolt-Action
-
-Muzashi Phantom-Bow $30,287 / $9
-0-675 m
--10%
-13 rds, .338 Lapua Magnum
-70 Damage. 80/85 crit ranges.
-Bolt-Action. Integrated Level 2 flash and sound suppressor makes the gun whisper silent.
 
 SRS 99 Series 5 $68,000
 Requires 6 strength to carry
