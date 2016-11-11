@@ -97,3 +97,28 @@ The planet is mostly desert, except for the poles which are more temperate.
 
 
 
+
+
+
+
+
+
+
+
+//=======================================
+// Big Game Hunting / Monster Hunting
+//=======================================
+
+Group finds a clue to a vast fortune. The clue warns them of extreme danger between them and an ancient artifact. The artifact holds clues for the location of the Cache.
+
+Location 1: 0067 Hydri IV
+
+This planet's high-elevation mountians are covered in thick, sprawling "jungles". It is not inhabbited by humans due to a carbon dioxide rich atmosphere which is toxic to Terran species. Gravity is a little higher than on earth, so players take a -1 strength penalty while on the surface or at low orbit.
+
+Scanning the planet takes a DC 65 Piloting or Computer Use check to find a weak beacon of sorts. This beacon leads to a small clearing near a cliff-face, at the foot of a small mountain range. Unbeknownst to the group, these mountains are filled with wolf-hawks, which will hunt the players down. If anyne makes a navigation or spot check higher than 65, they see an overgrown trail marker, leading them to the cliff-face.
+
+On closer inspection of the cliff, it can be observed that there is a small crevasse, with what looks like hand-holds. Players will need to make several climbing checks, each DC 40. Once the travellers have successfully passed a few checks each, they find themselves atop a small shelf at the mouth of a dark, tall, tunnel which is shielded from the roaring Calcium Hydroxide ocean below.
+
+The Cave is dry and very straight. A survival 30 check will reveal that it was probably carved through the ground, and not naturally occuring. A survival 50 check reveals that the cave slopes ever so slightly upward, keeping a farily constant distance from the surface of the planet. There is one trap 100m into the cave
+
+https://www.reddit.com/r/rpg/comments/1l72cw/10000_greatest_traps_puzzles/#bottom-comments
