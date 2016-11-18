@@ -16,9 +16,8 @@ Each player has what are called S.P.F.C.I.D.L. Stats. These stats [and their sub
 Stats are broken down per the following equation:
   Stat Bonus = (4 * Stat) - 20
   Stat Bonuses are used for the calculation of skill checks, weapon accuracy, etc.
-  Stats are not used for calculation, except for luck with the calculation of EP, and also saving throws.
-  EP = [(Level+1) * Luck] + 10
-  IC = [(Level + 1)* 10 * Luck] + 100
+  Stats are not used for calculation. and also saving throws.
+  Imperial Credits [IC] = [(Level + 1)* 150 * Luck] + 100
 
 Strength: Physical aptitude with regard to lifting and exertion of pure force.
 Perception: Ability to see, hear, taste, smell, feel and experience the world around you.
