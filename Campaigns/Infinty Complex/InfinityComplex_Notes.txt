@@ -1,0 +1,19 @@
+/*=============================================================================
+ * The Infinity Complex
+ * A Compound_X Adventure by Taylor Rowland
+ *
+ * This adventure is meant for level 1 characters who will advance through
+ * level 10.
+ *===========================================================================*/
+
+ //Intro
+
+ The group starts aboard a civilian transport ship which is taking people from one of the outer-rim colonies to worlds closer to the ECSC core, away from the war. All sorts can be found on ships such as these, from the poor craftsman hoping to find a better life in more stable conditions, to the expert mercenary, looking to offer their services in a region whose main fighting body has left to defend the Empire.
+
+ This ship is divided into three main regions, Main Storage / Habitation, Crew Decks, and Engine & Maintenance. The group starts in the habitation region, in the middle of the ship. There are three very large hangers that rotate around a central pillar that connects the front to the rear of the ship.
+
+ At the back of this section, built into the central collumn but not quite a part of the rear engine region, are landing / transfer ships used to ferry crew or passengers to planets or other ships when a large ship dock is not available.
+
+ The group starts in Hangar 1. It is an area about the sie of 2 large football fields. There are rudamentary "lodgings" built up inside. It is clear that his ship is a repurposed deep-space freighter, as the lodgings are made of old shipping containers.
+
+ Guards limit access in and out of the bay during transit. The Crew and Engine regions are strictly off limits, and offenders are punished to the full extent of the law. Usually this means getting thrown in the brig and off-worlded at the ships' nearest convenience.
