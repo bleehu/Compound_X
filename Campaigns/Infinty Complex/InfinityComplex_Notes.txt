@@ -8,7 +8,7 @@
 
 //Intro
 
-The group starts aboard a civilian transport ship which is taking people from one of the outer-rim colonies to worlds closer to the ECSC core, away from the war. All sorts can be found on ships such as these, from the poor craftsman hoping to find a better life in more stable conditions, to the expert mercenary, looking to offer their services in a region whose main fighting body has left to defend the Empire.
+The group starts aboard a civilian transport ship, the Jewel of Kzalka, which has seen much better days. It is tasked with taking people from one of the outer-rim colonies to worlds closer to the ECSC core, away from the war. All sorts can be found on ships such as these, from the poor craftsman hoping to find a better life in more stable conditions, to the expert mercenary, looking to offer their services in a region whose main fighting body has left to defend the Empire.
 
 This ship is divided into three main regions, Main Storage / Habitation, Crew Decks, and Engine & Maintenance. The group starts in the habitation region, in the middle of the ship. There are three very large hangers that rotate around a central pillar that connects the front to the rear of the ship.
 
