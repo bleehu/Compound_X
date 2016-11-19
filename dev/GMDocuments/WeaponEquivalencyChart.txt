@@ -1,0 +1,11 @@
+/*=============================================================================
+ * Weapon Equivalency Chart
+ * This form documents the relationship between in-game weapons and their real-
+ * world inspirations.
+ * This document is for clarification only and not meant to be used as
+ * referential material. It should be considered supplemental material only.
+ *===========================================================================*/
+
+//====================
+// Pistols
+//====================
