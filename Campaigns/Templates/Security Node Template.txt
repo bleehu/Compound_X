@@ -30,7 +30,7 @@ Root Nodes / Local Nodes: //for wireless networks / terminal networks
 
 [B]C1:30 {
 	[B]F1:45 {
-		[B]N1:0{//Local File System
+		[B]N1:0 {//Local File System
 			[I]C1:25//Camera 1, views outside the gate.
 			[I]C2:30//Camera 2, views outside hall leading to guard office
 			[I]G1:75//Main Gate
