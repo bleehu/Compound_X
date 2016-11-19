@@ -93,7 +93,7 @@ ECSC Mk9 Auto $460 / $5
 11 rds, 9mm Magazine; FMJ / HP
 41
 
-Mathews Model 19 $322 / $3
+Matthews Model 19 $322 / $3
 20 m
 30%
 6 rds, .357; FMJ / HP
@@ -113,7 +113,7 @@ CZ 75 P01 $570 / $7
 15rds, 10mm Magazine; FMJ / HP
 44
 
-Mathews Model 25 $490 / $3
+Matthews Model 25 $490 / $3
 30 m
 30%
 6 rds, .45 Long; FMJ / AP
@@ -133,7 +133,7 @@ Anvil Armament P-45 $611 / $6
 12 rds, .45 Auto; FMJ / HP
 47
 
-Mathews Model 24 $910 / $3
+Matthews Model 24 $910 / $3
 50 m
 30%
 6 rds, .44 Magnum; FMJ / HP / AP
@@ -169,12 +169,6 @@ ECSC Mk7 PDW $740 / $10
 25rds 9mm / HP
 41
 
-Mathews M-01 Carbine $1400 / $11
-85m
-40%
-20rds, .30 Carbine; FMJ / AP
-55
-
 G&W XMP 30 $910 / $13
 65m
 35%
@@ -195,7 +189,7 @@ Slug damage deals damage as a normal rifle would, dealing its full damage up to 
 Buck-Shot damage is dealt in 3 distinct distances, which are listed. All buck shot deals 2 bleed tokens to the target.
 Minimum Strength 4, Reload DC 30% unless otherwise noted. Reload time 3 Half Actions unless otherwise stated.
 ============================================================
-Mathews Model 2x12 $800 / $1 per shell
+Matthews Model 2x12 $800 / $1 per shell
 Miss:		20%
 Capacity:	2rds, 12ga Buck / Slug
 Buck Shot: 80 dam out to 3m, 65 out to 10m, 50 out to 20m.
@@ -208,7 +202,7 @@ Capacity:	6 rds +1 in chamber, 12ga Buck / Slug
 Buck Shot: 80 dam out to 3m, 65 out to 10m, 50 out to 20m.
 Slug: 60 dam out to 50m.
 
-Mathews Model 2287 $950 / $3 for 5 shells
+Matthews Model 2287 $950 / $3 for 5 shells
 45 m 
 23%
 5 rds, 20ga Slug / CS slug
@@ -221,7 +215,7 @@ ECSC Mk900 $1000 / $1 per shell
 Buck Shot: 80 dam out to 3m, 65 out to 10m, 50 out to 20m.
 Slug: 60 dam out to 50m.
 
-Mathews Over / Under $1200 / $1 per shell
+Matthews Over / Under $1200 / $1 per shell
 Miss:		10%
 Capacity:	2 rds, 12ga Slug / Buck / CS Buck
 Buck Shot: 80 dam out to 3m, 65 out to 10m, 50 out to 20m.
@@ -234,7 +228,7 @@ penalty. Reload DC 25%, Full Action reload time. Each mag pouch in a peice of ar
 Carbines & Battle Rifles
 Minimum Strength 5, Reload DC 25% unless otherwise noted. Reload time 2 Half Actions
 ============================================================
-Mathews .357 Carbine $1120 / $7
+Matthews .357 Carbine $1120 / $7
 75m
 35%
 15rds, .357; FMJ / AP / HP
@@ -255,13 +249,13 @@ ECSC Mk28 $1310 / $15
 50
 CQB rifle
 
-Mathews M-01 Carbine $1400 / $11
+Matthews M-01 Carbine $1400 / $11
 85m
 40%
 20rds, .30 Carbine; FMJ / AP
 55
 
-Mathews SK0 $2220 / $11
+Matthews SK0 $2220 / $11
 130m
 40%
 20 rds, 7.62x39; FMJ / HP
@@ -324,7 +318,7 @@ Requires strength of 7 to carry
 Supporting Fire
 Minimum 7 Str to carry. 40% reload
 
-Mathews Model 240-B $3720 / $50
+Matthews Model 240-B $3720 / $50
 Requires strength of 7 to carry
 160m
 25%
