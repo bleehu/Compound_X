@@ -1,0 +1,44 @@
+/*=============================================================================
+ * Security Node Template
+ * Nodes are represented as either Blocks [B], Interactable [I],
+ * Information [N], or Traps [T].
+ * Blocks: N, network access; F, firewall; C, encrpytion . . .
+ * Interactables: D, door; L, light; . . .
+ * Information: S, storage; . . .
+ * Traps: W, watchdog that reports back to a netadmin or counter-hacker; M,
+ * malware which infects the attacker somehow; Traps may present themselves any of the other three types of node.
+ *===========================================================================*/
+
+Main Access type: //this can be Terminal, Wireless Network, Mainframe, Cloud, etc.
+//Terminal Network with supplimentary approved device access.
+Wireless Availability: //Open, Secure (add the DC), Hidden (add the DC)
+//Hidden, DC 65 find and DC 50 Decrypt
+Network Name: //if applicable
+
+//===================
+Firewall Access DC: //generally speaking, any network worth accessing is going to have a firewall even after accessing the network. Finding the password and decrypting it is like finding the entrance to a grubby underground bar in a back alley. Congrats, you can see the entrance, but there is a bouncer at the door or behind the door. The door and bouncer represent the encryption and the firewall, respectively. More secretive establishments generally don't telegraph themselves, so they'll have the firewall behind encrypted access. this protects them in two ways, by not advertising their security and also stopping most people from even making inquiries due to not even seeing a bouncer present. For all intents and purposes the bar might seem closed. Then you see someone perform a secret knock on the door, talk to the bouncer, and they are let inside.
+//===================
+Root Nodes / Local Nodes: //for wireless networks / terminal networks
+	[I]D1:30//Door 1, DC 30 to interract.
+	[I]L1:30//Light 1, DC 30 to interract.
+	[B]N1:60//Netwrok access, DC 60 to continue accessing deeper areas or other terminals.
+//At this point, if the system is terminal based, I might stop. If the system is network based, Form a tree with the highest level being the outermost firewall or encryption. Use tabs to note which systems are on the same level.
+
+//============================================
+// Example Network for a small guard outpost |
+//===========================================
+
+[B]C1:30 {
+	[B]F1:45 {
+		[B]N1:0{//Local File System
+			[I]C1:25//Camera 1, views outside the gate.
+			[I]C2:30//Camera 2, views outside hall leading to guard office
+			[I]G1:75//Main Gate
+			[I]D1:50//Exterior Door
+			[I]D2:65//Interrior Door
+		}
+		[B]N2:50 {//Further up the chain
+			[N]R1:0//basic chat client that allows radio communication with main base.
+		}
+	}
+}
