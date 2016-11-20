@@ -48,3 +48,29 @@ Anchor (magical motion)
 Sleep
 
 Stun
+
+
+//==============================
+// Original Warlock
+//==============================
+"Warlock" - None can quite understand the training you''ve undergone. What is known is that you have studied extensively with High Preists of the HoloNet or underneath a very powerful Sorcerer. You are capable of doing things with your nanites others couldn''t even dream of.
+Passives: Gain Sorcery at 20. Gain 100 Nanites.
+Weapon Proficiencies: Pistols.
+Armour Proficiencies: Light.
+Feats: (Damage buffs do not stack. Damage buffs based on first feat taken.)
+----------------------
+Battle-Mage:
+Gain [Level/5] * 50 Nanites; Spend two Full Actions to meditate. Regain a number of Nanites equal to the result - 40, Knowledge [Nanites]. All spell damage dealt is increased by 5 per 2 Warlock levels.
+|
+|
+|
+V
+Gain [Level/5]* 50 Nanites; Spend two Full Actions to meditate. Regain a number of Nanites equal to the result, Knowledge [Nanites] + 10. All Spell Damage is increased by 5 per Warlock Level.
+-----------------------
+Sorcerer:
+Gain [Level/5]* 50 Nanites; Pick a classification of spells. All spells in this class cost 10 Nanites less to cast. Any damage dealt or health restored is increased by 10.
+|
+|
+|
+V
+Gain [Level/5]* 50 Nanites; All spells in this school cost 20 Nanites less to cast. Any damage dealt or health restored is increased by 20
