@@ -38,7 +38,6 @@ Prerequisites: Pilot, Engineer or Piloting 40
 Aquired: . . . Who Needs Nano-Technologies?
 Prerequisites: Pilot or "Aquired: With Friends Like These . . ." and Piloting 60
 
-
 Backstab:
 Prerequisites: Level 3 and higher Assassins and Monks.
 Any damage dealt to an unaware opponent from behind deals Extra-Crit damage.
@@ -118,7 +117,7 @@ Tires were meant to be balded. You get a +20 to any difficult maneuver with a la
 
 Gunsmith: 
 Prerequisites:
-Combine up to 2 weapon total conversions (ask GM about applicability of desired conversations).
+Combine up to 2 weapon total conversions. Ask GM about applicability of desired conversations.
 
 Hands of an artist:
 Prerequisites: Dex 7 or higher
@@ -223,7 +222,7 @@ The first time this feat is taken, enemies shot at must pass a Shock DC of 30 in
     - -20% on a hit against the enemy on your next shot if they move after suppression.
 
 Tele-Cast
-Prerequisites: Paladin, Warlock
+Prerequisites: Paladin, Sorcerer, Mage.
 You may use a mellee weapon to perform touch effect spells.
 
 Toughness: 
@@ -268,21 +267,6 @@ Prerequisites: Dex 10 or Level 8 or higher assassin / berserker. +20% to armour 
 Wealthy Sponsor: 
 Prerequisites:
 Gain LUK * Lvl * 750 credits.
-
-Weapon Training Elective - Carbine:
-Prerequisite: Cannot be taken by the following classes:
-Pilot, Assassin, Warlock, Monk, Beserker, Soldier, Priest
-Gain access to Carbines/Battle Rifles
-
-Weapon Training Elective - Shotguns:
-Prerequisite: Cannot be taken by the following classes:
-Pilot, Assassin, Warlock, Monk, Beserker, Soldier, Priest
-Gain access to Shotguns
-
-Weapon Training Elective - SMG:
-Prerequisite: Cannot be taken by the following classes:
-Pilot, Assassin, Warlock, Monk, Beserker, Soldier, Priest
-Gain access to SMGs
 
 Weapon Familiarization (can be taken once): 
 Prerequisites:
