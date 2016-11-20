@@ -1,0 +1,34 @@
+"Mage" - Mages are picked from birth to train at a temple or other such Technological Institution in the combative use of Nanites. They form the backbone of the temple guard.
+Passives: Knowledge Nanites - 10; +50 nanites, +10 per level; One copy of the Tome of Spells, which must be on the Mage in order to cast spells. This Tome is accessed as any typical holobook, and can be connected to Altars to expand the Mage''s available spells.
+Weapon Proficiencies: Pistols.
+Armour Proficiencies: Recon.
+Feats: The Mage picks one of the following branches at level 5. Instead of gaining more class feats at levels 1-, 15 and 20, they gain access to more powerful spells within that branch. See the Tome of Spells for more information.
+-----------------------
+Name: Warlock
+The Warlock has been trained in the arcane, with specific emphasis on destructive spells for direct combat. Powerful Warlocks are able to turn the tide in a battle, but are more succeptible to damage than their allies.
+Unlocks access to the Warlock spells in the Spell Tome.
+-----------------------
+Name: Controller
+Controllers hold interest in swaying the battle through affecting their targets with less than lethal means. This doesn''t necesarily mean they are above hurting those they combat. On the contrary, their means often lead to a slower demise for their opponents.
+Unlocks access to the Controller spells in the Spell Tome.
+----------------------
+Name: Tactician
+The Tactician sees the battlefield from a different angle than their more combat oriented fellows. Rather than approach a problem head-on, they prefer to pursue alternate solutions, shaping the battlefield to favor their allies.
+Unlocks access to the Tactician spells in the Spell Tome
+
+
+
+"Sorcerer" - If the Mage is the performer, the Sorcerer is the composer. They shroud themselves in secrecy, operating at the highest levels of their organizations. Typically they spend their time researching new uses of Nanites and reverse engineering captured technology. As the designers and researchers, Sorcerers generally don''t need to have a Tome of Spells handy to cast their spells. However, this also means that their spell knowledge is limited to their memory, so they frequently shift around a mental list of spells which can be used.
+Passives: Knowledge Nanites - 10; +50 nanites, +10 per level.
+Weapon Proficiencies: Pistols.
+Armour Proficiencies: Recon.
+Feats: The Sorcorer picks one of the following branches at level 5. Instead of gaining more class feats at levels 1-, 15 and 20, they gain access to more powerful spells within that branch. See the Tome of Spells for more information.
+----------------------
+Name: Conjurer
+Conjuration Sorcerers are usually Good aligned. Their research has revealed many powerful spells that often involve creating structures or elemental effects used for support or direct combat.
+-----------------------
+Name: Phaser
+The Sorcerer who walks the path of the Phaser is one who has realized that Nanites are too powerful to be used by lesser beings. Their knowledge is used to absorb other Nanite user''s attacks, often redirecting them. They can also be powerful controllers.
+-----------------------
+Name: Consumer
+Consumers are generally the product of a powerful Sorcerer falling into Evil ways. Their Technology favors negating other Nanite users'' abilities, stealing Nanites from others, and denaturing matter. Consumers are powerful direct combatants.
