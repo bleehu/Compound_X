@@ -8,15 +8,15 @@ Arcane points build up during combat to unlock different abilities. Certain numb
 Warlocks have access to only recon or concealed armour.
 
 Mage: 
-	X - Deck Stacker
-	Y - Straight up battle mage, shooty shoot bang bang
-	Z - Defense mage, Stuns, shields etc. Support mage class. "Controller class"
+	X - Deck Stacker [X]
+	Y - Straight up battle mage, shooty shoot bang bang [X]
+	Z - Defense mage, Stuns, shields etc. Support mage class. "Controller class"[X]
 		Knockback spell with fall damage.
 
-Warlock: dark juju
-	Materializer
-	Neutral
-	Dematerializer
+Sorcerer: dark juju
+	Materializer [X]
+	Neutral [X]
+	Dematerializer [X]
 
 
 	Siege warlock, long time to charge things up, but high range and damage.
