@@ -239,12 +239,20 @@ Minimum Strength 5, Reload DC 25% unless otherwise noted. Reload time 2 Half Act
 Fire STR/3 shots per half action, Round down. Jam range 2%
 ============================================================
 
-G&W XK20 12EP $2420 / $13
+G&W XK20 $2420 / $13
 70m / 120m
 35%
 20 rds, 12.7x54mm (.50 cal) Magazine; Special Purpose Bullet, SPB
 62 / 67
 Due to the advanced bullet and mechanical research and development that went into the production of this prototype weapon, it has split damage for different ranges. Because of the large caliber round size, target takes penetrating damage.
+
+G&W XK100 $2620 / $62
+80m / 130m
+40%
+20 rds, 12.7x54mm (.50 cal) Magazine; Special Purpose Bullet, SPB
+62 / 67
+Due to the advanced bullet and mechanical research and development that went into the production of this prototype weapon, it has split damage for different ranges. Because of the large caliber round size, target takes penetrating damage.
+Supporting Fire
 
 Frontier Plas-20 $3540 / $19
 120m
