@@ -1,0 +1,20 @@
+/*=============================================================================
+ * Security Node Template
+ * Nodes are represented as either Blocks [B], Interactable [I],
+ * Information [N], or Traps [T].
+ * Blocks: N, network access; F, firewall; C, encrpytion . . .
+ * Interactables: D, door; L, light; . . .
+ * Information: S, storage; . . .
+ * Traps: W, watchdog that reports back to a netadmin or counter-hacker; M,
+ * malware which infects the attacker somehow; Traps may present themselves any of the other three types of node.
+ *===========================================================================*/
+
+Main Access type: Multiple Local Networks.
+Wireless Availability: Non-discoverable. Requires hardware-hardware interface for access.
+Network Name: Infinity Complex.
+
+//===================
+Firewall Access DC: N/A
+//===================
+Outer Security:
+
