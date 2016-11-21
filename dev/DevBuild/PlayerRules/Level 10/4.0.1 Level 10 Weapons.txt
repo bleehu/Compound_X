@@ -144,15 +144,10 @@ ECSC AR-SOC C			$2440
 30 rounds 5.56 x 45 NATO
 50 damage
 
-Muzashi MBR-10
-135 m
-17%
-21 rds, Medium Krypton-.30 Charge pack.
-
-Strudwick Arms LA75 Bullpup		$3100
-100 m
+Strudwick Arms LA75 Bullpup		$4340 / $12
+200 m
 30%
-30 rounds 7.62 x 51 NATO
+20 rounds 7.62 x 51 NATO
 62
 Never jams; if a 1 or 2 is rolled on fire, one round is fired normally, one 
 extra round is ejected like a shell casing. Minimum strength 6 to carry.
@@ -162,6 +157,12 @@ Zurlinsk Type-300 $4510 / $23
 22%
 24 rds, Argon-10;
 60 dam, 2 x Plasma Burn
+
+Muzashi MBR-10 $5270 / $23
+135 m
+17%
+21 rds, Medium Krypton-10 Charge pack.
+70 plasma damage, 2 x Plasma burn
 
 Muzashi K-BR $5640 / $26
 150 m
@@ -175,7 +176,6 @@ Schroder G-25 $5810 / $21
 25 rds, 4.5 x 45 mm Tungsten Core Caseless
 75 + 2x Bleed
 A tremendous zap occurs as each bank of capacitors discharges in an instant, accelerating the small projectile to Mach-2 within the barrel. Dual Capacitor banks allow for no recharge time between shots, as there is always a charged set to fire a round.
-
 
 ============================================================
 Automatic Rifles:
