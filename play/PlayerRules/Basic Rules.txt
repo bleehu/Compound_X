@@ -141,7 +141,11 @@ You can sprint instead of moving, for a +2 movement bonus. However, firing your 
 
 Fighting:
 During combat, most weapons are Semi-Auto, meaning that each time you pull the trigger, the gun fires and chambers a new round automatically without firing it. It takes 1 Half-Action to fire a semi-auto weapon in this way. Some guns, such as Shotguns and Bolt-Action sniper rifles require a Full-Action to fire the gun, where the first Half-Action is a trigger pull, and the second Half-Action is the rechambering of the weapon.
-To hit, Players must roll a percentile that is over their weapon''s % miss stat. On a roll of 90-1 through 90-5, the hit is considered a Critical hit, and deals an extra 10 damage. on a roll of 90-6 through 00-0, the hit is considered an Extra-Critical hit, and deals an extra 20 damage.
+To hit, Players must roll a percentile that is over their weapon''s % miss stat. 
+Critical Hits:
+If your Luck is 5, on a roll of 90-1 through 90-5, the hit is considered a Critical hit, and deals an extra 10 damage. on a roll of 90-6 through 00-0, the hit is considered an Extra-Critical hit, and deals an extra 20 damage. Your Luck modifier ((Luck-5)*4) is subtracted from the lower bound of your critical hit range.
+Gun Jams:
+On a roll of 00-01, the weapon Jams, necessitating a weapon skill check, DC 60.
 When a player is defending against a hit, they roll Percentiles under their armor in order to apply a Damage Reduction, or to apply damage to their Capacitive Sheilds if the player has them.
 
 Hip Firing doubles a weapon''s miss chance. It is much smarter to take a half action to Aim, and spend the rest of your shots on firing. Its also a great idea to take a half action at the end of your turn to "hunker," and gain a 75% cover advantage.
