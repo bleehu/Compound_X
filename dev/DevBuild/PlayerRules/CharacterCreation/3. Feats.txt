@@ -23,9 +23,10 @@ There are so many bullets flying, you''d rather not peak your head out to look a
 
 Bulltrue:
 Prerequisites: Must have training in Shotguns
-If an enemy moves from being at least 4m from you to being less than 3m from you and you have a loaded shotgun drawn,
-you may fire at them as a free action. If the target is bloodied by the attack, they may not make a melee attack against you
-with their next half action.
+If an enemy moves from being at least 4m from you to being less than 3m from 
+you and you have a loaded shotgun drawn, you may fire at them as a free action. 
+If the target is bloodied by the attack, they may not make a melee attack 
+against you with their next half action.
 
 Combat Expertise [Guns]: 
 Prerequisites:
@@ -37,7 +38,8 @@ Prerequisites:
 
 Combat Expertise [Support]: 
 Prerequisites:
--15% to skill checks for class-related tasks. (if your class is medicine, this wouldn''t apply to hacking, etc.). +5% to Guns or Melee in combat.
+-15% to skill checks for class-related tasks. (if your class is medicine, this 
+wouldn't apply to hacking, etc.). +5% chance to miss with Guns or Melee in combat.
 
 Concussive Matainence:
 Prerequisites: 20 skill in repair or Engineer class. STR 4
@@ -48,11 +50,22 @@ regardless, you can only use concusive matainence on a target once per encounter
 
 Conceal Weapon: 
 Prerequisites:
-Make a stealth check to hide your chosen pistol, shotgun, or smg on your person. Minimum score of 20. Roll determines DC for enemy to actively search and find weapon.
+Make a stealth check to hide your chosen pistol, shotgun, or smg on your 
+person. Minimum score of 20. Roll determines DC for enemy to actively search 
+and find weapon.
 
 Counter-Spell, Familiar:
 Prerquisites: Priest, Paladin, Monk or Warlock, or INT > 5
-Whenever an opponent caster uses a spell or spell-like ability which is not a free action, you may spend a number of Nanites up to INT x 6 or your caster level * 10 if applicable. Nanites spent are used as a bonus to an opposing roll of your opponent. Their cast DC becomes your roll. Defender (you) wins a tie. On a successful use of Counter-Spell, the spell''s effect is negated completely. Both parties expend their Nanites, regardless of who wins. Counter-Spell will cost the Caster One Half-Action on their next turn for each time cast on an opponents turn. There is a limit of 4 uses outside of your turn. Only spells from within your own domain or major alignment may be targeted for countering. (good, neutral, evil)
+Whenever an opponent caster uses a spell or spell-like ability which is not a 
+free action, you may spend a number of Nanites up to INT x 6 or your caster 
+level * 10 if applicable. Nanites spent are used as a bonus to an opposing roll 
+of your opponent. Their cast DC becomes your roll. Defender (you) wins a tie. 
+On a successful use of Counter-Spell, the spell''s effect is negated completely. 
+Both parties expend their Nanites, regardless of who wins. Counter-Spell will 
+cost the Caster One Half-Action on their next turn for each time cast on an 
+opponents turn. There is a limit of 4 uses outside of your turn. Only spells 
+from within your own domain or major alignment may be targeted for countering. 
+(good, neutral, evil)
 
 Counter-Spell, General:
 Prerquisites: Counter-Spell, Familiar
@@ -60,64 +73,99 @@ You may use Counter Spell on spells from outside your domain of knowledge.
 
 Cross-Train:
 Prerquisites: Int 8
-Instead of taking your regular Class feat on the next level, you may learn one from another class.
+Instead of taking your regular Class feat on the next level, you may learn one 
+from another class.
 
 Double Tap: 
 Prerequisites:
-Increase your crit range by 10%. Whenever your hit falls into crit range, expend an additional bullet in order to deal 2x crit damage. Only Useable with Semi-Auto or Full auto weapons. Not applicable to SA Revolvers, Bolt Action, Pump-Action, etc.
+Increase your crit range by 10%. Whenever your hit falls into crit range, 
+expend an additional bullet in order to deal 2x crit damage. Only Useable with 
+Semi-Auto or Full auto weapons. Not applicable to SA Revolvers, Bolt Action, 
+Pump-Action, etc.
 
 Dual Weild:
 Prerequisites: Dex 6
-Maybe you've got a bigger corpus colocum and your right brain and left brain are in higher synch than
-most people; or maybe you've seen too many John Woo holomovies. Either way, you've managed to 
-effectively fight using a weapon in each hand. The weapons must be from the same weapon class (i.e. 
-either two pistosl, two melee weapons, etc). While weilding dual weapons, you may fire both at the
-same time at the same target with a +30% to miss with both of them. You may not target more than one
-target at a time. Reloading while dual weilding adds 20% to the difficulty.
+Maybe you've got a bigger corpus colocum and your right brain and left brain 
+are in higher synch than most people; or maybe you've seen too many John Woo 
+holomovies. Either way, you've managed to effectively fight using a weapon in 
+each hand. The weapons must be from the same weapon class (i.e. either two 
+pistosl, two melee weapons, etc). While weilding dual weapons, you may fire 
+both at the same time at the same target with a +30% to miss with both of them. 
+You may not target more than one target at a time. Reloading while dual weilding 
+adds 20% to the difficulty.
 
 Empty the Mag: 
 Prerequisites:
-It happens. You aren''t quite sure if you can hit your target perhaps, or maybe you round that corner and are staring down the barrel of an enemy AR-68. Whatever the case, you need to dump the mag in their face to guarantee your safety. Roll to pass a DC 30% dex check. on success, you may fire off the remainder of your clip or magazine (Applies only to semi- and fully-automatic weapons, maximum 10 shots). Roll hits for each shot. Using this feat takes 3 half actions, and must be completed in the span of one turn. After using this feat, the user must reload their weapon for it to be effective again. Can only be used once per encounter, LVL number of times per day. At level 5 and beyond, can be used twice per encounter.
+It happens. You aren''t quite sure if you can hit your target perhaps, or maybe 
+you round that corner and are staring down the barrel of an enemy AR-68. 
+Whatever the case, you need to dump the mag in their face to guarantee your 
+safety. Roll to pass a DC 30% dex check. on success, you may fire off the 
+remainder of your clip or magazine (Applies only to semi- and fully-automatic 
+weapons, maximum 10 shots). Roll hits for each shot. Using this feat takes 3 
+half actions, and must be completed in the span of one turn. After using this 
+feat, the user must reload their weapon for it to be effective again. Can only 
+be used once per encounter, LVL number of times per day. At level 5 and beyond, 
+can be used twice per encounter.
 
 Enhanced Neural Interface: 
 Prerequisites:
-As a free action, you can use any keyboard, terminal or monitor to perform a basic computer inquiry or operation. +10% to ONE pertinent class skill (hacking, etc.) while using this feat, to be chosen at the time of taking this feat.
+As a free action, you can use any keyboard, terminal or monitor to perform a 
+basic computer inquiry or operation. +10% to ONE pertinent class skill 
+(hacking, etc.) while using this feat, to be chosen at the time of taking 
+this feat.
 
 First Shot Counts: 
 Prerequisites:
-When reloading, if you Critically succeed, the first round out of that magazine deals Extra-Crit damage.
+When reloading, if you Critically succeed, the first round out of that magazine 
+deals Extra-Crit damage.
 
 Focus Energy: 
 Prerequisites:
-Spend one Full-Action to increase the effects of a spell or Nanite based action by 20%, (20% better roll, 20 damage, up to you.)
+Spend one Full-Action to increase the effects of a spell or Nanite based action 
+by 20%, (20% better roll, 20 damage, up to you.)
 
 Four on the Floor:
 Prerequisites: Pilot or 20 skill in piloting
-Tires were meant to be balded. You get a +20 to any difficult maneuver with a land vehicle in which you do not catch air. This works with vehicles that have treads or some other method of land support as well.
+Tires were meant to be balded. You get a +20 to any difficult maneuver with a 
+land vehicle in which you do not catch air. This works with vehicles that have 
+treads or some other method of land support as well.
 
 Gunsmith: 
 Prerequisites:
-Combine up to 2 weapon total conversions (ask GM about applicability of desired conversations).
+Combine up to 2 weapon total conversions (ask GM about applicability of desired 
+conversations).
 
 Hands of an artist:
 Prerequisites: Dex 7 or higher
-You use your DEX modifier instead of your PER modifier for rolls to hit with ranged weapons. In taking this feat you sacrifice the ability to use PER on rolls dealing with using a weapon.
+You use your DEX modifier instead of your PER modifier for rolls to hit with 
+ranged weapons. In taking this feat you sacrifice the ability to use PER on 
+rolls dealing with using a weapon.
 
 Improvise Weapon:
 Prerequisites: Unarmed > 20
-You do not take a penalty when using an improvised weapon. Chair legs can be used as bats, fan blades as sowrds, etc., etc.
+You do not take a penalty when using an improvised weapon. Chair legs can be 
+used as bats, fan blades as sowrds, etc., etc.
 
 Last Shot Counts: 
 Prerequisites:
-The last shot in every mag deals Extra-Crit damage, but your reload DC is twice as high.
+The last shot in every mag deals Extra-Crit damage, but your reload DC is twice 
+as high.
 
 Leaf on the wind:
 Prerequisite: Pilot or 40 skill in piloting
-You get a +20% to pilot skill checks in airborne or spaceborne vehicles, and an additional +20% o unconventional maneuvers in such as well, but you and your vehicle take double damage for the next three turns after using these bonuses. (any teammates in such a vehicle do not take double damage)
+You get a +20% to pilot skill checks in airborne or spaceborne vehicles, and an 
+additional +20% o unconventional maneuvers in such as well, but you and your 
+vehicle take double damage for the next three turns after using these bonuses. 
+(any teammates in such a vehicle do not take double damage)
 
 Kata: 
 Prerequisites: Level 10 or higher
-Whenever you land a successful melee hit against someone, you may roll for X additional attacks, where X is your LVL/2. Each additional attack has 20% lower chance to hit than the previous hit. (A 4th level character making their 3rd strike in a row would be rolling at +40% miss chance). This -20% debuff applies to a monk's Shadow Strike as well, increasing the DC by 20 per strike instead of increasing the strike's miss chance.
+Whenever you land a successful melee hit against someone, you may roll for X 
+additional attacks, where X is your LVL/2. Each additional attack has 20% lower 
+chance to hit than the previous hit. (A 4th level character making their 3rd 
+strike in a row would be rolling at +40% miss chance). This -20% debuff applies 
+to a monk's Shadow Strike as well, increasing the DC by 20 per strike instead 
+of increasing the strike's miss chance.
 
 Monk:
 Prerequisites: Level 7 or higher
@@ -125,7 +173,8 @@ Able to use full damage for lethal strikes with unarmed.
 
 Nanite Concentration:
 Prerequisites: Level 5
-Allows the user to better concentrate on their expenditure of nanites, allowing them to achieve one of the following:
+Allows the user to better concentrate on their expenditure of nanites, allowing 
+them to achieve one of the following:
     +1 turn of cloaking
     +20% to an combat-action at a cost of 20 nanites for 1 turn (ask GM before applying to an action. )
     +20% to a non-combat-action at a cost of 20 nanites for 1 turn (ask GM before aplying to an action.)
@@ -133,7 +182,8 @@ Allows the user to better concentrate on their expenditure of nanites, allowing 
     
 Nanite Regeneration: 
 Prerequisites:
-For every crit you score, restore your nanites by the amount of crit damage dealt. (10 nanites for standard crit, 20 for ex-crit)
+For every crit you score, restore your nanites by the amount of crit damage 
+dealt. (10 nanites for standard crit, 20 for ex-crit)
 
 Point-man: 
 Prerequisites:
@@ -141,19 +191,25 @@ When clearing a room, add 10 to your reflex roll.
 
 Pre-emptive Strike: 
 Prerequisites:
-Whenever you are facing someone and they enter into adjacency with you, you gain a pre-emptive melee strike against them.
+Whenever you are facing someone and they enter into adjacency with you, you 
+gain a pre-emptive melee strike against them.
 
 Quickdraw: 
 Prerequisites:
-As a free action, draw your chosen weapon into firing position. If you are holding something, you can drop it and still draw your weapon as a free action. However, you might not want to drop anything glass. Or any explosives.
+As a free action, draw your chosen weapon into firing position. If you are 
+holding something, you can drop it and still draw your weapon as a free action. 
+However, you might not want to drop anything glass. Or any explosives.
 
 Rainman: 
 Prerequisites: <3 CHA and >8 INT
-Your character has something going for them. You may ask the GM how many bullets each opponent has left in their weapon.
+Your character has something going for them. You may ask the GM how many 
+bullets each opponent has left in their weapon.
 
 Run 'N' Gun: 
 Prerequisites: PER > 6, DEX > 6 or Soldier, Specialist classes.
-you may move at half speed while firing. +10% accuracy. If this feat is performed while sprinting, half your movment speed before you add the 2m from sprinting. The accuracy penalties stack. 
+you may move at half speed while firing. +10% accuracy. If this feat is 
+performed while sprinting, half your movment speed before you add the 2m from 
+sprinting. The accuracy penalties stack. 
 
 Salty Hashtables
 Prerequisites: Must be a mechanical race
@@ -161,64 +217,102 @@ Your data inputs are sanitized and encrypted, complete with checksums!
 Hacking you is 20% harder and you are aware whenever one of your senses is 
 malfunctioning.
 
+Salty Space Dog
+Prerequisites:
+You've been up in the black more times than you can count. You get a +10% to
+maintaining your bearings during a hyperspace jump as well as a +10% to stellar
+navigation.
+
 Shadow Sense:
 Prerequisites: Level 12 or higher Monk with Shadow Walk or Shadow Strike.
 +10% passive armour bonus with Shadow Strike or +20% passive armour bonus with Shadow Walk.
 
 Signature Move: 
 Prerequisites:
-What can you say. When you do what you''re good at, you do it well. Come up with a Name or Motto for your signature move, and you gain +10% towards this action. HOWEVER, you must shout your Motto or the Name when you perform this move. And hey, keep this move on the DL unless it is absolutely necessary to be used. You wouldn''t want posers to copy it. (Note: this is an RP''d action meant to be performed in cqc, not simply aiming your rifle at their head and squeezing the trigger while shouting "BOOM HEADSHOT!" Please ask for GM permission when using this feat.)
+What can you say. When you do what you''re good at, you do it well. Come up 
+with a Name or Motto for your signature move, and you gain +10% towards this 
+action. HOWEVER, you must shout your Motto or the Name when you perform this 
+move. And hey, keep this move on the DL unless it is absolutely necessary to be 
+used. You wouldn''t want posers to copy it. (Note: this is an RP''d action 
+meant to be performed in cqc, not simply aiming your rifle at their head and 
+squeezing the trigger while shouting "BOOM HEADSHOT!" Please ask for GM 
+permission when using this feat.)
 
 Sixth Sense:  
 Prerequisites:
-You have un uncanny knack for reading situations and making accurate decisions based off of gut feelings. Gain a skill, Uncanny Insight at 10, and apply it to situations where you feel like a bit of extra insight might do you or your team a world of good. This skill is maxed out at skill level 20, and only upgraded by making good decisions based on this skill, rather than by upgrading it with skill points.
+You have un uncanny knack for reading situations and making accurate decisions 
+based off of gut feelings. Gain a skill, Uncanny Insight at 10, and apply it to 
+situations where you feel like a bit of extra insight might do you or your team 
+a world of good. This skill is maxed out at skill level 20, and only upgraded 
+by making good decisions based on this skill, rather than by upgrading it with 
+skill points.
 
 Sleight of hand: 
 Prerequisites:
-Negate the pump of a shotgun, cocking of a revolver, or cycling of a bolt. Reload DCs are 5% lower.
+Negate the pump of a shotgun, cocking of a revolver, or cycling of a bolt. 
+Reload DCs are 5% lower.
 
 Snap Shot: 
 Prerequisites:
-Time slows down slightly around you, or at least your perception is increased allowing you to process everything around you more quickly for a split second. When a target is within half your effective range, your hit DC is decreased by 10%.
+Time slows down slightly around you, or at least your perception is increased 
+allowing you to process everything around you more quickly for a split second. 
+When a target is within half your effective range, your hit DC is decreased 
+by 10%.
 
 Social Ninja: 
 Prerequisites:
-Unless sneaking past / hiding from an alert enemy, use a Bluff check in place of a Stealth check.
+Unless sneaking past / hiding from an alert enemy, use a Bluff check in place 
+of a Stealth check.
 
 Steady Shot: 
 Prerequisites:
-Take a full action to breath slowly and line up your shot. -5% miss chance and +10m range each per level taken. Maximum 4 levels.
+Take a full action to breath slowly and line up your shot. -5% miss chance and 
++10m range each per level taken. Maximum 4 levels.
 
 Strong Back: 
 Prerequisites: STR 7
-You've done a lot of lifting and hauling in your time, allowing you to carry more than some. Instead of a secondary weapon, you can carry another primary weapon.
+You've done a lot of lifting and hauling in your time, allowing you to carry 
+more than some. Instead of a secondary weapon, you can carry another 
+primary weapon.
 
 Suppression: 
 Prerequisites:
-The first time this feat is taken, enemies shot at must pass a Shock DC of 30 in order to move or return fire on their turn. Each additional time this feat is taken, you may choose to add one of the following onto your suppression (each may be taken only once)
+The first time this feat is taken, enemies shot at must pass a Shock DC of 30 
+in order to move or return fire on their turn. Each additional time this feat 
+is taken, you may choose to add one of the following onto your suppression 
+(each may be taken only once)
     - Add 20% to the Shock save
     - Opponent Attack DC +20% for 1 turn
     - Opponent movement reduced by 5m for 1 turn
-    - -20% on a hit against the enemy on your next shot if they move after suppression.
+    - -20% on a hit against the enemy on your next shot if they move after 
+	suppression.
 
 Toughness: 
 Prerequisites:
-Roll a number of dice equal to your FORT / 5 (round up) + 1 and take the result in extra hit points, or take the average of the result (1d10 = 5, 2d10 = 10, can be taken twice).
+Roll a number of dice equal to your FORT / 5 (round up) + 1 and take the 
+result in extra hit points, or take the average of the result (1d10 = 5, 
+2d10 = 10, can be taken twice).
 
 Upgrade: 
 Prerequisites:
-Roll a number of dice equal to your INT / 5 (round up) + 1 and take the result in extra Nanites, or take the average of the result (1d10 = 5, 2d10 = 10, can be taken twice).
+Roll a number of dice equal to your INT / 5 (round up) + 1 and take the result 
+in extra Nanites, or take the average of the result (1d10 = 5, 2d10 = 10, can 
+be taken twice).
 
 Unconventinal Warfare:
 Prerequisites: Any feat > 9, combat style must primarily use this stat.
-You are trained in the art of combative tossing, or some other obscure fighting technique
+You are trained in the art of combative tossing, or some other obscure 
+fighting technique
 
 Very Normal: 
 Prerequisites:
-Any time that someone would be suspicious of your actions, they will be less likely to think twice about what you are doing. Increase your Deceive and Speech skills by 10.
+Any time that someone would be suspicious of your actions, they will be less 
+likely to think twice about what you are doing. Increase your Deceive and 
+Speech skills by 10.
 
 Ward:
-Prerequisites: Dex 10 or Level 8 or higher assassin / berserker. +20% to armour when your melee weapon is equipped.
+Prerequisites: Dex 10 or Level 8 or higher assassin / berserker. +20% to armour 
+when your melee weapon is equipped.
 
 Wealthy Sponsor: 
 Prerequisites:
@@ -265,10 +359,14 @@ Run double your movement distance for X # ofturns.
 
 Aimed Shot [10 Nanites]: 
 Prerequisites:
-Add an action to your normal Shooting time. During this time you concentrate on your target in order to deal crit damage on your next shot. This is akin to seeing a chink in armour and aiming for it, or shooting a target''s arm so they cannot use their weapon, etc.
+Add an action to your normal Shooting time. During this time you concentrate 
+on your target in order to deal crit damage on your next shot. This is akin to 
+seeing a chink in armour and aiming for it, or shooting a target''s arm so 
+they cannot use their weapon, etc.
 
 Bunker:
-Prerequisites: High-Technology class (Monk, Paladin, Adept, Priest) or Knowledge [Nanites] > 40
+Prerequisites: High-Technology class (Monk, Paladin, Adept, Priest) or 
+Knowledge [Nanites] > 40
 Expend 25 Nanites, gain 25% to a piece of cover for 4 turns
 
 Combat Roll [40 Nanites]:
@@ -288,23 +386,32 @@ Bulltrue or Pre-emptive Strike. Cannot be used in concert with run n gun.
 
 Flash Dance: 
 Prerequisites:
-Expend 10*lvl Nanites. Allows the user to make Lvl number of attacks with their melee weapon within a 5m space, rolling for each strike. All bonuses that would normally apply to a standard attack still apply.
+Expend 10*lvl Nanites. Allows the user to make Lvl number of attacks with 
+their melee weapon within a 5m space, rolling for each strike. All bonuses that 
+would normally apply to a standard attack still apply.
 
 Gun Kata [30 Nanites / Turn]: 
 Prerequisites: Level 10 or higher
-For up to 3rds, reduce weapon range to 15m, increase accuracy by 50%. Treat any weapon as if it were a CQB weapon. After a successful strike, you may roll for an additional strike during the same action on any target within the 15m range.
+For up to 3rds, reduce weapon range to 15m, increase accuracy by 50%. Treat any 
+weapon as if it were a CQB weapon. After a successful strike, you may roll for 
+an additional strike during the same action on any target within the 15m range.
 
 Multi-Target [ X*40 Nanites]: 
 Prerequisites:
-Take 2 actions to concentrate on up to Level +1 number of targets, where X is the number of targets. Or wait 1 action to target Level/2(round up) Targets. You may Roll once to determine if you hit all of these targets. If you fail the roll, then you may roll again to hit your first target normally.
+Take 2 actions to concentrate on up to Level +1 number of targets, where X is 
+the number of targets. Or wait 1 action to target Level/2(round up) Targets. 
+You may Roll once to determine if you hit all of these targets. If you fail the 
+roll, then you may roll again to hit your first target normally.
 
 Twitch	[10 Nanites]:
 Prerequisites: Level 3, Trained in SMGs or Pistols, Dex > 6
-You may aim at an enemy as a free action instead of as a half action. Only works with CQB weapons. +15% to miss with the aimed weapon.
+You may aim at an enemy as a free action instead of as a half action. Only 
+works with CQB weapons. +15% to miss with the aimed weapon.
 
 Blur	[15 Nanites]:
 Prerequisites: Level 10, Twitch
-You may aim at an enemy as a free action instead of as a half action. Only works with CQB weapons. No accuracy penalty.
+You may aim at an enemy as a free action instead of as a half action. Only 
+works with CQB weapons. No accuracy penalty.
 
 //===================================================================
 //Copyright 2016 Taylor Rowland
