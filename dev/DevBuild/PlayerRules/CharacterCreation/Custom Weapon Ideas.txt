@@ -1,0 +1,49 @@
+/*=============================================================================
+ * Taylor's Custom Weapon Ideas
+ * I assume at each level you earn ~$1000 for levels 1-5, ~$5000 for 6-10, $25,000 for 11-15 and $100,000 for 16-20. 
+ *
+ *===========================================================================*/
+ 
+//==============================
+// Tank Weapons
+// Typically for a tank it doesn't matter if you deal a ton of damage. It's my
+// personal belief that since the role of a tank is to take damage and distract
+// the enemy, decent damage is important, but so id staying in the fight. Most
+// of the weapons I customize in this category have a higher magazine capacity 
+// than others in the same classification.
+//==============================
+   	===============================
+	-40%, +15m, + 10 rds, -5 reload, +$660 + $48
+	===============================
+	1.2 hologramic projector +$250
+		+15m, -10%
+	Muzzle Break +$50
+		-5%
+	Heavy Profile Barrel +$100
+		-10%, +1 Str
+	Angled Foregrip +$100
+		-10%
+	2 point sling $100
+		-5%, -1 Str
+	Extended Mags +$8/mag = $36/mag
+		+10 rds
+	Magpulls +$60
+		-5% reload DC
+	Frontier X-26L SSM $4408
+	105 m
+	-10%
+	55 rds, 5.7mm; $36/mag
+	48 damage.
+	Average Damage per Round: 288
+	Dollar per Damage: 15.3
+	Original DpD: 55.06
+	Turns between reload: 9.166...
+
+
+//==============================
+// LR DPS Weapons
+//==============================
+
+//==============================
+// Supporter Weapons (aka cheapies that don't suck)
+//==============================
