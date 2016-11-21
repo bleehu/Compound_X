@@ -1,0 +1,109 @@
+/*=============================================================================
+ * Infinity Complex: Ship Network
+ * Nodes are represented as either Blocks [B], Interactable [I],
+ * Information [N], or Traps [T].
+ * Blocks: N, network access; F, firewall; C, encrpytion . . .
+ * Interactables: D, door; L, light; . . .
+ * Information: S, storage; . . .
+ * Traps: W, watchdog that reports back to a netadmin or counter-hacker; M,
+ * malware which infects the attacker somehow; Traps may present themselves any of the other three types of node.
+ *===========================================================================*/
+
+Main Access type: Older terminal based network. No supported wireless network. Terminals require physical keycards for access. This might be surpassable . . .
+Wireless Availability: N/A
+Network Name: N/A
+
+
+Hangar 1: {//Hangars 2 and 3 have identical layouts
+
+	Terminal 1, main door
+	[B]C1:A {//A is level 1 access, all personel have access to these.
+		[I]D1:45//main entry door
+		[I]L1:60//floor lights
+	}
+	Terminal 2, side door
+	[B]C2:A {
+		[I]D2:45//side door
+	}
+
+	Terminal 3 and 4, catwalk access
+	[B]C3:C {//C is level 3 access, generally a maintenance level clearence.
+		[I]D3:30//Its assumed no one will go up here, so the catwalk is easy top get to.
+		[I]D4:60//this ceiling door leads to the ship internal ducting which connects the superstructure together.
+		[I]L1:50//floor lighting
+	}
+}
+
+Halls 1: {
+	Terminal 1, Main shaft access tunnel
+	[B]C1:B {//Level 2 access. Captains would have access to this, as well as most crew. Level 2 terminals are generally not accessible by guards.
+		[I]D1:45//Hangar 1 door
+		[I]D2:70//main shaft access
+		[I]L1:55//tunnel lighting. three modes, on, off, and emergency (red)
+	}
+
+	Terminal 2, side path access
+	[B]C2:B {//Level 2 access
+		[I]D1:45//side-door to hangar 1
+		[I]D2:55//Main shaft door access.
+		[I]L2:30//passage lighting
+	}
+
+	Terminal 3, internal ducting
+	[B]C3:C {//Level 3 access
+		[I]L3:40//internal lighting. Dim floor-lighting enables you to see where you're going, but not whats in front of you.
+		[I]D3:75//Interior maintenance access to main shaft ducting.
+	}
+
+}
+
+Main Shaft: {
+	Terminal 1, crew access
+	[B]C1:B {
+
+	}
+
+	Terminal 2, hangar access
+	[B]C1:B {
+	}
+
+	Terminal 3, engine access
+	[B]C1:B {
+
+	}
+}
+
+Engine & Maintenance: {
+	Engine Room
+
+	Reactor Room
+
+	Supplies
+}
+
+Crew & Navigation: {
+	Bridge
+	[B]C1:D {//Level 4 access. Only specific crew are allowed on the bridge.
+	}
+
+	Crew Quarters
+	[B]C2:B {//Level 2 access.
+	}
+
+	Brigg & Security
+	[B]C3:C {//Level 3 access, Guard Captain and maintenance.
+		[I]D:30//
+		[I]D:30//
+		[I]D:30//
+		[I]D:30//
+		[I]D:30//
+		[I]D:30//
+		[I]D:30//
+		[I]D:30//
+		[I]D:30//
+		[I]D:30//
+		[B]C4:65 {
+			[I]D11:65//weapons and armour
+		}
+	}
+}

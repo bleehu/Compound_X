@@ -13,6 +13,31 @@ Prerequisites: Dex 7, level 6 and Dual Weild feat
 Reduce the miss penalty from dual weilding to 10% each. Reduce the reload penalty to reloading to 10%.
 You may fire at more than one target at once for an additional 20% to miss penalty.
 
+Aquired: Additional Plating
+Prerequisites: Marksman, Gunslinger
+Enables the use of Medium Armour by the listed classes.
+
+Aquired: Battle Ready
+Prerequisites: Pilot, Adept
+Enables the use of Heavy armour by the listed classes.
+
+Aquired: Metal Jacket
+Prerequisites: Soldier, Engineer, Adept, Berserker
+Enables the use of Full Armour by the listed classes.
+
+Aquired: The Clandestine Option
+Prerequisites: Soldier, Specialist, Pilot, Adept, Hunter
+Enables the use of Concealed Armour by the listed classes.
+
+Aquired: The Stealth Option
+Prerequisites: Soldier, Engineer, Doctor, Priest, Pilot, Adept, Gunslinger, Warlock, Monk, Berserker
+
+Aquired: With Friends Like These . . .
+Prerequisites: Pilot, Engineer or Piloting 40
+
+Aquired: . . . Who Needs Nano-Technologies?
+Prerequisites: Pilot or "Aquired: With Friends Like These . . ." and Piloting 60
+
 Backstab:
 Prerequisites: Level 3 and higher Assassins and Monks.
 Any damage dealt to an unaware opponent from behind deals Extra-Crit damage.
@@ -85,6 +110,7 @@ Pump-Action, etc.
 
 Dual Weild:
 Prerequisites: Dex 6
+<<<<<<< HEAD
 Maybe you've got a bigger corpus colocum and your right brain and left brain 
 are in higher synch than most people; or maybe you've seen too many John Woo 
 holomovies. Either way, you've managed to effectively fight using a weapon in 
@@ -93,6 +119,9 @@ pistosl, two melee weapons, etc). While weilding dual weapons, you may fire
 both at the same time at the same target with a +30% to miss with both of them. 
 You may not target more than one target at a time. Reloading while dual weilding 
 adds 20% to the difficulty.
+=======
+Maybe you''ve got a bigger corpus colocum and your right brain and left brain are in higher synch than most people; or maybe you''ve seen too many John Woo holomovies. Either way, you''ve managed to effectively fight using a weapon in each hand. The weapons must be of the same type, either two pistols, two smgs, etc. While weilding dual weapons, you may fire both at the same time at the same target with a +30% to miss with both of them. You may not target more than one target at a time. Reloading while dual weilding adds 20% to the difficulty. Additionally the sum of the strength requirements must be equal to or less than your strength.
+>>>>>>> dc5434487dd0d3ffd440655221f5bf3111e2cb2d
 
 Empty the Mag: 
 Prerequisites:
@@ -132,8 +161,7 @@ treads or some other method of land support as well.
 
 Gunsmith: 
 Prerequisites:
-Combine up to 2 weapon total conversions (ask GM about applicability of desired 
-conversations).
+Combine up to 2 weapon total conversions. Ask GM about applicability of desired conversations.
 
 Hands of an artist:
 Prerequisites: Dex 7 or higher
@@ -287,6 +315,10 @@ is taken, you may choose to add one of the following onto your suppression
     - -20% on a hit against the enemy on your next shot if they move after 
 	suppression.
 
+Tele-Cast
+Prerequisites: Paladin, Sorcerer, Mage.
+You may use a mellee weapon to perform touch effect spells.
+
 Toughness: 
 Prerequisites:
 Roll a number of dice equal to your FORT / 5 (round up) + 1 and take the 
@@ -304,6 +336,26 @@ Prerequisites: Any feat > 9, combat style must primarily use this stat.
 You are trained in the art of combative tossing, or some other obscure 
 fighting technique
 
+Unlocked: Boomstick
+Prerequisites: Adept, Gunslinger
+Enables the use of shotguns by the listed classes.
+
+Unlocked: Weapons Training
+Prerequisites: Monk
+Enables the use of mellee weapons by the Monk class.
+
+Unlocked: Spray and Pray
+Prerequisites: Engineer
+Enables the use of SMGs by the Engineer class.
+
+Unlocked: Small Arms Shipment
+Prerequisites: Marksman, Doctor, Priest
+Enables the use of Carbines and Battle Rifles by the listed classes.
+
+Unlocked: Welcome to the Front Line
+Prerequisites: Adept, Paladin
+Enables the use of Automatic Rifles by the listed classes.
+
 Very Normal: 
 Prerequisites:
 Any time that someone would be suspicious of your actions, they will be less 
@@ -317,21 +369,6 @@ when your melee weapon is equipped.
 Wealthy Sponsor: 
 Prerequisites:
 Gain LUK * Lvl * 750 credits.
-
-Weapon Training Elective - Carbine:
-Prerequisite: Cannot be taken by the following classes:
-Pilot, Assassin, Warlock, Monk, Beserker, Soldier, Priest
-Gain access to Carbines/Battle Rifles
-
-Weapon Training Elective - Shotguns:
-Prerequisite: Cannot be taken by the following classes:
-Pilot, Assassin, Warlock, Monk, Beserker, Soldier, Priest
-Gain access to Shotguns
-
-Weapon Training Elective - SMG:
-Prerequisite: Cannot be taken by the following classes:
-Pilot, Assassin, Warlock, Monk, Beserker, Soldier, Priest
-Gain access to SMGs
 
 Weapon Familiarization (can be taken once): 
 Prerequisites:
@@ -375,7 +412,7 @@ Move 6m in one half action, no more, no less. This movement does not trigger
 Bulltrue or Pre-emptive Strike. Enemies attacking you take a +20% to miss when
 attacking you for the turn after you use this feat, and you take a +15% to miss 
 for the action after using this feat ends. If this mallice would not run out 
-until after this turn, it's effect wraps around to the beggining of your next 
+until after this turn, it''s effect wraps around to the beggining of your next 
 turn. Cannot be used in concert with run n gun.
 
 Cover Slide [20 Nanites]:

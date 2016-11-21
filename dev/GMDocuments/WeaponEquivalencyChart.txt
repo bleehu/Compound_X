@@ -1,0 +1,109 @@
+/*=============================================================================
+ * Weapon Equivalency Chart
+ * This form documents the relationship between in-game weapons and their real-
+ * world inspirations.
+ * This document is for clarification only and not meant to be used as
+ * referential material. It should be considered supplemental material only.
+ *===========================================================================*/
+
+//==============================
+// Pistols
+//==============================
+
+	ECSC Mk9 Auto -> Glock 17
+	Mathews Model 19 -> Basic .357 revolver
+	ECSC Mk26 Auto -> Glock 22
+	ECSC Mk26 EVA  -> Glock 22, Caseless
+	CZ 75 P01 -> Same
+	Matthews Model 25 -> Colt 1873 Single Action Army
+	G&W 10mm Auto -> Sig 226
+	Anvil Armament P-45 -> 1911A1
+	Matthews Model 24 -> Colt Anaconda
+	Frontier Plas-8 -> N/A
+	Mathews Model .223 -> "That Gun", Fallout series
+	Laz Pistol -> N/A
+	Anvil Arms R15 -> N/A, generic large-bore revolver
+	RMM Auto 6 -> N/A, generic large-bore revolver
+	Plas-Disc Mini-Launcher -> N/A
+	Particle Hand-Cannon -> N/A
+
+
+//==============================
+// SMGs
+//==============================
+
+	ECSC Mk9 MP -> Glock 18
+	ECSC Mk7 PDW -> H&K MP7
+	G&W XMP 30 -> H&K UMP
+	Frontier 240M -> KRISS Vector
+	Anvil Arms AR-34 PDW -> AK-74SU
+	Mathews "Bolter" -> Nerf Recon
+	Frontier X-26L -> N/A
+
+
+//==============================
+// Shotguns
+//==============================
+
+	Matthews Model 2x12 -> Coachgun
+	Anvil Arms Hunting Shotgun -> Mossberg 500
+	Matthews Model 2287 -> Model 1887
+	ECSC Mk900 -> Remington 870
+	Matthews Over / Under -> OVer and Under shotgun
+	Mathews Model 3x12 -> N/A
+	ECSC PAO-8 -> SPAS-12
+	RMM Auto-12 -> Benelli M1014
+	Anvil Arms AR-12 -> Saiga-12 / VEPR-12
+	Frontier Plas-12 -> N/A
+	Particle Scatter-Gun -> N/A
+
+//==============================
+// Carbines / Battle Rifles
+//==============================
+
+	Matthews .357 Carbine -> Winchester 1873
+	Anvil Arms C25 -> 
+	ECSC Mk28 -> Mk 18 SBR
+	Matthews M-01 Carbine -> M1 Carbine
+	Matthews SK0 -> SKS
+	G&W FBR-C -> FAL carbine
+	RMM S-92 -> VSS Vintorez
+	Plas-Disc Launcher -> N/A
+	Frontier Laz-Rifle -> N/A
+	ECSC EVA-C -> Caseless ammo version of the ACR
+	Mathews HK-80 -> N/A
+
+
+//==============================
+// Automatic Rifles
+//==============================
+
+	Anvil Arms AR-74 -> AK-47
+	Anvil Arms AR-68 -> AK-74
+	ECSC Mk16 -> M4-A1
+	G&W FBR -> FN FAL
+	ECSC Mk249 -> FN M249
+	Anvil Arms KMR -> RPK/PKM hybrid
+	Matthews Model 240-B -> M240B
+	G&W XK20 -> ACR
+	Frontier Plas-20 -> N/A
+	Particle Rifle -> N/A
+
+//==============================
+// Heavy Weapons
+//==============================
+
+
+
+//==============================
+// Long Rifles
+//==============================
+	
+	ECSC PRS -> Remmington MSR
+	ECSC Mk12 Mod 0 -> M16 DMR
+	Anvil Arms SR-150 -> Mosin Nagant
+	Anvil Arms SR-250 -> Mosin Nagant
+	G&W XK20 Mod 0 HE -> ACR, long barreled
+	Frontier Plas-5 HE -> N/A
+	Mathews BA .408 -> Cheytac Intervention
+	Beam Rifle -> N/A

@@ -51,7 +51,7 @@ V
 {5} Divine Armour: [30]
     +5 DR to an ally''s armour for 3 turns.
 
-
+//See Universe Lore docs on Xenos
 {10} Turn Xeno: [50]
 |   By channeling your nanites into a postive force of will, you can force Xenos to flee in panic. Xenos within CHA+ m of you must pass a Will Save DC 50 + Knowledge [Nanites] or be forced to flee for 5 turns. Xenos with INT higher than 6 may make a Will Save each turn they are fleeing.
 |

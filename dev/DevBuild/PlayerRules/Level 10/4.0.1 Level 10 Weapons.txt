@@ -1,3 +1,10 @@
+Level 10 effects:
+$300 Never jam
+$200 Increased Crit Range, +5/+5
+$400 Increased Crit Range, +10/+10
+$750 Phase rounds
+$500 Special Effect [ex. Headshot effect on the HK-80]
+
 ============================================================
 Pistols:
 (All pistols are considered CQB Weapons)
@@ -41,6 +48,13 @@ HO-SV treated like HP
 LO-HV treated like AP
 Reload 28%
 
+Muzashi K-DP $3060 / $13
+85 m
+20%
+15 rds, Krypton-12;
+65 dam, 2 x Plasma Burn
+Made for dual-weilding, these pistols utilize magnetic magazines that can be reloaded without the use of an off-hand. Reload DC 15%
+
 Schroder K-20 $3200
 100m
 10%
@@ -51,8 +65,15 @@ A tremendous zap occurs as each bank of capacitors discharges in an instant, acc
 ============================================================
 Sub-Machine Guns:
 Capable of high rates of fire, but utilizing lighter calibers than a traditional combat rifle. Fire DEX/2 shots per full turn, rounding down. (DEX 5 = 2 shots, DEX 8 = 4 shots) Maximum LVL + 1.( All SMGs are considered CQB weapons)
-Minimum Strength 4, Reload DC 25% unless otherwise noted. Reload time 2 Half Actions.
+Minimum Strength 4, Reload DC 25% unless otherwise noted. Reload time 2 Half Actions. Jam range 2%
 ============================================================
+
+Paralax DE-22 Ghostbuster	$1440 / $15
+60m
+20%
+30 exposure battery
+35 laser damage
+doesn''t jam; overheats burning user for 15 damage.//overheats when?
 
 ECSC MK9 PDW				$3600//naming
 50m
@@ -60,14 +81,13 @@ ECSC MK9 PDW				$3600//naming
 30 rounds 9mm
 40 damage
 
-Paralax DE-22 Ghostbuster	$7200
-60m
+Muzashi K-DS $3340 / $26
+90 m
 20%
-30 exposure battery
-35 laser damage
-doesn't jam; overheats burning user for 15 damage.
-
-
+30 rds, Krypton-12;
+65 dam, 2 x Plasma Burn
+Made for dual-weilding, these SMGs utilize magnetic magazines that can be reloaded without the use of an off-hand. Reload DC 15%
+The K-LS features a burst fire mode which allows for 2 round burst. Rather than firing DEX/2 shots per turn, fire 2 shots per half-action.
 
 Schroder K-35 $3500
 100m
@@ -84,7 +104,7 @@ Buck-Shot damage is dealt in 3 distinct distances, which are listed. All buck sh
 Minimum Strength 4, Reload DC 30% unless otherwise noted. Reload time 3 Half Actions
 ============================================================
 
-Frontier Xenon AX-12	$9400
+Frontier Neon AN-12	$9400
 Miss:	25%
 Capacity:	6 rounds
 Buckshot: 120 damage and 2 plasma burn tokens out to 3m,
@@ -101,6 +121,8 @@ Personality is expensive, glowing and should be one of the most efficient ways f
 player to disperse plasma at close range. Xenon is a nobel gas sometimes excited 
 to plasma state for use in Neon-like signs. ('cause it's a different color)
 devnotes will not be pushed to play branch
+//Taylor's notes
+I''ve changed it to Neon. I''ve written up in the GM Munition Info doc that the different types of noble gasses produced different densities of plasma. Heavier element plasmas deal more plasma burn tokens. Since this is supposed to be a basic plasma shotgun, Neon would make sense.
 //end devnotes
 
 Schroder C-6 $3220
@@ -119,19 +141,36 @@ Minimum Strength 5, Reload DC 25% unless otherwise noted. Reload time 2 Half Act
 ECSC AR-SOC C			$2440
 120m
 22%
-20 rounds 5.56 NATO
+30 rounds 5.56 x 45 NATO
 50 damage
 
+Muzashi MBR-10
+135 m
+17%
+21 rds, Medium Krypton-.30 Charge pack.
+
 Strudwick Arms LA75 Bullpup		$3100
-100m
+100 m
 30%
 30 rounds 7.62 x 51 NATO
 62
 Never jams; if a 1 or 2 is rolled on fire, one round is fired normally, one 
 extra round is ejected like a shell casing. Minimum strength 6 to carry.
 
-Schroder G-25 $5810
-150m
+Zurlinsk Type-300 $4510 / $23
+135 m
+22%
+24 rds, Argon-10;
+60 dam, 2 x Plasma Burn
+
+Muzashi K-BR $5640 / $26
+150 m
+15%
+30 rds, Krypton-12;
+65 dam, 2 x Plasma Burn
+
+Schroder G-25 $5810 / $21
+150 m
 10%
 25 rds, 4.5 x 45 mm Tungsten Core Caseless
 75 + 2x Bleed
@@ -141,20 +180,25 @@ A tremendous zap occurs as each bank of capacitors discharges in an instant, acc
 ============================================================
 Automatic Rifles:
 Minimum Strength 5, Reload DC 25% unless otherwise noted. Reload time 2 Half Actions
-Fire STR/3 shots per half action. Round down.
+Fire STR/3 shots per half action. Round down. Jam range 2%
 ============================================================
 
 ECSC AR-SOC L               $2440
 130m
 25%
-30 rounds 5.56
+30 rounds 5.56 x 45 NATO
 50 damage
 
+Frontier Neon APR-180 $3680 / $17
+160m
+28%
+24 rounds plasma bolt
+50 damage and 1 plasma burn token
 
 ECSC AR-SOC H 				$3720
 150m
 20%
-20 rounds 7.62x51 NATO
+20 rounds 7.62 x 51 NATO
 62 damage
 
 Strudwick Arms LA85 Bullpup		$5240
@@ -167,22 +211,38 @@ Minimum strength 7 to carry.
 Never jams; if a 1 or 2 is rolled on fire, one round is fired normally, one 
 extra round is ejected like a shell casing. 
 
-Frontier Neon APR-180		$11000
-160m
-28%
-24 rounds plasma bolt
-50 damage and 1 plasma burn token
-each clip costs $360
-//dev note
-generic plasma assault rifle. lower damage further and add one more burn token?
-//end dev note
+Schroder R-130 $6250
+150m
+10%
+130 rds, 4.5 x 45 mm Tungsten Core Caseless
+75 + 2 x Bleed
+A tremendous zap occurs as each bank of capacitors discharges in an instant, accelerating the small projectile to Mach-2 within the barrel. Dual Capacitor banks allow for no recharge time between shots, as there is always a charged set to fire a round.
+The cacophony of electronic discharge, coupled with the intense sensation of swarms of hypersonic rounds flying past intimidates the target. 75% Shock saving throw to move or fire.
 
-Schroder G-25 $6780
+Schroder R-35 $6780
 175m
 10%
 35 rds, 4.5 x 45 mm Tungsten Core Caseless
 75 + 2x Bleed
 A tremendous zap occurs as each bank of capacitors discharges in an instant, accelerating the small projectile to Mach-2 within the barrel. Dual Capacitor banks allow for no recharge time between shots, as there is always a charged set to fire a round.
+
+Muzashi K-AR $7200 / $26
+200 m
+20%
+30 rds, Krypton-12;
+65 dam, 2 x Plasma Burn
+
+G&W XMG $10,400 / $187
+220 m
+20%
+130 rds, Xenon-22;
+90 dam, 3 x plasma burn
+
+G&W XR $10,850 / $50
+220
+15%
+35 rds
+90 dam, 3 x Plasma Burn
 
 ============================================================
 Heavy Weapons:
@@ -192,35 +252,15 @@ at least 20 points in heavy weapons skill unless otherwise
 stated.
 ============================================================
 
-Strudwick Arms LA-8b Light Autocannon $20,650
-Requires strength 7 to carry.
-180m
-26%
-4 rounds, 40mm impact detonating Shaped High Explosive warheads
-140 damage, 5d10 splash damage in adjacent 1m. 3d10 in adjacent 2m.
-Damages Vehicles. No Optics or barrel attatchments.
+Shiva Antimaterial Rifle $24,240 / $15
+Requires 8 strength to carry
+800m
+24%
+1 round, Antimaterial
+240 damage
+Damages vehicles, cannot be suppressed.
 
-ECSC MG-41 Minigun 		$7000
-Requires Strength of 7 to carry
-80m
-36%
-150 rds, 5mm linked belt
-25 damage per bullet
-Supporting Fire
-No Optics, barrel attatchments or extended mags. Fires four bullets
-whenever you would fire one. But only every fourth bullet counts for 
-any per bullet effects. Each magazine takes the carry space of four
-normal mags. Damages light vehicles.
-
-Mathews Mass Ordinance Dispersal Device		$8000
-Min 6 Str
-150m
-5%
-35 rounds, (small calliber)
-20 Damage
-Each time fired, the Percent Miss penalty increases by 5% unless a Full Action is taken to let the weapon cool down.
-
-G&W ECG-8E Light Coilgun		$6600
+G&W ECG-8E Coilgun $8100 / $3
 Requires Strength 6 to carry
 600m
 24%
@@ -233,15 +273,32 @@ that hunkered down. Cannot fire through multiple layers of cover. Does not
 grant awareness of an enemy you can''t see or hear. Cannot be silenced. 
 Subsequent shots on the same turn accrue a stacking 15% chance to miss.
 
-Schroder G-130 $6250
+ECSC MG-41 Minigun $2300 / $75
+Requires Strength of 7 to carry
+120m
+36%
+150 rds, 5.56x45 mm linked belt
+50 damage per bullet
+Supporting Fire
+No Optics, barrel attatchments or extended mags. Fire-rate based on automatic rilfes. Fires two bullets whenever you would fire one. But only every other bullet counts for any per bullet effects. Each magazine takes the carry space of four normal mags. Damages light vehicles.
+//Why is this only 20 damage? does it have a fast fire rate or something? right now it would only cost $1,425, putting it behind even the Laz-Pistol
+Mathews Mass Ordinance Dispersal Device $1425 / %7
+Min 6 Str
 150m
-10%
-130 rds, 4.5 x 45 mm Tungsten Core Caseless
-75 + 2x Bleed
-A tremendous zap occurs as each bank of capacitors discharges in an instant, accelerating the small projectile to Mach-2 within the barrel. Dual Capacitor banks allow for no recharge time between shots, as there is always a charged set to fire a round.
-The cacophony of electronic discharge, coupled with the intense sensation of swarms of hypersonic rounds flying past intimidates the target. 75% Shock saving throw to move or fire.
+5%
+35 rounds, (small calliber)
+20 Damage
+Each time fired, the Percent Miss penalty increases by 5% unless a Full Action is taken to let the weapon cool down.
 
-Schroder HLG-50 $24,000
+Strudwick Arms LA-8b Light Autocannon $10,990 / $140
+Requires strength 7 to carry.
+180m
+26%
+4 rounds, 40mm impact detonating Shaped High Explosive warheads
+70 damage, 3m diameter.
+Damages Vehicles. No Optics or barrel attatchments.
+
+Schroder HLG-50 $27,750 / $60
 500 m
 10%
 50 rds, 10 x 80 mm Tungsten Core Caseless Belt
@@ -250,6 +307,13 @@ Minimum strength 9.
 A tremendous zap occurs as each bank of capacitors discharges in an instant, accelerating the small projectile to Mach-2 within the barrel. Dual Capacitor banks allow for no recharge time between shots, as there is always a charged set to fire a round.
 The cacophony of electronic discharge, coupled with the intense sensation of swarms of hypersonic rounds flying past intimidates the target. 75% Shock saving throw to move or fire.
 
+Directed Energy Weapon $19,025 / $30
+300 m
+15%
+10 rds, 300 KWatt C-Pack;
+110 dam + 2 x burn to target, 2 x burn to targets within 1 meter.
+Laser beam, cannot be dodged with a reaction check.
+
 ============================================================
 Long Rifles:
 Due to high velocities used in long rifle bullets, when a target is under the minimum engagement range, they take 20 less damage because of hit-pre-acceleration, PointBlank penetration, etc.
@@ -257,29 +321,41 @@ On all engagements farther than 200m, you must take 1 Full Action to adjust your
 Minimum 5 strength to carry. All targets are inflicted with "Pinned" condition when hit. Reload DC 30% unless otherwise noted. Reload time 3 Half Actions.
 ============================================================
 
-Shiva Antimaterial Rifle		$6300
-Requires 8 strength to carry
-800m
-24%
-1 round, Antimaterial
-240 damage
-Damages vehicles, cannot be suppressed. 
-
-SRS 99 Series 5 				$6200
+Artimis Urban Combat Rifle $5600 / $8
 Requires 6 strength to carry
-1.5km
+20-200m
+30%
+10 rds .480 G&W Magnum
+80 damage
+Semi-Auto
+
+Muzashi K-LR $19,300 / $15
+40-400 m
+10%
+12 rds, Krypton-20;
+85 dam, 2 x Plasma Burn
+Semi-Auto
+
+G&W XEV $43,312 / $29
+50-750 m
+5%
+20 rds, Xenon-20 Disc;
+90 dam, 3 x Plasma Burn
+Bolt-Action
+
+SRS 99 Series 5 $68,000
+Requires 6 strength to carry
+50-1.5km
 15% below 800m, 30% above
 6 rounds something-something-Lapua?
 120 damage
-Bolt action
-
-Artimis Urban Combat Rifle		$7100
-Requires 6 strength to carry
-200m
-30%
-10 rds .306 long
-80 damage
-semi auto
+Bolt Action
+//Dev notes
+//From GM Munition Info:
+//.338 Lapua Magnum
+//750 m, 70 damage
+//Typical mag size: 5 for long rifles.
+//ECSC military
 
 Schroder HLG-10 $118,500
 2000 m

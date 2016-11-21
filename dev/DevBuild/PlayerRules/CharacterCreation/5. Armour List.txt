@@ -211,7 +211,8 @@ Any reinforced armour, the amount of Damage Reduction is rolled at the time of p
 //A hefty plate carrier which holds front, back and side plates as well as
 //extended amounts of gear.
 //8 primary mags, 6 of combined secondary mags and grenades.
-//With side plates included (any armour listed as 80% coverage) take a -1m movement speed penalty.
+//With side plates included (any armour listed as 80% coverage) take a -1m 
+//movement speed penalty.
     
     Ceramic Plate $370
         60%
@@ -263,7 +264,8 @@ Any reinforced armour, the amount of Damage Reduction is rolled at the time of p
 
 ///////////////////////////////////////////////////////////////////////////
 //Full Armor:
-//Covers the front of your chest, your back, your sides, shoulders, neck, pelvic region, and tops of your legs.
+//Covers the front of your chest, your back, your sides, shoulders, neck, 
+//pelvic region, and tops of your legs.
 //8 primary mags, 6 of combined secondary and grenades.
 
     Carbon-Steel Fiber $850
@@ -276,15 +278,15 @@ Any reinforced armour, the amount of Damage Reduction is rolled at the time of p
 
 /*========================================
  * SHIELD UNITS
- * Shields cover the wearer in a magnetic field which repels lasers
- * and removes some of the brunt of plasma bolts. They are completely
- * open to balistic fire, however. Traditionally a shield unit
- * consists of a generator pack which is generally the size of a
- * small backpack, and some Magnetic Field Stabilizers that extend
- * over the areas of the body which would be covered by the shield.
- * Once the shield's capacitor units are exhausted, the shield breaks
- * and needs a while to recharge. If the user maintains their shield
- * without letting it break, they can avoid the costly recharge time.
+ * Shields cover the wearer in a magnetic field which repels lasers and
+ * removes some of the brunt of plasma bolts. They are completely open to
+ * balistic fire, however. Traditionally a shield unit consists of a generator
+ * pack which is generally the size of a small backpack, and some Magnetic
+ * Field Stabilizers that extend over the areas of the body which would be
+ * covered by the shield.
+ * Once the shield's capacitor units are exhausted, the shield breaks and
+ * needs a while to recharge. If the user maintains their shield without
+ * letting it break, they can avoid the costly recharge time.
  * The capacity of the field is dependant on the user mainly, but also varries depending on the shiled model.
  *======================================*/
     Class A, Basic $2500
@@ -356,13 +358,13 @@ Basic Cloaking Suit $2500
 5 DR
 30%
 
-Intermediate Cloaking Suit $2900
+Intermediate Cloaking Suit $3100
 Add 30 Nanites to your pool.
 Cloak DC +25, expend 5 extra nanites per turn.
 5 DR
 30%
 
-Advanced Cloaking Suit $3300
+Advanced Cloaking Suit $3500
 Add 30 Nanites to your pool.
 Cloak DC +50, Expend 10 extra Nanites per turn.
 Charge-Up time 3 Half-Actions
@@ -376,7 +378,7 @@ Charge-Up time 5 Half-Actions
 10 DR
 30%
 
-Armour Cloaking Suit $2100
+Armour Cloaking Suit $2080
 Cloak DC -25, expend 5 extra nanites per turn.
 Cloaking DR is 25, uncloaked DR is 10
 30%

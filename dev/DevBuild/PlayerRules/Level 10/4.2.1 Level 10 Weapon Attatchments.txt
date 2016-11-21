@@ -25,8 +25,7 @@ Flashlight, Laser, Both on, plus any mode can include a strobing flashlight.
 -15% miss chance.
 
 Focussed Heartbeat Monitor: $500
-Detects the neuro-electronic signal of a heartbeat in a narrow cone, and 
-displays a basic image of the figure.
+Detects the neuro-electronic signal of a heartbeat in a narrow cone, and displays a basic image of the figure.
 -20% miss chance when firing at an enemy in cover.
 
 ====================
@@ -43,8 +42,6 @@ Magnetic Stabilizing Field $150
 
 Magnetic Accelerator Field $200
 +20 m to plasma weapons and coilguns.
-
-
 
 ====================
 Lower Rail attachments

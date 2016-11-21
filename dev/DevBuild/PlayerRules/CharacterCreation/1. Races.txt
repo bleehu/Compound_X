@@ -46,7 +46,7 @@ They have a steel reinforced frame, and are usually armor plated. The coloration
 Favored Class: Marksman, Soldier, Adept, Priest, Mechanic.
 
 Qualities: 10RP
-Type: Robotic (Does not need to eat, breath, or sleep. Must spend 6 hours to recharge after a 24 hour period. this can be done via a self-contained reactor. Not affected by mind-influence, succeptable to hack attempts).
+Type: Robotic. Does not need to eat, breath, or sleep. Must spend 6 hours to recharge after a 24 hour period. this can be done via a self-contained reactor. Not affected by mind-influence, succeptable to hack attempts).
 Size: Medium+
 Speed: Normal
 Stat Modifiers: INT + 1, FORT + 2. LUCK -3.
@@ -63,7 +63,7 @@ Society: These constructs are made up of nanites. Commonly A.I.s that have broke
 Preferred Classes: Warlock, Priest, Pilot.
 
 Qualities: 10RP
-Type: Construct (Does not need to eat, breathe, sleep. Immune to mind-affecting effects. Cannot heal damage on their own, but can be repaired by nanite boost shots or using "Nanite Drain." Not subject to non-lethal damage or fatigue. Once they hit 0 hit points, they are destroyed. They cannot be "brought back" but they can store copies of themselves on respawn systems.
+Type: Construct. Does not need to eat, breathe, sleep. Immune to mind-affecting effects. Cannot heal damage on their own, but can be repaired by nanite boost shots or using "Nanite Drain." Not subject to non-lethal damage or fatigue. Once they hit 0 hit points, they are destroyed. They cannot be "brought back" but they can store copies of themselves on respawn systems.
 Size: Medium
 Speed: Normal
 Stat Modifiers: +2 INT, -2 LUK, +2 DEX -4 STR
@@ -107,6 +107,13 @@ Racial Traits:
 
 Cyborgs share all weaknesses with their base race, generally humans. They additionaly are weak against electric damage taking an extra 50% damage.(10 damage would become 15). They are also succeptible to hacking, although they would not come under control, they would merely loose the use of their augmentations and any affected limbs. DC 80 Hack check.
 Once at level 3, and every 5 levels thereafter a Cyborg may purchase an additional augment at the cost of $2000. They must see a cybernetics expert to have this augment installed.
+
+//============================================================
+Herbalians
+Society: One of many sentient species encountered by the ECSC during its rapid expansion, the Herbalians occupy territory on the "southern" side of ECSC space. Their planet has high levels of nitrogen, Carbon-dioxide, as well has high humitidy levels. This aided in the evolution of larger and more complex plantlife, eventually leading to a carniverous species of moving plants that began to find hunting for their food enabled them to consume more complex forms of energy. 
+
+"Plants aren't cognizant of the way they interact with the universe, they uncaringly trudge through the galaxy just doing their thing."
+
 
 
 //===================================================================

@@ -4,21 +4,20 @@ This document was created in order to help clear up how everything works in this
 ==============================
 Premise:
 ==============================
-Compound X (working title) is a foray into the unkown. It is the year
+Compound X [working title] is a foray into the unkown. It is the year
 
 
 ==============================
 Player Stats:
 ==============================
 
-Each player has what are called S.P.F.C.I.D.L. Stats. These stats (and their subsequent bonuses) determine how well you are accomplished at certain tasks and skill. In addition they are used for determining many other aspects of the game.
+Each player has what are called S.P.F.C.I.D.L. Stats. These stats [and their subsequent bonuses] determine how well you are accomplished at certain tasks and skill. In addition they are used for determining many other aspects of the game.
 
 Stats are broken down per the following equation:
   Stat Bonus = (4 * Stat) - 20
   Stat Bonuses are used for the calculation of skill checks, weapon accuracy, etc.
-  Stats are not used for calculation, except for luck with the calculation of EP, and also saving throws.
-  EP = [(Level+1) * Luck] + 10
-  IC = [(Level + 1)* 10 * Luck] + 100
+  Stats are not used for calculation. and also saving throws.
+  Imperial Credits [IC] = [(Level + 1)* 150 * Luck] + 100
 
 Strength: Physical aptitude with regard to lifting and exertion of pure force.
 Perception: Ability to see, hear, taste, smell, feel and experience the world around you.
@@ -87,7 +86,7 @@ On levels 5, 9, 15 and 20, the stat point increase happens before any calculatio
 RP / Using Skills:
 ==============================
 The GM may ask you to roll a certain skill to see if your character can do something. This may be something like "Roll Awareness to see if you spot the truck barreling towards you," or it might look like "Roll Medicine to see if you can patch up the gaping wound in your chest spewing blood." Anytime you need to Pass a Skill check, there will be a DC to overcome in order to successfully pass the check. Again: YOU MUST ROLL *OVER* A DC TO PERFORM A SKILL. the DC does not need to be given out by the GM, but if a DC seems too high, you have the right to grumble (but seriously, ask your GM if something seems too difficult. There is usually a reason why tying your shoe takes a DC of 70% on that particular day, etc). After you have rolled, please apply any and all relevant skills to your result. If you are rolling to silently take down an opponent, the GM can either have you roll a stealth check and an unarmed combat check, or double the DC, and have you roll once adding both modfiers. Also add any relevant Stat Bonuses to a roll. When rolling awareness, add your PER Bonus, etc.
-At any time out of combat, you may decide to use one of your skills. If you are not preasured by imminant / immediate danger, you may take a 100% to pass a skill check, then apply any ranks in the skill. When rushed by a time constraint or danger, you can take a 50% to pass a skill check, then apply any ranks in said skill. However, some checks cannot be passed in this way. If you are staring at a ship's blast doors, and want to kick them down, yeah . . . good luck with that.
+At any time out of combat, you may decide to use one of your skills. If you are not preasured by imminant / immediate danger, you may take a 100% to pass a skill check, then apply any ranks in the skill. When rushed by a time constraint or danger, you can take a 50% to pass a skill check, then apply any ranks in said skill. However, some checks cannot be passed in this way. If you are staring at a ship''s blast doors, and want to kick them down, yeah . . . good luck with that.
 If you want to use a skill in combat, see the Combat: Actions subsection.
 Skill ranks are exact percentiles to pass a skill check. If you have 50 ranks in a skill, then you have a +50% chance to pass a skill check for that skill. Everytime you purchase a new skill for 10 Skill points, it starts as a +10 skill. When leveling up you may add up to 5 points to any one skill.
 
@@ -111,10 +110,10 @@ Combat starts when either you or an enemy decides they would like to make an att
 //If your attack would normally force the target to roll a fort save, they are incapacitaed by default with no roll.
 
 Melee Notes:
-A character occupies 1m of space. however, as Compund X is not played out on a squares-board, usually it doesn't matter if two players are within the same 1m space.
+A character occupies 1m of space. however, as Compund X is not played out on a squares-board, usually it doesn''t matter if two players are within the same 1m space.
 Two Players locked in melee combat are considered to be in adjacent 1m spaces, not in the same 1m space. Have you ever seen a fight? you don't start face-face unless you're at a bar.
-Generally speaking, once a character has initiated melee combat with another character, they are both considered to be in "melee combat," and occupy adjacent 1m spaces. At this point (unless one characteer has a cqb weapon) both characters are assumed to be using their fists or other melee weapons. If a character wishes to leave melee combat, they incur a "penalty attack." Characters also incur "penalty attacks" when moving through or next to an enemy character's 1m space, or within range of a melee weapon that the enemy has equipped, and when performing a skill check when in melee combat.
-Melee combat is relatively simple. To hit an enemy player, add your dexterity or strength modifier to a roll, plus any relevant skill. The result must be greater than the opponent's DEX * 5 + any skill in combat (Guard DC). Your damage dealt is based on your DEX or STR modifier. If you are weilding a weapon against an unarmed opponent, they may still incur damage depending on their skill.
+Generally speaking, once a character has initiated melee combat with another character, they are both considered to be in "melee combat," and occupy adjacent 1m spaces. At this point (unless one characteer has a cqb weapon) both characters are assumed to be using their fists or other melee weapons. If a character wishes to leave melee combat, they incur a "penalty attack." Characters also incur "penalty attacks" when moving through or next to an enemy character''s 1m space, or within range of a melee weapon that the enemy has equipped, and when performing a skill check when in melee combat.
+Melee combat is relatively simple. To hit an enemy player, add your dexterity or strength modifier to a roll, plus any relevant skill. The result must be greater than the opponent''s DEX * 5 + any skill in combat (Guard DC). Your damage dealt is based on your DEX or STR modifier. If you are weilding a weapon against an unarmed opponent, they may still incur damage depending on their skill.
 A character may grapple another character when they are both in melee distance. Doing so provides the grappled player a "penalty attack" on the graPpling player. During grappling, both sides roll opposing grapple checks to see who maintains control. Once you have control you may make a grapple check to subdue your opponent (either through choke-out, pin, or a joint lock). You may also strike an opponent during grappling, but if the strike fails your opponent may attempt to gain control of the grapple. Skill in grappling is different than skill in unarmed combat.
 
 Actions:
@@ -139,7 +138,8 @@ You can sprint instead of moving, for a +2 movement bonus. However, firing your 
 
 Fighting:
 During combat, most weapons are Semi-Auto, meaning that each time you pull the trigger, the gun fires and chambers a new round automatically without firing it. It takes 1 Half-Action to fire a semi-auto weapon in this way. Some guns, such as Shotguns and Bolt-Action sniper rifles require a Full-Action to fire the gun, where the first Half-Action is a trigger pull, and the second Half-Action is the rechambering of the weapon.
-To hit, Players must roll a percentile that is over their weapon's % miss stat. On a roll of 90-1 through 90-5, the hit is considered a Critical hit, and deals an extra 10 damage. on a roll of 90-6 through 00-0, the hit is considered an Extra-Critical hit, and deals an extra 20 damage.
+To hit, Players must roll a percentile that is over their weapon's % miss stat. When an enemy is in cover, their cover score is added to your weapon's miss chance. If your normal miss chance is 25, and the enemy is in full cover, your miss chance is increased by 50, for a final DC of 75.
+On a roll of 90-1 through 90-5, the hit is considered a Critical hit, and deals an extra 10 damage. on a roll of 90-6 through 00-0, the hit is considered an Extra-Critical hit, and deals an extra 20 damage. On a roll of 00-01, the weapon Jams, necessitating a weapon skill check, DC 60.
 When a player is defending against a hit, they roll Percentiles under their armor in order to apply a Damage Reduction, or to apply damage to their Capacitive Sheilds if the player has them.
 
 Hip Firing doubles a weapon''s miss chance. It is much smarter to take a half action to Aim, and spend the rest of your shots on firing. Its also a great idea to take a half action at the end of your turn to "hunker," and gain a 25% cover advantage.

@@ -1,0 +1,31 @@
+//Schroder C-6 build
+100m
+10%
+2 rds [6 shots]
+60 + 2x bleed
+1.2x Holgramic Projector $240
++15m, -10%
+Heavy Barrel $100
++1 STR, -10%
+IR Laser $320
+-10% for <50m range, with IR vision
+Angled Foregrip $100
+-10%
+One Point Sling $150
+-10% -1 STR
+
+Standalone Grenade Launncher
+Kit $600
+Launcher $2200
+60m
+35%
+1rd, HE
+70 Explosive, 5m radius
+1.2x Hologramic Projector
+-10%, +15m
+
+Total: $3710
+115 meters
+-40% / -30% [50m, 115m]
+2 rds [6 shots]
+60 + 2x bleed

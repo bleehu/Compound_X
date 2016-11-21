@@ -14,72 +14,76 @@ Grenade Launcher Iron Sights $100
 1x Magnification. Allows better estimation of distances for use with grenade launcher.
 Underbarrel Grenade Launcher -10% miss chance.
 
-1x Dot Sight $100
+1x Dot Sight $130
 Your basic tube-shaped dot-projection. Dot can be changed from blue-green-red for various lighting situations and terrains.
 Accuracy -3%
 Range +10m
 
-1x Reflex Site $100
+1x Reflex Site $150
 A reflex-projected site, comprised of a light source and a single pane of 
 rectangular glass. Allows for smaller F.O.V. blockage. Has a small cross, 
 chevron, or dot as the indicator. Cannot be used on pistols
 Accuracy -5%
 Range +10m 
 
-1x Pistol Reflex Site $80
+1x Pistol Reflex Site $100
 A reflex-projected site, comprised of a light source and a single pane of 
 rectangular glass. Allows for smaller F.O.V. blockage. Has a small cross, 
 chevron, or dot as the indicator. Can only be used on pistols.
 Accuracy -5%
 Range +5m
 
-1.2x Hologramic projector $240
+1.2x Hologramic projector $250
 Projects a hologram target aquisition reticle, which compensates slightly 
 for windage or target movement. also artificially enhances view so as to 
 magnify by 120%. Cannot be used on pistols.
 Range +15m
 Accuracy -10%
 
-1.2x Pistol Hologramic projector $190
+1.2x Pistol Hologramic projector $150
 Projects a hologram target aquisition reticle, which compensates slightly
 for windage or target movement. also artificially enhances view so as to 
 magnify by 120%. Can only be used on pistols.
 Range +5m
 Accuracy -10%
 
-nx Magnifier for Dot Scopes n+$80
+nx Magnifier for Dot Scopes $n*20
 A basic magnifying tube capable of increasing the effective range of a weapon.
 Must be paired with a dot sight.
 Range + (n*20)
 
-3.2x Scope $320
+3.2x Scope $600
 A heavy-duty tube made for heavy weapons and sustained automatic fire, but 
 would suit single-fire weapons just as well. Sports a black multi-chevron 
 reticle suitable for daytime brightlight use.
 Range + 50m, Minimum +10m.
+Miss Chance -10%
 
 4x Scope $340
 Range +75m, minimum +15m.
+Miss Chance -10%
 Can only be used on Long Rifles, Carbines.
 
-2-7x Scope $760
+2-7x Scope $1200
 As a full action, you can adjust the magnification on this scope in order to better see your target. Once sighted to a certain range, other targets that are within 20m can still be fired upon. otherwise you must adjust your magnification.
 Accuracy -20%
 Range +100m, minimum +10m
 
-7x Scope $400
+7x Scope $1300
 Range +120m, minimum +30m
+Miss Chance -10%
 Can only be used on Long Rifles.
 
-8x Scope $600
+8x Scope $1600
 Range +150m, minimum +35m
+Miss Chance -10%
 Can only be used on Long Rifles.
 
-Range Finder $370
-Notifies the user of the target's range via an infrared laser beam. Useful for calculated bullet drop for a sniper. When a Sniper takes a full round to adjust it's scope''s windage or elevation due to distance, negate the full round and adjust the scope as a free action.
+Range Finder $500
+Notifies the user of the target''s range via an infrared laser beam. Useful for calculated bullet drop for a sniper. When a Sniper takes a full round to adjust it''s scope''s windage or elevation due to distance, negate the full round and adjust the scope as a free action.
 (can be used in addition to another scope)
 
-IR scope $440
+IR scope $500
 Enables visibility in dark settings. This scope does not have any inherent magnification, and needs to be used in conjunction with a scope or dot site.
 
 ====================
@@ -91,21 +95,21 @@ Flashlight $60
 Its a flashlight. It lights things up.
 30m visibilty in dark.
 
-IR flashlight $240
+IR flashlight $120
 Works well with IR goggles. Actually, it only works with IR goggles.
 30m visibility in dark with IR goggles.
 
-Bipod $320
+Bipod $200
 Requires one full action to deploy the bipod. user can diengage for a free action. After disengaging, user must still take a full action to deploy. Cannot be used with any foregrip or underbarrel weapon.
 Accuracy -20%
 
-Red Laser $140
+Red Laser $100
 Accuracy -10% when Range < 50m
 
-Green Laser $140
+Green Laser $100
 Accuracy -10% when Range > 60m
 
-IR Laser $320
+IR Laser $200
 Accuracy -10% when range <50m. Must be used with IR goggles or an IR sight.
 Can also be used to paint a target for Airstrikes or Orbital Strikes.
 
@@ -114,7 +118,7 @@ Barrel Attachments
 You may only choose one barrel type, and one barrel attachment.
 ====================
 
-Muzzle Break $80
+Muzzle Break $50
 Reduces Recoil from the gun, allowing for more accurate follow-up shots.
 Accuracy -5%
 
@@ -133,7 +137,7 @@ Light Profile Barrel $100
 When a conventional ammunition weapon requires a STR check to carry or use, subtract 1 from the STR check.
 Hit DC +10%
 
-Heavy Profile Barrel $120
+Heavy Profile Barrel $100
 This heavier barrel reduces recoil, increases the accuracy of follow-up shots.
 Accuracy -10%, STR +1
 
@@ -142,11 +146,11 @@ Lower Rail attachments
 You may only choose one of these. You may not use a Bipod in conjunction with any of these except the foregrips.
 ====================
 
-Vertical Foregrip $80
+Vertical Foregrip $50
 Increase weapon stability.
 Accuracy -5%
 
-Angled Foregrip $140
+Angled Foregrip $100
 Somehow better than a standard Foregrip.
 Accuracy -10%
 
@@ -222,26 +226,26 @@ Total Conversions
 You may only utilize one weapon conversion at a time. HOWEVER, for conversions relying on switching out a reciever, you may carry at max one additional receiver in order to swap kits on the go. You must pass 2 Weapons use / knowledge [Weapons] checks in order to successfully convert your weapon on the go. DC 60. Failure on one check instantly jams the weapon on first shot. Failure on both checks requires an additional check.
 ====================
 
-Revolver Bottom-Cylinder Fire $500
+Revolver Bottom-Cylinder Fire $150
 Modifies the pistol to fire from the bottom cylinder rather than the top, decreasing the kick from firing.
 Accuracy -15%
 
-Revolver Gas Routing System $600
+Revolver Gas Routing System $400
 Adds a gas tube or piston system which automatically cocks the hammer when a round is fired. Turns any revolver into a semi-automatic revolver.
 
-Pistol Hot-Load Reinforced Slide $240
+Pistol Hot-Load Reinforced Slide $100
 This heavier slide allows the pistol to fire Magnum loads, increasing damage output of the pistol. Not useable with revolvers or plasma pistols.
 +10 Dam
 
-Pistol Lightened Machining slide $800
+Pistol Lightened Machining slide $400
 This lighter weight slide utilizes carbon fiber reinforced polymer with a metal shell to provide a lightweight slide that retains strength for full-auto and burst fire.
 See SMG rules for firing. Not useable with Revolvers.
 
-Pistol - Carbine kit $860
+Pistol - Carbine kit $700
 A tactical frame bolts around the shooter''s pistol, and a longer barrel is attached. Accuracy at longer range is now attainable, along with the ability to mount up to 4x magnification, foregrips, etc. Modified Pistol is still considered a CQB Weapon.
 +50m range
 
-Sawn-off shotgun barrel Secondary $500
+Sawn-off shotgun barrel Secondary $250
 Miss + 15%
 Dam + 10
 Applies only to break-action shotguns.
@@ -250,7 +254,7 @@ Sawn-off shotgun barrel Primary $250
 Miss + 15%
 Dam + 10
 
-.300 Blackout Conversion for Mk12 / Mk16 / Mk28 $700
+.300 Blackout Conversion for Mk12 / Mk16 / Mk28 $1045
 Fires a special .300 AAC Blackout round, which carries more energy than a standard .223 RMM round, but has a lower velocity in order to work more efficiently with suppressors.
 100m
 30%
@@ -262,14 +266,14 @@ G&W FBR CQBR MOD conversion for FBR $700
 With a shorter, light profile barrel this reciever allows the user to retain the high stopping power of the FBR, and additionally allows them a CQB platform to take advantage of.
 100m
 30%
-(Damage and ammor capacities retained)
+(Damage and ammo capacities retained)
 CQB Weapon
 
-Plasma Generation Chamber $3200
+Plasma Generation Chamber $400
 Turns your boring, standard munition guns into a god-killing, blue plasma belching death machine. Weapon keeps its base range and accuracy. Increase damage by 25 and add plasma burn. Increase strength requirement by 1. Your weapon now uses appropriate plasma packs as ammunition. Pistols = 8 rds, shotguns = 7rds, SMGs = 30rds, Carbines = 20rds, Assault Rifles = 25, Long rifles = 10rds.
 
 Straight Pull for ECSC PSR, Anvil Arms SR-250 $460
-Allows the user a Straight-pull action to chamber a new round, increasing rate of fire. With DEX higher than 7, you can fire 1 round every Action.
+Allows the user a Straight-pull action to chamber a new round, increasing rate of fire. With DEX higher than 7, you can fire 1 round every Half-Action.
 
 Standalone Grenade Launcher $600
 A polymer and metal frame to mount an underbarrel grenade launcher. Allows use of an underbarrel grenade launcher as a secondary weapon, freeing up the underside of a primary for other attachments.
