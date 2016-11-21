@@ -194,7 +194,7 @@ Ammunition / Magazine Accessories
 ===================
 Extended Magazines 130% of original cost. $12 mags now cost $15, etc. Round Up.
 Adds +2 rounds to Long Rifles and Shotguns, +5 rounds to Pistols and Carbines, +10 rounds to Automatic Rifles & SMGs.
-For belt fed weapons, add 25% of the belt size to the belt.
+For belt fed weapons, add 30% of the belt size to the belt.
 
 Hollow Point Magazine $5 + mag cost
 Increases damage to targets +15/-15 for unarmoured/armoured.
