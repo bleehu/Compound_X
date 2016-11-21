@@ -1,4 +1,6 @@
 Skills List
+Acrobatics: Rolling and tumbling come naturally to you. Useful for dodging, jumping, balancing, and other fine body-control.
+
 Deceive: You use your silver tongue to talk your way through situations with ease.
 
 Door Kicking: You''ve been trained in the subtle art of viscously and unceremoniously removing a door from it''s frame for rapid entry.
@@ -27,7 +29,7 @@ Sniping: You have a background going hunting with your dad, or maybe you went to
 
 Stealth: The art of stealth is a blanket over the most cloak and dagger of actions. Good thing you’re in on the secret.
 
-Survival: Lost in the wilderness? You’re journey home will be made easier by your ability to use a map, compass, read the terrain, and erect basic survival structures as well as hunt or gather.
+Survival: Lost in the wilderness? You’re journey home will be made easier by your ability to read the terrain, hunt and gather, and erect basic survival structures..
 
 Weapons Use (Rifles / Pistols): Pertains to clearing jams, assembling a gun, reloading, etc. If it has a trigger and a barrel you can figure out how to use it. Skill can only be applied to accuracies up to 200m.
 
