@@ -12,9 +12,10 @@
 // of the weapons I customize in this category have a higher magazine capacity 
 // than others in the same classification.
 //==============================
-   	===============================
+   	==============================
+   	Frontier X-26L
 	-40%, +15m, + 10 rds, -5 reload, +$660 + $48
-	===============================
+	==============================
 	1.2 hologramic projector +$250
 		+15m, -10%
 	Muzzle Break +$50
@@ -38,6 +39,19 @@
 	Dollar per Damage: 15.3
 	Original DpD: 55.06
 	Turns between reload: 9.166...
+	==============================
+	ECSC Mk249 $1950 / $50
+	==============================
+	
+	
+	Requires strength of 7 to carry
+	120m
+	35%
+	100 rds, 5.56x45mm Linked; Tracer Rounds / CS
+	50
+	Supporting fire
+	Tracer Rounds inflict 1 bleed damage, 1 burn on next turn.
+	Minimum Strength 7 to carry. Reload DC 40%
 
 
 //==============================
