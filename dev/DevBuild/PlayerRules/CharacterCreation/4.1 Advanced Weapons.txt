@@ -256,6 +256,12 @@ G&W XK100 $2620 / $62
 Due to the advanced bullet and mechanical research and development that went into the production of this prototype weapon, it has split damage for different ranges. Because of the large caliber round size, target takes penetrating damage.
 Supporting Fire
 
+Frontier 240R
+100
+20%
+30 rds, 6.5mm Grendle; FMJ
+68
+
 Frontier Plas-20 $3540 / $19
 120m
 35%
