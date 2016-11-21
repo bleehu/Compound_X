@@ -1,42 +1,43 @@
 Name: 
 Evelia Séverin
 Description of Attitude, demenor, etc:
-
+Evelia is a team player. She thinks of the team first, their well-being and performance.
 
 Physical Description:
-Human
+Human woman, 5:8 in height, 130 lbs. Pixie cut red hair and blue eyes. Evelia is still a young paladin wihtin the ranks of the Church of Eta Omega.
 
 Class: Paladin [1]
-Health: 
-Nanites: 
-Armor type: 
-Percent Hit: 
-D.R. 
-Nanite Health: N/A
+Health: 130 \ 130
+Nanites: 110 \ 110
+Armor type: Carbon-Steel Fiber
+Percent Hit: 80%
+D.R.: 30
+Nanite Health:
 Speed: 
 ==STATS==
-STR || 6 +4
-PER || 6 +4
-FOR || 6 +4
-CHA || 6 +4
+STR || 5 +0
+PER || 5 +0
+FOR || 8 +12
+CHA || 8 +12
 INT || 6 +4
-DEX || 6 +4
-LUK || 6 +4
+DEX || 5 +0
+LUK || 5 +0
 ========
 SAVING THROWS:
-WIL || 12
-SHK || 12
-REF || 12
+WIL || 20
+SHK || 16
+REF || 8
 ========
 Weapons:
+30 \ 30
 ========
-Primary Name: 
-Range: 
-Percent Miss: 
-Damage: 
-
-Misc.:
-
+Primary Name: ECSC Mk28 $1310 / $15
+Range: 75m
+Percent Miss: 15%
+30 rds, 5.56x45mm
+Damage: 50
+Misc.: CQB rifle
+Abgled Foregrip, Muzzle Break
 
 Secondary Name: 
 Range: 
@@ -49,7 +50,12 @@ Feats:
 
 
 Skills:
-
+Knowledge [Nannites] - 10
+Stealth - 10
+Weapon Use [Rifle/Pistol] - 10
+Weapon Use [Exotic] - 10
+Repair - 10
+Awareness - 10
 
 Inventory:
-
+$30
