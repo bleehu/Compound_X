@@ -35,10 +35,10 @@ REF || 8
 Weapons:
 30 \ 30
 ========
-Primary Name: ECSC Mk28 $1310 / $15
+Primary Name: ECSC Mk28
 Range: 75m
 Percent Miss: 15%
-30 rds, 5.56x45mm
+30 rds, 5.56x45mm $15
 Damage: 50
 Misc.: CQB rifle
 Abgled Foregrip, Muzzle Break
