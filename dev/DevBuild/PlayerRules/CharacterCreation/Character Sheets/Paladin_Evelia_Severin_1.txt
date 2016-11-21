@@ -1,10 +1,14 @@
+/*
+ * Evelia is set up to be a very strong Spell user, but the idea for her is that she primarily uses buffs on her allies to increase overall group effectiveness. She'll stand out front and take her fair share of the beating, but also raise the ability of her team to dish out damage in return.
+ */
+
 Name: 
 Evelia Séverin
 Description of Attitude, demenor, etc:
 Evelia is a team player. She thinks of the team first, their well-being and performance.
 
 Physical Description:
-Human woman, 5:8 in height, 130 lbs. Pixie cut red hair and blue eyes. Evelia is still a young paladin wihtin the ranks of the Church of Eta Omega.
+Human woman, 5-8 in height, 130 lbs. Pixie cut red hair and blue eyes. Evelia is still a young paladin wihtin the ranks of the Church of Eta Omega.
 
 Class: Paladin [1]
 Health: 130 \ 130
