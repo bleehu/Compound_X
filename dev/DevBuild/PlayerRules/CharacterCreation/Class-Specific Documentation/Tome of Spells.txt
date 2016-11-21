@@ -1,0 +1,223 @@
+/*=============================================================================
+ * Tome of Spells
+ * 
+ * 
+ *===========================================================================*/
+	//Level 1:
+		Detect High-Magic
+	//Level 3:
+		Dispell
+	//Level 5:
+
+	//Level 7:
+		
+	//Level 9:
+
+	//Level 11:
+
+	//Level 13:
+
+	//Level 15:
+
+	//Level 17:
+
+	//Level 19:
+//==============================
+// Mage Spells
+//==============================
+
+    //--------------------
+    // Warlock
+    //--------------------
+		//Level 1:
+			Arcane Blast
+
+		//Level 3:
+			Fireball
+		//Level 5:
+			Arcane Storm
+		//Level 7:
+			Dragon''s Breath
+		//Level 9:
+
+		//Level 11:
+
+		//Level 13:
+
+		//Level 15:
+
+		//Level 17:
+
+		//Level 19:
+
+	//--------------------
+    // Controller
+    //--------------------
+		//Level 1:
+			Blind
+
+			Frost Blast
+
+		//Level 3:
+			Thunder Stomp
+
+			Slow
+
+			Weapon Malfunction
+		//Level 5:
+			Influence Mind
+		//Level 7:
+			Weaoon Overload
+		//Level 9:
+			Armour Malfunction
+		//Level 11:
+			Dominate Mind
+		//Level 13:
+			Armour Overload
+		//Level 15:
+
+		//Level 17:
+
+		//Level 19:
+
+	//--------------------
+    // Tactician
+    //--------------------
+		//Level 1:
+			Lightning Bolt
+
+			Barricade//hold door closed
+
+		//Level 3:
+			Mage Armour
+
+			Service Weapon//increase select weapon stats by 5% for some time
+
+			Silence
+		//Level 5:
+			Chain Lightning
+		//Level 7:
+			Improved Mage Armour
+		//Level 9:
+			Thunder Cloud
+		//Level 11:
+
+		//Level 13:
+
+		//Level 15:
+
+		//Level 17:
+
+		//Level 19:
+
+
+//==============================
+// Sorcerer Spells
+//==============================
+    //--------------------
+    // Conjurer
+    //--------------------
+		//Level 1:
+			Camoflage Area
+		//Level 3:
+			Sustained Barage
+		//Level 5:
+
+		//Level 7:
+			Nanite Battle Companion
+		//Level 9:
+
+		//Level 11:
+
+		//Level 13:
+
+		//Level 15:
+
+		//Level 17:
+
+		//Level 19:
+
+	//--------------------
+    // Phaser
+    //--------------------
+		//Level 1:
+			Bullet Storm
+			Blur //causes enemy attacks to land less often
+		//Level 3:
+			Push //nudge medium enemy P.Lvl meters, large enemy P.Lvl/2 meters
+		//Level 5:
+			Dismiss Attack
+		//Level 7:
+			Shift
+		//Level 9:
+			Redirect Attack
+		//Level 11:
+
+		//Level 13:
+
+		//Level 15:
+
+		//Level 17:
+
+		//Level 19:
+
+	//--------------------
+    // Consumer
+    //--------------------
+		//Level 1:
+			Stun
+			Darkness
+		//Level 3:
+			Cloud of Smog
+
+			Invoke Fear
+		//Level 5:
+			Acid Touch
+
+			Arcane Circle//protect against spells
+
+			Nanite Leach
+		//Level 7:
+			Summon Tenticals
+
+			Cloud of Acid
+		//Level 9:
+			Nanite Vampirisim
+		//Level 11:
+			Raise Undead
+
+			Summon Necrotic Tenticals
+		//Level 13:
+
+		//Level 15:
+
+		//Level 17:
+
+		//Level 19:
+
+
+
+//==============================
+// Paladin Spells & Prayers
+//==============================
+
+    //--------------------
+    // Spells
+    //--------------------
+
+		//Good Unique
+
+		//Neutral Unique
+
+		//Evil Unique
+
+	//--------------------
+    // Prayers
+    //--------------------
+		
+		//Good Unique
+
+		//Neutral Unique
+
+		//Evil Unique
+	
