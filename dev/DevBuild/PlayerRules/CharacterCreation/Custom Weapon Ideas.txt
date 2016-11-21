@@ -36,8 +36,8 @@
 	55 rds, 5.7mm; $36/mag
 	48 damage.
 	Average Damage per Round: 288
-	Dollar per Damage: 15.3
-	Original DpD: 55.06
+	Credit per Damage: 15.3
+	Original CpD: 55.06
 	Turns between reload: 9.166...
 	==============================
 	ECSC Mk249 $1950 / $50
