@@ -257,24 +257,115 @@
 //==============================
 // Paladin Spells & Prayers
 //==============================
-
+	Prayers take 1 Full Action to complete and any nanites spent on them are lost until the effects of the prayer wear off. Spells are a Half-Action to cast and remove the listed amount of nanites once cast.
+	All spells have CHA+ meters range, unless otherwise written.
     //--------------------
     // Spells
     //--------------------
 
+		{2} Lay on Hands: [20]
+		|   Touch Effect: Restore 20 HP to an ally or stabilize them.
+		|
+		V
+		{4} Cure Light Wounds: [40]
+		|   Touch Effect: Restore 30 HP to an ally. Heals a small wound. (less than 40 damage sustained from a single source).
+		|
+		V
+		{8} Cure Moderate Wounds: [60]
+		|   Touch Effect: Restore 50 HP to an ally. Heals a moderate wound. (less than 60 damage sustained from a single source).
+		|
+		V
+		{12} Divine Blessing: [100]
+		|   Touch Effect: Restore 90 HP to an ally. Heals a heavy wound and revives ally. (Less than 90 damage sustained from a single source).
+		|
+		V
+		{20} Divine Intervention: [175]
+		    Touch Effect: Restores an ally from the brink of death. If an ally''s health drops below 0 during the encounter and would normally perish, so long as this spell is used during the same encounter they will be revived to 1/4 of their max HP.
+
+
+		{5} Holy Blade: [30]
+		|   + 5 damage on ally''s weapon for 3 turns.
+		|
+		V
+		{12} Sword of Righteousness: [120]
+		    +15 damage for the remainder of the encounter. Can only be used when facing Evil characters.
+
+		{5} Divine Armour: [30]
+		    +5 DR to an ally''s armour for 3 turns.
+
+		//See Universe Lore docs on Xenos
+		{10} Turn Xeno: [50]
+		|   By channeling your nanites into a postive force of will, you can force Xenos to flee in panic. Xenos within CHA+ m of you must pass a Will Save DC 50 + Knowledge [Nanites] or be forced to flee for 5 turns. Xenos with INT higher than 6 may make a Will Save each turn they are fleeing.
+		|
+		V
+		{15} Destroy Xeno: [100]
+		    Instead of panicing any Xenos in your range, target one Xeno and deal them 100 damage. Target makes a Will Save of DC 75 + Knowledge [Nanites]. If the spell hits, they roll Shock as normal for taking an extraordinary amount of damage.
+
+		{5} Righteous Fury: [20]
+		|   Personal Effect: Cannot take cover for 5 turns. +10 DR and +10 damage for 3 turns.
+		|
+		V
+		{10} Righteous Rage: [40]
+		    Touch Effect: Cannot take cover for 5 turns. +15 DR, +15 damage, and +2m movement for 4 turns.
+
+		{2} Piercing Blow: [10]
+		    Target is Pinned.
+
+		{8} Bullet Ward: [60]
+		    All allies gain +5 DR for 4 turns.
+
 		//Good Unique
+		{5} Wall of Protection: [50]
+	    	Summon a wall 2m tall, 3m wide and .25m thick. Provides Full cover. Each 1m x 1m chunk has 50 health.
+
+		{5} Crimson Flame: [25]
+		|   +20 damage, single attack. Inflicts 1 Burn damage token.
+		|
+		V
+		{10} Violet Flame: [45]
+		|   +40 damage, single attack. Inflicts 1 Burn Damage token.
+		|
+		V
+		{15} Blue Flame: [65]
+		    +60 damage, single attack. Inflicts 1 Burn Damage token.
 
 		//Neutral Unique
-
+		{5} Negate Attack: [50]
+		|   Negate 50 damage from an attack coming at an ally within CHA m range.
+		|
+		V
+		{10} Redirect Attack: [65]
+		    Negate 50 damage from an attack targeting an ally within CHA m range and choose a target within CHA+ m range to take the damage.
 		//Evil Unique
 
 	//--------------------
     // Prayers
     //--------------------
-		
+		{8} Prayer of Vengeance: [45]
+		    When a team member gains the Downed condition, you gain +5 DR and +10 damage for the next 4 turns.
+
+		{10} Prayer of Meditation: [0]
+		    Take 2 full actions to Pray. Regain 40 Nanites.
+
+		{25} Prayer of Sorrow: [150]
+		    +200 damage, single attack. After attack, take 200 damage and gain Downed condition.
+
+		{} Prayer: []
+
+		{} : []
+
+		{} Prayer: []
+
+		{} : []
 		//Good Unique
-
+	    {15} Prayer of Peace: [100]
+			Area of effect, CHA meter diameter. Targets caught within the effect cannot attack for 3 turns. Affectees gain a penalty attack on anyone who attacks them while they are stunned, except if the attacker is in stealth or out of sight. Paladins cannot use this prayer with the intent of an ally to attack the stunned opponents.
 		//Neutral Unique
+		{15} Prayer of Silence: [200]
+    		Drain 100 Nanites from all characters within CHA meters of you. Any deficiency takes damage instead, and the Paladin gains only the amount of nanites held by the target at the time the prayer takes effect.
 
+		{10} Prayer of Solitude: [80]
+		    Touch Effect: target is incapacitated, trapped in a mental prison for CHA/2 turns. Will Save DC 60 + CHA+ on cast. Nanites spent on this prayer are lost until the prayer completes.
 		//Evil Unique
-	
+		{15} Prayer of Halting: [40]
+    		Target loses any Nanite-Based abilities for 3 turns.
