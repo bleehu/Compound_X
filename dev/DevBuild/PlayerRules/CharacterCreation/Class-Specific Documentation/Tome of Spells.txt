@@ -24,6 +24,13 @@
 	//Level 19:
 //==============================
 // Mage Spells
+// Mages gain a number of spell points equal to half their charisma (round up)
+// per level. You may put at most one spell point intot the most recently
+// unlocked tier, and no more than 2 points into any tier. Unused spell points
+// are not carried over to the next level. For example, Sorbeth the mage
+// reaches level 4 with a charsima score of 10. He gains 5 spell points, but
+// is only able to put 4 to use. He puts one point into Blind, one into Frost
+// Blast, one into Weapon Malfunction, and one into Thunder Stomp.
 //==============================
 
     //--------------------
@@ -134,6 +141,13 @@
 
 //==============================
 // Sorcerer Spells
+// Sorcerers gain a number of spell points equal to half their charisma (round
+// up) per level. You may put at most one spell point intot the most recently
+// unlocked tier, and no more than 2 points into any tier. Unused spell points
+// are not carried over to the next level. For example, Marian the Sorceress
+// reaches level 4 with a charsima score of 10. She gains 5 spell points, but
+// is only able to put 4 to use. She puts one point into Bullet Storm, one
+// into Blur, and two into Push.
 //==============================
     //--------------------
     // Conjurer
