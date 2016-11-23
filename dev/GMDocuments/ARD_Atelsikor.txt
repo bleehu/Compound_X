@@ -14,6 +14,46 @@ Technology
 
 
 
+-----------------------------------------
+Atelsakor Plasma Weapons
+All plasma weapons in this category deal necrotic damage and inflict plasma 
+burn.
+If a plasma shot from these weapons hits armour, instead of dealing damage to 
+the target after DR, the plasma shot will melt through the armour, dealing its 
+amount of damage to the PH of the armor.
+Reload DC 30% Reload time 2 Half Actions.
+------------------------------------------
+
+Light Plasma Repeater
+As a Les Paul is to a beginner's plastic string guitar, the Atelsakor's Plasma 
+Rifle is to the Frontier technology. Each Atelsakor Plasma rifle fires burning 
+spheres of plasma, which burst on impact and melt through armour and cover.
+80m
+35%
+20 shots. Standard action to reload.
+42 Plasma Damage.
+
+Plasma Driver
+150m
+25%
+5 shots. Requires an action to charge after an action of firing.
+42 Plasma Damage.
+
+Heavy Plasma Repeater
+90m
+30%
+10 shots.
+47 Plasma Damage.
+
+Plasma Propelled Explosive
+75m
+30%
+Single Shot, Rocket.
+120 Plasma Damage. All targets within 10m must pass a FORT or DEX save at 90% 
+to resist damage or dodge. Targets may make both saves if one stat is above 8.
+If both stats are 5 or below, add the stats together for the Saving throw to 
+dodge.
+
 //====================
 Units
 //====================
