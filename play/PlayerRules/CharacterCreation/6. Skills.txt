@@ -1,19 +1,19 @@
 Skills List
+Acrobatics: Rolling and tumbling come naturally to you. Useful for dodging, jumping, balancing, and other fine body-control.
+
 Deceive: You use your silver tongue to talk your way through situations with ease.
 
-Door Kicking: You've been trained in the subtle art of viscously and unceremoniously removing a door from it's frame for rapid entry.
+Door Kicking: You''ve been trained in the subtle art of viscously and unceremoniously removing a door from it''s frame for rapid entry.
 
 Hacking: Used to gain outside access to computer based systems.
 
 Hand to Hand: See damage rules under Weapons listing. Can be used to attack any opponent that has a standard health bar.
 
-Hand to Hand (Expert): Experts in hand to Hand can perform feats unimaginable to mere mortals. They can perform silent take downs, disarmaments, and can fight against  edged weapons without a penalty. However, they have to have specifically mentioned expert training in their background. Standard mechanics, or scientists, or farmers will not be able to use this skill. A Buddhist Fighting Monk on the other hand, would get this skill for free. Talk to your GM. For the most part, anyone can take H-H Expert as a skill, but they must take the Melee Combat Expert Feat.
+Hand to Hand [Expert]: Experts in hand to Hand can perform feats unimaginable to mere mortals. They can perform silent take downs, disarmaments, and can fight against  edged weapons without a penalty. However, they have to have specifically mentioned expert training in their background. Standard mechanics, or scientists, or farmers will not be able to use this skill. A Buddhist Fighting Monk on the other hand, would get this skill for free. Talk to your GM. For the most part, anyone can take H-H Expert as a skill, but they must take the Melee Combat Expert Feat.
 
-Knowledge (X): You may have gone to college to get a degree in X, or maybe you heard all about X from your local reputable information source. Either way, you know a lot about X.
+Knowledge [X]: You may have gone to college to get a degree in X, or maybe you heard all about X from your local reputable information source. Either way, you know a lot about X.
 
-Medicine: For normal wounds (up to 50%) roll percents. Any percent under 50 + skill level heals that much. Rolls over 50 + skill level fail. Target takes d10 bleed damage.
-For critical wounds (50% or less) roll percents. Any percent under 30 + skill level heals that much. Rolls over 30 + skill level fail. Target takes d10 bleed damage.
-Can be attempted when untrained, player takes a -10% penalty instead of a skill addition. With Health packs: add 30 to the percentage to roll under. Then add 30 to the points healed. No negative if failed.
+Medicine: If health is over 50, DC 30. Any amount over 30 is restored to target''s health. Rolls under 30 deal d10 bleed damage. If health is under 50, DC 50. Any amount over 50 is restored to target''s health. Rolls under 30 deal d10 bleed damage. Medicine skill checks can be performed even if untrained in medicine, but the user takes a -10%. Medicine packs decrease the DC by 10, increase the amount healed by 30, and negate bleed damage on a failed roll.
 
 Navigate: you can read a map, congratulations. Any time you are lost, or need to decide where to go, this skill will channel your inner survivorman and enable you to have a better idea of where you should face.
 
@@ -29,7 +29,7 @@ Sniping: You have a background going hunting with your dad, or maybe you went to
 
 Stealth: The art of stealth is a blanket over the most cloak and dagger of actions. Good thing you’re in on the secret.
 
-Survival: Lost in the wilderness? You’re journey home will be made easier by your ability to use a map, compass, read the terrain, and erect basic survival structures as well as hunt or gather.
+Survival: Lost in the wilderness? You’re journey home will be made easier by your ability to read the terrain, hunt and gather, and erect basic survival structures..
 
 Weapons Use (Rifles / Pistols): Pertains to clearing jams, assembling a gun, reloading, etc. If it has a trigger and a barrel you can figure out how to use it. Skill can only be applied to accuracies up to 200m.
 

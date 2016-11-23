@@ -1,0 +1,493 @@
+
+//============================================================
+Melee Weapons:
+Round up for STR/2, I.E. 3 STR grants a 2, 5 grants a 3.
+Effects:
+Capacitant Shield [CS] burn: d10/2 damage for 2 turns, does not stack. +5 dam against robotic units.
+//============================================================
+
+CS Edged Circular Saw $520
+Adjacent
+35%
+65 + CS Burn
+
+Plasma Torch $360
+Adjacent
+35%
+40 + Burn
+
+
+Grabber Knife: $200
+This knife is designed in such a way as to aid its user in grabbing the enemy. It has a large barb at the tip, is hook shaped, etc.
+Whenever you roll a successful grappling check, you may deal STR * 3 or DEX * 3 damage to your opponent.
+1m (Adjacent)
+40%
+7 * (STR or DEX)
+
+Muzashi CS Edged Katana: $455
+2m
+50%
+40 + (6*DEX)
+Inflicts CS burn
+
+Plasma Sword: $560
+This sword emits a steady beam of plasma which can cut through almost anything except titanium and stronger metals, stone, Nanite Shielding.
+2m
+40%
+40 + (6*DEX) + Plasma Burn
+
+Chain whip $500
+3m
+40%
+8 * DEX
+
+============================================================
+Pistols:
+(All pistols are considered CQB Weapons)
+Minimum Strength 2, Reload DC 20 unless otherwise noted. Reload time 2 Half Actions.
+============================================================
+
+ECSC Mk26 EVA $1140 / $8
+Similar to the ECSC EVA-C, the ECSC Mk9 EVA was developed for fighting in zero g, zero atmosphere environments and also fires caseless amunition.
+30m/70m
+35%
+15 rds, 10mm Caseless, HP only
+45/50
+
+Mathews Model .223 $1310 / $4
+75m
+30%
+7 rds, .223; FMJ / HP
+50
+Reload DC 30%
+Single Action Revolver: cannot be fired as a free action.
+
+Laz Pistol $1720 / $10
+90m
+15%
+20rds, 5kWatt P-Pack / 7kWatt P-Pack
+45
+7kWatt pack increases damage by 10, decreases capacity to 12 shots.
+
+Anvil Arms R15 $1560 / $3
+65m
+20%
+5 rds, 15mm SPM
+60
+Reload DC 30%
+Single Action Revolver: cannot be fired as a free action.
+Acts as hollow point, +10 unarmoured, -10 armoured
+
+RMM Auto 6 $1180 / $3
+65m
+35%
+6 rds, .480 RMM; AP / HP / CS
+56
+Reload DC 30%
+Semi-Automatic, recoil-reducing bottom-cylinder barrel design.
+
+Plas-Disc Mini-Launcher $1720 / $8
+80m
+45%
+10 rds, Neon-15; Standard / Cutter Rds
+60
+Cutter Rounds disregard 10pts of D.R.
+All Ammo inflicts Plasma Burn.
+
+Particle Hand-Cannon $2250 / $10
+Fires a concentrated stream of high-velocity particles.
+45m
+0%
+10 rds, HV-H+ Beam round.
+75. Ignore Armour and CS shielding. Still affected by Nanite Shielding.
+
+
+============================================================
+Sub-Machine Guns:
+Capable of high rates of fire, but utilizing lighter calibers than a traditional combat rifle. Fire DEX/2 shots per full turn, rounding down. (DEX 5 = 2 shots, DEX 8 = 4 shots) Maximum LVL + 1.( All SMGs are considered CQB weapons)
+Minimum Strength 4, Reload DC 25% unless otherwise noted. Reload time 2 Half Actions. Jam range 2%
+============================================================
+
+Anvil Arms AR-34 PDW $1070 / $13
+A pint-size verison of the famous AR-68, the AR-34 PDW incorporates the famous AA Pushrod with an extremely short 6inch barrel and a skelotonized folding stock. Due to the lightweight of the rifle, a special low-powder cartridge is used to decrease its potency.
+75m
+35%
+30 rds, 5.45x39mm Rifle Magazine; FMJ / HP / CS
+44
+Maximum 3 shots per Round. Reload DC 30%
+
+Mathews "Bolter" $1000 / $10
+Short barrel length on a beefy body makes for an odd looking gun. Firing the hefty 45 magnum round though, you already aren''t worried about shooting targets at any significant range.
+70m
+45%
+20rds, .45 Magnum; Bolt / FMJ
+50
+Bolt round adds an additional 10 damage, but reduces range by 10m
+
+Frontier X-26L $3700 / $28
+The X-26L is a lighter variant of an experimental carbine. Boasting a faster firing rate and a specially designed armour piercing round, the X-26L was conceived of for special task force pointmen.
+90m
+30%
+45 rds, 5.7mm; AP
+48
+Due to the faster firing rate, on a successful hit, the shooter rolls for an additional hit. Standard SMG rules apply, and additional shots fired due to this rule do not factor towards the SMG''s dexterity based bonuses.
+
+
+
+============================================================
+Shotguns:
+All pump shotguns take 1 Half Action to fire, 1 Half Action to rack. In the racking action, you can load an additional round of your specification as a half action. Double barrel and semi auto shotguns do not follow this rule.
+Slug damage deals damage as a normal rifle would, dealing its full damage up to the listed distance.
+Buck-Shot damage is dealt in 3 distinct distances, which are listed. All buck shot deals 2 bleed tokens to the target.
+Minimum Strength 4, Reload DC 30% unless otherwise noted. Reload time 3 Half Actions
+============================================================
+
+Mathews Model 3x12 $1200 /$1 per shell
+60m
+18%
+3 rds, 12 ga Buck / Slug
+Buck Shot: 80 dam out to 3m, 65 out to 10m, 50 out to 20m.
+Slug: 60 dam out to 50m.
+Tri-Barrel/Break-Barrel. Reload DC 25%, Full Action reload time.
+
+ECSC PAO-8 $1400 $5
+20%
+7rds, 8ga Buck / Frag (+$20 per Frag round)
+Buck Shot: 100 dam out to 5m, 80 out to 15m, 60 out to 30m.
+Frag: 70 Explosive Damage, 2m radius. Ask your GM before buying Frag rounds.
+Pump action.
+
+RMM Auto-12 $1500  / $4
+25%/15%
+7rds, 12ga Slug / Buck
+Buck Shot: 80 dam out to 3m, 65 out to 10m, 50 out to 20m.
+Slug: 60 dam out to 50m.
+Semi-Automatic/Pump, tube fed.
+
+Anvil Arms AR-12 $2000 / $6
+50m
+30%
+10rds, 12ga Box Magazine; Slug / Frag (+$20 per Frag round)
+60
+Frag: 70 Explosive Damage, 2m radius. Ask your GM before buying Frag rounds.
+Reload DC 25%, Reload time 2 Half Actions.
+Fully automatic, Box fed.
+
+Frontier Plas-12 $2300 / $3 per shell
+20%/10%
+7 rds Argon-12ga: Slug / Buck / Dragon’s Breath
+Buck Shot: 80 dam out to 3m, 70 out to 10m, 60 out to 20m.
+Slug: 60 dam out to 50m.
+Dragon’s Breath: 7d10, range reduced to 10m, deals 3 plasma tokens
+Semi-Automatic/Pump, tube fed.
+All ammo inflicts 2 Plasma Burn tokens instead of Bleed tokens.
+
+Particle Scatter-Gun $2850 / $4 per shell
+This cannon releases multiple difused streams of particles for maximum target coverage. Auto range-adjustment enables the angle of blast cone to change based on target distance. This enables a uniform spread regardless of range.
+0%
+8 rds, HV-H+_D rds. 12ga form factor.
+95 dam out to 10m, 90 out to 25m, 85 out to 50m. Ignore Armour and CS shielding. Still affected by Nanite Shielding.
+Semi-Automatic
+Lightning erupts around the muzzle as this gun is fired, and a solid yellow-white beam of particles is ejected towards the target. The pure intensity and concentration of particles boils away most substances it comes into contact with. Cannot be equipped with any barrel attachments.
+
+
+============================================================
+Carbines & Battle Rifles
+Minimum Strength 5, Reload DC 27% unless otherwise noted. Reload time 2 Half Actions.
+============================================================
+
+RMM S-92 $2200 / $11
+With an integrated silencer and flash suppressor, the S-92 is a great weapon for close quarters or stealthy operations.
+Targets beyond 30m will not hear or see your fired shot. Targets within 30m are 50% less likely to notice your shot.
+70m
+45%
+18 Rds, .480 RMM; AP / HP / CS
+62
+
+Plas-Disc Launcher $2450 / $9
+100m
+40%
+10rds, Neon-30; Standard / Cutter Rds
+65
+Cutter Rounds disregard 10pts of D.R.
+All Ammo inflicts Plasma Burn.
+
+Frontier Laz-Rifle $2475 / $15
+150m
+20%
+35 rds, 10kWatt R-pack / 12kWatt R-pack
+35
+12kWatt increases damage by 10, decreases capacity to 20.
+Inflicts Stacking Burn damage.
+
+ECSC EVA-C $4050 / $19
+The ECSC Extravehicular Activity Carbine was developed to be used in zero gravity, zero atmosphere environments and fires a special 6.5mm caseless amunition. It has less range than traditional rifles while in atmosphere and gravity, and has far less penetration than most rifles. However, this means that it is capable of passing through a target without critical colateral damage while in an orbiting or deep-space platform. (Range and damage are represented as two values, In Atmosphere / Zero Atmosphere)
+55m / 150m
+35%
+25 rds, 6.5x40mm Caseless; HP only
+50/60
+CQB rifle
+
+Mathews HK-80 $3600 / $23
+120m
+45%
+20rds, Low Intelligence Nanite Infused
+30
+Each successive headshot increases damage by 15 to a max of 90.
+
+============================================================
+Automatic Rifles:
+Minimum Strength 5, Reload DC 25% unless otherwise noted. Reload time 2 Half Actions.
+Fire STR/3 shots per half action, Round down. Jam range 2%
+============================================================
+
+G&W XK20 $2420 / $13
+70m / 120m
+35%
+20 rds, 12.7x54mm (.50 cal) Magazine; Special Purpose Bullet, SPB
+62 / 67
+Due to the advanced bullet and mechanical research and development that went into the production of this prototype weapon, it has split damage for different ranges. Because of the large caliber round size, target takes penetrating damage.
+
+G&W XK100 $2620 / $62
+80m / 130m
+40%
+20 rds, 12.7x54mm (.50 cal) Magazine; Special Purpose Bullet, SPB
+62 / 67
+Due to the advanced bullet and mechanical research and development that went into the production of this prototype weapon, it has split damage for different ranges. Because of the large caliber round size, target takes penetrating damage.
+Supporting Fire
+
+Frontier 240R
+100
+20%
+30 rds, 6.5mm Grendle; FMJ
+68
+
+Frontier Plas-20 $3540 / $19
+120m
+35%
+20 rds, Argon-10; HO-SV / HO-LV / HO-HV
+60
+HO-LV treated like HP
+HO-HV treated like AP
+All ammo inflicts 2 x Plasma Burn
+
+Particle Rifle  $7000 / $23
+200m
+0%
+25 rds, HV-H+
+70. Ignore Armour and CS shielding. Still affected by Nanite Shielding.
+Lightning erupts around the muzzle as this gun is fired, and a solid yellow-white beam of particles is ejected towards the target. The pure intensity and concentration of particles boils away most substances it comes into contact with. Cannot be equipped with any barrel attachments.
+
+============================================================
+Heavy / Special Weapons:
+and often require certain skillsets to be used. They come in many shapes and sizes,
+but are generally medium to extra large in size.
+Minimum Strength 7 to carry, Reload DC 30% unless otherwise noted. Reload time 4 Half Actions.
+============================================================
+
+"Incapacitator" Stun-barb gun $2200 / $10
+This quad barrelled shotgun acts as a long-range tazer rifle. On trigger pull, an electrified barb is shot from each barrell.
+This gun has been outlawed in a lot of near-earth colonies for its tendency to inflict permanent physical damage,
+and in some cases, very heavy damage on the nervous system.
+40m
+35%
+8 rds, 2 volleys of 4 shots.
+10x 4 barbs. (40 damage max)
+Target rolls a fort save against electric damage, dc of 80%. On fail, target takes additional 10 Shock damage per barb and is stunned for 2 turns.
+Target may make a medical roll to remove a barb. On a fail, target takes 5 damage per barb.
+Reload takes 2 half actions.
+
+Mathews TX-8 Rotary Grenade Launcher $1470 / Cost for each round is 10% the cost of their parent grenade.
+(Requires 6 STR)
+60m
+30%
+8 rds, 40mm HE; AA / CHEM / FRAG / PLAS
+HE: 70 Explosive damage in 5m diameter.
+AA: Target takes 50 Damage to their armor, and takes 2 turns of bleed damage. (d10 / 2)
+CHEM: creates a 5m cloud of burning, choking smoke. targets take 30 Poison damage and become sickened for 4 turns until they can pass a FORT save at 70%. each turn they take an additional 10 damage.
+FRAG: See ECSC Fragmentation grenade.
+PLAS: See Frontier Plasma Grenade.
+All rounds other than Smoke and CHEM can destroy 2m of light wall / light fortification.
+Usesr loads the TX-8 with up to 8 rounds. If they load different grenade types, they must note so. As a single action, you may break open the loading chamber and insert a round to be fired next. A full reload takes 3 actions, and a half reload takes 2 actions.
+
+L.I.S.C. (Laser Ionizing Shock Cannon) $2700 / $20
+A powerful blue laser is used to ionioze the air between the user and their target. A complex array of mirrors additionaly ionizes the
+air around the target. The Cannon then lets loose 40,000 volts of electricity, which travels down the path of the laser, delivering
+painful theropy to the target, and anyone unfortunate enough to be nearby.
+(Requires STR 7, INT 5)
+50m
+30% to primary. 50% to all targets within 5m of primary.
+5 shots.
+70 Shock damage to primary. 55 Shock damage to secondary.
+Requires one action to ionize the air before it can be shot.
+
+Yaeger Rotary Cannon ZX-4 $3600 / $110
+90m
+30%
+200 rds, .30-06
+55
+Each successful hit enables you to roll for an additional hit, up to 4 times.
+
+Frontier Directed Plasma Thrower $6000 / $24
+(Requires STR 6 and int 6)
+motes of blue light collect at the end of the barrel, and a hellish barage of blue plasma is unleashed from the maw of this cannon.
+15m
+0%
+20 bursts or 30 seconds constant.
+Targets take 50 plasma damage and are dealt 5 turns of plasma damage.
+Takes 1 half action to charge and 1 half action to fire.
+The user may choose to continue firing for a number of turns, and doesn''t need to pause to aim or charge up a shot when doing so.
+All targets in a line 1 meter wide from the user must pass a DC 80 Reflex saving throw.
+
+Sustained Beam Cannon $16,500 / $150
+500m
+0%
+100 rds, HV-H+_High-Output
+50. Ignore Armour and CS shielding. Still affected by Nanite Shielding.
+This weapon spews forth a thick stream of high-velocity particles which start as a thick beam, but narrow as the rifle is fired for a longer period of time. Each successive shot, -5% miss, +5 damage. Max burst: (Knowledge[Nanites]/10) + 2. Cool down: 1 Full Action.
+
+Frontier EMC-9 $37,000 / $5
+1000m
+20%
+5 rds, 11x45mm NiU Rod
+80, + Bleed Damage
+
+
+-----------------------------------------
+Atelsakor Plasma Weapons
+All plasma weapons in this category deal necrotic damage and inflict plasma burn.
+If a plasma shot from these weapons hits armour, instead of dealing damage to the target after DR, the plasma shot will melt through the armour, dealing its amount of damage to the PH of the armor.
+Reload DC 30% Reload time 2 Half Actions.
+------------------------------------------
+
+Light Plasma Repeater
+As a Les Paul is to a beginner's plastic string guitar, the Atelsakor's Plasma Rifle is to the Frontier technology. Each Atelsakor Plasma rifle fires burning spheres of plasma, which burst on impact and melt through armour and cover.
+80m
+35%
+20 shots. Standard action to reload.
+42 Plasma Damage.
+
+Plasma Driver
+150m
+25%
+5 shots. Requires an action to charge after an action of firing.
+42 Plasma Damage.
+
+Heavy Plasma Repeater
+90m
+30%
+10 shots.
+47 Plasma Damage.
+
+Plasma Propelled Explosive
+75m
+30%
+Single Shot, Rocket.
+120 Plasma Damage. All targets within 10m must pass a FORT or DEX save at 90% to resist damage or dodge. Targets may make both saves if one stat is above 8. If both stats are 5 or below, add the stats together for the Saving throw to dodge.
+
+---------------------------------------
+Rocket Launchers
+All rocket launchers require a STR of 7 to carry or use.
+---------------------------------------
+
+ECSC RPE-8 $20,800
+The ECSC Rocket Propelled Explosive 8 is an anti-armour or anti-Material rocket propelled weapon. Its payload consists of a rocket propellent platform, which houses 8 micro explosives. These explosives launch at angle once they come within 10m of their target, spreading into a cone of explosive damage over a 10m area.
+80m
+35%
+Single Shot, Rocket
+Against Armoured Vehicles and terrain: 100 Explosive damage spread over a 10m area. Will punch through up to 1 foot of concrete, rock, wood, or  other comparable materials for a 3m hole. WIll punch through 6in or less of steel, aluminum, titanium, etc. for a 1m hole. To specific armour targets, if the armor rating is 100 damage or less, the armor is destroyed.
+Against NPCs / PCs: Any target in a 5m radius of the impact site must pass a Reaction save at 80% to dodge or resist 75 Explosive damage. Targets that pass the check are dazed for 3 turns or until they can pass another FORT save at 80%.
+
+Anvil Arms AT-20 $19,690
+The evolution of the simple and effective fire-and-forget RPG, the AT-20 packs a punch against personel as well as fortifications and armored vehicles.
+75m
+30%
+Single Shot, Rocket
+120 Explosive damage to a single armored target, or 80 damage to anyone in a 5m radius, unless they pass a Reaction save at 80%. Targets that pass the check are dazed for 3 turns or until they can pass another FORT save at 80%.
+
+G&W SRAW $30,000
+The G&W Short Range Assault Weapon utilizes a multi-function fragmentational warhead, which is just as effective against walls and bunkers as it is against personel. However, it lacks in armor piercing capabilities. The SRAW is equiped with a targeting computer, and will fly above its target before flying straight down ontop of the target. It also features a line-of-sight dumbfire mode.
+100m
+15%
+Single Shot, Rocket.
+Destroys up to 4m of wall, fortification, sandbag, etc.
+Against Personel, the SRAW deals d10*10 damage [reroll if d10<5] to anyone in a 5m radius, unless they pass a Reaction save at 80%. Targets that pass the check are dazed for 3 turns or until they can pass another FORT save at 80%.
+
+============================================================
+Long Rifles:
+Due to high velocities used in long rifle bullets, when a target is under the minimum engagement range, they take 20 less damage because of hit-pre-acceleration, PointBlank penetration, etc.
+Minimum 5 strength to carry. All targets are inflicted with Pinned condition when hit. Reload DC 30% unless otherwise noted. Reload time 3 Half Actions.
+============================================================
+
+G&W XK20 Mod 0 HE $7550 / $14
+20-200m / 500m
+35%
+20 rds, 13x54mm HE Magazine; SPB / SPB CS
+65 / 70
+Due to the advanced bullet and mechanical research and development that went into the production of this prototype weapon, it has split damage for different ranges. 
+In addition, the High Energy variant requires 1 action of charge up time.
+Because of the large caliber round size, target takes penetrating damage. Reload DC 26%, Reload time 2 Half Actions.
+Marksman only.
+
+Frontier Plas-5 HE $15,600 / $6
+Minimum 6 strength to carry
+30-1000m
+30%
+5 rds, Krypton-20; HO-HE / HO-HV Xenon
+80
+HO-HV consists of Xenon plasma. These shots burst on impact, dealing 3 Plasma Burns to targets within 2m at 80% chance. These magazines cost $28.
+All ammo inflicts 2 Plasma Burn.
+Reload time 2 Half ACtions
+
+Mathews BA .408 $25,900 / $7
+Minimum 6 strength to carry
+40-150m / 20-2000m
+45% / 20%
+7 rds, .408 cal RMM special; AP / Incendiary
+80
+Due to the complex nature of this Special Purpose Rifle, it requires extensive military style training in order to unlock its full potential. If you do not have at least a skill level of 30 in sniping, you cannot fire this effectively, and take a +15% to accuracy from the low range.
+Penetrating Damage. Marksman Only. Target recieves Bleeding condition, DC 80
+
+Beam Rifle $28,500 / $21
+1500m
+0%
+6rds, HV-H+_LR (.400 Heavy Rifle form factor);
+85. Ignore Armour and CS shielding. Still affected by Nanite Shielding.
+"Bolt Action", requires 1 Half-Action of cooldown time, which is accompanied by the cycling of the bolt.
+Lightning erupts around the muzzle as this gun is fired, and a solid yellow-white beam of particles is ejected towards the target. The pure intensity and concentration of particles boils away most substances it comes into contact with. Cannot be equipped with any barrel attachments.
+
+
+============================================================
+Other Weapons:
+Weapons in this category are specialized and require special skill in the particular weapon. An example would be Bows, you must have skill with bows in order to use them. Feats which list damages for guns are not applicable to bows, etc.
+============================================================
+
+Composite Bow: $1260 / $1 an arrow
+STR*5 meters
+40% (Bow Use)
+50 + (2 * STR)
+A user may knock an arrow for a half action, and draw and release for a half action. You may also choose to draw the bow back and hold it to release an arrow as a free action at a future time. Users can hold the bow drawn for STR number of turns.
+
+Compound Bow: $1680 / $1 an arrow
+STR*5 meters
+30% (Bow Use)
+60 + (2 * STR)
+A user may knock an arrow for a half action, and draw and release for a half action. You may also choose to draw the bow back and hold it to release an arrow as a free action at a future time. Users can hold the bow drawn for STR number of turns.
+
+
+
+//===================================================================
+//Copyright 2016 Taylor Rowland
+//
+//Licensed under the Apache License, Version 2.0 (the "License");
+//you may not use this file except in compliance with the License.
+//You may obtain a copy of the License at
+//
+//   http://www.apache.org/licenses/LICENSE-2.0
+//
+//Unless required by applicable law or agreed to in writing, software
+//distributed under the License is distributed on an "AS IS" BASIS,
+//WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+//See the License for the specific language governing permissions and
+//limitations under the License.
+//===================================================================

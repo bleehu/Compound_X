@@ -1,17 +1,9 @@
 Items List
 
-Night Vision Goggles ($300):
-IR visibility for low light conditions. Resolution clouds after 100m.
 
-Gas Mask ($300):
-Prevents the inhalation of noxious or toxic air-borne compunds. Reduce PER based rolls (including strike rolls) by 10.
-
-Zip-Cuffs ($25):
-pack of 5 nilon fiber woven standard zip-tie cuffs. Strength DC 70 or INT 80 to break.
-
-HD Zip-Cuffs ($300):
-Pack of 5 carbon-fiber zipe-tie cuffs. Strength DC 95 or INT 105 to Break.
-
+//===================
+//tools
+//===================
 Plasma cutter / Blow Torch ($450):
 Cut through steel, aluminum, etc unless it is specifically a hardened object. cut through up to 1 inch of steel in 2 full turns, 2 inches in 3 full turns.
 A basic 2inch thick chain link would take 3 turns to cut through. To open a man-sized hole in 1in thick steel would take 10 full turns.
@@ -24,6 +16,54 @@ Used to cut through chain links, locks, cables, etc.
 
 Pneumatic Door Press ($700):
 Opens sliding, pneumatically controlled doors up to Militarized Level (airlock specific doors exluded)
+
+
+3D image builder, Static ($650):
+A 3m^3 framework that will build a rudimentary  3d image of whatever is inside it, exportable to a portable device.
+
+3D image builder, Portable ($800):
+Builds a 3D image of what its being pointed at, will need to see the object from multiple angles to capture the whole object. Up to 20m^3 of space.
+
+//===================
+//wearables
+//===================
+Night Vision Goggles ($300):
+IR visibility for low light conditions. Resolution clouds after 100m.
+
+Gas Mask ($300):
+Prevents the inhalation of noxious or toxic air-borne compunds. Reduce PER based rolls (including strike rolls) by 10.
+
+//===================
+//consuables
+//===================
+
+MarkAll(tm) permanent marking pen. $2
+
+MediKit: $100
+For normal wounds (50% damage or less) roll percents under 50. On pass, heal 30 + percent rolled. For severe wounds (50% damage or more), roll percents under 50. On pass, heal 30. If you have Skill in Medicine, see the skill sheet for separate instructions.
+
+Repair kit: $100
+For normal damage (50% or less) roll percents under 50. On pass, repair 30 + percent rolled. For severe wounds (50% or more), roll percents under 50. On pass, repair 30.
+If you have Skill in Repair, see the skill sheet for separate instructions.
+
+Nanite Pack: $100
+Restores 2d10 + 20 nanites.
+
+Security Spike: $100
++20 to a hack check on a door with a physical access panel. DC 30 to place. Once hacked the door can be controlled remotely.
+
+Single Use door brute-forcer $120:
+Hacks through the encryption on a door (up to 75 DC) and opens it.
+
+//===================
+//explosives
+//===================
+Zip-Cuffs ($25):
+pack of 5 nilon fiber woven standard zip-tie cuffs. Strength DC 70 or INT 80 to break.
+
+HD Zip-Cuffs ($300):
+Pack of 5 carbon-fiber zipe-tie cuffs. Strength DC 95 or INT 105 to Break.
+
 
 Breaching charges ($500):
 Will remove a door from your path. Make sure no one is within 2m of the door in any direction or they take damage as if hit by an ECSC fragmentation grenade.
@@ -39,14 +79,10 @@ Steel plate - up to 2 in
 Det Cord ($230 per 2m of cord):
 Used to remove doors from hinges, act as ignition sources, enhance another explosive, etc. Use 2m per door to be removed. .5m to wrap around a door handle. 1m to wrap around a grenade. 4m to create a wall breaching pad (Explosives 50 DC)
 
-3D image builder, Static ($650):
-A 3m^3 framework that will build a rudimentary  3d image of whatever is inside it, exportable to a portable device.
 
-Single Use door brute-forcer ($120):
-Hacks through the encryption on a door (up to 75 DC) and opens it.
 
-3D image builder, Portable ($800):
-Builds a 3D image of what its being pointed at, will need to see the object from multiple angles to capture the whole object. Up to 20m^3 of space.
+
+
 
 Misc. Thrown Weapons:
 All thrown weapons inflict bleed damage.
@@ -107,21 +143,6 @@ Frontier Plasma Grenade: $900
 65% to land where intended and 95% to hit
 65 + 2 * plasma burn within 3m
 20 + d10 + 2 * plasma burn within 5m
-
-Health Items:
-
-MediKit: $100
-For normal wounds (50% damage or less) roll percents under 50. On pass, heal 30 + percent rolled. For severe wounds (50% damage or more), roll percents under 50. On pass, heal 30. If you have Skill in Medicine, see the skill sheet for separate instructions.
-
-Repair kit: $100
-For normal damage (50% or less) roll percents under 50. On pass, repair 30 + percent rolled. For severe wounds (50% or more), roll percents under 50. On pass, repair 30.
-If you have Skill in Repair, see the skill sheet for separate instructions.
-
-Nanite Pack: $100
-Restores 2d10 + 20 nanites.
-
-Security Spike: $100
-+20 to a hack check on a door with a physical access panel. DC 30 to place. Once hacked the door can be controlled remotely.
 
 Misc. Items and RP trinkets:
 

@@ -10,9 +10,9 @@ Class improvements to Priest, Paladin, Warlock, Engineer, Marksman and Soldier.
 //--------------------
 Version 1.6:
 External Augments [Done]
-Fix Armour Pricing for shield units.
+Fix Armour Pricing for shield units. [Done]
 Level 10 Support
-    - Weapons 
+    - Weapons [Lots added]
     - Items
     - Armour [Taylor]
     - Attachments

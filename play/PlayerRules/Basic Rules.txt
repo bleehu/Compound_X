@@ -4,21 +4,20 @@ This document was created in order to help clear up how everything works in this
 ==============================
 Premise:
 ==============================
-Compound X (working title) is a foray into the unkown. It is the year
+Compound X [working title] is a foray into the unkown. It is the year
 
 
 ==============================
 Player Stats:
 ==============================
 
-Each player has what are called S.P.F.C.I.D.L. Stats. These stats (and their subsequent bonuses) determine how well you are accomplished at certain tasks and skill. In addition they are used for determining many other aspects of the game.
+Each player has what are called S.P.F.C.I.D.L. Stats. These stats [and their subsequent bonuses] determine how well you are accomplished at certain tasks and skill. In addition they are used for determining many other aspects of the game.
 
 Stats are broken down per the following equation:
   Stat Bonus = (4 * Stat) - 20
   Stat Bonuses are used for the calculation of skill checks, weapon accuracy, etc.
-  Stats are not used for calculation, except for luck with the calculation of EP, and also saving throws.
-  EP = [(Level+1) * Luck] + 10
-  IC = [(Level + 1)* 10 * Luck] + 100
+  Stats are not used for calculation. and also saving throws.
+  Imperial Credits [IC] = [(Level + 1)* 150 * Luck] + 100
 
 Strength: Physical aptitude with regard to lifting and exertion of pure force.
 Perception: Ability to see, hear, taste, smell, feel and experience the world around you.
@@ -46,47 +45,73 @@ On levels 5, 9, 15 and 20, the stat point increase happens before any calculatio
 ╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
 ║ 2     ║ 2*int    ║ 2     ║            ║            ║ 2             ║
 ╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
-║ 3     ║ ''       ║       ║            ║            ║               ║
+║ 3     ║ "        ║       ║            ║            ║               ║
 ╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
-║ 4     ║ ''       ║ 3     ║            ║            ║ 4             ║
+║ 4     ║ "        ║ 3     ║            ║            ║ 4             ║
 ╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
-║ 5     ║ ''       ║       ║ 1          ║ +1         ║               ║
+║ 5     ║ "        ║       ║ 1          ║ +1         ║               ║
 ╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
-║ 6     ║ ''       ║ 4     ║            ║            ║ 5             ║
+║ 6     ║ "        ║ 4     ║            ║            ║ 5             ║
 ╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
-║ 7     ║ ''       ║       ║            ║            ║               ║
+║ 7     ║ "        ║       ║            ║            ║               ║
 ╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
-║ 8     ║ ''       ║ 5     ║            ║            ║ 7             ║
+║ 8     ║ "        ║ 5     ║            ║            ║ 7             ║
 ╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
-║ 9     ║ ''       ║       ║            ║ +1         ║               ║
+║ 9     ║ "        ║       ║            ║ +1         ║               ║
 ╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
-║ 10    ║ ''       ║ 6     ║ 2          ║            ║ 8             ║
+║ 10    ║ "        ║ 6     ║ 2          ║            ║ 8             ║
 ╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
-║ 11    ║ ''       ║       ║            ║            ║               ║
+║ 11    ║ "        ║       ║            ║            ║               ║
 ╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
-║ 12    ║ ''       ║ 7     ║            ║            ║ 10            ║
+║ 12    ║ "        ║ 7     ║            ║            ║ 10            ║
 ╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
-║ 13    ║ ''       ║       ║            ║            ║               ║
+║ 13    ║ "        ║       ║            ║            ║               ║
 ╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
-║ 14    ║ ''       ║ 8     ║            ║            ║ 11            ║
+║ 14    ║ "        ║ 8     ║            ║            ║ 11            ║
 ╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
-║ 15    ║ ''       ║       ║ 3          ║ +1         ║               ║
+║ 15    ║ "        ║       ║ 3          ║ +1         ║               ║
 ╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
-║ 16    ║ ''       ║ 9     ║            ║            ║ 13            ║
+║ 16    ║ "        ║ 9     ║            ║            ║ 13            ║
 ╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
-║ 17    ║ ''       ║       ║            ║            ║               ║
+║ 17    ║ "        ║       ║            ║            ║               ║
 ╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
-║ 18    ║ ''       ║ 10    ║            ║            ║ 14            ║
+║ 18    ║ "        ║ 10    ║            ║            ║ 14            ║
 ╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
-║ 19    ║ ''       ║       ║            ║            ║               ║
+║ 19    ║ "        ║       ║            ║            ║               ║
 ╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
-║ 20    ║ ''       ║ 11    ║ 4          ║ +1         ║ 16            ║
+║ 20    ║ "        ║ 11    ║ 4          ║ +1         ║ 16            ║
 ╚═══════╩══════════╩═══════╩════════════╩════════════╩═══════════════╝
+
+==============================
+Saving Throws
+==============================
+
+Saving throws are used in dire or critical situations to defend against very negative effects.
+    - Will: defend against a mind affect (Ex: throw off hopelessness after crashing in an escape pod)
+    - Shock: maintain composure after serious damage (Ex: stay conscious after being shot by a high caliber round)
+    - Reflex: quickly react to an event (Ex: dodge falling debris, fire at an enemy if they leap from one piece of cover to another).
+the equations are as follows:
+    - Will: 2*(Cha + Fort - 6) Rational: Normally wisdom would be applied, so Will in compound X is descried as your internal voice motivating you to endure a mental hardship.
+    - Shock: 2*(Fort + Int - 6) Rational: You need to recognize that you are in shock, and resist its physical effects.
+    - Reflex: 2*(Per + Dex - 6) Rational: In order to react quickly to an event, you also need to be able to see it coming.
+
+==============================
+Medicine Saving Throws
+==============================
+
+Ouch! you've just been shot! You'd better call for a medic or apply a medikit before you bleed out! "But how do I use a medikit? Or if I'm a medic, how do I stabilize and heal an ally?" I'm glad you asked. The rules are as follows:
+The medicine DC is equla to the damage dealt. On a fail skill check, no healing occurs. On a success, heal an amount equal to Medic skill + DC surplus.
+Ex: player is dealt 70 damage. Medic has 25 skill. Medic rolls an 86 (with medic skill), so they heal 25+(86-70) for 41 health healed.
+Individual wounds are healed individually. 3 20 damage wounds needs three rolls of 21 or higher.
+Ex: Player takes 70 damage. Medic has 25 skill. Medic rolls an 86 (with medic skill), so they heal 25+(86-70) for 41 health. Now the player still has a 29 damage deficit (70-41), so the medic would need to roll over a DC of 29 to heal the remaining 29 damage. (Cannot overheal a wound).
+Medics need not use a medic-kit so long as the have their medicine bag (or equivalent) on their person. If they do not have their medicine bag with them when they are trying to heal a teamate, they can make the attempt at a +20 DC.
+Using a medikit:
+Medic-kit, non-medic user: works as if you are a medic with skill 30.
+Medic-kit, medic user: Works as normal, but add 30 to amount healed.
 
 ==============================
 RP / Using Skills:
 ==============================
-
 The GM may ask you to roll a certain skill to see if your character can do something. This may be something like "Roll Awareness to see if you spot the truck barreling towards you," or it might look like "Roll Medicine to see if you can patch up the gaping wound in your chest spewing blood." Anytime you need to Pass a Skill check, there will be a DC to overcome in order to successfully pass the check. Again: YOU MUST ROLL *OVER* A DC TO PERFORM A SKILL. the DC does not need to be given out by the GM, but if a DC seems too high, you have the right to grumble (but seriously, ask your GM if something seems too difficult. There is usually a reason why tying your shoe takes a DC of 70% on that particular day, etc). After you have rolled, please apply any and all relevant skills to your result. If you are rolling to silently take down an opponent, the GM can either have you roll a stealth check and an unarmed combat check, or double the DC, and have you roll once adding both modfiers. Also add any relevant Stat Bonuses to a roll. When rolling awareness, add your PER Bonus, etc.
 At any time out of combat, you may decide to use one of your skills. If you are not preasured by imminant / immediate danger, you may take a 100% to pass a skill check, then apply any ranks in the skill. When rushed by a time constraint or danger, you can take a 50% to pass a skill check, then apply any ranks in said skill. However, some checks cannot be passed in this way. If you are staring at a ship''s blast doors, and want to kick them down, yeah . . . good luck with that.
 If you want to use a skill in combat, see the Combat: Actions subsection.
@@ -113,7 +138,7 @@ Combat starts when either you or an enemy decides they would like to make an att
 
 Melee Notes:
 A character occupies 1m of space. however, as Compund X is not played out on a squares-board, usually it doesn''t matter if two players are within the same 1m space.
-Two Players locked in melee combat are considered to be in adjacent 1m spaces, not in the same 1m space. Have you ever seen a fight? you don''t start face-face unless you''re at a bar.
+Two Players locked in melee combat are considered to be in adjacent 1m spaces, not in the same 1m space. Have you ever seen a fight? you don't start face-face unless you're at a bar.
 Generally speaking, once a character has initiated melee combat with another character, they are both considered to be in "melee combat," and occupy adjacent 1m spaces. At this point (unless one characteer has a cqb weapon) both characters are assumed to be using their fists or other melee weapons. If a character wishes to leave melee combat, they incur a "penalty attack." Characters also incur "penalty attacks" when moving through or next to an enemy character''s 1m space, or within range of a melee weapon that the enemy has equipped, and when performing a skill check when in melee combat.
 Melee combat is relatively simple. To hit an enemy player, add your dexterity or strength modifier to a roll, plus any relevant skill. The result must be greater than the opponent''s DEX * 5 + any skill in combat (Guard DC). Your damage dealt is based on your DEX or STR modifier. If you are weilding a weapon against an unarmed opponent, they may still incur damage depending on their skill.
 A character may grapple another character when they are both in melee distance. Doing so provides the grappled player a "penalty attack" on the graPpling player. During grappling, both sides roll opposing grapple checks to see who maintains control. Once you have control you may make a grapple check to subdue your opponent (either through choke-out, pin, or a joint lock). You may also strike an opponent during grappling, but if the strike fails your opponent may attempt to gain control of the grapple. Skill in grappling is different than skill in unarmed combat.
@@ -128,7 +153,6 @@ Hunkering Down - Full Action
 Firing a semi-auto gun - Half-Action
 Cast a Spell - Half-Action
 Aiming Down Sights - Half-Action
-Cocking a hammer / Racking a shotgun / cycling a bolt - Half-Action
 turning on a flashlight - Half Action
 Unholstering Pistol - Half Action
 Performing a skill check (other than Awareness) - Half-Action
@@ -141,33 +165,27 @@ You can sprint instead of moving, for a +2 movement bonus. However, firing your 
 
 Fighting:
 During combat, most weapons are Semi-Auto, meaning that each time you pull the trigger, the gun fires and chambers a new round automatically without firing it. It takes 1 Half-Action to fire a semi-auto weapon in this way. Some guns, such as Shotguns and Bolt-Action sniper rifles require a Full-Action to fire the gun, where the first Half-Action is a trigger pull, and the second Half-Action is the rechambering of the weapon.
-To hit, Players must roll a percentile that is over their weapon''s % miss stat. 
+To hit, Players must roll a percentile that is over their weapon's % miss stat. When an enemy is in cover, their cover score is added to your weapon's miss chance. If your normal miss chance is 25, and the enemy is in full cover, your miss chance is increased by 50, for a final DC of 75.
 Critical Hits:
 If your Luck is 5, on a roll of 90-1 through 90-5, the hit is considered a Critical hit, and deals an extra 10 damage. on a roll of 90-6 through 00-0, the hit is considered an Extra-Critical hit, and deals an extra 20 damage. Your Luck modifier ((Luck-5)*4) is subtracted from the lower bound of your critical hit range.
 Gun Jams:
 On a roll of 00-01, the weapon Jams, necessitating a weapon skill check, DC 60.
 When a player is defending against a hit, they roll Percentiles under their armor in order to apply a Damage Reduction, or to apply damage to their Capacitive Sheilds if the player has them.
 
-Hip Firing doubles a weapon''s miss chance. It is much smarter to take a half action to Aim, and spend the rest of your shots on firing. Its also a great idea to take a half action at the end of your turn to "hunker," and gain a 75% cover advantage.
-
-Fighting in Stealth:
-//Rules for stealth attack / flat foot
-//-20%, -10% crit, reduce chance to hit armour (20%?)
-//If your attack would normally force the target to roll a fort save, they are incapacitaed by default with no roll.
-When attacking an enemy from stealth, you are 10% more likely to crit, and 10% less likely to hit armour. If your attack would normally force the target to roll a FORT save, they are incapacitated by default with no roll. The same applies when attacking an opponent who is caught flat-footed.
+Hip Firing doubles a weapon''s miss chance. It is much smarter to take a half action to Aim, and spend the rest of your shots on firing. Its also a great idea to take a half action at the end of your turn to "hunker," and gain a 25% cover advantage.
 
 Using Cover:
 Chances are, if an enemy can see you in Compund X, they can hit you. Using cover will make it harder to be hit. You will encounter many types of cover while adventuring throughout the galaxy. Many small objects provide only partial cover, either by partially obscuring your silhouette, or by providing slight protection from projectiles. Full cover will do both to a better degree. Debuffs to enemies %Miss are as follows:
 No Cover: +0%
 Partial Cover: +25%
 Full Cover: +50%
-Hunkering: +75%
+Hunkering: +25% on top of whatever cover you''re behind.
 
 Hunkering costs one half-action, and you cannot fire your weapons. Imagine curling up in a ball, to pose the absolute smallest target possible. Its a free action to de-hunker
 
 Reloading:
 When a gun runs out of amunition, the user must pause to reload. "But how long do I gotta be outta the battle?" Great question!
-Each gun has a "Reload DC," rated based on the skill and brevity of the weapon''s reload. For example, an assault rifle, which has a very obvious magazine release button and protruding magazine, has an average DC of 25. More complex weapons, such as high-precision sniper systems or exotic sub-machine guns might have a higher DC, maybe 35. If the Player passes the reload, then the reload time is standard. For Box-Magazine fed Semi- and Fully-Automatic weapons, this is 1 Full Action. Other, more complex weapons will specify their reload time. On a critical Success (anything in the 90-100 range), the reload time is halved (for Bolt-Actions it is reduced to 1 Half-Action). On a failure, the reload time takes double.
+Each gun has a "Reload DC," rated based on the skill and brevity of the weapon's reload. For example, an assault rifle, which has a very obvious magazine release button and protruding magazine, has an average DC of 25. More complex weapons, such as high-precision sniper systems or exotic sub-machine guns might have a higher DC, maybe 35. If the Player passes the reload, then the reload time is standard. For Box-Magazine fed Semi- and Fully-Automatic weapons, this is 1 Full Action. Other, more complex weapons will specify their reload time. On a critical Success (anything in the 90-100 range), the reload time is halved (for Bolt-Actions it is reduced to 1 Half-Action). On a failure, the reload time takes double.
 
 When players take more than 70 damage, they must roll a Shock save at a DC of the damage taken. on fail they pass out. on success they stay conscious. When players fail, they may roll each turn at a DC of 70 to wake up. They continune to roll either for (15 - FORT) turns, or until they pass.
 
@@ -187,7 +205,7 @@ Poisoned - d10 damage per turn. After 5 turns, some poisons may induce unconscio
 Damage Types and Armour types
 ==============================
 
-There are 4 main types of damage in compound X: Balistic (conventional firearms, bows), Laser, Plasma, and melee. Additionally, some Balistic, Laser and melee weapons can deal non-lethal variants. These damage types interract differently with the two types of armour. Balistic weapons and balistic armour are the first damage type and armour type players will come across. When balistic armour is shot by a balistic weapon, the armour may apply some damage reduction, then the player takes damage. The second type of damage players may come across is plasma. Plasma damage stacks, and interracts fairly neutrally with both balistic and CS armours. Balistic armour applies some DR to any plasma damage, but in turn the plasma will melt away part of the armour. Half of the plasma''s damage is removed from the armour''s hit percent. For CS shields, Plasma deals full damage to the shielding, plus inflicts plasma burn on the wearer. Laser damage is the third type f damage encountered by players. All lasers deal burn damage on hit. Lasers are completely nullified by CS shields, dealing all of their damage to the shielding, and inflicitng no burn damage. Lasers deal full damage to armoured targets, and remove nothing off of the armour''s hit percent. If a player wearing balistic armour is hit with a laser, they recieve damage as if they weren''t wearing any armour.
+There are 4 main types of damage in compound X: Balistic (conventional firearms, bows), Laser, Plasma, and melee. Additionally, some Balistic, Laser and melee weapons can deal non-lethal variants. These damage types interract differently with the two types of armour. Balistic weapons and balistic armour are the first damage type and armour type players will come across. When balistic armour is shot by a balistic weapon, the armour may apply some damage reduction, then the player takes damage. The second type of damage players may come across is plasma. Plasma damage stacks, and interracts fairly neutrally with both balistic and CS armours. Balistic armour applies some DR to any plasma damage, but in turn the plasma will melt away part of the armour. Half of the plasma's damage is removed from the armour's hit percent. For CS shields, Plasma deals full damage to the shielding, plus inflicts plasma burn on the wearer. Laser damage is the third type f damage encountered by players. All lasers deal burn damage on hit. Lasers are completely nullified by CS shields, dealing all of their damage to the shielding, and inflicitng no burn damage. Lasers deal full damage to armoured targets, and remove nothing off of the armour's hit percent. If a player wearing balistic armour is hit with a laser, they recieve damage as if they weren't wearing any armour.
 ==============================
 Casting Spells
 ==============================
@@ -195,33 +213,6 @@ Casting Spells
 There are a few classes which are able to cast spells, such as the Warlock or the Paladin. Casting spells is very similar to performing other actions. Normally, a spell takes a half-action to cast. The performer of the spell will have to pass a Skill DC in order to successfully cast the spell. For Warlocks this is a Sorcery DC, and for Paladins this is a Knowledge [Nanites] DC. Warlocks can add any skill points they have in Sorcery to their rolls, and Paladins may do the same with their Knowledge [Nanites] skill.
 Some spells may also require the target to make a saving throw in order to avoid the spell or negate its effects.
 Generally speaking, spells have a range that is dependant on either the Charsima score of the caster or the Charsima Modifier.
-
-==============================
-Saving Throws
-==============================
-
-Saving throws are used in dire or critical situations to defend against very negative effects.
-    - Will: defend against a mind affect (Ex: throw off hopelessness after crashing in an escape pod)
-    - Shock: maintain composure after serious damage (Ex: stay conscious after being shot by a high caliber round)
-    - Reflex: quickly react to an event (Ex: dodge falling debris, fire at an enemy if they leap from one piece of cover to another).
-the equations are as follows:
-    - Will: 2*(Cha + Fort - 6) Rational: Normally wisdom would be applied, so Will in compound X is descried as your internal voice motivating you to endure a mental hardship.
-    - Shock: 2*(Fort + Int - 6) Rational: You need to recognize that you are in shock, and resist its physical effects.
-    - Reflex: 2*(Per + Dex - 6) Rational: In order to react quickly to an event, you also need to be able to see it coming.
-
-==============================
-Medicine Saving Throws
-==============================
-
-Ouch! you''ve just been shot! You''d better call for a medic or apply a medikit before you bleed out! "But how do I use a medikit? Or if I'm a medic, how do I stabilize and heal an ally?" I''m glad you asked. The rules are as follows:
-The medicine DC is equla to the damage dealt. On a fail skill check, no healing occurs. On a success, heal an amount equal to Medic skill + DC surplus.
-Ex: player is dealt 70 damage. Medic has 25 skill. Medic rolls an 86 (with medic skill), so they heal 25+(86-70) for 41 health healed.
-Individual wounds are healed individually. 3 20 damage wounds needs three rolls of 21 or higher.
-Ex: Player takes 70 damage. Medic has 25 skill. Medic rolls an 86 (with medic skill), so they heal 25+(86-70) for 41 health. Now the player still has a 29 damage deficit (70-41), so the medic would need to roll over a DC of 29 to heal the remaining 29 damage. (Cannot overheal a wound).
-Medics need not use a medic-kit so long as the have their medicine bag (or equivalent) on their person. If they do not have their medicine bag with them when they are trying to heal a teamate, they can make the attempt at a +20 DC.
-Using a medikit:
-Medic-kit, non-medic user: works as if you are a medic with skill 30.
-Medic-kit, medic user: Works as normal, but add 30 to amount healed.
 
 ==============================
 Cloaking

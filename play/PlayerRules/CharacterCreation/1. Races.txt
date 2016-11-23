@@ -13,7 +13,6 @@ Language: 	Emperial Common, +1 dialect
 Racial Traits:	
 None
 
-
 //============================================================
 Tundari
 Society: Tribal system, lead by a counsil of elders.
@@ -47,7 +46,7 @@ They have a steel reinforced frame, and are usually armor plated. The coloration
 Favored Class: Marksman, Soldier, Adept, Priest, Mechanic.
 
 Qualities: 10RP
-Type: Robotic (Does not need to eat, breath, or sleep. Must spend 6 hours to recharge after a 24 hour period. this can be done via a self-contained reactor. Not affected by mind-influence, succeptable to hack attempts).
+Type: Robotic. Does not need to eat, breath, or sleep. Must spend 6 hours to recharge after a 24 hour period. this can be done via a self-contained reactor. Not affected by mind-influence, succeptable to hack attempts).
 Size: Medium+
 Speed: Normal
 Stat Modifiers: INT + 1, FORT + 2. LUCK -3.
@@ -64,7 +63,7 @@ Society: These constructs are made up of nanites. Commonly A.I.s that have broke
 Preferred Classes: Warlock, Priest, Pilot.
 
 Qualities: 10RP
-Type: Construct (Does not need to eat, breathe, sleep. Immune to mind-affecting effects. Cannot heal damage on their own, but can be repaired by nanite boost shots or using "Nanite Drain." Not subject to non-lethal damage or fatigue. Once they hit 0 hit points, they are destroyed. They cannot be "brought back" but they can store copies of themselves on respawn systems.
+Type: Construct. Does not need to eat, breathe, sleep. Immune to mind-affecting effects. Cannot heal damage on their own, but can be repaired by nanite boost shots or using "Nanite Drain." Not subject to non-lethal damage or fatigue. Once they hit 0 hit points, they are destroyed. They cannot be "brought back" but they can store copies of themselves on respawn systems.
 Size: Medium
 Speed: Normal
 Stat Modifiers: +2 INT, -2 LUK, +2 DEX -4 STR
@@ -86,7 +85,7 @@ Archons do not have a health bar. Instead, they have 300 + 20*int Nanites. They 
 
 //============================================================
 Cyborg
-
+Society: Cybernetics advanced rapidly over the last 200 years, and it is not uncommon to see Cyborgs walking amongst crowds. Most of society looks down on their augmented bretheren, and in some places they are outcasts completely. Be warned if you take this race, you will be discrimintated against at some point.
 Preferred Classes: Any
 Type: Enhanced Organic.
 Size: Medium
@@ -94,7 +93,7 @@ Speed: Normal+
 Stat Modifiers: 40 point pool.
 Languge: ECSC Standard
 Racial Traits:
-    Pick any three augments:
+    Pick any three augments (you may take a single augment no more than 3 times, or a combination of multiple augments. For example Occular Augment and Speed Geared Fine Motor Controls II might help a mellee fighter increase both damage and hit chance.):
     Occular Augmentation: +1 Perception, Darkvision 20m.
     Enhanced Speed: +1 movement.
     Enhanced Strength: +1 STR, metal arms, legs, or both.
@@ -103,9 +102,18 @@ Racial Traits:
     Skeletal Support Structure: +1 FORT.
     Implanted Weapon: Pick a pistol from the basic weapons list. This pistol is implanted in a limb. You may manipulate your limb to use this weapon at the cost of a half action. While the weapon is out, that limb does not operate at its normal capacities. Hands would not grasp, legs would not superbly support you, etc. Subrtact the price of the weapon from your class starting money. The weapon can be upgraded to another pistol with a DC 25 Biomechanics check, or a DC 50 Mechanics check. It can be upgraded to any CQB weapon with a DC 50 Biomechanics or DC 75 Mechanics check.
     Integrated multitool: Your fingers hide a basic toolkit, including low-speed motorized screwdrivers, soldering iron, wrenches, quantum spanner, toothpick, pliers, sharp edge, lock pick, etc. If it fits in a leatherman, its plausible that it would be in this toolkit.
+    Internal Reinforcing: Critical Damage threshold +5, +5 base health.
+    External Reinforcing: 5 DR passive, potential for RP abilities.
 
 Cyborgs share all weaknesses with their base race, generally humans. They additionaly are weak against electric damage taking an extra 50% damage.(10 damage would become 15). They are also succeptible to hacking, although they would not come under control, they would merely loose the use of their augmentations and any affected limbs. DC 80 Hack check.
 Once at level 3, and every 5 levels thereafter a Cyborg may purchase an additional augment at the cost of $2000. They must see a cybernetics expert to have this augment installed.
+
+//============================================================
+Herbalians
+Society: One of many sentient species encountered by the ECSC during its rapid expansion, the Herbalians occupy territory on the "southern" side of ECSC space. Their planet has high levels of nitrogen, Carbon-dioxide, as well has high humitidy levels. This aided in the evolution of larger and more complex plantlife, eventually leading to a carniverous species of moving plants that began to find hunting for their food enabled them to consume more complex forms of energy. 
+
+"Plants aren't cognizant of the way they interact with the universe, they uncaringly trudge through the galaxy just doing their thing."
+
 
 
 //===================================================================
