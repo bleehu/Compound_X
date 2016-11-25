@@ -374,14 +374,15 @@ Casting Spells
 There are a few classes which are able to cast spells, Paladins, Mages and 
 Sorcerers. Casting spells is very similar to performing other actions. 
 Normally, a spell takes a half-action to cast. The performer of the spell will 
-have to pass a Skill DC in order to successfully cast the spell. For Mages and 
-Sorcerers this is a Spellcast DC, and for Paladins this is a Knowledge 
-[Nanites] DC. MAges/Sorcerers can add any skill points they have in Sorcery to 
-their rolls, and Paladins may do the same with their Knowledge [Nanites] skill.
-Some spells may also require the target to make a saving throw in order to 
-avoid the spell or negate its effects.
-Generally speaking, spells have a range that is dependant on either the 
-Charsima score of the caster or the Charsima Modifier.
+have to pass a Skill DC in order to successfully cast the spell. This DC is 
+the number of nanites used to cast the spell, plus an bonuses the target gains 
+from cover. For Mages and Sorcerers this is a Spellcast DC, and for Paladins 
+this is a Knowledge [Nanites] DC. Mages/Sorcerers can add any skill points 
+they have in Sorcery to their rolls, and Paladins may do the same with their 
+Knowledge [Nanites] skill. Some spells may also require the target to make a 
+saving throw in order to avoid the spell or negate its effects. Generally 
+speaking, spells have a range that is dependant on either the Charsima score 
+of the caster or the Charsima Modifier.
 
 ==============================
 Cloaking

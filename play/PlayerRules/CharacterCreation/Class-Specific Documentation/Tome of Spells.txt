@@ -44,23 +44,23 @@
 			Arcane Blast [40]: Deals 40 + P.Lvl turns C.S. Burn. 70m range, 
 			acurracy is 40% (INT base)
 				Max Levels: 5
-
-		//Level 3:
 			Fireball [40]: Deals 40 + P.Lvl #of  Burn damage to a single 
 			target. Burn damage lasts for 2 turns. or until extinghuished. 60m 
 			Range, Acurracy is 40% (INT base)
 				Max Levels: 5
-		//Level 5:
+		//Level 3:
 			
-		//Level 7:
+		//Level 5:
 			Arcane Storm [60]: Fire P.Lvl +1 # of Arcane Blasts.
 				Max Levels: 2
-
-		//Level 9:
+		//Level 7:
 			Dragon''s Breath [50]: You breath fire, dealing any enemy within
 			20m of your mouth 40 Fire damage, and 3 rounds of P.Lvl # Burn 
 			damage. DC 50 Reaction Save.
 				Max Levels: 5
+
+		//Level 9:
+			
 		//Level 11:
 
 		//Level 13:
@@ -79,7 +79,7 @@
 			turns. Target rolls Reaction save at DC 20 + 3*INT to resist. 
 			Range is 30m.
 
-			Frost Blast
+			Frost Blast []: 
 
 		//Level 3:
 			Slow
@@ -148,7 +148,14 @@
 			P.Lvl meters away. Make up to P.Lvl + 1 jumps.
 				Max Levels: 5
 		//Level 7:
-
+			Non-Lethal Field [100]: Create a circle Char meters in diameter. 
+			For P.Lvl turns, treat any incoming damage as non-lethal. 
+			Recieving a total of non-lethal damage equal to your health will 
+			cause your character to become unconcious, but does not cause your 
+			character to become "downed." Your character is knocked out for 
+			11-Fort rounds, minimum 1 round. If you recieve a number of 
+			non-lethal damage equal to twice your health, the "downed" 
+			condition is imposed on you.
 
 		//Level 9:
 			Improved Mage Armour [X]: Gain a nanite shield. Shield = [X nanites
@@ -212,7 +219,13 @@
 		    until it is dismissed or destroyed.
 			    Pick 1 trait per P.Lvl and boost it by 10%. Max Levels: 5
 		//Level 9:
-
+			Fire Whip [60]: You form a whip out of fire. Nanites spent to 
+			create the whip are lost until it disappears. The whip is treated 
+			as a mellee weapon with the following stats:
+				3 meters
+				30% (dex based)
+				60 + P.Lvl*Dex Damage + 1 burn damage token.
+				Max Levels: 5
 		//Level 11:
 
 		//Level 13:
@@ -230,15 +243,33 @@
 			Bullet Storm [40]: A cascade of bullet-like Nanite shards is fired 
 			at the target. Target takes 20 + P.Lvl * 15 damage.
 				Max Levels: 5
-			Blur //causes enemy attacks to land less often
+			Blur [50]: The target''s edges blur and melt into the background, 
+			causing opponents targeting them to miss more often. Target 
+			imposes a -(40+P.Lvl*3)% miss to anyone targeting them.
+				Max Levels: 5
 		//Level 3:
-			Push //nudge medium enemy P.Lvl meters, large enemy P.Lvl/2 meters
+			Push [30]: Nudge a medium sized target P.Lvl meters or a large 
+			sized target P.Lvl/2 meters (round up).
+				Max Levels: 5
 		//Level 5:
-			Dismiss Attack
+			Dismiss Attack []: Prevent an attack from landing. Add 50% to your cover score for 1 turn.
 		//Level 7:
-			Shift
+			Shift [60]: Move the ground underneath P.Lvl+1 medium sized 
+			enemies P.Lvl meters (Large sized enemies count as 2 medium sized 
+			enemies).
+				Max Levels: 5
 		//Level 9:
-			Redirect Attack
+			Redirect Attack [75]: Prevent an attack from landing. Add 50% to 
+			your cover score for 1 turn. Attacks that fall into this 50% range 
+			are redirected at the enemy and deal damage according to the 
+			following:
+				1 P.Lvl: half damage.
+				2 P.Lvlvs: full damage.
+				Max Levels: 2
+			Example: Enemy''s hit chance is 20. You are in partial cover when 
+			you cast this spell. The enemy''s chance to hit you is 95. If 
+			their roll falls in the range of 46-95, you redirect the attack 
+			onto them.
 		//Level 11:
 
 		//Level 13:

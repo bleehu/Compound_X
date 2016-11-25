@@ -6,16 +6,21 @@ You may only have 1 scope, unless otherwise stated.
 ====================
 
 Tritium Glow Iron Sights $50
-1x magnification, but allows for much better target aquisition. Can be mounted on 45 degree mounts in addition to a scope in order to negate a minimum engagment distance penalty.
+1x magnification, but allows for much better target aquisition. Can be mounted 
+on 45 degree mounts in addition to a scope in order to negate a minimum 
+engagment distance penalty.
 Accuracy -5%
-Can be used on any conventional, nonexplosives weapon, E.G. pistols, shotguns, rifles, etc.
+Can be used on any conventional, nonexplosives weapon, E.G. pistols, shotguns, 
+rifles, etc.
 
 Grenade Launcher Iron Sights $100
-1x Magnification. Allows better estimation of distances for use with grenade launcher.
+1x Magnification. Allows better estimation of distances for use with grenade 
+launcher.
 Underbarrel Grenade Launcher -10% miss chance.
 
 1x Dot Sight $130
-Your basic tube-shaped dot-projection. Dot can be changed from blue-green-red for various lighting situations and terrains.
+Your basic tube-shaped dot-projection. Dot can be changed from blue-green-red 
+for various lighting situations and terrains.
 Accuracy -3%
 Range +10m
 
@@ -48,7 +53,8 @@ Range +5m
 Accuracy -10%
 
 nx Magnifier for Dot Scopes $n*200
-A basic magnifying tube capable of increasing the effective range of a weapon. Flips out of the way for a half action.
+A basic magnifying tube capable of increasing the effective range of a weapon. 
+Flips out of the way for a half action.
 Must be paired with a dot sight.
 Range + (n*20)
 
@@ -63,7 +69,10 @@ Range +75m, minimum +15m.
 Can only be used on Long Rifles, Carbines.
 
 2-7x Scope $760
-As a full action, you can adjust the magnification on this scope in order to better see your target. Once sighted to a certain range, other targets that are within 20m can still be fired upon. otherwise you must adjust your magnification.
+As a full action, you can adjust the magnification on this scope in order to 
+better see your target. Once sighted to a certain range, other targets that 
+are within 20m can still be fired upon. otherwise you must adjust your 
+magnification.
 Accuracy -20%
 Range +100m, minimum +10m
 
@@ -79,11 +88,15 @@ Can only be used on Long Rifles.
 Enables high-precision rifles to make full use of their range.
 
 Range Finder $370
-Notifies the user of the target''s range via an infrared laser beam. Useful for calculated bullet drop for a sniper. When a Sniper takes a full round to adjust it''s scope''s windage or elevation due to distance, negate the full round and adjust the scope as a free action.
+Notifies the user of the target''s range via an infrared laser beam. Useful for
+calculated bullet drop for a sniper. When a Sniper takes a full round to 
+adjust it''s scope''s windage or elevation due to distance, negate the full 
+round and adjust the scope as a free action.
 (can be used in addition to another scope)
 
 IR scope $440
-Enables visibility in dark settings. This scope does not have any inherent magnification, and needs to be used in conjunction with a scope or dot sight.
+Enables visibility in dark settings. This scope does not have any inherent 
+magnification, and needs to be used in conjunction with a scope or dot sight.
 
 ====================
 Assistance Attachments
@@ -99,7 +112,9 @@ Works well with IR goggles. Actually, it only works with IR goggles.
 30m visibility in dark with IR goggles.
 
 Bipod $320
-Requires one full action to deploy the bipod. user can diengage for a free action. After disengaging, user must still take a full action to deploy. Cannot be used with any foregrip or underbarrel weapon.
+Requires one full action to deploy the bipod. user can diengage for a free 
+action. After disengaging, user must still take a full action to deploy. 
+Cannot be used with any foregrip or underbarrel weapon.
 Accuracy -20%
 
 Red Laser $140
@@ -123,18 +138,23 @@ Miss Chance -5%
 Does not apply to lasers, coilguns or plasma guns.
 
 Flash / Sound Suppressor $100
-Greatly reduces the muzzle flash and some of the weapon report from firing. Targets are not likely to see you or hear you when not particularly looking for you. When alerted to your presence, they are 60% less likely to find your position.
+Greatly reduces the muzzle flash and some of the weapon report from firing. 
+Targets are not likely to see you or hear you when not particularly looking for
+you. When alerted to your presence, they are 60% less likely to find your 
+position.
 Range - 10m
 Only applies to balistic weapons. Not useable on coilguns, shotguns or HMGs.
 
 Improved Flash / Sound Suppressor $300
-Completely removes muzzle flash and the weapon report. Targets cannot locate you due to firing your weapon.
+Completely removes muzzle flash and the weapon report. Targets cannot locate 
+you due to firing your weapon.
 Range -20m
 Damage -5
 Only applies to balistic weapons. Not useable on coilguns, shotguns or HMGs.
 
 Light Profile Barrel $100
-When a conventional ammunition weapon requires a STR check to carry or use, subtract 1 from the STR check.
+When a conventional ammunition weapon requires a STR check to carry or use, 
+subtract 1 from the STR check.
 Miss Chance +10%
 
 Heavy Profile Barrel $100
@@ -143,7 +163,8 @@ Miss Chance -10%, STR +1
 
 ====================
 Lower Rail attachments
-You may only choose one of these. You may not use a Bipod in conjunction with any of these except the foregrips.
+You may only choose one of these. You may not use a Bipod in conjunction with 
+any of these except the foregrips.
 ====================
 
 Vertical Foregrip $50
@@ -159,11 +180,15 @@ Grenade Launcher $2200
 35%
 1 rd, 40mm HE; AA / CHEM / FRAG / PLAS
 HE: 70 Explosive damage in 5m radius.
-AA: Target takes 50 Damage to their armor, and takes 2 turns of bleed damage (d10 / 2)
-CHEM: creates a 15m clowd of burning, choking smoke. targets take 30 Poison damage and become sickened for 4 turns until they can pass a FORT save at 70%. each turn they take an additional 10 damage.
+AA: Target takes 50 Damage to their armor, and takes 2 turns of bleed damage 
+(d10 / 2)
+CHEM: creates a 15m clowd of burning, choking smoke. targets take 30 Poison 
+damage and become sickened for 4 turns until they can pass a FORT save at 70%. 
+each turn they take an additional 10 damage.
 FRAG: See ECSC Fragmentation grenade.
 PLAS: See Frontier Plasma Grenade.
-All rounds other than Smoke and CHEM can destroy 2m of light wall / light fortification.
+All rounds other than Smoke and CHEM can destroy 2m of light wall / light 
+fortification.
 A full reload takes 1 Full Action, 25%; Firing is a Half Action.
 
 Under Barrel Shotgun $910
@@ -178,22 +203,26 @@ Slings
 ===================
 
 Pistol Lanyard $100
-If you drop your pistol, it''ll fall harmlessly to your leg level instead of dropping onto the ground.
-Holstering your weapon is a free action. Drawing your pistol takes a full action next time.
+If you drop your pistol, it''ll fall harmlessly to your leg level instead of 
+dropping onto the ground.
+Holstering your weapon is a free action. Drawing your pistol takes a full 
+action next time.
 
 Two Point Sling $100
 You can use your sling to stabilize your grip arm. -5% Miss Chance.
 Reduce strength needed by 1.
 
 One Point Sling $150
-Due to the positioning of the weapon, you can draw your primary as a free action.
+Due to the positioning of the weapon, you can draw your primary as a free 
+action.
 Reduce strength required by 1. Holstering your weapon is a free action.
 
 ===================
 Ammunition / Magazine Accessories
 ===================
 Extended Magazines 130% of original cost. $12 mags now cost $15, etc. Round Up.
-Adds +2 rounds to Long Rifles and Shotguns, +5 rounds to Pistols and Carbines, +10 rounds to Automatic Rifles & SMGs.
+Adds +2 rounds to Long Rifles and Shotguns, +5 rounds to Pistols and Carbines, 
++10 rounds to Automatic Rifles & SMGs.
 For belt fed weapons, add 30% of the belt size to the belt.
 
 Hollow Point Magazine $5 + mag cost
@@ -206,37 +235,52 @@ CS tipped Magazine $7 + mag cost
 Inflicts a CS burn on hit, dealing d10/2 damage for 2 turns, +5 damage against robots.
 
 RMM Match Grade Ammo $10 + mag cost
-This high quality ammunition isn''t cheap, but it increases the consistancy of your shots. -10% miss chance.
+This high quality ammunition isn''t cheap, but it increases the consistancy of 
+your shots. -10% miss chance.
 
 High Velocity Ammunition $12 + mag cost
 Increased velocity grants a +10% increase to range, and +10 damage.
 (Available for all standard munition guns)
 
 Magpulls $10/mag slot on your armour for the applicable weapon.
-Decrease the Reload DC by 5% for any box magazines. Applies to all weapons that use box magazines.
+Decrease the Reload DC by 5% for any box magazines. Applies to all weapons 
+that use box magazines.
 
 ====================
 Total Conversions
-You may only utilize one weapon conversion at a time. HOWEVER, for conversions relying on switching out a reciever, you may carry at max one additional receiver in order to swap kits on the go. You must pass 2 Weapons use / knowledge [Weapons] checks in order to successfully convert your weapon on the go. DC 60. Failure on one check instantly jams the weapon on first shot. Failure on both checks requires an additional check.
+You may only utilize one weapon conversion at a time. HOWEVER, for conversions 
+relying on switching out a reciever, you may carry at max one additional 
+receiver in order to swap kits on the go. You must pass 2 Weapons use / 
+knowledge [Weapons] checks in order to successfully convert your weapon on the 
+go. DC 60. Failure on one check instantly jams the weapon on first shot. 
+Failure on both checks requires an additional check.
 ====================
 
 Revolver Bottom-Cylinder Fire $500
-Modifies the pistol to fire from the bottom cylinder rather than the top, decreasing the kick from firing.
+Modifies the pistol to fire from the bottom cylinder rather than the top, 
+decreasing the kick from firing.
 Accuracy -15%
 
 Revolver Gas Routing System $600
-Adds a gas tube or piston system which automatically cocks the hammer when a round is fired. Turns any revolver into a semi-automatic revolver.
+Adds a gas tube or piston system which automatically cocks the hammer when a 
+round is fired. Turns any revolver into a semi-automatic revolver.
 
 Pistol Hot-Load Reinforced Slide $240
-This heavier slide allows the pistol to fire Magnum loads, increasing damage output of the pistol. Not useable with revolvers or plasma pistols.
+This heavier slide allows the pistol to fire Magnum loads, increasing damage 
+output of the pistol. Not useable with revolvers or plasma pistols.
 +10 Dam
 
 Pistol Lightened Machining slide $800
-This lighter weight slide utilizes carbon fiber reinforced polymer with a metal shell to provide a lightweight slide that retains strength for full-auto and burst fire.
+This lighter weight slide utilizes carbon fiber reinforced polymer with a metal
+shell to provide a lightweight slide that retains strength for full-auto and 
+burst fire.
 See SMG rules for firing. Not useable with Revolvers.
 
 Pistol - Carbine kit $860
-A tactical frame bolts around the shooter''s pistol, and a longer barrel is attached. Accuracy at longer range is now attainable, along with the ability to mount up to 4x magnification, foregrips, etc. Modified Pistol is still considered a CQB Weapon.
+A tactical frame bolts around the shooter''s pistol, and a longer barrel is 
+attached. Accuracy at longer range is now attainable, along with the ability 
+to mount up to 4x magnification, foregrips, etc. Modified Pistol is still 
+considered a CQB Weapon.
 +50m range
 
 Sawn-off shotgun barrel Secondary $500
@@ -249,28 +293,40 @@ Miss + 15%
 Dam + 10
 
 .300 Blackout Conversion for Mk12 / Mk16 / Mk28 $700
-Fires a special .300 AAC Blackout round, which carries more energy than a standard .223 RMM round, but has a lower velocity in order to work more efficiently with suppressors.
+Fires a special .300 AAC Blackout round, which carries more energy than a 
+standard .223 RMM round, but has a lower velocity in order to work more 
+efficiently with suppressors.
 100m
 30%
 20 rds, .300 AAC BLK FMJ
 58
-Ignore damage penalties due to flash suppressors. If used on a Mk28, retain CQB Weapon
+Ignore damage penalties due to flash suppressors. If used on a Mk28, retain 
+CQB Weapon
 
 G&W FBR CQBR MOD conversion for FBR $700
-With a shorter, light profile barrel this reciever allows the user to retain the high stopping power of the FBR, and additionally allows them a CQB platform to take advantage of.
+With a shorter, light profile barrel this reciever allows the user to retain 
+the high stopping power of the FBR, and additionally allows them a CQB 
+platform to take advantage of.
 100m
 30%
 (Damage and ammor capacities retained)
 CQB Weapon
 
 Plasma Generation Chamber $3200
-Turns your boring, standard munition guns into a god-killing, blue plasma belching death machine. Weapon keeps its base range and accuracy. Increase damage by 25 and add plasma burn. Increase strength requirement by 1. Your weapon now uses appropriate plasma packs as ammunition. Pistols = 8 rds, shotguns = 7rds, SMGs = 30rds, Carbines = 20rds, Assault Rifles = 25, Long rifles = 10rds.
+Turns your boring, standard munition guns into a god-killing, blue plasma 
+belching death machine. Weapon keeps its base range and accuracy. Increase 
+damage by 25 and add plasma burn. Increase strength requirement by 1. Your 
+weapon now uses appropriate plasma packs as ammunition. Increase magazine cost 
+by 20% and Jam DCs are +20%
 
 Straight Pull for ECSC PSR, Anvil Arms SR-250 $460
-Allows the user a Straight-pull action to chamber a new round, increasing rate of fire. With DEX higher than 7, you can fire 1 round every Action.
+Allows the user a Straight-pull action to chamber a new round, increasing rate
+of fire. With DEX higher than 7, you can fire 1 round every Action.
 
 Standalone Grenade Launcher $600
-A polymer and metal frame to mount an underbarrel grenade launcher. Allows use of an underbarrel grenade launcher as a secondary weapon, freeing up the underside of a primary for other attachments.
+A polymer and metal frame to mount an underbarrel grenade launcher. Allows use 
+of an underbarrel grenade launcher as a secondary weapon, freeing up the 
+underside of a primary for other attachments.
 
 //===================================================================
 //Copyright 2016 Taylor Rowland
