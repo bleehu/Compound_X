@@ -5,7 +5,7 @@ this game.
 ==============================
 Premise:
 ==============================
-Compound X [working title] is a foray into the unkown. It is the year
+
 
 
 ==============================
@@ -22,7 +22,6 @@ Stat Bonus = (4 * Stat) - 20
 Stat Bonuses are used for the calculation of skill checks, weapon accuracy, 
 etc.
 Stats are not used for calculation. and also saving throws.
-Imperial Credits [IC] = [(Level + 1)* 150 * Luck] + 100
 
 Strength: Physical aptitude with regard to lifting and exertion of pure force.
 Perception: Ability to see, hear, taste, smell, feel and experience the world 
@@ -367,6 +366,7 @@ shields, dealing all of their damage to the shielding, and inflicitng no burn
 damage. Lasers deal full damage to armoured targets, and remove nothing off of 
 the armour's hit percent. If a player wearing balistic armour is hit with a 
 laser, they recieve damage as if they weren't wearing any armour.
+
 ==============================
 Casting Spells
 ==============================
