@@ -408,7 +408,7 @@
 		    when facing Evil characters.
 
 		{5} Divine Armour: [30]
-		    +5 DR to an ally''s armour for 3 turns.
+		    +30 DR to an ally''s armour, single use.
 
 		//See Universe Lore docs on Xenos
 		{10} Turn Xeno: [50]
