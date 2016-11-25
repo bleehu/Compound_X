@@ -446,7 +446,8 @@
 	    	cover. Each 1m x 1m chunk has 50 health.
 
 		{5} Crimson Flame: [25]
-		|   +20 damage, single attack. Inflicts 1 Burn damage token.
+		|   You imbue an ally's or your own weapon with divine energy. +20 
+		|	damage, single attack. Inflicts 1 Burn damage token.
 		|
 		V
 		{10} Violet Flame: [45]
