@@ -26,7 +26,7 @@ Class Feats:
 Battle Cry / Raise Moral -
 You roar as you lead the charge against the enemy. 50% + (CHA mod) chance to 
 raise allied effectivness 15% on each of their next rolls [including your next 
-roll). You must use your next action to run towards enemies [minimum 1m). 
+roll]. You must use your next action to run towards enemies [minimum 1m]. 
 Allies must be able to hear and understand you to get the bonus.
 |
 |
@@ -34,7 +34,7 @@ Allies must be able to hear and understand you to get the bonus.
 V
 Either 75% + (CHA mod) success or 30% added to next allied rolls.
 ----------------------
-It''ll heal [Min. Requirement of 7 fortitude)
+It''ll heal [Min. Requirement of 7 fortitude]
 Make a FORT save at 50% to ignore an enemy damage. Remove one action next turn 
 to stare down your enemy, curse at them hitting you, make a badass remark, 
 etc. All damage taken during the encounter stacks, and half is taken at the 
@@ -67,7 +67,7 @@ Your ferocity knows no bounds. Fire off up to 6 shots, DC +25% for each.
 ----------------------
 Heavier Ordinance not required -
 Your expertise with heavy weapons is sufficient for the task at hand. -25% 
-accuracy and +25 damage once per day for a heavy weapons attack.
+Miss Chance and +25 damage once per day for a heavy weapons attack.
 |
 |
 |
