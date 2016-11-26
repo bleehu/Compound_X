@@ -376,7 +376,7 @@ L.I.S.C. (Laser Ionizing Shock Cannon) $2700 / $20
 A powerful blue laser is used to ionioze the air between the user and their 
 target. A complex array of mirrors additionaly ionizes the air around the 
 target. The Cannon then lets loose 40,000 volts of electricity, which travels 
-down the path of the laser, delivering painful therapy to the target, and 
+down the path of the laser, delivering painful theropy to the target, and 
 anyone unfortunate enough to be nearby.
 (Requires STR 7, INT 5)
 50m
@@ -513,7 +513,7 @@ Minimum 6 strength to carry
 Due to the complex nature of this Special Purpose Rifle, it requires extensive 
 military style training in order to unlock its full potential. If you do not 
 have at least a skill level of 30 in sniping, you cannot fire this effectively,
-and take a +15% to accuracy from the low range.
+and take a +15% to Miss Chance from the low range.
 Penetrating Damage. Marksman Only. Target recieves Bleeding condition, DC 80
 
 Beam Rifle $28,500 / $21
