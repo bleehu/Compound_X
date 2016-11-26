@@ -367,8 +367,18 @@
 //==============================
 	Prayers take 1 Full Action to complete and any nanites spent on them are 
 	lost until the effects of the prayer wear off. Spells are a Half-Action to 
-	cast and remove the listed amount of nanites once cast.
-	All spells have CHA+ meters range, unless otherwise written.
+	cast and remove the listed amount of nanites once cast. By default, spells 
+	are not affected by cover unless explicitly stated in the description.
+	Aura Effect: All characters within Cha meters (or as noted) are affected, 
+	regardless of cover.
+	Area of Effect: All characters in a Cha meter diameter are affected, but 
+	cover may affect the spell depending on the description. This area can be 
+	up to Cha+ meters away.
+	Personal Effect: Affects the caster.
+	Ranged Effect: Cha+ meter range.
+	Touch Effect: Paladin must make contact with target to cast spell.
+	Weapon Augment: Affects a weapon (Mellee or Ranged but NOT Improvised) 
+	within Cha meters.
     //--------------------
     // Spells
     //--------------------
@@ -400,7 +410,7 @@
 
 
 		{5} Holy Blade: [30]
-		|   + 5 damage on ally''s weapon for 3 turns.
+		|   Ranged Spell: + 5 damage on ally''s weapon for 3 turns.
 		|
 		V
 		{12} Sword of Righteousness: [120]
@@ -408,15 +418,15 @@
 		    when facing Evil characters.
 
 		{5} Divine Armour: [30]
-		    +30 DR to an ally''s armour, single use.
+		    Ranged Spell: +30 DR to an ally''s armour, single use.
 
 		//See Universe Lore docs on Xenos
 		{10} Turn Xeno: [50]
-		|   By channeling your nanites into a postive force of will, you can 
-		|	force Xenos to flee in panic. Xenos within CHA+ m of you must pass 
-		|	a Will Save DC 50 + Knowledge [Nanites] or be forced to flee for 5 
-		|	turns. Xenos with INT higher than 6 may make a Will Save each turn 
-		|	they are fleeing.
+		|   Aura Effect: By channeling your nanites into a postive force of 
+		|	will, you can force Xenos to flee in panic. Xenos within CHA+ m of 
+		|	you must pass a Will Save DC 50 + Knowledge [Nanites] or be forced 
+		|	to flee for 5 turns. Xenos with INT higher than 6 may make a Will 
+		|	Save each turn they are fleeing.
 		|
 		V
 		{15} Destroy Xeno: [100]
@@ -431,23 +441,25 @@
 		|
 		V
 		{10} Righteous Rage: [40]
-		    Touch Effect: Cannot take cover for 5 turns. +15 DR, +15 damage, 
+		    Cannot take cover for 5 turns. +15 DR, +15 damage, 
 		    and +2m movement for 4 turns.
 
 		{2} Piercing Blow: [10]
-		    Target is Pinned.
+		    Weapon Augment: Target is Pinned.
 
 		{8} Bullet Ward: [60]
-		    All allies gain +5 DR for 4 turns.
+		    Aura Effect: All allies within 2*Cha meters gain +5 DR for 4 turns.
 
 		//Good Unique
 		{5} Wall of Protection: [50]
 	    	Summon a wall 2m tall, 3m wide and .25m thick. Provides Full 
-	    	cover. Each 1m x 1m chunk has 50 health.
+	    	cover. Each 1m x 1m chunk has 50 health. The wall can be summoned 
+	    	on any empty squares or squares only occupied by medium sized 
+	    	characters within Cha meters of the caster.
 
 		{5} Crimson Flame: [25]
-		|   You imbue an ally's or your own weapon with divine energy. +20 
-		|	damage, single attack. Inflicts 1 Burn damage token.
+		|   Weapon Augment: You imbue an ally''s or your own weapon with divine
+		|	energy. +20 damage, single attack. Inflicts 1 Burn damage token.
 		|
 		V
 		{10} Violet Flame: [45]
@@ -459,8 +471,8 @@
 
 		//Neutral Unique
 		{5} Negate Attack: [50]
-		|   Negate 50 damage from an attack coming at an ally within CHA m 
-		|	range.
+		|   Ranged Effect: Negate 50 damage from an attack coming at an ally 
+		|	within CHA m range.
 		|
 		V
 		{10} Redirect Attack: [65]
@@ -472,14 +484,15 @@
     // Prayers
     //--------------------
 		{8} Prayer of Vengeance: [45]
-		    When a team member gains the Downed condition, you gain +5 DR and +
-		    10 damage for the next 4 turns.
+		    Personal Effect: When a team member gains the Downed condition, 
+		    you gain +5 DR and + 10 damage for the next 4 turns.
 
 		{10} Prayer of Meditation: [0]
-		    Take 2 full actions to Pray. Regain 40 Nanites.
+		    Personal Effect: Take 2 full actions to Pray. Regain 40 Nanites.
 
 		{25} Prayer of Sorrow: [150]
-		    +200 damage, single attack. After attack, take 200 damage and gain 
+		    Weapon Augment: You imbue your own weapon with divine energy.+200 
+		    damage, single attack. After attack, take 200 damage and gain 
 		    Downed condition.
 
 		{} Prayer: []
@@ -491,17 +504,16 @@
 		{} : []
 		//Good Unique
 	    {15} Prayer of Peace: [100]
-			Area of effect, CHA meter diameter. Targets caught within the 
-			effect cannot attack for 3 turns. Affectees gain a penalty attack 
-			on anyone who attacks them while they are stunned, except if the 
-			attacker is in stealth or out of sight. Paladins cannot use this 
-			prayer with the intent of an ally to attack the stunned opponents.
+			Area of effect, CHA meter diameter centered on caster: Targets 
+			caught within the effect cannot attack for 3 turns. Affectees gain 
+			a penalty attack on anyone who attacks them while they are 
+			stunned, except if the attacker is in stealth or out of sight. 
+			Paladins cannot use this prayer with the intent of an ally to 
+			attack the stunned opponents.
+
 		//Neutral Unique
 		{15} Prayer of Silence: [200]
-    		Drain 100 Nanites from each character within CHA meters of you. 
-    		Any deficiency takes damage instead, and the Paladin gains only 
-    		the amount of nanites held by the target at the time the prayer 
-    		takes effect.
+    		Aura Effect: Drain 100 Nanites from each character within CHA meters of you. Any deficiency takes damage instead, and the Paladin gains only the amount of nanites held by the target at the time the prayer takes effect.
 
 		{10} Prayer of Solitude: [80]
 		    Touch Effect: target is incapacitated, trapped in a mental prison 
@@ -509,4 +521,4 @@
 	    	this prayer are lost until the prayer completes.
 		//Evil Unique
 		{15} Prayer of Halting: [40]
-    		Target loses any Nanite-Based abilities for 3 turns.
+    		Ranged Effect: Target loses any Nanite-Based abilities for 3 turns.
