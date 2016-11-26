@@ -376,7 +376,7 @@ L.I.S.C. (Laser Ionizing Shock Cannon) $2700 / $20
 A powerful blue laser is used to ionioze the air between the user and their 
 target. A complex array of mirrors additionaly ionizes the air around the 
 target. The Cannon then lets loose 40,000 volts of electricity, which travels 
-down the path of the laser, delivering painful theropy to the target, and 
+down the path of the laser, delivering painful therapy to the target, and 
 anyone unfortunate enough to be nearby.
 (Requires STR 7, INT 5)
 50m
