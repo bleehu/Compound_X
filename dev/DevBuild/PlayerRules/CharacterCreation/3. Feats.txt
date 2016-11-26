@@ -61,16 +61,16 @@ attack against you with their next half action.
 
 Combat Expertise [Guns]: 
 Prerequisites:
--15% to hit for weapons use. -5% to melee or skill checks in combat.
+-15% to miss for weapons use. +5% to melee and -5% to skill checks in combat.
 
 Combat Expertise [Melee]: 
 Prerequisites:
-(Requirement for Expert Melee Training) -15% to hit in melee. -5% to Guns or 
-Skill checks in combat.
+(Requirement for Expert Melee Training) -15% to miss in melee. +5% to Guns and
+-5% to Skill checks in combat.
 
 Combat Expertise [Support]: 
 Prerequisites:
--15% to skill checks for class-related tasks. (if your class is medicine, this 
++15% to skill checks for class-related tasks. (if your class is medicine, this 
 wouldn''t apply to hacking, etc.). +5% chance to miss with Guns or Melee in 
 combat.
 
