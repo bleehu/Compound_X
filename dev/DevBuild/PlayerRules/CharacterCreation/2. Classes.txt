@@ -73,7 +73,7 @@ Miss Chance and +25 damage once per day for a heavy weapons attack.
 |
 V
 Your expertise with heavy weapons is overkill for the task at hand. -30% 
-accuracy and +35 damage once per day for a heavy weapon attack.
+Miss Chance and +35 damage once per day for a heavy weapon attack.
 
 "Doctor" - You know how or why something works [most likely humans / humanoid 
 bodies), and put that knowledge to good use by supporting your team.
@@ -384,8 +384,8 @@ direct combatants.
 Passives: [APPLY ONLY TO PISTOL]
 Choose one: Pistoleer lvl 1, Quick draw, Conceal Weapon, Steady Shot, +5 Round 
 capacity to mags, +2 mags to arsenal. Also choose two bonuses and one weakness:
-    - Bonuses: +10 Dam, +10m, +10% accuracy, +CS burn, +1 rds in mag;
-    - Weaknesses: -10 Dam, -10m, -10% accuracy, -1 magazine;
+    - Bonuses: +10 Dam, +10m, -10% Miss Chance, +CS burn, +1 rds in mag;
+    - Weaknesses: -10 Dam, -10m, +10% Miss Chance, -1 magazine;
 Weapon Proficiencies: Pistol.
 Armour Proficiencies: Recon, Light, Concealed.
 Starting Wealth: $1700+100*Luck - 800
@@ -486,7 +486,7 @@ You may pin up to PER targets at a time. +20% to hit a Pinned target.
 Tech Rounds
 Spend 10 nanites. Choose from the following list of effects:
     Gas round: On hit, releases a cloud of gas 3m accross centered on the 
-    target. Any enemies inside this cloud take a +10% accuracy debuff for 1
+    target. Any enemies inside this cloud take a +10% Miss Chance debuff for 1
     turn, and 10 damage.
     Flash round: On hit, a blinding light emenates from the target. All 
     players within 5m of the target are stunned for 1 turn.

@@ -236,14 +236,14 @@ can be afforded, within the Subsystem limit of the suit.)
         Controls one shoulder mounted weapon system autonomously, providing 
         free use of a shoulder mounted weapon. Add one Full Action per turn 
         dedicated to the shoulder mounted weapon.
-        Shoulder mounted weapons do not fall under hip fire rules for accuracy 
+        Shoulder mounted weapons do not fall under hip fire rules for Miss Chance 
         and will fire at their listed miss chance.
     
     Enhanced AWES: $5000
         Controls up to two shoulder mounted weapon system autonomously, 
         providing free use of a shoulder mounted weapon. Add one Full Action 
         per turn dedicated to each shoulder mounted weapon.
-        Shoulder mounted weapons do not fall under hip fire rules for accuracy 
+        Shoulder mounted weapons do not fall under hip fire rules for Miss Chance 
         and will fire at their listed miss chance.
 //===================================================================
 //Copyright 2016 Taylor Rowland
