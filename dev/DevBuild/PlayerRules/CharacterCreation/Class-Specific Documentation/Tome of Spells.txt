@@ -498,7 +498,7 @@
 			prayer with the intent of an ally to attack the stunned opponents.
 		//Neutral Unique
 		{15} Prayer of Silence: [200]
-    		Drain 100 Nanites from all characters within CHA meters of you. 
+    		Drain 100 Nanites from each character within CHA meters of you. 
     		Any deficiency takes damage instead, and the Paladin gains only 
     		the amount of nanites held by the target at the time the prayer 
     		takes effect.
