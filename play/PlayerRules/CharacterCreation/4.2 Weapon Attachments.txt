@@ -175,7 +175,7 @@ Angled Foregrip $100
 Somehow better than a standard Foregrip.
 Accuracy -10%
 
-Grenade Launcher $2200
+Grenade Launcher $1365 / 10% parent grenade cost
 60m
 35%
 1 rd, 40mm HE; AA / CHEM / FRAG / PLAS
