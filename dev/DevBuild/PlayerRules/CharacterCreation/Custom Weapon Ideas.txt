@@ -35,23 +35,42 @@
 	-10%
 	55 rds, 5.7mm; $36/mag
 	48 damage.
-	Average Damage per Round: 288
-	Credit per Damage: 15.3
-	Original CpD: 55.06
+	Average Damage per Turn: 576 (2 shots per HA, plus the 1 shot per hit)
+	Credit per Turn Damage: 7.65
+	Original CpTD: 18.35
 	Turns between reload: 9.166...
+
 	==============================
-	ECSC Mk249 $1950 / $50
+	ECSC Mk249
+	-20% +15m +30 rds, +$600 + $15
 	==============================
-	
-	
-	Requires strength of 7 to carry
-	120m
-	35%
-	100 rds, 5.56x45mm Linked; Tracer Rounds / CS
+	1.2 hologramic projector +$250
+		+15m, -10%
+	Muzzle Break +$50
+		-5%
+	Light Profile Barrel $100
+		+10%, -1 Str
+	Angled Foregrip +$100
+		-10%
+	2 point sling $100
+		-5%, -1 Str
+	Extended Mags +$15/mag = $65/mag
+		+30 rds
+	RMM Match Grade Ammo +$10/mag
+		-10%
+	Mk249 Para $2550 / $75
+	135m
+	15%
+	130 rds, 5.56x45mm Linked; Tracer Rounds / CS
 	50
 	Supporting fire
 	Tracer Rounds inflict 1 bleed damage, 1 burn on next turn.
-	Minimum Strength 7 to carry. Reload DC 40%
+	Minimum Strength 5 to carry. Reload DC 40%
+	Average Damage per Turn: 300 (2 shots per HA)
+	Credit per Damage: 8.5
+	Original DpD: 10
+	Turns between reload: 21.66...
+
 
 
 //==============================
@@ -60,4 +79,14 @@
 
 //==============================
 // Supporter Weapons (aka cheapies that don't suck)
+//==============================
+
+
+
+
+
+
+
+//==============================
+// Special Role Weapons
 //==============================
