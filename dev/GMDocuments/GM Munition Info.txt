@@ -139,12 +139,12 @@ russian military. AK-47 round.
 
 //Long rifle rounds
 .308
-300 m, 65 damage
+300-400 m, 65 damage
 Typical mag size: 7 to 10 for long rifles, 100 for lmgs.
 ECSC military.
 
 7.62 x 51 NATO
-200 - 300 m depending on application, 62 damage
+200 - 300 m depending on application, 64 damage
 Typical mag size: 7 to 10 for long rifles, 80 or 120 for lmgs.
 miltary, both ECSC and russian.
 

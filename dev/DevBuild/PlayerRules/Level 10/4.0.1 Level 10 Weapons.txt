@@ -138,17 +138,18 @@ Minimum strength 6.
 Carbines & Battle Rifles
 Minimum Strength 5, Reload DC 25% unless otherwise noted. Reload time 2 Half Actions
 ============================================================
-ECSC AR-SOC C			$2440
+ECSC AR-SOC C			$2540 / $15
 120m
 22%
 30 rounds 5.56 x 45 NATO
 50 damage
+CQB Rifle
 
-Strudwick Arms LA75 Bullpup		$4340 / $12
-200 m
+Strudwick Arms LA75 Bullpup		$4580 / $13
+160 m
 30%
 20 rounds 7.62 x 51 NATO
-62
+64
 Never jams; if a 1 or 2 is rolled on fire, one round is fired normally, one 
 extra round is ejected like a shell casing. Minimum strength 6 to carry.
 
@@ -183,7 +184,7 @@ Minimum Strength 5, Reload DC 25% unless otherwise noted. Reload time 2 Half Act
 Fire STR/3 shots per half action. Round down. Jam range 2%
 ============================================================
 
-ECSC AR-SOC L               $2440
+ECSC AR-SOC L               $2440 / $15
 130m
 25%
 30 rounds 5.56 x 45 NATO
@@ -195,17 +196,18 @@ Frontier Neon APR-180 $3680 / $17
 24 rounds plasma bolt
 50 damage and 1 plasma burn token
 
-ECSC AR-SOC H 				$3720
+ECSC AR-SOC H 				$3720 / $13
 150m
 20%
 20 rounds 7.62 x 51 NATO
-62 damage
+64 damage
 
-Strudwick Arms LA85 Bullpup		$5240
+//Name needs changing
+Strudwick Arms LA85 Bullpup		$4320 / $26
 180m
 25%
-40 rounds 7.62x51 NATO
-72 damage + 2xBleeding
+40 rounds 7.62 x 51 NATO
+64 damage + 2xBleeding
 Supporting Fire
 Minimum strength 7 to carry. 
 Never jams; if a 1 or 2 is rolled on fire, one round is fired normally, one 

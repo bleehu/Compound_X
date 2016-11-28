@@ -297,11 +297,11 @@ Matthews SK0 $2220 / $11
 20 rds, 7.62x39; FMJ / HP
 57
 
-G&W FBR-C $2390 / $12
+G&W FBR-C $2460 / $13
 110m
 30%
 20 rds, 7.62x51mm Rifle Magazine; FMJ / AP
-62
+64
 CQB rifle
 
 ============================================================
@@ -330,11 +330,11 @@ ECSC Mk16 $2100 / $15
 50
 Tracer inflicts 1 turn of bleed damage.
 
-G&W FBR $2600 / $12
+G&W FBR $2690 / $13
 120m
 30%
 20 rds, 7.62x51mm Rifle Magazine; FMJ / AP
-62
+64
 
 ECSC Mk249 $1950 / $50
 Requires strength of 7 to carry
@@ -346,12 +346,12 @@ Supporting fire
 Tracer Rounds inflict 1 bleed damage, 1 burn on next turn.
 Minimum Strength 7 to carry. Reload DC 40%
 
-Anvil Arms KMR $3470 / $50
+Anvil Arms KMR $3580 / $51
 Requires strength of 7 to carry
 160m
 30%
 80 rds, 7.62 x 51mm Linked
-62, Bleed Damage
+64, Bleed Damage
 Supporting Fire
 Minimum 7 Str to carry. 40% reload
 
