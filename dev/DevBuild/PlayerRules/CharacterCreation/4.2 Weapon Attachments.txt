@@ -221,24 +221,23 @@ Reduce strength required by 1. Holstering your weapon is a free action.
 Ammunition / Magazine Accessories
 ===================
 Extended Magazines 130% of original cost. $12 mags now cost $15, etc. Round Up.
-Adds +2 rounds to Long Rifles and Shotguns, +5 rounds to Pistols and Carbines, 
-+10 rounds to Automatic Rifles & SMGs.
-For belt fed weapons, add 30% of the belt size to the belt.
+Adds 30% magazine capacity to magazine/clip-based weapons. Revolver systems or
+rocket launchers, for example, are excluded.
 
-Hollow Point Magazine $5 + mag cost
+Hollow Point Magazine 1.5*mag cost
 Increases damage to targets +15/-15 for unarmoured/armoured.
 
-Armour Piercing Magazine $5 + mag cost
+Armour Piercing Magazine 1.5*mag cost
 Increases damage to targets +15/-15 for armoured/unarmoured
 
-CS tipped Magazine $7 + mag cost
+CS tipped Magazine 1.8*mag cost
 Inflicts a CS burn on hit, dealing d10/2 damage for 2 turns, +5 damage against robots.
 
-RMM Match Grade Ammo $10 + mag cost
+RMM Match Grade Ammo  2*mag cost
 This high quality ammunition isn''t cheap, but it increases the consistancy of 
 your shots. -10% miss chance.
 
-High Velocity Ammunition $12 + mag cost
+High Velocity Ammunition 2.2*mag cost
 Increased velocity grants a +10% increase to range, and +10 damage.
 (Available for all standard munition guns)
 
