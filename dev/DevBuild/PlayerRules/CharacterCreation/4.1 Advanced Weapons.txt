@@ -480,12 +480,12 @@ Minimum 5 strength to carry. All targets are inflicted with Pinned condition
 when hit. Reload DC 30% unless otherwise noted. Reload time 3 Half Actions.
 ============================================================
 
-ECSC Mk20 DMR
+ECSC Mk25 DMR $7200 / $13
 30-300 m
 25%
-20 rds
+20 rds, 7.62 x 51 NATO
 64
-
+Minimum 6 Str to carry.
 
 G&W XK20 Mod 0 HE $7550 / $14
 20-200m / 500m
@@ -498,7 +498,7 @@ different ranges.
 In addition, the High Energy variant requires 1 action of charge up time.
 Because of the large caliber round size, target takes penetrating damage. 
 Reload DC 26%, Reload time 2 Half Actions.
-Marksman only.
+Marksman only. Minimum Str 7
 
 Frontier Plas-5 HE $15,600 / $6
 Minimum 6 strength to carry
@@ -512,7 +512,7 @@ All ammo inflicts 2 Plasma Burn.
 Reload time 2 Half ACtions
 
 Mathews BA .408 $25,900 / $7
-Minimum 6 strength to carry
+Minimum 7 strength to carry
 40-150m / 20-2000m
 45% / 20%
 7 rds, .408 cal RMM special; AP / Incendiary
