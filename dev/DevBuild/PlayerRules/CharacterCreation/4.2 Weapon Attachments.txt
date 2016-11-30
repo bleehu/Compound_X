@@ -134,7 +134,8 @@ You may only choose one barrel type, and one barrel attachment.
 ====================
 
 Muzzle Break $50
-Reduces Recoil from the gun, allowing for more accurate follow-up shots.
+Reduces Recoil from the gun, allowing for more accurate follow-up shots. Also 
+increases muzzle flash, making you easier to spot at a distance when firing.
 Miss Chance -5%
 Does not apply to lasers, coilguns or plasma guns.
 
