@@ -409,7 +409,8 @@ ECSC PRS $4325 / $4
 7 rds, .300 Blackout; FMJ / AP
 60
 Bolt Action: take 1 action to fire, 1 action to chamber a new round.
-Integrated Improved Silencer.
+Integrated Improved Silencer. This integrated silencer prevents the usage of a
+muzzle break or other silencers or suppressors.
 Reload DC 26%, 2 Half Actions
 
 ECSC Mk12 Mod 0 $3500 / $10
@@ -429,7 +430,7 @@ Bolt action: take 1 action to chamber round, 1 action to fire.
 Anvil Arms SR-250 $8160 / $5
 30-300m
 20%
-5 rds, 7.62x54R; FMJ / AP
+5 rds, 7.62x54R; FMJ / CS
 68
 Bolt Action: take 1 action to fire, 1 action to chamber a new round.
 
