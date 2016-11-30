@@ -11,6 +11,7 @@ Pistols:
 Minimum Strength 2, Reload DC 20 unless otherwise noted. With DEX less than 5, Single Action revolvers must be re-cocked as a half action. Reload time 2 Half Actions
 ============================================================
 
+//Is this supposed to be a .44 magnum? .480 RMM? .46 doesn't exist, the listed damage is super high for a pistol. Also since its a revolver the reload DC should be higher.
 Mathews Model 36 $1580
 65 m
 25%
@@ -19,17 +20,17 @@ Mathews Model 36 $1580
 Reload 23%
 Single Action Revolver: cannot be fired as a free action.
 
-Raging Heffer			$1680
-60m
+Raging Heffer			$1160
+55m
 30%
 6 rounds, .500 S&W
-80 damage
+60 damage
 
-Smithers P3K			$700
+Smithers P3K			$1140
 35m
 28%
 11 rds	.40 ACP
-55 damage
+43 damage
 +10% chance to crit, no penalty to suppressing
 
 Thor Pitton Dart Tazer	$540
@@ -64,7 +65,7 @@ A tremendous zap occurs as each bank of capacitors discharges in an instant, acc
 
 ============================================================
 Sub-Machine Guns:
-Capable of high rates of fire, but utilizing lighter calibers than a traditional combat rifle. Fire DEX/2 shots per full turn, rounding down. (DEX 5 = 2 shots, DEX 8 = 4 shots) Maximum LVL + 1.( All SMGs are considered CQB weapons)
+Capable of high rates of fire, but utilizing lighter calibers than a traditional combat rifle. Fire DEX/3 shots per Half-Action, rounding down. (DEX 5 = 1 shots, DEX 8 = 2 shots) ( All SMGs are considered CQB weapons)
 Minimum Strength 4, Reload DC 25% unless otherwise noted. Reload time 2 Half Actions. Jam range 2%
 ============================================================
 
@@ -87,7 +88,7 @@ Muzashi K-DS $3340 / $26
 30 rds, Krypton-12;
 65 dam, 2 x Plasma Burn
 Made for dual-weilding, these SMGs utilize magnetic magazines that can be reloaded without the use of an off-hand. Reload DC 15%
-The K-LS features a burst fire mode which allows for 2 round burst. Rather than firing DEX/2 shots per turn, fire 2 shots per half-action.
+The K-LS features a burst fire mode which allows for 2 round burst. Rather than firing DEX/3 shots per turn, fire 2 shots per half-action.
 
 Schroder K-35 $3500
 100m
@@ -322,6 +323,7 @@ On all engagements farther than 200m, you must take 1 Full Action to adjust your
 Minimum 5 strength to carry. All targets are inflicted with "Pinned" condition when hit. Reload DC 30% unless otherwise noted. Reload time 3 Half Actions.
 ============================================================
 
+//needs reworking; no such round currently exists and the damage is too high for that sort of range. Generally damage scales with range, faster rounds carry more force so they not only travel farther, they hit with greater impact when they arrive at the target. The converse is true for smaller cartridges, they travel slower, less far, and with less force.
 Artimis Urban Combat Rifle $5600 / $8
 Requires 6 strength to carry
 20-200m
