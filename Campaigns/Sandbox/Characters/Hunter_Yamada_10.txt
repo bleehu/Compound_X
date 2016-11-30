@@ -3,7 +3,7 @@ Description of Attitude, demenor, etc:
 
 
 Physical Description:
-Wears a grey hakima, matching grey hooded cloak, black gi-top with red/white clan emblem. Kabuki mask is black, with details iin white and red, and finer details in grey. 
+Wears a grey hakima, matching grey hooded cloak, black gi-top with red/white clan emblem. Kabuki mask is black, with details in white and red, and finer details in grey. 
 Cyborg:
 Speed Geared Fine Motor Controls, +1 DEX; Neural Implant, +1 INT; Occular Augmentation, +1 PER;
 50% damage increase from electrical damage.
