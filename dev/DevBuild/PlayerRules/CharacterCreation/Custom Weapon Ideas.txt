@@ -115,8 +115,8 @@
 	-30% / -50% w/ bipod
 	20 rds, 7.62 x 51 NATO
 	64
-	Dollar per Scaled Accuracy: 65.38 / 56.66... //$/(100-Miss Chance)
-	Stock DpSA: 96
+	Credit per Scaled Accuracy: 65.38 / 56.66... //$/(100-Miss Chance)
+	Stock CpSA: 96
 
 	==============================
 	ECSC PRS "Wasp"
@@ -149,8 +149,8 @@
 	Bolt Aaction; Half Action to Fire, Free Action to chamber round.
 	Integrated Improved Silencer.
 	Reload DC 26%, 2 Half Actions
-	Dollar per Scaled Accuracy: 42.31 / 37.18 //$/(100-Miss Chance)
-	Stock DpSA: 50.88
+	Credit per Scaled Accuracy: 42.31 / 37.18 //$/(100-Miss Chance)
+	Stock CpSA: 50.88
 
 //==============================
 // Supporter Weapons (aka cheapies that don't suck)
@@ -201,3 +201,37 @@
 	Multiple DC 20 rolls per door
 	DC 60 / 70 armoured / unarmoured target for knockdown; 20 damage to 
 	unarmoured
+
+	==============================
+	P-08 Phantom Carbine
+	-35%, +65 m, +5 rds, + 10 dam, -5% reload; +$1435 / +$23/mag
+	==============================
+	1.2x Hologramic Projector $175
+		-10%, +15 m
+	Red Laser $100
+		-10%
+	Flash / Sound Suppressor $100
+		-10 m, 60% stealth bonus on firing
+	Angled Foregrip $100
+		-10%
+	Two Point Sling $100
+		-5%
+	Extended Magazines +$2/mag
+		+5 rounds
+	Magpulls +$10/mag
+		-5% reload
+	High Velocity Ammunition +$11/mag
+		+10% range, +10 dam
+	Pistol Carbine Kit $860
+		+50 m
+	Anvil Arms P-08 Phantom $2005 / $30/mag
+	105 m
+	0% / 5%(no sling)
+	20rds, 10mm Magazine; FMJ / HP
+	54
+	reload DC 15%
+	Credits per Average Damage: 12.38
+	Stock CpAD: 23.37
+	Credits per Scaled Accuracy: 20.05
+	Stock CpSA: 30.85
+	Average Turns between Reload: 6.66...
