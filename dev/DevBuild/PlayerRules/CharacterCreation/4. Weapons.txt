@@ -128,12 +128,6 @@ ECSC Mk26 Auto $490 / $6
 15 rds, .40 Magazine; FMJ / CS
 43
 
-CZ 75 P01 $570 / $7
-40m
-35%
-15rds, 10mm Magazine; FMJ / HP
-44
-
 Matthews Model 25 $490 / $3
 30 m
 30%
@@ -146,6 +140,12 @@ G&W 10mm Auto $500 / $7
 35 m
 35%
 15 rds, 10mm Magazine; CS
+44
+
+Anvil Arms P-08 Phantom $570 / $7
+40m
+35%
+15rds, 10mm Magazine; FMJ / HP
 44
 
 Anvil Armament P-45 $611 / $6
