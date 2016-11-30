@@ -39,14 +39,14 @@ chevron, or dot as the indicator. Can only be used on pistols.
 Miss Chance -5%
 Range +5m
 
-1.2x Hologramic projector $250
+1.2x Hologramic projector $175
 Projects a hologram target aquisition reticle, which compensates slightly 
 for windage or target movement. also artificially enhances view so as to 
 magnify by 120%. Cannot be used on pistols.
 Range +15m
 Miss Chance -10%
 
-1.2x Pistol Hologramic projector $150
+1.2x Pistol Hologramic projector $125
 Projects a hologram target aquisition reticle, which compensates slightly
 for windage or target movement. also artificially enhances view so as to 
 magnify by 120%. Can only be used on pistols.
@@ -59,17 +59,17 @@ Flips out of the way for a half action.
 Must be paired with a dot sight.
 Range + (n*20)
 
-3.2x Scope $500
+3.2x Scope $250
 A heavy-duty tube made for heavy weapons and sustained automatic fire, but 
 would suit single-fire weapons just as well. Sports a black multi-chevron 
 reticle suitable for daytime brightlight use.
 Range + 50m, Minimum +10m.
 
-4x Scope $750
+4x Scope $350
 Range +75m, minimum +15m.
 Can only be used on Long Rifles, Carbines.
 
-2-7x Scope $760
+2-7x Scope $700
 As a full action, you can adjust the magnification on this scope in order to 
 better see your target. Once sighted to a certain range, other targets that 
 are +/- 10 meters can still be fired upon. Otherwise you must adjust your 
@@ -77,11 +77,11 @@ magnification.
 Miss Chance -20%
 Range +100m, minimum +10m
 
-7x Scope $400
+7x Scope $600
 Range +120m, minimum +30m
 Can only be used on Long Rifles.
 
-8x Scope $600
+8x Scope $750
 Range +150m, minimum +35m
 Can only be used on Long Rifles.
 
@@ -119,13 +119,13 @@ Cannot be used with any foregrip or underbarrel weapon.
 Miss Chance -20%
 
 Red Laser $100
-Miss Chance -10% when Range < 100m
+Miss Chance -10% when Range <= 100m
 
 Green Laser $100
-Miss Chance -10% when Range > 90m
+Miss Chance -10% when Range >= 90m
 
 IR Laser $320
-Miss Chance -10% when range <50m. Must be used with IR goggles or an IR sight.
+Miss Chance -10% when range <=100m. Must be used with IR goggles or an IR sight.
 Can also be used to paint a target for Airstrikes or Orbital Strikes.
 
 ====================
@@ -154,13 +154,13 @@ Damage -5
 Only applies to balistic weapons. Not useable on coilguns, shotguns or HMGs.
 
 Light Profile Barrel $100
-When a conventional ammunition weapon requires a STR check to carry or use, 
-subtract 1 from the STR check.
 Miss Chance +10%
+Str -1
 
 Heavy Profile Barrel $100
 This heavier barrel reduces recoil, increases the accuracy of follow-up shots.
-Miss Chance -10%, STR +1
+Miss Chance -10%
+STR +1
 
 ====================
 Lower Rail attachments
@@ -176,14 +176,14 @@ Angled Foregrip $100
 Somehow better than a standard Foregrip.
 Miss Chance -10%
 
-Grenade Launcher $2200
+Grenade Launcher $1365
 60m
 35%
 1 rd, 40mm HE; AA / CHEM / FRAG / PLAS
-HE: 70 Explosive damage in 5m radius.
+HE: 70 Explosive damage in 5m Diameter.
 AA: Target takes 50 Damage to their armor, and takes 2 turns of bleed damage 
 (d10 / 2)
-CHEM: creates a 15m clowd of burning, choking smoke. targets take 30 Poison 
+CHEM: creates a 15m diameter cloud of burning, choking smoke. targets take 30 Poison 
 damage and become sickened for 4 turns until they can pass a FORT save at 70%. 
 each turn they take an additional 10 damage.
 FRAG: See ECSC Fragmentation grenade.
