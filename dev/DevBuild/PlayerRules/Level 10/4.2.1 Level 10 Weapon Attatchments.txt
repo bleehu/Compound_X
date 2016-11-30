@@ -67,4 +67,11 @@ Slings
 
 ===================
 Ammunition / Magazine Accessories
+Total mag price should be calculated by taking multipliers for extended mags 
+first, then multipliers for special effect, then magazine accessories like 
+magpulls.
 ===================
+Vorpel Rounds 25*mag price
+	On a roll of a natural 96-100, instead of dealing extra-crit damage, the 
+	shooter scores a headshot, removing the head of the target. If the target 
+	would normally die from losing its head, it does so.
