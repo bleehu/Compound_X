@@ -5,6 +5,10 @@ Optics / Aiming Aids
 You may only have 1 scope, unless otherwise stated.
 ====================
 
+2x Hologramic projector $350
+Range +30 meters
+Miss Chance -20%
+
 4x scope with built in red-dot
 Range + 75m, -10% hit chance.
 
@@ -42,6 +46,12 @@ Magnetic Stabilizing Field $150
 
 Magnetic Accelerator Field $200
 +20 m to plasma weapons and coilguns.
+
+Focal Lense - Type A $150
+-15%, only applies to lasers.
+
+Focal Lense - Type B $200
+-10%, +10 Dam, only applies to lasers.
 
 ====================
 Lower Rail attachments
