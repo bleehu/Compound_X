@@ -211,7 +211,7 @@ Strudwick Arms LA85 Bullpup		$4320 / $26
 Supporting Fire
 Minimum strength 7 to carry. 
 Never jams; if a 1 or 2 is rolled on fire, one round is fired normally, one 
-extra round is ejected like a shell casing. 
+extra round is ejected like a shell casing. Reload DC 30%
 
 Schroder R-130 $6250
 150m
@@ -284,7 +284,7 @@ Requires Strength of 7 to carry
 Supporting Fire
 No Optics, barrel attatchments or extended mags. Fire-rate based on automatic rilfes. Fires two bullets whenever you would fire one. But only every other bullet counts for any per bullet effects. Each magazine takes the carry space of four normal mags. Damages light vehicles.
 //Why is this only 20 damage? does it have a fast fire rate or something? right now it would only cost $1,425, putting it behind even the Laz-Pistol
-Mathews Mass Ordinance Dispersal Device $1425 / %7
+Mathews Mass Ordinance Dispersal Device $1425 / $7
 Min 6 Str
 150m
 5%
@@ -318,7 +318,6 @@ Laser beam, cannot be dodged with a reaction check.
 
 ============================================================
 Long Rifles:
-Due to high velocities used in long rifle bullets, when a target is under the minimum engagement range, they take 20 less damage because of hit-pre-acceleration, PointBlank penetration, etc.
 On all engagements farther than 200m, you must take 1 Full Action to adjust your scope for windage and elevation between targets of differing distance.
 Minimum 5 strength to carry. All targets are inflicted with "Pinned" condition when hit. Reload DC 30% unless otherwise noted. Reload time 3 Half Actions.
 ============================================================
