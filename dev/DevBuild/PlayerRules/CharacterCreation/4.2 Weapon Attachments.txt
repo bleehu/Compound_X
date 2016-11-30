@@ -225,6 +225,9 @@ Reduce strength required by 1. Holstering your weapon is a free action.
 
 ===================
 Ammunition / Magazine Accessories
+Total mag price should be calculated by taking multipliers for extended mags 
+first, then multipliers for special effect, then magazine accessories like 
+magpulls.
 ===================
 Extended Magazines 130% of original cost. $12 mags now cost $15, etc. Round Up.
 Adds 30% magazine capacity to magazine/clip-based weapons. Revolver systems or
@@ -286,6 +289,8 @@ A tactical frame bolts around the shooter''s pistol, and a longer barrel is
 attached. Accuracy at longer range is now attainable, along with the ability 
 to mount up to 4x magnification, foregrips, etc. Modified Pistol is still 
 considered a CQB Weapon.
+Applies only to pistols, except revolvers. Also applies to any SMGs that are 
+automatic-fire converted pistols, like the Mk9 MP.
 +50m range
 
 Sawn-off shotgun barrel Secondary $500
