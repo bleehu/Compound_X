@@ -42,14 +42,22 @@
     //--------------------
 		//Level 1:
 			Arcane Blast [40]: Deals 40 + P.Lvl turns C.S. Burn. 70m range, 
-			acurracy is 40% (INT base)
+				acurracy is 40% (INT base)
 				Max Levels: 5
 			Fireball [40]: Deals 40 + P.Lvl #of  Burn damage to a single 
-			target. Burn damage lasts for 2 turns. or until extinghuished. 60m 
-			Range, Acurracy is 40% (INT base)
+				target. Burn damage lasts for 2 turns. or until extinghuished. 60m 
+				Range, Acurracy is 40% (INT base)
 				Max Levels: 5
 		
-			Entomb [40]: wraps self in a shell of nanites. The Shell lasts for 6 Full actions and cannot normally be canceled by the caster. While in the shell, the caster cannot use spells, weapons or items. Nor can they be affected by incoming fire, enemy melee attacks, spells, poison gas or lack of air. The nanite shell is not flamable and is routed to the ground where the caster was standing with the strength of cement. If destroyed, the shell no longer adds any protection and the caster is unstuck. Entomb can only be cast on the caster.
+			Entomb [40]: wraps self in a shell of nanites. The Shell lasts for 
+				6 Full actions and cannot normally be canceled by the caster. 
+				While in the shell, the caster cannot use spells, weapons or 
+				items. Nor can they be affected by incoming fire, enemy melee 
+				attacks, spells, poison gas or lack of air. The nanite shell is 
+				not flamable and is routed to the ground where the caster was 
+				standing with the strength of cement. If destroyed, the shell 
+				no longer adds any protection and the caster is unstuck. Entomb 
+				can only be cast on the caster.
 				Level 1: Nanite shell has 400 health.
 				Level 2: Nanite shell has 600 health. Nanite shell may be used as partial cover for allies.
 				Level 3: Nanite shell has 700 health and may be canceled at the 4th Full action.
@@ -252,16 +260,21 @@
     // Phaser
     //--------------------
 		//Level 1:
-			Charge Orb [10]: You pause and focus your power which manifests as a floating orb of nanite-projected energy. Each orb you have reduces stealth rolls by 10. Orbs may be dismissed as a free action.
+			Charge Orb [10]: You pause and focus your power which manifests as 
+				a floating orb of nanite-projected energy. Each orb you have 
+				reduces stealth rolls by 10. Orbs may be dismissed as 
+				a free action.
 				Level 1: One full action gives you one orb. You may keep up to 2 orbs active at a time.
 				Level 2: You may keep up to 4 orbs active at a time.
 				Level 3: One half action gives you one orb
 				Level 4: You may keep up to 6 orbs active at a time.
 				Level 5: Two Full actions may be used to give you five orbs
 				Level 6: You may keep up to 7 orbs active at a time.
-				Level 7: Killing an enemy spell caster who has at least 100 nanites at their moment of death gives you a free charged orb
+				Level 7: Killing an enemy spell caster who has at least 100 
+					nanites at their moment of death gives you a free charged orb
 			
-			Bullet Storm [10]: A cascade of bullet-like Nanite shards is fired at the target. Target takes 20 + P.Lvl * 15 damage. Spend two orbs. 
+			Bullet Storm [10]: A cascade of bullet-like Nanite shards is fired 
+				at the target. Target takes 20 + P.Lvl * 15 damage. Spend two orbs. 
 				Max Levels: 5
 			
 			Blur [50]: The target''s edges blur and melt into the background, 
@@ -541,7 +554,10 @@
 
 		//Neutral Unique
 		{15} Prayer of Silence: [200]
-    		Aura Effect: Drain 100 Nanites from each character within CHA meters of you. Any deficiency takes damage instead, and the Paladin gains only the amount of nanites held by the target at the time the prayer takes effect.
+    		Aura Effect: Drain 100 Nanites from each character within CHA 
+				meters of you. Any deficiency takes damage instead, and the 
+				Paladin gains only the amount of nanites held by the target at 
+				the time the prayer takes effect.
 
 		{10} Prayer of Solitude: [80]
 		    Touch Effect: target is incapacitated, trapped in a mental prison 
