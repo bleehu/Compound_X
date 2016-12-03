@@ -44,12 +44,15 @@ Stealth Frame: $6000
      - 1 deployable sword
     Augmentation:
      - DEX +2
-     - High quality fully-sealed servos and pneumatic actuators allow for flexible and precise movement with almost no discernable noise. No stealth penalty.
+     - High quality fully-sealed servos and pneumatic actuators allow for 
+       flexible and precise movement with almost no discernable noise. No 
+       stealth penalty.
     Max Subsystems: 3
 ==============================
 Combat Suits
 All combat suits incur a stealth penalty of -40%
-$500 per armament slot. $2000 per stat increase. Armour, shielding and cloaking charges apply as per normal calculation.
+$500 per armament slot. $2000 per stat increase. Armour, shielding and 
+cloaking charges apply as per normal calculation.
 ==============================
 
 Basic Suit: $6700
@@ -93,7 +96,8 @@ Recon Suit: $11020
      - 25m sensor array (+50 passive awareness, 25m)
      - 25m Darkvision
      - Permanent cloaking module with the following stats:
-        10 nanites per turn with movement in it. 0 nanites per turn of no movement.
+        10 nanites per turn with movement in it. 0 nanites per turn of no 
+        movement.
         +15% stealth DC while activated.
         +3 turns of cloack per claock activation.
         minimum recharge rate of 2 turns between cloaks, even at higher levels.
@@ -102,15 +106,18 @@ Recon Suit: $11020
 ==============================
 Modular Additions
 All modular additions count towards the Subsystem
-limit of the suit (except armour, waterproofing, AMMM, and Augmentation Tuning).
+limit of the suit (except armour, waterproofing, AMMM, and Augmentation Tuning)
+.
 ==============================
 
 Arm Hardpoints:
     Pistol Attachment: Cost of one pistol, +$50. +10% miss chance.
     SMG attachment: Cost of one SMG, +$50. +15% miss chance.
-    Rifle Attachment: Cost of one carbine/battle rifle, automatic rifle, or shotgun, +$50. +20% miss chance.
+    Rifle Attachment: Cost of one carbine/battle rifle, automatic rifle, or 
+    shotgun, +$50. +20% miss chance.
     Grapple hook launcher $450
-        Launches a hook attached to a rope. Also doubles as an unconventional weapon.
+        Launches a hook attached to a rope. Also doubles as an unconventional 
+        weapon.
         30m / 3m as weapon.
         30%
         40 damage when shot at someone.
@@ -132,9 +139,11 @@ Arm Hardpoints:
         80 explosive damage, 2m radius
 Shoulder Hardpoints:
     Weapon Attachment Point, Light: $100
-        Pick any Pistol or SMG. Same cost as normal weapon. Reload DC is +30% for awkwardness.
+        Pick any Pistol or SMG. Same cost as normal weapon. Reload DC is +30% 
+        for awkwardness.
     Grenade Launcher Point: $2300
-        Attachment of a standalone 40mm grenade launcher. See weapon attachments, Lower Rail Attachments, Grenade Launcher for stats.
+        Attachment of a standalone 40mm grenade launcher. See weapon 
+        attachments, Lower Rail Attachments, Grenade Launcher for stats.
     Zurlinsk MMG-5 (Mounted Minigun): $2000
         100m
         50%
@@ -147,7 +156,8 @@ Utility Slots:
         Applies a shield with the following stats:
         85%
         100 Health
-        25 CS per turn of no hit. When depleted, 1 recalibration turn is required before recharging can begin.
+        25 CS per turn of no hit. When depleted, 1 recalibration turn is 
+        required before recharging can begin.
         
     Shield Generator, Class B: $3400
         Applies a shield with the following stats:
@@ -201,10 +211,12 @@ Foot Enhancements: (1 per frame/suit)
     Climbing spikes: $200
         +20% to climb checks.
 
-System Enhancements: (Suits and Frames may have as many System enhancements as can be afforded, within the Subsystem limit of the suit.)
+System Enhancements: (Suits and Frames may have as many System enhancements as 
+can be afforded, within the Subsystem limit of the suit.)
 
     Advanced Waterproofing: $1000
-        Can withstand up to 200 atmospheres of preasure (roughly 2km underwater), and also absolute vaccuum.
+        Can withstand up to 200 atmospheres of preasure (roughly 2km underwater
+        ), and also absolute vaccuum.
     Advanced Movement Management Module (AMMM): $500
         Allows use of "speed" and "jump" enhancements simultaneously.
     Autonomous Defensive CrpytoSys: $200
@@ -213,17 +225,26 @@ System Enhancements: (Suits and Frames may have as many System enhancements as c
     Augmentation Tuning: $2000 * number of stat bonuses.
         +1 to each augmentation listed.
     Tune-Up: $2000
-        Add a +1 stat modifier of your choice to your suit''s augments. Keep in mind that Charisma and Luck are exempt.
+        Add a +1 stat modifier of your choice to your suit''s augments. Keep 
+        in mind that Charisma and Luck are exempt.
     Enhanced Targeting module: $600
-        Negate the miss chance penalty on all installed weapons. They fire with their listed miss chance from the Weapons Document or Advanced Weapons Document.
+        Negate the miss chance penalty on all installed weapons. They fire 
+        with their listed miss chance from the Weapons Document or Advanced 
+        Weapons Document.
     
     Basic AWES (Automatic Weapon Engaging System): $3000
-        Controls one shoulder mounted weapon system autonomously, providing free use of a shoulder mounted weapon. Add one Full Action per turn dedicated to the shoulder mounted weapon.
-        Shoulder mounted weapons do not fall under hip fire rules for accuracy and will fire at their listed miss chance.
+        Controls one shoulder mounted weapon system autonomously, providing 
+        free use of a shoulder mounted weapon. Add one Full Action per turn 
+        dedicated to the shoulder mounted weapon.
+        Shoulder mounted weapons do not fall under hip fire rules for Miss Chance 
+        and will fire at their listed miss chance.
     
     Enhanced AWES: $5000
-        Controls up to two shoulder mounted weapon system autonomously, providing free use of a shoulder mounted weapon. Add one Full Action per turn dedicated to each shoulder mounted weapon.
-        Shoulder mounted weapons do not fall under hip fire rules for accuracy and will fire at their listed miss chance.
+        Controls up to two shoulder mounted weapon system autonomously, 
+        providing free use of a shoulder mounted weapon. Add one Full Action 
+        per turn dedicated to each shoulder mounted weapon.
+        Shoulder mounted weapons do not fall under hip fire rules for Miss Chance 
+        and will fire at their listed miss chance.
 //===================================================================
 //Copyright 2016 Taylor Rowland
 //

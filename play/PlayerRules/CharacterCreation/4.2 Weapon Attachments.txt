@@ -9,7 +9,7 @@ Tritium Glow Iron Sights $50
 1x magnification, but allows for much better target aquisition. Can be mounted 
 on 45 degree mounts in addition to a scope in order to negate a minimum 
 engagment distance penalty.
-Accuracy -5%
+Miss Chance -5%
 Can be used on any conventional, nonexplosives weapon, E.G. pistols, shotguns, 
 rifles, etc.
 
@@ -21,21 +21,21 @@ Underbarrel Grenade Launcher -10% miss chance.
 1x Dot Sight $130
 Your basic tube-shaped dot-projection. Dot can be changed from blue-green-red 
 for various lighting situations and terrains.
-Accuracy -3%
+Miss Chance -3%
 Range +10m
 
 1x Reflex Site $150
 A reflex-projected site, comprised of a light source and a single pane of 
 rectangular glass. Allows for smaller F.O.V. blockage. Has a small cross, 
 chevron, or dot as the indicator. Cannot be used on pistols
-Accuracy -5%
+Miss Chance -5%
 Range +10m 
 
 1x Pistol Reflex Site $100
 A reflex-projected site, comprised of a light source and a single pane of 
 rectangular glass. Allows for smaller F.O.V. blockage. Has a small cross, 
 chevron, or dot as the indicator. Can only be used on pistols.
-Accuracy -5%
+Miss Chance -5%
 Range +5m
 
 1.2x Hologramic projector $250
@@ -43,14 +43,14 @@ Projects a hologram target aquisition reticle, which compensates slightly
 for windage or target movement. also artificially enhances view so as to 
 magnify by 120%. Cannot be used on pistols.
 Range +15m
-Accuracy -10%
+Miss Chance -10%
 
 1.2x Pistol Hologramic projector $150
 Projects a hologram target aquisition reticle, which compensates slightly
 for windage or target movement. also artificially enhances view so as to 
 magnify by 120%. Can only be used on pistols.
 Range +5m
-Accuracy -10%
+Miss Chance -10%
 
 nx Magnifier for Dot Scopes $n*200
 A basic magnifying tube capable of increasing the effective range of a weapon. 
@@ -73,7 +73,7 @@ As a full action, you can adjust the magnification on this scope in order to
 better see your target. Once sighted to a certain range, other targets that 
 are within 20m can still be fired upon. otherwise you must adjust your 
 magnification.
-Accuracy -20%
+Miss Chance -20%
 Range +100m, minimum +10m
 
 7x Scope $400
@@ -115,16 +115,16 @@ Bipod $320
 Requires one full action to deploy the bipod. user can diengage for a free 
 action. After disengaging, user must still take a full action to deploy. 
 Cannot be used with any foregrip or underbarrel weapon.
-Accuracy -20%
+Miss Chance -20%
 
 Red Laser $140
-Accuracy -10% when Range < 50m
+Miss Chance -10% when Range < 50m
 
 Green Laser $140
-Accuracy -10% when Range > 60m
+Miss Chance -10% when Range > 60m
 
 IR Laser $320
-Accuracy -10% when range <50m. Must be used with IR goggles or an IR sight.
+Miss Chance -10% when range <50m. Must be used with IR goggles or an IR sight.
 Can also be used to paint a target for Airstrikes or Orbital Strikes.
 
 ====================
@@ -169,11 +169,11 @@ any of these except the foregrips.
 
 Vertical Foregrip $50
 Increase weapon stability.
-Accuracy -5%
+Miss Chance -5%
 
 Angled Foregrip $100
 Somehow better than a standard Foregrip.
-Accuracy -10%
+Miss Chance -10%
 
 Grenade Launcher $2200
 60m
@@ -259,7 +259,7 @@ Failure on both checks requires an additional check.
 Revolver Bottom-Cylinder Fire $500
 Modifies the pistol to fire from the bottom cylinder rather than the top, 
 decreasing the kick from firing.
-Accuracy -15%
+Miss Chance -15%
 
 Revolver Gas Routing System $600
 Adds a gas tube or piston system which automatically cocks the hammer when a 
@@ -314,7 +314,7 @@ CQB Weapon
 
 Plasma Generation Chamber $3200
 Turns your boring, standard munition guns into a god-killing, blue plasma 
-belching death machine. Weapon keeps its base range and accuracy. Increase 
+belching death machine. Weapon keeps its base range and Miss Chance. Increase 
 damage by 25 and add plasma burn. Increase strength requirement by 1. Your 
 weapon now uses appropriate plasma packs as ammunition. Increase magazine cost 
 by 20% and Jam DCs are +20%

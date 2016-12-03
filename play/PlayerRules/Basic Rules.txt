@@ -5,7 +5,7 @@ this game.
 ==============================
 Premise:
 ==============================
-Compound X [working title] is a foray into the unkown. It is the year
+
 
 
 ==============================
@@ -22,7 +22,6 @@ Stat Bonus = (4 * Stat) - 20
 Stat Bonuses are used for the calculation of skill checks, weapon accuracy, 
 etc.
 Stats are not used for calculation. and also saving throws.
-Imperial Credits [IC] = [(Level + 1)* 150 * Luck] + 100
 
 Strength: Physical aptitude with regard to lifting and exertion of pure force.
 Perception: Ability to see, hear, taste, smell, feel and experience the world 
@@ -246,7 +245,7 @@ Movement:
 You can run DEX number of meters per full action. A character with 1 DEX can 
 only move 1m per full action, or 2m per full turn.
 You can sprint instead of moving, for a +2 movement bonus. However, firing 
-your weapon after doing so will cause you incur a +30% firing penalty. The 
+your weapon after doing so will cause you to incur a +30% firing penalty. The 
 penalty persists for the Full action you sprint, as well as the action 
 afterwards. You can stack sprinting a number of times equal to half of your 
 Fortitude (rounding in your favor), however for each Action taken sprinting, 
@@ -255,8 +254,8 @@ the sprinting ends.
 
 Fighting:
 During combat, most weapons are Semi-Auto, meaning that each time you pull the 
-trigger, the gun fires and chambers a new round automatically without firing 
-it. It takes 1 Half-Action to fire a semi-auto weapon in this way. Some guns, 
+trigger, the gun fires and chambers a new round automatically one time. It 
+takes 1 Half-Action to fire a semi-auto weapon in this way. Some guns, 
 such as Shotguns and Bolt-Action sniper rifles require a Full-Action to fire 
 the gun, where the first Half-Action is a trigger pull, and the second Half-
 Action is the rechambering of the weapon.
@@ -367,6 +366,7 @@ shields, dealing all of their damage to the shielding, and inflicitng no burn
 damage. Lasers deal full damage to armoured targets, and remove nothing off of 
 the armour's hit percent. If a player wearing balistic armour is hit with a 
 laser, they recieve damage as if they weren't wearing any armour.
+
 ==============================
 Casting Spells
 ==============================
@@ -374,14 +374,15 @@ Casting Spells
 There are a few classes which are able to cast spells, Paladins, Mages and 
 Sorcerers. Casting spells is very similar to performing other actions. 
 Normally, a spell takes a half-action to cast. The performer of the spell will 
-have to pass a Skill DC in order to successfully cast the spell. For Mages and 
-Sorcerers this is a Spellcast DC, and for Paladins this is a Knowledge 
-[Nanites] DC. MAges/Sorcerers can add any skill points they have in Sorcery to 
-their rolls, and Paladins may do the same with their Knowledge [Nanites] skill.
-Some spells may also require the target to make a saving throw in order to 
-avoid the spell or negate its effects.
-Generally speaking, spells have a range that is dependant on either the 
-Charsima score of the caster or the Charsima Modifier.
+have to pass a Skill DC in order to successfully cast the spell. This DC is 
+the number of nanites used to cast the spell, plus an bonuses the target gains 
+from cover. For Mages and Sorcerers this is a Spellcast DC, and for Paladins 
+this is a Knowledge [Nanites] DC. Mages/Sorcerers can add any skill points 
+they have in Sorcery to their rolls, and Paladins may do the same with their 
+Knowledge [Nanites] skill. Some spells may also require the target to make a 
+saving throw in order to avoid the spell or negate its effects. Generally 
+speaking, spells have a range that is dependant on either the Charsima score 
+of the caster or the Charsima Modifier.
 
 ==============================
 Cloaking

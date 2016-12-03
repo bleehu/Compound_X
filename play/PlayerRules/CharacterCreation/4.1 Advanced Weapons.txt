@@ -513,7 +513,7 @@ Minimum 6 strength to carry
 Due to the complex nature of this Special Purpose Rifle, it requires extensive 
 military style training in order to unlock its full potential. If you do not 
 have at least a skill level of 30 in sniping, you cannot fire this effectively,
-and take a +15% to accuracy from the low range.
+and take a +15% to Miss Chance from the low range.
 Penetrating Damage. Marksman Only. Target recieves Bleeding condition, DC 80
 
 Beam Rifle $28,500 / $21
