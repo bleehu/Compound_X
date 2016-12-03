@@ -1,5 +1,5 @@
-/*========================================
- * This folder is for all relevant files for play. It will contain any and all
- * files needed to understand the rules, for players to create characters, and
- * to give player and DMs the tools for play.
- *======================================*/
+Dev Build has moved to Dev Branch!
+
+To contribute to compound x in a helpful way, please make changes only to RC or Dev Branches!
+Switch branches on git using the checkout command:
+$git checkout dev
