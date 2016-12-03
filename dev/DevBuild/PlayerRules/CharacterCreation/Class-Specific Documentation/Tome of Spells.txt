@@ -25,7 +25,7 @@
 //==============================
 // Mage Spells
 // Mages gain a number of spell points equal to half their charisma (round up)
-// per level. You may put at most one spell point intot the most recently
+// per level. You may put at most one spell point into the most recently
 // unlocked tier, and no more than 2 points into any tier. Unused spell points
 // are not carried over to the next level. For example, Sorbeth the mage
 // reaches level 4 with a charsima score of 10. He gains 5 spell points, but
@@ -43,6 +43,15 @@
 		//Level 3:
 			Fireball [40]: Deals 40 + P.Lvl #of  Burn damage to a single target. Burn damage lasts for 2 turns. or until extinghuished. 60m Range, Acurracy is 40% (INT base)
 				Max Levels: 5
+		
+			Entomb [40]: wraps self in a shell of nanites. The Shell lasts for 6 Full actions and cannot normally be canceled by the caster. While in the shell, the caster cannot use spells, weapons or items. Nor can they be affected by incoming fire, enemy melee attacks, spells, poison gas or lack of air. The nanite shell is not flamable and is routed to the ground where the caster was standing with the strength of cement. If destroyed, the shell no longer adds any protection and the caster is unstuck. Entomb can only be cast on the caster.
+				Level 1: Nanite shell has 400 health.
+				Level 2: Nanite shell has 600 health. Nanite shell may be used as partial cover for allies.
+				Level 3: Nanite shell has 700 health and may be canceled at the 4th Full action.
+				Level 4: Nanite Shell has one vehicle health and is immune to small arms. Nanite shell may be used as superior cover for allies.
+				Level 5: Nanite Shell has 2 vehicle health and may be canceled any time after 3 Full Actions.
+			//dev note: this is the Warlock Mage's panic button
+		
 		//Level 5:
 			
 		//Level 7:
@@ -72,6 +81,8 @@
 
 		//Level 3:
 			Slow
+		
+		//dev note: needs panic button/mobility spell
 
 			Thunder Stomp [30]: All targets in a 8m radius must pass a Shock Saving Throw or are tripped. DC = 20 + 5 * P.Lvl.
 				Max Levels: 5
@@ -112,7 +123,8 @@
 		//Level 3:
 			Mage Armour [X]: Gain a nanite shield, 100% coverage of body. Shield = [X nanites]. Touch effect. Max X = 30+(10*P.Lvl) Can be used P.Lvl # times per encounter. Add 20 to shield when used on an ally. Lasts duration of encounter.
 				Max Levels: 5
-
+				//dev note: this is the tactician mage's panic button
+				
 			Service Weapon//increase select weapon stats by 5% for some time
 
 			Silence
@@ -142,7 +154,7 @@
 //==============================
 // Sorcerer Spells
 // Sorcerers gain a number of spell points equal to half their charisma (round
-// up) per level. You may put at most one spell point intot the most recently
+// up) per level. You may put at most one spell point into the most recently
 // unlocked tier, and no more than 2 points into any tier. Unused spell points
 // are not carried over to the next level. For example, Marian the Sorceress
 // reaches level 4 with a charsima score of 10. She gains 5 spell points, but
@@ -155,6 +167,8 @@
 		//Level 1:
 			Camoflage Area [40]: Create a stealthed area P.Level * 2 m diameter. Everything in the area is considered hidden, DC caster''s (CHA + P.Levels) * 5. Lasts CHA number of turns.
 				Max Levels: 3
+				//dev note: what is a stealthed area? Wording unclear. Is this the Conjurer's panic button?
+				
 		//Level 3:
 			Sustained Barage [20]: 20 damage. Each successive time cast, nanite cost increases by 5, damage increases by 10. Maximum Knowledge[Nanites]/10 casts.
 			    Cool down:
@@ -187,13 +201,28 @@
     // Phaser
     //--------------------
 		//Level 1:
-			Bullet Storm [40]: A cascade of bullet-like Nanite shards is fired at the target. Target takes 20 + P.Lvl * 15 damage.
+			Charge Orb [10]: You pause and focus your power which manifests as a floating orb of nanite-projected energy. Each orb you have reduces stealth rolls by 10. Orbs may be dismissed as a free action.
+				Level 1: One full action gives you one orb. You may keep up to 2 orbs active at a time.
+				Level 2: You may keep up to 4 orbs active at a time.
+				Level 3: One half action gives you one orb
+				Level 4: You may keep up to 6 orbs active at a time.
+				Level 5: Two Full actions may be used to give you five orbs
+				Level 6: You may keep up to 7 orbs active at a time.
+				Level 7: Killing an enemy spell caster who has at least 100 nanites at their moment of death gives you a free charged orb
+			
+			Bullet Storm [10]: A cascade of bullet-like Nanite shards is fired at the target. Target takes 20 + P.Lvl * 15 damage. Spend two orbs. 
 				Max Levels: 5
-			Blur //causes enemy attacks to land less often
+			
+			Blur [10]: For 2 turns, enemies take a +60% to miss you. While this effect is active, you cannot attack, use items or cast spells
+			//dev note: this is the phaser sorcerer's panic button
+			
 		//Level 3:
 			Push //nudge medium enemy P.Lvl meters, large enemy P.Lvl/2 meters
 		//Level 5:
 			Dismiss Attack
+			//dev note: scrap this, it offers the same bad counterplay as counterspell
+			
+			
 		//Level 7:
 			Shift
 		//Level 9:
@@ -218,6 +247,8 @@
 		//Level 3:
 			Cloud of Smog  [20]: Creates a 10m diameter cloud of choking smog. Deals 10 damage per round in the cloud, and anyone in the cloud must pass a FORT save DC (10*rds in smog) + (5*Caster''s CHA). If the FORT save is failed, the target faints in the cloud and continues to take damage. Cloud lasts P.Lvl turns. 20m range.
 				Max Levels: 5
+		
+		//dev note: needs panic button/mobility spel
 
 			Invoke Fear [10]: Target is afraid of subject and will flee or cower for P.Lvl # of turns. Target''s Will Save DC is 30 + 10*P.Lvl.
 				Max Levels: 5
