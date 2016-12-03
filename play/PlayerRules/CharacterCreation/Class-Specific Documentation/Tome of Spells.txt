@@ -241,7 +241,7 @@
 		//Level 9:
 			Fire Whip [60]: You form a whip out of fire. Nanites spent to 
 			create the whip are lost until it disappears. The whip is treated 
-			as a mellee weapon with the following stats:
+			as a melee weapon with the following stats:
 				3 meters
 				30% (dex based)
 				60 + P.Lvl*Dex Damage + 1 burn damage token.
@@ -309,6 +309,8 @@
 			you cast this spell. The enemy''s chance to hit you is 95. If 
 			their roll falls in the range of 46-95, you redirect the attack 
 			onto them.
+			//dev note: scrap this, too general
+			
 		//Level 11:
 
 		//Level 13:
