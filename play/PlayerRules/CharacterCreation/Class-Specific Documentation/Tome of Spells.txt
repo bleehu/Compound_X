@@ -210,11 +210,56 @@
     // Conjurer
     //--------------------
 		//Level 1:
+			Create Benevelent Zone [10]: You hold your hands aloft and summon 
+				the nanites to bless a particular area. Zones are marked by 
+				an origin point, and all points within the radius that are 
+				not on the other side of a wall or cover from that origin. 
+				more simply put, a zone looks like a circle on flat land,
+				but looks like pac man if cast at the corner of a building.
+				Half action to cast. Zone persists for INT turns.
+				Level 1: Zone is 3m from origin. Allies have a -5% to miss 
+					while standing in the zone.
+				Level 2: Zone is 5m from origin.
+				Level 3: Zone is 5m from origin + half CHA mod
+				Level 4: Allies have an additional -5% to miss while standing 
+					in the zone
+				Level 5: Zone is 5m from origin + CHA mod
+				Level 6: Zone Permiates partial cover
+				Level 7: 
+				Level 8:
+				
+			
+			Create Malicious Zone [10]: You quickly and wrathfully gesture at 
+				the ground causing the nanites to permiate and desecrate it.
+				Zones are marked by 
+				an origin point, and all points within the radius that are 
+				not on the other side of a wall or cover from that origin. 
+				more simply put, a zone looks like a circle on flat land,
+				but looks like pac man if cast at the corner of a building.
+				Half action to cast. Zone persists for INT turns.
+				Level 1: Zone is 3m from origin. Enemies have a +5% to miss 
+					while standing in the zone.
+				Level 2: Zone is 5m from origin.
+				Level 3: Zone is 5m from origin + half CHA mod
+				Level 4: Enemies have an additional +5% to miss while standing 
+					in the zone
+				Level 5: Zone is 5m from origin + CHA mod
+				Level 6: Zone Permiates partial cover
+				Level 7: 
+				Level 8:
+			
 			Camoflage Area [40]: Create a stealthed area P.Level * 2 m 
 			diameter. Everything in the area is considered hidden, DC caster''s
 			(CHA + P.Levels) * 5. Lasts CHA number of turns.
 				Max Levels: 3
 				//dev note: what is a stealthed area? Wording unclear. Is this the Conjurer's panic button?
+				// suggestion: consume benevolent zone and apply affect to it?
+			
+			Damage area [30]: At your command, the nanites in a malicious zone
+				burst with arcane energy. It's not the most effecient way to
+				hurt those who dare tresspass, but it's a good start. Half 
+				action to cast. Consume a malicious zone and deal damage to 
+				all characters in the zone.
 				
 		//Level 3:
 			Sustained Barage [20]: 20 damage. Each successive time cast, 
@@ -224,6 +269,18 @@
 		        Knowledge[Nanites] <= 50, 3 Full Actions
 		                           <= 75, 2 Full Actions
 		                            > 75, 1 Full Action
+			
+			Homecoming [20]: Nanite tenticals sprout from a benevolent zone and rapidly 
+				pull you to their origin. Half action to cast. Cannot be done stealthily.
+				This spell consumes the benevolent zone. If this moved the caster more than
+				their speed, the caster cannot move for the rest of their turn. If the caster
+				was being grappled when they cast this, the tenticals pull both the grappler
+				and the grapplee to the origin of the zone. If the caster was in a vehicle
+				when this spell was cast, the caster is pulled out of the vehicle. Max range
+				30m. 
+				Max Level: 1
+				//dev note: this is the conjurer's panic button
+			
 		//Level 5:
 
 		//Level 7:
@@ -378,6 +435,17 @@
 				Max Levels: 5
 
 			Arcane Circle//protect against spells
+			
+			Consume Enchantment [20]: Half action. Dispell a persistant 
+				area-of-effect spell. Gain 40 nanites. Your next single-target 
+				attack deals an extra 30 damage.
+				Max Level: 1
+				//DEV notes:
+				// This is the consumer's counter move
+				// Counters these spells:
+				// + Summon Tenticals
+				// + Benevelent Zone
+				// + Malicious Zone 
 
 			Nanite Leach [10*P.Lvl]: Remove up to 10*P.Lvl nanites from 
 			opponent. If the opponent''s nanites are depleted, excess leech is 
