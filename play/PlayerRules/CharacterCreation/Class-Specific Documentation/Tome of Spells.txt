@@ -276,6 +276,7 @@
 			Bullet Storm [10]: A cascade of bullet-like Nanite shards is fired 
 				at the target. Target takes 20 + P.Lvl * 15 damage. Spend two orbs. 
 				Max Levels: 5
+			//dev note: this is the phaser's basic attack
 			
 			Blur [50]: The target''s edges blur and melt into the background, 
 			causing opponents targeting them to miss more often. Target 
