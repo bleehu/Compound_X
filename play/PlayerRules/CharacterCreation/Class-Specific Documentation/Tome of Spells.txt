@@ -210,11 +210,56 @@
     // Conjurer
     //--------------------
 		//Level 1:
+			Create Benevelent Zone [10]: You hold your hands aloft and summon 
+				the nanites to bless a particular area. Zones are marked by 
+				an origin point, and all points within the radius that are 
+				not on the other side of a wall or cover from that origin. 
+				more simply put, a zone looks like a circle on flat land,
+				but looks like pac man if cast at the corner of a building.
+				Half action to cast. Zone persists for INT turns.
+				Level 1: Zone is 3m from origin. Allies have a -5% to miss 
+					while standing in the zone.
+				Level 2: Zone is 5m from origin.
+				Level 3: Zone is 5m from origin + half CHA mod
+				Level 4: Allies have an additional -5% to miss while standing 
+					in the zone
+				Level 5: Zone is 5m from origin + CHA mod
+				Level 6: Zone Permiates partial cover
+				Level 7: 
+				Level 8:
+				
+			
+			Create Malicious Zone [10]: You quickly and wrathfully gesture at 
+				the ground causing the nanites to permiate and desecrate it.
+				Zones are marked by 
+				an origin point, and all points within the radius that are 
+				not on the other side of a wall or cover from that origin. 
+				more simply put, a zone looks like a circle on flat land,
+				but looks like pac man if cast at the corner of a building.
+				Half action to cast. Zone persists for INT turns.
+				Level 1: Zone is 3m from origin. Enemies have a +5% to miss 
+					while standing in the zone.
+				Level 2: Zone is 5m from origin.
+				Level 3: Zone is 5m from origin + half CHA mod
+				Level 4: Enemies have an additional +5% to miss while standing 
+					in the zone
+				Level 5: Zone is 5m from origin + CHA mod
+				Level 6: Zone Permiates partial cover
+				Level 7: 
+				Level 8:
+			
 			Camoflage Area [40]: Create a stealthed area P.Level * 2 m 
 			diameter. Everything in the area is considered hidden, DC caster''s
 			(CHA + P.Levels) * 5. Lasts CHA number of turns.
 				Max Levels: 3
 				//dev note: what is a stealthed area? Wording unclear. Is this the Conjurer's panic button?
+				// suggestion: consume benevolent zone and apply affect to it?
+			
+			Damage area [30]: At your command, the nanites in a malicious zone
+				burst with arcane energy. It's not the most effecient way to
+				hurt those who dare tresspass, but it's a good start. Half 
+				action to cast. Consume a malicious zone and deal damage to 
+				all characters in the zone.
 				
 		//Level 3:
 			Sustained Barage [20]: 20 damage. Each successive time cast, 
@@ -224,6 +269,18 @@
 		        Knowledge[Nanites] <= 50, 3 Full Actions
 		                           <= 75, 2 Full Actions
 		                            > 75, 1 Full Action
+			
+			Homecoming [20]: Nanite tenticals sprout from a benevolent zone and rapidly 
+				pull you to their origin. Half action to cast. Cannot be done stealthily.
+				This spell consumes the benevolent zone. If this moved the caster more than
+				their speed, the caster cannot move for the rest of their turn. If the caster
+				was being grappled when they cast this, the tenticals pull both the grappler
+				and the grapplee to the origin of the zone. If the caster was in a vehicle
+				when this spell was cast, the caster is pulled out of the vehicle. Max range
+				30m. 
+				Max Level: 1
+				//dev note: this is the conjurer's panic button
+			
 		//Level 5:
 
 		//Level 7:
@@ -241,7 +298,7 @@
 		//Level 9:
 			Fire Whip [60]: You form a whip out of fire. Nanites spent to 
 			create the whip are lost until it disappears. The whip is treated 
-			as a mellee weapon with the following stats:
+			as a melee weapon with the following stats:
 				3 meters
 				30% (dex based)
 				60 + P.Lvl*Dex Damage + 1 burn damage token.
@@ -277,11 +334,21 @@
 				at the target. Target takes 20 + P.Lvl * 15 damage. Spend two orbs. 
 				Max Levels: 5
 			//dev note: this is the phaser's basic attack
+
+			Launch Orb [0]: Spend one orb. You launch it at an enemy. If it hits, it burns them with
+				the spite of your nanite power. 40% - Perception modifier to miss. Takes A half
+				action to launch. 
+				Level 1: 15m + CHA modifier range, Deals 30 damage
+				Level 2: 20m + CHA mod range, Deals 35 damage
+				Level 3: 25m + CHA mod range, Deals 40 damage, If you have dual weild feat, may fire 2 orbs at once.
+				Level 4: 30m + CHA mod range, Deals 40 damage. -10% to miss, minimum 0% before terrain.
+				Level 5: 40m + CHA mod range, Deals 45 damage. At player level 10, Deals 60 damage.
 			
-			Blur [50]: The target''s edges blur and melt into the background, 
-			causing opponents targeting them to miss more often. Target 
-			imposes a -(40+P.Lvl*3)% miss to anyone targeting them. While this effect is 
-			active, you cannot attack, use items or cast spells
+			Blur [20]: The target''s edges blur and melt into the background, 
+				causing opponents targeting them to miss more often. Target 
+				imposes a (40+P.Lvl*5)% miss to anyone targeting them. While this effect is 
+				active, you cannot attack, use items or cast spells. Spend 2 orbs to activate.
+				Level 3: Your movement speed increases by 2m per action during this spell.
 				Max Levels: 5
 			//dev note: this is the phaser sorcerer's panic button
 		
@@ -289,9 +356,29 @@
 			Push [30]: Nudge a medium sized target P.Lvl meters or a large 
 			sized target P.Lvl/2 meters (round up).
 				Max Levels: 5
+			
+			Bullet Storm [10]: A cascade of bullet-like Nanite shards is fired 
+				at the target. Target takes 20 + P.Lvl * 15 damage. Spend two orbs. 
+				Max Levels: 5
+				
 		//Level 5:
 			Dismiss Attack
 			//dev note: scrap this, it offers the same bad counterplay as counterspell
+			
+			Collect Power [40]: Interupt. Triggered if an enemy spellcaster 
+				uses a spell which affects at least two allies (including you)
+				within CHA meters of you, but which is not an area of effect spell. 
+				(i.e. if you and a nearby ally are being hit with chain lightning)
+				Cancel that multi-target attack. The attacker still pays for the 
+				nanite cost to launch it. You get 2 Orbs and lose your first half 
+				action on your next turn.
+				Max Level: 1
+				//DEV notes:
+				// This is the phaser's counter move
+				// Counters these spells:
+				// + Chain lightning
+				// + Arcane Storm
+				// + and certain NPC only attacks
 		
 		//Level 7:
 			Shift [60]: Move the ground underneath P.Lvl+1 medium sized 
@@ -310,6 +397,8 @@
 			you cast this spell. The enemy''s chance to hit you is 95. If 
 			their roll falls in the range of 46-95, you redirect the attack 
 			onto them.
+			//dev note: scrap this, too general
+			
 		//Level 11:
 
 		//Level 13:
@@ -337,7 +426,7 @@
 			continues to take damage. Cloud lasts P.Lvl turns. 20m range.
 				Max Levels: 5
 		
-		//dev note: needs panic button/mobility spel
+		//dev note: needs panic button/mobility spell
 
 			Invoke Fear [10]: Target is afraid of subject and will flee or 
 			cower for P.Lvl # of turns. Target''s Will Save DC is 30 + 10*P.Lvl
@@ -350,6 +439,17 @@
 				Max Levels: 5
 
 			Arcane Circle//protect against spells
+			
+			Consume Enchantment [20]: Half action. Dispell a persistant 
+				area-of-effect spell. Gain 40 nanites. Your next single-target 
+				attack deals an extra 30 damage.
+				Max Level: 1
+				//DEV notes:
+				// This is the consumer's counter move
+				// Counters these spells:
+				// + Summon Tenticals
+				// + Benevelent Zone
+				// + Malicious Zone 
 
 			Nanite Leach [10*P.Lvl]: Remove up to 10*P.Lvl nanites from 
 			opponent. If the opponent''s nanites are depleted, excess leech is 
