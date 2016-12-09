@@ -6,6 +6,9 @@
  * increasing physical combat effectiveness. Combat Suits on the
  * other hand offer better protection and many modular attachment 
  * points.
+ * Suits are frames require extensive training before use, the kind not offered
+ * to run-of-the-mill soldiers, mercs, detectives, bounty hunters and other
+ * skilled adventurers. Specific training must be taken before use.
  * Suits and frames are not water-proof, and will cease functioning
  * if fully submerged. They are resistant to water, so rain and
  * splashes of water will not affect them. However any amount of
