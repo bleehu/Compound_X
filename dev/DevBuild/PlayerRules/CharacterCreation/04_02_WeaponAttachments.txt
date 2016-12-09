@@ -112,12 +112,6 @@ IR flashlight $240
 Works well with IR goggles. Actually, it only works with IR goggles.
 30m visibility in dark with IR goggles.
 
-Bipod $200
-Requires one full action to deploy the bipod. user can diengage for a free 
-action. After disengaging, user must still take a full action to deploy. 
-Cannot be used with any foregrip or underbarrel weapon.
-Miss Chance -20%
-
 Red Laser $100
 Miss Chance -10% when Range <= 100m
 
@@ -168,6 +162,12 @@ Lower Rail attachments
 You may only choose one of these. You may not use a Bipod in conjunction with 
 any of these except the foregrips.
 ====================
+
+Bipod $200
+Requires one full action to deploy the bipod. user can diengage for a free 
+action. After disengaging, user must still take a full action to deploy. 
+Cannot be used with any foregrip or underbarrel weapon.
+Miss Chance -20%
 
 Vertical Foregrip $50
 Increase weapon stability.
@@ -229,20 +229,20 @@ Total mag price should be calculated by taking multipliers for extended mags
 first, then multipliers for special effect, then magazine accessories like 
 magpulls.
 ===================
-Extended Magazines 130% of original cost. $12 mags now cost $15, etc. Round Up.
+Extended Magazines $1.3x Mag cost. $12 mags now cost $15, etc. Round Up.
 Adds 30% magazine capacity to magazine/clip-based weapons. Revolver systems or
 rocket launchers, for example, are excluded.
 
-Hollow Point Magazine 1.5*mag cost
+Hollow Point Magazine $1.5*x ag cost
 Increases damage to targets +15/-15 for unarmoured/armoured.
 
-Armour Piercing Magazine 1.5*mag cost
+Armour Piercing Magazine $1.5x mag cost
 Increases damage to targets +15/-15 for armoured/unarmoured
 
-CS tipped Magazine 1.8*mag cost
+CS tipped Magazine $1.8*mag cost
 Inflicts a CS burn on hit, dealing d10/2 damage for 2 turns, +5 damage against robots.
 
-RMM Match Grade Ammo  2*mag cost
+RMM Match Grade Ammo  2x mag cost
 This high quality ammunition isn''t cheap, but it increases the consistancy of 
 your shots. -10% miss chance.
 
