@@ -1,0 +1,107 @@
+/*=============================================================================
+ * Infinity Complex Dungeon Guide
+ *
+ *
+ *===========================================================================*/
+ 
+//==============================
+// Dungeon Overview
+//==============================
+	
+	The Infinity Complex is part of a planet in sector 4 of the ECSC. It was built by the precursers as a means of autonomous soldier production, boasting the ability to produce arms, units, vehicles as well as ships for the precurser defence force to use.
+	The complex looks like a large mountian in the middle of a large temperate forest on one of the smaller continents of the planet. The mountain is in fact the complex. It is composed of 6 arms, each with a specific purpose. One arm for each of the 4 production categories, one which containing a Vault for advanced technologies, and one for cryogenic storage.
+
+	//--------------------
+    // Enemies
+    //--------------------
+    	The complex features a mixture of enemy types. Players will first encounter Atelsikor scout units that have infiltrated the complex and are looking for the control rooms for production as well as a few specific weapons and items from CryoStor and the  Tech Vault.
+    	Additionaly, some arms of the complex will have robotic units that have woken to defend the complex and are in the process of purging all hostiles.
+    	Further into the complex, players will start to encounter Astral Wraiths, their hounds, and their Shade minions. 
+
+    //--------------------
+    // Sections
+    //--------------------
+    	The complex has six arms. Each arm has the following subsystems and various rooms to support them: 
+    		- Generator / Power (Geothermal / nuclear): 
+    		- Atmosphere controls: 
+    		- Hydrolic pump station: 
+    		- Waste Center: 
+    		- Water Center: 
+    		- Garrison - main: 
+    		- Garrison - Entry guard: 
+    		- Map room: 
+    		- Control Room: 
+    	The arms will be structured in the following manner:
+    	Generators will be on in the middle of each arm, with a floor above them and a floor below them. Manufacturing will be closer to the center of the mountain and will occupy all three floors. Atmosphere controlls will be on the bottom floor away from the center. Hydrolic pump will be under the power station. Entry garrison is on the top floor far from the center. Main garrison will be on the bottom floor nearish to atmo and water / waste. Map room will be nearish to the center on the top floor. Control room will be by the manufacturing.
+    //--------------------
+    // Other Rooms
+    // rooms are made up of tiles, each 5mx5m
+    //--------------------
+    	Each arm has various other rooms for doing things:
+    		- Small storage: 3x3 tiles
+    		- Medium storage: 5x5 tiles
+    		- Large storage: 7x7 tiles
+    		- Security room: 2x3 tiles
+    		- Small chamber: 5x5 tiles, circular. Indentation in middle with arena-style seating.
+    		- Medium chamber: 7x7 tiles, circular. Indentation in middle with arena-style seating.
+    		- small living quarters: 1x3 tiles, beds sunk into the walls with storage built in under the beds and in the walls between beds.
+    		- medium living quarters: 2x7 tiles, beds sunk into walls, chests along the center of room.
+    		- mess hall: 7x5 tiles, lots of tables with a raised platform at one end of the room that has a long table on it and a podium at the front which can raise/lower from the platform.
+    		- bathroom: 2x2 tiles, stalls.
+
+//==============================
+// Arm 1: Ship Production
+//==============================
+    This arm is responsible for creating ships to fill the battle fleet. Carriers, destroyers and fighters are all produced here.
+    //--------------------
+    // Encounters
+    //--------------------
+
+//==============================
+// Arm 2: Cryogenic Storage
+//==============================
+    This arm stores biologic entities.
+    //--------------------
+    // Encounters
+    //--------------------
+
+
+//==============================
+// Arm 3: Weapon Production
+//==============================
+    This arm creates the vast amount of weapons and ammo needed to sustain the armies of the precursors.
+    //--------------------
+    // Encounters
+    //--------------------
+
+
+//==============================
+// Arm 4: Unit Production
+//==============================
+    This arm spawns the vast armies of the precursors: robotic units which are devastating as a group, but might be less than capable on their own.
+    //--------------------
+    // Encounters
+    //--------------------
+
+//==============================
+// Arm 5: Vehicle Production
+//==============================
+    This arm manufactures the vehicles used by the armies. Tanks, land and air transport.
+    //--------------------
+    // Encounters
+    //--------------------
+
+//==============================
+// Arm 6: Technology Vault
+//==============================
+    This arm contains a large warehouse which has many experimental and advanced technologies locked away.
+    //--------------------
+    // Encounters
+    //--------------------
+
+//==============================
+// 
+//==============================
+    //--------------------
+    //Sub-header
+    //--------------------
