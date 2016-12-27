@@ -41,7 +41,7 @@ Prevents the inhalation of noxious or toxic air-borne compunds. Reduce PER
 based rolls (including strike rolls) by 10.
 
 //===================
-//consuables
+//consumables
 //===================
 
 MarkAll(tm) permanent marking pen. $2
