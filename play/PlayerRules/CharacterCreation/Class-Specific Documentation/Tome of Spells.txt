@@ -9,6 +9,7 @@
 		strength. Potential uses include sensing what the most powerful piece 
 		of tech is, relative tech strengths of multiple objects, or discerning 
 		possible manufacturer of tech.
+		//dev note: "works like sixth sense" ... which is how exactly? Or where would one look this up?
 	//Level 3:
 		Dispell
 	//Level 5:
@@ -166,7 +167,7 @@
 			P.Lvl meters away. Make up to P.Lvl + 1 jumps.
 				Max Points: 5
 		//Level 7:
-			Non-Lethal Field [100]: Create a circle Char meters in diameter. 
+			Non-Lethal Field [100]: Create a circle Charisma meters in diameter. 
 			For P.Lvl turns, treat any incoming damage as non-lethal. 
 			Recieving a total of non-lethal damage equal to your health will 
 			cause your character to become unconcious, but does not cause your 
@@ -174,6 +175,25 @@
 			11-Fort rounds, minimum 1 round. If you recieve a number of 
 			non-lethal damage equal to twice your health, the "downed" 
 			condition is imposed on you.
+			
+			Polaric Well [20]: Pick a target within 4 * CHA meters of you with a 
+				sheild. Roll to hit them with nanites which hyperpolarize their sheilds.
+				DC 20 to hit. All sheilded entities within INT meters of your origional 
+				target must make a FORT save with DC 60. Each entity that fails is pushed
+				[strength mod] meters toward your origional target. The initial target must 
+				be within line of sight of you, but the attraction feild's effects goes through walls. 
+				The attraction feild does not go through mag-lev tanks, large metal objects such 
+				as a car or through spaceship hull plate. It will penetrate a dumpster or 
+				oil drum. It will not pull a sheild door off of the wall, but it may break it
+				at the GM's discression. Typical slam damage from this attack propelling
+				targets into each other or into walls is 2d10 per square of forced 
+				movement into an unmoving object (but this is also at the GM's 
+				discression). 
+				Spell Point 2: Fort save DC increases to 75
+				Spell Point 3: Range to initial target increases to 5 * CHA
+				Spell Point 4: Fort save DC increases to 100
+				Spell Point 5: Vehicles may be the inital target regardless of sheilding.
+					Large vehicles are easier to hit and have a DC to hit of 5.
 
 		//Level 9:
 			Improved Mage Armour [X]: Gain a nanite shield. Shield = [X nanites
