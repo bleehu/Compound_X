@@ -150,6 +150,7 @@
 				Max Points: 5
 
 			Barricade//hold door closed
+			Detect Wounded [8]: If 
 
 		//Level 3:
 			Mage Armour [X]: Gain a nanite shield, 100% coverage of body. 
@@ -166,6 +167,17 @@
 			Chain Lightning [50]: Hits target, plus can jump to any one target 
 			P.Lvl meters away. Make up to P.Lvl + 1 jumps.
 				Max Points: 5
+			
+			Shocking Betty [20]: You place a globule of electric nanites on a flat 
+			surface. The next time you end your turn and an enemy is within 3m of 
+			the globule, and the globule has Line Of Sight with that enemy then it
+			detonates. When it detonates, every entity within 5m of the globule 
+			takes 3*INT points of electric damage. Every entity within 5m of entities
+			that took 30 damage that haven't already taken damage also take damage.
+				2 Points: Targets that get shocked must pass a DC 40 Fort save or 
+					be stunned for a turn.
+				3 Points: 
+			
 		//Level 7:
 			Non-Lethal Field [100]: Create a circle Charisma meters in diameter. 
 			For P.Lvl turns, treat any incoming damage as non-lethal. 
