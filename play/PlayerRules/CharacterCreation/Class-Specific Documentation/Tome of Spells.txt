@@ -69,6 +69,13 @@
 		//Level 5:
 			Arcane Storm [60]: Fire P.Lvl +1 # of Arcane Blasts.
 				Max Points: 2
+			
+			Ember Shards [60]: Launch dozens of sharp burning nanite fragments
+				toward a target. May be sustained on subsequent turns for 5 nanites
+				and a full action. While sustained, target is pinned. 35% chance to miss,
+				on hit, target takes 30 fire damage and ongoing 20 fire damage for 
+				2 turns. Burn does not stack, but takes the largest of the two numbers.
+				
 		//Level 7:
 			Dragon''s Breath [50]: You breath fire, dealing any enemy within
 			20m of your mouth 40 Fire damage, and 3 rounds of P.Lvl # Burn 
@@ -161,12 +168,31 @@
 				//dev note: this is the tactician mage's panic button
 				
 			Service Weapon//increase select weapon stats by 5% for some time
+				// Dev note: this is already an engineer spell. Some redundancy is ok, just make sure it's deliberate.
 
 			Silence
 		//Level 5:
 			Chain Lightning [50]: Hits target, plus can jump to any one target 
 			P.Lvl meters away. Make up to P.Lvl + 1 jumps.
 				Max Points: 5
+			
+			Reversal [15]:
+				May be cast on an enemy's turn as an immediate reaction at the cost
+				of a half action on the caster's next turn. Triggers when an enemy casts 
+				a spell which forces movement in an area CHA meters from you. 
+				The enemy caster must make a FORT save opposed by your INT and DEX.
+				If he succeeds, cancel the forced movement part of his attack. If he fails,
+				apply each forced movement on the enemy caster. If multiple units were
+				forced to move through your area, apply these forced movements in the
+				order you see fit. If the enemy's spell would deal damage as well as 
+				force movement, the damage is applied as normal.
+				//Dev note: this is the tactician's counter spell.
+				Counters: 
+					Polaric Well
+					Push
+					Shift
+				Does not counter:
+					Fear
 			
 			Shocking Betty [20]: You place a globule of electric nanites on a flat 
 			surface. The next time you end your turn and an enemy is within 3m of 
@@ -439,6 +465,7 @@
 			enemies P.Lvl meters (Large sized enemies count as 2 medium sized 
 			enemies).
 				Max Points: 5
+				
 		//Level 9:
 			Redirect Attack [75]: Prevent an attack from landing. Add 50% to 
 			your cover score for 1 turn. Attacks that fall into this 50% range 
