@@ -45,6 +45,7 @@
 			Arcane Blast [40]: Deals 40 + P.Lvl turns C.S. Burn. 70m range, 
 				acurracy is 40% (INT base)
 				Max Points: 5
+				
 			Fireball [40]: Deals 40 + P.Lvl #of  Burn damage to a single 
 				target. Burn damage lasts for 2 turns. or until extinghuished. 60m 
 				Range, Acurracy is 40% (INT base)
@@ -58,7 +59,7 @@
 				not flamable and is routed to the ground where the caster was 
 				standing with the strength of cement. If destroyed, the shell 
 				no longer adds any protection and the caster is unstuck. Entomb 
-				can only be cast on the caster.
+				can only be cast on the caster. Half action to cast.
 				Spell Point 1: Nanite shell has 400 health.
 				Spell Point 2: Nanite shell has 600 health. Nanite shell may be used as partial cover for allies.
 				Spell Point 3: Nanite shell has 700 health and may be canceled at the 4th Full action.
@@ -69,18 +70,28 @@
 		//Level 5:
 			Arcane Storm [60]: Fire P.Lvl +1 # of Arcane Blasts.
 				Max Points: 2
+			//dev note: more than a quarter of your nanite pool for a 3-round burst of arcane blasts is a little steep, isn't it?
 			
 			Ember Shards [60]: Launch dozens of sharp burning nanite fragments
 				toward a target. May be sustained on subsequent turns for 5 nanites
 				and a full action. While sustained, target is pinned. 35% chance to miss,
 				on hit, target takes 30 fire damage and ongoing 20 fire damage for 
 				2 turns. Burn does not stack, but takes the largest of the two numbers.
+				Half action for initial cast.
+					1 Point:	3 * CHA meter range
+					2 Points: 	50 initial fire damage on hit
+					3 Points:	5 * CHA meter range
+					4 Points:	20% chance to miss
+					5 Points:	ongoing damage lasts for up to 10 turns.
 				
 		//Level 7:
 			Dragon''s Breath [50]: You breath fire, dealing any enemy within
 			20m of your mouth 40 Fire damage, and 3 rounds of P.Lvl # Burn 
 			damage. DC 50 Reaction Save.
 				Max Points: 5
+				// dev note: consider making this a cone, as opposed to a close blast
+				// 20m!?!
+		
 
 		//Level 9:
 			
@@ -116,8 +127,11 @@
 			Weapon Malfunction [30]: Force a target''s weapon to Jam. DC = 50 -
 			P.Lvl*10
 				Max Points: 5
+				//dev note: this is effecively a counter move against enemies with guns.
+				
 		//Level 5:
 			Influence Mind
+			
 		//Level 7:
 			Circle of Lightning [50]: All targets in a 18m circle are hit with 
 			thousands of volts of electricity. Deals 10 * P.Lvl +20 damage + a 
@@ -125,7 +139,7 @@
 			P.Lvl.
 				Max Points: 5
 
-			Weaoon Overload [50]: Magazine of target''s weapon is overloaded 
+			Weapon Overload [50]: Magazine of target''s weapon is overloaded 
 			and explodes. Deal damage equal to the weapon''s damage. Magazine 
 			is destroyed. DC = 100 - P.Lvl*10
 				Max Points: 5
@@ -416,7 +430,7 @@
 			//dev note: this is the phaser's basic attack
 
 			Launch Orb [0]: Spend one orb. You launch it at an enemy. If it hits, it burns them with
-				the spite of your nanite power. 40% - Perception modifier to miss. Takes A half
+				the spite of your nanite power. 30% - Perception modifier to miss. Takes A half
 				action to launch. 
 				Level 1: 15m + CHA modifier range, Deals 30 damage
 				Level 2: 20m + CHA mod range, Deals 35 damage
@@ -465,6 +479,24 @@
 			enemies P.Lvl meters (Large sized enemies count as 2 medium sized 
 			enemies).
 				Max Points: 5
+				
+			Shatter Orbs [25]:
+				Remove all of your orbs. They fly into sharp fragments in all directions
+				up to INT meters around you. All enetities in that range whom you have
+				Line of Sight with must make a REF saving throw of DC 
+				50 + (2 * DEX) + (5 * character level). If they fail, they take 20 damage
+				for each orb this attack cost you. If they succeed, half damage. Half 
+				Acton to cast.
+				
+			Go Deep [10]:
+				You launch an orb as far as it will go. The base range for this attack is 
+				the range of your Launch Orb Attack. 30% - perception modifier to 
+				miss. Half action to launch. On hit, deals 50 damage
+				1 point:	Add 20 meters to range
+				2 points:	Add 40 meters to range
+				3 points:	20% base to-miss percentage
+				4 points:	
+				5 points:	
 				
 		//Level 9:
 			Redirect Attack [75]: Prevent an attack from landing. Add 50% to 
