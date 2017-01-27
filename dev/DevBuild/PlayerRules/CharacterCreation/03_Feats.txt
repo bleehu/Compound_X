@@ -324,7 +324,7 @@ is taken, you may choose to add one of the following onto your suppression
 
 Tele-Cast
 Prerequisites: Paladin, Sorcerer, Mage.
-You may use a mellee weapon to perform touch effect spells.
+You may use a melee weapon to perform touch effect spells.
 
 Toughness: 
 Prerequisites:
