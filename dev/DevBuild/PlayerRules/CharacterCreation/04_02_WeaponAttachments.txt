@@ -56,7 +56,7 @@ Miss Chance -10%
 nx Magnifier for Dot Scopes $n*200
 A basic magnifying tube capable of increasing the effective range of a weapon. 
 Flips out of the way for a half action.
-Must be paired with a dot sight.
+Must be paired with a reflex/projector/dot sight.
 Range + (n*20)
 
 3.2x Scope $250
@@ -337,7 +337,7 @@ chambering a round is treated as a free action.
 Standalone Grenade Launcher $600
 A polymer and metal frame to mount an underbarrel grenade launcher. Allows use 
 of an underbarrel grenade launcher as a secondary weapon, freeing up the 
-underside of a primary for other attachments.
+underside of a primary for other attachments. The SGL can make use of sights up to 4x, aiming assistance, and slings.
 
 //===================================================================
 //Copyright 2016 Taylor Rowland
