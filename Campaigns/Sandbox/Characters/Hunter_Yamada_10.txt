@@ -1,66 +1,197 @@
-Name: Saburo Kyo, Yamada
-Description of Attitude, demenor, etc:
+/*
+    Name: Katsuro, Yamada "Katsune"
+    Player: Taylor Rowland
+*/
+Description of Attitude, demeanor, etc:
+    Backstory:
+        A young and on the rise bounty hunter begins to deal with
+        transitioning from the life of being the son of a wealthy merchant
+        clan to being an interstellar renowned bounty hunter and detective.
+        Underlining this outward transmission is an internal struggle as he deals
+        with leaving behind his partner of several years after his new
+        lifestyle drove her away. His drive for success and prominence in
+        this field is an epiphany he had one night, that only by taking
+        action can one right the wrongs done on a daily basis. After years of
+        watching his father''s company grow into an inter-sector crime
+        syndicate and the strife this brought on the people victimized by its
+        activity Yamada decides to dedicate his life to training to bring it
+        down.
+
+    Morality:
+        Yamada is a very good aligned character. He sympathizes with those who
+        feel little control over their lives, and seeks to achieve control of
+        his.
+
+    He starts at level 1 just beginning to step into the adult world and
+    hungry to prove his worth. He is driven by his desire to practice his
+    trade and achieve expertise. A cautious thinker and determined combatant
+    Yamada trains hard to utilize his superior wit to out-think his opponents.
+    This cunning and his traditional Japanese look have earned him the nickname
+    "Katsune". Since then he has begun to wear a red fox kabuki mask.
+    As he matures in his field and starts to make a real life for himself an
+    opportunity appears which would aid him greatly in his quest to right the
+    wrongs of his family: an invitation for an interview to train with a
+    master in the arts.
 
 
-Physical Description:
-Wears a grey hakima, matching grey hooded cloak, black gi-top with red/white clan emblem. Kabuki mask is black, with details in white and red, and finer details in grey. 
+
+Clothes:
+Medium grey cloak (cloaking suit) worn over a black Hakima and red Kimono top.
+He wears a full-seal fox kabuki-mask which is magnetically attached to his
+hood and to his face. The mask bears a slight snarl and is white with red
+detail around the eyes, mouth, and the ears. The mask is controlled by a smart
+reactive system which monitors Yamada''s body, giving him information about
+his vitals and inventory. The mask features LCD eyes which portray the emotion
+on Yamada''s face, and a jaw which lowers to allow for better respiration when
+Yamada''s heart rate increases. Additionally the mask pairs with Yamada''s
+augmented processing by feeding it more accurate sensor data. It has also been enhanced with IR vision and Atmosphere Filtration modules.
+Weapons:
+Yamada trains extensively in Shorinji Kempo and Iaido, preferring to fight
+with a Katana or fists when it comes to close-quarters. When extreme pressure
+is at hand, he uses his heavily modified Plas-Disc sub-machine gun, a
+converted pistol fitted with a carbine kit and automatic receiver. Due to the
+smaller magazine size, Yamada must reload often and has gotten used to making
+sure each shot counts.
+https://www.pinterest.com/pin/460704236855870875/
+
 Cyborg:
-Speed Geared Fine Motor Controls, +1 DEX; Neural Implant, +1 INT; Occular Augmentation, +1 PER;
+Speed Geared Fine Motor Controls, +1 DEX; Neural Implant, +1 INT; Ocular
+Augmentation, +1 PER;
 50% damage increase from electrical damage.
+Yamada has upgraded his forearms with carbon-fiber reinforced bones, as well
+as linear-actuator assisted finger controls which grant him a high degree of
+dexterity and strength with his hands. This is controlled and assisted at high
+speed by his implanted neural processor.
 
-$3865 + $1000/level = 12865
-
-Class: Hunter [2]
+Class: Hunter [1]
 Health: 100
-Nanites: 120
-Armor type: 
-Percent Hit: 
-D.R. 
+Nanites: 60
+Armor type: Clandestine Ops Kit and Intermediate Cloaking Suit with custom
+Kabuki Full-Seal environment mask.
+Percent Hit: 35% body, 40% head (100% face)
+D.R. 15 Body, 10 Head
+    Cloaking Stats:
+    10 nanites per round, Cloak DCs: 75%. Wearer need only expend nanites on a
+    turn where they perform actions. +30 nanite pool for cloaking.
+    30%, 5 DR
+Cloak Pool: 80/80
 Nanite Health: N/A
-Speed: 
+Speed: 10 meters
 ==STATS==
-STR || 6 +4
-PER || 9 +16
+STR || 4 -4
+PER || 7 +8
 FOR || 5 +0
-CHA || 6 +4
+CHA || 5 +0
 INT || 7 +8
-DEX || 7 +8
+DEX || 11 +24 (10 movement)
 LUK || 5 +0
 ========
 SAVING THROWS:
-WIL || 10
+WIL || 8
 SHK || 12
-REF || 20
+REF || 24
 ========
 Weapons:
 ========
-Primary Name: 
-Range: 
-Percent Hit: 
-Damage: 
+Mini Plas Disc SMG $4405 / $10
+135m/185m
+10% (-14% with DEX+, -24% with snap-shot)
+13 / 13 rds
+7 / 7 mags (3 in leg rig)
+60
+Plasma Burn
 
-Misc.:
+SGL (Standalone Grenade Launcher) $2265 / $60
+60m
+10%
+1 / 1
+2 / 2 grenades
+70 Explosive, 5m diameter
 
-
-Secondary Name: 
-Range: 
-Percent Hit: 
-Damage: 
-Misc.:
-
+Muzashi CS Edged Katana: $455
+2m
+20% (-4% with DEX+)
+106
+Inflicts CS burn: d10/2 damage for 2 turns, does not stack. +5 dam
+against robotic units.
 
 Feats:
-Bulltrue: Enemy moving from 4m towards you can be fired upon as a free action. If they are bloodied as a result, they may not make a melee attack on you.
-Weapon Skill Tree: Shotgun Surgeon I: -10% armour; if no armour +5 damage
+Hands of an Artist
+    Use DEX instead of PER for all weapon checks.
+Gunsmith
+    Combine two weapon conversions.
+Conceal Weapon
+    Ability to roll to conceal an smg, pistol or shotgun. minimum 20
+Snap-Shot
+    -10% to enemies within half your effective range.
+Highlight Target [10]
+    Marked target takes 10 additional damage from allies and is 25% easier to
+    perceive by allies. Allies that take a half action to perceive the target
+    (rolling against target''s cover DC + 25) and succeed are granted a +5%
+    accuracy bonus against them. Once per encounter, Lvl number of uses per
+    day.
 
+/* planned
+Signature move (Iaijutsu), quickdraw -10% miss strike with sword.
+Quickdraw
+First Shot
+Last Shot
+Sixth Sense
+*/
 
+//L6
 Skills:
-Tracking - 20
-Weapon Use [Exotic] - 10
-Stealth - 14
-Lockpicking - 10
-Decieve - 10
-Knowledge [Criminal] - 10
+Tracking - 10
+Weapon Use [Exotic] - 30
+Medicine - 20
+Stealth - 34
+Unarmed [Trained] - 10
+Deceive - 25
+Knowledge [Criminal] - 15
 
 Inventory:
+$161
+2 Medkits
+5 HD Zip-Cuffs, STR DC 95 / INT DC 105
+1 Black MarkAll
+1 Silver MarkAll
+
+Mini Plas Disc SMG $4405 / $10
+    +$800 Lightened Machining Slide, DEX/3 shots per HA
+    +$860 Pistol Carbine kit, ability to mount up to 4x optics, lower rail
+        accessories. +50m range
+    +$125 1.2x PHP, -10%, +5m
+    +$500 2.5x magnifier, +50m half action to toggle.
+    +$100 Heavy Barrel, -10% STR+1
+    +$50 Muzzle Brake, -5%
+    +$100 AFG, -10%
+    +$150 1-PS, STR-1, holstering is a free action.
+    +$30% mag, +30% rounds.
+
+SGL (Standalone Grenade Launcher) $2265 / $60
+    +$600 Kit
+    +$100 GL-Irons -10%
+    +$100 Red Laser -10%
+    +$100 two point sling -5%, STR-1
+
+Muzashi CS Edged Katana: $455
+
+$3750 + ($1000*5)+($2500*1) = $11250
+-$7125 Weapons
+=$4125
+-$2100 Cloak
+=$2025
+-$220 C-Ops kit
+-$380 mask
+-$60 leg rig
+=$1365
+-$300 Night Vision helmet enhancement
+-$400 Atmosphere filter helmet enhancement (gas mask) (more expensive in
+    order to negate the -10% perception, using rule of weapon attachment $100
+    per 10% buff)
+=$665
+-$200 2x medkits
+-$300 HD Zip-Cuffs (5)
+-$4 MarkAll black and silver felt-tipped ink pens
+=$161
 
