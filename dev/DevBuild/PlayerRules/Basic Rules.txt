@@ -46,7 +46,7 @@ every level 2*int skill points,
 every 5th level +1 stat point, +1 Class feat
 On levels 5, 9, 15 and 20, the stat point increase happens before any 
 calculation, so if you had 10 int, and increased to 11, you would get 22 skill 
-points for the level.
+points for the level. Additionally, any stat point alteration forces a recalulation on all affected values.
 
 ╔═══════╦══════════╦═══════╦════════════╦════════════╦═══════════════╗
 ║ Level ║ Skill P. ║ Feats ║ Class Feat ║ Stat Point ║ Feats (9 CHA) ║
