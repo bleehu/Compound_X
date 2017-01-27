@@ -8,7 +8,7 @@
 Acrobatics: Rolling and tumbling come naturally to you. Useful for dodging, 
 jumping, balancing, and other fine body-control.
 //Per
-Awareness: your character''s passive perception skill including all 6 senses.
+Awareness: your character''s passive perception skill including all 6 senses. This differs from being able to look intently for something particular (Search).
 //Cha
 Deceive: You use your silver tongue to talk your way through situations with 
 ease.
@@ -67,6 +67,8 @@ skill addition.
 
 Repair kits: add 30 to the percentage to roll under. Then add 30 to the points 
 repaired. No negative if failed.
+//Per
+Search: Looting things and ransacking offices is something you''re quite fond of. Also helps whenever you are looking for something particular, rather than just sweeping the area for something of note (Awareness).
 //Per
 Sniping: You have a background going hunting with your dad, or maybe you went 
 to marine scout / sniper school. Who cares. If it moves, breathes or thinks, 
