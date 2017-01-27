@@ -164,7 +164,7 @@ Stat Modifiers: 40 point pool.
 Languge: ECSC Standard
 
 Racial Traits:
-Pick any three augments (you may take a single augment no more than 3 times, 
+Pick any three augments (you may take a single augment no more than 2 times, 
 or a combination of multiple augments. For example Occular Augment and Speed 
 Geared Fine Motor Controls II might help a mellee fighter increase both damage 
 and hit chance.):
