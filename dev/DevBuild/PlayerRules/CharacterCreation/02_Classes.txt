@@ -257,7 +257,7 @@ V
 The Trail becomes bright against a monochrome background of edged shades of 
 grey. +75% to a tracking check, or maximum 2 turns to pass.
 ----------------------
-Highlight Target:
+Highlight Target: (Perception checks do not include checks to hit target. But by using a perception check for a half action to see where the target is and passing the target''s Cover DC+25 the player may recieve a +5% / +10% accuracy bonus.)
 Expend 10 nanites to mark a target. All damage dealt by allies to this target 
 is increased by 10, and any perception checks are 25% easier to pass. Use once 
 per encounter. Maximum of Level number uses per day. Lasts for duration of 
