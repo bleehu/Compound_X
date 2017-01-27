@@ -8,6 +8,7 @@ against robotic units.
 //============================================================
 
 CS Edged Circular Saw $520
+Requires strength 5
 Adjacent
 35%
 65 + CS Burn
@@ -28,12 +29,14 @@ damage to your opponent.
 7 * (STR or DEX)
 
 Muzashi CS Edged Katana: $455
+Requires "Weapon Use [Exotic]" to recieve an bonuses to strike, and requires STR 4 to use.
 2m
 50%
 40 + (6*DEX)
 Inflicts CS burn
 
 Plasma Sword: $560
+Requires Weapon Use [Exotic] and STR 4
 This sword emits a steady beam of plasma which can cut through almost anything 
 except titanium and stronger metals, stone, Nanite Shielding.
 2m
@@ -41,6 +44,7 @@ except titanium and stronger metals, stone, Nanite Shielding.
 40 + (6*DEX) + Plasma Burn
 
 Chain whip $500
+Requires Weapon Use [Exotic] and STR 4
 3m
 40%
 8 * DEX
@@ -111,8 +115,8 @@ Fires a concentrated stream of high-velocity particles.
 ============================================================
 Sub-Machine Guns:
 Capable of high rates of fire, but utilizing lighter calibers than a 
-traditional combat rifle. Fire DEX/2 shots per full turn, rounding down. (DEX 5
-= 2 shots, DEX 8 = 4 shots) Maximum LVL + 1.( All SMGs are considered CQB 
+traditional combat rifle. Fire DEX/3 shots per Half-Action, rounding down. (DEX 5
+= 2 shots, DEX 8 = 3 shots) Maximum LVL + 1.( All SMGs are considered CQB 
 weapons)
 Minimum Strength 4, Reload DC 25% unless otherwise noted. Reload time 2 Half 
 Actions. Jam range 2%
