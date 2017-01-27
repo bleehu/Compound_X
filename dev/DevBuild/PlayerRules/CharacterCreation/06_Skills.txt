@@ -1,4 +1,9 @@
-Skills List
+/*=============================================================================
+ * Skills List
+ * This document lists all the skills used in Compound_X. Skills augment your
+ * natural ability. Anyone who is strong enough can kick in a door, but if you
+ * are specially trained, you can much more effectively accomplish the task.
+ *===========================================================================*/
 //Dex
 Acrobatics: Rolling and tumbling come naturally to you. Useful for dodging, 
 jumping, balancing, and other fine body-control.
