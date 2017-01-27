@@ -271,7 +271,7 @@ is increased by 20, and any perception checks are 50% easier to pass. Use
 twice per encounter. Level number of uses per day. Lasts for the day.
 
 //needs work
-"Paladin" - You are a righteous warrier, vetted and trained by one of the 
+"Paladin" - You are a righteous warrior, vetted and trained by one of the 
 powerful corporations or some other technologically advanced entity. You seek 
 to uphold the principals which define the group you''ve sworn allegience to. 
 Through this devotion you have been granted access to high tech in order to 
