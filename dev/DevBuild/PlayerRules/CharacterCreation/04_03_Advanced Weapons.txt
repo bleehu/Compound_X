@@ -50,6 +50,18 @@ Requires Weapon Use [Exotic] and STR 4
 8 * DEX
 
 ============================================================
+Grenades:
+All grenades require an explosives skill of at least 10 to use.
+Targets can roll a luck or perception check at 95% in order to dodge.
+============================================================
+
+Frontier Plasma Grenade: $150
+35m
+65% to land where intended and 95% to hit
+65 + 2 * plasma burn within 3m
+20 + d10 + 2 * plasma burn within 5m
+
+============================================================
 Pistols:
 (All pistols are considered CQB Weapons)
 Minimum Strength 2, Reload DC 20 unless otherwise noted. Reload time 2 Half 
