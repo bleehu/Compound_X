@@ -79,6 +79,11 @@ Un-percievable damage?
 
 
 //==============================
+// Skills / Feats
+
+Drop Shot: Use the Full Action to hunker or the half action to go prone to aim at your opponent. Also stabilize your shots from this posture, -10% to hit
+
+//==============================
 // Weapons
 
 Noisey Cricket gun. Very expensive, lots of damage, not available to melee classes and warlocks
