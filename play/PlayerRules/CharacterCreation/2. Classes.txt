@@ -465,7 +465,7 @@ due to the use of a high-power scope. However, you will have to make a reflex
 save to fire at any targets that fall inside the traditional "minimum" range, 
 so be sure to note what that range is.
 Weapon Proficiencies: Long rifles, Pistols.
-Armour Proficiencies: Recon, Light, Concealed.
+Armour Proficiencies: Recon, Light, Concealed, Cloaking.
 Starting Wealth: $1700+100*Luck + 2000
 Class Feats:
 ----------------------
