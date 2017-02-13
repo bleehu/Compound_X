@@ -339,7 +339,7 @@ in extra Nanites, or take the average of the result (1d10 = 5, 2d10 = 10, can
 be taken twice).
 
 Unconventinal Warfare:
-Prerequisites: Any feat > 9, combat style must primarily use this stat.
+Prerequisites: Any stat > 9, combat style must primarily use this stat.
 You are trained in the art of combative tossing, or some other obscure 
 fighting technique
 
