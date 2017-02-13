@@ -11,10 +11,6 @@ GM IDEAS
 
 //=============================
 //  To Work on:
-//      Engineer - Mike
-//      Paladin - Basics in lace, testable
-//      Priest - testable
-//      Marksman - Notes on additions
 //      Melee Customization - Need to completely think out
 
 
@@ -130,6 +126,37 @@ Bolt-Action. Integrated Level 2 flash and sound suppressor makes the gun whisper
 
 Vorpel Rounds $200+mag cost
 	On a roll of a natural 96-100, instead of dealing extra-crit damage, the shooter scores a headshot, removing the head of the target. If the target would normally die from losing its head, it does so.
+
+//==============================
+// Weapon Attachments
+// Any combination of 2 types of efffects. If you combine 3 or more effects, 
+// you must have a downside per extra effect.
+	Weapon Trophies:
+
+		- 30%, $600; $20 per percent point
+		- Special effect, minor: $200
+		- Special effect, major: $500
+
+		//Small effects
+		Special Effect, Minor: (10% buffs)
+			Nanite leach, 10
+			Crit-Range -10% 
+
+		//Once per encounter abilities
+		Special Effect, Major: (Consumed even when unsuccessful, unless otherwise spcified)
+			Damage Cone: 
+				For Lasers, Plasma and Beam weapons, the weapon emits 
+				a qunitouple wide beam or projectable. On a successful hit, 
+				deal extra crit damage to primary target as well as any 
+				adjacent targets.
+				"A starburst of Energy errupts from the barrel and any lighting effects glow brightly. A single, large projectile is emitting, hitting nearby enemies."
+			Automatic Success:
+				One shot of automatic success.
+			Soul Cage: Charge up for 1-Half-Action before firing. On hit, enemy is pinned in their place for 1 turn. Deal 50 piercing damage, regardless of armour.
+				"A Luminescent arrow is sent from your weapon, piercing your opponent and pinning them to the ground or wall near them."
+
+
+
 
 //=============================
 // Characters
