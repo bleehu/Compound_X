@@ -608,6 +608,13 @@ in this manner is considered to take a half action, plus a half action for the
 skill check. Monks still receive a penalty attack for performing a skill check 
 in melee combat.
 
+"Alchemist"
+Mech summoner / P otions master
+Passives: Repair/Tinker - 10 or ; +50 nanites.
+Weapon Profs: Pistols, SMGs, Shotguns, Carbines.
+Armour Profs: Recon, Light, Medium.
+
+
 
 /*
 Scoundrel
