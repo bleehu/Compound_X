@@ -1,0 +1,59 @@
+/*=============================================================================
+ * Player Progression: Considerations and ideas.
+ *
+ *
+ *===========================================================================*/
+ 
+//==============================
+// Money
+//==============================
+
+	Money is, unfortunately, one of the major driving forces of the galaxy. players should recieve ample compensation for their troubles. A general rule of thumb is that the challenges presented scale considerably with level. I would suggest a salary of $1,000 for levels 1-5, $5,000 for 6-10, $25,000 for 11-15, and $100,000 for 16-20. Jumping in at a higher level, the starting cash can be drawn from a table below, which takes several factors into account.
+
+	//--------------------
+	// How much to spend?
+	//--------------------
+		Characters need about $1000 to live comfortably per month. $500 to live in poor conditions. These estimations include lodgings, food and other expenses like communicater subscription or other basic essentials. Additionaly (depending on the power of the weapon), about $100-$650 will be spent on ammo, grenades and other consumables per encounter. For jumping into a campaign at a higher level, we''ll assume that the player had, up until then, lived a modest lifestyle, spending low early, and a little more with each jump in progression.
+		For lower level characters this might mean they have as little as $200-$300 to spend on upgrading their weaponry. For mid-level characters, as much as $3000 could be estimated available for upgrading weapons. At higher levels, you will probably have enough money to buy what you need.
+		Armour is more of an afterthought for low-level characters, but I would caution that they don''t skimp at character creation, because your armour might not scale at the same rate as your enemies. As soon as possible, upgrade to a Carbon-Steel Fiber armour, minimum. By level 10 you should definitely have a Capacitive Shield, so make sure to save up at least $2500 for the basic one; Atelsikor and Necrophages use Plasma weaponry, and some Demons use Lasers.
+
+		The following represents amounts of starting cash leftover for weapons at the given level. This list assumes a purchase of 300$ at level 1 for armour and other essential gear, and a $3000 purchase at level 10 for shields and other essential gear. Each level has taken into account ~$1000 per month (with the assumption that each level is held for a month) for food and lodging.
+			 1:$2000
+			 2:$2000
+			 3:$2000
+			 4:$2000
+			 5:$2000
+			 6:$5500
+			 7:$9000
+			 8:$12500
+			 9:$16000
+			10:$16500
+			11:$39500
+			12:$62500
+			13:$85500
+			14:$108500
+			15:$131500
+			16:$229500
+			17:$327500
+			18:$425500
+			19:$523500
+			20:$621500
+
+//==============================
+// Challenge and Enemy Types
+//==============================
+
+	//--------------------
+	// Enemies
+	//--------------------
+
+	As characters proceed to higher levels, it shows that they have earned the right to take on higher priority, and much more lethal, missions. There are a few enemy types that are suitable for various spans of levels.
+	For levels 1-5 i would recommend human enemies. Cultists and insurectionists present good challenges for lower level players, while better armed and skilled groups such as Mercenaries or Russian military troops can hold their own up to level 6 or 7 depending on the scenario.
+	At level 5 things begin to change as your players become more specialized. Special threats should begin to present themselves. At this time the only relevant threat is from lesser demons (for bosses) and the Atelsikor. Atelsikor are generally not too far from an Astral Wraith, maybe controlling their own army and attempting to sieze control of sections of the ECSC, or maybe just a scout from a larger problem.
+	By level 10, players have learned how to handle themselves well. This is where they should be taking on armies composed of Lesser Wraiths and Demons.
+	After level 15 things might begin to go sideways. A traditional level 16+ encounter may consist of Necrphages, Beyonders, and other extra-galactic threats.
+
+
+//==============================
+//
+//==============================

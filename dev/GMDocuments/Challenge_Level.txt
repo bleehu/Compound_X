@@ -1,0 +1,117 @@
+//========================================
+On Challenge Level and encounter difficulty
+//========================================
+
+Challenge Level:
+Take the level of each group member and add it up. This is the Group Proficiency Score. The challenge level of an encounter should be between 1.5 and 2 times that of the Group Proficiency Score. For a group of 4 level 10 characters, the recommended Challenge Level is 60 to 80.
+
+Enemy units each have a Unit Challenge Score. Add enemy units until the sum of Unit Challenge Scores is within the Challenge Level Range.
+
+Example:
+Group:
+Level 5 Gunslinger
+Level 5 Soldier
+Level 5 Doctor
+Level 5 Priest
+Group Proficiency Score: 20
+Challenge Level Range: 30-40
+
+Each standard enemy unit''s Challenge Score varries depending on the level of the unit. generally there are a few rules for DMs setting up an encounter. For groups of average level 1 to 7, human enemies should be powerful enough. For groups of level 5-12, Atelsikor and Astral Wraith units should be used. For groups of level 10 and higher, Demonic units should be used. This is not to say that effective encounters cannot be made consisting of only humans for a group whos Challenge Level Range is somwehere above 100. But it will be much more difficult. Generally as well, you don''t want to have a ratio of higher than 2:1 enemies to friendly NPCs and Players. If you want a higher ratio of enemies (for a horde like feel) it is possible to use "peons" that die in one hit. It i simportant to still maintain suspense and a sense of character mortality, so when using this technique be sure to emphasize how powerful the enemy is, even if they really aren''t. Standard enemy units shouldn''t need to be embelished. After seeing the punishment they can dish out and damage they can withstand, a player group should be amply motivated to take care.
+
+//====================
+Human Units
+//==================== 
+
+Skirmisher [2]
+General Equipment:
+Anvil Arms Hunting Shotgun, Anvil Arms AR-74, or Anvil Arms C25 carbine.
+Medium Level 4 [1]
+Tactic: The human battler, these units don't always make great use of cover, but will dutifully take shots at PCs.
+Suggested Health and Nanites: 100/100
+Stats all 5
+
+Scout [2]
+General Equipment:
+SR-150 or ECSC Mk12
+Recon Level 3 [1]
+Tactic:
+Scouts sit in the back and pick off enemies as they try to maneuver the battle field.
+Suggested Health and Nanites: 100/100
+Stats all 5
+
+Grenadier [3]
+General Equipment:
+Anvil Arms AR-68 or Anvil Arms C25.
+Underbarrel Grenade Launcher and 3 grenades, or 5 standard grenades.
+Medium Level 3 [1]
+Tactic:
+This is the artillary of a group. They take cover in the back and lob presents in order to deal AOE damage to a group.
+Suggested Health and Nanites: 100/100
+Stats all 5
+
+Veteran Skirmisher [5]
+General Equipment:
+G&W FBR, FBR-C, or Mathews SK0
+Heavy Level 4, 80%
+Heavy Level 5, 60%
+Heavy Level 5+, 80% [1]
+Tactic:
+Absorb bullets and spray theirs, ripping apart Player groups in close range firefights.
+Suggested Health and Nanites: 120/100
+Stats all 6, a few 7s
+
+Veteran Scout [5]
+General Equipment:
+Anvil Arms SR-250 (AP) or ECSC PRS
+Recon Level 3+
+Light Level 3 [1]
+Tactic:
+Pick off stragglers or keep units pinned in cover while skirmishers flank.
+Suggested Health and Nanites: 100/120
+Stats all 6, a few 7s
+
+Veteran Grenadier [6]
+General Equipment:
+G&W FBR (AP [1]) or Anvil Arms AR-68(HP/CS [1])
+Underbarrel Grenade Launcher and 3 grenades as well as 1 chem, smoke, or other grenade, or 5 varried grenades
+Tactic:
+Make life hell for players. Either rain schrapnel on them or choke them out with chem grenades.
+Suggested Health and Nanites: 120/120
+Stats all 6, a few 7s
+
+//====================
+Atelsikor Units
+//==================== 
+
+Skirmisher
+General Equipment:
+Tactic:
+
+Scout
+General Equipment:
+Tactic:
+
+Grenadier
+General Equipment:
+Tactic:
+
+Veteran Skirmisher
+General Equipment:
+Tactic:
+
+Veteran Scout
+General Equipment:
+Tactic:
+
+Veteran Grenadier
+General Equipment:
+Tactic:
+
+//==================== 
+Demonic Units
+//==================== 
+
+
+
+
+

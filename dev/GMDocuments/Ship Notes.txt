@@ -1,0 +1,35 @@
+/*=========================================
+ * This document explains the current technology level relating to
+ * ships in the Compound X universe. This document will assume an
+ * average ship. Some ships have better features than others,
+ * especially in the military and private sectors.
+ *=======================================*/
+
+//==============================
+// Life Support
+//==============================
+
+Most ships have some form of Laser Nuclear Fusion reactor, producing between 10 and 50 kW for on-board electricty consumption. Generally, ships are outfitted with enough fuel (in Deuterium) to last for about a 2 month operation.
+Food and water is generally stored in quantites to last crew 1 month.
+For deeper space travel, some ships may rely on short-term cold-storage of crew and passengers. Jumps of 25-40 LY sometimes rely on this method as the travel time post jump can be up to 1 month, almost as much time as it would take to jump several smaller distances, refueling along the way.
+
+//==============================
+// Travel
+//==============================
+
+General purpose flight is provided through two methods. Fusion reactor powered plasma rocket engines, and Bussard RamJet inertial engines. Fusion Plasma Rockets are generally used in late stages of asscent, as they are very matter efficient for thrust as compared to chemical rockets. These rockets are also used for emergency evasion attitude adjustment thrusters. The other method, Bussard Ramjet inertial engines provide very little acceleration, but are extremely matter efficient. They rely on the collection of hydrogen and helium in space for use by proton thruster engines. They take a long time to get up to speed, but for deep-space freigters and military vessels (which often need to make month long trips between jumps) they can get up to enormous speed.
+To get from point A to Point B there are also Warp-Lanes, lines of connected Warp-Gates which open a tunnel between two points instead of a ship generating its own tunnel. Such Lanes are very energy costly, and are alomst always very near to stars in order to collect infrared radiation and also collect plasma to power their massive reactors. Since the power required to open a wormhole is generally the same regardless of distance, varrying only slightly in the duration the tunnel must be open for, shorter jumps are very expensive for civilians. Jumps of up to 50 LY are almost cheaper by means of multiple jump via on-board wormhole generator. Beyond 60 LY travel distance, it is more common to use the Warp-Lanes. Warp-Lanes exist in sectors 2, 4, 6, and 8, with another recently finished in 2349 in sector 3, although that lane is almost exclusively used for military transport to the front lines of the war. There are also connecting lanes in the mid rim between S6 and S8, S2 and S8, and S4 and S6. Refueling a ship''s hydrogen supply for power generation generally costs between $3000 and $5000 depending on the system and the ship. A ride on a Warp-Lane costs between $7000 and $10000 depending on the distance and location.
+Ships of average size are capable of atmospheric and space travel. They generally have a blended Lifting-Body / flying wing type shape, so as to take off and land horizontally, but are also capable of high-speed reentry from space.
+
+//==============================
+// Faster Than Light Travel
+//==============================
+
+Faster than light travel is provided via a gravitational generator that creates a tunnel between two points. Generator size is proportional to the mass of the ship, and generally takes up 25% of the ship''s space. The generator is usually in the middle or front of the ship, as they generated hole must be near to in front of the ship. However some military models have a generator in front and in rear, so they can quickly jump into an engagement and have a way of jumping away in case of an emergency.
+These gravitational generators run on large quantites of gravitonium, a fundamental particle discovered through reverse engineering of alien temples. The particle is fairly stable in some isotopes and also fairly easy to synthesize, once plasma and laser technology were advanced through similar reverse engineering. The wormholes generated through gravitonium fusion are large enough for a ship to enter, but do not hold enough gravitational energy to affect orbits of any planetary bodies or satelites. The so-called Gravitonium effect has strength proportional to the squre root of the distance from the center, similar to elctromagnetism. This means that the strength of a wormhole is very strong at the center, but quickly fades to no strength at all. Cost to refuel Gravitonium is fairly constant. It takes a constant amount of Gravitonium to generate a wormhole, but the wormhole can be sustained and even its size altered by the amount of electroradiation fed to it. Larger ships need only radiate a larger amount of energy into the reaction to generate a wormhole of suitable size for travel. Thus the main energy cost for Warp-Tunnel travel is the cost of the reactor fuel. Warp-Reactors are also Hydrogen Fusion reactors, and typically cost around $4000 to refuel for a standard size ship. Gravitonium costs $2000, so a standard Warp-Generator refuel is around $6000.
+
+//==============================
+// Artificial Gravity
+//==============================
+
+Artificial Gravity is a fairly commonplace technology utilizing Gravitonium.
