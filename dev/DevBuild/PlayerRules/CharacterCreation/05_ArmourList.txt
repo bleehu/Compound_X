@@ -107,7 +107,7 @@ better protection than the last tier.
     //EVA helmet. They are bulky and any DEX skill-checks are at a -10% and 
     //movement is reduced in RP.
     //Traditionally come in white, yellow or red.
-    Polymer-Alloy flightsuit 
+    Polymer-Alloy flightsuit $4000
     This basic environment suit offers no balistic protection. When shot, the 
     suit will decompress or compress, as necessary.
 
