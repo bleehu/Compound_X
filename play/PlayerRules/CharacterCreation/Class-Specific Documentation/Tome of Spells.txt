@@ -1,6 +1,10 @@
 /*=============================================================================
  * Tome of Spells
- * 
+ * For a half-action spell to be cast, the caster must pass a DC equal to the 
+ * Nanites spent on the spell, max 100. For paladins, the DC is instead 5* the 
+ * favor cost of the spell. For example, Sword of Righteousness has a Cast DC 
+ * of 60 (5 * 12 favor). The DC must be passed before any nanites are spent, 
+ * so if the DC is failed, no Nanites are lost.
  * 
  *===========================================================================*/
 	//Level 1:

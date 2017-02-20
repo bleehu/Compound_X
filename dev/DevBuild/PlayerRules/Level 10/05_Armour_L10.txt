@@ -1,0 +1,201 @@
+/*
+ * Armour Document
+ * This document lists the armours available to characters level 10 and above 
+ * in standard campaigns.
+ * Table of contents:
+ * Armour additions
+ * Standard Balistic Armours
+ *   - Undersuits
+ *	 - Concealed
+ *	 - Recon
+ *	 - Light
+ * 	 - Medium
+ * 	 - Heavy
+ * 	 - Full
+ * Shield Units
+ *	 - Light
+ *	 - Medium
+ *	 - Heavy
+ * Shielded Armour
+ *	 - Medium
+ *	 - Heavy
+ * Nanite Cloaking Armour
+ */
+
+/*========================================
+ * Armour Additions and Helmets
+ * These additions may be worn with or added to armour.
+ *======================================*/
+
+    //Tactical and Combat helmets can hold NVGs, lights, radios, etc.
+
+    //Environment helmets provide a full seal
+    
+/*========================================
+ * STANDARD BALISTIC ARMOURS
+ *======================================*/
+
+///////////////////////////////////////////////////////////////////////////
+//Undersuits
+//Various undersuits exist, providing buffs to the wearer. Undersuits are
+//wearable by all classes unless otherwise stated. Undersuits provide a 
+//damage reduction to any hits that miss armour. Additionally any damage
+//which only affect a limb has the suit's DR applied to it. Undersuits
+//count as a full set of clothing, so any clothes worn over them look out
+//of place.
+    //Flightsuits offer basic protection from the elements.
+    //Traditionally come in Tan, Olive Drab, Wolf-Grey, Dark Earth, Black, Camo Patterns, etc.    
+
+    //These environment suits are air- and water-tight when combined with an EVA helmet. They are bulky and any DEX skill-checks are at a -10% and movement is reduced in RP.
+    //Traditionally come in white, yellow or red.
+
+///////////////////////////////////////////////////////////////////////////
+//Concealed Setups
+//Offering slightly worse protection and armament for the price, but with
+//the bonus of being concealable under a coat or jacket for clandestine or
+//stealth oriented operations.
+    
+///////////////////////////////////////////////////////////////////////////
+//Recon Armour Setups:
+//Tactical Vest with soft armour underneath. Soft armour must be repaired
+//or replaced after every 4 missions / conflicts / battles (assuming damage
+// received during each)
+//3 primary mags, 2 secondary mags, 1 grenade.
+    
+///////////////////////////////////////////////////////////////////////////
+//Light Armour Setups:
+//A "Chest Rig" which holds one front plate and some gear.
+//4 primary mags, 4 of combined secondary mags and grenades.
+
+///////////////////////////////////////////////////////////////////////////
+//Medium Armour Setups:
+//A smaller plate carrier which holds a moderate amount of gear.
+//6 primary mags, 5 of combined secondary mags and grenades.
+
+///////////////////////////////////////////////////////////////////////////
+//Heavy Armour Setups:
+//A hefty plate carrier which holds front, back and side plates as well as
+//extended amounts of gear.
+//8 primary mags, 6 of combined secondary mags and grenades.
+//With side plates included (any armour listed as 80% coverage) take a -1m movement speed penalty.
+    
+    //Ceramic Plate
+
+    //Carbon-Steel Fiber    
+
+    //Ceramic Nano-Crystal  
+
+///////////////////////////////////////////////////////////////////////////
+//Full Armor:
+//Covers the front of your chest, your back, your sides, shoulders, neck, pelvic region, and tops of your legs.
+//8 primary mags, 6 of combined secondary and grenades.
+
+/*========================================
+ * SHIELD UNITS
+ * Shields cover the wearer in a magnetic field which repels lasers
+ * and removes some of the brunt of plasma bolts. They are completely
+ * open to balistic fire, however. Traditionally a shield unit
+ * consists of a generator pack which is generally the size of a
+ * small backpack, and some Magnetic Field Stabilizers that extend
+ * over the areas of the body which would be covered by the shield.
+ * Once the shield's capacitor units are exhausted, the shield breaks
+ * and needs a while to recharge. If the user maintains their shield
+ * without letting it break, they can avoid the costly recharge time.
+ * The capacity of the field is dependant on the user mainly, but also varries depending on the shiled model.
+ *======================================*/
+    Class A, Multi-capacitor Array Mesh [MCAM] $3095
+    Nanites/2 capacity
+    85%
+    35 Nanites / turn
+    1 Half Action
+
+    Class B, MCAM $3515
+    Nanites/2 capacity
+    85%
+    70 Nanites / turn
+    1 Half-Action
+
+    Class C, MCAM $3615
+    Nanites/1 capacity
+    85%
+    70 Nanites / turn
+    1 Half-Action
+
+    Class D, Advanced $3900
+    Nanites/1 capacity
+    100%
+    75 Nanites/turn
+    3 Full Actions
+
+    Muzashi O-Yoroi $4000
+    Nanites/1 capacity
+    100%
+    75 Nanites/turn
+    1 Full Action recharge
+
+
+ /*========================================
+ * SHIELDED ARMOUR
+ *======================================*/
+
+
+
+/*========================================
+ * NANITE CLOAKING ARMOURS
+ * Devote a Portion of your nanite pool to a clocking pool.
+ * Lvl 1-5 expend 15 Nanites per cloak turn. Lvl 6+ 10 Nanites.
+ * Max Turns of cloak = Lvl +1; Cloaking becomes available after waiting 4 Actions.
+ * Cloaking grants the wearer stealth at a DC of 50. However, when a player cloaks, enemies will not see them unless they are actively looking for the wearer. For enemies that saw the wearer cloak, the DC is 25 less.
+ * Wearers need only expend nanites on a turn that they perform actions. if they are doing nothing but watching, they may cloak for free. Cloaking requires concentration, so when a user diverts their attention to perform an action, they must use some nanites to continue to hold the cloak.
+ *======================================*/
+
+Basic Cloaking Suit $2500
+5 DR
+30%
+
+Intermediate Cloaking Suit $3100
+Add 30 Nanites to your pool.
+Cloak DC +25, expend 5 extra nanites per turn.
+5 DR
+30%
+
+Advanced Cloaking Suit $3500
+Add 30 Nanites to your pool.
+Cloak DC +50, Expend 10 extra Nanites per turn.
+Charge-Up time 3 Half-Actions
+5 DR
+30%
+
+Experimental Cloaking Suit $4020
+Remove 50 Nanites from your cloaking pool.
+Cloak DC +50, Expend 5 Less Nanites Per turn. Max turns +2
+Charge-Up time 5 Half-Actions
+10 DR
+30%
+
+Armour Cloaking Suit $2080
+Cloak DC -25, expend 5 extra nanites per turn.
+Cloaking DR is 25, uncloaked DR is 10
+30%
+
+Advanced Armour Cloaking Suit $2560
+Expend 10 extra Nanites per turn.
+Charge-Up time 5 actions.
+Cloaking DR is 30, uncloaked DR is 15
+30%
+
+//===================================================================
+//Copyright 2016 Taylor Rowland and Michael Hedges
+//
+//Licensed under the Apache License, Version 2.0 (the "License");
+//you may not use this file except in compliance with the License.
+//You may obtain a copy of the License at
+//
+//   http://www.apache.org/licenses/LICENSE-2.0
+//
+//Unless required by applicable law or agreed to in writing, software
+//distributed under the License is distributed on an "AS IS" BASIS,
+//WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+//See the License for the specific language governing permissions and
+//limitations under the License.
+//===================================================================

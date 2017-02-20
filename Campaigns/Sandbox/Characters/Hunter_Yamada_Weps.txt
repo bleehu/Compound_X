@@ -1,0 +1,39 @@
+//
+
+
+Mini Plas Disc SMG $4405 / $10
+135m/185m
+10%
+13 rds, Neon-15; Standard / Cutter Rds
+60
+Cutter Rounds disregard 10pts of D.R.
+All Ammo inflicts Plasma Burn.
+    $1720 / $8
+	+$800 Lightened Machining Slide, DEX/3 shots per HA
+    +$860 Pistol Carbine kit, ability to mount up to 4x optics, lower rail accessories. +50m range
+    +$125 1.2x PHP, -10%, +5m
+    +$500 2.5x magnifier, +50m half action to toggle.
+    +$100 Heavy Barrel, -10% STR+1
+    +$50 Muzzle Break, -5%
+    +$100 AFG, -10%
+    +$150 1-PS, STR-1, holstering is a free action.
+    +$30% mag, +30% rounds.
+
+SGL (Standalone Grenade Launcher) $2265 / $60
+Launcher $1365 / $60
+60m
+10%
+1rd, HE
+70 Explosive, 5m diameter
+    $1365 / $ 
+    +$600 Kit
+    +$100 GL-Irons -10%
+    +$100 Red Laser -10%
+    +$100 two point sling -5%, STR-1
+
+Muzashi CS Edged Katana: $455
+Requires "Weapon Use [Exotic]" to recieve an bonuses to strike, and requires STR 4 to use.
+2m
+50%
+40 + (6*DEX)
+Inflicts CS burn
