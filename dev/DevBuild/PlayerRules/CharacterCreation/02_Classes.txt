@@ -434,7 +434,8 @@ Feats:
 Shadowy Assassin -
 Your moving cloak DC increases by 10. Attacks made while in cloaking do not 
 break your cloaking unless you are observed making the attack. Any damage 
-dealt while in cloak is treated as standard-Crit damage.
+dealt while in cloak is treated as Standard-Crit damage. Applies only to melee 
+attacks.
 |
 |
 |
@@ -442,7 +443,7 @@ V
 Your moving cload DC increases by 20, Attacks made while in cloacking do not 
 break your cloaking. If you are observed making the attack, the observer must 
 pass your cloaking DC in order to observe the attack. All damage dealt while 
-cloaked is treated as Extra-Crit damage.
+cloaked is treated as Extra-Crit damage. Applies only to melee attacks.
 ----------------------
 Azure-Assassin -
 At the cost of 20 Nanites, you can summon Nanite-crystal blades. These blades 
