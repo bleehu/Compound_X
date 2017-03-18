@@ -8,6 +8,7 @@ against robotic units.
 //============================================================
 
 CS Edged Circular Saw $520
+Requires strength 5
 Adjacent
 35%
 65 + CS Burn
@@ -28,12 +29,14 @@ damage to your opponent.
 7 * (STR or DEX)
 
 Muzashi CS Edged Katana: $455
+Requires "Weapon Use [Exotic]" to recieve an bonuses to strike, and requires STR 4 to use.
 2m
 50%
 40 + (6*DEX)
 Inflicts CS burn
 
 Plasma Sword: $560
+Requires Weapon Use [Exotic] and STR 4
 This sword emits a steady beam of plasma which can cut through almost anything 
 except titanium and stronger metals, stone, Nanite Shielding.
 2m
@@ -41,9 +44,22 @@ except titanium and stronger metals, stone, Nanite Shielding.
 40 + (6*DEX) + Plasma Burn
 
 Chain whip $500
+Requires Weapon Use [Exotic] and STR 4
 3m
 40%
 8 * DEX
+
+============================================================
+Grenades:
+All grenades require an explosives skill of at least 10 to use.
+Targets can roll a luck or perception check at 95% in order to dodge.
+============================================================
+
+Frontier Plasma Grenade: $150
+35m
+65% to land where intended and 95% to hit
+65 + 2 * plasma burn within 3m
+20 + d10 + 2 * plasma burn within 5m
 
 ============================================================
 Pistols:
@@ -111,8 +127,8 @@ Fires a concentrated stream of high-velocity particles.
 ============================================================
 Sub-Machine Guns:
 Capable of high rates of fire, but utilizing lighter calibers than a 
-traditional combat rifle. Fire DEX/2 shots per full turn, rounding down. (DEX 5
-= 2 shots, DEX 8 = 4 shots) Maximum LVL + 1.( All SMGs are considered CQB 
+traditional combat rifle. Fire DEX/3 shots per Half-Action, rounding down. (DEX 5
+= 2 shots, DEX 8 = 3 shots) Maximum LVL + 1.( All SMGs are considered CQB 
 weapons)
 Minimum Strength 4, Reload DC 25% unless otherwise noted. Reload time 2 Half 
 Actions. Jam range 2%
@@ -473,12 +489,16 @@ check are dazed for 3 turns or until they can pass another FORT save at 80%.
 
 ============================================================
 Long Rifles:
-Due to high velocities used in long rifle bullets, when a target is under the 
-minimum engagement range, they take 20 less damage because of point blank 
-penetration.
 Minimum 5 strength to carry. All targets are inflicted with Pinned condition 
 when hit. Reload DC 30% unless otherwise noted. Reload time 3 Half Actions.
 ============================================================
+
+ECSC Mk25 DMR $7200 / $13
+30-300 m
+25%
+20 rds, 7.62 x 51 NATO
+64
+Minimum 6 Str to carry.
 
 G&W XK20 Mod 0 HE $7550 / $14
 20-200m / 500m
@@ -491,7 +511,7 @@ different ranges.
 In addition, the High Energy variant requires 1 action of charge up time.
 Because of the large caliber round size, target takes penetrating damage. 
 Reload DC 26%, Reload time 2 Half Actions.
-Marksman only.
+Marksman only. Minimum Str 7
 
 Frontier Plas-5 HE $15,600 / $6
 Minimum 6 strength to carry
@@ -505,7 +525,7 @@ All ammo inflicts 2 Plasma Burn.
 Reload time 2 Half ACtions
 
 Mathews BA .408 $25,900 / $7
-Minimum 6 strength to carry
+Minimum 7 strength to carry
 40-150m / 20-2000m
 45% / 20%
 7 rds, .408 cal RMM special; AP / Incendiary
