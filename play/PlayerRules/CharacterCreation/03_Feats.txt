@@ -381,17 +381,92 @@ Weapon Familiarization (can be taken once):
 Prerequisites:
 Remove 15% miss chance from any one weapon model.
 
-Weapon Skill Tree: 
-Prerequisites:
-(Listed numbers are stacked per level you take in this feat. Maximum 3 levels per tree.)
-    - Pistoleer: +10 damage to pistols.
-    - Shotgun Surgeon: target gets -10% armour. If they do not have armour deal +5 damage.
-    - Spray and Pray: When using SMGs, plus 1 round fired, +10% miss chance.
-    - Assault and Battery: +10m range to assault rifles and carbines.
-    - Sniper: +5 damage and -5% Miss Chance to Long Rifles
-    - HeavyMetal fan: +5% use Heavy Weapons
-    - Demo Man: +5 damage explosive radius, +5 skill to use.
-    - Penetrating Shot: +10 Bow damage to armoured targets.
+Weapon Skill Trees:					
+Prerequisites: None					
+(Requires 1 Feat to unlock the specific proficiency skill @ 10, then 
+apply skill points to unlock the rest of the bonuses. Max skill is 40)					
+(Bonuses ONLY APPLY to weapons in their respective weapon class)					
+Proficient: Pistols					
+	Skill @				
+	10:	Pistol Proficient. +5m to ranges R1 & R2			
+	15:	-10% reload miss chance			
+	20:	+10% stealth when firing pistols			
+	25:	Pistol Expert. -5% miss chance @ all ranges			
+	30:	+10m to range R3			
+	40:	Pistol Master. +20% damage; Gain feat "Pistol Quickdraw"
+		(which is feat "quickdraw"  that is only usable with pistols)			
+		// I think we should come up with something better than pistol quickdraw, for pistols, maybe negating the half-action 			//for aim of the weapon, once per turn? An expert real life pistol user will be able to aim very quickly.			
+Proficient: Submachine Guns					
+	Skill @				
+	10:	SMG Proficient. +5m to all ranges (R1, R2, & R3)			
+	15:	-10% reload miss chance			
+	20:				
+	25:	SMG Expert. -5% miss chance @ all ranges			
+	30:	-5% miss chance when firing in fully-automatic; -3% in burst			
+	40:	SMG Master. +10% damage; +1 round fired in fully-automatic			
+					
+Proficient: Shotguns					
+	Skill @				
+	10:	Shotgun Proficient.  +5m to range R3			
+	15:	-15% reload miss chance			
+	20:				
+	25:	Shotgun Expert. -5% miss chance @ all ranges			
+	30:				
+	40:	Shotgun Master. +10% damage; Gain feat "Combat Speed Load": If 
+		your gun is out of ammo, roll DC 70% reload check to load 1 round
+		into your gun as a free action, once per action. Does not affect
+		or proc other feats.			
+					
+Proficient: Carbines					
+	Skill @				
+	10:	Carbine Proficient. +5m to range R1, +10m to R2 & R3 			
+	15:	-10% reload miss chance			
+	20:				
+	25:	Carbine Expert. -5% miss chance @ all ranges			
+	30:				
+	40:	Carbine Master. +10% damage; Gain feat "Careful Operator": +15% Defence 
+		(+opponent miss chance) when not in cover or when clearing a room			
+		//I thought this feat fit the flavor of a carbine and the fact that the support roles tend to have carbines available			
+Proficient: Automatic Rifles					
+	Skill @				
+	10:	Automatic Rifle Proficient. +5m to range R1, +10m to R2 & R3 			
+	15:	-10% reload miss chance			
+	20:				
+	25:	Automatic Rifle Expert. -5% miss chance @ all ranges			
+	30:	-5% miss chance when firing in fully-automatic; -3% in burst			
+	40:	Automatic Rifle Master. +10% damage; Gain feat "Offensive Expert": 
+		-20% miss chance for a fully-automatic firing action, once per turn.			
+					
+Proficient: Long Rifles					
+	Skill @				
+	10:	Long Rifle Proficient. -5m to minimum range, +10% meters to R2 & R3 			
+	15:	-10% reload miss chance			
+	20:				
+	25:	Long Rifle Expert. -5% miss chance @ all ranges			
+	30:				
+	40:	Long Rifle Master. +10% damage; +1 Armor Piercing			
+		//or instead of +1 armor piercing, give them a feat that speeds up aiming time?			
+Proficient: Heavy Weapons					
+	Skill @				
+	10:	Heavy Weapon Proficient. +5m to range R2 & R3			
+	15:	-10% reload miss chance			
+	20:				
+	25:	Heavy Weapon Expert. -5% miss chance @ all ranges			
+	30:				
+	40:	Heavy Weapon Master. +10% damage; Gain feat "Effective Fire": when a
+		target is suppressed by your heavy weapon, they must make a DC 62% 
+		Shock save. On failure, they lose two actions at the start of their 
+		next turn.			
+		//similar to the current effects suppression feats			
+Proficient: Explosives					
+	Skill @				
+	10:	Explosives Proficient. +10% explosives use			
+	15:	-10% reload miss chance (grenade launchers, rocket launchers, etc.)			
+	20:				
+	25:	Explosives Expert. -5% miss chance (grenades, rocket launchers, etc.)			
+	30:				
+	40:	Explosives Master. +15% damage, +2m explosive radius (outer radius, if relevant)			
+
 
 ====================
 Active Feats
