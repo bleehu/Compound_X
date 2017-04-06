@@ -270,47 +270,6 @@ Expend 10 nanites to paint a target. All damage dealt by allies to this target
 is increased by 20, and any perception checks are 50% easier to pass. Use 
 twice per encounter. Level number of uses per day. Lasts for the day.
 
-//needs work
-"Paladin" - You are a righteous warrior, vetted and trained by one of the 
-powerful corporations or some other technologically advanced entity. You seek 
-to uphold the principals which define the group you''ve sworn allegience to. 
-Through this devotion you have been granted access to high tech in order to 
-pursue your goals and missions.
-Passives: Terms and Conditions clause compliance, access to Paladin Spell tree
-at level 3. By adhering to the Terms and Conditions, a Paladin gains an amount 
-of Favor within their church and can unlock new paladin spells by spending 
-Favor. Starting at level 3, a Paladin gains Favor equal to their Charisma each 
-level. Favor does not have to be spent, and can be saved up to learn more 
-potent prayers and spells. Knowledge [Nanites] - 10
-Weapon Profiencies: Pistls, Carbines, SMGs, Long Rifles, Automatic Rifles.
-Armour Proficiencies: Recon, Light, Medium, Heavy.
-Starting Wealth: $1700+100*Luck
-Feats:
-----------------------
-Portable Shield:
-A shield can be projected from your off hand. When attacked, roll as if the 
-shield were your armour, which has separate stats. 80% hit chance, 0 DR, 100 
-Nanite health. Hit chance only applies when opponent is in front of the 
-character. If an attak is coming from a flank or from behind, then ignore the 
-Shield. [Projects a tangible shield, not merely a CS field]. It takes a half 
-action to deploy the shield, and a free action to dismiss it.
-|
-|
-|
-V
-90% hit chance, 0DR, 150 Nanite Health. Free action to deploy shield.
-----------------------
-Smite Enemy:
-Once per engagement, you may select an opponent and deal them double damage, 
-calculated after any other bonus damage. Standard hit rules apply, but the 
-double damage is only consumed on a successful hit [multiple attempts at using 
-smite may be made per encounter, but once a successful attack is made the 
-smite is consumed for the encounter].
-|
-|
-|
-V
-You may use Smite twice per engagement.
 
 "Mage" - Mages are picked from birth to train at a temple or other such 
 Technological Institution in the combative use of Nanites. They form the 
