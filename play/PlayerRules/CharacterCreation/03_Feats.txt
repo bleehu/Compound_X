@@ -415,19 +415,17 @@ Expend 25 Nanites, gain 25% to a piece of cover for 4 turns
 
 Combat Roll [40 Nanites]:
 Prerequisites: Dex of 5 or more
-Move 6m in one half action, no more, no less. This movement does not trigger 
-Bulltrue or Pre-emptive Strike. Enemies attacking you take a +20% to miss when
-attacking you for the turn after you use this feat, and you take a +15% to 
-miss for the action after using this feat ends. If this mallice would not run 
-out until after this turn, it''s effect wraps around to the beggining of your 
-next turn. Cannot be used in concert with run n gun.
+Move 6m in one half action, no more, no less. Enemies attacking you take a +20% 
+to miss when attacking you for the turn after you use this feat, and you take a 
++15% to miss for the action after using this feat ends. If this mallice would 
+not run out until after this turn, it's effect wraps around to the beggining of 
+your next turn. Cannot be used in concert with run n gun.
 
 Cover Slide [20 Nanites]:
 Prerequisites: Dex of 4 or more
 Move up to your speed and end next to a barrier behind which you can take 
-cover. You hunker behind that cover as a free action. This movement does not 
-trigger Bulltrue or Pre-emptive Strike. Cannot be used in concert with run 'n' 
-gun.
+cover. You hunker behind that cover as a free action. Cannot be used in 
+concert with run 'n' gun.
 
 Flash Dance: 
 Prerequisites:
