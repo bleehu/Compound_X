@@ -615,31 +615,6 @@ Weapon Profs: Pistols, SMGs, Shotguns, Carbines.
 Armour Profs: Recon, Light, Medium.
 
 
-
-/*
-Scoundrel
-Passives: 
-Weapon Proficiencies: 
-Feats:
-Some Feat -
-* 1st level
-**Additional level
-Players can level up a feat at every third level from level 1 [1, 4, 7, etc.), or choose to purchase a new feat.
-/*
-Class Name
-Passives added
-Weapon Proficiencies: 
-Class Feats:
-----------------------
-Some Feat -
-1st level
-|
-|
-|
-V
-Additional level
-Players can level up a feat at every 10th level, or choose to purchase a new feat.
-
 //===================================================================
 //Copyright 2016 Taylor Rowland
 //
