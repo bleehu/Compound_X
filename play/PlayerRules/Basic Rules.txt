@@ -344,7 +344,7 @@ Pinned - Target pinned (hunkered, no movement) for 2 full turns or until they
 pass a Will saving throw at DC of 70, whichever is quicker.
 Plasma Burn - 1d10+1 stackable damage per turn, for 2 turns if the target's armor
 is pierced/missed. If the targets armor is hit/pierced, the armor's AP level is 
-reduced by 1, permanently (repairable), not stackable. 
+reduced by 1, permanently (repairable, DC 60% Repair check), not stackable. 
 Poisoned - d10 damage per turn. After 5 turns, some poisons may induce 
 unconsciousness. DC 50, Fortitude. Greater / Lesser posion increases damage 
 (+5/-5) and DC (+25,-10).
