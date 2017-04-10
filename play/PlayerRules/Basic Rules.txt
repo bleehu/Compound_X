@@ -321,9 +321,9 @@ players fail, they may roll each turn at a DC of 70 to wake up. They continune
 to roll either for (15 - FORT) turns, or until they pass.
 
 Conditions:
-Bleeding - d6 stackable damage per turn. Broken with Medicine Skill check. DC varries. 
-If you have a bleed condition, seek medical aid immediately, You CAN Bleed Out,
-you have been warned.
+Bleeding - d10/2+1 (drop the remainder) stackable damage per turn. Broken with 
+Medicine Skill check. DC varries. If you have a bleed condition, seek medical aid
+immediately, You CAN Bleed Out, you have been warned.
 Burning - 2d10 damage per turn. Broken with a Maneuver Skill Check. DC 40. 
 Every 2 turns, the degree of the burn intensifies
 Downed - Your health has fallen below 0. Every turn in this condition, you 
