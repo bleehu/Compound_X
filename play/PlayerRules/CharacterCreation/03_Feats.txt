@@ -388,11 +388,11 @@ apply skill points to unlock the rest of the bonuses. Max skill is 40)
 (Bonuses ONLY APPLY to weapons in their respective weapon class)					
 Proficient: Pistols					
 	Skill @				
-	10:	Pistol Proficient. +5m to ranges R1 & R2			
+	10:	Pistol Proficient. Range +10m			
 	15:	-10% reload miss chance			
 	20:	+10% stealth when firing pistols			
 	25:	Pistol Expert. -5% miss chance @ all ranges			
-	30:	+10m to range R3			
+	30:	+5% Reflex when room clearing				
 	40:	Pistol Master. +20% damage; Gain feat "Pistol Quickdraw"
 		(which is feat "quickdraw"  that is only usable with pistols)			
 		*If you have feat "Quickdraw" in addition to "Pistol Quickdraw",
@@ -400,7 +400,7 @@ Proficient: Pistols
 		your pistols after drawing, you must use an action to holster.
 Proficient: Submachine Guns					
 	Skill @				
-	10:	SMG Proficient. +5m to all ranges (R1, R2, & R3)			
+	10:	SMG Proficient. Range +5m			
 	15:	-10% reload miss chance			
 	20:	+5% Reflex when room clearing		
 	25:	SMG Expert. -5% miss chance @ all ranges			
@@ -411,18 +411,18 @@ Proficient: Submachine Guns
 					
 Proficient: Shotguns					
 	Skill @				
-	10:	Shotgun Proficient.  +10m to range R3			
+	10:	Shotgun Proficient. Range +10m		
 	15:	-15% reload miss chance			
 	20:	+5% Reflex when room clearing			
 	25:	Shotgun Expert. -5% miss chance @ all ranges			
 	30:	+10% perception checks for awareness within 25m.			
 	40:	Shotgun Master. +10% damage; Gain Active feat "Combat Rush": If you 
 		are aware of an enemy within 10m at any time during your turn, pay 
-		20 nanites to gain 1 free move action for that turn.			
+		20 nanites to gain 1 free move action for that turn, once per turn.			
 					
 Proficient: Carbines					
 	Skill @				
-	10:	Carbine Proficient. +5m to range R1, +10m to R2 & R3 			
+	10:	Carbine Proficient. Range +10m			
 	15:	-10% reload miss chance			
 	20:	+5% Reflex when room clearing			
 	25:	Carbine Expert. -5% miss chance @ all ranges			
@@ -432,7 +432,7 @@ Proficient: Carbines
 			
 Proficient: Automatic Rifles					
 	Skill @				
-	10:	Automatic Rifle Proficient. +5m to range R1, +10m to R2 & R3 			
+	10:	Automatic Rifle Proficient. Range +10m			
 	15:	-10% reload miss chance			
 	20:	Automatic Rifles no longer jam			
 	25:	Automatic Rifle Expert. -5% miss chance @ all ranges			
@@ -442,9 +442,9 @@ Proficient: Automatic Rifles
 					
 Proficient: Long Rifles					
 	Skill @				
-	10:	Long Rifle Proficient. -5m to minimum range, +10% meters to R2 & R3 			
+	10:	Long Rifle Proficient. -5m to minimum range, Range +10% meters			
 	15:	-10% reload miss chance			
-	20:	+10% to perception checks to spot enemies within your weapon's R2 & R3 ranges.			
+	20:	+10% to perception checks to spot enemies outside of your weapon's minimum range.			
 	25:	Long Rifle Expert. -5% miss chance @ all ranges			
 	30:	Gain feat "Beware the Wrath of a Patient Man": shots fired as a held reaction have a -15% miss chance.			
 	40:	Long Rifle Master. +10% damage; Gain feat "Practiced Precision": DC 75% dexterity or sniper skill
@@ -452,7 +452,7 @@ Proficient: Long Rifles
 					
 Proficient: Heavy Weapons					
 	Skill @				
-	10:	Heavy Weapon Proficient. +5m to range R2 & R3			
+	10:	Heavy Weapon Proficient. Range +5m		
 	15:	-10% reload miss chance			
 	20:	+1m radius to your Suppression Area of Effect			
 	25:	Heavy Weapon Expert. -5% miss chance @ all ranges			
@@ -466,7 +466,7 @@ Proficient: Explosives
 	Skill @				
 	10:	Explosives Proficient. +10% explosives use			
 	15:	-10% reload miss chance (grenade launchers, rocket launchers, etc.)			
-	20:	+5m to all ranges (R1, R2, & R3) for explosive launchers (grenade launchers, etc.)			
+	20:	Range +5m for explosive launchers (grenade launchers, etc.)			
 	25:	Explosives Expert. -5% miss chance (grenades, rocket launchers, etc.)			
 	30:	+10% to charisma rolls for intimidation when holding any explosive/launcher			
 	40:	Explosives Master. +15% damage, Gain feat "Get Down!": Allies in blast radius 
