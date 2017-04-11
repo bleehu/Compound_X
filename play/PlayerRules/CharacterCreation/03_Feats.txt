@@ -448,7 +448,8 @@ Proficient: Long Rifles
 	25:	Long Rifle Expert. -5% miss chance @ all ranges			
 	30:	Gain feat "Beware the Wrath of a Patient Man": shots fired as a held reaction have a -15% miss chance.			
 	40:	Long Rifle Master. +10% damage; Gain feat "Practiced Precision": DC 75% dexterity or sniper skill
-		check to negate the action for changing your aim from one target to another.			
+		check to negate the action for changing your aim from one target to another in front of you 
+		(1 successful negation per turn).			
 					
 Proficient: Heavy Weapons					
 	Skill @				
