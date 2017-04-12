@@ -283,8 +283,9 @@ upgraded by making good decisions based on this skill, rather than by
 upgrading it with skill points.
 
 Sleight of hand: 
-Prerequisites:
-Negate the pump of a shotgun, cocking of a revolver, or cycling of a bolt. 
+Prerequisites: DEX 6+
+Negate the pump of a shotgun, cocking of a revolver, or cycling of a bolt when
+performing another action besides the same (or firing).
 Reload DCs are 5% lower.
 
 Snap Shot: 
