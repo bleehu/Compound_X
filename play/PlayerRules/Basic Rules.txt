@@ -478,9 +478,9 @@ players fail, they may roll each turn at a DC of 70 to wake up. They continune
 to roll either for (15 - FORT) turns, or until they pass.
 
 Conditions:
-Bleeding - d10 damage per turn. Broken with Medicine Skill check. DC varries. 
-If you have a bleed condition, seek medical aid immediately, You CAN Bleed Out,
-you have been warned.
+Bleeding - d10/2+1 (drop the remainder) stackable damage per turn. Broken with 
+Medicine Skill check. DC varries. If you have a bleed condition, seek medical aid
+immediately, You CAN Bleed Out, you have been warned.
 Burning - 2d10 damage per turn. Broken with a Maneuver Skill Check. DC 40. 
 Every 2 turns, the degree of the burn intensifies
 Downed - Your health has fallen below 0. Every turn in this condition, you 
@@ -493,15 +493,15 @@ wound, or with Medicine Skill check, DC 50
 Fear - No actions, except running away form the source of fear, or rolling to 
 defeat fear. DC 50, Will save.
 Fear, Greater - No actions, except rolling to defeat fear. DC 75, Will save.
-CS Burn - d10/2 damage for 2 turns. + 5 damage against robots.
+CS Burn - 1d10/2 stackable damage for 2 turns. + 5 damage against robots, on hit.
 Necrosis - 2d10 +5 damage per turn. Seek medical attention immediately. If 
 left unhealed for more than a day, the infection spreads 1 foot per day. 
 Medicine DC 75, must be rolled.
 Pinned - Target pinned (hunkered, no movement) for 2 full turns or until they 
 pass a Will saving throw at DC of 70, whichever is quicker.
-Plasma Burn - 2d10 damage per turn (stackable: if a target accrues more than 
-one burn counter, then the burn counters are spent 1 per turn until they 
-dissappear.)
+Plasma Burn - 1d10+1 stackable damage per turn, for 2 turns if the target's armor
+is pierced/missed. If the targets armor is hit/pierced, the armor's AP level is 
+reduced by 1, permanently (repairable, DC 60% Repair check), not stackable. 
 Poisoned - d10 damage per turn. After 5 turns, some poisons may induce 
 unconsciousness. DC 50, Fortitude. Greater / Lesser posion increases damage 
 (+5/-5) and DC (+25,-10).
