@@ -104,11 +104,6 @@ Counter-Spell, General:
 Prerquisites: Counter-Spell, Familiar
 You may use Counter Spell on spells from outside your domain of knowledge.
 
-Cross-Train:
-Prerquisites: Int 8
-Instead of taking your regular Class feat on the next level, you may learn one 
-from another class.
-
 Double Tap: 
 Prerequisites:
 Increase your crit range by 10%. Whenever your hit falls into crit range, 
