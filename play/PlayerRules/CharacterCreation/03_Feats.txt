@@ -111,10 +111,9 @@ from another class.
 
 Double Tap: 
 Prerequisites:
-Increase your crit range by 10%. Whenever your hit falls into crit range, 
-expend an additional bullet in order to deal 2x crit damage. Only Useable with 
-Semi-Auto or Full auto weapons. Not applicable to SA Revolvers, Bolt Action, 
-Pump-Action, etc.
+Whenever your hit falls into extra-crit range, fire another bullet as a free
+action. Only Useable with Semi-Auto or Full auto weapons. Not applicable to 
+SA Revolvers, Bolt Action, Pump-Action, etc.
 
 Dual Weild:
 Prerequisites: Dex 6
