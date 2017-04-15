@@ -112,8 +112,9 @@ from another class.
 Double Tap: 
 Prerequisites:
 Whenever your hit falls into extra-crit range, fire another bullet as a free
-action. Only Useable with Semi-Auto or Full auto weapons. Not applicable to 
-SA Revolvers, Bolt Action, Pump-Action, etc.
+action. The extra bullet does not proc any other effects and cannot be used to
+double tap again. Only Useable with Semi-Auto or Full auto weapons. Not applicable
+to SA Revolvers, Bolt Action, Pump-Action, etc.
 
 Dual Weild:
 Prerequisites: Dex 6
