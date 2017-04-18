@@ -434,7 +434,7 @@ Proficient: Carbines
 	25:	Carbine Expert. -5% miss chance @ all ranges			
 	30:	+5% chance to miss armor when in single fire mode (doesn't apply to 100% coverage armor)			
 	40:	Carbine Master. +10% damage; Gain feat "Make it count": When in single
-		fire mode, +10% chance to crit, +5% chance to double crit.
+		fire mode, +10% chance to Crit, +5% chance to Extra Crit.
 			
 Proficient: Automatic Rifles					
 	Skill @				
