@@ -192,11 +192,6 @@ an additional +20% o unconventional maneuvers in such as well, but you and
 your vehicle take double damage for the next three turns after using these
 bonuses. (any teammates in such a vehicle do not take double damage)
 
-Honestly tho, what is the title?:
-Prerequisites: None
-Somehow you always aim at the right location, at the right time. 
-+10% Crit chance, +5% Extra-Crit chance.
-
 Kata: 
 Prerequisites: Level 10 or higher
 Whenever you land a successful melee hit against someone, you may roll for X 
@@ -223,6 +218,11 @@ Nanite Regeneration:
 Prerequisites:
 For every crit you score, restore your nanites by the amount of crit damage 
 dealt. (10 nanites for standard crit, 20 for ex-crit)
+
+Never Tell Me the Odds:
+Prerequisites: None
+Somehow you always aim at the right location, at the right time. 
++10% Crit chance, +5% Extra-Crit chance.
 
 Point-man: 
 Prerequisites:
