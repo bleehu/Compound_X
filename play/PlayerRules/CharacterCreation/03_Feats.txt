@@ -87,23 +87,6 @@ Make a stealth check to hide your chosen pistol, shotgun, or smg on your
 person. Minimum score of 20. Roll determines DC for enemy to actively search 
 and find weapon.
 
-Counter-Spell, Familiar:
-Prerquisites: Priest, Paladin, Monk or Warlock, or INT > 5
-Whenever an opponent caster uses a spell or spell-like ability which is not a 
-free action, you may spend a number of Nanites up to INT x 6 or your caster 
-level * 10 if applicable. Nanites spent are used as a bonus to an opposing 
-roll of your opponent. Their cast DC becomes your roll. Defender (you) wins a 
-tie. On a successful use of Counter-Spell, the spell''s effect is negated 
-completely. Both parties expend their Nanites, regardless of who wins. Counter-
-Spell will cost the Caster One Half-Action on their next turn for each time 
-cast on an opponents turn. There is a limit of 4 uses outside of your turn. 
-Only spells from within your own domain or major alignment may be targeted for 
-countering. (good, neutral, evil)
-
-Counter-Spell, General:
-Prerquisites: Counter-Spell, Familiar
-You may use Counter Spell on spells from outside your domain of knowledge.
-
 Cross-Train:
 Prerquisites: Int 8
 Instead of taking your regular Class feat on the next level, you may learn one 
