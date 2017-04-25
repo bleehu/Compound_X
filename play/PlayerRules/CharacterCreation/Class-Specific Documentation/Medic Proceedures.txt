@@ -2,14 +2,30 @@ Medics have the skills and tools to perform certain proceedures.
 
 
 Contagions:
+Some of the more ... questionable... talents of the medic require the use of 
+mutated pathogens. The medic's tools can mutate existing biologic material
+to produce certain (usually harmfull) traits. Contagions are not stored between
+conflicts and die at the end of an engagement.
 
+Adrenaline:
+Not to be confused with the feat by the same name. As a Medic fights, their
+adrenaline levels rise. Some abilities require a certain amount of adrenaline
+to perform in combat scenarios. A medic cannot have more than 500 
+adrenaline points at any time. While medics are able to calm down between
+engagements, they don't ever really relax all the way in a combat zone. 
+The net effect is that a medic starts every engagement with 100 adrenaline
+points. 
+
+Needles:
+Some abilities require the expendature of large, spikey needles. They can
+be purchased at most medical centers and some weapons stores.
 
 =================================
 =====	Malpractice Tree	=====
 =================================
 
 /////	Medical Emergency
-Nanite Cost:40
+Adrenaline Cost:40
 Duration: 	Free Action
 Range:		Self
 Effect:		Increase move speed to 12m per action
@@ -19,7 +35,8 @@ they have more important things to worry about. Cannot be used to move
 more than 36m per turn.
 
 /////	Nanite Spike
-Nanite Cost:30
+Adrenaline Cost:30
+Needle Cost:	1
 Duration: 	Standard Action
 Range:		40m
 Effect:		10 % chance to miss. Deal 52 piercing damage.
@@ -27,7 +44,8 @@ If target has no shield left and is still alive, apply a
 poison payload of your choice.
 
 /////	Fast Spike
-Nanite Cost:30
+Adrenaline Cost:30
+Needle Cost:	1
 Duration: 	Half Action
 Range:		40m
 Effect:		16 % chance to miss. Deal 52 piercing damage.
@@ -35,7 +53,8 @@ If target has no shield left and is still alive, apply a
 poison payload of your choice.
 
 /////	Multi Spikes
-Nanite Cost:90
+Adrenaline Cost: 40
+Needle Cost: 3
 Duration: 	Standard Action
 Range:		30m
 Effect:		You launch off three nanite spikes in quick succession using both
@@ -44,14 +63,16 @@ launch at. Each spike that hits deals 52 piercing damage. If target has no
 shield left and is still alive, apply a poison payload of your choice.
 
 /////	Peircing Spike
-Nanite Cost:35
+Adrenaline Cost:35
+Needle Cost: 1
 Duration: 	Standard Action
 Range:		45m
 Effect:		10 % chance to miss. Deal 42 piercing damage.
 ignores sheilds and balistic armor. Apply a poison payload of your choice.
 
 /////	Poison: Mild Halucinogen
-Nanite Cost:20
+Adrenaline Cost:20
+Contagion Cost: 1
 Duration: 	5 turns
 Range:		Payload (use in combination with other powers)
 Effect:		Target must pass a DC 70 Will check. If they fail, 
@@ -66,7 +87,8 @@ watering the grass dilligently
 Halucinogens only affects biologic targets.
 
 /////	Poison: Depressant
-Nanite Cost:30
+Adrenaline Cost:30
+Contagion Cost: 1
 Duration: 	engagement
 Range:		Payload (use in combination with other powers)
 Effect:		Target must pass a DC 70 Will check. If they fail, target
@@ -76,14 +98,15 @@ deploment powers that otherwise wouldn't. +5m radius area of effect.
 Depressant only affects biologic targets.
 
 /////	Quarentine
-Nanite Cost:120
+Adrenaline Cost:120
 Duration: 	Half Action
 Range:		2 to 8m radius within 30m at your discression
 Effect:		All enemies within the the radius of effect cannot leave 
 the area of effect. Effect persists for 8 turns.
 
 /////	Poison: Potent Halucinogen
-Nanite Cost: 50
+Adrenaline Cost: 50
+Contagion Cost: 2
 Duration: 	10 turns
 Range:		Payload (use in combination with other powers)
 Effect:		Target must pass a DC 150 Will check. If they fail, 
@@ -103,7 +126,8 @@ pursuit of cake. The target has the worst munchies.
 Halucinogens only affects biologic targets.
 
 /////	Poison: Fentanyl Derivative
-Nanite Cost:60
+Adrenaline Cost: 60
+Contagion Cost: 1
 Duration: 	engagement
 Range:		Payload (use in combination with other powers)
 Effect:		Target must pass a DC 60 Shock check for every action they take over
@@ -115,14 +139,15 @@ on biologic targets.
 
 
 /////	Breakout
-Nanite Cost:60
+Adrenaline Cost: 60
 Duration: 	Standard Action
 Range:		15m to 20m radius, with Doc as the center
 Effect:		Apply a payload of poison of your choosing to every target in range.
 Targets with gas masks are immune. Allies are targeted as well.
 
 /////	Poison: CNS Override
-Nanite Cost:400
+Adrenaline Cost: 340
+Contagion Cost: 3
 Duration: 	engagement
 Range:		Payload (use in combination with other powers)
 Effect:		Target enters a zombie-like state as nanites enter their 
@@ -134,7 +159,8 @@ to failure, and very illegal in most sectors. CNS Override only affects
 biologic targets.
 
 /////	Poison:	PAX
-Nanite Cost:100
+Adrenaline Cost: 80
+Contagion Cost: 2
 Duration: 	1 Day
 Range:		Payload (use in combination with other powers)
 Effect:		A target exposed to the PAX strain must pass a DC 240 Will save.
@@ -152,14 +178,15 @@ to kill and eat any living target until it dies of overconsumption or exaustion.
 PAX only affects biologic targets.
 
 /////	Epidemic
-Nanite Cost:80
+Adrenaline Cost:80
 Duration: 	Standard Action
 Range:		30m to 35m radius, with Doc as the center
 Effect:		Apply a payload of poison of your choosing to every target in range.
 Targets with gas masks are immune. Allies are targeted as well.
 
 /////	Poison:	NF-34
-Nanite Cost:80
+Adrenaline Cost: 80
+Contagion Cost: 1
 Duration: 	20 turns
 Range:		Payload (use in combination with other powers)
 Effect:		The biologic agent eats away at the target's flesh and biologic 
@@ -171,7 +198,7 @@ wouldn't. Use of biologic weapons are severely frowned upon in most civilized
 regions of space.
 
 /////	Pasteurize
-Nanite Cost:60
+Adrenaline Cost: 60
 Duration: 	Standard Action
 Range:		35m
 Effect:		The Doc uses their nanites to focus microwaves to steralize a 
@@ -182,23 +209,28 @@ well. Ongoing damage takes effect the first round that this attack hits, at
 the end of the target's turn. Pasteurize burns do not stack on each other. 
 
 /////	Poison: Thiopental Derivative
-Nanite Cost:15
+Contagion Cost: 1
 Duration: 	Standard Action
 Range:		Payload (use in combination with other powers)
-Effect:		Truth serum. Principle uses are for role playing. While any 
-character could procure similar substances as a role-playing item for 1EP
-a piece, the value of this trick is that it's free, almost unlimited and 
-you don't need to worry about smuggling it anywhere.
+Effect:		Truth serum. Principle uses are for noncombat situations. While any 
+character could procure similar substances as a role-playing item for about $60 
+worth of chemistry suplies and a chemistry check of DC 80 a piece, the value of 
+this trick is that it's free, almost unlimited and you don't need to worry about 
+smuggling it anywhere.
 
 /////	Transmission Vector
-Nanite Cost:60
+Adrenaline Cost:60
+Needle Cost: 1
 Duration: 	Standard Action
 Range:		5m radius centered at a point up to 30m from the Doc
-Effect:		Targets without gas masks have the poison payload of your choice
-applied to them.
+Effect:		You add an aerator to the end of your needle and launch it not at 
+one target in particular, but among the frey hoping to hit multiple targets.
+Targets without gas masks have the poison payload of your choice applied to 
+them.
 
 /////	Poison:	NF-40
-Nanite Cost:60
+Adrenaline Cost: 60
+Contagion Cost: 1
 Duration: 	two weeks
 Range:		Payload (use in combination with other powers)
 Effect:		The biologic agent eats away at the target's flesh and biologic 
@@ -210,7 +242,8 @@ wouldn't. Use of biologic weapons are severely frowned upon in most civilized
 regions of space.
 
 /////	Poison:	Lethal Toxin
-Nanite Cost:60
+Adrenaline Cost: 60
+Contagion Cost: 1
 Duration: 	almost instantaneous
 Range:		Payload (use in combination with other powers)
 Effect:		A biologic target aflicted with this poison takes 180 damage that 
@@ -218,23 +251,26 @@ ignores shields, silences the target and prevents them from casting nanite
 spells for 10 turns if they survive.
 
 /////	Plague
-Nanite Cost: 250
+Adrenaline Cost: 250
+Neelde Cost: 2
 Duration: 	1 day
 Range:		40m
 Effect:		The target has the poison payload of your choice applied to them.
 Any time another biologic target (friend or foe) comes within 8m of a target 
 infected with plague that new target gets infected too. This effect is 
-recoursive without limit. 
+recoursive without limit, but a target that has made a save against the 
+payload delivered by this proceedure is inoculated from subsequent recoursions
+of this proceedure.
 
 /////	Nanite Push
-Nanite Cost: 40
+Adrenaline Cost: 40
 Duration: 	Standard Action
 Range:		20m
 Effect:		Imparts enough force on a target or object to shift a 300lb 
 target 10m away by 1m.
 
 /////	Mild Phenethylamine Agonist
-Nanite Cost:60
+Adrenaline Cost:60
 Duration: 	Half Action
 Range:		Applies to the Doc only
 Effect:		For 3 turns, the doc gets a -28% to miss with guns, grenades, 
@@ -242,7 +278,7 @@ spells, and melee weapons. They also get a +30 to reload and a +10% chance to
 crit.
 
 /////	Free Running
-Nanite Cost:60
+Adrenaline Cost:60
 Duration: 	Standard Action
 Range:		5m radius centered at a point up to 30m from the Doc
 Effect:		Your nanites form microscopic bonds with any solid surface allowing 
@@ -251,7 +287,7 @@ weight. The proceedure for doing this without blowing up one's heart or leaving
 one's spine behind takes more training than the average soldier receives. 
 
 /////	Dex-10
-Nanite Cost:60
+Adrenaline Cost:60
 Duration: 	half action
 Range:		Doc only
 Effect:		Your move speed increases by 4m per full action, with an absolute
@@ -259,14 +295,14 @@ maximum of 13m per action. Dex-10 lasts for one engagement. A Doc cannot have
 more than one dose of DEX at a time.
 
 /////	Nanite Wave
-Nanite Cost:60
+Adrenaline Cost:60
 Duration: 	Standard Action
 Range:		A 45 degree angle centered on the Doc and extending out 15m
 Effect:		Biologic targets in the area of effect without gas masks have the
  oison payload of your choice applied to them.
 
 /////	Illegal Penethylamine Agonist
-Nanite Cost:60
+Adrenaline Cost:60
 Duration: 	Half Action
 Range:		Applies to the Doc only
 Effect:		For 3 turns, the doc gets a -46% to miss with guns, grenades, 
@@ -274,7 +310,7 @@ spells, and melee weapons. They also get a +60 to reload and a +10% chance to
 crit.
 
 /////	Dex-11
-Nanite Cost:80
+Adrenaline Cost:80
 Duration: 	half action
 Range:		Doc only
 Effect:		Your move speed increases by 6m per full action, with an absolute
@@ -282,7 +318,7 @@ maximum of 17m per action. Dex-11 lasts for one engagement. A Doc cannot have
 more than one dose of DEX at a time.
 
 /////	The Good Stuff
-Nanite Cost:500
+Adrenaline Cost:500
 Duration: 	Standard Action
 Range:		Effects apply only to the Doc
 Effect:		This is a fully customized brew specially grown to bond with your
