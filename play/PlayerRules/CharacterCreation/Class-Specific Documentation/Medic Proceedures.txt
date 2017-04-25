@@ -583,8 +583,8 @@ the engagement. This trick works on any race of ally.
 Adrenaline Reward:	n/4
 Range:			Touch
 Action:			Free Action
-Effect:			Transfer n number of nanites from the Doc to the patient. If
-This trick is used on another doctor, no nanites are earned. 
+Effect:			Transfer n number of Adrenaline points from the Doc to the 
+patient. If This trick is used on another doctor, no adrenaline points are earned. 
 
 /////	Illegal Steroid
 Adrenaline Reward:	40
