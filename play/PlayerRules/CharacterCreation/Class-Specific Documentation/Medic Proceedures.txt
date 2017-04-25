@@ -1,3 +1,9 @@
+Medics have the skills and tools to perform certain proceedures.
+
+
+Contagions:
+
+
 =================================
 =====	Malpractice Tree	=====
 =================================
