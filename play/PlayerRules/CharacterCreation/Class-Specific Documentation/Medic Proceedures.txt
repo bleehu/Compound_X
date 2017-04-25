@@ -34,7 +34,7 @@ in a medical emergency, the Doc suffers a +28% chance to miss, 'cause
 they have more important things to worry about. Cannot be used to move
 more than 36m per turn.
 
-/////	Nanite Spike
+/////	Harmasist Spike
 Adrenaline Cost:30
 Needle Cost:	1
 Duration: 	Standard Action
@@ -57,7 +57,7 @@ Adrenaline Cost: 40
 Needle Cost: 3
 Duration: 	Standard Action
 Range:		30m
-Effect:		You launch off three nanite spikes in quick succession using both
+Effect:		You launch off three harmasist spikes in quick succession using both
 hands. Each has an 18 % chance to miss. You may pick up to three targets to 
 launch at. Each spike that hits deals 52 piercing damage. If target has no 
 shield left and is still alive, apply a poison payload of your choice.
@@ -500,9 +500,9 @@ Contagion Reward:		n
 Range:			6m circle, doc is the origin
 Action:			Full Action
 Effect:			Every biologic patient in range has Two wounds healed by 40 
-points. The doc gets n nanites back where n is the number of wounds healed.
-Only Heals Allies. The doc gets a -50 to stealth rolls when performing this
-proceedure.
+points. The doc gets n adrenaline points back where n is the number of 
+wounds healed. Only Heals Allies. The doc gets a -50 to stealth rolls when 
+performing this proceedure.
 
 /////	5-HT Inhibiter
 Adrenaline Reward:	10
@@ -559,8 +559,8 @@ Range:			20m radius centered on the Doc
 Action:			Half Action
 Effect:			Reveal active central nervous systems within a 20m radius of the Doc.
 Every target revealed by Sense Heartbeat that is comminicated to an ally and is
-then defeated grants the Doc 20 nanites. This ability may be sustained for 5 
-adrenaline per turn as a free action.
+then defeated grants the Doc 20 adrenaline points. This ability may be 
+sustained for 5 adrenaline per turn as a free action.
 
 /////	Mild Steroid
 Adrenaline Reward:	15
