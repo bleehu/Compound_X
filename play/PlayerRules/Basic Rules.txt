@@ -348,7 +348,7 @@ dissappear.)
 Poisoned - d10 damage per turn. After 5 turns, some poisons may induce 
 unconsciousness. DC 50, Fortitude. Greater / Lesser posion increases damage 
 (+5/-5) and DC (+25,-10).
-
+Stunned/Paralyzed - Affected target cannot take actions for the duration.
 ==============================
 Damage Types and Armour types
 ==============================
