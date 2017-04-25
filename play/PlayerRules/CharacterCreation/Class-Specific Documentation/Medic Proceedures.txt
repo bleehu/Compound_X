@@ -150,9 +150,9 @@ Adrenaline Cost: 340
 Contagion Cost: 3
 Duration: 	engagement
 Range:		Payload (use in combination with other powers)
-Effect:		Target enters a zombie-like state as nanites enter their 
+Effect:		Target enters a zombie-like state as the modified contagion enter their 
 bloodstream and use protien targeting to bind to the target's central nervous 
-system. The nanites emulate rare parisites that vary neurotransmitters and
+system. The contagion emulate rare parisites that vary neurotransmitters and
 stimulate axion impulses. The end result is that the Doc receives rudimentary
 control over the target. Use of CNS Override protocols is experimental, prone
 to failure, and very illegal in most sectors. CNS Override only affects 
@@ -398,7 +398,7 @@ Action:			2 Full Actions
 Effect:			Stands for Persistant Emergent Generalists, a type of surgical 
 nanobot that stays in the patient's bloodstream and continues to administer 
 care over an extended period of time. Effect lasts for 10 turns and heals 10 
-health every turn. DC 60 to hack. If nanites are hacked, deals damage instead. 
+health every turn. DC 60 to hack. If nanobots are hacked, deals damage instead. 
 PEGs are easily detectable by tech scanning technologies or spells. PEGs cannot
  heal a patient over their maximum health.
 
@@ -410,7 +410,7 @@ Action:			1 Full Action
 Effect:			Stands for Persistant Emergent Generalists, a type of surgical 
 nanobot that stays in the patient's bloodstream and continues to administer 
 care over an extended period of time. Effect lasts for 5 turns and heals 20 
-health every turn. DC 130 to hack. If nanites are hacked, deals damage instead. 
+health every turn. DC 130 to hack. If nanobots are hacked, deals damage instead. 
 PEGs are easily detectable by tech scanning technologies or spells. PEGs cannot 
 heal a patient over their maximum health.
 
@@ -490,7 +490,7 @@ Contagion Reward:		n
 Range:			6m circle, doc is the origin
 Action:			Full Action
 Effect:			Every biologic patient in range has one wound healed by 40 
-points. The doc gets n nanites back where n is the number of patients healed.
+points. The doc gets n adrenaline points back where n is the number of patients healed.
 Heals allies and enemies. The doc gets a -200 to stealth rolls when performing
 this proceedure.
 
