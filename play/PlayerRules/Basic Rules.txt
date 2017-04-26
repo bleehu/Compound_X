@@ -46,7 +46,7 @@ every level 2*int skill points,
 every 5th level +1 stat point, +1 Class feat
 On levels 5, 9, 15 and 20, the stat point increase happens before any 
 calculation, so if you had 10 int, and increased to 11, you would get 22 skill 
-points for the level.
+points for the level. Additionally, any stat point alteration forces a recalulation on all affected values.
 
 ╔═══════╦══════════╦═══════╦════════════╦════════════╦═══════════════╗
 ║ Level ║ Skill P. ║ Feats ║ Class Feat ║ Stat Point ║ Feats (9 CHA) ║
@@ -96,7 +96,8 @@ points for the level.
 Saving Throws
 ==============================
 
-Saving throws are used in dire or critical situations to defend against very negative effects.
+Saving throws are used in dire or critical situations to defend against very 
+negative effects.
     - Will: defend against a mind affect (Ex: throw off hopelessness after 
     	crashing in an escape pod)
     - Shock: maintain composure after serious damage (Ex: stay conscious after 
@@ -105,7 +106,8 @@ Saving throws are used in dire or critical situations to defend against very neg
     	enemy if they leap from one piece of cover to another).
 the equations are as follows:
     - Will: 2*(Cha + Fort - 6) Rational: Normally wisdom would be applied, so 
-    	Will in compound X is descried as your internal voice motivating you to endure a mental hardship.
+    	Will in compound X is descried as your internal voice motivating you to
+        endure a mental hardship.
     - Shock: 2*(Fort + Int - 6) Rational: You need to recognize that you are 
     	in shock, and resist its physical effects.
     - Reflex: 2*(Per + Dex - 6) Rational: In order to react quickly to an event
@@ -251,6 +253,9 @@ afterwards. You can stack sprinting a number of times equal to half of your
 Fortitude (rounding in your favor), however for each Action taken sprinting, 
 an Action of recovery (and resulting +30% weapon penalty) must be taken after 
 the sprinting ends.
+You can jump horizontally Dex/2 meters, and add 1 meter if you have a 5 meter 
+running start.
+You can jump vertically Str/3 meters.
 
 Fighting:
 During combat, most weapons are Semi-Auto, meaning that each time you pull the 
@@ -329,14 +334,14 @@ incomprehensibly.
 Frozen - d10 damage per turn. lasts until a source of heat is applied to the 
 wound, or with Medicine Skill check, DC 50
 Fear - No actions, except running away form the source of fear, or rolling to 
-defeat fear. DC 50, Shock save.
-Fear, Greater - No actions, except rolling to defeat fear. DC 75, Shock save.
+defeat fear. DC 50, Will save.
+Fear, Greater - No actions, except rolling to defeat fear. DC 75, Will save.
 CS Burn - d10/2 damage for 2 turns. + 5 damage against robots.
 Necrosis - 2d10 +5 damage per turn. Seek medical attention immediately. If 
 left unhealed for more than a day, the infection spreads 1 foot per day. 
 Medicine DC 75, must be rolled.
 Pinned - Target pinned (hunkered, no movement) for 2 full turns or until they 
-pass a Shock saving throw at DC of 70, whichever is quicker.
+pass a Will saving throw at DC of 70, whichever is quicker.
 Plasma Burn - 2d10 damage per turn (stackable: if a target accrues more than 
 one burn counter, then the burn counters are spent 1 per turn until they 
 dissappear.)
@@ -357,8 +362,8 @@ balistic armour is shot by a balistic weapon, the armour may apply some damage
 reduction, then the player takes damage. The second type of damage players may 
 come across is plasma. Plasma damage stacks, and interracts fairly neutrally 
 with both balistic and CS armours. Balistic armour applies some DR to any 
-plasma damage, but in turn the plasma will melt away part of the armour. Half 
-of the plasma's damage is removed from the armour's hit percent. For CS 
+plasma damage, but in turn the plasma will melt away part of the armour. One 
+Tenth of the plasma's damage is removed from the armour's hit percent. For CS 
 shields, Plasma deals full damage to the shielding, plus inflicts plasma burn 
 on the wearer. Laser damage is the third type f damage encountered by players. 
 All lasers deal burn damage on hit. Lasers are completely nullified by CS 
@@ -366,6 +371,19 @@ shields, dealing all of their damage to the shielding, and inflicitng no burn
 damage. Lasers deal full damage to armoured targets, and remove nothing off of 
 the armour's hit percent. If a player wearing balistic armour is hit with a 
 laser, they recieve damage as if they weren't wearing any armour.
+
+Beyond weapon damage there are also environmental threats to consider. An 
+important note is on fall damage. A player can fall up to their Dex/2 in 
+meters before needing to roll an acrobatics check. If the surface they are 
+landing on is somehow fouled, the GM may require the player to roll an 
+acrobatics check when landing from any height at their discretion. On a failed 
+roll, take damage equal to 2 times the height fallen. The player also incurs 
+one injury, depending on the severity of the fall. Some examples are below:
+    Sprained ankle(s)
+    Broken ankle(s)
+    Broken leg(s)
+    Broken arm(s) in addition to leg(s)
+    Broken everything
 
 ==============================
 Casting Spells

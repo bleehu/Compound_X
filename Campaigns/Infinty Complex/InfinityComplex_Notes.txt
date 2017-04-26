@@ -21,7 +21,7 @@ Guards limit access in and out of the bay during transit. The Crew and Engine re
 
 This is where the GM leaves the players. They are independant at this point, free to explore the ship for about a day. Unbeknownst to the players, the transport ship is heading into a trap set up by an atelsikor scouting party. The civilian ship is not only transporting people, there is a very old piece of cargo attached to it, a relic being brought in to Mars base for inspection.
 
-Regardless of what the players do in the next in-game day of play time, The ship makes a sudden exit from slip-space. Soon after a voice is heard on an intercom:
+Regardless of what the players do in the next in-game day of play time, The ship makes a sudden exit from slip-space. Soon after a voice is heard on an intercom: 
 "All crew, report to emergency sectors. Brace for contact."
 
 A few of the guards begin entering the crowd, calling for calm and for all passengers to pack their essentials and stay in their quarters.
