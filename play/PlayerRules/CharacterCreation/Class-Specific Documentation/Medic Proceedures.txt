@@ -136,8 +136,6 @@ canceled and they lose that action. If they fail three checks they pass out.
 if they pass out, they must pass a shock check of 120 to wake up. Only works
 on biologic targets.
 
-
-
 /////	Breakout
 Adrenaline Cost: 60
 Duration: 	Standard Action
@@ -207,6 +205,19 @@ and 20 ongoing burn damage for 5 turns unless cooled somehow. Ignore Shields,
 Do not ignore armor. If this attack hits armor, ongoing damage is reduced as 
 well. Ongoing damage takes effect the first round that this attack hits, at
 the end of the target's turn. Pasteurize burns do not stack on each other. 
+
+/////	Biopsy
+Adrenaline Cost: 40
+Needle Cost:		1
+Contagion Reward: 4
+Duration: Half Action
+Range: Touch
+Effect: You need more pathogens, but your teammates aren't sharing. Perhaps
+your enemy might be made to donate some? You grab one of your needles and 
+violently scoop some out of them. This isn't exactly how it worked in med school.
+Make a melee attack against your enemy. If it hits, you get a contagion reward
+of 4, if it misses, you get nothing. You get a -20% to miss and deal damage 
+equal to 4 * Strength. Ignore armor. 
 
 /////	Poison: Thiopental Derivative
 Contagion Cost: 1
