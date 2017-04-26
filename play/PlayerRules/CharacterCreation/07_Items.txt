@@ -41,7 +41,7 @@ Prevents the inhalation of noxious or toxic air-borne compunds. Reduce PER
 based rolls (including strike rolls) by 10.
 
 //===================
-//consuables
+//consumables
 //===================
 
 MarkAll(tm) permanent marking pen. $2
@@ -64,6 +64,10 @@ Restores 2d10 + 20 nanites.
 Security Spike: $100
 +20 to a hack check on a door with a physical access panel. DC 30 to place. 
 Once hacked the door can be controlled remotely.
+
+Medic Needle Pack: $60
+Contains 10 needles suitable for use with several malpractice proceedures.
+Not recomended for medicianal use. 
 
 Single Use door brute-forcer $120:
 Hacks through the encryption on a door (up to 75 DC) and opens it.
