@@ -119,7 +119,7 @@ following effects: partial blindness due to uncontrolable tears (+30% to hit),
 coughing fits (-50% stealth), and take 10 damage per round spent in the cloud. 
 Targets can negate the effects with a gas mask. Targets who leave the cloud 
 will continue to exhibit partial blindness for 3 turns after leaving the fog, 
-and coughing for 6 turns.
+and coughing for 6 turns. Gas cloud persists for 2 turns after initial detonation.
 
 RMM FlashBang distraction and clearing device: $50
 30m
