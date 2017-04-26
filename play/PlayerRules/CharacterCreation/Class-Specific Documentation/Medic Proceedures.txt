@@ -195,17 +195,6 @@ exposed biology are affected by this even if a deployment method says they
 wouldn't. Use of biologic weapons are severely frowned upon in most civilized 
 regions of space.
 
-/////	Pasteurize
-Adrenaline Cost: 60
-Duration: 	Standard Action
-Range:		35m
-Effect:		The Doc uses their nanites to focus microwaves to steralize a 
-target that they can see. 15% chance to miss. Target takes 20 burn damage,
-and 20 ongoing burn damage for 5 turns unless cooled somehow. Ignore Shields,
-Do not ignore armor. If this attack hits armor, ongoing damage is reduced as 
-well. Ongoing damage takes effect the first round that this attack hits, at
-the end of the target's turn. Pasteurize burns do not stack on each other. 
-
 /////	Biopsy
 Adrenaline Cost: 40
 Needle Cost:		1
