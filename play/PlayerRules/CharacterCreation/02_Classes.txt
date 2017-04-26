@@ -432,7 +432,7 @@ single target. (Ask GM).
 power or influence are limitless. The assassin lurks in the shadows, either as 
 a lone force of justice, or as part of a larger organization. They have 
 rightfully earned the title of Galaxy''s greatest Hand to Hand Fighters.
-Passives: No penalty for engaging in Grappling maneuvers. Dex +1. Luck-1. 
+Passives: No penalty for engaging in Grappling maneuvers. 
 Assassins wear a Shadow Cloak, which allows them to become a mere silhouette. 
 When in partial darkness or darker, the static DC increases by 10.
 NOTICE: SEE BASIC RULES FOR ADDITIONAL CLOAKING ATTRIBUTES
@@ -524,8 +524,7 @@ successful hit:
 important tactile feedback is. Guns simply don''t offer the appropriate ammount
 , which is why you prefer to BEAT YOUR ENEMIES TO DEATH USING YOUR BARE HANDS 
 WHENEVER POSSIBLE!!!!!!!!!!!!!!!!!!!! MORE EXCLIMATION MARKS!!!!!!!!!!!!!!!! 
-Passives: -1 to Luck and Intelligence, +1 to Strength and Fortitude. Expert 
-unarmed.
+Passives: Expert unarmed.
 Weapon Proficiencies: Pistols.
 Armour Proficiencies: Concealed, Recon, Light, Medium, Heavy.
 Starting Wealth: $1700+100*Luck - 1200
@@ -562,7 +561,7 @@ a few are trained to defend the Temple in case of attack. All Monks take an
 Oath to not utilize "lesser" technologies [guns, armour, and even nanite 
 packs.], for only through embracing the Higher Technologies can one Advance 
 oneself to the planes of the Great Ones.
-Passives: No penalty for engaging in Grappling maneuvers. Dex +1. Hand to hand 
+Passives: No penalty for engaging in Grappling maneuvers. Hand to hand 
 Expert, 20. +20 damage to non-lethal attacks, +10 damage to lethal attacks. At
 level 5, and again at level 15 all monks must head back to their home temple 
 or seek a wise master to learn more advanced techniques. Until this training 
