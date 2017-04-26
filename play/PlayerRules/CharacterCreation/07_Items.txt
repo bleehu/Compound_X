@@ -111,10 +111,61 @@ pass, etc. Basically items that cannot be used in combat, but would have great
 value in RP. These cost nothing, but you can only have a maximum of 2 items at 
 start.
 
-Examples of Misc. Items include rope (20m), compass and map, matches, 
-flashlight, a single magazine for your gun, flares, etc. These are basically 
-items that have an actual use of some sort. $100 each unless otherwise 
-specified, 5 free at start.
+//===================
+//		Miscellaneous Items
+//===================
+
+20m of Nylon Rope		$30:
+A light, sturdy rope 20 meters long which can hold a tension of 400lbs without snapping.
+
+Trulight LED flashlight	$22:
+A metal black flashlight with bright LED bulbs. Illuminates up to 15m of bright light.
+
+Smart Phone		$180:
+A touch screen, microphone and speaker in a plastic case. Reception may vary by location.
+DC to hack with skill points in hacking: 30
+DC to hack without skill points: 80
+
+Road Flare		$15:
+A phosphorus red stick with a strike pad at the end. Will put off soft red 
+light for 5m in every direction for about an hour. Burns in rain, mud, 
+even burns underwater. Don't touch the end or you'll take 10 fire damage.
+
+Comfy Bed Roll		$55:
+An insulated and padded bedroll. Great for missions which last more than a
+couple of days. Not rated for temperatures above 43 degrees C or below -5 C.
+
+Walkie-Talkie		$45:
+A simple 30 channel push to talk hand held radio. Has a 2km range. Comes 
+with a handy clip to attach to a belt or combat harness. Simple encryption can
+be broken with a DC 45 hacking skill check.
+
+Radio Headset		$65:
+A slightly more sophistocated communication system. Fits well under most 
+combat helmets and is available in different sizes for most races or species.
+Uses passive filtering to reduce background noise. Capable of broadcasting
+while receiving. Better encryption means it takes a hacking check of DC 64
+to listen in. A DC check of 78 to make a call on an enemy line. Range of 3km.
+
+Integrated Remote Verbal Communication Module $80:
+Cybernetic customers such as cyborgs or Security Droids may purchase and
+install an integrated radio broadcasting module. These have a range of 2km
+and a DC of 82 to hack into, since they can use the host's own encryption 
+hardware.
+
+Subdermal Mic		$230:
+The best combat communication system available on the public market. A
+microphone is actually injected under the users' skin and rests next to the
+combatant's jaw bone. It uses the vibration of the jaw to send clear voice
+sounds even over cacophanous gunfire. A similar speaker is injected in the
+back of the cheek near the ear. Impossible to see with the naked eye without 
+invading the wearer's personal space. DC 140 to hack.
+
+Other misc. items are available for sale in the world. While you're playing be 
+on the lookout for shops or characters who might sell you more things. If you
+want to buy other starting equipment, ask your DM if something specific is 
+available and how much it might cost. Equipment that you start with generally
+depends on your character's fist mission. 
 
 //===================================================================
 //Copyright 2016 Taylor Rowland
