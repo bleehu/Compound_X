@@ -14,31 +14,31 @@ Reduce the miss penalty from dual weilding to 10% each. Reduce the reload
 penalty to reloading to 10%. You may fire at more than one target at once for 
 an additional 20% to miss penalty.
 
-Aquired: Additional Plating
+Acquired: Additional Plating
 Prerequisites: Marksman, Gunslinger
 Enables the use of Medium Armour by the listed classes.
 
-Aquired: Battle Ready
+Acquired: Battle Ready
 Prerequisites: Pilot, Adept
 Enables the use of Heavy armour by the listed classes.
 
-Aquired: Metal Jacket
+Acquired: Metal Jacket
 Prerequisites: Soldier, Engineer, Adept, Berserker
 Enables the use of Full Armour by the listed classes.
 
-Aquired: The Clandestine Option
+Acquired: The Clandestine Option
 Prerequisites: Soldier, Specialist, Pilot, Adept, Hunter
 Enables the use of Concealed Armour by the listed classes.
 
-Aquired: The Stealth Option
+Acquired: The Stealth Option
 Prerequisites: Soldier, Engineer, Doctor, Priest, Pilot, Adept, Gunslinger, 
 Warlock, Monk, Berserker
 
-Aquired: With Friends Like These . . .
+Acquired: With Friends Like These . . .
 Prerequisites: Pilot, Engineer or Piloting 40
 
-Aquired: . . . Who Needs Nano-Technologies?
-Prerequisites: Pilot or "Aquired: With Friends Like These . . ." and Piloting 60
+Acquired: . . . Who Needs Nano-Technologies?
+Prerequisites: Pilot or "Acquired: With Friends Like These . . ." and Piloting 60
 
 Backstab:
 Prerequisites: Level 3 and higher Assassins and Monks.
@@ -87,12 +87,17 @@ Make a stealth check to hide your chosen pistol, shotgun, or smg on your
 person. Minimum score of 20. Roll determines DC for enemy to actively search 
 and find weapon.
 
+Cross-Train:
+Prerquisites: Int 8
+Instead of taking your regular Class feat on the next level, you may learn one 
+from another class.
+
 Double Tap: 
 Prerequisites:
-Increase your crit range by 10%. Whenever your hit falls into crit range, 
-expend an additional bullet in order to deal 2x crit damage. Only Useable with 
-Semi-Auto or Full auto weapons. Not applicable to SA Revolvers, Bolt Action, 
-Pump-Action, etc.
+Whenever your hit falls into extra-crit range, fire another bullet as a free
+action. The extra bullet does not proc any other effects and cannot be used to
+double tap again. Only useable with Semi-Auto weapons. Not usable with
+SA Revolvers, Bolt Action, Pump-Action, Full-Auto weapons, etc.
 
 Dual Weild:
 Prerequisites: Dex 6
@@ -191,6 +196,16 @@ allowing them to achieve one of the following:
     +20% to an combat-action at a cost of 20 nanites for 1 turn (ask GM before applying to an action. )
     +20% to a non-combat-action at a cost of 20 nanites for 1 turn (ask GM before aplying to an action.)
     Others, run any ideas by GM.
+    
+Nanite Regeneration: 
+Prerequisites:
+For every crit you score, restore your nanites by the amount of crit damage 
+dealt. (10 nanites for standard crit, 20 for ex-crit)
+
+Never Tell Me the Odds:
+Prerequisites: None
+Somehow you always aim at the right location, at the right time. 
++10% Crit chance, +5% Extra-Crit chance.
 
 Point-man: 
 Prerequisites:
@@ -256,8 +271,9 @@ upgraded by making good decisions based on this skill, rather than by
 upgrading it with skill points.
 
 Sleight of hand: 
-Prerequisites:
-Negate the pump of a shotgun, cocking of a revolver, or cycling of a bolt. 
+Prerequisites: DEX 6+
+Negate the pump of a shotgun, cocking of a revolver, or cycling of a bolt when
+performing another action besides the same (or firing).
 Reload DCs are 5% lower.
 
 Snap Shot: 
@@ -297,7 +313,7 @@ is taken, you may choose to add one of the following onto your suppression
 
 Tele-Cast
 Prerequisites: Paladin, Sorcerer, Mage.
-You may use a mellee weapon to perform touch effect spells.
+You may use a melee weapon to perform touch effect spells.
 
 Toughness: 
 Prerequisites:
@@ -312,7 +328,7 @@ in extra Nanites, or take the average of the result (1d10 = 5, 2d10 = 10, can
 be taken twice).
 
 Unconventinal Warfare:
-Prerequisites: Any feat > 9, combat style must primarily use this stat.
+Prerequisites: Any stat > 9, combat style must primarily use this stat.
 You are trained in the art of combative tossing, or some other obscure 
 fighting technique
 
@@ -354,17 +370,97 @@ Weapon Familiarization (can be taken once):
 Prerequisites:
 Remove 15% miss chance from any one weapon model.
 
-Weapon Skill Tree: 
-Prerequisites:
-(Listed numbers are stacked per level you take in this feat. Maximum 3 levels per tree.)
-    - Pistoleer: +10 damage to pistols.
-    - Shotgun Surgeon: target gets -10% armour. If they do not have armour deal +5 damage.
-    - Spray and Pray: When using SMGs, plus 1 round fired, +10% miss chance.
-    - Assault and Battery: +10m range to assault rifles and carbines.
-    - Sniper: +5 damage and -5% Miss Chance to Long Rifles
-    - HeavyMetal fan: +5% use Heavy Weapons
-    - Demo Man: +5 damage explosive radius, +5 skill to use.
-    - Penetrating Shot: +10 Bow damage to armoured targets.
+Weapon Skill Trees:					
+Prerequisites: None					
+(Requires 1 Feat to unlock the specific proficiency skill @ 10, then 
+apply skill points to unlock the rest of the bonuses. Max skill is 40)					
+(Bonuses ONLY APPLY to weapons in their respective weapon class)					
+Proficient: Pistols					
+	Skill @				
+	10:	Pistol Proficient. Range +10m			
+	15:	-10% reload miss chance			
+	20:	+10% stealth when firing pistols			
+	25:	Pistol Expert. -5% miss chance @ all ranges			
+	30:	+5% Reflex when room clearing				
+	40:	Pistol Master. +20% damage; Gain feat "Pistol Quickdraw"
+		(which is feat "quickdraw"  that is only usable with pistols)			
+		*If you have feat "Quickdraw" in addition to "Pistol Quickdraw",
+		negate the action to aim when drawing your pistol(s). When holstering
+		your pistols after drawing, you must use an action to holster.
+Proficient: Submachine Guns					
+	Skill @				
+	10:	SMG Proficient. Range +5m			
+	15:	-10% reload miss chance			
+	20:	+5% Reflex when room clearing		
+	25:	SMG Expert. -5% miss chance @ all ranges			
+	30:	-5% miss chance when firing in fully-automatic; -3% in burst			
+	40:	SMG Master. +10% damage; Gain feat "The Split": when firing automatic 
+		or burst, you can choose to pay 15 nanites and fire half your bullets
+		at two different targets in front of you, within 10m of eachother.
+					
+Proficient: Shotguns					
+	Skill @				
+	10:	Shotgun Proficient. Range +10m		
+	15:	-15% reload miss chance			
+	20:	+5% Reflex when room clearing			
+	25:	Shotgun Expert. -5% miss chance @ all ranges			
+	30:	+10% perception checks for awareness within 25m.			
+	40:	Shotgun Master. +10% damage; Gain Active feat "Combat Rush": If you 
+		are aware of an enemy within 10m at any time during your turn, pay 
+		20 nanites to gain 1 free move action for that turn, once per turn.			
+					
+Proficient: Carbines					
+	Skill @				
+	10:	Carbine Proficient. Range +10m			
+	15:	-10% reload miss chance			
+	20:	+5% Reflex when room clearing			
+	25:	Carbine Expert. -5% miss chance @ all ranges			
+	30:	+5% chance to miss armor when in single fire mode (doesn't apply to 100% coverage armor)			
+	40:	Carbine Master. +10% damage; Gain feat "Make it count": When in single
+		fire mode, +10% chance to Crit, +5% chance to Extra Crit.
+			
+Proficient: Automatic Rifles					
+	Skill @				
+	10:	Automatic Rifle Proficient. Range +10m			
+	15:	-10% reload miss chance			
+	20:	Automatic Rifles no longer jam			
+	25:	Automatic Rifle Expert. -5% miss chance @ all ranges			
+	30:	-5% miss chance when firing in fully-automatic; -3% in burst			
+	40:	Automatic Rifle Master. +10% damage; Gain feat "Offensive Expert": 
+		-20% miss chance for a fully-automatic firing action, once per turn.			
+					
+Proficient: Long Rifles					
+	Skill @				
+	10:	Long Rifle Proficient. -5m to minimum range, Range +10% meters			
+	15:	-10% reload miss chance			
+	20:	+10% to perception checks to spot enemies outside of your weapon's minimum range.			
+	25:	Long Rifle Expert. -5% miss chance @ all ranges			
+	30:	Gain feat "Beware the Wrath of a Patient Man": shots fired as a held reaction have a -15% miss chance.			
+	40:	Long Rifle Master. +10% damage; Gain feat "Practiced Precision": DC 75% dexterity or sniper skill
+		check to negate the action for changing your aim from one target to another in front of you 
+		(1 successful negation per turn).			
+					
+Proficient: Heavy Weapons					
+	Skill @				
+	10:	Heavy Weapon Proficient. Range +5m		
+	15:	-10% reload miss chance			
+	20:	+1m radius to your Suppression Area of Effect			
+	25:	Heavy Weapon Expert. -5% miss chance @ all ranges			
+	30:	Heavy Weapons no longer jam			
+	40:	Heavy Weapon Master. +10% damage; Gain feat "Effective Fire": when a
+		target is suppressed by your heavy weapon, they must make a DC 62% 
+		Shock save. On failure, they lose two actions at the start of their 
+		next turn.			
+			
+Proficient: Explosives					
+	Skill @				
+	10:	Explosives Proficient. +10% explosives use			
+	15:	-10% reload miss chance (grenade launchers, rocket launchers, etc.)			
+	20:	Range +5m for explosive launchers (grenade launchers, etc.)			
+	25:	Explosives Expert. -5% miss chance (grenades, rocket launchers, etc.)			
+	30:	+10% to charisma rolls for intimidation when holding any explosive/launcher			
+	40:	Explosives Master. +15% damage, Gain feat "Get Down!": Allies in blast radius 
+		may make a DC 60 Reflex save to take half damage (before armor) from friendly fire.			
 
 ====================
 Active Feats
@@ -385,6 +481,20 @@ Bunker:
 Prerequisites: High-Technology class (Monk, Paladin, Adept, Priest) or 
 Knowledge [Nanites] > 40
 Expend 25 Nanites, gain 25% to a piece of cover for 4 turns
+
+Combat Roll [40 Nanites]:
+Prerequisites: Dex of 5 or more
+Move 6m in one half action, no more, no less. Enemies attacking you take a +20% 
+to miss when attacking you for the turn after you use this feat, and you take a 
++15% to miss for the action after using this feat ends. If this mallice would 
+not run out until after this turn, it's effect wraps around to the beggining of 
+your next turn. Cannot be used in concert with run n gun.
+
+Cover Slide [20 Nanites]:
+Prerequisites: Dex of 4 or more
+Move up to your speed and end next to a barrier behind which you can take 
+cover. You hunker behind that cover as a free action. Cannot be used in 
+concert with run 'n' gun.
 
 Flash Dance: 
 Prerequisites:
