@@ -12,6 +12,7 @@ exception of the tops of their heads.
 Type:		Organic
 Size:		Medium
 Speed:		Normal
+Starting Stat Points: 42
 Stat Modifiers:	
 +2 stat points to spend at level 1
 Language: 	Emperial Common, +1 dialect
@@ -61,6 +62,7 @@ Qualities: 10RP
 Type: humanoid
 Size: Medium
 Speed: Normal
+Starting Stat Points: 40
 Stat Modifiers: Flexible - +1 DEX, +1 to PER
 Language: Racial + ECSC Standard
 
@@ -95,6 +97,7 @@ recharge after a 24 hour period. this can be done via a self-contained
 reactor. Not affected by mind-influence, succeptable to hack attempts).
 Size: Medium+
 Speed: Normal
+Starting Stat Points: 40
 Stat Modifiers: INT + 1, FORT + 2. LUCK -3.
 Language: Basic
 
@@ -121,6 +124,7 @@ or fatigue. Once they hit 0 hit points, they are destroyed. They cannot be "
 brought back" but they can store copies of themselves on respawn systems.
 Size: Medium
 Speed: Normal
+Starting Stat Points: 40
 Stat Modifiers: +2 INT, -2 LUK, +2 DEX -4 STR
 Language: ECSC standard, Machine Language, +1 language.
 
@@ -160,7 +164,8 @@ Preferred Classes: Any
 Type: Enhanced Organic.
 Size: Medium
 Speed: Normal+
-Stat Modifiers: 40 point pool.
+Starting Stat Points: 40
+Stat Modifiers: See Below
 Languge: ECSC Standard
 
 Racial Traits:
