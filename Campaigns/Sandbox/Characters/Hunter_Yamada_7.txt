@@ -48,10 +48,7 @@ augmented processing by feeding it more accurate sensor data. It has also been e
 Weapons:
 Yamada trains extensively in Shorinji Kempo and Iaido, preferring to fight
 with a Katana or fists when it comes to close-quarters. When extreme pressure
-is at hand, he uses his heavily modified Plas-Disc sub-machine gun, a
-converted pistol fitted with a carbine kit and automatic receiver. Due to the
-smaller magazine size, Yamada must reload often and has gotten used to making
-sure each shot counts.
+is at hand, he uses his Mk25 rifle to take out targets from afar.
 https://www.pinterest.com/pin/460704236855870875/
 
 Cyborg:
@@ -63,27 +60,27 @@ as linear-actuator assisted finger controls which grant him a high degree of
 dexterity and strength with his hands. This is controlled and assisted at high
 speed by his implanted neural processor.
 
-Class: Hunter [1]
+Class: Marksman [7]
 Health: 100
-Nanites: 60
-Armor type: Clandestine Ops Kit and Intermediate Cloaking Suit with custom
+Nanites: 90
+Armor type: Runner Kit and Intermediate Cloaking Suit with custom
 Kabuki Full-Seal environment mask.
 Percent Hit: 35% body, 40% head (100% face)
 D.R. 15 Body, 10 Head
     Cloaking Stats:
-    10 nanites per round, Cloak DCs: 75%. Wearer need only expend nanites on a
-    turn where they perform actions. +30 nanite pool for cloaking.
-    30%, 5 DR
-Cloak Pool: 80/80
+    50 nanites to engage, 15 per round; Cloak DCs: 75%. Wearer need only 
+    expend nanites on a turn where they perform actions. +30 nanite pool for 
+    cloaking. 30%, 5 DR
+Cloak Pool: 60/60
 Nanite Health: N/A
-Speed: 10 meters
+Speed: 9 meters
 ==STATS==
-STR || 4 -4
-PER || 7 +8
+STR || 6 +4
+PER || 6 +4
 FOR || 5 +0
-CHA || 5 +0
+CHA || 4 -4
 INT || 7 +8
-DEX || 11 +24 (10 movement)
+DEX || 10 +20 (9 movement)
 LUK || 5 +0
 ========
 SAVING THROWS:
@@ -91,45 +88,48 @@ WIL || 8
 SHK || 12
 REF || 24
 ========
+Ammo:
+    Mk25 2/2, 26
+    Mk26 2/2, 20
+    EGL 3/3, 1
 Weapons:
 ========
-Mini Plas Disc SMG $4405 / $10
-135m/185m
-10% (-14% with DEX+, -24% with snap-shot)
-13 / 13 rds
-7 / 7 mags (3 in leg rig)
-60
-Plasma Burn
-
-SGL (Standalone Grenade Launcher) $2265 / $60
+ECSC Mk25 DMR $9680 / $37
+30-325 m
+0%(-10% <= 100m)
+26 rds, 7.62 x 51 NATO
+69
+Grenade Launcher $1365 / $12
 60m
-10%
-1 / 1
-2 / 2 grenades
-70 Explosive, 5m diameter
+20%
+1 rd, 40mm HE
+HE: 70 Explosive damage in 5m Diameter.
 
 Muzashi CS Edged Katana: $455
 2m
-20% (-4% with DEX+)
-106
-Inflicts CS burn: d10/2 damage for 2 turns, does not stack. +5 dam
-against robotic units.
+0%
+100
+Inflicts CS burn
 
 Feats:
 Hands of an Artist
     Use DEX instead of PER for all weapon checks.
-Gunsmith
-    Combine two weapon conversions.
-Conceal Weapon
-    Ability to roll to conceal an smg, pistol or shotgun. minimum 20
 Snap-Shot
     -10% to enemies within half your effective range.
-Highlight Target [10]
-    Marked target takes 10 additional damage from allies and is 25% easier to
-    perceive by allies. Allies that take a half action to perceive the target
-    (rolling against target''s cover DC + 25) and succeed are granted a +5%
-    accuracy bonus against them. Once per encounter, Lvl number of uses per
-    day.
+Signiture Move [Iaijutsu]: quickdraw sword, -10% to miss.
+Wealthy Sponsor: +$22500
+
+Tech Rounds
+Spend 10 nanites. Choose from the following list of effects:
+    Gas round: On hit, releases a cloud of gas 3m accross centered on the 
+    target. Any enemies inside this cloud take a +10% Miss Chance debuff for 1
+    turn, and 10 damage.
+    Flash round: On hit, a blinding light emenates from the target. All 
+    players within 5m of the target are stunned for 1 turn.
+    Shock round: On hit, electrifies the target, dealing an additional 10 
+    damage + more for cybernetic units and also paralyzes them, forfeiting 
+    their first Full-Action, FORT DC 50
+
 
 /* planned
 Signature move (Iaijutsu), quickdraw -10% miss strike with sword.
@@ -139,9 +139,9 @@ Last Shot
 Sixth Sense
 */
 
-//L6
+//L7
 Skills:
-Tracking - 10
+Sniping - 10
 Weapon Use [Exotic] - 30
 Medicine - 20
 Stealth - 34
@@ -150,48 +150,13 @@ Deceive - 25
 Knowledge [Criminal] - 15
 
 Inventory:
-$161
+$1250 in account; $16,000 "accounted for"
 2 Medkits
+1 Nanite pack
+1 Single-Use door Brute-forcer
 5 HD Zip-Cuffs, STR DC 95 / INT DC 105
 1 Black MarkAll
 1 Silver MarkAll
 
-Mini Plas Disc SMG $4405 / $10
-    +$800 Lightened Machining Slide, DEX/3 shots per HA
-    +$860 Pistol Carbine kit, ability to mount up to 4x optics, lower rail
-        accessories. +50m range
-    +$125 1.2x PHP, -10%, +5m
-    +$500 2.5x magnifier, +50m half action to toggle.
-    +$100 Heavy Barrel, -10% STR+1
-    +$50 Muzzle Brake, -5%
-    +$100 AFG, -10%
-    +$150 1-PS, STR-1, holstering is a free action.
-    +$30% mag, +30% rounds.
 
-SGL (Standalone Grenade Launcher) $2265 / $60
-    +$600 Kit
-    +$100 GL-Irons -10%
-    +$100 Red Laser -10%
-    +$100 two point sling -5%, STR-1
-
-Muzashi CS Edged Katana: $455
-
-$3750 + ($1000*5)+($2500*1) = $11250
--$7125 Weapons
-=$4125
--$2100 Cloak
-=$2025
--$220 C-Ops kit
--$380 mask
--$60 leg rig
-=$1365
--$300 Night Vision helmet enhancement
--$400 Atmosphere filter helmet enhancement (gas mask) (more expensive in
-    order to negate the -10% perception, using rule of weapon attachment $100
-    per 10% buff)
-=$665
--$200 2x medkits
--$300 HD Zip-Cuffs (5)
--$4 MarkAll black and silver felt-tipped ink pens
-=$161
 

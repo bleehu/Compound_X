@@ -1,0 +1,64 @@
+/*
+12750
+-3100 Cloak
+-190 Runner Kit
+-120 2 Leg rigs (Prim & Sec)
+-1080 Mask
+=8260
++22500 Lvl 6 Wealthy Sponsor
+=30760
+-9680 Mk25 DMR
+-2655 Mk26 EVA
+-455 Katana
+=17970
+*/
+Kitsune Mask $380 (Full seal environment helmet)
+10 DR, 40% head (100% face)
+    -$300 Night Vision helmet enhancement
+    -$400 Atmosphere filter helmet enhancement (gas mask) (more expensive in
+        order to negate the -10% perception, using rule of weapon attachment $100
+        per 10% buff)
+
+ECSC Mk25 DMR $9680 / $37
+30-325 m
+0%(-10% <= 100m)
+26 rds, 7.62 x 51 NATO
+69
+    $7200 / $13
+    +$100 GL Irons -10% GL
+    +$175 Hologramic Projector +15m, -10%
+    +$320 IR Laser -10% <=100m
+    +$300 Improved Suppressor -20m, -5 dam, Cannot be located due to firing my weapon.
+    +$100 Heavy Barrel -10% +1 Str
+    +$100 2P-Sling -5%, -1 Str
+    / *2.2 High Vel. Ammo +10%m, +10 dam
+    / *1.3 Extended Mags, +30% mag space
+    +($10*2) Magpulls
+Grenade Launcher $1365
+60m
+20%
+1 rd, 40mm HE
+HE: 70 Explosive damage in 5m Diameter.
+
+ECSC Mk26 EVA $2655 / $23
+39m/83m
+0%
+20 rds, 10mm Caseless, HP only
+55/60
+    $1140 / $23
+    +$125 Hologramic sight -10%, +5m
+    +$320 IR Laser -10% <=100m
+    +$50 Muzzle Break -5%
+    +$100 Heavy Barrel -10%
+    +$100 Pistol Lanyard
+    / *2.2 High Vel Ammo +10%m, +10 dam
+    / *1.3 Extended Mags +30% mag space
+    +$(10*2) Magpulls
+    +$800 Machined slide / Auto kit
+
+Muzashi CS Edged Katana: $455
+Requires "Weapon Use [Exotic]" to recieve an bonuses to strike, and requires STR 4 to use.
+2m
+50%
+40 + (6*DEX)
+Inflicts CS burn

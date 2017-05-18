@@ -79,24 +79,34 @@ Miss Chance and +35 damage once per day for a heavy weapon attack.
 bodies), and put that knowledge to good use by supporting your team.
 Passives: Gain 5 skill in Anatomy, 5 skill in Pathology, and 10 skill in 
 medicine. Every level, you gain one skill in both of the "hippocratic" and "
-malpractice" skill trees. At the beggining of each encounter, you begin with 
-only half of your full count of nanites, but over the course of the battle, 
-you may gain up to 600 nanites max. 
+malpractice" skill trees. At level 1 you start with an arm mounted needle 
+launcher, handheld pathogen synthesizer, field dressing applicator and 
+a package of ten needles. You start each encounter with 200 adrenaline
+points and will need to keep track of adrenaline points, needles and 
+contagion points during a combat scenario.  
 Weapon Proficiencies: Pistols, Shotguns, SMGs
 Armour Proficiencies: Concealed, Recon, Light, Medium.
 Starting Wealth: $1700+100*Luck - 800
 Class Feats:
 ----------------------
-Scalpel jockey -
-You can slice with the best of them, mostly because there really isn''t any 
-competition for "Best frenzied medic" in these parts. 50% chance to stabilize 
-an organic who is crashing, or heal 25 health.
+Adrenaline Junkie - 
+You thrive on the stress of being shot at while trying to save someone's life.
+You know that every breath you take could be your last, and one errant twitch
+could mean the difference between sending your brother in arms to see his 
+friends and family or his ancestors. You love it. Your maximum adrenaline is 
+600 and you start each encounter with 240 adrenaline points instead of 200.
 |
 |
 |
 V
-You''ve learned to use more than just your scalpel and some gauze. 75% chance 
-success, or stabilize and heal 25 health, or just heal 50 health.
+Adrenaline Addict - 
+"Nothing in life is so exhilarating as to be shot at without result" ~ Winston Churchill
+Any time an enemy shoots at you and misses, gain 10 Adrenaline Points. 
+-----------------------
+The Harmisist - 
+Prerequisite: Level 10
+Learn an extra malpractice proceedure.
+
 
 "Engineer" - You solve problems. For insance, you know how to stop some mean 
 mutha-hubbard from tearin'' you and your team a structurally supurfluous new 
@@ -257,7 +267,7 @@ V
 The Trail becomes bright against a monochrome background of edged shades of 
 grey. +75% to a tracking check, or maximum 2 turns to pass.
 ----------------------
-Highlight Target: (Perception checks do not include checks to hit target. But by using a perception check for a half action to see where the target is and passing the target''s Cover DC+25 the player may recieve a +5% / +10% accuracy bonus.)
+Highlight Target:
 Expend 10 nanites to mark a target. All damage dealt by allies to this target 
 is increased by 10, and any perception checks are 25% easier to pass. Use once 
 per encounter. Maximum of Level number uses per day. Lasts for duration of 
@@ -270,6 +280,47 @@ Expend 10 nanites to paint a target. All damage dealt by allies to this target
 is increased by 20, and any perception checks are 50% easier to pass. Use 
 twice per encounter. Level number of uses per day. Lasts for the day.
 
+=======
+"Paladin" - You are a righteous warrier, vetted and trained by one of the 
+powerful corporations or some other technologically advanced entity. You seek 
+to uphold the principals which define the group you''ve sworn allegience to. 
+Through this devotion you have been granted access to high tech in order to 
+pursue your goals and missions.
+Passives: Terms and Conditions clause compliance, access to Paladin Spell tree
+at level 3. By adhering to the Terms and Conditions, a Paladin gains an amount 
+of Favor within their church and can unlock new paladin spells by spending 
+Favor. Starting at level 3, a Paladin gains Favor equal to their Charisma each 
+level. Favor does not have to be spent, and can be saved up to learn more 
+potent prayers and spells. Knowledge [Nanites] - 10
+Weapon Profiencies: Pistls, Carbines, SMGs, Long Rifles, Automatic Rifles.
+Armour Proficiencies: Recon, Light, Medium, Heavy.
+Starting Wealth: $1700+100*Luck
+Feats:
+----------------------
+Portable Shield:
+A shield can be projected from your off hand. When attacked, roll as if the 
+shield were your armour, which has separate stats. 80% hit chance, 0 DR, 100 
+Nanite health. Hit chance only applies when opponent is in front of the 
+character. If an attak is coming from a flank or from behind, then ignore the 
+Shield. [Projects a tangible shield, not merely a CS field]. It takes a half 
+action to deploy the shield, and a free action to dismiss it.
+|
+|
+|
+V
+90% hit chance, 0DR, 150 Nanite Health. Free action to deploy shield.
+----------------------
+Smite Enemy:
+Once per engagement, you may select an opponent and deal them double damage, 
+calculated after any other bonus damage. Standard hit rules apply, but the 
+double damage is only consumed on a successful hit [multiple attempts at using 
+smite may be made per encounter, but once a successful attack is made the 
+smite is consumed for the encounter].
+|
+|
+|
+V
+You may use Smite twice per engagement.
 
 "Mage" - Mages are picked from birth to train at a temple or other such 
 Technological Institution in the combative use of Nanites. They form the 
@@ -381,7 +432,7 @@ single target. (Ask GM).
 power or influence are limitless. The assassin lurks in the shadows, either as 
 a lone force of justice, or as part of a larger organization. They have 
 rightfully earned the title of Galaxy''s greatest Hand to Hand Fighters.
-Passives: No penalty for engaging in Grappling maneuvers. Dex +1. Luck-1. 
+Passives: No penalty for engaging in Grappling maneuvers. 
 Assassins wear a Shadow Cloak, which allows them to become a mere silhouette. 
 When in partial darkness or darker, the static DC increases by 10.
 NOTICE: SEE BASIC RULES FOR ADDITIONAL CLOAKING ATTRIBUTES
@@ -423,8 +474,8 @@ Passives: Gain sniping at 10. Long Rifles do not have minimum ranges imposed
 due to the use of a high-power scope. However, you will have to make a reflex 
 save to fire at any targets that fall inside the traditional "minimum" range, 
 so be sure to note what that range is.
-Weapon Proficiencies: Long rifles, Carbines & Battle Rifles, Pistols.
-Armour Proficiencies: Recon, Light, Concealed.
+Weapon Proficiencies: Long rifles, Pistols.
+Armour Proficiencies: Recon, Light, Concealed, Cloaking.
 Starting Wealth: $1700+100*Luck + 2000
 Class Feats:
 ----------------------
@@ -473,8 +524,7 @@ successful hit:
 important tactile feedback is. Guns simply don''t offer the appropriate ammount
 , which is why you prefer to BEAT YOUR ENEMIES TO DEATH USING YOUR BARE HANDS 
 WHENEVER POSSIBLE!!!!!!!!!!!!!!!!!!!! MORE EXCLIMATION MARKS!!!!!!!!!!!!!!!! 
-Passives: -1 to Luck and Intelligence, +1 to Strength and Fortitude. Expert 
-unarmed.
+Passives: Expert unarmed.
 Weapon Proficiencies: Pistols.
 Armour Proficiencies: Concealed, Recon, Light, Medium, Heavy.
 Starting Wealth: $1700+100*Luck - 1200
@@ -511,7 +561,7 @@ a few are trained to defend the Temple in case of attack. All Monks take an
 Oath to not utilize "lesser" technologies [guns, armour, and even nanite 
 packs.], for only through embracing the Higher Technologies can one Advance 
 oneself to the planes of the Great Ones.
-Passives: No penalty for engaging in Grappling maneuvers. Dex +1. Hand to hand 
+Passives: No penalty for engaging in Grappling maneuvers. Hand to hand 
 Expert, 20. +20 damage to non-lethal attacks, +10 damage to lethal attacks. At
 level 5, and again at level 15 all monks must head back to their home temple 
 or seek a wise master to learn more advanced techniques. Until this training 
