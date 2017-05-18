@@ -171,26 +171,25 @@ STR +1
 ====================
 Lower Rail attachments
 You may only choose one of these. You may not use a Bipod in conjunction with 
-any of these except the foregrips.
+any of these except the foregrips. You may not use these attachment with pistols
+or small SMGs. 
 ====================
 
 Bipod $200
 Requires one half action to deploy the bipod. user can diengage for a free 
 action. After disengaging, user must still take a half action to deploy. 
-Cannot be used with any foregrip or underbarrel weapon. Cannot be used
-with pistols.
+Cannot be used with any foregrip or underbarrel weapon. 
 Miss Chance -20%
 
 Vertical Foregrip $50
-Increase weapon stability. Cannot be used with pistols.
+Increase weapon stability.
 Miss Chance -5%
 
 Angled Foregrip $100
-Somehow better than a standard Foregrip. Cannot be used with pistols.
+Somehow better than a standard Foregrip.
 Miss Chance -10%
 
 Grenade Launcher $1365
-Cannot be used with pistols.
 60m
 35%
 1 rd, 40mm HE; AA / CHEM / FRAG / PLAS
@@ -207,7 +206,6 @@ fortification.
 A full reload takes 1 Full Action, 25%; Firing is a Half Action.
 
 Under Barrel Shotgun $910
-Cannot be used with pistols.
 20m
 30%
 3 rds, 12ga Frangible
