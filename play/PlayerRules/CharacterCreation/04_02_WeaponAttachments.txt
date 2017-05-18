@@ -1,4 +1,10 @@
-These addons are stat affected items or items that will add functionality to a weapon. Most Attachments can be afixed to any weapon unless otherwise noted. Ask a GM if ou are not sure.
+These addons are stat affected items or items that will add functionality to a 
+weapon. Most Attachments can be afixed to any weapon unless otherwise 
+noted. Ask a GM if ou are not sure.
+
+Please note that unless otherwise specified, only one atachment of a given type may
+be used. For instance, one cannot use two red lasers to get a +30% to accuracy, nor 
+can you use both a reflex sight and a 3.2x scope. 
 
 ====================
 Optics / Aiming Aids
@@ -124,7 +130,7 @@ Can also be used to paint a target for Airstrikes or Orbital Strikes.
 
 ====================
 Barrel Attachments
-You may only choose one barrel type, and one barrel attachment.
+You may only choose one barrel attachment.
 ====================
 
 Muzzle Break $50
@@ -148,6 +154,11 @@ Range -20m
 Damage -5
 Only applies to balistic weapons. Not useable on coilguns, shotguns or HMGs.
 
+====================
+Barrel Replacements
+You may only choose one barrel type.
+====================
+
 Light Profile Barrel $100
 Miss Chance +10%
 Str -1
@@ -164,20 +175,22 @@ any of these except the foregrips.
 ====================
 
 Bipod $200
-Requires one full action to deploy the bipod. user can diengage for a free 
-action. After disengaging, user must still take a full action to deploy. 
-Cannot be used with any foregrip or underbarrel weapon.
+Requires one half action to deploy the bipod. user can diengage for a free 
+action. After disengaging, user must still take a half action to deploy. 
+Cannot be used with any foregrip or underbarrel weapon. Cannot be used
+with pistols.
 Miss Chance -20%
 
 Vertical Foregrip $50
-Increase weapon stability.
+Increase weapon stability. Cannot be used with pistols.
 Miss Chance -5%
 
 Angled Foregrip $100
-Somehow better than a standard Foregrip.
+Somehow better than a standard Foregrip. Cannot be used with pistols.
 Miss Chance -10%
 
 Grenade Launcher $1365
+Cannot be used with pistols.
 60m
 35%
 1 rd, 40mm HE; AA / CHEM / FRAG / PLAS
@@ -194,6 +207,7 @@ fortification.
 A full reload takes 1 Full Action, 25%; Firing is a Half Action.
 
 Under Barrel Shotgun $910
+Cannot be used with pistols.
 20m
 30%
 3 rds, 12ga Frangible
@@ -215,10 +229,12 @@ Holstering your weapon is a free action. Drawing your pistol takes a full
 action next time.
 
 Two Point Sling $100
+Cannot be used with pistols.
 You can use your sling to stabilize your grip arm. -5% Miss Chance.
 Reduce strength needed by 1.
 
 One Point Sling $150
+Cannot be used with pistols.
 Due to the positioning of the weapon, you can draw your primary as a free 
 action.
 Reduce strength required by 1. Holstering your weapon is a free action.
@@ -256,6 +272,7 @@ that use box magazines.
 
 ====================
 Total Conversions
+Total conversions only work with the specified weapon. 
 You may only utilize one weapon conversion at a time. HOWEVER, for conversions 
 relying on switching out a reciever, you may carry at max one additional 
 receiver in order to swap kits on the go. You must pass 2 Weapons use / 
@@ -330,6 +347,7 @@ weapon now uses appropriate plasma packs as ammunition. Increase magazine cost
 by 20% and Jam DCs are +20%
 
 Straight Pull bolt $460
+Only for bolt-action long rifles.
 Allows the user a Straight-pull action to chamber a new round, increasing rate
 of fire. You can negate 1 bolt-cycles per turn; chambering a round is treated
 as a free action for that cycle.
