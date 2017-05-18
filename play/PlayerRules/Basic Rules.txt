@@ -197,8 +197,9 @@ Luck: Some people are just lucky! A GM will often have you roll luck to see
 
 
 Leveling up:
-every 2nd level, +1 feat
-With Charisma 9 or higher, 2 feats on level 4, 8, 12, etc.
+Gain feats according to the table below.
+With Charisma 9 or higher, recieve more feats. The feats listed are totals, not to be 
+added in addition.
 every level 2*int skill points,
 every 5th level +1 stat point, +1 Class feat
 On levels 5, 9, 15 and 20, the stat point increase happens before any 
@@ -207,6 +208,8 @@ points for the level. Additionally, any stat point alteration forces a recalulat
 
 ╔═══════╦══════════╦═══════╦════════════╦════════════╦═══════════════╗
 ║ Level ║ Skill P. ║ Feats ║ Class Feat ║ Stat Point ║ Feats (9 CHA) ║
+╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
+║ 0     ║  Given  ║   0  ║            ║            ║      0       ║
 ╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
 ║ 1     ║  Static  ║       ║            ║            ║               ║
 ╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
