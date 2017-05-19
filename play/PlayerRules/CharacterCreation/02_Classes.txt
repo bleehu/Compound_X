@@ -56,8 +56,8 @@ Starting Wealth: $1700+100*Luck + 900
 Class Feats:
 ----------------------
 Needs more dakka -
-You fire off a hail of bullets to pin your enemy. Fire 4 shots for a full 
-action, each shot DC +25%. If the target is still alive, they must pass a 
+You fire off a hail of bullets to pin your enemy. Fire 4 shots for 2
+actions, each shot DC +25%. If the target is still alive, they must pass a 
 Shock DC of 50 or be pinned for 2 turns.
 |
 |
@@ -267,7 +267,8 @@ V
 The Trail becomes bright against a monochrome background of edged shades of 
 grey. +75% to a tracking check, or maximum 2 turns to pass.
 ----------------------
-Highlight Target: (Perception checks do not include checks to hit target. But by using a perception check for a half action to see where the target is and passing the target''s Cover DC+25 the player may recieve a +5% / +10% accuracy bonus.)
+Highlight Target: (Perception checks do not include checks to hit target. But by using a perception check for an 
+action to see where the target is and passing the target''s Cover DC+25 the player may recieve a +5% / +10% accuracy bonus.)
 Expend 10 nanites to mark a target. All damage dealt by allies to this target 
 is increased by 10, and any perception checks are 25% easier to pass. Use once 
 per encounter. Maximum of Level number uses per day. Lasts for duration of 
@@ -302,7 +303,7 @@ A shield can be projected from your off hand. When attacked, roll as if the
 shield were your armour, which has separate stats. 80% hit chance, 0 DR, 100 
 Nanite health. Hit chance only applies when opponent is in front of the 
 character. If an attak is coming from a flank or from behind, then ignore the 
-Shield. [Projects a tangible shield, not merely a CS field]. It takes a half 
+Shield. [Projects a tangible shield, not merely a CS field]. It takes 1 
 action to deploy the shield, and a free action to dismiss it.
 |
 |
@@ -502,7 +503,7 @@ Spend 10 nanites. Choose from the following list of effects:
     players within 5m of the target are stunned for 1 turn.
     Shock round: On hit, electrifies the target, dealing an additional 10 
     damage + more for cybernetic units and also paralyzes them, forfeiting 
-    their first Full-Action, FORT DC 50
+    the first 2 Actions of their turn, FORT DC 50
 |
 |
 |
@@ -523,7 +524,7 @@ successful hit:
 "Beserker" - As an afficionado of the combat arts, you understand how 
 important tactile feedback is. Guns simply don''t offer the appropriate ammount
 , which is why you prefer to BEAT YOUR ENEMIES TO DEATH USING YOUR BARE HANDS 
-WHENEVER POSSIBLE!!!!!!!!!!!!!!!!!!!! MORE EXCLIMATION MARKS!!!!!!!!!!!!!!!! 
+WHENEVER POSSIBLE!!!!!!!!!!!!!!!!!!!! MORE EXCLAMATION MARKS!!!!!!!!!!!!!!!! 
 Passives: Expert unarmed.
 Weapon Proficiencies: Pistols.
 Armour Proficiencies: Concealed, Recon, Light, Medium, Heavy.
@@ -543,7 +544,7 @@ of your health, you gain a -20% chance to miss with melee weapons.
 ----------------------
 Beast Mode
 Once per engagement, you give a mighty shout and rush to engage your foes. For
-2 turns, your move speed increases by 2m per full action, your melee damage 
+2 turns, your move speed increases by 2m per 2 Actions, your melee damage 
 increases by 30 points and you gain 60 temporary hp which lasts until the end 
 of this effect. 
 |
@@ -613,7 +614,7 @@ V
 Shadow Walk
 Roll a Knowlege [Nnaites] check, DC 50. You may teleport up to Result-50/10 
 meters. You may also roll stealth after emerging at no action cost. Movement 
-in this manner is considered to take a half action, plus a half action for the 
+in this manner is considered to take an action, plus another action for the 
 skill check. Monks still receive a penalty attack for performing a skill check 
 in melee combat.
 
