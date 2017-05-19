@@ -42,7 +42,7 @@ to higher level Priests.
 Robotic units can also be hacked. When expecting an attack the DC is much 
 higher. Hacked robots can be manipulated in a few ways: (in order of difficulty
 )
-    - 1 Action
+    - Halt Action
     - deactivate
     - Take cover
     - Leave cover
