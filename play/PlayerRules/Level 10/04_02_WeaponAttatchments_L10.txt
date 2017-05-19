@@ -1,4 +1,4 @@
-These addons are stat affected items or items that will add functionality to a weapon. Most Attachments can be afixed to any weapon unless otherwise noted. Ask a GM if ou are not sure.
+These addons are stat affected items or items that will add functionality to a weapon. Most attachments can be affixed to any weapon unless otherwise noted. Ask a GM if ou are not sure.
 
 ====================
 Optics / Aiming Aids
@@ -59,7 +59,7 @@ You may only choose one of these. You may not use a Bipod in conjunction with an
 Grip-pod $200
 Increases held weapon stability, and contains a bipod for augmented stability.
 -5% when held normally. -15% as bipod. Free action to deploy bipod and mount to
-surface. half action to stow bipod. Having bipod deployed does not impair use 
+surface. One action to stow bipod. Having bipod deployed does not impair use 
 of weapon, but will make holstering the weapon or moving through confined
 spaces more difficult.
 
