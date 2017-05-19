@@ -55,7 +55,7 @@ Miss Chance -10%
 
 nx Magnifier for Dot Scopes $n*200
 A basic magnifying tube capable of increasing the effective range of a weapon. 
-Flips out of the way for a half action.
+Flips out of the way for 1 action.
 Must be paired with a reflex/projector/dot sight.
 Range + (n*20)
 
@@ -70,7 +70,7 @@ Range +75m, minimum +15m.
 Can only be used on Long Rifles, Carbines.
 
 2-7x Scope $700
-As a full action, you can adjust the magnification on this scope in order to 
+For 2 actions, you can adjust the magnification on this scope in order to 
 better see your target. Once sighted to a certain range, other targets that 
 are +/- 10 meters can still be fired upon. Otherwise you must adjust your 
 magnification.
@@ -164,8 +164,8 @@ any of these except the foregrips.
 ====================
 
 Bipod $200
-Requires one full action to deploy the bipod. user can diengage for a free 
-action. After disengaging, user must still take a full action to deploy. 
+Requires 2 Actions to deploy the bipod. user can diengage for a free 
+action. After disengaging, user must still take 2 Actions to deploy. 
 Cannot be used with any foregrip or underbarrel weapon.
 Miss Chance -20%
 
@@ -191,7 +191,7 @@ FRAG: See ECSC Fragmentation grenade.
 PLAS: See Frontier Plasma Grenade.
 All rounds other than Smoke and CHEM can destroy 2m of light wall / light 
 fortification.
-A full reload takes 1 Full Action, 25%; Firing is a Half Action.
+A full reload takes 2 Actions, 25%; Firing takes 1 Action, as usual.
 
 Under Barrel Shotgun $910
 20m
@@ -211,8 +211,8 @@ Slings
 Pistol Lanyard $100
 If you drop your pistol, it''ll fall harmlessly to your leg level instead of 
 dropping onto the ground.
-Holstering your weapon is a free action. Drawing your pistol takes a full 
-action next time.
+Holstering your weapon is a free action. Drawing your pistol takes 2 Actions
+next time.
 
 Two Point Sling $100
 You can use your sling to stabilize your grip arm. -5% Miss Chance.
