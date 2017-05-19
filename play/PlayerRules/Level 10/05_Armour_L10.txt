@@ -107,31 +107,31 @@
     Nanites/2 capacity
     85%
     35 Nanites / turn
-    1 Half Action
+    1 Action
 
     Class B, MCAM $3515
     Nanites/2 capacity
     85%
     70 Nanites / turn
-    1 Half-Action
+    1 Action
 
     Class C, MCAM $3615
     Nanites/1 capacity
     85%
     70 Nanites / turn
-    1 Half-Action
+    1 Action
 
     Class D, Advanced $3900
     Nanites/1 capacity
     100%
     75 Nanites/turn
-    3 Full Actions
+    6 Actions
 
     Muzashi O-Yoroi $4000
     Nanites/1 capacity
     100%
     75 Nanites/turn
-    1 Full Action recharge
+    2 Actions recharge
 
 
  /*========================================
@@ -162,14 +162,14 @@ Cloak DC +25, expend 5 extra nanites per turn.
 Advanced Cloaking Suit $3500
 Add 30 Nanites to your pool.
 Cloak DC +50, Expend 10 extra Nanites per turn.
-Charge-Up time 3 Half-Actions
+Charge-Up time 3 Actions
 5 DR
 30%
 
 Experimental Cloaking Suit $4020
 Remove 50 Nanites from your cloaking pool.
 Cloak DC +50, Expend 5 Less Nanites Per turn. Max turns +2
-Charge-Up time 5 Half-Actions
+Charge-Up time 5 Actions
 10 DR
 30%
 
@@ -180,7 +180,7 @@ Cloaking DR is 25, uncloaked DR is 10
 
 Advanced Armour Cloaking Suit $2560
 Expend 10 extra Nanites per turn.
-Charge-Up time 5 actions.
+Charge-Up time 5 Actions.
 Cloaking DR is 30, uncloaked DR is 15
 30%
 
