@@ -4,6 +4,7 @@
  * Rules document. Passive feats are used freely with no limit
  * (unless otherwise stated) while active feats require the user to
  * spend a number of nanites, specified next to the feat's name.
+ * Unless otherwise specified, you cannot take a feat more than once.
  *======================================*/
 ====================
 Passive Feats

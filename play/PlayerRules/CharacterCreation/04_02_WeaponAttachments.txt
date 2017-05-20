@@ -1,4 +1,10 @@
-These addons are stat affected items or items that will add functionality to a weapon. Most Attachments can be afixed to any weapon unless otherwise noted. Ask a GM if ou are not sure.
+These addons are stat affected items or items that will add functionality to a 
+weapon. Most Attachments can be afixed to any weapon unless otherwise 
+noted. Ask a GM if ou are not sure.
+
+Please note that unless otherwise specified, only one atachment of a given type may
+be used. For instance, one cannot use two red lasers to get a +30% to accuracy, nor 
+can you use both a reflex sight and a 3.2x scope. 
 
 ====================
 Optics / Aiming Aids
@@ -124,7 +130,7 @@ Can also be used to paint a target for Airstrikes or Orbital Strikes.
 
 ====================
 Barrel Attachments
-You may only choose one barrel type, and one barrel attachment.
+You may only choose one barrel attachment.
 ====================
 
 Muzzle Break $50
@@ -148,6 +154,11 @@ Range -20m
 Damage -5
 Only applies to balistic weapons. Not useable on coilguns, shotguns or HMGs.
 
+====================
+Barrel Replacements
+You may only choose one barrel type.
+====================
+
 Light Profile Barrel $100
 Miss Chance +10%
 Str -1
@@ -160,12 +171,13 @@ STR +1
 ====================
 Lower Rail attachments
 You may only choose one of these. You may not use a Bipod in conjunction with 
-any of these except the foregrips.
+any of these except the foregrips. You may not use these attachment with pistols
+or small SMGs. 
 ====================
 
 Bipod $200
-Requires 2 Actions to deploy the bipod. user can diengage for a free 
-action. After disengaging, user must still take 2 Actions to deploy. 
+Requires 1 Action to deploy the bipod. user can disengage for a free 
+action. After disengaging, user must still take 1 Action to deploy. 
 Cannot be used with any foregrip or underbarrel weapon.
 Miss Chance -20%
 
@@ -215,10 +227,12 @@ Holstering your weapon is a free action. Drawing your pistol takes 2 Actions
 next time.
 
 Two Point Sling $100
+Cannot be used with pistols.
 You can use your sling to stabilize your grip arm. -5% Miss Chance.
 Reduce strength needed by 1.
 
 One Point Sling $150
+Cannot be used with pistols.
 Due to the positioning of the weapon, you can draw your primary as a free 
 action.
 Reduce strength required by 1. Holstering your weapon is a free action.
@@ -256,6 +270,7 @@ that use box magazines.
 
 ====================
 Total Conversions
+Total conversions only work with the specified weapon. 
 You may only utilize one weapon conversion at a time. HOWEVER, for conversions 
 relying on switching out a reciever, you may carry at max one additional 
 receiver in order to swap kits on the go. You must pass 2 Weapons use / 
@@ -330,6 +345,7 @@ weapon now uses appropriate plasma packs as ammunition. Increase magazine cost
 by 20% and Jam DCs are +20%
 
 Straight Pull bolt $460
+Only for bolt-action long rifles.
 Allows the user a Straight-pull action to chamber a new round, increasing rate
 of fire. You can negate 1 bolt-cycles per turn; chambering a round is treated
 as a free action for that cycle.

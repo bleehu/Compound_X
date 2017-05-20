@@ -281,13 +281,15 @@ Expend 10 nanites to paint a target. All damage dealt by allies to this target
 is increased by 20, and any perception checks are 50% easier to pass. Use 
 twice per encounter. Level number of uses per day. Lasts for the day.
 
-//needs work
+
 "Paladin" - You are a righteous warrior, vetted and trained by one of the 
 powerful corporations or some other technologically advanced entity. You seek 
 to uphold the principals which define the group you''ve sworn allegience to. 
 Through this devotion you have been granted access to high tech in order to 
 pursue your goals and missions.
-Passives: Terms and Conditions clause compliance, access to Paladin Spell tree
+Passives: You gain 45 total nanites and each level you gain an additional 5 
+maximum nanites for each level after your first.
+Terms and Conditions clause compliance, access to Paladin Spell tree
 at level 3. By adhering to the Terms and Conditions, a Paladin gains an amount 
 of Favor within their church and can unlock new paladin spells by spending 
 Favor. Starting at level 3, a Paladin gains Favor equal to their Charisma each 
