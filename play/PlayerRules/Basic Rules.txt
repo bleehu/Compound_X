@@ -502,7 +502,7 @@ CS Burn - 1d10/2 stackable damage for 2 turns. + 5 damage against robots, on hit
 Necrosis - 2d10 +5 damage per turn. Seek medical attention immediately. If 
 left unhealed for more than a day, the infection spreads 1 foot per day. 
 Medicine DC 75, must be rolled.
-Pinned - Target pinned (hunkered, no movement) for 2 full turns or until they 
+Pinned Down - Target pinned (hunkered, no movement) for 2 full turns or until they 
 pass a Will saving throw at DC of 70, whichever is quicker.
 Plasma Burn - 1d10+1 stackable damage per turn, for 2 turns if the target's armor
 is pierced/missed. If the targets armor is hit/pierced, the armor's AP level is 
