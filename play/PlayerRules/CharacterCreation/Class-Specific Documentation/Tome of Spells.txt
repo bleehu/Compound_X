@@ -679,21 +679,6 @@
 		{5} Divine Armour: [30]
 		    Ranged Spell: +30 DR to an ally''s armour, single use.
 
-		//See Universe Lore docs on Xenos
-		{10} Turn Xeno: [50]
-		|   Aura Effect: By channeling your nanites into a postive force of 
-		|	will, you can force Xenos to flee in panic. Xenos within CHA+ m of 
-		|	you must pass a Will Save DC 50 + Knowledge [Nanites] or be forced 
-		|	to flee for 5 turns. Xenos with INT higher than 6 may make a Will 
-		|	Save each turn they are fleeing.
-		|
-		V
-		{15} Destroy Xeno: [100]
-		    Instead of panicing any Xenos in your range, target one Xeno and 
-		    deal them 100 damage. Target makes a Will Save of DC 75 + 
-		    Knowledge [Nanites]. If the spell hits, they roll Shock as normal 
-		    for taking an extraordinary amount of damage.
-
 		{5} Righteous Fury: [20]
 		|   Personal Effect: Cannot take cover for 5 turns. +10 DR and +10 
 		|	damage for 3 turns.
