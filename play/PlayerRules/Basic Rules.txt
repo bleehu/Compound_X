@@ -431,9 +431,12 @@ Critical Hits:
 If your Luck is 5, on a roll of 90-1 through 90-5, the hit is considered a 
 Critical hit, and deals an extra 10 damage. on a roll of 90-6 through 00-0, 
 the hit is considered an Extra-Critical hit, and deals an extra 20 damage. 
-Your Luck modifier ((Luck-5)*4) is subtracted from the lower bound of your 
-critical hit range. All weapons can critical hit except for Fully-Automatic
-weapons (weapons that shoot more than 1 bullet per action by default).
+
+Your Luck modifier ((Luck-5)*4) is subtracted from the lower bound of your critical
+hit range and half of your luck modifier is subtracted from the lower bound of your
+extra-critical hit range. All weapons can critical hit except for Fully-Automatic
+weapons (weapons that shoot more than 1 bullet per half-action by default).
+
 Gun Jams:
 On a roll of 00-01, the weapon Jams, necessitating a weapon skill check, DC 60.
 When a player is defending against a hit, they roll Percentiles under their 
