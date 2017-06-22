@@ -56,14 +56,20 @@ Starting Wealth: $1700+100*Luck + 900
 Class Feats:
 ----------------------
 Needs more dakka -
-You fire off a hail of bullets to pin your enemy. Fire 4 shots for 2
-actions, each shot DC +25%. If the target is still alive, they must pass a 
-Shock DC of 50 or be pinned for 2 turns.
+Sometimes, a situation just calls for more bullets. You're good at that. 
+When firing a semi-automatic weapon, you may fire an extra shot per
+action with a +10% chance to miss. When firing an automatic weapon,
+you may fire two extra shots with a +10% and +20% chance to miss
+respectively.
+This ability cannot be used with grenade launchers, rocket launchers, 
+or autocannons.
 |
 |
 |
 V
-Your ferocity knows no bounds. Fire off up to 6 shots, DC +25% for each.
+Your ferocity knows no bounds. Targets fired upon with Needs More Dakka
+must make a shock check of DC 60 + (Charisma * 8). On success, nothing 
+happens. On fail, target is Pinned Down [See basic rules for Conditions]
 ----------------------
 Heavier Ordinance not required -
 Your expertise with heavy weapons is sufficient for the task at hand. -25% 
@@ -445,14 +451,14 @@ Starting Wealth: $1700+100*Luck - 1300
 Feats:
 ----------------------
 Shadowy Assassin -
-Your moving cloak DC increases by 10. Attacks made while in cloaking do not 
+Your moving cloak DC increases by 10. Melee attacks made while in cloaking do not 
 break your cloaking unless you are observed making the attack. Any damage 
 dealt while in cloak is treated as standard-Crit damage.
 |
 |
 |
 V
-Your moving cload DC increases by 20, Attacks made while in cloacking do not 
+Your moving cload DC increases by 20, melee attacks made while in cloacking do not 
 break your cloaking. If you are observed making the attack, the observer must 
 pass your cloaking DC in order to observe the attack. All damage dealt while 
 cloaked is treated as Extra-Crit damage.
