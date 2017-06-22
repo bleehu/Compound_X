@@ -444,14 +444,14 @@ Starting Wealth: $1700+100*Luck - 1300
 Feats:
 ----------------------
 Shadowy Assassin -
-Your moving cloak DC increases by 10. Attacks made while in cloaking do not 
+Your moving cloak DC increases by 10. Melee attacks made while in cloaking do not 
 break your cloaking unless you are observed making the attack. Any damage 
 dealt while in cloak is treated as standard-Crit damage.
 |
 |
 |
 V
-Your moving cload DC increases by 20, Attacks made while in cloacking do not 
+Your moving cload DC increases by 20, melee attacks made while in cloacking do not 
 break your cloaking. If you are observed making the attack, the observer must 
 pass your cloaking DC in order to observe the attack. All damage dealt while 
 cloaked is treated as Extra-Crit damage.
