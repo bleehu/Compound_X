@@ -149,7 +149,7 @@ Shoulder Hardpoints:
         50%
         50 rds, 5mm linked.
         80 dam (On hit, two "hits" occur).
-        Reload DC 55%, 2 Full Actions.
+        Reload DC 55%, 4 Actions.
         
 Utility Slots:
     Shield Generator, Class A: $2900
@@ -234,14 +234,14 @@ can be afforded, within the Subsystem limit of the suit.)
     
     Basic AWES (Automatic Weapon Engaging System): $3000
         Controls one shoulder mounted weapon system autonomously, providing 
-        free use of a shoulder mounted weapon. Add one Full Action per turn 
+        free use of a shoulder mounted weapon. Add 2 Actions per turn 
         dedicated to the shoulder mounted weapon.
         Shoulder mounted weapons do not fall under hip fire rules for Miss Chance 
         and will fire at their listed miss chance.
     
     Enhanced AWES: $5000
         Controls up to two shoulder mounted weapon system autonomously, 
-        providing free use of a shoulder mounted weapon. Add one Full Action 
+        providing free use of a shoulder mounted weapon. Add 2 Actions 
         per turn dedicated to each shoulder mounted weapon.
         Shoulder mounted weapons do not fall under hip fire rules for Miss Chance 
         and will fire at their listed miss chance.

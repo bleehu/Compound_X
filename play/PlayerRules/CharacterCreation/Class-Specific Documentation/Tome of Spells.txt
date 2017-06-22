@@ -1,6 +1,6 @@
 /*=============================================================================
  * Tome of Spells
- * For a half-action spell to be cast, the caster must pass a DC equal to the 
+ * For a 1 action spell to be cast, the caster must pass a DC equal to the 
  * Nanites spent on the spell, max 100. For paladins, the DC is instead 5* the 
  * favor cost of the spell. For example, Sword of Righteousness has a Cast DC 
  * of 60 (5 * 12 favor). The DC must be passed before any nanites are spent, 
@@ -56,19 +56,19 @@
 				Max Points: 5
 		
 			Entomb [40]: wraps self in a shell of nanites. The Shell lasts for 
-				6 Full actions and cannot normally be canceled by the caster. 
+				12 actions and cannot normally be canceled by the caster. 
 				While in the shell, the caster cannot use spells, weapons or 
 				items. Nor can they be affected by incoming fire, enemy melee 
 				attacks, spells, poison gas or lack of air. The nanite shell is 
 				not flamable and is routed to the ground where the caster was 
 				standing with the strength of cement. If destroyed, the shell 
 				no longer adds any protection and the caster is unstuck. Entomb 
-				can only be cast on the caster. Half action to cast.
+				can only be cast on the caster. 1 action to cast.
 				Spell Point 1: Nanite shell has 400 health.
 				Spell Point 2: Nanite shell has 600 health. Nanite shell may be used as partial cover for allies.
-				Spell Point 3: Nanite shell has 700 health and may be canceled at the 4th Full action.
+				Spell Point 3: Nanite shell has 700 health and may be canceled at the 8th action.
 				Spell Point 4: Nanite Shell has one vehicle health and is immune to small arms. Nanite shell may be used as superior cover for allies.
-				Spell Point 5: Nanite Shell has 2 vehicle health and may be canceled any time after 3 Full Actions.
+				Spell Point 5: Nanite Shell has 2 vehicle health and may be canceled any time after 6 Actions.
 			//dev note: this is the Warlock Mage's panic button
 			
 		//Level 5:
@@ -78,10 +78,10 @@
 			
 			Ember Shards [60]: Launch dozens of sharp burning nanite fragments
 				toward a target. May be sustained on subsequent turns for 5 nanites
-				and a full action. While sustained, target is pinned. 35% chance to miss,
+				and 2 actions. While sustained, target is pinned. 35% chance to miss,
 				on hit, target takes 30 fire damage and ongoing 20 fire damage for 
 				2 turns. Burn does not stack, but takes the largest of the two numbers.
-				Half action for initial cast.
+				1 Action for initial cast.
 					1 Point:	3 * CHA meter range
 					2 Points: 	50 initial fire damage on hit
 					3 Points:	5 * CHA meter range
@@ -196,7 +196,7 @@
 			
 			Reversal [15]:
 				May be cast on an enemy's turn as an immediate reaction at the cost
-				of a half action on the caster's next turn. Triggers when an enemy casts 
+				of 1 Action on the caster's next turn. Triggers when an enemy casts 
 				a spell which forces movement in an area CHA meters from you. 
 				The enemy caster must make a FORT save opposed by your INT and DEX.
 				If he succeeds, cancel the forced movement part of his attack. If he fails,
@@ -292,7 +292,7 @@
 				not on the other side of a wall or cover from that origin. 
 				more simply put, a zone looks like a circle on flat land,
 				but looks like pac man if cast at the corner of a building.
-				Half action to cast. Zone persists for INT turns.
+				1 Action to cast. Zone persists for INT turns.
 				Level 1: Zone is 3m from origin. Allies have a -5% to miss 
 					while standing in the zone.
 				Level 2: Zone is 5m from origin.
@@ -312,7 +312,7 @@
 				not on the other side of a wall or cover from that origin. 
 				more simply put, a zone looks like a circle on flat land,
 				but looks like pac man if cast at the corner of a building.
-				Half action to cast. Zone persists for INT turns.
+				1 Action to cast. Zone persists for INT turns.
 				Level 1: Zone is 3m from origin. Enemies have a +5% to miss 
 					while standing in the zone.
 				Level 2: Zone is 5m from origin.
@@ -333,8 +333,8 @@
 			
 			Damage area [30]: At your command, the nanites in a malicious zone
 				burst with arcane energy. It's not the most effecient way to
-				hurt those who dare tresspass, but it's a good start. Half 
-				action to cast. Consume a malicious zone and deal damage to 
+				hurt those who dare tresspass, but it's a good start. 1	action
+				to cast. Consume a malicious zone and deal damage to 
 				all characters in the zone.
 				
 		//Level 3:
@@ -342,12 +342,12 @@
 			nanite cost increases by 5, damage increases by 10. Maximum 
 			Knowledge[Nanites]/10 casts.
 		    Cool down:
-		        Knowledge[Nanites] <= 50, 3 Full Actions
-		                           <= 75, 2 Full Actions
-		                            > 75, 1 Full Action
+		        Knowledge[Nanites] <= 50, 6 Actions
+		                           <= 75, 4 Actions
+		                            > 75, 2 Actions
 			
 			Homecoming [20]: Nanite tenticals sprout from a benevolent zone and rapidly 
-				pull you to their origin. Half action to cast. Cannot be done stealthily.
+				pull you to their origin. 1 Action to cast. Cannot be done stealthily.
 				This spell consumes the benevolent zone. If this moved the caster more than
 				their speed, the caster cannot move for the rest of their turn. If the caster
 				was being grappled when they cast this, the tenticals pull both the grappler
@@ -373,7 +373,7 @@
 				when you cast this spell)
 				
 		//Level 7:
-			Nanite Battle Companion [100]: Cast time: 2 Full Actions. Creates 
+			Nanite Battle Companion [100]: Cast time: 4 Actions. Creates 
 			a companion sphere 30cm in diameter which follows the caster and 
 			attacks once per caster''s turn, as a free action to the caster, 
 			with the following traits:
@@ -419,11 +419,11 @@
 				a floating orb of nanite-projected energy. Each orb you have 
 				reduces stealth rolls by 10. Orbs may be dismissed as 
 				a free action.
-				Level 1: One full action gives you one orb. You may keep up to 2 orbs active at a time.
+				Level 1: Two Actions gives you one orb. You may keep up to 2 orbs active at a time.
 				Level 2: You may keep up to 4 orbs active at a time.
-				Level 3: One half action gives you one orb
+				Level 3: One Action gives you one orb
 				Level 4: You may keep up to 6 orbs active at a time.
-				Level 5: Two Full actions may be used to give you five orbs
+				Level 5: Four actions may be used to give you five orbs
 				Level 6: You may keep up to 7 orbs active at a time.
 				Level 7: Killing an enemy spell caster who has at least 100 
 					nanites at their moment of death gives you a free charged orb
@@ -434,8 +434,7 @@
 			//dev note: this is the phaser's basic attack
 
 			Launch Orb [0]: Spend one orb. You launch it at an enemy. If it hits, it burns them with
-				the spite of your nanite power. 30% - Perception modifier to miss. Takes A half
-				action to launch. 
+				the spite of your nanite power. 30% - Perception modifier to miss. Takes 1 action to launch. 
 				Level 1: 15m + CHA modifier range, Deals 30 damage
 				Level 2: 20m + CHA mod range, Deals 35 damage
 				Level 3: 25m + CHA mod range, Deals 40 damage, If you have dual weild feat, may fire 2 orbs at once.
@@ -468,7 +467,7 @@
 				within CHA meters of you, but which is not an area of effect spell. 
 				(i.e. if you and a nearby ally are being hit with chain lightning)
 				Cancel that multi-target attack. The attacker still pays for the 
-				nanite cost to launch it. You get 2 Orbs and lose your first half 
+				nanite cost to launch it. You get 2 Orbs and lose your first  
 				action on your next turn.
 				Max Level: 1
 				//DEV notes:
@@ -489,13 +488,12 @@
 				up to INT meters around you. All enetities in that range whom you have
 				Line of Sight with must make a REF saving throw of DC 
 				50 + (2 * DEX) + (5 * character level). If they fail, they take 20 damage
-				for each orb this attack cost you. If they succeed, half damage. Half 
-				Acton to cast.
+				for each orb this attack cost you. If they succeed, half damage. 1 Acton to cast.
 				
 			Go Deep [10]:
 				You launch an orb as far as it will go. The base range for this attack is 
 				the range of your Launch Orb Attack. 30% - perception modifier to 
-				miss. Half action to launch. On hit, deals 50 damage
+				miss. 1 Action to launch. On hit, deals 50 damage
 				1 point:	Add 20 meters to range
 				2 points:	Add 40 meters to range
 				3 points:	20% base to-miss percentage
@@ -557,7 +555,7 @@
 
 			Arcane Circle//protect against spells
 			
-			Consume Enchantment [20]: Half action. Dispell a persistant 
+			Consume Enchantment [20]: 1 Action. Dispell a persistant 
 				area-of-effect spell. Gain 40 nanites. Your next single-target 
 				attack deals an extra 30 damage.
 				Max Level: 1
@@ -578,7 +576,7 @@
 			P.Lvl meters in diameter for P.Lvl+1 turns. All opponents who are 
 			in the circle or who move into the circle must pass a grapple check
 			, DC [10*P.Lvl + 30] or they are pinned. This check must be made 
-			each round as a half action before the opponent can perform any 
+			each round for 1 Action before the opponent can perform any 
 			other actions. On fail, they are trapped for the round. +50% to 
 			the tentical spot DC when in darkness. The tenticals only appear 
 			in adjacent open spaces. if the spell is cast next to a closed door
@@ -624,8 +622,8 @@
 //==============================
 // Paladin Spells & Prayers
 //==============================
-	Prayers take 1 Full Action to complete and any nanites spent on them are 
-	lost until the effects of the prayer wear off. Spells are a Half-Action to 
+	Prayers take 2 Actions to complete and any nanites spent on them are 
+	lost until the effects of the prayer wear off. Spells are 1 Action to 
 	cast and remove the listed amount of nanites once cast. By default, spells 
 	are not affected by cover unless explicitly stated in the description.
 	Aura Effect: All characters within Cha meters (or as noted) are affected, 
@@ -732,7 +730,7 @@
 		    you gain +5 DR and + 10 damage for the next 4 turns.
 
 		{10} Prayer of Meditation: [0]
-		    Personal Effect: Take 2 full actions to Pray. Regain 40 Nanites.
+		    Personal Effect: Take 4 actions to Pray. Regain 40 Nanites.
 
 		{25} Prayer of Sorrow: [150]
 		    Weapon Augment: You imbue your own weapon with divine energy.+200 

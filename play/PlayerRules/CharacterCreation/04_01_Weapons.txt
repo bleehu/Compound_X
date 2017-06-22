@@ -176,8 +176,7 @@ damage sustained.
 Pistols:
 (All pistols are considered CQB Weapons);
 Minimum Strength 2, Reload DC 20 unless otherwise noted. With DEX less than 5, 
-Single Action revolvers must be re-cocked as a half action. Reload time 2 Half 
-Actions
+Single Action revolvers must be re-cocked for 1 action. Reload time 2 Actions.
 ============================================================
 
 ECSC Mk9 Auto $460 / $5
@@ -247,11 +246,11 @@ Reload 28%
 ============================================================
 Sub-Machine Guns:
 Capable of high rates of fire, but utilizing lighter calibers than a 
-traditional combat rifle. Fire DEX/3 shots per Half Action, rounding down. (
+traditional combat rifle. Fire DEX/3 shots per Action, rounding down. (
 DEX 5 = 1 shots, DEX 8 = 2 shots) Maximum LVL + 1.( All SMGs are considered 
 CQB weapons)
-Minimum Strength 4, Reload DC 25% unless otherwise noted. Reload time 2 Half 
-Actions. Jam range 2%
+Minimum Strength 4, Reload DC 25% unless otherwise noted. Reload time 2 Actions.
+Jam range 2%
 ============================================================
 
 ECSC Mk9 MP $650 / $14
@@ -283,22 +282,22 @@ at high rates of fire.
 
 ============================================================
 Shotguns:
-All pump shotguns take 1 Half Action to fire, 1 Half Action to rack. In the 
-racking action, you can load an additional round of your specification as a 
-half action. Double barrel and semi auto shotguns do not follow this rule.
+All pump shotguns take 1 Action to fire, 1 Action to rack. In the 
+racking action, you can load an additional round of your specification for one
+action. Double barrel and semi auto shotguns do not follow this rule.
 Slug damage deals damage as a normal rifle would, dealing its full damage up 
 to the listed distance.
 Buck-Shot damage is dealt in 3 distinct distances, which are listed. All buck
 shot deals 2 bleed tokens to the target.
-Minimum Strength 4, Reload DC 30% unless otherwise noted. Reload time 3 Half 
-Actions unless otherwise stated.
+Minimum Strength 4, Reload DC 30% unless otherwise noted. Reload time is 3 Actions
+unless otherwise stated.
 ============================================================
 Matthews Model 2x12 $800 / $1 per shell
 Miss:		20%
 Capacity:	2rds, 12ga Buck / Slug
 Buck Shot: 80 dam out to 3m, 65 out to 10m, 50 out to 20m.
 Slug: 60 dam out to 50m.
-Double-Barrel/Break-Barrel. Full action to reload. Each mag pouch in a peice 
+Double-Barrel/Break-Barrel. 2 actions to reload. Each mag pouch in a peice 
 of armor holds 8 shells.
 
 Anvil Arms Hunting Shotgun $900 / $1 per shell
@@ -327,13 +326,12 @@ Buck Shot: 80 dam out to 3m, 65 out to 10m, 50 out to 20m.
 Slug: 60 dam out to 50m.
 Due to the nature of the Over / Under, you can load both Buck and Slug at the 
 same time. Both barrels can be fired at the same time, at a +10% miss chance 
-penalty. Reload DC 25%, Full Action reload time. Each mag pouch in a peice of 
+penalty. Reload DC 25%, 2 Action reload time. Each mag pouch in a peice of 
 armor holds 8 shells.
 
 ============================================================
 Carbines & Battle Rifles
-Minimum Strength 5, Reload DC 25% unless otherwise noted. Reload time 2 Half 
-Actions
+Minimum Strength 5, Reload DC 25% unless otherwise noted. Reload time is 2 Actions.
 ============================================================
 Matthews .357 Carbine $1120 / $7
 75m
@@ -378,9 +376,8 @@ CQB rifle
 
 ============================================================
 Automatic Rifles:
-Minimum Strength 5, Reload DC 25% unless otherwise noted. Reload time 2 Half 
-Actions
-Fire STR/3 shots per half action, Round down. Jam range 2%
+Minimum Strength 5, Reload DC 25% unless otherwise noted. Reload time is 2 Actions.
+Fire STR/3 shots per action, Round down. Jam range 2%
 ============================================================
 
 Anvil Arms AR-74 $1370 / $17
@@ -439,7 +436,7 @@ Minimum 7 Str to carry. 40% reload.
 ============================================================
 Heavy Weapons:
 Reload DC 40%, strength required 6 unless otherwise stated.
-A full action to reload unless otherwise stated.
+2 actions to reload unless otherwise stated.
 ============================================================
 
 G&W AA-29 Personal Flack Cannon $2070 / $18
@@ -455,7 +452,7 @@ Reqires Strength of 8 to carry.
 30%
 300 rds, 5.45 x 39 mm belt; 
 50 damage
-Requires 1 full action of spin-up time. Fires STR/3 rounds per Half-Action, 
+Requires 2 actions of spin-up time. Fires STR/3 rounds per Action, 
 round down. Jam range 2%
 Supporting Fire. No optics, barrel attachments or extended mags.
 
@@ -469,10 +466,10 @@ Clips cost $200 each
 
 ============================================================
 Long Rifles:
-On all engagements farther than 200m, you must take 1 Full Action to adjust 
+On all engagements farther than 200m, you must take 2 Actions to adjust 
 your scope for windage and elevation between targets of differing distance.
 Minimum 5 strength to carry. All targets are inflicted with "Pinned" condition 
-when hit. Reload DC 30% unless otherwise noted. Reload time 3 Half Actions.
+when hit. Reload DC 30% unless otherwise noted. Reload time 3 Actions.
 ============================================================
 
 ECSC PRS $4325 / $4
@@ -483,14 +480,14 @@ ECSC PRS $4325 / $4
 Bolt Action: take 1 action to fire, 1 action to chamber a new round.
 Integrated Improved Silencer. This integrated silencer prevents the usage of a
 muzzle break or other silencers or suppressors.
-Reload DC 26%, 2 Half Actions
+Reload DC 26%, 2 Actions
 
 ECSC Mk12 Mod 0 $3500 / $10
 20-200m
 30%
 20 rds, 5.56x45mm Rifle Magazine; FMJ
 50
-Reload DC 25%, 2 Half Actions
+Reload DC 25%, 2 Actions
 
 Anvil Arms SR-150 $5440 / $3
 20-200m

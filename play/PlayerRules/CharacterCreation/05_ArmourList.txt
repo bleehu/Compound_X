@@ -97,8 +97,8 @@ better protection than the last tier.
     EOD Ceramic Nano Crystal armour $4000
     60 DR
     100%
-    Movement restricted to 3m per Full Action, or your max speed if less than 3
-    . No use of melee, and regular actions take twice as long.
+    Movement restricted to 3m per 2 Actions, or your max speed if less than 3. 
+	No use of melee, and regular actions take twice as long.
     8 primary mags, 6 of combined secondary and grenades.
     Oversuit. cannot be worn with an Undersuit.
     15 DR all over body.
@@ -309,55 +309,55 @@ better protection than the last tier.
     Nanites/2 Capacity
     70%
     25 Nanites / turn
-    1 Full Actions recharge
+    2 Actions recharge
 
     Class B, Basic $3000
     Nanites/2 Capacity
     70%
     50 Nanites / turn
-    1 Full Actions recharge
+    2 Actions recharge
 
     Class C, Basic $3100//2440
     Nanites/1 Capacity
     70%
     50 Nanites / turn
-    1 Full-Action recharge
+    2 Action recharge
 
     Class A, Improved $2775//2095
     Nanites/2
     85%
     25 Nanites / turn
-    2 Full Actions
+    4 Actions
 
     Class B, Improved $3275
     Nanites/2
     85%
     50 Nanites / turn
-    2 Full Actions
+    4 Actions
 
     Class C, Improved $3375
     Nanites/1
     85%
     50 Nanites / turn
-    2 Full Actions
+    4 Actions
 
     Class A, Advanced $3050
     Nanites/2
     100%
     25 Nanites / turn
-    3 Full Actions
+    6 Actions
 
     Class B, Advanced $3550
     Nanites/2
     100%
     50 Nanites / turn
-    3 Full Actions
+    6 Actions
 
     Class C, Advanced $3650
     Nanites/1
     100%
     100 Nanites / turn
-    3 Full Actions
+    6 Actions
 
 
 
@@ -389,14 +389,14 @@ Cloak DC +25, expend 5 extra nanites per turn.
 Advanced Cloaking Suit $3500
 Add 30 Nanites to your pool.
 Cloak DC +50, Expend 10 extra Nanites per turn.
-Charge-Up time 3 Half-Actions
+Charge-Up time 3 Actions
 5 DR
 30%
 
 Experimental Cloaking Suit $4020
 Remove 50 Nanites from your cloaking pool.
 Cloak DC +50, Expend 5 Less Nanites Per turn. Max turns +2
-Charge-Up time 5 Half-Actions
+Charge-Up time 5 Actions
 10 DR
 30%
 
