@@ -123,3 +123,74 @@ On closer inspection of the cliff, it can be observed that there is a small crev
 The Cave is dry and very straight. A survival 30 check will reveal that it was probably carved through the ground, and not naturally occuring. A survival 50 check reveals that the cave slopes ever so slightly upward, keeping a farily constant distance from the surface of the planet. There is one trap 100m into the cave
 
 https://www.reddit.com/r/rpg/comments/1l72cw/10000_greatest_traps_puzzles/#bottom-comments
+
+Overall narrative:
+Story: "Sandbox" Campaign
+Posessed space suit archon leads cult of people trying to summon ancient demons. Russians detected this rogue menace before the war started and have been secretly fighting to stop this organization. Recently the russians
+
+
+Enemy Horde / Encounter Templates and Large Scale Battle Mechanics:
+Treat a single group as an entity. The players and their allies must deal enough damage in a single turn to overcome some threshold value. Once the team has overcome that value some X number of times, the horde has been depeleted or the attack is warded off. Turns where the damage dealt threshold is not met by the players are treated as if no damage were done at all / anyone they end up killing is replaced by a new enemy. The encounter difficulty can be scaled in three ways:
+    1. Increase the amount of average damage per turn the enemy can do. Every point of damage increase means players closer to their death, sooner. The sooner the players die, the sooner they fail at their mission. This is a very easy way to scale up the danger factor of the battles. Players will notice their mortality more. In fact this method is the basic way of scaling "single enemies" to be more powerful, and applies when considering the enemy encounter as an entity.
+    2. Increase the Damage Threshold. The player will notice or observe that the enemy is more resiliant than usual.This is great for making the enemies faced in the encounter to seem well defended, or maybe they have some sort of ability that allows them to be less easy to hit.
+    3. Increase the enemy Resource Count. This will also increase the enemy''s resilliency factor, but when the players are facing off against weaker enemies and tokens may be taken more quickly, the player will feel that the battle is taking a long time.
+From these observations of scaling we get three stats for the Encounter Entity and their meanings:
+    1. Lethality Factor -> Enemy Power
+    2. Damage Threshold -> Enemy Resiliency
+    3. Resource Count -> Encounter Length
+
+Rules of thumb:
+    - On Enemy Power: As the enemy''s weapons stay in the same tier as player''s weapons, this value will not increase or decrease. But when the Enemy''s weapons are stronger than the players'' armour, this will increase, and vice versa.
+
+
+A sample encounter may be given as follows:
+//////////////////////////////////////////////////
+Name: Pirate Mob
+Enemy Power (EP): 40
+Enemy Resiliency (ER): 500
+Encounter Length (EL): 5
+//////////////////////////////////////////////////
+As we see above, the average damage each piece of the entity can deal is 40. This group could consist of sets of 5 pirates, One whose carbine does 50 true avg damage, 3 who have 9mm pistols that do 38 true avg damage and 1 with a 22LR revolver at 36 true avg damage. [True Average Damage here means how much damage does the player actually take per shot on average] Each of these enemies hits once per turn, and there are always that number of those units on the field on any given turn.
+The damage threshold is 500, so if we have 5 pirates per grouping, its safe to assume they each have 100 health, or they have less health but higher armour stats or better defensive abilities.
+The Resource Count of the pirates is 50, so the players will come accross around 25 pirates in all, making this a large group who is not well armed or armoured.
+
+As you can see, this method can be used to quickly develope the amount of gear, talent or personell that are available to an enemy group. From these you can asertain the general importance of the group and the beginings of background and motivation for the members.
+
+This on its own shows some merit in this method. But something even greater, is the implication this has for Large Scale Battle Mechanics. You can run multiple groups in one battle, or maybe multiple "separate" campaigns that are really fighting the same Big Bad which has vast reaches. Each "Encounter Entity" is actually a single unit in this larger battle, and you can tailor the battle by varying the numbers and strengths of each unit.
+Continuing the running pirate theme, suppose this is the situatuon:
+//////////////////////////////////////////////////
+There is a strong enemy presence in some sector which is negatively affecting the local mega-corp enough that they decide to hire on some mercenaries to take out the pirates. The pirates have the following units available when the group assaults their mountain stronghold, which itself may have taken some adventuring to find:
+
+6 pirate patrols:
+    EP: 40
+    ER: 200
+    EL: 5
+    "10 scout troops in 5 pairs"
+4 Soldier platoons:
+    EP: 60
+    ER: 800
+    EL: 2
+    "16 well armed pirates in 2 squads of 8"
+3 Mobile Rifle Squads:
+    EP: 80
+    ER: 1170
+    EL: 1
+    "1 MRAP type vehicle, 1 gunner (heavily armed), 1 driver (lightly armed), and 4 soldiers, well armed and  armoured"
+1 Pirate Lordes Guard
+    EP: 70
+    ER: 1800
+    EL: 3
+    "The pirate lorde and his elite guards, Two waves of 6 pirates before the Players can attack the Pirate Lorde, his Wife, and their 2 oldest friends. The guards are very well armed and armoured, and the Pirate Lord and his wife exceptionally so."
+The goal of this battle is for the Player group to infiltrate the stronghold and take out the Pirate Lord. The Players are aided by two groups of Corporate Guard, with the following stats:
+2 Corporate Platoons:
+    EP: 60
+    ER: 1200
+    EL: 2
+    "12 well trained and geared soldiers set up in 2 squads of 6."
+
+The players'' only direct mission is to take out the pirate lorde, so they can either directly aid the platoons and try to take out a bunch of pirates on the way into the compound in what is sure to be a huge and dangerous battle, or they can use said battle as a distraction, encountering less resistance. However on the way out they may run into the remnants of the pirate army if they don''t choose to battle them up front.
+//////////////////////////////////////////////////
+
+How then to determine the results of the NPC vs. NPC battles? Simple:
+The NPC Encounter Groups all have the same types of stats, so we can determine relative stats easily. Multiply the "Power", "Resiliency", and "Length"; this will give you the Group''s Power. Whenever two groups meet, compare each group''s Power. Whichever Group has the higher Power wins. HOWEVER, if the winning group has a lower "Power" per "Level," subtract the number of levels in the losing group from the winning group. This represents a weaker sub-unit getting taken out by the stronger enemy.
+When one side has no more Encounter Groups, they lose.
