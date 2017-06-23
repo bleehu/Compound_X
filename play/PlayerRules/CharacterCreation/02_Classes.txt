@@ -36,17 +36,16 @@ Either 75% + (CHA mod) success or 30% added to next allied rolls.
 ----------------------
 Fight Fiercely First
 The Soldier gets an additional +10 to initiative rolls. 
-In addition, the soldier with this class feat gets a +30% to crit against enemies
+In addition, the soldier with this class feat gets a -30% to miss against enemies
 who have not taken a turn yet in combat or whom the soldier has beaten in 
 reflex roll when room clearing until that character takes a turn after losing the 
-reflex roll. These crit bonuses do not apply to fully automatic weapons.
+reflex roll.
 |
 |
 |
 V
-The soldier's crit bonus effect works on any enemy with a lower initiative until
-that enemy has finished their 3rd turn. These crit bonuses do not apply to fully 
-automatic weapons.
+The soldier's accuracy bonus effect works on any enemy with a lower initiative until
+that enemy has finished their 3rd turn.
 
 "Specialist" - There is always a need for the type of person willing and able 
 to bring the heaviest of fire down upon their enemies. The Specialist will be 
