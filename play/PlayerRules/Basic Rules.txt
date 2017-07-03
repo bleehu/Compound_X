@@ -200,10 +200,10 @@ Assigning Stats to a new character
 This will tell you a lot about your character. When assigning your stats,
 no stat can be higher than a 9 before applying racial/species bonuses and
 no stat can be lower than a 1 after applying racial/species bonuses. 
-Additionally, even after race/species bonuses, feats and equipment, no stat
-can ever be over 15.  The number of total stat points that you have to apply 
-should be listed with your Race or Species. See chapter 1: Races if you 
-haven't yet. 
+Additionally, even after race/species bonuses, feats, equipment and base stat 
+bonuses from leveling, no stat can ever be over 15.  The number of total base 
+stat points that you have to apply is listed with your Race or Species. See 
+chapter 1: Races if you haven't yet. 
 
 Leveling up:
 Gain feats according to the table below.
