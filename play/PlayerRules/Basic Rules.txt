@@ -132,7 +132,7 @@ Player Stats:
 ==============================
 
 Each player has what are called Base Stats. An average person has a '5'
-for each stat. These stats are:
+for each stat, but an average player has a '6' . These stats are:
 Strength
 Perception
 Fortitude
