@@ -195,6 +195,15 @@ Luck: Some people are just lucky! A GM will often have you roll luck to see
 	a coin off the ground right when an assassin is trying to shoot you in
 	the head. Luck also has an effect on what loot you find in dungeons.
 
+Assigning Stats to a new character
+	When making a new character, you'll have to assign their Base stats.
+This will tell you a lot about your character. When assigning your stats,
+no stat can be higher than a 9 before applying racial/species bonuses and
+no stat can be lower than a 1 after applying racial/species bonuses. 
+Additionally, even after race/species bonuses, feats and equipment, no stat
+can ever be over 15.  The number of total stat points that you have to apply 
+should be listed with your Race or Species. See chapter 1: Races if you 
+haven't yet. 
 
 Leveling up:
 Gain feats according to the table below.
