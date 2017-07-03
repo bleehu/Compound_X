@@ -1,0 +1,9 @@
+		Power Plants
+	Almost all Power Suits run on some sort of power supply. You'll
+need one in order to run your weapons, active components and to keep
+your chassis walking.
+
+Lion U-235 core		$1400
+Power Output:	8 PU
+Size:	1 slot
+

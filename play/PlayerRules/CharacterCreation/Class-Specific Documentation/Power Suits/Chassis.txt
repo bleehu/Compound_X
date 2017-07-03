@@ -1,0 +1,19 @@
+		Light Chassis
+Chassis Name:	Mantis
+Chassis Power Req:	3 PU
+Standard Speed:		1m/action
+Maneuver Bonus:		2m/action
+
+Fort Bonus:		2
+Reflex Penalty:		30
+Perception Penalty:	25
+
+Disrupt DC:		75
+Pwn DC:			120
+
+
+		Medium Chassis
+
+
+
+		Heavy Chassis

@@ -1,0 +1,37 @@
+		Overview
+	Some militaries in the Terran Empire have employed the use of 
+large mechanical warsuits operated by a single pilot. This class of
+armor-vehicle hybrid is colloquially called "Power Suits." Power 
+Suits tend to be slow, tough and pack an ammount of punch rarely 
+seen by infantry. 
+
+		Power
+	As the name implies, most power suits carry a power plant
+on them that runs their various weapons, parts and chassis. A
+Power Suit may carry, but not activate or use a part or weapon
+that would exceed the power capacity of the suit's power plant.
+
+		Modes
+	Power Armor has three modes. Switching between modes takes
+Two actions for a pilot in the armor. These modes are:
+		- Combat
+		- Maneuver
+		- Shutdown
+	In combat mode, the suit works as expected. The pilot
+may direct the armor to move, fire and scan using its various 
+actions.
+	In Maneuver mode, the suit cannot use any of its active
+components or weapons. However it gains a bonus to move speed as
+listed in the chassis's Maneuver Bonus. 
+	In Shutdown mode, the suit is much more difficult to hack.
+However the suit cannot scan, move nor use active components or 
+weapons. If the Power Suit's power output no longer meets or 
+exceeds its power requirement, it immediately enters shutdown mode.
+
+		Cover
+	Power Suits are much larger than standard infantry, and 
+are typically a little less graceful to boot. They Cannot use the
+hunker action. Furthermore partial cover has no effect on the 
+accuracy of an enemy firing at a Power Suit and good cover acts 
+as parital cover for power suits. Due to their sheer size, enemies
+get a flat -20% to miss when firing at power suits. 
