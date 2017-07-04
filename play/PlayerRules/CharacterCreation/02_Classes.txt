@@ -486,8 +486,8 @@ If you fire at a target that is in cover, you can choose to "Pin" the target. On
 Pinned by the marskman at a time. If the target attempts to move from cover within a 180 degree field
 of view infront of you, you may roll a DC 60 sniping skill check to hit them, as a free action. For the
 remainder of the encounter, you have a +10% to hit the pinned target with a firing action. If the target moves, 
-it is still considered pinned, and if the target dies you may pin a new target. Pin can only be activated by
-a pinned target once per Marksman player's turn. Only usable with long-rifles.
+it is still considered pinned, and if the target dies or escapes from the battlefield you may pin a new target.
+Pin can only be activated by a pinned target once per Marksman player's turn. Only usable with long-rifles.
 |
 |
 |
