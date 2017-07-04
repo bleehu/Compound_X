@@ -482,20 +482,21 @@ Starting Wealth: $1700+100*Luck + 2000
 Class Feats:
 ----------------------
 Pin Target
-Select a target. If the target is fired at by you, the target is Pinned. If the 
-target attempts to move from their pinned cover within a 180 degree field of view 
-infront of you, you may roll a DC 60 sniping skill check to 
-hit them. For the remainder of the encounter, you get a +10% to hit the 
-selected target. If the target dies you may select a new target.
-Only usable with long-rifles. The Pin/Multi-Pin ability can be activated by 
-a pinned target up to 3 times per Marksman player's turn cycle.
+If you fire at a target that is in cover, you can choose to "Pin" the target. Only 1 target may be
+Pinned by the marskman at a time. If the target attempts to move from cover within a 180 degree field
+of view infront of you, you may roll a DC 60 sniping skill check to hit them, as a free action. For the
+remainder of the encounter, you have a +10% to hit the pinned target with a firing action. If the target moves, 
+it is still considered pinned, and if the target dies you may pin a new target. Pin can only be activated by
+a pinned target once per Marksman player's turn. Only usable with long-rifles.
 |
 |
 |
 V
 Multi-Pin
-You may select and pin up to PER/2 (round down) targets at a time (you have to fire at a 
-target to pin it).+30% to hit a Pinned target (instead of +10%). Only usable with long-rifles. 
+You can now Pin a maximum of PER/2 (round down) targets at  time (you still have to fire at a 
+target to pin it). +20% to hit a Pinned target (instead of +10%). The Multi-Pin ability can be 
+activated by a pinned target once, per target, per Marksman player's turn. (I.e., 3 Pinned targets can 
+trigger Multi-Pin once each for a maximum total of 3 triggers before a marskman player's next turn).
 ----------------------
 Tech Rounds
 Spend 10 nanites. Choose from the following list of effects:
