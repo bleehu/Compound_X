@@ -34,7 +34,7 @@ at doing whatever it is you are attempting to do. What to add when is discussed
 in detail below. 
 
 For now, know that Compound X uses two ten-sided dice (usually called D10s) to
-represent a percent. One of the D10s represents the number in the 10's place.
+represent a d100, a percent. One of the D10s represents the number in the 10's place.
 the other represents the number in the 1's place. Most dice sets come with two
 D10s, one with a zero after the number on the face, the other without that zero.
 In that case, obviously you add the numbers on the face of the dice together to
@@ -371,11 +371,11 @@ Characters also incur "penalty attacks" when moving through or next to an
 enemy character''s 1m space, or within range of a melee weapon that the enemy 
 has equipped, and when performing a skill check when in melee combat.
 Melee combat is relatively simple. To hit an enemy player, add your dexterity 
-or strength modifier to a roll, plus any relevant skill. The result must be 
+modifier to a d100 roll, plus any relevant skill. The result must be 
 greater than the opponent''s DEX * 5 + any skill in combat (Guard DC). Your 
-damage dealt is based on your DEX or STR modifier. If you are weilding a 
-weapon against an unarmed opponent, they may still incur damage depending on 
-their skill.
+damage dealt is based on a combination of your DEX and STR modifier. If you 
+are weilding a weapon against an unarmed opponent, they may still incur damage
+depending on their skill.
 A character may grapple another character when they are both in melee 
 distance. Doing so provides the grappled player a "penalty attack" on the 
 graPpling player. During grappling, both sides roll opposing grapple checks to 
@@ -386,8 +386,8 @@ opponent may attempt to gain control of the grapple. Skill in grappling is
 different than skill in unarmed combat.
 
 Actions:
-During combat, your character is given 4 Actions to use for fighting, 
-movement, using items, etc. Here is a table of common tasks and their
+During combat, your character has 4 Actions. Actions are used for fighting, 
+movement, items, whimpering, etc. Here is a table of common tasks and their
 relative cost:
 
 Reloading a Pump-Action Shotgun - 4 Actions
@@ -428,16 +428,17 @@ stat. When an enemy is in cover, their cover score is added to your weapon's
 miss chance. If your normal miss chance is 25, and the enemy is in full cover, 
 your miss chance is increased by 50, for a final DC of 75.
 Critical Hits:
-If your Luck is 5, on a roll of 90-1 through 90-5, the hit is considered a 
-Critical hit, and deals an extra 10 damage. on a roll of 90-6 through 00-0, 
-the hit is considered an Extra-Critical hit, and deals an extra 20 damage. 
+Your Luck is the primrary determiner of your critical hit chance. ((Luck-5)*0.4), round up, is subtracted from the lower bound of your critical
+hit range. All weapons and melee can critical hit except for 
+Fully-Automatic weapons (weapons that shoot more than 1 bullet per half-action
+by default).
 
-Your Luck modifier ((Luck-5)*4) is subtracted from the lower bound of your critical
-hit range and half of your luck modifier is subtracted from the lower bound of your
-extra-critical hit range. All weapons can critical hit except for Fully-Automatic
-weapons (weapons that shoot more than 1 bullet per half-action by default).
+If your Luck is 5, on a roll of 90-1 through 90-5, the hit is considered a 
+Critical hit, and deals an extra 20 damage. on a roll of 90-6 through 00-0, 
+the hit is considered an Extra-Critical hit
 
 Gun Jams:
+
 On a roll of 00-01, the weapon Jams, necessitating a weapon skill check, DC 60.
 When a player is defending against a hit, they roll Percentiles under their 
 armor in order to apply a Damage Reduction, or to apply damage to their 
@@ -445,7 +446,7 @@ Capacitive Sheilds if the player has them.
 
 Hip Firing doubles a weapon''s miss chance. It is much smarter to takes one 
 action to Aim, and spend the rest of your shots on firing. Its also a great 
-idea to take an action at the end of your turn to "hunker," and gain a 25% 
+idea to take an action at the end of your turn to "hunker," and gain a 20% 
 cover advantage.
 
 Using Cover:
