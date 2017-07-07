@@ -208,6 +208,15 @@ Prerequisites: None
 Somehow you always aim at the right location, at the right time. 
 +10% Crit chance, +5% Extra-Crit chance.
 
+Punch Drunk:
+Prerequisite: Fort > 3
+Take a +5% to miss on all attacks when not drunk. 
+Instead of taking a penalty to accuracy when using melee attacks when 
+intoxicated, you get a -5% to miss when buzzed and a -15% to miss when
+hammered. These bonuses only apply to melee attacks. You also get a 
++10% on rolls to avoid blacking out.  
+
+
 Point-man: 
 Prerequisites:
 When clearing a room, add 10 to your reflex roll.
