@@ -559,7 +559,27 @@ reduced by 1, permanently (repairable, DC 60% Repair check), not stackable.
 Poisoned - d10 damage per turn. After 5 turns, some poisons may induce 
 unconsciousness. DC 50, Fortitude. Greater / Lesser poison increases damage 
 (+5/-5) and DC (+25,-10).
+Buzzed (drunk) - Many drinks in the galaxy contain a substance called alchohol.
+	When consuming these drinks, the effect should list a FORT save to avoid
+	increasing your level of intoxication. The first level of intoxication is Buzzed.
+	While buzzed, you gain a +10% to miss with any attack and a temporary -1
+	to Perception. At the same time, you get a +1 to charisma and luck. You also
+	take a -20 to skill checks involving driving, flying or opperating heavy 
+	machinery. If you fail a Fort save to prevent increasing your intoxication
+	level while buzzed, you become hammered. As long as you don't become 
+	hammered, being buzzed will wear off in two hours.
+Hammered (drunk) - While hammered, you take a -30 to accuracy rolls when
+	attacking and a -50 to skill checks involving driving, flying or opperating
+	heavy machinery. You take a temporary -2 to dex, perception and charisma.
+	If your level of intoxication increases while you are hammered, you black
+	out. Roll an additional fort check with DC equal to the intoxication increase
+	DC of the last drink you had. If you fail it, you lose 2 death saving throws 
+	to alchohol poisoning. If you have no more death saving throws left, you 
+	are dead. If you succeed, lose no saving throws. You are now Downed.
+	As long as you don't black out, being hammered will turn into being 
+	buzzed after two hours.
 
+	
 ==============================
 Damage Types and Armour types
 ==============================
