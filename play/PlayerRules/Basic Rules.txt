@@ -573,7 +573,7 @@ Hammered (drunk) - While hammered, you take a -30 to accuracy rolls when
 	heavy machinery. You take a temporary -2 to dex, perception and charisma.
 	If your level of intoxication increases while you are hammered, you black
 	out. Roll an additional fort check with DC equal to the intoxication increase
-	DC of the last drink you had. If you fail it, you lose 2 death saving throws 
+	DC of the last drink you had. If you fail it, you roll 1 death saving throw 
 	to alchohol poisoning. If you have no more death saving throws left, you 
 	are dead. If you succeed, lose no saving throws. You are now Downed.
 	As long as you don't black out, being hammered will turn into being 
