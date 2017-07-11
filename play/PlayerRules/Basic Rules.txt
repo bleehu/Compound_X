@@ -237,8 +237,17 @@ Luck:
 ║ 9-10  ║ Nothing bad happens... this time							║
 ╚═══════╩═══════════════════════════════════════════════════════════════════════════════════════╝
 	
-	
-	
+Assigning Stats to a new character
+	When making a new character, you'll have to assign their Base stats.
+This will tell you a lot about your character. When assigning your stats,
+no stat can be higher than a 9 before applying racial/species bonuses and
+no stat can be lower than a 1 after applying racial/species bonuses. 
+Additionally, even after race/species bonuses, feats, equipment and base stat 
+bonuses from leveling, no stat can ever be over 15 until your character is 
+level 15. After level 15, the limit for stat points is 20. The number of 
+initial base stat points that you have to apply is listed with your Race or 
+Species. See chapter 1: Races if you haven't yet. 
+
 Leveling up:
 Gain feats according to the table below.
 With Charisma 9 or higher, receive more feats. The feats listed in the table are totals, 
