@@ -447,23 +447,24 @@ If that second d10 roll is a 1 or 2, the weapon Jams, necessitating a weapon
 skill check, DC 60. 
 
 Armor and Getting Hit:
-When a player is defending against a hit, they roll Percentiles under their 
+When a player is defending against a successful enemy hit, they roll Percentiles under their 
 armor in order to see if their armor blocked the bullet, and from there, how much
-damage they receive. If the player has no armor, they roll for a target 50 Percentile. 
-If the shot/attack rolls above 50%, they receive half-damage. Below 50%, full damage.
+damage they receive. If the defending player has no armor, they armor roll for a target 50 Percentile. 
+If the armor roll is above 50%, they receive half-damage. Below 50%, full damage.
 
-Armor consists of 3 concepts, Armor Points, Armor Piercing (AP) level, and % Coverage.
+Armor consists of 3 concepts: Armor Points (APs), Armor Piercing level (APL), and % Coverage.
 Starting from the end, Coverage is simply the percentile that you have to roll
 under to see if armor was hit. If the attack misses armor, or rolls over 50%, it does
-half damage. If the attack hits armor: AP level comes into play. 
-	AP level is a unitless number that represents how well a weapon can pierce armor or
-how well armor can block bullets. If the attacker's weapon AP level is less than the
-defender's armor AP level, all damage is blocked. If the weapon AP level is greater than
-or equal to the armor AP level, then Armor Points come into play. 
-	Armor Points are, effectively, your armor's ability to slow down projectiles as they
+half damage because the bullet is hitting a less vital part of the body. If the attack
+hits armor: Armor Piercing level (APL) comes into play. 
+	APL is a unitless number that represents how well a weapon can pierce armor or
+how well armor can block bullets. If the attackers weapon's APL is less than the
+defenders armor's APL, all damage is blocked. If the weapon's APL is greater than
+or equal to the armor's APL, then Armor Points (APs) come into play. 
+	APs are, effectively, your armor's ability to slow down projectiles as they
 pass through it. Whenever armor is successfully pierced, all damage is first inflicted
-on Armor Points. Once the armor points are used up, all remaining damage goes to health.
-Armor points refresh at the start of the armor wearer's turn.
+on APs. Once the APs are used up, all remaining damage goes to health. APs refresh at the
+start of the armor wearer's turn.
 
 Hip Firing:
 Add 3 to a weapon''s miss chance. You cannot use attachments to assist in
