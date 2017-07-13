@@ -125,7 +125,7 @@ brought back" but they can store copies of themselves on respawn systems.
 Size: Medium
 Speed: Normal
 Starting Stat Points: 40
-Stat Modifiers: +2 INT, -2 LUK, +2 DEX -4 STR
+Stat Modifiers: +2 INT, -2 LUK, +2 DEX, -4 STR
 Language: ECSC standard, Machine Language, +1 language.
 
 Racial Traits:
