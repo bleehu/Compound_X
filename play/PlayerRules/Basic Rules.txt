@@ -444,21 +444,23 @@ different than skill in unarmed combat.
 
 Actions:
 During combat, your character is given 4 Actions to use for fighting, 
-movement, using items, etc. Here is a table of common tasks and their
+movement, using items, etc. Here is a list of common tasks and their
 relative cost:
 
 Reloading a Pump-Action Shotgun - 4 Actions
-Reloading a Bolt-Action weapon - 3 Actions
-Moving DEX meters - 2 Actions
-Hunkering Down - 2 Actions
-Firing a semi-auto gun - 1 Action
+Reloading a Bolt-Action Weapon - 3 Actions
+Reloading a Magazine Fed Weapon - 2 Actions
+Moving DEX # of Meters - 2 Actions
+Hunkering Down - 1 Action
+Firing a Semi-Auto Gun - 1 Action
+Suppressing an Area/Target - 1 Action
 Cast a Spell - 1 Action
-Aiming Down Sights - 1 Action
-turning on a flashlight - 1 Action
-Unholstering Pistol - 1 Action
-Performing a skill check (other than Awareness) - 1 Action
-Conversing with partners - Free Action
-Getting your bearings / non skill-based perception - Free Action
+Aiming Down Gun Sights - 1 Action
+Turning on a Flashlight - 1 Action
+Unholstering Pistol or Grabbing a Weapon/Item - 1 Action
+Performing a Skill Check (other than Awareness/Perception) - 1 Action
+Conversing With Partners - Free Action
+Getting Your Bearings / Non Skill-Based Perception - Free Action
 
 Movement:
 You can run DEX number of meters per 2 actions. A character with 1 DEX can 
@@ -474,7 +476,10 @@ running start.
 You can jump vertically Str/3 meters.
 
 Fighting:
-During combat, most weapons are Semi-Auto, meaning that each time you pull the 
+During combat with a ranged weapon, you can aim and fire or, more simply, just fire
+at a target. If you shoot without aiming, you are "Hip Firing" and incur additional
+aiming penalties (see Hip Firing, below).
+Most weapons are Semi-Auto, meaning that each time you pull the 
 trigger, the gun fires and chambers a new round automatically one time. It 
 takes 1 Action to fire a semi-auto weapon in this way. Some guns, 
 such as Shotguns and Bolt-Action sniper rifles require 2 Actions to fire 
@@ -520,6 +525,16 @@ Hunkering: +25% on top of whatever cover you''re behind.
 Hunkering costs one action, and you cannot fire your weapons. Imagine 
 curling up in a ball, to pose the absolute smallest target possible. Its a 
 free action to un-hunker
+
+Suppression 
+Every player with a ranged weapon gets the option to suppress at the end of 
+their turn. Suppressing, also known as, "Laying down fire" or "covering" is
+the action of shooting a hail of bullets (as accurately as possible) to keep
+the enemy from being able to act.
+
+They can Suppress with a [valid] weapon in their hand as the last action of their turn. When you Suppress, you also aim at the target as part of the action. Suppression doesn't require any rolls, it simply applies a light/medium/heavy suppression status effect on the target(s) in the suppression AOE
+If the target(s) moves so as to become visibly more hit-able, they proc automatic hits by the suppressor. If the target(s) shoot, they fire with reduced accuracy. Suppression status can't be purged on the suppressed target's turn unless they move outside of the area of their suppression (potentially proc'ing the free hits). 
+The only other way to stop being suppressed is to stop the suppressor from using a suppression action on you at the end of their turn.
 
 Reloading:
 When a gun runs out of ammunition, the user must pause to reload. "But how long 
