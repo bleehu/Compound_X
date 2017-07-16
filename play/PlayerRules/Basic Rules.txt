@@ -408,7 +408,7 @@ attack. Each "Player turn" lasts 4-6 seconds, and consists of 4 "Actions"
 (described below).
 
 //Rules for stealth attack / flat foot
-//-20%, -10% crit, reduce chance to hit armour (20%?)
+//-20%, -10% crit, reduce chance to hit armor (20%?)
 //If your attack would normally force the target to roll a fort save, they are 
 //incapacitated by default with no roll.
 
@@ -526,15 +526,37 @@ Hunkering costs one action, and you cannot fire your weapons. Imagine
 curling up in a ball, to pose the absolute smallest target possible. Its a 
 free action to un-hunker
 
-Suppression 
-Every player with a ranged weapon gets the option to suppress at the end of 
-their turn. Suppressing, also known as, "Laying down fire" or "covering" is
-the action of shooting a hail of bullets (as accurately as possible) to keep
-the enemy from being able to act.
+Suppression: 
+Every player with a ranged weapon gets the option to suppress as the last 
+action of their turn. Suppressing, also known as, "Laying down fire" or 
+"covering" is the art of shooting a hail of bullets (as accurately as possible)
+to try and prevent the enemy from effectively fighting back. Suppression
+comes in three flavors: light, medium, and heavy; these indicate how wide
+of an area is suppressed as well as how effective that suppression is. The
+type of suppression available to you is dependent on your weapon.
 
-They can Suppress with a [valid] weapon in their hand as the last action of their turn. When you Suppress, you also aim at the target as part of the action. Suppression doesn't require any rolls, it simply applies a light/medium/heavy suppression status effect on the target(s) in the suppression AOE
-If the target(s) moves so as to become visibly more hit-able, they proc automatic hits by the suppressor. If the target(s) shoot, they fire with reduced accuracy. Suppression status can't be purged on the suppressed target's turn unless they move outside of the area of their suppression (potentially proc'ing the free hits). 
-The only other way to stop being suppressed is to stop the suppressor from using a suppression action on you at the end of their turn.
+When you Suppress, you aim at the target as part of the action and fire a
+hail of bullets (within your weapon range). Suppression doesn't require any
+rolls to initiate, the suppressor simply fires, creating a light/medium/heavy
+suppression AOE (Area-of-Effect, typically a 1-3m circle).
+If a suppressed target moves out into the open(*), they trigger automatic attack
+rolls (or automatic hits) by the suppressor, once per target per suppressor's 
+turn. If the suppressed target shoots, they fire with +1 miss chance. Suppression
+status can't be purged unless you move outside the AOE. 
+The only other way to stop being suppressed is to stop the suppressor from 
+using a suppression action on you at the end of their turn.
+
+(*) "Moving out into the open" includes moving into a new location while you can
+be hit by shots from the suppressor (this excludes moving into complete concealment,
+such as going prone behind a high concrete wall). For example, these situations
+would trigger a free hit by the suppressor and give you the 'suppressed' status
+while remaining in the area (let's assume you are upright (not crouched or prone)):
+moving from partial cover to an adjacent partial cover, moving from complete concealment
+behind a barricade to partial cover, and moving at all when you are caught out in
+the open.
+If the suppressor cannot physically hit you (such as being completely behind an 
+impenetrable barrier) you are not suppressed. The suppressor doesn't need to see 
+you, to hit you.
 
 Reloading:
 When a gun runs out of ammunition, the user must pause to reload. "But how long 
@@ -571,7 +593,6 @@ wound, or with Medicine Skill check, DC 50
 Fear - No actions, except running away form the source of fear, or rolling to 
 defeat fear. DC 50, Will save.
 Fear, Greater - No actions, except rolling to defeat fear. DC 75, Will save.
-CS Burn - 1d10/2 stackable damage for 2 turns. + 5 damage against robots, on hit.
 Necrosis - 2d10 +5 damage per turn. Seek medical attention immediately. If 
 left unhealed for more than a day, the infection spreads 1 foot per day. 
 Medicine DC 75, must be rolled.
@@ -585,29 +606,42 @@ unconsciousness. DC 50, Fortitude. Greater / Lesser poison increases damage
 (+5/-5) and DC (+25,-10).
 
 ==============================
-Damage Types and Armour types
+Damage Types and armor types
 ==============================
 
-There are 4 main types of damage in compound X: Ballistic (conventional 
-firearms, bows), Laser, Plasma, and melee. Additionally, some Ballistic, Laser 
-and melee weapons can deal non-lethal variants. These damage types interact 
-differently with the two types of armour. Ballistic weapons and ballistic armour 
-are the first damage type and armour type players will come across. When 
-ballistic armour is shot by a ballistic weapon, the armour may apply some damage 
-reduction, then the player takes damage. The second type of damage players may 
-come across is plasma. Plasma damage stacks, and interacts fairly neutrally 
-with both ballistic and CS armours. Ballistic armour applies some DR to any 
-plasma damage, but in turn the plasma will melt away part of the armour. One 
-Tenth of the plasma's damage is removed from the armour's hit percent. For CS 
-shields, Plasma deals full damage to the shielding, plus inflicts plasma burn 
-on the wearer. Laser damage is the third type pf damage encountered by players. 
-All lasers deal burn damage on hit. Lasers are completely nullified by CS 
-shields, dealing all of their damage to the shielding, and inflicting no burn 
-damage. Lasers deal full damage to armoured targets, and remove nothing off of 
-the armour's hit percent. If a player wearing ballistic armour is hit with a 
-laser, they receive damage as if they weren't wearing any armour.
+There are 5 main types of damage in compound X: Ballistic (conventional firearms, bows),
+Laser, Plasma, Explosive (concussive), and melee. Additionally, some Ballistic, Laser and 
+melee weapons can deal non-lethal variants. These damage types interact differently with 
+the two types of protection: Armor and Shields. 
 
-Beyond weapon damage there are also environmental threats to consider. An 
+Ballistic Weapons:
+	Ballistic weapons are straightforward: they are blocked by armor and ignore shields.
+	Any damage that defeats armor damages health.
+Plasma Weapons:
+	Plasma interacts fairly neutrally with both armor and shields. Armor's effectiveness
+	is reduced by 1 APL when hit by plasma. Targets hit with plasma, that pierces armor, 
+	take (stackable) plasma burn. For Shields, Plasma deals half damage to the shielding,
+	plus inflicts plasma burn and any remaining damage on the wearer (only if their armor 
+	is pierced, of course). 
+Laser Weapons:
+	Lasers are completely blocked by shields, dealing all of their damage to the shielding.
+	Lasers deal full damage to armored targets; If a player wearing ballistic armor is hit 
+	with a laser, they receive damage as if they weren't wearing any armor.
+Explosives:
+	Certain grenades and devices have Explosive (concussive) damage. Explosive Damage ignores
+	armor (explosive damage is essentially, a crushing force). Fragmentation grenades are 
+	considered ballistic weapons, as their primary damage delivery method is shrapnel. 
+Melee/Melee Weapons:
+	Melee damage is treated like ballistic damage.
+Armor:
+	Ballistic Armors (or more simply, Armor) are the first type of protective measure that 
+	you will come across. When ballistic armor is shot by a ballistic weapon, the armor may 
+	reduce or fully block damage before the player takes damage. 
+Shields:
+	CS Shields (or more simply, Shields) are the second type of protective measure that you
+	will come across. Shields normally protect against Plasma and Lasers but not against ballistics.  
+
+Beyond weapon damage, there are also environmental threats to consider. An 
 important note is on fall damage. A player can fall up to their Dex/2 in 
 meters before needing to roll an acrobatics check. If the surface they are 
 landing on is somehow fouled, the GM may require the player to roll an 
@@ -641,7 +675,7 @@ of the caster or the Charisma Modifier.
 Cloaking
 ==============================
 
-Cloaking is available in the armour section, but also available to some 
+Cloaking is available in the armor section, but also available to some 
 classes as a class feature. For non-class cloakers, the rules are as follows:
 Expend 50 Nanites to activate the cloaking shield. while moving, the cloak DC 
 is 30. while staying still, the cloak DC is 60. There is a tell-tale shimmer 
