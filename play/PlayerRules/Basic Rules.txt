@@ -131,15 +131,27 @@ Feats		- Your character will gain special perks as you level up. This
 Player Stats:
 ==============================
 
-Each player has what are called Base Stats. An average person has a '5'
-for each stat, but an average player has a '6' . These stats are:
+Each player has what are called Base Stats. An average person has a '5' for
+each stat, but an average player has a '6'. Base Stats are split into Primary
+and Secondary stats. Primary stats are determined by your Base Stat points.
+Secondary stats are derived from several primary stats. For every point in a primary
+stat, a secondary stat point is awarded (if the primary and secondary stats are
+associated). The maximum number of points that can be put into a given secondary stat
+is determined by the quantity of points in the largest associated primary stat.
+These stats are as follows (secondary stat associations are indented):
 Strength
+      ╠═ Carry Ability
+      ╚═ Movement Speed
 Perception
 Fortitude
+      ╚═ Carry Ability
 Charisma
+      ╚═ Skill Point Gain
 Intelligence
+      ╚═ Skill Point Gain
 Dexterity
-and Luck.
+      ╚═ Movement Speed
+Luck
 
 Usually you can tell a lot about a character just by their base stats. For
 instance, a character with 9 strength and 3 intelligence is usually either
@@ -166,6 +178,23 @@ and the score of your roll would be
 71 + 12 = 83
 That's a really high roll! But that may or may not be enough to lift the object
 depending on how heavy it is!
+
+Ranged or melee weapon accuracy bonuses use slightly different equations, as combat
+accuracy rolls are played out on a d10 scale:
+
+Combat Accuracy Stat Bonus = (0.3 * Stat) - 1.5
+	which is equal to 
+Combat Accuracy Stat Bonus = (Stat - 5) * 0.3
+	if that's any easier.
+
+Round any remaining decimal to the nearest whole number that gives the best accuracy,
+after accounting for weapon attachments (if relevant). For example, let's say you have
+6 Perception, your PER mod (for ranged accuracy) would be 0.3, which you would round 
+to +1 bonus accuracy (-1 miss chance). In another instance you may have 7 Perception (and
+thus a 0.6 combat bonus) and you are wielding a weapon with a 3.2x Basic Scope (0.5 bonus 
+accuracy). Your total bonus accuracy before rounding is:
+0.5 + 0.6 = 1.1
+Which you would round to 2 bonus accuracy (-2 miss chance).
 
 Each Base Stat has different specific effects. They are detailed below.
 
@@ -250,9 +279,9 @@ Species. See chapter 1: Races if you haven't yet.
 
 Leveling up:
 Gain feats according to the table below.
-With Charisma 9 or higher, receive more feats. The feats listed in the table are totals, 
+With Intelligence 9 or higher, receive more feats. The feats listed in the table are totals, 
 not to be added together.
-every level, gain 2*int skill points
+every level, gain 2*(Skill Point Gain) skill points
 every 5th level, +1 Class feat
 On levels 5, 9, 15 and 20, gain a stat point. The stat increase happens before any 
 calculations, so if you had 10 int, and increased to 11, you would get 22 skill points
@@ -260,7 +289,7 @@ for the level. Additionally, any stat point alteration forces a recalculation on
 affected values.
 
 ╔═══════╦══════════╦═══════╦════════════╦════════════╦═══════════════╗
-║ Level ║ Skill P. ║ Feats ║ Class Feat ║ Stat Point ║ Feats (9 CHA) ║
+║ Level ║ Skill P. ║ Feats ║ Class Feat ║ Stat Point ║ Feats (9 INT) ║
 ╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
 ║ 0     ║ Given    ║ 0     ║            ║            ║ 0             ║
 ╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
