@@ -527,13 +527,14 @@ curling up in a ball, to pose the absolute smallest target possible. Its a
 free action to un-hunker
 
 Suppression: 
-Every player with a ranged weapon gets the option to suppress as the last 
-action of their turn. Suppressing, also known as, "Laying down fire" or 
-"covering" is the art of shooting a hail of bullets (as accurately as possible)
-to try and prevent the enemy from effectively fighting back. Suppression
-comes in three flavors: light, medium, and heavy; these indicate how wide
-of an area is suppressed as well as how effective that suppression is. The
-type of suppression available to you is dependent on your weapon.
+Every player with a ranged weapon gets the option to Suppress as the last 
+action of their turn. Suppression, also known as, "laying down fire", 
+"covering fire", or "suppressive fire" is the art of shooting a hail of 
+bullets (as accurately as possible) to try and prevent the enemy from 
+effectively fighting back while your team maneuvers. Suppression comes in
+three flavors: light, medium, and heavy; these indicate how wide of an area
+is suppressed as well as how effective that suppression is. The type of 
+suppression available to you is dependent on your weapon.
 
 When you Suppress, you aim at the target as part of the action and fire a
 hail of bullets (within your weapon range). Suppression doesn't require any
