@@ -136,8 +136,9 @@ each stat, but an average player has a '6'. Base Stats are split into Primary
 and Secondary stats. Primary stats are determined by your Base Stat points.
 Secondary stats are derived from several primary stats. For every point in a primary
 stat, a secondary stat point is awarded (if the primary and secondary stats are
-associated). The maximum number of points that can be put into a given secondary stat
-is determined by the quantity of points in the largest associated primary stat.
+associated). If a secondary stat is contributed to by more than one primary stat,
+you can assign as many points to the common secondary stat as you have points
+in the largest of the associated primary stats.
 These stats are as follows (secondary stat associations are indented):
 Strength
       ╠═ Carry Ability
@@ -152,6 +153,20 @@ Intelligence
 Dexterity
       ╚═ Movement Speed
 Luck
+
+Secondary stat assignment example: let's assume you have assigned your character
+6 Strength, 3 Dexterity, and 2 Fortitude. Dexterity only has one secondary stat, movement 
+speed, so you would put 3 secondary stat points into movement speed. Likewise,
+Fortitude only has Carry Ability, so 2 points are assigned there. 
+	Strength has 6 secondary stat point to assign; you can assign an additional 3
+stat points to movement speed (for a maximum of 6 movement speed) which leaves 3 additional 
+points for Carry Ability (for a total of 5 points). Or you can do any other combination, so
+long as Carry Ability and Movement speed don't exceed 6 points (because strength is the 
+highest primary stat associated with Carry Ability and Movement Speed). 
+	In the case that you have more secondary points than you can use, (such as
+if you assigned 5 points to Strength, Fortitude, and Dexterity) save them for later.
+You can increase your base stats and apply the secondary points later (see section,
+Leveling Up).
 
 Usually you can tell a lot about a character just by their base stats. For
 instance, a character with 9 strength and 3 intelligence is usually either
@@ -277,7 +292,7 @@ level 15. After level 15, the limit for stat points is 20. The number of
 initial base stat points that you have to apply is listed with your Race or 
 Species. See chapter 1: Races if you haven't yet. 
 
-Leveling up:
+Leveling Up:
 Gain feats according to the table below.
 With Intelligence 9 or higher, receive more feats. The feats listed in the table are totals, 
 not to be added together.
