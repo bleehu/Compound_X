@@ -496,7 +496,7 @@ would and pushes the target 1m for every 5 strength you have.
 
 Actions:
 During combat, your character has 4 Actions. Actions are used for fighting, 
-movement, items, whimpering, etc. Here is a table of common tasks and their
+movement, items, whimpering, etc. Here is a list of common tasks and their
 relative cost:
 
 Reloading a Pump-Action Shotgun - 4 Actions
