@@ -34,7 +34,7 @@ at doing whatever it is you are attempting to do. What to add when is discussed
 in detail below. 
 
 For now, know that Compound X uses two ten-sided dice (usually called D10s) to
-represent a percent. One of the D10s represents the number in the 10's place.
+represent a d100, a percent. One of the D10s represents the number in the 10's place.
 the other represents the number in the 1's place. Most dice sets come with two
 D10s, one with a zero after the number on the face, the other without that zero.
 In that case, obviously you add the numbers on the face of the dice together to
@@ -292,7 +292,7 @@ affected values.
 ╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
 ║ 14    ║ "        ║ 8     ║            ║            ║ 11            ║
 ╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
-║ 15    ║ "        ║       ║ 3          ║ +1         ║               ║
+║ 15    ║ "        ║       ║ 3          ║ +1         ║               ║ 
 ╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
 ║ 16    ║ "        ║ 9     ║            ║            ║ 13            ║
 ╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
@@ -318,7 +318,7 @@ negative effects.
     - Reflex: quickly react to an event (Ex: dodge falling debris, fire at an 
     	enemy if they leap from one piece of cover to another).
 the equations are as follows:
-    - Will: 2*(Cha + Fort - 6) Rational: Normally wisdom would be applied, so 
+    - Will: 2*(Cha + Int - 6) Rational: Normally wisdom would be applied, so 
     	Will in compound X is descried as your internal voice motivating you to
         endure a mental hardship.
     - Shock: 2*(Fort + Int - 6) Rational: You need to recognize that you are 
@@ -428,23 +428,24 @@ Characters also incur "penalty attacks" when moving through or next to an
 enemy character''s 1m space, or within range of a melee weapon that the enemy 
 has equipped, and when performing a skill check when in melee combat.
 Melee combat is relatively simple. To hit an enemy player, add your dexterity 
-or strength modifier to a roll, plus any relevant skill. The result must be 
+modifier to a d100 roll, plus any relevant skill. The result must be 
 greater than the opponent''s DEX * 5 + any skill in combat (Guard DC). Your 
-damage dealt is based on your DEX or STR modifier. If you are wielding a 
-weapon against an unarmed opponent, they may still incur damage depending on 
-their skill.
+damage dealt is based on a combination of your DEX and STR modifier. If you 
+are wielding a weapon against an unarmed opponent, they may still incur damage
+depending on their skill.
+
 A character may grapple another character when they are both in melee 
 distance. Doing so provides the grappled player a "penalty attack" on the 
 grappling player. During grappling, both sides roll opposing grapple checks to 
 see who maintains control. Once you have control you may make a grapple check 
-to subdue your opponent (either through choke-out, pin, or a joint lock). You 
-may also strike an opponent during grappling, but if the strike fails your 
-opponent may attempt to gain control of the grapple. Skill in grappling is 
-different than skill in unarmed combat.
+to subdue your opponent (by choke-out, pin, or a joint lock). You may also strike
+an opponent during grappling, but if the strike fails your opponent may attempt 
+to gain control of the grapple. Skill in grappling is different than skill in 
+unarmed combat.
 
 Actions:
-During combat, your character is given 4 Actions to use for fighting, 
-movement, using items, etc. Here is a table of common tasks and their
+During combat, your character has 4 Actions. Actions are used for fighting, 
+movement, items, whimpering, etc. Here is a table of common tasks and their
 relative cost:
 
 Reloading a Pump-Action Shotgun - 4 Actions
@@ -475,49 +476,97 @@ You can jump vertically Str/3 meters.
 
 Fighting:
 During combat, most weapons are Semi-Auto, meaning that each time you pull the 
-trigger, the gun fires and chambers a new round automatically one time. It 
+trigger, the gun fires once and chambers a new round automatically. It 
 takes 1 Action to fire a semi-auto weapon in this way. Some guns, 
 such as Shotguns and Bolt-Action sniper rifles require 2 Actions to fire 
 the gun, where the first Action is a trigger pull, and the second Action
-is the re-chambering of the weapon.
-To hit, Players must roll a percentile that is over their weapon's % miss 
-stat. When an enemy is in cover, their cover score is added to your weapon's 
-miss chance. If your normal miss chance is 25, and the enemy is in full cover, 
-your miss chance is increased by 50, for a final DC of 75.
-Critical Hits:
-If your Luck is 5, on a roll of 90-1 through 90-5, the hit is considered a 
-Critical hit, and deals an extra 10 damage. on a roll of 90-6 through 00-0, 
-the hit is considered an Extra-Critical hit, and deals an extra 20 damage. 
+is the rechambering of the weapon.
+To hit a target, Players must roll a d10 that is over their weapon's miss stat.
+When an enemy is in cover, their cover score is added to your weapon's miss chance. 
+Lets say your normal ranged miss chance is 2, and the enemy is in full cover, your
+miss chance is increased by 4, for a final DC of 6. So a roll of 7-10 would be 
+successful.
 
-Your Luck modifier ((Luck-5)*4) is subtracted from the lower bound of your critical
-hit range and half of your luck modifier is subtracted from the lower bound of your
-extra-critical hit range. All weapons can critical hit except for Fully-Automatic
-weapons (weapons that shoot more than 1 bullet per half-action by default).
+
+Critical Hits:
+Critical hits are accuracy rolls that land inside your critical hit range (aka. crit chance). 
+If you roll a critical hit, your weapon does +20 damage for that attack (and/or other effects,
+depending on your abilities). By default, everyone starts with a critical hit range of "1", meaning, an
+attack roll of a 10 would be considered a critical hit. But your critical range may 
+not be "1" because your Luck modifies your critical hit range: ((Luck-5)*0.4), round up, is
+added to your critical hit range. Which means, if you have a Luck stat of 6 (and thus,
+by the equation, +1 to your critical hit range), an attack roll of 9-10 would be considered
+a critical hit. 
+All weapons and melee can critical hit except for Fully-Automatic weapons (weapons that 
+shoot more than 1 bullet per Action by default).
 
 Gun Jams:
-On a roll of 00-01, the weapon Jams, necessitating a weapon skill check, DC 60.
-When a player is defending against a hit, they roll Percentiles under their 
-armor in order to apply a Damage Reduction, or to apply damage to their 
-Capacitive Shields if the player has them.
+If at any time that you are firing a gun and you roll a weapon accuracy of 1, roll a second d10.
+If that second d10 roll is a 1 or 2, the weapon Jams, necessitating a weapon 
+skill check, DC 60. 
 
-Hip Firing doubles a weapon''s miss chance. It is much smarter to takes one 
-action to Aim, and spend the rest of your shots on firing. Its also a great 
-idea to take an action at the end of your turn to "hunker," and gain a 25% 
+Armor and Getting Hit:
+When a player is defending against a successful enemy hit, they roll Percentiles under their 
+armor in order to see if their armor blocked the bullet, and from there, how much
+damage they receive. If the defending player has no armor, they armor roll for a target 50 Percentile. 
+If the armor roll is above 50%, they receive half-damage. Below 50%, full damage.
+
+Armor consists of 3 concepts: Armor Points (APs), Armor Piercing level (APL), and % Coverage.
+Starting from the end, Coverage is simply the percentile that you have to roll
+under to see if armor was hit. If the attack misses armor, or rolls over 50%, it does
+half damage because the bullet is hitting a less vital part of the body. If the attack
+hits armor: Armor Piercing level (APL) comes into play. 
+	APL is a unitless number that represents how well a weapon can pierce armor or
+how well armor can block bullets. If the attackers weapon's APL is less than the
+defenders armor's APL, all damage is blocked. If the weapon's APL is greater than
+or equal to the armor's APL, then Armor Points (APs) come into play. 
+	APs are, effectively, your armor's ability to slow down projectiles as they
+pass through it. Whenever armor is successfully pierced, all damage is first inflicted
+on APs. Once the APs are used up, all remaining damage goes to health. APs refresh at the
+start of the armor wearer's turn.
+
+Hip Firing:
+Add 3 to a weapon''s miss chance. You cannot use attachments to assist in
+hip firing unless otherwise noted. It is much smarter to takes one 
+action to Aim, and spend the rest of your shots firing. It's also a great 
+idea to take an action at the end of your turn to "hunker," and gain a +2 
+
 cover advantage.
+If your weapon has a minimum distance (usually because of a high-powered
+scope), and you fire inside that distance, you are forced to hip fire.
 
-Using Cover:
-Chances are, if an enemy can see you in Compound X, they can hit you. Using 
-cover will make it harder to be hit. You will encounter many types of cover 
+Blind Firing:
+Add 6 to a weapon's miss chance. Blind firing allows you to shoot around cover
+without looking or putting yourself at risk. Your blind fire accuracy is affected 
+by your base weapon miss chance(s), not affected by regular attachments, and only 
+reduced by LUCK and PER mod (max of -4 miss chance from LUCK mod + PER combat mod).
+
+Using Cover/Stances:
+Chances are, if an enemy can see you in Compund X, they can hit you. Using 
+cover will make you harder to be hit. You will encounter many types of cover 
 while adventuring throughout the galaxy. Many small objects provide only 
 partial cover, either by partially obscuring your silhouette, or by providing 
 slight protection from projectiles. Full cover will do both to a better 
-degree. Debuffs to enemies %Miss are as follows:
-No Cover: +0%
-Partial Cover: +25%
-Full Cover: +50%
-Hunkering: +25% on top of whatever cover you''re behind.
+degree. Crouching or going prone will also take better advantage of your surroundings
+and make you a smaller target. Debuffs to enemies Miss Chance are as follows:
 
-Hunkering costs one action, and you cannot fire your weapons. Imagine 
+No Cover: +0
+Partial Cover: +2 
+Full Cover: +4
+
+Crouching: +1 (on top of whatever cover you''re behind.)
+Prone: +2 (on top of whatever cover you''re behind, may completely obscure vision)
+Hunkering: +2 (on top of whatever cover you''re behind.)
+
+Crouching is a free action, and standing up costs 1 Action. While you are
+crouched, you have -1 movement speed per action (minimum 1) and you cannot
+sprint or use other movement abilities.
+	Going prone costs 1 Action, and standing up costs 1 Action. Lying flat down on
+your chest makes you a smaller target and helps you aim better, but also makes you
+easier to hit in melee. -0.5 gun miss chance while prone and +2 chance to be hit in
+melee. Being prone severely limits your movement: 1/2 movement speed while prone, 
+round-up; maximum 4 movement per 2 actions.
+	Hunkering costs 1 action, and you cannot fire your weapons. Imagine 
 curling up in a ball, to pose the absolute smallest target possible. Its a 
 free action to un-hunker
 
@@ -526,14 +575,14 @@ When a gun runs out of ammunition, the user must pause to reload. "But how long
 do I gotta be outta the battle?" Great question!
 Each gun has a "Reload DC," rated based on the skill and brevity of the 
 weapon''s reload. For example, an assault rifle, which has a very obvious 
-magazine release button and protruding magazine, has an average DC of 25. More 
+magazine release button and protruding magazine, has an average DC of 30%. More 
 complex weapons, such as high-precision sniper systems or exotic sub-machine 
-guns might have a higher DC, maybe 35. If the Player passes the reload, then 
+guns might have a higher DC, maybe 40%. If the Player passes the reload, then 
 the reload time is standard. For Box-Magazine fed Semi- and Fully-Automatic 
 weapons, this is 2 Actions. Other, more complex weapons will specify their 
-reload time. On a critical Success (anything in the 90-100 range), the reload 
-time is halved (for Bolt-Actions it is reduced to 1 Action). On a failure,
-the reload time takes double.
+reload time. On a critical Success (by default, anything in the 90-100 range),
+the reload time is halved (for Bolt-Actions it is reduced to 1 Action). On a 
+failure, the reload time takes double.
 
 When players take more than 70 damage, they must roll a Shock save at a DC of 
 the damage taken. On fail they pass out. on success they stay conscious. When 
