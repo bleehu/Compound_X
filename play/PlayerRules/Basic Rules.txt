@@ -194,8 +194,8 @@ and the score of your roll would be
 That's a really high roll! But that may or may not be enough to lift the object
 depending on how heavy it is!
 
-Ranged or melee weapon accuracy bonuses use slightly different equations, as combat
-accuracy rolls are played out on a d10 scale:
+Ranged and melee weapon accuracy bonuses use a slightly different equation than the 
+above Stat Bonus equation, as combat accuracy rolls are played out on a d10 scale:
 
 Combat Accuracy Stat Bonus = (0.3 * Stat) - 1.5
 	which is equal to 
@@ -205,9 +205,10 @@ Combat Accuracy Stat Bonus = (Stat - 5) * 0.3
 Round any remaining decimal to the nearest whole number that gives the best accuracy,
 after accounting for weapon attachments (if relevant). For example, let's say you have
 6 Perception, your PER mod (for ranged accuracy) would be 0.3, which you would round 
-to +1 bonus accuracy (-1 miss chance). In another instance you may have 7 Perception (and
-thus a 0.6 combat bonus) and you are wielding a weapon with a 3.2x Basic Scope (0.5 bonus 
-accuracy). Your total bonus accuracy before rounding is:
+to +1 bonus accuracy (-1 miss chance). 
+	In another instance you may have 7 Perception (and thus a 0.6 combat bonus) 
+and you are wielding a weapon with a 3.2x Basic Scope (0.5 bonus accuracy). Your total 
+bonus accuracy before rounding is:
 0.5 + 0.6 = 1.1
 Which you would round to 2 bonus accuracy (-2 miss chance).
 
@@ -518,8 +519,8 @@ move 1m per 2 actions, or 2m per 4 actions (a full turn). You can sprint
 instead of running, for a +2 movement bonus per two actions. However,
 firing your weapon after doing so will cause you to incur a +1 miss chance
 penalty. The penalty occurs during the actions you sprint, as well as 2 actions 
-afterwards. You can stack sprinting a number of Actions equal to your Fortitude.
-You can jump horizontally Dex/2 meters, and add 1 meter if you have a 5 meter 
+afterwards. You can sprint for a number of subsequent Actions equal to your Fortitude.
+You can jump horizontally Dex/2 meters, and add 1 meter if you have a 3 meter 
 running start.
 You can jump vertically Str/3 meters.
 
@@ -584,11 +585,13 @@ Stealth Attacks:
 If you are stealthed (undetected by an opponent) when you initiate an attack
 action, you incur bonuses depending on the circumstances of the attack.
 	Ranged weapon stealth-attacks (including explosive but not any other thrown 
-weapons) have normal damage with -1 miss chance, if 'adequate' aiming time is 
-given (DM's discretion: how rushed you are, or how skilled you are at stealth, etc).
+weapons) have -1 miss chance to hit., if 'adequate' aiming time is given (DM's discretion:
+how rushed you are, or how skilled you are at stealth, etc). Ranged weapon stealth-
+attacks deal +20 damage and, in addition, if you critical hit you gain all the effects 
+of a critical.
 	If you have 10 skill in melee combat, Thrown and Melee (non-explosive) weapons
 deal 2x damage, up to 150 maximum damage (before critical effects). If you critically
-hit, or hit at greater than 3 over your miss chance, target gets hit in whatever you
+hit, or hit at greater than 3 over your miss chance, the target gets hit in whatever you
 deem to be the most vulnerable; i.e., the head, neck, or the chest (over the heart,
 etc). If you critical hit, you also gain all the effects of a critical.
 
@@ -599,8 +602,8 @@ action of their turn. Suppression, also known as, "laying down fire",
 bullets (as accurately as possible) to try and prevent the enemy from 
 effectively fighting back while your team maneuvers. Suppression comes in
 three flavors: light, medium, and heavy; these indicate how wide of an area
-is suppressed as well as how effective that suppression is. The type of 
-suppression available to you is dependent on your weapon.
+is suppressed as well as how effective that suppression is (defined below).
+The type of suppression available to you is dependent on your weapon.
 
 When you Suppress, you aim at the target as part of the action and fire a
 hail of bullets (within your weapon range). Suppression doesn't require any
@@ -608,20 +611,36 @@ rolls to initiate, the suppressor simply fires, creating a light/medium/heavy
 suppression AOE (Area-of-Effect, typically a 1-3m circle).
 If a suppressed target moves out into the open**, they trigger automatic attack
 rolls (or automatic hits) by the suppressor, once per target per suppressor's 
-turn. If the suppressed target shoots, they fire with +1 miss chance. Suppression
-status can't be purged unless you move outside the AOE. 
+turn. If the suppressed target shoots, they fire with +1 miss chance, not-stackable.
+Suppression status can't be purged unless you move outside the AOE. 
 The only other way to stop being suppressed is to stop the suppressor from 
 using a suppression action on you at the end of their turn.
 
+Light Suppression:
+	As the last action of your turn, aim at a target and fire 3 rounds (or the rest
+	of your magazine, at least 1 round has to be fired) to suppress 1m radius AOE around
+	the target. The target takes a +1 miss chance malus until the start of your next turn, 
+	and if the target moves out into the open**, then roll an immediate reaction to hit the 
+	target with a (non-automatic fire) accuracy roll. Immediate reactions are stackable on a
+	per-weapon basis.
+Medium/Moderate Suppression:
+	identical to light suppression with the following exceptions, you must fire 6 rounds
+	from the current magazine to achieve 'moderate', and you don't have to roll to hit -- you 
+	automatically hit and roll armor.
+Heavy Suppression:
+	identical to light suppression with the following exceptions: you must fire 10 rounds
+	from the current magazine to achieve 'heavy', you don't have to roll to hit -- you 
+	automatically hit x2 and roll for armor. You suppress all targets within a 2m radius 
+	AOE around the primary target.
+
 **"Moving out into the open" includes moving into a new location while you can
 be hit by shots from the suppressor (this excludes moving into complete concealment,
-such as going prone behind a high concrete wall). For example, these situations
+such as going prone behind a high concrete wall). For example, the following situations
 would trigger a free hit by the suppressor and give you the 'suppressed' status
 while remaining in the area (let's assume you are upright (not crouched or prone)):
 moving from partial cover to an adjacent partial cover, moving from complete concealment
-behind a barricade to partial cover, and moving at all when you are caught out in
-the open.
-If the suppressor cannot physically hit you (such as being completely behind an 
+behind a barricade to partial cover, and moving when you are caught out in the open.
+	If the suppressor cannot physically hit you (such as being completely behind an 
 impenetrable barrier) you are not suppressed. The suppressor doesn't need to see 
 you, to hit you.
 
@@ -679,7 +698,7 @@ Damage Types and armor types
 ==============================
 
 There are 5 main types of damage in compound X: Ballistic (conventional firearms, bows),
-Laser, Plasma, Explosive (concussive), and melee. Additionally, some Ballistic, Laser and 
+Laser, Plasma, Explosive (concussive), and melee. Additionally, some Ballistic, Laser, and 
 melee weapons can deal non-lethal variants. These damage types interact differently with 
 the two types of protection: Armor and Shields. 
 
@@ -687,25 +706,24 @@ Ballistic Weapons:
 	Ballistic weapons are straightforward: they are blocked by armor and ignore shields.
 	Any damage that defeats armor damages health.
 Plasma Weapons:
-	Plasma interacts fairly neutrally with both armor and shields. Armor's effectiveness
-	is reduced by 1 APL when hit by plasma. Targets hit with plasma, that pierces armor, 
-	take (stackable) plasma burn. For Shields, Plasma deals half damage to the shielding,
-	plus inflicts plasma burn and any remaining damage on the wearer (only if their armor 
-	is pierced, of course). 
+	Plasma interacts with both armor and shields. Armor's effectiveness is reduced by 
+	1 APL when hit by plasma. Targets hit with plasma, that pierces armor, take (stackable) 
+	plasma burn. For Shields, Plasma deals half damage to the shielding, plus inflicts plasma
+	burn and any remaining damage on the wearer (only if their armor is pierced, of course). 
 Laser Weapons:
 	Lasers are completely blocked by shields, dealing all of their damage to the shielding.
 	Lasers deal full damage to armored targets; If a player wearing ballistic armor is hit 
 	with a laser, they receive damage as if they weren't wearing any armor.
 Explosives:
 	Certain grenades and devices have Explosive (concussive) damage. Explosive Damage ignores
-	armor (explosive damage is essentially, a crushing force). Fragmentation grenades are 
-	considered ballistic weapons, as their primary damage delivery method is shrapnel. 
+	armor and shields (explosive damage is essentially, a crushing force). Fragmentation 
+	grenades are considered ballistic weapons, as their primary damage delivery method is shrapnel. 
 Melee/Melee Weapons:
 	Melee damage is treated like ballistic damage.
 Armor:
 	Ballistic Armors (or more simply, Armor) are the first type of protective measure that 
-	you will come across. When ballistic armor is shot by a ballistic weapon, the armor may 
-	reduce or fully block damage before the player takes damage. 
+	you will come across. When armor is shot by a ballistic weapon, the armor may reduce or
+	fully block damage before the character's health is damaged. 
 Shields:
 	CS Shields (or more simply, Shields) are the second type of protective measure that you
 	will come across. Shields normally protect against Plasma and Lasers but not against ballistics.  
