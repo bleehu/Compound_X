@@ -94,7 +94,7 @@ Favored Class: Marksman, Soldier, Adept, Priest, Mechanic.
 Qualities: 10RP
 Type: Robotic. Does not need to eat, breath, or sleep. Must spend 6 hours to 
 recharge after a 24 hour period. this can be done via a self-contained 
-reactor. Not affected by mind-influence, succeptable to hack attempts).
+reactor. Not affected by mind-influence, succeptable to hack attempts.
 Size: Medium+
 Speed: Normal
 Starting Stat Points: 40
@@ -106,6 +106,7 @@ Built in Armour: Take any Heavy Armour for $100 less, or armors cost $60 less.
 Purpose Built: Take an additional skill at 10 points during character 
 creation. This is considered a Class skill.
 25m Darkvision.
+Immune to: poison, cannot be intoxicated.
 Weakness (Electrical): Electrical damage deals an additional 50% damage.
 
 //============================================================
@@ -151,6 +152,7 @@ They can divy this pool up into 3 categories:
 - Max 200 into a "Health" Pool
 - Max 100 into an "Armour" Pool
 - As many remaining as they like into a "Mana" Pool.
+Immune to: Poison, Cannot be intoxicated or bleeding.
 
 //============================================================
 Cyborg
