@@ -11,7 +11,6 @@ Pistols:
 Minimum Strength 2, Reload DC 20 unless otherwise noted. With DEX less than 5, Single Action revolvers must be re-cocked for an action. Reloading takes 2 Actions.
 ============================================================
 
-//Is this supposed to be a .44 magnum? .480 RMM? .46 doesn't exist, the listed damage is super high for a pistol. Also since its a revolver the reload DC should be higher.
 Mathews Model 36 $1580
 65 m
 25%
@@ -20,17 +19,17 @@ Mathews Model 36 $1580
 Reload 23%
 Single Action Revolver: cannot be fired as a free action.
 
-Raging Heffer			$1160
-55m
+Raging Heffer			$1680
+60m
 30%
 6 rounds, .500 S&W
-60 damage
+80 damage
 
-Smithers P3K			$1140
+Smithers P3K			$700
 35m
 28%
 11 rds	.40 ACP
-43 damage
+55 damage
 +10% chance to crit, no penalty to suppressing
 
 Thor Pitton Dart Tazer	$540
@@ -126,7 +125,7 @@ devnotes will not be pushed to play branch
 I''ve changed it to Neon. I''ve written up in the GM Munition Info doc that the different types of noble gasses produced different densities of plasma. Heavier element plasmas deal more plasma burn tokens. Since this is supposed to be a basic plasma shotgun, Neon would make sense.
 //end devnotes
 
-Schroder C-6 $3220 / $4 per shell
+Schroder C-6 $3220
 This Over-Under shotgun fires special Shotshells which each contain 3 caseless rounds. Loading is as simple as breaking open the barrels and inserting 1 shell into each barrel. Each round must be individually pumped into the rail chamber, leading to a unique break-barrel loaded, pump action firearm.
 100m
 10% / 15%
@@ -139,18 +138,17 @@ Minimum strength 6.
 Carbines & Battle Rifles
 Minimum Strength 5, Reload DC 25% unless otherwise noted. Reloading takes 2 Actions.
 ============================================================
-ECSC AR-SOC C			$2540 / $15
+ECSC AR-SOC C			$2440
 120m
 22%
 30 rounds 5.56 x 45 NATO
 50 damage
-CQB Rifle
 
-Strudwick Arms LA75 Bullpup		$4580 / $13
-160 m
+Strudwick Arms LA75 Bullpup		$4340 / $12
+200 m
 30%
 20 rounds 7.62 x 51 NATO
-64
+62
 Never jams; if a 1 or 2 is rolled on fire, one round is fired normally, one 
 extra round is ejected like a shell casing. Minimum strength 6 to carry.
 
@@ -185,7 +183,7 @@ Minimum Strength 5, Reload DC 25% unless otherwise noted. Reloading takes 2 Acti
 Fire STR/3 shots per action. Round down. Jam range 2%
 ============================================================
 
-ECSC AR-SOC L               $2440 / $15
+ECSC AR-SOC L               $2440
 130m
 25%
 30 rounds 5.56 x 45 NATO
@@ -197,22 +195,21 @@ Frontier Neon APR-180 $3680 / $17
 24 rounds plasma bolt
 50 damage and 1 plasma burn token
 
-ECSC AR-SOC H 				$3720 / $13
+ECSC AR-SOC H 				$3720
 150m
 20%
 20 rounds 7.62 x 51 NATO
-64 damage
+62 damage
 
-//Name needs changing
-Strudwick Arms LA85 Bullpup		$4320 / $26
+Strudwick Arms LA85 Bullpup		$5240
 180m
 25%
-40 rounds 7.62 x 51 NATO
-64 damage + 2xBleeding
+40 rounds 7.62x51 NATO
+72 damage + 2xBleeding
 Supporting Fire
 Minimum strength 7 to carry. 
 Never jams; if a 1 or 2 is rolled on fire, one round is fired normally, one 
-extra round is ejected like a shell casing. Reload DC 30%
+extra round is ejected like a shell casing. 
 
 Schroder R-130 $6250
 150m
@@ -285,7 +282,7 @@ Requires Strength of 7 to carry
 Supporting Fire
 No Optics, barrel attatchments or extended mags. Fire-rate based on automatic rilfes. Fires two bullets whenever you would fire one. But only every other bullet counts for any per bullet effects. Each magazine takes the carry space of four normal mags. Damages light vehicles.
 //Why is this only 20 damage? does it have a fast fire rate or something? right now it would only cost $1,425, putting it behind even the Laz-Pistol
-Mathews Mass Ordinance Dispersal Device $1425 / $7
+Mathews Mass Ordinance Dispersal Device $1425 / %7
 Min 6 Str
 150m
 5%
@@ -322,9 +319,9 @@ Long Rifles:
 On all engagements farther than 200m, you must take two Actions to adjust your scope for windage and elevation between targets of differing distance.
 Minimum 5 strength to carry. All targets are inflicted with "Pinned" condition when hit. Reload DC 30% unless otherwise noted. Reloading
 takes 3 Actions.
+
 ============================================================
 
-//needs reworking; no such round currently exists and the damage is too high for that sort of range. Generally damage scales with range, faster rounds carry more force so they not only travel farther, they hit with greater impact when they arrive at the target. The converse is true for smaller cartridges, they travel slower, less far, and with less force.
 Artimis Urban Combat Rifle $5600 / $8
 Requires 6 strength to carry
 20-200m

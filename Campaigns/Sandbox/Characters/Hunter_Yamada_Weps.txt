@@ -1,31 +1,37 @@
-//
+/*
+12750
+-2100 Cloak
+-220 Clandestine Ops Kit
+-380 Mask
+=10050 
+-2265 SEGL
+=7785
++22500 Lvl 6 Wealthy Sponsor
+=30285
+*/
+Kitsune Mask $380
+10 DR, 40% head (100% face)
+    -$300 Night Vision helmet enhancement
+    -$400 Atmosphere filter helmet enhancement (gas mask) (more expensive in
+        order to negate the -10% perception, using rule of weapon attachment $100
+        per 10% buff)
 
+ECSC Mk25 DMR $ / $13
+30-300 m
+25%
+20 rds, 7.62 x 51 NATO
+64
+    $7200 / $13
+    +$50 Irons
+    +$175 Hologramic Projector +15m, -10%
 
-Mini Plas Disc SMG $4405 / $10
-135m/185m
-10%
-13 rds, Neon-15; Standard / Cutter Rds
-60
-Cutter Rounds disregard 10pts of D.R.
-All Ammo inflicts Plasma Burn.
-    $1720 / $8
-	+$800 Lightened Machining Slide, DEX/3 shots per HA
-    +$860 Pistol Carbine kit, ability to mount up to 4x optics, lower rail accessories. +50m range
-    +$125 1.2x PHP, -10%, +5m
-    +$500 2.5x magnifier, +50m half action to toggle.
-    +$100 Heavy Barrel, -10% STR+1
-    +$50 Muzzle Break, -5%
-    +$100 AFG, -10%
-    +$150 1-PS, STR-1, holstering is a free action.
-    +$30% mag, +30% rounds.
 
 SGL (Standalone Grenade Launcher) $2265 / $60
-Launcher $1365 / $60
 60m
 10%
 1rd, HE
 70 Explosive, 5m diameter
-    $1365 / $ 
+    $1365 / $60
     +$600 Kit
     +$100 GL-Irons -10%
     +$100 Red Laser -10%
