@@ -253,32 +253,45 @@ Minimum Strength 4, Reload DC 25% unless otherwise noted. Reload time 2 Actions.
 Jam range 2%
 ============================================================
 
-ECSC Mk9 MP $650 / $14
-45 m
-30%
-33 rds, 9mm Magazine / HP
-41
+ECSC Mk5 MP 	$1616
+Level Requirement: 1
+Damage:	48
+Accuracy:
+	-3 out to 10m
+	-4 out to 20m
+	-5 out to 35m
+Automatic:
+	-4 + 1 for every 5 Dex
+Mag size: 33 rounds of 8.0x20mm
+$18 per mag
+Reload DC: 30
+Fire modes:
+	Semi, burst and auto
+Auto fire rate:
+	6
+Armor pierce level: 1
+Reflex Modifier: +10
+Suppression Level: Medium
 
-ECSC Mk7 PDW $740 / $10
-60m
-40%
-25rds 9mm / HP
-41
-
-G&W XMP 30 $910 / $13
-65m
-35%
-30rds, .40 RMM / HP
-43
-
-Frontier 240M $1140 / $13
-With an innovative bolt design that rotates down 60 degrees after firing, the
-240M is able to retain impressive accuracy due to decreased muzzle rise, even 
-at high rates of fire.
-65m
-20%
-30rds 10mm
-44
+ECSC Mk9 PDW 	$1027
+Level Requirement: 1
+Damage:	45
+Accuracy:
+	-3 out to 10m
+	-4 out to 20m
+	-5 out to 40m
+Automatic:
+	-4 + 1 for every 5 Dex
+Mag size: 33 rounds of 9.0x16mm
+$12 per mag
+Reload DC: 30
+Fire modes:
+	Semi, burst and auto
+Auto fire rate:
+	8
+Armor pierce level: 0
+Reflex Modifier: +10
+Suppression Level: Medium
 
 ============================================================
 Shotguns:
