@@ -264,7 +264,38 @@ Luck:
 	left unlocked or if you just happened to duck to pick up a coin off the ground right 
 	when an assassin is trying to shoot you in the head. Luck also has a significant effect
 	on what loot you find in dungeons and your chance to roll a critical hit.
-		If you have 1 Luck, it goes without saying, you are very unlucky. At the start of
+		If you have 6 Luck or more, as a bonus, you gain the following "Lucky" feat. 
+	The feat is scaled depending on how many points you have in Luck.
+	
+	Lucky: 
+	Good things predictably happening to you.
+		Luck = 6	
+			You can choose to reroll a die, once per long rest. You can only reroll 
+			once per separate die use and if you reroll, you must keep the second roll.
+		Luck = 7		
+			You can choose to reroll a die, twice per long rest. You can only reroll
+			once per separate die use and if you reroll, you must keep the second roll.
+		Luck = 8		
+			You can choose to reroll a die, twice per long rest. You can only reroll 
+			once per separate die use and if you reroll, choose which roll to keep.
+		Luck = 9		
+			You can choose to reroll a die, three times per long rest. You can only
+			reroll once per separate die use and if you reroll, choose which roll to keep.
+		Luck = 10		
+			You can choose to reroll a die, four times per long rest. You can reroll
+			as many times as you want (which uses up your rerolls-per-rest) and if you 
+			reroll , choose which of the rolls to keep.
+		Luck = 12	
+			You can choose to reroll a die with +10% or -10% bonus, four times per 
+			long rest. You can reroll as many times as you want (which uses up your 
+			rerolls-per-rest) and if you reroll , choose which of the rolls to keep.
+		Luck = 15	
+			You can choose to reroll a die with +20% or -20% bonus, four times per 
+			long rest. You can reroll as many times as you want (which uses up your
+			rerolls-per-rest) and if you reroll , choose which of the rolls to keep.
+	
+	
+	If you have 1 Luck, it goes without saying, you are very unlucky. At the start of
 	a combat encounter, roll a d10 and receive a penalty from the Black Cat table, below.	
 
 					BLACK CAT TABLE	
@@ -510,7 +541,7 @@ Cast a Spell - 1 Action
 Aiming Down Gun Sights - 1 Action
 Turning on a Flashlight - 1 Action
 Unholstering Pistol or Grabbing a Weapon/Item - 1 Action
-Performing a Skill Check (other than Awareness/Perception) - 1 Action
+Performing a Skill Check (other than Getting Bearings/Awareness) - 1 Action
 Conversing With Partners - Free Action
 Getting Your Bearings / Non Skill-Based Perception - Free Action
 
