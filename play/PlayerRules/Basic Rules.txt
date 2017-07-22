@@ -245,7 +245,7 @@ Charisma:
 	with a non-player character (NPC). In combat, vocal communication to anything costs
 	1 Action.
 		If you have 6 or more Charisma you gain the feat "Will to Survive". The feat scales
-	depending on how many points you have in Charisma. Or, if you have 10 or more Charisma,
+	depending on how many points you have in Charisma. Or, if you have 9 or more Charisma,
 	you get to choose between feat "Will to Survive" and feat "Positional Mastermind". 
 Intelligence: 
 	How smart are you? Intelligence dictates how many Nanites you have to cast spells
@@ -515,7 +515,7 @@ Cast a Spell - 1 Action
 Aiming Down Gun Sights - 1 Action
 Turning on a Flashlight - 1 Action
 Unholstering Pistol or Grabbing a Weapon/Item - 1 Action
-Performing a Skill Check (other than Getting Bearings/Awareness) - 1 Action
+Performing a Skill Check (other than Getting Bearings/Awareness of surroundings) - 1 Action
 Conversing With Partners - Free Action
 Getting Your Bearings / Non Skill-Based Perception - Free Action
 
