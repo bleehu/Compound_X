@@ -530,11 +530,10 @@ works with CQB weapons. No Miss Chance penalty.
 ====================
 Primary Stat Bonus Feats
 ====================
-These feats cannot be bought. They are granted for free at the start of the game
-if you fulfill their prerequisites.
+These feats cannot be bought. They are granted for free if you fulfill their prerequisites.
 
 Lucky: 
-Prerequisites: Luck 6 at the start of the game
+Prerequisites: Luck 6
 	Good things predictably happen to you.
 	Luck = 6	
 		You can choose to reroll a die, once per long rest. You can only reroll 
@@ -562,7 +561,7 @@ Prerequisites: Luck 6 at the start of the game
 		rerolls-per-rest) and if you reroll, choose which of the rolls to keep.
 		
 Positional Mastermind: 
-Prerequisites: Mutually Exclusive with Will to Survive; Charisma 9 at the start of the game
+Prerequisites: Mutually Exclusive with Will to Survive; Charisma 9
 	You have incredible understanding of how beings in your universe perceive and react
 to their environments, allowing you to feint and position yourself in cover better. 
 If you have 9 Charisma, any living creature targeting you gets a +1 miss chance penalty
@@ -570,7 +569,7 @@ when you have any kind of cover. If you have 12 Charisma, anything targeting you
 +1 miss chance penalty when you have any kind of cover.
 
 Will to Survive: 
-Prerequisites: Mutually Exclusive with Positional Mastermind; Charisma 6 at the start of the game
+Prerequisites: Mutually Exclusive with Positional Mastermind; Charisma 6
 	You are convinced that you will survive no matter the hardship. *does not purge debuffs unless 
 you have 14 Charisma*	
 	Charisma = 6
