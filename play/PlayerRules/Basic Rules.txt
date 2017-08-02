@@ -194,24 +194,62 @@ and the score of your roll would be
 That's a really high roll! But that may or may not be enough to lift the object
 depending on how heavy it is!
 
-Ranged and melee weapon accuracy bonuses use a slightly different equation than the 
-above Stat Bonus equation, as combat accuracy rolls are played out on a d10 scale:
+Ranged and Melee Weapon Accuracy:
+These bonuses use a table instead of the above Stat Bonus equation, as combat accuracy
+rolls are played out on a d10, not a d100 scale. The Perception stat affects a ranged 
+weapon's range bracket miss chance, and the Dexterity stat affects melee miss chance.
+╔════════╦═════════════╗		
+║ Stat   ║ Stat Bonus  ║
+╠════════╬═════════════╣		
+║ 1      ║ -1.5	       ║	
+╠════════╬═════════════╣		
+║ 2      ║ -1	       ║	
+╠════════╬═════════════╣		
+║ 3-4    ║ -0.5	       ║		
+╠════════╬═════════════╣	
+║ 5      ║  0	       ║	
+╠════════╬═════════════╣	
+║ 6-7    ║  0.5	       ║	
+╠════════╬═════════════╣	
+║ 8-9    ║  1	       ║	
+╠════════╬═════════════╣	
+║ 10-11  ║  1.5	       ║	
+╠════════╬═════════════╣	
+║ 12-13  ║  2	       ║	
+╠════════╬═════════════╣	
+║ 14     ║  2.5	       ║		
+╠════════╬═════════════╣
+║ 15     ║  3	       ║		
+╚════════╩═════════════╝
+		
+Drop any remaining decimal (in other words, round down) to the nearest whole number when 
+you are writing down the final miss chances of your weapon(s). For example, let's say you
+have a basic SMG with miss chance brackets of 4, 5, and 6. Assuming you have 6 Perception,
+your PER bonus is 0.5 and thus, your gun's range miss chance brackets are:
+(4 - 0.5), (5 - 0.5), (6 - 0.5)  =  3.5, 4.5, 5.5
+If these are your final miss chances, you would have to drop the remainder and your slightly-
+above-average perception wouldn't make enough of a difference to affect your miss chances!
+But let's say you also have a Dot Sight that you can put on your SMG. The Dot Sight
+gives a bonus -0.5 range bracket miss chance (among other benefits). This means you now have
+the following range brackets:
+(4 - 0.5 - 0.5), (5 - 0.5 - 0.5), (6 - 0.5 - 0.5)  =  3, 4, 5
+Perfect! Now your Perception and Dot Sight bonuses, together, reduce your range bracket
+miss chances by 1 point. If you don't have any other bonuses (from other attachments,
+feats, or abilities) then you would right down 3, 4, 5 as your range bracket miss chances.
 
-Combat Accuracy Stat Bonus = (0.3 * Stat) - 1.5
-	which is equal to 
-Combat Accuracy Stat Bonus = (Stat - 5) * 0.3
-	if that's any easier.
+If your gun has automatic and/or burst fire, you'd add their associated miss chances to your
+range bracket miss chances and separately write down those numbers (after all bonuses to range
+bracket miss chance and bonuses to automatic or burst fire). In other words, if you have a ranged
+weapon with semi-auto, burst, and automatic fire modes, then you should write down 3 sets of 3 miss
+chances; one set for each of the 3 fire modes.
+For example, let's now assume your gun has a burst fire miss chance of 1 and an automatic fire miss
+chance of 3, your ranged bracket miss chances should look something like this:
+0-10m, 11-20m, 21-40m	range brackets
+  3,     4,      5    	semi-auto miss chances
+  4,     5,      6	burst fire miss chances
+  6,     7,      8	automatic fire miss chances
 
-Round any remaining decimal to the nearest whole number that gives the best accuracy,
-after accounting for weapon attachments (if relevant). For example, let's say you have
-6 Perception, your PER mod (for ranged accuracy) would be 0.3, which you would round 
-to +1 bonus accuracy (-1 miss chance). 
-	In another instance you may have 7 Perception (and thus a 0.6 combat bonus) 
-and you are wielding a weapon with a 3.2x Basic Scope (0.5 bonus accuracy). Your total 
-bonus accuracy before rounding is:
-0.5 + 0.6 = 1.1
-Which you would round to 2 bonus accuracy (-2 miss chance).
-
+Base Stat Details:
 Each Base Stat has different specific effects. They are detailed below.
 
 Strength:
@@ -246,7 +284,7 @@ Charisma:
 	1 Action.
 		If you have 6 or more Charisma you gain the feat "Will to Survive". The feat scales
 	depending on how many points you have in Charisma. Or, if you have 9 or more Charisma,
-	you get to choose between feat "Will to Survive" and feat "Positional Mastermind". 
+	you get to choose between taking feat "Will to Survive" or feat "Positional Mastermind". 
 Intelligence: 
 	How smart are you? Intelligence dictates how many Nanites you have to cast spells
 	with or use certain Feats and abilities. It also affects how quickly you acquire new
@@ -287,7 +325,7 @@ Luck:
 ║ 9-10  ║ Nothing bad happens... this time							║
 ╚═══════╩═══════════════════════════════════════════════════════════════════════════════════════╝
 	
-Assigning Stats to a new character
+Assigning Stats to a New Character
 	When making a new character, you'll have to assign their Base stats.
 This will tell you a lot about your character. When assigning your stats,
 no stat can be higher than a 9 before applying racial/species bonuses and
