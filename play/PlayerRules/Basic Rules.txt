@@ -665,14 +665,14 @@ crouched, you have -1 movement speed per action (minimum 1) and you cannot
 sprint or use other movement abilities.
 	Going prone costs 1 Action, and standing up costs 1 Action. Lying flat down on
 your chest makes you a smaller target and helps you aim better, but also makes you
-easier to hit in melee. -0.5 gun miss chance while prone and +2 chance to be hit in
+easier to hit in melee. -1 gun miss chance while prone and +2 chance to be hit in
 melee. Being prone severely limits your movement: 1/2 movement speed while prone, 
 round-up; maximum 4 movement per 2 actions.
 	Hunkering costs 1 action, and you cannot fire your weapons. Imagine 
 curling up in a ball, to pose the absolute smallest target possible. Its a 
-free action to un-hunker
+free action to un-hunker.
 
-Stealth Attacks:
+Stealth Attacks & Flanking:
 If you are stealthed (undetected by an opponent) when you initiate an attack
 action, you incur bonuses depending on the circumstances of the attack.
 	Ranged weapon stealth-attacks (including explosive but not any other thrown 
@@ -685,6 +685,7 @@ deal 2x damage, up to 150 maximum damage (before critical effects). If you criti
 hit, or hit at greater than 3 over your miss chance, the target gets hit in whatever you
 deem to be the most vulnerable; i.e., the head, neck, or the chest (over the heart,
 etc). If you critical hit, you also gain all the effects of a critical.
+	If you are behind a target, aka flanking, your melee attacks gain -2 miss chance.
 
 Suppression: 
 Every player with a ranged weapon gets the option to Suppress as the last 
