@@ -45,13 +45,12 @@ Backstab:
 Prerequisites: Level 3 and higher Assassins and Monks.
 Any damage dealt to an unaware opponent from behind deals Extra-Crit damage.
 
-Blind Fire: 
-Prerequisites:
-There are so many bullets flying, you''d rather not peak your head out to look 
-at your enemy. +65% firing Penalty, fire from a Hunkered position. Remove any 
-buffs from Assistance attachments, Aiming Attachments, and slings. (its 
-recommended to calculate this separate Miss Chance and write it down next to 
-your regular Miss Chance)
+Lucky Blind Fire: 
+Prerequisites: Luck 7
+There are always so many bullets flying around, you make a habit of not peaking your
+head out and looking at your enemy. And somehow you still hit them (some of the time).
+Roll a d10 before any Blind Firing or Hip Firing action. If the roll is from 6 to 10, 
+Gain -2 miss chance for that firing action; If the roll is from 1 to 5, nothing happens.
 
 Bulltrue:
 Prerequisites: Must have training in Shotguns
