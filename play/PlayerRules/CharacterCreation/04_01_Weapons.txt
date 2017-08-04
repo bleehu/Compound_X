@@ -253,45 +253,42 @@ Minimum Strength 4, Reload DC 25% unless otherwise noted. Reload time 2 Actions.
 Jam range 2%
 ============================================================
 
-ECSC Mk5 MP 	$1616
-Level Requirement: 1
-Damage:	48
-Accuracy:
-	-3 out to 10m
-	-4 out to 20m
-	-5 out to 35m
-Automatic:
-	-4 + 1 for every 5 Dex
-Mag size: 33 rounds of 8.0x20mm
-$18 per mag
-Reload DC: 30
-Fire modes:
-	Semi, burst and auto
-Auto fire rate:
-	6
-Armor pierce level: 1
-Reflex Modifier: +10
-Suppression Level: Medium
+=====	LEVEL 1 REQUIREMENT WEAPONS	=====
 
-ECSC Mk9 PDW 	$1027
-Level Requirement: 1
+----ECSC Mk5 MP 	$1616
+Damage:	48
+Ranged Miss Chance:
+	3 out to 10m
+	4 out to 20m
+	5 out to 35m
+Burst Miss Chance:		+3 - 1 for every 6 Dex (starting at 5)
+Automatic Miss Chance:	+4 - 1 for every 5 Dex
+Mag size: 33 rounds of 8.0x20mm. $18 per mag
+Reload DC: 			30
+Fire modes:			Semi, burst and auto
+Burst; Auto fire rate:		3; 6
+Armor pierce level: 		1
+Reflex Modifier: 			+10
+Suppression Level:		Medium
+
+----ECSC Mk9 PDW 	$1027
 Damage:	45
-Accuracy:
-	-3 out to 10m
-	-4 out to 20m
-	-5 out to 40m
-Automatic:
-	-4 + 1 for every 5 Dex
-Mag size: 33 rounds of 9.0x16mm
-$12 per mag
-Reload DC: 30
-Fire modes:
-	Semi, burst and auto
-Auto fire rate:
-	8
-Armor pierce level: 0
-Reflex Modifier: +10
-Suppression Level: Medium
+Ranged Miss Chance:
+	3 out to 10m
+	4 out to 20m
+	5 out to 40m
+Automatic Miss Chance:	+4 - 1 for every 5 Dex
+Mag size: 25 rounds of 9.0x16mm. $12 per mag
+Reload DC: 			30%
+Fire modes:			Semi, auto
+Auto fire rate:			8
+Armor pierce level: 		0
+Reflex Modifier: 			+10
+Suppression Level: 		Medium
+
+=====	LEVEL 5 REQUIREMENT WEAPONS	=====
+
+
 
 ============================================================
 Shotguns:
