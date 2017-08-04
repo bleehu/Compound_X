@@ -288,8 +288,99 @@ Suppression Level: 		Medium
 
 =====	LEVEL 5 REQUIREMENT WEAPONS	=====
 
+----G&W XMP	$1536
+Damage:	55
+Ranged Miss Chance:
+	4 out to 10m
+	5 out to 20m
+	6 out to 40m
+Burst Miss Chance:		+4 - 1 for every 4 Dex
+Automatic Miss Chance:	+6 - 1 for every 4 Dex
+Mag Size:	30 rounds of 10.0x25mm. $19 per mag
+Reload DC:				30%
+Fire Modes:			Semi, Burst, Auto
+Burst Fire Rate:			3
+Auto fire rate:			6
+Armor Pierce Level:		2
+Reflex Modifier:			+10
+Suppression Level:		Medium
 
+---- Anvil Arms AR-34 PDW	$1356
+Damage:	45
+Ranged Miss Chance:
+	3 out to 10m
+	4 out to 25m
+	5 out to 45m
+Automatic Miss Chance:	+3 - 1 for every 8 Dex
+Mag Size:	15 rounds of 5.00x37mm. $7 per mag
+Reload DC:				30%
+Fire Modes:			Semi, Auto
+Auto fire rate:			6
+Armor Pierce Level:		3
+Reflex Modifier:			10
+Suppression Level:		Medium
 
+----Flexcorp LS55	$2183
+Damage:	35
+Ranged Miss Chance:
+	3 out to 15m
+	4 out to 40m
+	5 out to 50m
+Automatic Miss Chance:	+3 - 1 for every 8 Dex
+Mag Size:	40 rounds of 10kW (7x20mm). $23 per mag
+Reload DC:				35%
+Fire Modes:			Semi, Auto
+Auto fire rate:			8
+Armor Pierce Level:		n/a
+Reflex Modifier:			10
+Suppression Level:		Medium
+
+=====	LEVEL 10 REQUIREMENT WEAPONS	=====
+
+---- Name	$#
+Damage:	#
+Ranged Miss Chance:
+	# out to #m
+	# out to #m
+	# out to #m
+Automatic Miss Chance:	+# - 1 for every # Dex
+Mag Size:	#rounds of #. $# per mag
+Reload DC:				#%
+Fire Modes:			Semi, Auto
+Auto fire rate:			#
+Armor Pierce Level:		#
+Reflex Modifier:			#
+Suppression Level:		
+
+---- Name	$#
+Damage:	#
+Ranged Miss Chance:
+	# out to #m
+	# out to #m
+	# out to #m
+Automatic Miss Chance:	+# - 1 for every # Dex
+Mag Size:	#rounds of #. $# per mag
+Reload DC:				#%
+Fire Modes:			Semi, Auto
+Auto fire rate:			#
+Armor Pierce Level:		#
+Reflex Modifier:			#
+Suppression Level:		
+
+---- Name	$#
+Damage:	#
+Ranged Miss Chance:
+	# out to #m
+	# out to #m
+	# out to #m
+Automatic Miss Chance:	+# - 1 for every # Dex
+Mag Size:	#rounds of #. $# per mag
+Reload DC:				#%
+Fire Modes:			Semi, Auto
+Auto fire rate:			#
+Armor Pierce Level:		#
+Reflex Modifier:			#
+Suppression Level:		
 ============================================================
 Shotguns:
 All pump shotguns take 1 Action to fire, 1 Action to rack. In the 
