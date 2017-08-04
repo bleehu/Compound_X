@@ -637,10 +637,10 @@ scope), and you fire inside that distance, you are forced to hip fire.
 Blind Firing:
 Add 6 to a ranged weapon's miss chances. Blind firing allows you to shoot around
 cover without looking or putting yourself at risk. You can blind fire while hunkered.
-Your blind fire accuracy is affected by your base weapon miss chance(s), not 
-affected by regular attachments, and only reduced by LUCK and PER mod (max of 
--4 miss chance from LUCK stat combat bonus + PER stat combat bonus). It's recommended 
-to calculate this separate Miss Chance and write it down before combat.
+Your blind fire miss chance is affected by your base weapon miss chance(s), not affected by
+attachments unless otherwise noted, reduced by PER stat combat bonus (as usual), and reduced
+by LUCK stat combat bonus. It's recommended to calculate this separate miss chance and 
+write it down before combat.
 
 Using Cover/Stances:
 Chances are, if an enemy can see you in Compund X, they can hit you. Using 
