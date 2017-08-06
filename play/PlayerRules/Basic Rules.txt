@@ -233,9 +233,9 @@ the following range brackets:
 (4 - 0.5 - 0.5), (5 - 0.5 - 0.5), (6 - 0.5 - 0.5)  =  3, 4, 5
 Perfect! Now your Perception and Dot Sight bonuses, together, reduce your range bracket
 miss chances by 1 point. If you don't have any other bonuses (from other attachments,
-feats, or abilities) then you would right down 3, 4, 5 as your range bracket miss chances.
+feats, or abilities) then you would write down 3, 4, 5 as your range bracket miss chances.
 
-If your gun has automatic and/or burst fire, you'd add their associated miss chances to your
+If your gun has automatic and/or burst fire, you'd add its associated miss chances to your
 range bracket miss chances and separately write down those numbers (after all bonuses to range
 bracket miss chance and bonuses to automatic or burst fire). In other words, if you have a ranged
 weapon with semi-auto, burst, and automatic fire modes, then you should write down 3 sets of 3 miss
@@ -277,7 +277,7 @@ Charisma:
 	how hard it is to dominate your will.
 		If you have 1 Charisma, you have a debilitating speech impediment. You have
 	an additional malus of -24 when using Speech, Deceive, and etc. skill. Under normal 
-	circumstances, you have to succed a DC 30 CHA skill check in order to communicate 
+	circumstances, you have to succeed a DC 30 CHA skill check in order to communicate 
 	with a non-player character (NPC). In combat, vocal communication to anything costs
 	1 Action.
 		If you have 6 or more Charisma you gain the feat "Will to Survive". The feat scales
@@ -643,21 +643,22 @@ by LUCK stat combat bonus. It's recommended to calculate this separate miss chan
 write it down before combat.
 
 Using Cover/Stances:
-Chances are, if an enemy can see you in Compund X, they can hit you. Using 
-cover will make you harder to be hit. You will encounter many types of cover 
-while adventuring throughout the galaxy. Many small objects provide only 
-partial cover, either by partially obscuring your silhouette, or by providing 
-slight protection from projectiles. Full cover will do both to a better 
-degree. Crouching or going prone will also take better advantage of your surroundings
-and make you a smaller target. Debuffs to enemies Miss Chance are as follows:
+Chances are, if an enemy can see you in Compound X, they can hit you. Using cover
+will make you harder to be hit. You will encounter many types of cover while 
+adventuring throughout the galaxy. Many small objects provide only partial cover,
+either by partially obscuring your silhouette, or by providing slight protection
+from projectiles. Full cover will do both to a better degree. "Partial Cover" typically
+covers 30-50% of your body, whereas "Full Cover" will cover closer to 60-80%. Crouching
+or going prone will also take better advantage of your surroundings and make you a 
+smaller target. Debuffs to enemies Miss Chance are as follows:
 
 No Cover: +0
 Partial Cover: +2 
 Full Cover: +4
 
-Crouching: +1 (on top of whatever cover you''re behind.)
-Prone: +2 (on top of whatever cover you''re behind, may completely obscure vision)
-Hunkering: +2 (on top of whatever cover you''re behind.)
+Crouching: +1 (on top of whatever cover you're behind, may completely obscure vision)
+Prone: +2 (on top of whatever -partial- cover you're behind, otherwise, may completely obscure vision)
+Hunkering: +2 (on top of whatever cover you're behind.)
 
 Crouching is a free action, and standing up costs 1 Action. While you are
 crouched, you have -1 movement speed per action (minimum 1) and you cannot
