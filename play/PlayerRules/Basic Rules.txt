@@ -628,19 +628,22 @@ start of the armor wearer's turn.
 Shields:
 If you are looking to defend against Lasers or Plasma, you're in the right place. Every 
 laser-toting plasma-fuming space hooligan will be looking to turn you into space-bacon 
-('spacon' for short); shields will slow that process down. If you are hit with a laser,
-shields absorb 100% of the damage, reducing the shield's strength by the damage taken. If
-you are hit with a plasma weapon, the shield absorbs 50% of the damage, and the rest passes
-through to the next line of defense (either armor [if relevant] or the character's body).
-If the shield's strength is reduced to 0, all remaining damage passes through unabated.
-
+('spacon' for short) on your adventure; shields will slow that process down. If you are hit
+with a laser, shields absorb 100% of the damage, reducing the shield's strength by the 
+damage taken. If you are hit with a plasma weapon, the shield absorbs 50% of the damage, 
+and the rest passes through to the next line of defense (either armor [if relevant] or the
+character's body). If the shield's strength is reduced to 0, all remaining damage passes 
+through unabated.
 As long as the shield's strength isn't reduced to 0, the shield will recharge 'Recharge Rate' 
-number of points at the start of the wearer's turn. If strength is reduced to 0, you must
-wait the "Time Before Restart" number of turns, without getting hit by any more weapons,
-before the shield will restart at "Recharge Rate" strength. If you don't want to wait that long,
-you can pay the "Fast Recharge Nanite Cost", at the start of your turn, to restart your shields.
-Or if your shields are just damaged, you can pay the "Fast Recharge Nanite Cost", at the start
-of your turn, to boost the shield's strength by 2x "Recharge Rate" (instead of the normal 1x).
+number of points at the start of the wearer's turn. If the shield's strength is reduced to 0, 
+you must wait a "Time Before Restart" number of turns before the shield will restart at 
+"Recharge Rate" strength. If you get hit with a weapon/by melee during that time, you must
+restart your recharging time. 
+If you don't want to wait that long, at the start of your turn you can pay the 
+"Fast Recharge Nanite Cost" to restart your shields. Or if your shield's strength is just
+damaged, at the start of your turn you can pay the "Fast Recharge Nanite Cost" to boost 
+the shield's strength by an extra "Recharge Rate" (in other words, 2x "Recharge Rate"
+instead of the normal 1x).
 
 Hip Firing:
 Add 3 to a weapon''s miss chance. You cannot use attachments to assist in
@@ -893,50 +896,50 @@ maintaining the cloak to something else. When using a skill (accessing a termina
 fixing something, etc.) use your reduced, 'moving detect DC' as you are diverting 
 your attention. See the following table for durations:
 
-╔══════════╦═════════════╦═══════════╦═════════════════╗
-║ Characte ║ Cloak Turns ║ Detect DC ║ Shadow Assassin ║
-║   Level  ║             ║   Gain    ║ Cloak Turn Gain ║
-╠══════════╬═════════════╬═══════════╬═════════════════╣
-║     1*   ║      3      ║     -     ║        +1       ║
-╠══════════╬═════════════╬═══════════╬═════════════════╣
-║     2*   ║      3      ║     -     ║        -        ║
-╠══════════╬═════════════╬═══════════╬═════════════════╣
-║     3*   ║      3      ║     -     ║        -        ║
-╠══════════╬═════════════╬═══════════╬═════════════════╣
-║     4*   ║      4      ║     -     ║        -        ║
-╠══════════╬═════════════╬═══════════╬═════════════════╣
-║     5    ║      4      ║    +5%    ║        -        ║
-╠══════════╬═════════════╬═══════════╬═════════════════╣
-║     6    ║      4      ║     -     ║        +2       ║
-╠══════════╬═════════════╬═══════════╬═════════════════╣
-║     7    ║      5      ║     -     ║        -        ║
-╠══════════╬═════════════╬═══════════╬═════════════════╣
-║     8    ║      5      ║     -     ║        -        ║
-╠══════════╬═════════════╬═══════════╬═════════════════╣
-║     9    ║      5      ║     -     ║        -        ║
-╠══════════╬═════════════╬═══════════╬═════════════════╣
-║    10    ║      6      ║   +10%    ║        -        ║
-╠══════════╬═════════════╬═══════════╬═════════════════╣
-║    11    ║      6      ║     -     ║        +3       ║
-╠══════════╬═════════════╬═══════════╬═════════════════╣
-║    12    ║      6      ║     -     ║        -        ║
-╠══════════╬═════════════╬═══════════╬═════════════════╣
-║    13    ║      7      ║     -     ║        -        ║
-╠══════════╬═════════════╬═══════════╬═════════════════╣
-║    14    ║      7      ║     -     ║        -        ║
-╠══════════╬═════════════╬═══════════╬═════════════════╣
-║    15    ║      7      ║   +15%    ║        -        ║
-╠══════════╬═════════════╬═══════════╬═════════════════╣
-║    16    ║      8      ║     -     ║        +4       ║
-╠══════════╬═════════════╬═══════════╬═════════════════╣
-║    17    ║      8      ║     -     ║        -        ║
-╠══════════╬═════════════╬═══════════╬═════════════════╣
-║    18    ║      9      ║     -     ║        -        ║
-╠══════════╬═════════════╬═══════════╬═════════════════╣
-║    19    ║      9      ║     -     ║        -        ║
-╠══════════╬═════════════╬═══════════╬═════════════════╣
-║    20    ║      10     ║   +20%    ║        +5       ║
-╚══════════╩═════════════╩═══════════╩═════════════════╝
+╔═══════════╦═════════════╦═══════════╦═════════════════╗
+║ Character ║ Cloak Turns ║ Detect DC ║ Shadow Assassin ║
+║   Level   ║             ║   Gain    ║ Cloak Turn Gain ║
+╠═══════════╬═════════════╬═══════════╬═════════════════╣
+║     1*    ║      3      ║     -     ║        +1       ║
+╠═══════════╬═════════════╬═══════════╬═════════════════╣
+║     2*    ║      3      ║     -     ║        -        ║
+╠═══════════╬═════════════╬═══════════╬═════════════════╣
+║     3*    ║      3      ║     -     ║        -        ║
+╠═══════════╬═════════════╬═══════════╬═════════════════╣
+║     4*    ║      4      ║     -     ║        -        ║
+╠═══════════╬═════════════╬═══════════╬═════════════════╣
+║     5     ║      4      ║    +5%    ║        -        ║
+╠═══════════╬═════════════╬═══════════╬═════════════════╣
+║     6     ║      4      ║     -     ║        +2       ║
+╠═══════════╬═════════════╬═══════════╬═════════════════╣
+║     7     ║      5      ║     -     ║        -        ║
+╠═══════════╬═════════════╬═══════════╬═════════════════╣
+║     8     ║      5      ║     -     ║        -        ║
+╠═══════════╬═════════════╬═══════════╬═════════════════╣
+║     9     ║      5      ║     -     ║        -        ║
+╠═══════════╬═════════════╬═══════════╬═════════════════╣
+║     10    ║      6      ║   +10%    ║        -        ║
+╠═══════════╬═════════════╬═══════════╬═════════════════╣
+║     11    ║      6      ║     -     ║        +3       ║
+╠═══════════╬═════════════╬═══════════╬═════════════════╣
+║     12    ║      6      ║     -     ║        -        ║
+╠═══════════╬═════════════╬═══════════╬═════════════════╣
+║     13    ║      7      ║     -     ║        -        ║
+╠═══════════╬═════════════╬═══════════╬═════════════════╣
+║     14    ║      7      ║     -     ║        -        ║
+╠═══════════╬═════════════╬═══════════╬═════════════════╣
+║     15    ║      7      ║   +15%    ║        -        ║
+╠═══════════╬═════════════╬═══════════╬═════════════════╣
+║     16    ║      8      ║     -     ║        +4       ║
+╠═══════════╬═════════════╬═══════════╬═════════════════╣
+║     17    ║      8      ║     -     ║        -        ║
+╠═══════════╬═════════════╬═══════════╬═════════════════╣
+║     18    ║      9      ║     -     ║        -        ║
+╠═══════════╬═════════════╬═══════════╬═════════════════╣
+║     19    ║      9      ║     -     ║        -        ║
+╠═══════════╬═════════════╬═══════════╬═════════════════╣
+║     20    ║      10     ║   +20%    ║        +5       ║
+╚═══════════╩═════════════╩═══════════╩═════════════════╝
 *  For levels 1-4, you may only cloak once per encounter.
 
 
