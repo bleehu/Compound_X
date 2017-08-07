@@ -43,6 +43,28 @@ Cloaking Equipment
 	-all
 */
 
+    =====================================
+	  STANDARD BALISTIC ARMOURS
+    =====================================
+Adding any armor materials to a chest, leg, or arm rig
+reduces your max speed by -1.
+
+=====   LEVEL 1 REQUIREMENT MATERIALS   =====
+
+----Standard L1
+Cost For Chest Armor:		500
+Cost For Arm or Leg Armor:	290
+APL (Armor Piercing Level):	1
+APs (Armor Points):		40
+
+----Standard L2
+Cost For Chest Armor:		800
+Cost For Arm or Leg Armor:	480
+APL (Armor Piercing Level):	2
+APs (Armor Points):		50
+
+=====   LEVEL 5 REQUIREMENT MATERIALS   =====
+
 /*========================================
  * Armour Additions and Helmets
  * These additions may be worn with or added to armour.
