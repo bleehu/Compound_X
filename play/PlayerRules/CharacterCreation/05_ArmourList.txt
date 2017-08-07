@@ -19,6 +19,29 @@
  *	 - Heavy
  * Nanite Cloaking Armour
  */
+ 
+ /*
+ soon to be:
+ Ballistic Armors
+ 	-Basic Armor Materials
+	-Basic Helmet Materials
+	
+ Armor Rigs
+	-recon
+	-light
+	-medium
+	-medium-heavy
+	-heavy
+		
+Shield Generator Nodes
+	-all
+	
+Utility Hardpoint Equipment
+	-all
+	
+Cloaking Equipment
+	-all
+*/
 
 /*========================================
  * Armour Additions and Helmets
