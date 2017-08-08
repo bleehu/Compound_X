@@ -274,9 +274,9 @@ Suppression Level:		Medium
 ----ECSC Mk9 PDW 	$1027
 Damage:	45
 Ranged Miss Chance:
-	3 out to 10m
-	4 out to 20m
-	5 out to 40m
+	4 out to 10m
+	5 out to 20m
+	6 out to 40m
 Automatic Miss Chance:	+4 - 1 for every 5 Dex
 Mag size: 25 rounds of 9.0x16mm. $12 per mag
 Reload DC: 			30%
