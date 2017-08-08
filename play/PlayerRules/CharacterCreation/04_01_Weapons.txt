@@ -505,7 +505,7 @@ Suppression Level: Medium
 
 ===== Level 5 Weapons =====
 
----- Mathews HK-80		$2714
+---- Matthews HK-80		$2714
 Damage:	100
 Ranged Miss Chance:
 	3 out to 15m
@@ -515,9 +515,9 @@ Burst Accuracy: 3 - 1 @ 6 STR
 Mag Size: 30 rounds of 5.77x55mm. $23 per mag
 Reload DC: 30%
 Fire Modes:	Semi, Burst
-Burst Fire Rate: 	3
-Armor Piercing
-Reflex Modifier:	-8
+Burst Fire Rate: 			3
+Armor Piercing Level:	4
+Reflex Modifier:			-8
 Suppression Level: Medium
 	
 
