@@ -396,87 +396,90 @@ shot deals 2 bleed tokens to the target.
 Minimum Strength 4, Reload DC 30% unless otherwise noted. Reload time is 3 Actions
 unless otherwise stated.
 ============================================================
-Matthews Model 2x12 $800 / $1 per shell
-Miss:		20%
-Capacity:	2rds, 12ga Buck / Slug
-Buck Shot: 80 dam out to 3m, 65 out to 10m, 50 out to 20m.
-Slug: 60 dam out to 50m.
-Double-Barrel/Break-Barrel. 2 actions to reload. Each mag pouch in a peice 
-of armor holds 8 shells.
 
-Anvil Arms Hunting Shotgun $900 / $1 per shell
-Miss:		15%
-Capacity:	6 rds +1 in chamber, 12ga Buck / Slug
-Buck Shot: 80 dam out to 3m, 65 out to 10m, 50 out to 20m.
-Slug: 60 dam out to 50m.
+===== Level 1 Weapons =====
 
-Matthews Model 2287 $950 / $3 for 5 shells
-45 m 
-23%
-5 rds, 20ga Slug / CS slug
-55
-Lever Action; Slugs only
+---- 
 
-ECSC Mk900 $1000 / $1 per shell
-15%
-7 rounds + 1 in chamber, 12ga Buck / Slug
-Buck Shot: 80 dam out to 3m, 65 out to 10m, 50 out to 20m.
-Slug: 60 dam out to 50m.
+===== Level 5 Weapons =====
 
-Matthews Over / Under $1200 / $1 per shell
-Miss:		10%
-Capacity:	2 rds, 12ga Slug / Buck / CS Buck
-Buck Shot: 80 dam out to 3m, 65 out to 10m, 50 out to 20m.
-Slug: 60 dam out to 50m.
-Due to the nature of the Over / Under, you can load both Buck and Slug at the 
-same time. Both barrels can be fired at the same time, at a +10% miss chance 
-penalty. Reload DC 25%, 2 Action reload time. Each mag pouch in a peice of 
-armor holds 8 shells.
+----
+
+===== Level 10 Weapons =====
+
+----
 
 ============================================================
-Carbines & Battle Rifles
+Carbines
 Minimum Strength 5, Reload DC 25% unless otherwise noted. Reload time is 2 Actions.
 ============================================================
-Matthews .357 Carbine $1120 / $7
-75m
-35%
-15rds, .357; FMJ / AP / HP
-46
-All rounds are available in a .357 Mag. version, which increases the base 
-damage by 5, but increases the cost of each magazine by $1
-CQB rifle
+===== Level 1 Weapons =====
 
-Anvil Arms C25 $1320 / $14
-80m
-40%
-25rds, 5.45x39mm; FMJ / Tracer
-55
+---- 
 
-ECSC Mk28 $1310 / $15
-75m
-30%
-30 rds, 5.56x45mm Rifle Magazine; FMJ / HP
-50
-CQB rifle
+===== Level 5 Weapons =====
 
-Matthews M-01 Carbine $1400 / $11
-85m
-40%
-20rds, .30 Carbine; FMJ / AP
-55
+----
 
-Matthews SK0 $2220 / $11
-130m
-40%
-20 rds, 7.62x39; FMJ / HP
-57
+===== Level 10 Weapons =====
 
-G&W FBR-C $2460 / $13
-110m
-30%
-20 rds, 7.62x51mm Rifle Magazine; FMJ / AP
-64
-CQB rifle
+----
+
+============================================================
+Battle Rifles
+Minimum Strength 5, Reload DC 25% unless otherwise noted. Reload time is 2 Actions.
+============================================================
+
+===== Level 1 Weapons =====
+
+---- Matthews 11-35 Carbine		$690
+Damage:	65
+Ranged Miss Chance:
+	3 out to 10m
+	4 out to 35m
+	5 out to 55m
+Mag Size:	18 rounds of 11x35mm. $7 per mag
+Reload DC:				30%
+Fire Modes:			Semi
+Armor Pierce Level:		1
+Reflex Modifier:			+5
+Suppression Level:		Medium
+
+---- Anvil Arms C25		$1608
+Damage:	80
+Ranged Miss Chance:
+	3 out to 15m
+	4 out to 40m
+	5 out to 60m
+Burst Accuracy Penalty:	2 - 1 at 8 STR
+Mag Size:	25 rounds of 5.45x40mm. $15 per mag
+Reload DC:				30%
+Fire Modes:			Semi, Burst
+Armor Pierce Level:		2
+Reflex Modifier:			+2
+Suppression Level:		Medium
+
+---- RMM S-92	$1086
+Damage:	75
+Ranged Miss Chance:
+	3 out to 10m
+	4 out to 30m
+	5 out to 55m
+Burst Accuracy Penalty: 6 - 1 per 4 STR (starting at 4)
+Mag Size:	25 rounds of 12.1x33mm. $8 per mag
+Reload DC:				30%
+Fire Modes:			Semi, Burst
+Armor Pierce Level:		1
+Reflex Modifier:			+5
+Suppression Level:		Medium
+
+===== Level 5 Weapons =====
+
+----
+
+===== Level 10 Weapons =====
+
+----
 
 ============================================================
 Automatic Rifles:
