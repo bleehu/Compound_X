@@ -255,7 +255,7 @@ Jam range 2%
 
 =====	LEVEL 1 REQUIREMENT WEAPONS	=====
 
-----ECSC Mk5 MP 	$1616
+----ECSC Mk8 MP 	$1616
 Damage:	48
 Ranged Miss Chance:
 	3 out to 10m
@@ -265,7 +265,7 @@ Burst Miss Chance:		+3 - 1 for every 6 Dex (starting at 5)
 Automatic Miss Chance:	+4 - 1 for every 5 Dex
 Mag size: 33 rounds of 8.0x20mm. $18 per mag
 Reload DC: 			30
-Fire modes:			Semi, burst and auto
+Fire modes:			Semi, Burst, Auto
 Burst; Auto fire rate:		3; 6
 Armor pierce level: 		1
 Reflex Modifier: 			+10
@@ -280,7 +280,7 @@ Ranged Miss Chance:
 Automatic Miss Chance:	+4 - 1 for every 5 Dex
 Mag size: 25 rounds of 9.0x16mm. $12 per mag
 Reload DC: 			30%
-Fire modes:			Semi, auto
+Fire modes:			Semi, Auto
 Auto fire rate:			8
 Armor pierce level: 		0
 Reflex Modifier: 			+10
@@ -288,13 +288,13 @@ Suppression Level: 		Medium
 
 =====	LEVEL 5 REQUIREMENT WEAPONS	=====
 
-----G&W XMP	$1536
+----G&W XMP 80	$1536
 Damage:	55
 Ranged Miss Chance:
 	4 out to 10m
 	5 out to 20m
 	6 out to 40m
-Burst Miss Chance:		+4 - 1 for every 4 Dex
+Burst Miss Chance:		+4 - 1 for every 6 Dex
 Automatic Miss Chance:	+6 - 1 for every 4 Dex
 Mag Size:	30 rounds of 10.0x25mm. $19 per mag
 Reload DC:				30%
@@ -317,17 +317,17 @@ Reload DC:				30%
 Fire Modes:			Semi, Auto
 Auto fire rate:			6
 Armor Pierce Level:		3
-Reflex Modifier:			10
+Reflex Modifier:			+10
 Suppression Level:		Medium
 
 ----Flexcorp LS55	$2183
-Damage:	35
+Damage:	35, Laser
 Ranged Miss Chance:
 	3 out to 15m
 	4 out to 40m
 	5 out to 50m
 Automatic Miss Chance:	+3 - 1 for every 8 Dex
-Mag Size:	40 rounds of 10kW (7x20mm). $23 per mag
+Mag Size:	40 rounds of 10kW. $23 per mag
 Reload DC:				35%
 Fire Modes:			Semi, Auto
 Auto fire rate:			8
@@ -344,7 +344,7 @@ Ranged Miss Chance:
 	4 out to 35m
 	5 out to 45m
 Automatic Miss Chance:	+4 - 1 for every 5 Dex
-Mag Size:	20rounds of 4x70mm. $13 per mag
+Mag Size:	20 rounds of 4x70mm. $13 per mag
 Reload DC:				30%
 Fire Modes:			Semi, Auto
 Auto fire rate:			4
@@ -360,23 +360,22 @@ Ranged Miss Chance:
 	6 out to 40m
 Burst Miss Chance:		+2 - 1 for every 8 Dex;
 Automatic Miss Chance:	+5 - 1 for every 5 Dex
-Mag Size:	20rounds of Argon-9 9x22mm. $16 per mag
+Mag Size:	20rounds of Argon-9. $16 per mag
 Reload DC:				40%
 Fire Modes:			Semi, Burst, Auto
-Burst Fire Rate:			3
-Auto fire rate:			6
+Burst; Auto Fire Rate:			3 ; 6
 Armor Pierce Level:		2
 Reflex Modifier:			+10
 Suppression Level:		Medium
 
 ---- Flexcorp LS75	$3670
-Damage:	45
+Damage:	45, Laser
 Ranged Miss Chance:
 	2 out to 15m
 	3 out to 40m
 	4 out to 50m
 Automatic Miss Chance:	+4 - 1 for every 5 Dex
-Mag Size:	30 rounds of 10kW 8x22mm. $22 per mag
+Mag Size:	30 rounds of 10kW. $22 per mag
 Reload DC:				35%
 Fire Modes:			Semi, Auto
 Auto fire rate:			6
