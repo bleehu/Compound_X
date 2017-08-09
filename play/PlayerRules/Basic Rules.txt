@@ -646,7 +646,7 @@ the shield's strength by an extra "Recharge Rate" (in other words, 2x "Recharge 
 instead of the normal 1x).
 
 Hip Firing:
-Add 3 to a weapon''s miss chance. You cannot use attachments to assist in
+Add 3 to a weapon''s miss chance. You cannot use optical attachments in
 hip firing unless otherwise noted. It is much smarter to takes one 
 action to Aim, and spend the rest of your shots firing. It's also a great 
 idea to take an action at the end of your turn to "hunker," and gain a +2 
