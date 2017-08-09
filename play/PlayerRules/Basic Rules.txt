@@ -631,7 +631,7 @@ laser-toting plasma-fuming space hooligan will be looking to turn you into space
 ('spacon' for short) on your adventure; shields will slow that process down. If you are hit
 with a laser, shields absorb 100% of the damage, reducing the shield's strength by the 
 damage taken. If you are hit with a plasma weapon, the shield absorbs 50% of the damage, 
-and the rest passes through to the next line of defense (either armor [if relevant] or the
+and the rest passes through to the next line of defense (either armor [if present] or the
 character's body). If the shield's strength is reduced to 0, all remaining damage passes 
 through unabated.
 As long as the shield's strength isn't reduced to 0, the shield will recharge 'Recharge Rate' 
@@ -720,7 +720,10 @@ The type of suppression available to you is dependent on your weapon.
 When you Suppress, you aim at the target as part of the action and fire a
 hail of bullets (within your weapon range). Suppression doesn't require any
 rolls to initiate, the suppressor simply fires, creating a light/medium/heavy
-suppression AOE (Area-of-Effect, typically a 1-3m circle).
+suppression AOE (Area-of-Effect, typically a 1-3m circle). Even though Suppression
+is an AOE effect, if you cross in-front of someone (someone who is suppressing 
+a different person) you will likely trigger automatic attack rolls, DM's discretion.
+
 If a suppressed target moves out into the open**, they trigger automatic attack
 rolls (or automatic hits) by the suppressor, once per target per suppressor's 
 turn. If the suppressed target shoots, they fire with +1 miss chance, not-stackable.
