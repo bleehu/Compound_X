@@ -253,32 +253,135 @@ Minimum Strength 4, Reload DC 25% unless otherwise noted. Reload time 2 Actions.
 Jam range 2%
 ============================================================
 
-ECSC Mk9 MP $650 / $14
-45 m
-30%
-33 rds, 9mm Magazine / HP
-41
+=====	LEVEL 1 REQUIREMENT WEAPONS	=====
 
-ECSC Mk7 PDW $740 / $10
-60m
-40%
-25rds 9mm / HP
-41
+----ECSC Mk8 MP 	$1616
+Damage:	48
+Ranged Miss Chance:
+	3 out to 10m
+	4 out to 20m
+	5 out to 35m
+Burst Miss Chance:		+3 - 1 for every 6 Dex (starting at 5)
+Automatic Miss Chance:	+4 - 1 for every 5 Dex
+Mag size: 33 rounds of 8.0x20mm. $18 per mag
+Reload DC: 			30
+Fire modes:			Semi, Burst, Auto
+Burst; Auto fire rate:		3; 6
+Armor pierce level: 		1
+Reflex Modifier: 			+10
+Suppression Level:		Medium
 
-G&W XMP 30 $910 / $13
-65m
-35%
-30rds, .40 RMM / HP
-43
+----ECSC Mk9 PDW 	$1027
+Damage:	45
+Ranged Miss Chance:
+	4 out to 10m
+	5 out to 20m
+	6 out to 40m
+Automatic Miss Chance:	+4 - 1 for every 5 Dex
+Mag size: 25 rounds of 9.0x16mm. $12 per mag
+Reload DC: 			30%
+Fire modes:			Semi, Auto
+Auto fire rate:			8
+Armor pierce level: 		0
+Reflex Modifier: 			+10
+Suppression Level: 		Medium
 
-Frontier 240M $1140 / $13
-With an innovative bolt design that rotates down 60 degrees after firing, the
-240M is able to retain impressive accuracy due to decreased muzzle rise, even 
-at high rates of fire.
-65m
-20%
-30rds 10mm
-44
+=====	LEVEL 5 REQUIREMENT WEAPONS	=====
+
+----G&W XMP 80	$1536
+Damage:	55
+Ranged Miss Chance:
+	4 out to 10m
+	5 out to 20m
+	6 out to 40m
+Burst Miss Chance:		+4 - 1 for every 6 Dex
+Automatic Miss Chance:	+6 - 1 for every 4 Dex
+Mag Size:	30 rounds of 10.0x25mm. $19 per mag
+Reload DC:				30%
+Fire Modes:			Semi, Burst, Auto
+Burst Fire Rate:			3
+Auto fire rate:			6
+Armor Pierce Level:		2
+Reflex Modifier:			+10
+Suppression Level:		Medium
+
+---- Anvil Arms AR-34 PDW	$1356
+Damage:	45
+Ranged Miss Chance:
+	3 out to 10m
+	4 out to 25m
+	5 out to 45m
+Automatic Miss Chance:	+3 - 1 for every 8 Dex
+Mag Size:	15 rounds of 5.00x37mm. $7 per mag
+Reload DC:				30%
+Fire Modes:			Semi, Auto
+Auto fire rate:			6
+Armor Pierce Level:		3
+Reflex Modifier:			+10
+Suppression Level:		Medium
+
+----Flexcorp LS55	$2183
+Damage:	35, Laser
+Ranged Miss Chance:
+	3 out to 15m
+	4 out to 40m
+	5 out to 50m
+Automatic Miss Chance:	+3 - 1 for every 8 Dex
+Mag Size:	40 rounds of 10kW. $23 per mag
+Reload DC:				35%
+Fire Modes:			Semi, Auto
+Auto fire rate:			8
+Armor Pierce Level:		n/a
+Reflex Modifier:			10
+Suppression Level:		Medium
+
+=====	LEVEL 10 REQUIREMENT WEAPONS	=====
+
+---- Mathews "Bolter" 470B	$2389
+Damage:	60, 1x bleed on hit
+Ranged Miss Chance:
+	3 out to 10m
+	4 out to 35m
+	5 out to 45m
+Automatic Miss Chance:	+4 - 1 for every 5 Dex
+Mag Size:	20 rounds of 4x70mm. $13 per mag
+Reload DC:				30%
+Fire Modes:			Semi, Auto
+Auto fire rate:			4
+Armor Pierce Level:		2
+Reflex Modifier:			+5
+Suppression Level:		Medium
+
+----Frontier PL33G 	$2245
+Damage:	55, 1x plasma burn on hit
+Ranged Miss Chance:
+	3 out to 10m
+	4 out to 30m
+	6 out to 40m
+Burst Miss Chance:		+2 - 1 for every 8 Dex;
+Automatic Miss Chance:	+5 - 1 for every 5 Dex
+Mag Size:	20rounds of Argon-9. $16 per mag
+Reload DC:				40%
+Fire Modes:			Semi, Burst, Auto
+Burst; Auto Fire Rate:			3 ; 6
+Armor Pierce Level:		2
+Reflex Modifier:			+10
+Suppression Level:		Medium
+
+---- Flexcorp LS75	$3670
+Damage:	45, Laser
+Ranged Miss Chance:
+	2 out to 15m
+	3 out to 40m
+	4 out to 50m
+Automatic Miss Chance:	+4 - 1 for every 5 Dex
+Mag Size:	30 rounds of 10kW. $22 per mag
+Reload DC:				35%
+Fire Modes:			Semi, Auto
+Auto fire rate:			6
+Armor Pierce Level:		N/A
+Reflex Modifier:			+10
+Suppression Level:		Medium
 
 ============================================================
 Shotguns:
@@ -504,6 +607,48 @@ Anvil Arms SR-250 $8160 / $5
 Bolt Action: take 1 action to fire, 1 action to chamber a new round.
 
 //add some rifles and buff SR series rifles 100m after marksman update
+
+
+============================================================
+Rocket Launchers:
+============================================================
+
+=====	LEVEL 5 REQUIREMENT WEAPONS	=====
+
+---- ECSC RPE-B7	$2308
+Considered a secondary weapon. One rocket takes the space of 2 secondary magazine slots. Airburst Missile, 120 explosive damage. 5m radius.
+Chance to Miss:
+	3 out to 10m
+	4 out to 40m
+	5 out to 80m
+Mag Size: 1 40mm Self-propelled HE Rocket. $150 per rocket.
+Reload DC:		40%
+Max Speed Penalty: 1m per action
+Reflex Modifier: -35
+
+=====	LEVEL 10 REQUIREMENT WEAPONS	=====
+
+---- ECSC RPE-CLS8	$6168
+Considered a secondary weapon. One rocket takes the space of 2 secondary magazine slots. Airburst Cluster Missile, 100 explosive damage. 8m radius. All affected targets roll DC 50% shock to resist stun for 1 turn.
+Chance to Miss:
+	3 out to 10m
+	4 out to 40m
+	5 out to 100m
+Mag Size: 1	50mm Self-propelled HE MIRV-guided missile. $300 per missile
+Reload DC: 50%
+Max Speed Penalty: 1m per action
+Reflex Modifier: -35
+
+---- Anvil Arms AT-20	$5599
+Considered a secondary weapon. One rocket takes the space of 2 secondary magazine slots. Guided missile, 150 explosive damage, 3m radius. On a miss, lands within 4m of the target point. 8m radius. All affected targets roll DC 62% shock to resist stun for 1 turn. On a miss, roll a d10 to calculate the miss distance. Divide the number by 2 and round up; if the number is greater than 4, reduce it to 4. 
+Chance to Miss:
+	2 out to 15m
+	3 out to 55m
+	4 out to 150m
+Mag Size: 1	40mm Self-propelled guided HE Missile.	$200 per missile.
+Reload DC: 40%
+Max Speed Penalty: 1m per action
+Reflex Modifier: -35
 
 
 //===================================================================
