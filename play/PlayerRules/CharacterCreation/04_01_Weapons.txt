@@ -398,11 +398,101 @@ unless otherwise stated.
 
 ===== Level 1 Weapons =====
 
----- 
+---- Matthews Model 2x12	$1029
+Damage, Miss chance:
+	140 damage 3 to miss out to 10m
+	105 damage 4 to miss out to 20m
+	Slug only, 115 damage 5 to miss out to 50m
+Automatic Accuracy penalty: 2 - 1 for every 9 Strength
+Mag Size:	2 shells of 12 gauge. $10 per pair.
+Reload DC:		38%
+Fire Modes:	Semi, Auto
+Automatic Fire Rate: 		2
+Armor Pierce Level:		1
+Reflex Modifier:			-8
+Suppression Level:		Light
+Max Speed Penalty: 		1m/action
+
+---- Anvil Arms Hunting Shotgun	$1611
+Damage, Miss chance:
+	145 damage 2 to miss out to 13m
+	110 damage 3 to miss out to 26m
+	Slug only, 120 damage 4 to miss out to 60m
+Mag Size: 6 shells of 12 gauge. $6 per mag.
+Reload DC:		45%
+Fire Modes:	Pump Action
+Armor Pierce Level:	1
+Refelx Modifier:		-6
+Suppression Level:	Light
+Max Speed Penalty:	0.5m per action
+
+---- Matthews Model 2287 Short	$867
+Damage:	100
+Miss Chance:
+	3 out to 10m
+	4 out to 20m
+	5 out to 45m
+Mag Size: 5 shells of 20 gauge. $6 per mag.
+Reload DC: 45%
+Fire Modes:	Single level-action
+Armor Pierce Level:		0
+Reflex Modifier:			+8
+lever action, negate 1 pump action per turn. slug only, 100 dam, CQB.
+Suppression Level: Light
 
 ===== Level 5 Weapons =====
 
-----
+---- NFA Combat 7 Shotgun	$2690
+Damage, Miss chance:
+	135 damage 2 to miss out to 10m
+	100 damage 3 to miss out to 20m
+	Slug only, 110 damage 4 to miss  out to 50m
+Mag size: 7 shells 12 gague. $10 per mag.
+Reload DC:			30%
+Fire Modes:		Semi
+Armor Pierce Level:	1
+Reflex Modifier:		+6
+Suppression Level:	Medium
+
+---- ECSC Mk900 	$1574
+Damage, Miss Chance:
+	150 damage 2 to miss out to 10m
+	115 damage 3 to miss out to 20m
+	Slug only, 125 damage 4 to miss out to 50
+Mag Size: 7 shells 12 gague. $6 per mag
+Reload DC: 		45%
+Fire Modes:		Pump Action
+Armor Pierce Level:	2
+Reflex Modifier:		+5
+Suppression Level:	Light
+Max Speed Penalty: 0.5m per action
+
+---- Matthews Over / Under	$1415
+Damage, Miss Chance:
+	140 damage 2 to miss out to 10m
+	105 damage 3 to miss out to 25m
+	Slug only, 115 damage 4 to miss out to 50m
+Automatic Accuracy Penalty: 1 - 1 for every 8 Strength
+Mag Size: 2 shells 12 gague. $10 per pair. 
+Reload DC:			38%
+Fire Modes:		Semi, Auto
+Armor Pierce Level:	1
+Reflex Modifier:		-8
+Suppression Level:	Light
+Max Speed Penalty: 1m per action
+
+---- Partix LA10 B-CQ	$2023
+Damage, Miss Chance:
+	110 damage 2 to miss out to 10m
+	90 damage 3 to miss out to 20m
+	70 damage 3 to miss out to 40m
+Mag Size: 5 cells 15kW. $10 per mag.
+Reload DC:			35%
+Fire Modes:		Pump Action
+Armor Piercing Level:	N/A (Laser)
+Reflex Modifier:		-5
+Suppression Level:	Light
+Max Speed Penalty:	0.5m per action
 
 ===== Level 10 Weapons =====
 
