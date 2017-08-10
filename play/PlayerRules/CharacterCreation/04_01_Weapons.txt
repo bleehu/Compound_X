@@ -483,7 +483,7 @@ Reload DC:				30%
 Fire Modes:			Semi, Auto
 Automatic Fire Rate:	5
 Armor Pierce Level:		2
-Reflex Modifier:			0
+Reflex Modifier:			0 (CQB weapon)
 Suppression Level: Medium
 
 
@@ -499,7 +499,7 @@ Reload DC:				30%
 Fire Modes:			Semi, Auto
 Automatic Fire Rate:	5
 Armor Pierce Level:		2
-Reflex Modifier:			0
+Reflex Modifier:			-10
 Suppression Level: Medium
 
 
