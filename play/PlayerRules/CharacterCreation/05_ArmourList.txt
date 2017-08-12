@@ -44,26 +44,81 @@ Cloaking Equipment
 */
 
     =====================================
-	  STANDARD BALISTIC ARMOURS
+	  STANDARD BALLISTIC ARMOURS
     =====================================
 Adding any armor materials to a chest, leg, or arm rig
-reduces your max speed by -1.
+reduces your max move-speed by -1.
 
 =====   LEVEL 1 REQUIREMENT MATERIALS   =====
 
-----Standard L1
+----Standard L1, Kevlar ----
 Cost For Chest Armor:		500
 Cost For Arm or Leg Armor:	290
 APL (Armor Piercing Level):	1
 APs (Armor Points):		40
 
-----Standard L2
+----Standard L2, Carbon-Steel Fiber ----
 Cost For Chest Armor:		800
 Cost For Arm or Leg Armor:	480
 APL (Armor Piercing Level):	2
 APs (Armor Points):		50
 
 =====   LEVEL 5 REQUIREMENT MATERIALS   =====
+
+----Standard L3, Intertwined Carbon-Steel Kevlar ----
+Cost For Chest Armor:		1200
+Cost For Arm or Leg Armor:	700
+APL (Armor Piercing Level):	3
+APs (Armor Points):		60
+
+----Standard L4, Ultra-Dense Polyethylene ----
+Cost For Chest Armor:		1600
+Cost For Arm or Leg Armor:	950
+APL (Armor Piercing Level):	4
+APs (Armor Points):		70
+
+=====   LEVEL 10 REQUIREMENT MATERIALS   =====
+
+----Standard L5, Carbon-Ceramic Fiber ----
+Cost For Chest Armor:		2050
+Cost For Arm or Leg Armor:	1220
+APL (Armor Piercing Level):	5
+APs (Armor Points):		80
+
+----Standard L6, Tungsten Dioxide Ceramic Plate ----
+Cost For Chest Armor:		2540
+Cost For Arm or Leg Armor:	1520
+APL (Armor Piercing Level):	6
+APs (Armor Points):		90
+
+=====   LEVEL 15 REQUIREMENT MATERIALS   =====
+
+----Standard L7, Nano-Steel ---- 
+Cost For Chest Armor:		3060
+Cost For Arm or Leg Armor:	1830
+APL (Armor Piercing Level):	7
+APs (Armor Points):		100
+
+----Standard L8, Nano-Steel with Ceramic Backing ----
+Cost For Chest Armor:		3620
+Cost For Arm or Leg Armor:	2170
+APL (Armor Piercing Level):	8
+APs (Armor Points):		110
+
+=====   LEVEL 20 REQUIREMENT MATERIALS   =====
+
+----Standard L9, Ceramic Nano-Crystal ----
+Cost For Chest Armor:		4200
+Cost For Arm or Leg Armor:	2520
+APL (Armor Piercing Level):	9
+APs (Armor Points):		120
+
+----Standard L10, High Density Ceramic Nano-Crystal ----
+Cost For Chest Armor:		4820
+Cost For Arm or Leg Armor:	2900
+APL (Armor Piercing Level):	10
+APs (Armor Points):		130
+
 
 /*========================================
  * Armour Additions and Helmets
