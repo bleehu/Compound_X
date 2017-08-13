@@ -249,7 +249,7 @@ chance of 3, your ranged bracket miss chances should look something like this:
 
 Base Stat Details:
 Each Base Stat has different specific effects. They are detailed below.
-
+==== Primary Stat Details ====
 Strength:
 	How strong are you? This stat dictates how big of a gun you can carry and
 	how hard you can punch or hit with strength melee weapons. It might also allow 
@@ -322,6 +322,15 @@ Luck:
 ╠═══════╬═══════════════════════════════════════════════════════════════════════════════════════╣
 ║ 9-10  ║ Nothing bad happens... this time							║
 ╚═══════╩═══════════════════════════════════════════════════════════════════════════════════════╝
+
+==== Secondary Stat Details ====
+Movement Speed:
+	Your speed in meters, per two actions.
+Carry Ability:
+	Not 'carrying' in the traditional sense. Carry ability cancels out max-speed penalties.
+	If you have 6 Carry Ability and 6m max movement speed penalties, the penalty cancels out.
+Skill Point Gain:
+	How many skill points you gain every level.
 	
 Assigning Stats to a New Character
 	When making a new character, you'll have to assign their Base stats.
@@ -556,15 +565,19 @@ Conversing With Partners - Free Action
 Getting Your Bearings / Non Skill-Based Perception - Free Action
 
 Movement:
-You can run DEX number of meters per 2 actions. A character with 1 DEX can 
-move 1m per 2 actions, or 2m per 4 actions (a full turn). You can sprint 
-instead of running, for a +2 movement bonus per two actions. However,
+You can run 'Movement Speed' number of meters per 2 actions. A character with 
+1 Movement Speed can move 1m per 2 actions, or 2m per 4 actions (a full turn).
+You can sprint instead of running, for a +2 movement bonus per two actions. However,
 firing your weapon after doing so will cause you to incur a +1 miss chance
 penalty. The penalty occurs during the actions you sprint, as well as 2 actions 
 afterwards. You can sprint for a number of subsequent Actions equal to your Fortitude.
 You can jump horizontally Dex/2 meters, and add 1 meter if you have a 3 meter 
 running start.
 You can jump vertically Str/3 meters.
+
+Max Movement Speed Penalties:
+Your max movement speed is either 10 or your movement speed (if your movement speed is 
+over 10). If 
 
 Fighting:
 If a player or opponent is standing outside of cover and they are shot at, 
