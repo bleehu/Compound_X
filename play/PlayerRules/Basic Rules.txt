@@ -566,15 +566,15 @@ Performing a Skill Check (other than Getting Bearings/Awareness of surroundings)
 Conversing With Partners - Free Action
 Getting Your Bearings / Non Skill-Based Perception - Free Action
 
-Movement:
-You can run 'Movement Speed' number of meters for every 2 actions spent. A character with 
-1 Movement Speed can move 1m per 2 actions, or 2m per 4 actions (a full turn).
-You can sprint instead of running, for a +1 movement bonus per action. However,
-firing your weapon after doing so will cause you to incur a +1 miss chance
-penalty. The penalty occurs during the actions you sprint, as well as 2 actions 
-afterwards. You can sprint for a number of subsequent Actions equal to your Fortitude.
-You can jump horizontally Dex/2 meters, and add 1 meter if you have a 3 meter 
-running start.
+Movement and Sprinting:
+You can run 'Movement Speed' minus 'Movement Speed Penalty' number of meters for every
+2 actions spent (Movement Speed Penalties should be rounded up before the subtraction).
+A character with 1 Movement Speed and 0 move speed penalties can move 1m per 2 actions, 
+or 2m per 4 actions (a full turn). You can sprint instead of running, for a +1 movement 
+bonus per action. However, firing your weapon after doing so will cause you to incur a 
++1 miss chance penalty. The penalty occurs during the actions you sprint, as well as 2 
+actions afterwards. You can sprint for a number of subsequent Actions equal to your Fortitude.
+You can jump horizontally Dex/2 meters, and add 1m if you have a 3m running start.
 You can jump vertically Str/3 meters.
 
 Fighting:
