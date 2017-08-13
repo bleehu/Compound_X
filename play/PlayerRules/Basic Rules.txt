@@ -3,6 +3,7 @@ this game.
 ==============================
 Premise:
 ==============================
+
 Welcome to Compound X! The specific time and place that your adventure takes
 place is up to your Game Master (often called a GM for short), but all of them
 take place far in the future where humans have left earth on their faster-than-light
@@ -84,6 +85,7 @@ Either in combat or out, play usually follows this loop:
 ==============================
 Your Character:
 ==============================
+
 In Compound X, you control one particular person. This person is your avatar
 in the game world. You decide what they say, how they react and what they do
 just by telling your Game Master at the appropriate time. But before you can
@@ -132,11 +134,10 @@ Player Stats:
 Each player has what are called Base Stats. An average person has a '5' for
 each stat, but an average player has a '6'. Base Stats are split into Primary
 and Secondary stats. Primary stats are determined by your Base Stat points.
-Secondary stats are derived from several primary stats. For every point in a primary
-stat, a secondary stat point is awarded (if the primary and secondary stats are
-associated). If a secondary stat is contributed to by more than one primary stat,
-you can assign as many points to the common secondary stat as you have points
-in the largest of the associated primary stats.
+Secondary stats are derived from primary stats. The largest primary stat
+associated with a given secondary stat determines the secondary stat's value; 
+However, if you have a primary stat that is associated with more than one secondary 
+stat, you may have to choose which secondary stat to contribute to.
 These stats are as follows (secondary stat associations are indented):
 Strength
       ╠═ Carry Ability
@@ -152,19 +153,19 @@ Dexterity
       ╚═ Movement Speed
 Luck
 
-Secondary stat assignment example: let's assume you have assigned your character
-6 Strength, 3 Dexterity, and 2 Fortitude. Dexterity only has one secondary stat, movement 
-speed, so you would put 3 secondary stat points into movement speed. Likewise,
-Fortitude only has Carry Ability, so 2 points are assigned there. 
-	Strength has 6 secondary stat point to assign; you can assign an additional 3
-stat points to movement speed (for a maximum of 6 movement speed) which leaves 3 additional 
-points for Carry Ability (for a total of 5 points). Or you can do any other combination, so
-long as Carry Ability and Movement speed don't exceed 6 points (because strength is the 
-highest primary stat associated with Carry Ability and Movement Speed). 
-	In the case that you have more secondary points than you can use, (such as
-if you assigned 5 points to Strength, Fortitude, and Dexterity) save them for later.
-You can increase your base stats and apply the secondary points later (see section,
-Leveling Up).
+Secondary stat assignment examples: Charisma and Intelligence are associated with 
+Skill Point Gain. If you have 5 Charisma and 6 Intelligence, you would have 6 Skill 
+Point Gain.
+Let's now assume you have 6 Strength, 3 Dexterity, and 4 Fortitude. You would have 
+3 Movement Speed (from your Dexterity) and 4 Carry Ability (from your Fortitude). 
+Now, Strength is much higher than both of those, but Strength can't determine both 
+Movement Speed and Carry Ability so you have to decide whether you want:
+3 Movement Speed and 6 Carry Ability 
+		or 
+6 Movement Speed and 4 Carry Ability 
+Strength determing Movement Speed is likely to be the better choice, as Carry 
+Ability doesn't contribute as much to your character (see Secondary Stat Details, below)
+and you have a total of 6 + 4 = 10 points in secondary stats instead of 3 + 6 = 9. 
 
 Usually you can tell a lot about a character just by their base stats. For
 instance, a character with 9 strength and 3 intelligence is usually either
@@ -249,15 +250,16 @@ chance of 3, your ranged bracket miss chances should look something like this:
 
 Base Stat Details:
 Each Base Stat has different specific effects. They are detailed below.
+
 ==== Primary Stat Details ====
-Strength:
+Strength (STR):
 	How strong are you? This stat dictates how big of a gun you can carry and
 	how hard you can punch or hit with strength melee weapons. It might also allow 
 	you to solve puzzles with the brute force approach.
 		If you have 1 Strength, you are exceptionally weak and your max movement per
 	2 actions is 2m (unless your Dex is 1) and you cannot wear armor that offers more 
 	than 50% coverage.
-Perception: 
+Perception (PER): 
 	Your ability to see, hear, smell and sense the world around you, as well as
 	to interpret what those sensations indicate. Perception affects your weapon 
 	accuracy and ability to cut through the chaos of battle to stay oriented. A high
@@ -265,13 +267,13 @@ Perception:
 		If you have 1 Perception, you are partially blind, only have 1 eye, or
 	something similar. You cannot use the Search or Awareness skills and you have a 
 	-20 malus to Speech skill rolls. 
-Fortitude: 
+Fortitude (FORT): 
 	How tough are you? Fortitude dictates your maximum health, how hard you are to 
 	knock off of your feet, and contributes to your saving throws.
 		If you have 1 Fortitude, you are exceptionally frail. You can't inflict lethal 
 	unarmed damage and your unarmed damage is halved. Also, when you deal melee damage, 
 	you inflict half of the damage on yourself.
-Charisma: 
+Charisma (CHA): 
 	How good are you at communicating with those around you? Charisma affects a 
 	number of interpersonal skills like haggling and diplomacy. It also contributes to 
 	how hard it is to dominate your will.
@@ -283,14 +285,14 @@ Charisma:
 		If you have 6 or more Charisma you gain the feat "Will to Survive". The feat scales
 	depending on how many points you have in Charisma. Or, if you have 9 or more Charisma,
 	you get to choose between taking feat "Will to Survive" or feat "Positional Mastermind". 
-Intelligence: 
+Intelligence (INT): 
 	How smart are you? Intelligence dictates how many Nanites you have to cast spells
 	with or use certain Feats and abilities. It also affects how quickly you acquire new
 	skills when you	level up and how proficient you are at using some of those skills.
 		If you have 1 intelligence, let's just say, you aren't particularly smart. 
 	You cannot attempt to use any skill that you do not have Proficiency in (see the 
 	"RP / Using Skills" section).
-Dexterity: 
+Dexterity (DEX): 
 	How nimble are you? Dexterity decides your maximum move speed in combat, as well 
 	as how much damage you do with finesse melee weapons like knives. Dexterity also 
 	contributes to skill checks for doing things with a character's body like climbing,
@@ -298,7 +300,7 @@ Dexterity:
 		If you have 1 Dexterity, you are especially clumsy or suffer from a debilitating
 	illness which affects your ability to move swiftly and precisely. You cannot learn any
 	skills that use Dexterity as the contributing stat (for example, lockpicking).
-Luck: 
+Luck (LUCK): 
 	Some people are just lucky! A GM will often have you roll luck to see if a door was
 	left unlocked or if you just happened to duck to pick up a coin off the ground right 
 	when an assassin is trying to shoot you in the head. Luck also has a significant effect
@@ -325,10 +327,10 @@ Luck:
 
 ==== Secondary Stat Details ====
 Movement Speed:
-	Your speed in meters, per two actions.
+	Your speed in meters, for every two actions.
 Carry Ability:
-	Not 'carrying' in the traditional sense. Carry ability cancels out max-speed penalties.
-	If you have 6 Carry Ability and 6m max movement speed penalties, the penalty cancels out.
+	Not 'carrying' in the traditional sense. Carry ability cancels out movement speed penalties.
+	If you have 6 Carry Ability and 6m of movement speed penalties, you end up with no speed penalty.
 Skill Point Gain:
 	How many skill points you gain every level.
 	
@@ -565,19 +567,15 @@ Conversing With Partners - Free Action
 Getting Your Bearings / Non Skill-Based Perception - Free Action
 
 Movement:
-You can run 'Movement Speed' number of meters per 2 actions. A character with 
+You can run 'Movement Speed' number of meters for every 2 actions spent. A character with 
 1 Movement Speed can move 1m per 2 actions, or 2m per 4 actions (a full turn).
-You can sprint instead of running, for a +2 movement bonus per two actions. However,
+You can sprint instead of running, for a +1 movement bonus per action. However,
 firing your weapon after doing so will cause you to incur a +1 miss chance
 penalty. The penalty occurs during the actions you sprint, as well as 2 actions 
 afterwards. You can sprint for a number of subsequent Actions equal to your Fortitude.
 You can jump horizontally Dex/2 meters, and add 1 meter if you have a 3 meter 
 running start.
 You can jump vertically Str/3 meters.
-
-Max Movement Speed Penalties:
-Your max movement speed is either 10 or your movement speed (if your movement speed is 
-over 10). If 
 
 Fighting:
 If a player or opponent is standing outside of cover and they are shot at, 
@@ -700,7 +698,7 @@ sprint or use other movement abilities.
 your chest makes you a smaller target and helps you aim better, but also makes you
 easier to hit in melee. -1 gun miss chance while prone and +2 chance to be hit in
 melee. Being prone severely limits your movement: 1/2 movement speed while prone, 
-round-up; maximum 4 movement per 2 actions.
+round-up; maximum 2 movement per action.
 	Hunkering costs 1 action, and you cannot fire your weapons except by blind-fire 
 (see Blind Firing, above). Imagine curling up in a ball, to pose the absolute smallest
 target possible. Its a free action to un-hunker.
