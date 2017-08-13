@@ -78,7 +78,6 @@ into Primary Magazines, and 2 to 3 (or 1 to 1) into Secondary Magazines.
 would have 5 Mag Space. I can turn that Mag Space into 3 Primary Magazine and 3
 Secondary Magazine spaces, 5 Primary Magazine spaces, or any feasible combination. 
 
-
 	---- WHAT IS AN 'ADVANCED RIG'? ----
 Advanced (adv.) rigs typically provide less armor coverage and magazine space 
 than their regular counterparts, but they allow you to attach Shield Generators,
