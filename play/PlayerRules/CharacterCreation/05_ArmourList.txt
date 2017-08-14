@@ -45,7 +45,9 @@ Cloaking Equipment
     =====================================
 		INTRODUCTION
     =====================================
-    
+For more information on how armor functions in CX, please see topic 
+"Armor and Getting Hit" in the Basic Rules document.
+
 	   ---- ARMOR SYSTEMS ----
 Armor Systems are composed of an armor rig and a protective material. 
 Having lots of armor may slow you down, but armor will prevent you from 
