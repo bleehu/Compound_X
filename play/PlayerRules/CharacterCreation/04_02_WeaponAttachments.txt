@@ -1,9 +1,9 @@
 These addons are stat affected items or items that will add functionality to a 
 weapon. Most Attachments can be afixed to any weapon unless otherwise 
-noted. Ask a GM if ou are not sure.
+noted. Ask a GM if you are not sure.
 
 Please note that unless otherwise specified, only one atachment of a given type may
-be used. For instance, one cannot use two red lasers to get a +30% to accuracy, nor 
+be used. For instance, one cannot use two red lasers to get a -30% to miss chance, nor 
 can you use both a reflex sight and a 3.2x scope. 
 
 ====================
@@ -11,53 +11,43 @@ Optics / Aiming Aids
 You may only have 1 scope, unless otherwise stated.
 ====================
 
-Tritium Glow Iron Sights $50
+===== Level 1 Requirement =====
+
+Tritium Glow Iron Sights  $150 
 1x magnification, but allows for much better target aquisition. Can be mounted 
 on 45 degree mounts in addition to a scope in order to negate a minimum 
 engagment distance penalty.
-Miss Chance -5%
-Can be used on any conventional, nonexplosives weapon, E.G. pistols, shotguns, 
+Range Bracket Miss Chance: -0.5
+Can be used on any conventional, nonexplosives weapon. E.G., pistols, shotguns, 
 rifles, etc.
 
-Grenade Launcher Iron Sights $100
+Grenade Launcher Iron Sights  $400
 1x Magnification. Allows better estimation of distances for use with grenade 
 launcher. Folds down for combatibility with magnified optics or dot-sites for
-the primary weapon. Can be used along side other weapon sites, but not the Tritium Glow Iron Sites.
-Underbarrel Grenade Launcher -10% miss chance.
+the primary weapon. Can be used along side other weapon sites, but not the Tritium Glow Iron Sites (If grenade launcher is not an underbarrel attachment, disregard). 
+Underbarrel Grenade Launcher, ranged miss chance: -0.5
 
-1x Dot Sight $130
+1x Dot Sight  $350
 Your basic tube-shaped dot-projection. Dot can be changed from blue-green-red 
 for various lighting situations and terrains.
-Miss Chance -3%
-Range +10m
+Reduction in Range Bracket Miss Chance by weapon type: -1 for Pistols, -0.5 other.
+R3 Range: +3m
 
-1x Reflex Sight $150
-A reflex-projected site, comprised of a light source and a single pane of 
-rectangular glass. Allows for smaller F.O.V. blockage. Has a small cross, 
-chevron, or dot as the indicator. Cannot be used on pistols
-Miss Chance -5%
-Range +10m 
+1x Reflexive Sight $500
+A reflectively-projected site, comprised of a light source and a single pane of 
+rectangular glass. Allows for less F.O.V. and parallex distortions. 
+Has a small cross, chevron, or dot as the indicator. 
+R3 Range bonus & Range Bracket Miss Chance reductions are proportional to the weapon
+type: +6m/-1.5 Pistols, +10m/-1.0 submachine guns, +2m/-1.0 carbines, +0m/-1.0 other.
+Weapon Reflex: +2
 
-1x Pistol Reflex Sight $100
-A reflex-projected site, comprised of a light source and a single pane of 
-rectangular glass. Allows for smaller F.O.V. blockage. Has a small cross, 
-chevron, or dot as the indicator. Can only be used on pistols.
-Miss Chance -5%
-Range +5m
-
-1.2x Hologramic projector $175
+1.2x Hologramic projector $800
 Projects a hologram target aquisition reticle, which compensates slightly 
 for windage or target movement. also artificially enhances view so as to 
-magnify by 120%. Cannot be used on pistols.
-Range +15m
-Miss Chance -10%
-
-1.2x Pistol Hologramic projector $125
-Projects a hologram target aquisition reticle, which compensates slightly
-for windage or target movement. also artificially enhances view so as to 
-magnify by 120%. Can only be used on pistols.
-Range +5m
-Miss Chance -10%
+magnify by 120%.
+R3 Range bonus & Range Bracket Miss Chance reductions are proportional to the weapon
+type: +8m/-2.0 Pistols, +12m/-1.5 submachine guns, +8m/-1.0 carbines, +6m/-1.0 other.
+Weapon Reflex: +5
 
 nx Magnifier for Dot Scopes $n*200
 A basic magnifying tube capable of increasing the effective range of a weapon. 
@@ -104,6 +94,18 @@ round and adjust the scope as a free action.
 IR scope $440
 Enables visibility in dark settings. This scope does not have any inherent 
 magnification, and needs to be used in conjunction with a scope or dot sight.
+
+===== Level 10 Requirement =====
+
+2.0x Hologramic projector  $1200
+Projects a hologram target aquisition reticle, which compensates slightly 
+for windage or target movement. Contains a crystal which changes the holographic 
+color depending on the environment. Also artificially enhances view so as to 
+magnify by 200%.
+R3 Range bonus & Range Bracket Miss Chance reduction are proportional to the weapon
+type: +15m/-2.0 Pistols, +20m/-1.5 submachine guns, +15m/-1.0 carbines, +12m/-1.0 other.
+Minimum Range: +1m
+Weapon Reflex: +5
 
 ====================
 Assistance Attachments
