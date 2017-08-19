@@ -6,10 +6,10 @@ Please note that unless otherwise specified, only one atachment of a given type 
 be used. For instance, one cannot use two red lasers to get a -30% to miss chance, nor 
 can you use both a reflex sight and a 3.2x scope. 
 
-====================
+========================================
 Optics / Aiming Aids
 You may only have 1 scope, unless otherwise stated.
-====================
+========================================
 
 ===== Level 1 Requirement =====
 
@@ -33,7 +33,7 @@ for various lighting situations and terrains.
 Reduction in Range Bracket Miss Chance by weapon type: -1 for Pistols, -0.5 other.
 R3 Range: +3m
 
-1x Reflexive Sight $500
+1x Reflexive Sight  $500
 A reflectively-projected site, comprised of a light source and a single pane of 
 rectangular glass. Allows for less F.O.V. and parallex distortions. 
 Has a small cross, chevron, or dot as the indicator. 
@@ -41,7 +41,7 @@ R3 Range bonus & Range Bracket Miss Chance reductions are proportional to the we
 type: +6m/-1.5 Pistols, +10m/-1.0 submachine guns, +2m/-1.0 carbines, +0m/-1.0 other.
 Weapon Reflex: +2
 
-1.2x Hologramic projector $800
+1.2x Hologramic projector  $800
 Projects a hologram target aquisition reticle, which compensates slightly 
 for windage or target movement. also artificially enhances view so as to 
 magnify by 120%.
@@ -49,55 +49,65 @@ R3 Range bonus & Range Bracket Miss Chance reductions are proportional to the we
 type: +8m/-2.0 Pistols, +12m/-1.5 submachine guns, +8m/-1.0 carbines, +6m/-1.0 other.
 Weapon Reflex: +5
 
-nx Magnifier for Dot Scopes $n*200
-A basic magnifying tube capable of increasing the effective range of a weapon. 
+2x Magnifier for Dot Scopes  $500
+A basic magnifying optical-tube capable of increasing the effective range of a weapon. 
 Flips out of the way for 1 action.
-Must be paired with a reflex/projector/dot sight.
-Range + (n*20)
+Must be paired with a reflex/projector/dot sight. Usable on select long barrel pistols, ask your DM. 
+Add a range bracket with Miss chance R4 = R3 + 1 and Range R4 = R3+20m. For pistols, Range R4 = R3+15m. +5m minimum range. 
 
-3.2x Scope $250
+3.2x Basic Scope  $800
 A heavy-duty tube made for heavy weapons and sustained automatic fire, but 
 would suit single-fire weapons just as well. Sports a black multi-chevron 
 reticle suitable for daytime brightlight use.
-Range + 50m, Minimum +10m.
+Add a range bracket with Miss Chance R4 = R3 + 1 and Range R4 = R3+35m, +10m minimum range.
+Range Bracket Miss Chance: -0.5
 
-4x Scope $350
-Range +75m, minimum +15m.
-Can only be used on Long Rifles, Carbines.
+4x Basic Scope  $1100
+Not usable on pistols, SMGs. 
+Add a range bracket with Miss Chance R4 = R3+1 and Range R4 = R3+50m, +15m minimum range.
+Range Bracket Miss Chance: -0.5
 
-2-7x Scope $700
-For 2 actions, you can adjust the magnification on this scope in order to 
+6x Basic Scope  $1400
+Not usable on pistols, SMGs. 
+Add a range bracket with Miss Chance R4 = R3+1 and Range R4 = R3+80m, +20m minimum range.
+Range Bracket Miss Chance: -0.5
+
+2-6x Scope  $2100
+Not usable on pistols, SMGs. 
+For 1 action, you can adjust the magnification on this scope in order to 
 better see your target. Once sighted to a certain range, other targets that 
 are +/- 10 meters can still be fired upon. Otherwise you must adjust your 
 magnification.
-Miss Chance -20%
-Range +100m, minimum +10m
+Add a range bracket with Miss Chance R4 = R3+0.5 and Range R4 = R3+80m, +10 minimum range.
+Range Bracket Miss Chance: -0.5
 
-7x Scope $600
-Range +120m, minimum +30m
+7x Basic Scope  $1500
 Can only be used on Long Rifles.
+Add a range bracket with Miss Chance R4 = R3+1 and Range R4 = R3+50%m (or +95m whichever is higher), +25m minimum range.
+Range Bracket Miss Chance: -0.5
 
-8x Scope $750
-Range +150m, minimum +35m
+8x Basic Scope  $1800
 Can only be used on Long Rifles.
+Add a range bracket with Miss Chance R4 = R3+1 and Range R4 = R3+100%m, +30m minimum range.
+Range Bracket Miss Chance: -0.5
 
-15-20x Scope $1000
-Enables high-precision rifles to make full use of their range.
+15-20x Scope  $3000
+Can only be used on Long Rifles.
+Add a range bracket with Miss Chance R4 = R3+0.5 and Range R4 = R3+200%m, +60m minimum range.
+Range Bracket Miss Chance: -0.5
 
-Range Finder $370
-Notifies the user of the target''s range via an infrared laser beam. Useful for
-calculated bullet drop for a sniper. When a Sniper takes a full round to 
-adjust their scope''s windage or elevation due to distance, negate the full 
-round and adjust the scope as a free action.
-(can be used in addition to another scope, requires railspace to be used)
+Range Finder  $740
+Notifies the user of the target's range via an infrared laser beam. Useful for
+calculated bullet drop for a sniper. Negates one of the actions used to adjust 
+scope windage and elevation due to distance.
+(can be used in addition to another scope/other attachments, requires railspace to be used)
 
-IR scope $440
-Enables visibility in dark settings. This scope does not have any inherent 
-magnification, and needs to be used in conjunction with a scope or dot sight.
+Basic Light-Amplification Scope  $880
+Enables low-light vision out to 60m, can be used with one other scope attachment.
 
 ===== Level 10 Requirement =====
 
-2.0x Hologramic projector  $1200
+2x Hologramic projector  $1200
 Projects a hologram target aquisition reticle, which compensates slightly 
 for windage or target movement. Contains a crystal which changes the holographic 
 color depending on the environment. Also artificially enhances view so as to 
@@ -107,75 +117,126 @@ type: +15m/-2.0 Pistols, +20m/-1.5 submachine guns, +15m/-1.0 carbines, +12m/-1.
 Minimum Range: +1m
 Weapon Reflex: +5
 
-====================
+4x Tritium-dot  $2000
+Not usable on pistol, SMGs.
+Add a range bracket with Miss Chance R4 = R3+1 and Range R4 = R3+55m, +15m minimum range.
+Range Bracket Miss Chance: -1
+
+
+========================================
 Assistance Attachments
 You may only have one type of laser, and maximum of two total of the following.
-====================
+========================================
 
-Flashlight $60
+===== Level 1 Requirement =====
+
+Flashlight  $60
 Its a flashlight. It lights things up.
 30m visibilty in dark.
 
-IR flashlight $240
-Works well with IR goggles. Actually, it only works with IR goggles.
-30m visibility in dark with IR goggles.
+IR flashlight  $480
+Works well with IR vision. Actually, it only works with IR vision.
+30m visibility in dark with IR vision.
 
-Red Laser $100
-Miss Chance -10% when Range <= 100m
+Red Laser  $250
+Hip Fire Miss Chance Penalty: -2 out to 25m
 
-Green Laser $100
-Miss Chance -10% when Range >= 90m
+Green Laser  $350
+Hip Fire Miss Chance Penalty: -1 out to 80m
 
-IR Laser $320
-Miss Chance -10% when range <=100m. Must be used with IR goggles or an IR sight.
-Can also be used to paint a target for Airstrikes or Orbital Strikes.
+IR Laser  $900
+Must be used with IR vision. Can also be used to paint a target for Airstrikes or Orbital Strikes.
+Hip Fire Miss Chance Penalty: -2 out to 90m
 
-====================
+===== Level 10 Requirement =====
+
+Blue Laser  $800
+Hip Fire Miss Chance Penalty: -2 out to 90m
+
+Focused Heartbeat Monitor  $1500
+Range Bracket Miss Chance: -1 when firing at organic targets behind cover within 20m
+
+========================================
 Barrel Attachments
 You may only choose one barrel attachment.
-====================
+========================================
 
-Muzzle Break $50
+===== Level 1 Requirement =====
+
+Bayonet Mount  $100
+Can fix a knife to your gun. Allows you to use your knife without having to put down your gun and draw it.
+
+Recoil Compensator (Muzzle Brake)  $500
 Reduces Recoil from the gun, allowing for more accurate follow-up shots. Also 
 increases muzzle flash, making you easier to spot at a distance when firing.
-Miss Chance -5%
+Auto and Burst Miss Chance: -0.5 
 Does not apply to lasers, coilguns or plasma guns.
 
-Flash / Sound Suppressor $100
+Flash / Sound Suppressor  $900
 Greatly reduces the muzzle flash and some of the weapon report from firing. 
 Targets are not likely to see you or hear you when not particularly looking for
 you. When alerted to your presence, they are 60% less likely to find your 
 position.
-Range - 10m
-Only applies to balistic weapons. Not useable on coilguns, shotguns or HMGs.
+Auto and Burst Miss Chance: -0.5 
+R3 Range: +4m
+Only applies to ballistic weapons. Not useable on coilguns, shotguns, or Machine Guns.
 
-Improved Flash / Sound Suppressor $300
+Improved Flash / Sound Suppressor  $1400
 Completely removes muzzle flash and the weapon report. Targets cannot locate 
 you due to firing your weapon.
-Range -20m
-Damage -5
-Only applies to balistic weapons. Not useable on coilguns, shotguns or HMGs.
+Auto and Burst Miss Chance: -0.5 
+R3 Range: +4m
+Only applies to ballistic weapons. Not useable on coilguns, shotguns, or Machine Guns.
 
-====================
+===== Level 10 Requirement =====
+
+Heavy Recoil Compensator  $900
+Larger, and with actuating pistons, the heavy recoil compensator distributes recoil energy
+over a longer period of time.
+Auto and Burst Miss Chance: -1 
+
+BE Meyers Spektor suppressor  $2000
+Completely removes muzzle flash and the weapon report. Targets cannot locate 
+you due to firing your weapon.
+Ranged Miss Chance: -0.5 
+R3 Range: +6m
+Only applies to ballistic weapons. Not useable on coilguns, shotguns, or Machine Guns.
+
+========================================
 Barrel Replacements
 You may only choose one barrel type.
-====================
+========================================
 
-Light Profile Barrel $100
-Miss Chance +10%
-Str -1
+===== Level 1 Requirement =====
 
-Heavy Profile Barrel $100
+Light Profile Barrel  $300 + 10% weapon cost
+Ranged Miss Chance: +0.5
+Strength Requirement: -1
+Carry Strength Bonus: +0.5 (cancels out movement speed penalties)
+Weapon Reflex: +5
+
+Heavy Profile Barrel  $450 + 10% weapon cost
 This heavier barrel reduces recoil, increases the accuracy of follow-up shots.
-Miss Chance -10%
-STR +1
+Ranged Miss Chance: -1 @ Range Brackets R2 & R3 (and a -1 to R4 if relevant)
+Movement Speed Penalty: -1m
+Weapon Reflex: -8
 
-====================
+===== Level 10 Requirement =====
+
+Magnetic Accelerator Field  $1500
+Weapon Damage: +10% (round up)
+Only applies to coilgun and plasma weapons.
+
+Improved Focal Lensing  $1500
+Weapon Damage: +10% or +5, whichever is higher.
+Only applies to lasers.
+
+========================================
 Lower Rail attachments
 You may only choose one of these. You may not use a Bipod in conjunction with 
 any of these except the foregrips. You may not use these attachment with pistols
 or small SMGs. 
-====================
+========================================
 
 Bipod $200
 Requires 1 Action to deploy the bipod. user can disengage for a free 
@@ -218,9 +279,9 @@ Armoured targets roll a DC 60 Str check. Unarmoured targets take 20
 damage and roll a DC 70 Str check. Failed rolls cause target to be
 knocked down.
 
-===================
+========================================
 Slings
-===================
+========================================
 
 Pistol Lanyard $100
 If you drop your pistol, it''ll fall harmlessly to your leg level instead of 
@@ -239,12 +300,12 @@ Due to the positioning of the weapon, you can draw your primary as a free
 action.
 Reduce strength required by 1. Holstering your weapon is a free action.
 
-===================
+========================================
 Ammunition / Magazine Accessories
 Total mag price should be calculated by taking multipliers for extended mags 
 first, then multipliers for special effect, then magazine accessories like 
 magpulls.
-===================
+========================================
 Extended Magazines $1.3x Mag cost. $12 mags now cost $15, etc. Round Up.
 Adds 30% magazine capacity to magazine/clip-based weapons. Revolver systems or
 rocket launchers, for example, are excluded.
@@ -270,7 +331,7 @@ Magpulls $10/mag slot on your armour for the applicable weapon.
 Decrease the Reload DC by 5% for any box magazines. Applies to all weapons 
 that use box magazines.
 
-====================
+========================================
 Total Conversions
 Total conversions only work with the specified weapon. 
 You may only utilize one weapon conversion at a time. HOWEVER, for conversions 
@@ -279,7 +340,7 @@ receiver in order to swap kits on the go. You must pass 2 Weapons use /
 knowledge [Weapons] checks in order to successfully convert your weapon on the 
 go. DC 60. Failure on one check instantly jams the weapon on first shot. 
 Failure on both checks requires an additional check.
-====================
+========================================
 
 Revolver Bottom-Cylinder Fire $500
 Modifies the pistol to fire from the bottom cylinder rather than the top, 
