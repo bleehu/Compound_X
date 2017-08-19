@@ -434,7 +434,7 @@ The medicine DC is equal to the damage dealt. On a fail skill check, no
 healing occurs. On a success, heal an amount equal to Medic skill + DC surplus.
 Ex: player is dealt 70 damage. Medic has 25 skill. Medic rolls an 86 (with 
 medic skill), so they heal 25+(86-70) for 41 health healed.
-Individual wounds are healed individually. 3 20 damage wounds needs three 
+Individual wounds are healed individually. 3x 20-damage wounds need three 
 rolls of 21 or higher.
 Ex: Player takes 70 damage. Medic has 25 skill. Medic rolls an 86 (with medic 
 skill), so they heal 25+(86-70) for 41 health. Now the player still has a 29 
@@ -446,6 +446,17 @@ when they are trying to heal a teammate, they can make the attempt at a +20 DC.
 Using a medikit:
 Medic-kit, non-medic user: works as if you are a medic with skill 30.
 Medic-kit, medic user: Works as normal, but add 30 to amount healed.
+
+==============================
+Resting
+==============================
+
+Short Rest:
+Taking about an hour, characters can take a short rest to rest and recoup.
+
+Long Rest:
+Taking about eight hours, characters need to rest after a long day of adventuring.
+If you choose to stay up all night, you won't be at your best for the next day.
 
 ==============================
 RP / Using Skills:
@@ -793,14 +804,13 @@ to roll either for (15 - FORT) turns, or until they pass.
 Conditions:
 Bleeding - d10/2+1 (drop the remainder) stackable damage per turn. Broken with 
 Medicine Skill check. DC varies. If you have a bleed condition, seek medical aid
-immediately, You can Bleed Out.
+immediately, You CAN Bleed Out, you have been warned.
 Burning - 2d10 damage per turn. Broken with a Maneuver Skill Check. DC 40. 
 Every 2 turns, the degree of the burn intensifies
-Downed - Your health has fallen below 0. Every turn in this condition, you 
+Downed - Your health has fallen below 0. Every turn in this condition, you
 must pass a DC 70 Fort save. You are allowed a number of failures equal to 
-your Fort score, for your lifespan. when you have failed more times than 
-your Fort score, you die. While in this state, you cannot take any actions,
-but can mumble or speak 
+your Fort score. When you have failed more times than your Fort score, you die. 
+While in this state, you cannot take any actions, but you can mumble or speak 
 incomprehensibly.
 Frozen - d10 damage per turn. lasts until a source of heat is applied to the 
 wound, or with Medicine Skill check, DC 50
