@@ -19,16 +19,157 @@
  *	 - Heavy
  * Nanite Cloaking Armour
  */
+ 
+ /*
+ soon to be:
+ Ballistic Armors
+ 	-Basic Armor Materials
+	-Basic Helmet Materials
+	
+ Armor Rigs
+	-recon
+	-light
+	-medium
+	-medium-heavy
+	-heavy
+		
+Shield Generator Nodes
+	-all
+	
+Utility Hardpoint Equipment
+	-all
+	
+Cloaking Equipment
+	-all
+*/
+    =====================================
+		INTRODUCTION
+    =====================================
+For more information on how armor functions in CX, please see topic 
+"Armor and Getting Hit" in the Basic Rules document.
+
+	   ---- ARMOR SYSTEMS ----
+Armor Systems are composed of an armor rig and a protective material. 
+Having lots of armor may slow you down, but armor will prevent you from 
+being easy prey. Armor rigs can be broken down into 4 pieces: helmets,
+chest rigs, arm rigs, and leg rigs. 
+	Helmets protect against special abilities that target your face-hole so 
+they aren't needed until later in the game, or they are probably never needed
+becayse that's not how do teh bulluts. 
+	The other 3 riggings provide ammunition space and (most rigs) provide
+space for installing an armor material. Armor Materials must be purchased 
+separately than Armor Rigs. Also, armor systems do not include any protection
+without an armor material. If you purchase more than one material* to cover 
+your whole body (installing in the arm, leg, and chest rigs, for example) it 
+improves the armor coverage (% of armor protection), but not the quantity of 
+armor points (APs) or the armor piercing level (APL). 
+	For example: if you purchase a chest rig from the Medium Armor Systems
+category and a Standard L1 material, you'll have 40% coverage, 40 APs, and an 
+APL of 1. Now, in addition, if you purchase the leg rig from the Medium Armor 
+Systems and a Standard L1 material, you'd have 55% coverage, 40 APs, and an
+APL of 1.
+*Note: you cannot mix-and-match materials or rig categories. Only one kind of 
+material for the one category of rigging you are wearing.
+
+	---- WHERE IS MY AMMO STORAGE? ----
+If you are wearing any armor rigging, you have a certain amount of "Mag Space".
+When you are loading up your guns before a mission, you can decide how to 
+arrange your Mag Space to suit your needs. "Mag Space" translates 1 to 1
+into Primary Magazines, and 2 to 3 (or 1 to 1) into Secondary Magazines.
+	For example, if I have had chest rig from the Recon Armor Systems category, I 
+would have 5 Mag Space. I can turn that Mag Space into 3 Primary Magazine and 3
+Secondary Magazine spaces, 5 Primary Magazine spaces, or any feasible combination. 
+
+	---- WHAT IS AN 'ADVANCED RIG'? ----
+Advanced (adv.) rigs typically provide less armor coverage and magazine space 
+than their regular counterparts, but they allow you to attach Shield Generators,
+Hard Point Equipment, and/or Cloaking Equipment. Advanced rigs allow you to do
+this by providing 'Hard Points'. Hard Points are special joints and fittings that
+make it easy to attach equipment. When you purchase equipment, it will list how
+many Hard Points it consumes. You can't attach more equipment than you have available
+Hard Point space.
+
+    =====================================
+	  STANDARD BALLISTIC ARMOURS
+    =====================================
+Adding any armor materials to a chest, leg, or arm rig
+reduces your movement speed by -1m per material added.
+
+=====   LEVEL 1 REQUIREMENT MATERIALS   =====
+
+----Standard L1, Kevlar ----
+Cost For Chest Armor:		500
+Cost For Arm or Leg Armor:	290
+APL (Armor Piercing Level):	1
+APs (Armor Points):		40
+
+----Standard L2, Carbon-Steel Fiber ----
+Cost For Chest Armor:		800
+Cost For Arm or Leg Armor:	480
+APL (Armor Piercing Level):	2
+APs (Armor Points):		50
+
+=====   LEVEL 5 REQUIREMENT MATERIALS   =====
+
+----Standard L3, Intertwined Carbon-Steel Kevlar ----
+Cost For Chest Armor:		1200
+Cost For Arm or Leg Armor:	700
+APL (Armor Piercing Level):	3
+APs (Armor Points):		60
+
+----Standard L4, Ultra-Dense Polyethylene ----
+Cost For Chest Armor:		1600
+Cost For Arm or Leg Armor:	950
+APL (Armor Piercing Level):	4
+APs (Armor Points):		70
+
+=====   LEVEL 10 REQUIREMENT MATERIALS   =====
+
+----Standard L5, Carbon-Ceramic Fiber ----
+Cost For Chest Armor:		2050
+Cost For Arm or Leg Armor:	1220
+APL (Armor Piercing Level):	5
+APs (Armor Points):		80
+
+----Standard L6, Tungsten Dioxide Ceramic Plate ----
+Cost For Chest Armor:		2540
+Cost For Arm or Leg Armor:	1520
+APL (Armor Piercing Level):	6
+APs (Armor Points):		90
+
+=====   LEVEL 15 REQUIREMENT MATERIALS   =====
+
+----Standard L7, Nano-Steel ---- 
+Cost For Chest Armor:		3060
+Cost For Arm or Leg Armor:	1830
+APL (Armor Piercing Level):	7
+APs (Armor Points):		100
+
+----Standard L8, Nano-Steel with Ceramic Backing ----
+Cost For Chest Armor:		3620
+Cost For Arm or Leg Armor:	2170
+APL (Armor Piercing Level):	8
+APs (Armor Points):		110
+
+=====   LEVEL 20 REQUIREMENT MATERIALS   =====
+
+----Standard L9, Ceramic Nano-Crystal ----
+Cost For Chest Armor:		4200
+Cost For Arm or Leg Armor:	2520
+APL (Armor Piercing Level):	9
+APs (Armor Points):		120
+
+----Standard L10, High Density Ceramic Nano-Crystal ----
+Cost For Chest Armor:		4820
+Cost For Arm or Leg Armor:	2900
+APL (Armor Piercing Level):	10
+APs (Armor Points):		130
+
 
 /*========================================
  * Armour Additions and Helmets
  * These additions may be worn with or added to armour.
  *======================================*/
-    Primary Leg Rig $60
-    +2 primary mag space, not including price for mags.
-
-    Secondary Leg Rig $60
-    +3 secondary mag / 40mm grenade space.
 
     //Tactical and Combat helmets can hold NVGs, lights, radios, etc.
     Kevlar Tactical Helmet $100
@@ -64,13 +205,6 @@
 /*========================================
  * STANDARD BALISTIC ARMOURS
  *======================================*/
-
-Any reinforced armour, the amount of Damage Reduction is rolled at the time of 
-purchase. A Carbon-Steel Fiber Titanium Reinforced armour plate might be 
-anywhere from 26-35 DR for its lifetime, depending on what you roll when you 
-purchase it. These armours are a bit of a gamble, since they may provide 
-better protection than the next tier up, or they might only provide marginally 
-better protection than the last tier.
 ///////////////////////////////////////////////////////////////////////////
 //Undersuits
 //Various undersuits exist, providing buffs to the wearer. Undersuits are
@@ -302,8 +436,8 @@ better protection than the last tier.
  * Once the shield's capacitor units are exhausted, the shield breaks and
  * needs a while to recharge. If the user maintains their shield without
  * letting it break, they can avoid the costly recharge time.
- * The capacity of the field is dependant on the user mainly, but also varries 
- * depending on the shiled model.
+ * The capacity of the field is dependant on the user mainly, but also varies 
+ * depending on the shield model.
  *======================================*/
     Class A, Basic $2500
     Nanites/2 Capacity
@@ -426,3 +560,4 @@ Cloaking DR is 30, uncloaked DR is 15
 //See the License for the specific language governing permissions and
 //limitations under the License.
 //===================================================================
+- 
