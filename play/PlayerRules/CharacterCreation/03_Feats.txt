@@ -11,9 +11,9 @@ Passive Feats
 ====================
 Akimbo:
 Prerequisites: Dex 7, level 6 and Dual Wield feat
-Reduce the miss penalty from dual wielding to 10% each. Reduce the reload 
-penalty to reloading to 10%. You may fire at more than one target at once for 
-an additional 20% to miss penalty.
+Reduce the miss penalty from dual wielding to +1 miss chance per weapon. Reduce the reload 
+penalty for reloading to 10%. You may fire at more than one target at once for 
+an additional +2 miss chance penalty.
 
 Acquired: Additional Plating
 Prerequisites: Marksman, Gunslinger
@@ -43,7 +43,7 @@ Prerequisites: Pilot or "Acquired: With Friends Like These . . ." and Piloting 6
 
 Backstab:
 Prerequisites: Level 3 and higher Assassins and Monks.
-Any damage dealt to an unaware opponent from behind deals Extra-Crit damage.
+Any damage dealt to an unaware opponent from behind deals an additional +20 damage.
 
 Lucky Blind Fire: 
 Prerequisites: Luck 7
@@ -53,7 +53,7 @@ Roll a d10 before any Blind Firing or Hip Firing action. If the roll is from 6 t
 Gain -2 miss chance for that firing action; If the roll is from 1 to 5, nothing happens.
 
 Bulltrue:
-Prerequisites: Must have training in Shotguns
+Prerequisites: Must have Shotgun training
 If an enemy moves from being at least 4m from you to being less than 3m from 
 you and you have a loaded shotgun drawn, you may fire at them as a free 
 action. If the target is bloodied by the attack, they may not make a melee 
@@ -61,25 +61,24 @@ attack against you with their next action.
 
 Combat Expertise [Guns]: 
 Prerequisites:
--15% to miss for weapons use. +5% to melee and -5% to skill checks in combat.
+-1 miss chance with guns. -5% penalty to Skill Checks in combat.
 
 Combat Expertise [Melee]: 
 Prerequisites:
-(Requirement for Expert Melee Training) -15% to miss in melee. +5% to Guns and
--5% to Skill checks in combat.
+(Requirement for Expert Melee Training) 
+-1 miss chance in melee. -5% penalty to Skill Checks in combat.
 
 Combat Expertise [Support]: 
 Prerequisites:
-+15% to skill checks for class-related tasks. (if your class is medicine, this 
-wouldn''t apply to hacking, etc.). +5% chance to miss with Guns or Melee in 
-combat.
++20% bonus to skill checks for class-related tasks in combat. (If you are a medic, this 
+would apply to medicine but it wouldn't apply to hacking, etc.). +1 miss chance
+with Guns or Melee in combat.
 
 Concussive Maintenance:
 Prerequisites: 20 skill in repair or Engineer class. STR 4
-For 1 action, you may whack something broken to try to fix it. +20% to 
-repair check or take an action to smack something that you''ve failed to 
-repair. +20% to repair check. Regardless, you can only use concussive 
-maintenance on a target once per encounter.
++20% to repair skill. For 1 action, you may whack something broken to 
+try to fix it. You can use Concussive Maintenance even after you've already failed
+to repair something. You can use concussive maintenance once per target, per encounter.
 
 Conceal Weapon: 
 Prerequisites:
