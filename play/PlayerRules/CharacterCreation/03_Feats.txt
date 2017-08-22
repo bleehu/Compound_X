@@ -55,9 +55,10 @@ Gain -2 miss chance for that firing action; If the roll is from 1 to 5, nothing 
 Bulltrue:
 Prerequisites: Must have Shotgun training
 If an enemy moves from being at least 4m from you to being less than 3m from 
-you and you have a loaded shotgun drawn, you may fire at them as a free 
-action. If the target is bloodied by the attack, they may not make a melee 
-attack against you with their next action.
+you, and you have a loaded shotgun drawn, you may fire at them as a free 
+action (negate the pump of your shotgun, if one is necessary). If the target 
+is bloodied after the attack, they may not make a melee attack against you with 
+their next action.
 
 Combat Expertise [Guns]: 
 Prerequisites:
@@ -82,9 +83,9 @@ to repair something. You can use concussive maintenance once per target, per enc
 
 Conceal Weapon: 
 Prerequisites:
-Make a stealth check to hide your chosen pistol, shotgun, or smg on your 
-person. Minimum score of 20. Roll determines DC for enemy to actively search 
-and find weapon.
+Make a stealth check to hide your chosen pistol, shotgun, or SMG on your 
+person. To succeed, you need a minimum score of 20. Roll determines DC for 
+enemy to actively search and find your hidden weapon.
 
 Cross-Train:
 Prerequisites: Int 8
@@ -93,26 +94,30 @@ from another class.
 
 Double Tap: 
 Prerequisites:
-Whenever your hit falls into extra-crit range, fire another bullet as a free
-action. The extra bullet does not proc any other effects and cannot be used to
-double tap again. Only usable with Semi-Auto weapons. Not usable with
-SA Revolvers, Bolt Action, Pump-Action, Full-Auto weapons, etc.
+Whenever your hit falls into crit range, with a max crit range of 3*, fire another bullet
+as a free action. The extra bullet does not proc any other effects and cannot be used to
+double tap again. Only usable with Semi-Auto weapons. Not usable with Single-Action Revolvers, 
+Bolt Action, Pump-Action, Full-Auto weapons, etc.
+	*If you have a crit range greater than or equal to 3, only rolls of 8 or more will
+trigger Double Tap. One exception: the max crit range of 3 can be increased to 4 by the 
+feat "Never Tell Me the Odds". If you have a crit range of less than 3, then crit range applies
+as normal. 
 
 Dual Wield:
 Prerequisites: Dex 6
-Maybe you''ve got a bigger corpus callosum and your right brain and left brain
-are in higher sync than most people; or maybe you''ve seen too many John Woo
-holomovies. Either way, you''ve managed to effectively fight using a weapon
+Maybe you've got a bigger corpus callosum and your right brain and left brain
+are in higher sync than most people; or maybe you've seen too many John Woo
+holomovies. Either way, you've managed to effectively fight using a weapon
 in each hand. The weapons must be of the same type, either two pistols, two
 smgs, etc. While wielding dual weapons, you may fire both at the same time
-at the same target with a +30% to miss with both of them. You may not
-target more than one target at a time. Reloading while dual wielding adds
+at the same target with a +3 miss chance for each weapon. You may not target 
+more than one target at a time. Reloading while dual wielding adds
 20% to the difficulty. Additionally the sum of the strength requirements 
 must be equal to or less than your strength.
 
 Empty the Mag: 
 Prerequisites:
-It happens. You aren''t quite sure if you can hit your target perhaps, or 
+It happens. You aren't quite sure if you can hit your target perhaps, or 
 maybe you round that corner and are staring down the barrel of an enemy AR-68.
 Whatever the case, you need to dump the mag in their face to guarantee your 
 safety. Roll to pass a DC 30% dex check. on success, you may fire off the 
