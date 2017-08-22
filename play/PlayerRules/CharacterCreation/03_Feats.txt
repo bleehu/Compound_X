@@ -211,7 +211,7 @@ Prerequisites: 6 PER
 When clearing a room, add 20 to your reflex roll.
 
 Pre-emptive Strike: 
-Prerequisites: 7 Dex
+Prerequisites: 7 DEX
 Whenever you are facing someone you are aware of and they enter into adjacency
 with you, you gain a pre-emptive melee strike against them.
 
@@ -280,7 +280,7 @@ reduced by 1 (or 10% if relevant).
 
 Social Ninja: 
 Prerequisites: 7 CHA
-Unless sneaking past / hiding from an alert enemy, use a Bluff check in place 
+Unless sneaking past / hiding from an alert enemy, use a Bluff/Deceive check in place 
 of a Stealth check.
 
 Strong Back:
@@ -293,18 +293,6 @@ You've done a lot of lifting and hauling in your time, allowing you to carry
 more than some. In addition to two primary weapons, you can carry another 
 secondary weapon.
 
-Suppression: 
-Prerequisites:
-The first time this feat is taken, enemies shot at must pass a Shock DC of 30 
-in order to move or return fire on their turn. Each additional time this feat 
-is taken, you may choose to add one of the following onto your suppression 
-(each may be taken only once)
-    - Add 20% to the Shock save
-    - Opponent Attack DC +20% for 1 turn
-    - Opponent movement reduced by 5m for 1 turn
-    - -20% on a hit against the enemy on your next shot if they move after 
-	suppression.
-
 Tele-Cast
 Prerequisites: Paladin, Sorcerer, Mage.
 You may use a melee weapon to perform touch effect spells.
@@ -313,18 +301,19 @@ Toughness:
 Prerequisites:
 Roll a number of dice equal to your FORT / 5 (round up) + 1 and take the 
 result in extra hit points, or take the average of the result (1d10 = 5, 
-2d10 = 10, can be taken twice).
+2d10 = 10, can be taken twice). If any of your die rolls is a 1 or 2, reroll
+that die.
 
 Upgrade: 
 Prerequisites:
 Roll a number of dice equal to your INT / 5 (round up) + 1 and take the result 
 in extra Nanites, or take the average of the result (1d10 = 5, 2d10 = 10, can 
-be taken twice).
+be taken twice). If any of your die rolls is a 1 or 2, reroll that die.
 
 Unconventional Warfare:
 Prerequisites: Any stat > 9, combat style must primarily use this stat.
 You are trained in the art of combative tossing, or some other obscure 
-fighting technique
+fighting technique.
 
 Unlocked: Boomstick
 Prerequisites: Adept, Gunslinger
@@ -340,21 +329,22 @@ Enables the use of SMGs by the Engineer class.
 
 Unlocked: Small Arms Shipment
 Prerequisites: Marksman, Doctor, Priest
-Enables the use of Carbines and Battle Rifles by the listed classes.
+Enables the use of Carbines by the listed classes.
 
 Unlocked: Welcome to the Front Line
 Prerequisites: Adept, Paladin
 Enables the use of Automatic Rifles by the listed classes.
 
 Very Normal: 
-Prerequisites:
+Prerequisites: 5 CHA
 Any time that someone would be suspicious of your actions, they will be less 
-likely to think twice about what you are doing. Increase your Deceive and 
-Speech skills by 15.
+likely to think twice about what you are doing. Increase your Deceive skill by 15
+and Speech skill by 10.
 
 Ward:
-Prerequisites: Dex 10 or Level 8 or higher assassin / berserker. 
-+20% to armour when your melee weapon is equipped.
+Prerequisites: Dex 10, or Level 8 assassin / berserker. 
++15% armour coverage when your melee weapon is equipped. (If you have no armor
+equiped, this feat grants you AP level 1 protection with 15% coverage)
 
 Wealthy Sponsor: 
 Prerequisites:
