@@ -45,13 +45,6 @@ Backstab:
 Prerequisites: Level 3 and higher Assassins and Monks.
 Any damage dealt to an unaware opponent from behind deals an additional +20 damage.
 
-Lucky Blind Fire: 
-Prerequisites: Luck 7
-There are always so many bullets flying around, you make a habit of not peaking your
-head out and looking at your enemy. And somehow you still hit them (some of the time).
-Roll a d10 before any Blind Firing or Hip Firing action. If the roll is from 6 to 10, 
-Gain -2 miss chance for that firing action; If the roll is from 1 to 5, nothing happens.
-
 Bulltrue:
 Prerequisites: Must have Shotgun training
 If an enemy moves from being at least 4m from you to being less than 3m from 
@@ -87,24 +80,26 @@ Make a stealth check to hide your chosen pistol, shotgun, or SMG on your
 person. To succeed, you need a minimum score of 20. Roll determines DC for 
 enemy to actively search and find your hidden weapon.
 
-Cross-Train:
-Prerequisites: Int 8
-Instead of taking your regular Class feat on the next level, you may learn one 
-from another class.
+NOT USED:
+	Cross-Train:
+	Prerequisites: Int 8
+	Instead of taking your regular Class feat on the next level, you may learn one 
+	from another class.
 
 Double Tap: 
-Prerequisites:
-Whenever your hit falls into crit range, with a max crit range of 3*, fire another bullet
-as a free action. The extra bullet does not proc any other effects and cannot be used to
-double tap again. Only usable with Semi-Auto weapons. Not usable with Single-Action Revolvers, 
-Bolt Action, Pump-Action, Full-Auto weapons, etc.
+Prerequisites: 
+Whenever your hit falls into crit range, with a max crit range of 3*, fire another bullet as a
+free action, foregoing the normal bonus-damage from a crit. The extra bullet automatically hits the 
+target if your first bullet does, does not trigger any other effects, and cannot be used to double tap
+again. Only usable with Semi-Auto weapons. Not usable with Single-Action Revolvers, Bolt Action, Pump-Action, 
+Full-Auto weapons, etc.
 	*If you have a crit range greater than or equal to 3, only rolls of 8 or more will
 trigger Double Tap. One exception: the max crit range of 3 can be increased to 4 by the 
 feat "Never Tell Me the Odds". If you have a crit range of less than 3, then crit range applies
 as normal. 
 
 Dual Wield:
-Prerequisites: Dex 6
+Prerequisites: 6 DEX
 Maybe you've got a bigger corpus callosum and your right brain and left brain
 are in higher sync than most people; or maybe you've seen too many John Woo
 holomovies. Either way, you've managed to effectively fight using a weapon
@@ -115,35 +110,27 @@ more than one target at a time. Reloading while dual wielding adds
 20% to the difficulty. Additionally the sum of the strength requirements 
 must be equal to or less than your strength.
 
-Empty the Mag: 
-Prerequisites:
-It happens. You aren't quite sure if you can hit your target perhaps, or 
-maybe you round that corner and are staring down the barrel of an enemy AR-68.
-Whatever the case, you need to dump the mag in their face to guarantee your 
-safety. Roll to pass a DC 30% dex check. on success, you may fire off the 
-remainder of your clip or magazine (Applies only to semi- and fully-automatic 
-weapons, maximum 10 shots). Roll hits for each shot. Using this feat takes 
-3 actions, and must be completed in the span of one turn. After using 
-this feat, the user must reload their weapon for it to be effective again. 
-Can only be used once per encounter, LVL number of times per day. At level 5 
-and beyond, can be used twice per encounter.
-
 Enhanced Neural Interface: 
-Prerequisites:
-As a free action, you can use any keyboard, terminal or monitor to perform a 
-basic computer inquiry or operation. +10% to ONE pertinent class skill 
-(hacking, etc.) while using this feat, to be chosen at the time of taking 
-this feat.
+Prerequisites: 3 INT, You must be a Cyborg or have a way to interface your mind to electronics
+As a free action (in or out of combat) you can use any keyboard, plug into a 
+terminal, or use a monitor to perform a computer inquiry or operation. 
++15% to ONE pertinent skill check (hacking, etc.) while using this feat,
+to be chosen at the time of taking this feat.
 
 First Shot Counts: 
-Prerequisites:
-When reloading, if you Critically succeed, the first round out of that 
-magazine deals Extra-Crit damage.
+Prerequisites: 6 Luck
+When reloading, if your reload roll is higher than an 80 (including any applicable skills) or
+if you roll inside your crit range, your first shot is an automatic critical + an additional 10 damage,
+for a total of 30 damage and other possible critical effects. (Instead, if you have Double Tap, you get 
++10 damage for each bullet).
+You have to reload a fresh magazine in order to trigger the bonus again. In other words, you cannot use
+First Shot Counts more times in one encounter than the number of fresh magazines you are carrying. If
+your weapon damages an area, First Shot Counts does not take effect.
 
 Focus Energy: 
 Prerequisites:
-Spend 2 Actions to increase the effects of a spell or Nanite based 
-action by 20%, (20% better roll, 20 damage, up to you.)
+Spend 1 Action to increase the effects of a spell or Nanite based 
+action by 30%, (30% better roll, +30% damage [drop the remainder], up to you.)
 
 Four on the Floor:
 Prerequisites: Pilot or 20 skill in piloting
@@ -151,41 +138,49 @@ Tires were meant to be balded. You get a +20 to any difficult maneuver with a
 land vehicle in which you do not catch air. This works with vehicles that have 
 treads or some other method of land support as well.
 
-Gunsmith: 
+Novice Gunsmith: 
 Prerequisites:
 Combine up to 2 weapon total conversions. Ask GM about applicability of 
 desired conversations.
 
 Hands of an artist:
-Prerequisites: Dex 7 or higher
+Prerequisites: 7 DEX or higher
 You use your DEX modifier instead of your PER modifier for rolls to hit with 
 ranged weapons. In taking this feat you sacrifice the ability to use PER on 
 rolls dealing with using a weapon.
 
 Improvise Weapon:
-Prerequisites: Unarmed > 20
+Prerequisites: Melee Combat Skill > 20
 You do not take a penalty when using an improvised weapon. Chair legs can be 
 used as bats, fan blades as swords, etc., etc.
 
 Last Shot Counts: 
-Prerequisites:
-The last shot in every mag deals Extra-Crit damage, but your reload DC is 
-twice as high.
+Prerequisites: 5 PER
+The last shot in every mag deals is an automatic critical + an additional 10 damage,
+for a total of 30 damage. If your weapon has a magazine size of 1 or damages an area,
+Last Shot Counts does not take effect.
 
 Leaf on the wind:
 Prerequisite: Pilot or 40 skill in piloting
 You get a +20% to pilot skill checks in airborne or spaceborne vehicles, and
-an additional +20% o unconventional maneuvers in such as well, but you and
+an additional +20% to unconventional maneuvers in such as well, but you and
 your vehicle take double damage for the next three turns after using these
 bonuses. (any teammates in such a vehicle do not take double damage)
+
+Lucky Blind Fire: 
+Prerequisites: Luck 7
+There are always so many bullets flying around, you make a habit of not peaking your
+head out and looking at your enemy. And somehow you still hit them (some of the time).
+Roll a d10 before any Blind Firing or Hip Firing action. If the roll is from 6 to 10, 
+Gain -2 miss chance for that firing action; If the roll is from 1 to 5, nothing happens.
 
 Kata: 
 Prerequisites: Level 10 or higher
 Whenever you land a successful melee hit against someone, you may roll for X 
-additional attacks, where X is your LVL/2. Each additional attack has 20% 
-lower chance to hit than the previous hit. (A 4th level character making their 
-3rd strike in a row would be rolling at +40% miss chance). This -20% debuff 
-applies to a monk's Shadow Strike as well, increasing the DC by 20 per strike 
+additional attacks, where X is your LVL/2. Each additional attack has an additional
+2 higher miss chance than the previous hit. (A 4th level character making their 
+3rd strike in a row would be rolling at +4 miss chance). This +2 debuff applies 
+to a Monk's Shadow Strike as well, increasing the DC by 20 per strike 
 instead of increasing the strike's miss chance.
 
 Monk:
@@ -193,35 +188,35 @@ Prerequisites: Level 7 or higher
 Able to use full damage for lethal strikes with unarmed.
 
 Nanite Concentration:
-Prerequisites: Level 5
-Allows the user to better concentrate on their expenditure of nanites, 
-allowing them to achieve one of the following:
-    +1 turn of cloaking
-    +20% to an combat-action at a cost of 20 nanites for 1 turn (ask GM before applying to an action. )
+Prerequisites: Level 5, 20 skill in Knowledge[Nanites]
+Allows the user to better concentrate on their expenditure of nanites, allowing them
+to achieve one of the following (you must choose one option when you acquire the feat):
+    +2 turns of cloaking
+    +20% (or +2) to a combat-action at a cost of 20 nanites for 1 turn (ask GM before applying to an action.)
     +20% to a non-combat-action at a cost of 20 nanites for 1 turn (ask GM before applying to an action.)
-    Others, run any ideas by GM.
+    Other, run any ideas by GM.
     
-Nanite Regeneration: 
-Prerequisites:
-For every crit you score, restore your nanites by the amount of crit damage 
-dealt. (10 nanites for standard crit, 20 for ex-crit)
+Nanite Absorbtion: 
+Prerequisites: 10 skill in Knowledge[Nanites]
+Once per turn, if you score a critical hit on a target that has nanites,
+the target loses up to 20 nanites and you gain the amount lost.
 
 Never Tell Me the Odds:
-Prerequisites: None
+Prerequisites: 4 Luck
 Somehow you always aim at the right location, at the right time. 
-+10% Crit chance, +5% Extra-Crit chance.
++1 Critical hit range (i.e., +10% Critical Hit chance).
 
 Point-man: 
-Prerequisites:
-When clearing a room, add 10 to your reflex roll.
+Prerequisites: 6 PER
+When clearing a room, add 20 to your reflex roll.
 
 Pre-emptive Strike: 
-Prerequisites:
-Whenever you are facing someone and they enter into adjacency with you, you 
-gain a pre-emptive melee strike against them.
+Prerequisites: 7 Dex
+Whenever you are facing someone you are aware of and they enter into adjacency
+with you, you gain a pre-emptive melee strike against them.
 
 Quickdraw: 
-Prerequisites:
+Prerequisites: 5 DEX
 As a free action, draw your chosen weapon into firing position. If you are 
 holding something, you can drop it and still draw your weapon as a free 
 action. However, you might not want to drop anything glass. Or any explosives.
@@ -231,42 +226,36 @@ Prerequisites: <3 CHA and >8 INT
 Your character has something going for them. You may ask the GM how many 
 bullets each opponent has left in their weapon.
 
-Run 'N' Gun: 
-Prerequisites: PER > 6, DEX > 6 or Soldier, Specialist classes.
-you may move at half speed while firing. +10% Miss Chance. If this feat is 
-performed while sprinting, half your movement speed before you add the 2m from 
-sprinting. The Miss Chance penalties stack. 
-
 Salty Hashtables
 Prerequisites: Must be a mechanical race
 Your data inputs are sanitized and encrypted, complete with checksums!
-Hacking you is 20% harder and you are aware whenever one of your senses is 
+Hacking you is 25% harder and you are aware whenever one of your senses is 
 malfunctioning.
 
 Salty Space Dog
-Prerequisites:
-You''ve been up in the black more times than you can count. You get a +10% to
-maintaining your bearings during a hyperspace jump as well as a +10% to stellar
+Prerequisites: Pilot or 10 Piloting Skill
+You've been up in the black more times than you can count. You get a +15% to
+maintaining your bearings during a hyperspace jump as well as a +15% to stellar
 navigation.
 
 Shadow Sense:
 Prerequisites: Level 12 or higher Monk with Shadow Walk or Shadow Strike.
-+10% passive armour bonus with Shadow Strike or +20% passive armour bonus with
-Shadow Walk.
++10 Damage-Reduction passive armour bonus with Shadow Strike or +15 DR armour
+bonus with Shadow Walk.
 
 Signature Move: 
 Prerequisites:
-What can you say. When you do what you''re good at, you do it well. Come up 
+What can you say. When you do what you're good at, you do it well. Come up 
 with a Name or Motto for your signature move, and you gain +10% toward this 
 action. HOWEVER, you must shout your Motto or the Name when you perform this 
 move. And hey, keep this move on the DL unless it is absolutely necessary to 
-be used. You wouldn''t want posers to copy it. (Note: this is an RP''d action 
+be used. You wouldn''t want posers to copy it. (Note: this is an RP'd action 
 meant to be performed in CQC, not simply aiming your rifle at their head 
 and squeezing the trigger while shouting "BOOM HEADSHOT!" Please ask for 
 GM permission when using this feat.)
 
 Sixth Sense:  
-Prerequisites:
+Prerequisites: 6 Luck
 You have uncanny knack for reading situations and making accurate decisions 
 based off of gut feelings. Gain a skill, Uncanny Insight at 10, and apply it 
 to situations where you feel like a bit of extra insight might do you or your 
@@ -275,33 +264,34 @@ upgraded by making good decisions based on this skill, rather than by
 upgrading it with skill points.
 
 Sleight of hand: 
-Prerequisites: DEX 6+
+Prerequisites: 6 DEX or 15 Weapon Use[x] Skill
 Negate the pump of a shotgun, cocking of a revolver, or cycling of a bolt when
-performing another action besides the same (or firing).
+performing another action besides the aforementioned (besides firing). (Only applies
+to the weapons you have at least 15 Weapon Use[x] skill in using, unless you meet the
+DEX requirement).
 Reload DCs are 5% lower.
 
 Snap Shot: 
-Prerequisites:
+Prerequisites: 6 PER
 Time slows down slightly around you, or at least your perception is increased 
 allowing you to process everything around you more quickly for a split second. 
-When a target is within half your effective range, your hit DC is decreased 
-by 10%.
+When a target is within half your largest range bracket, your miss chance is 
+reduced by 1 (or 10% if relevant).
 
 Social Ninja: 
-Prerequisites:
+Prerequisites: 7 CHA
 Unless sneaking past / hiding from an alert enemy, use a Bluff check in place 
 of a Stealth check.
 
-Steady Shot: 
-Prerequisites:
-Take 1 Action to breath slowly and line up your shot. -5% miss chance and 
-+10m range each per level taken. Maximum 4 levels.
+Strong Back:
+Prerequisites: 4 STR
+Instead of a secondary weapon, you can carry an additional primary weapon.
 
-Strong Back: 
-Prerequisites: STR 7
-You''ve done a lot of lifting and hauling in your time, allowing you to carry 
-more than some. Instead of a secondary weapon, you can carry another 
-primary weapon.
+Pack Mule: 
+Prerequisites: 7 STR, Strong Back
+You've done a lot of lifting and hauling in your time, allowing you to carry 
+more than some. In addition to two primary weapons, you can carry another 
+secondary weapon.
 
 Suppression: 
 Prerequisites:
@@ -360,19 +350,24 @@ Very Normal:
 Prerequisites:
 Any time that someone would be suspicious of your actions, they will be less 
 likely to think twice about what you are doing. Increase your Deceive and 
-Speech skills by 10.
+Speech skills by 15.
 
 Ward:
-Prerequisites: Dex 10 or Level 8 or higher assassin / berserker. +20% to 
-armour when your melee weapon is equipped.
+Prerequisites: Dex 10 or Level 8 or higher assassin / berserker. 
++20% to armour when your melee weapon is equipped.
 
 Wealthy Sponsor: 
 Prerequisites:
 Gain LUK * Lvl * 750 credits.
 
 Weapon Familiarization (can be taken once): 
-Prerequisites:
-Remove 15% miss chance from any one weapon model.
+Prerequisites: 7 INT & 10 Weapon Use(x) 
+				-where x is the weapon type that the weapon falls under
+Remove 1 ranged miss chance from any one weapon model. If you spend 30 hours
+studying/using/practicing with a different gun (that you have at least 10 
+Weapon Use skill in using), you can change which gun you are most familiar 
+with -- which moves the bonus from the previous gun model, to the one you are
+now working with.
 
 Weapon Skill Trees:					
 Prerequisites: None					
@@ -391,6 +386,7 @@ Proficient: Pistols
 		*If you have feat "Quickdraw" in addition to "Pistol Quickdraw",
 		negate the action to aim when drawing your pistol(s). When holstering
 		your pistols after drawing, you must use an action to holster.
+		
 Proficient: Submachine Guns					
 	Skill @				
 	10:	SMG Proficient. Range +5m			
@@ -500,6 +496,19 @@ Move up to your speed and end next to a barrier behind which you can take
 cover. You hunker behind that cover as a free action. Cannot be used in 
 concert with run 'n' gun.
 
+Empty the Mag: 
+Prerequisites:
+It happens. You aren't quite sure if you can hit your target perhaps, or 
+maybe you round that corner and are staring down the barrel of an enemy AR-68.
+Whatever the case, you need to dump the mag in their face to guarantee your 
+safety. Roll to pass a DC 30% DEX check. on success, you may fire off the 
+remainder of your clip or magazine (Applies only to weapons capable of semi-automatic
+mode, maximum 10 shots). Roll hits for each shot. Using this feat takes 
+3 actions, and must be completed in the span of one turn. After using 
+this feat, the user must reload their weapon for it to be effective again. 
+Can only be used once per encounter, LVL number of times per day. At level 5 
+and beyond, can be used twice per encounter.
+
 Flash Dance: 
 Prerequisites:
 Expend 10*lvl Nanites. Allows the user to make Lvl number of attacks with 
@@ -520,13 +529,28 @@ the number of targets. Or wait 1 action to target Level/2(round up) Targets.
 You may Roll once to determine if you hit all of these targets. If you fail 
 the roll, then you may roll again to hit your first target normally.
 
+Run 'N' Gun [10 Stamina]: 
+Prerequisites: PER > 6 & DEX > 6, or Soldier, or Specialist Classes.
+For 1 Action, you may move at half speed while firing. +1 Miss Chance. 
+If this feat is performed while sprinting, half your movement speed before you add 
+the +1m per-action from sprinting. The Miss Chance penalties stack for consecutive uses 
+of Run 'N' Gun. 
+
+Steady Shot [5 Stamina]: 
+Prerequisites: PER 7
+Take 1 Action to breath slowly and line up your shot. -1 Ranged Miss Chance and 
++10m to the weapon's largest range bracket for each level of Steady Shot taken.
+Miss Chance can go below the -2 minimum range (See section "Combat:" in the basic
+rules document). You must be aiming at the target before you can use this feat. 
+Maximum 4 levels.
+
 Twitch	[10 Nanites]:
 Prerequisites: Level 3, Trained in SMGs or Pistols, Dex > 6
 You may aim at an enemy as a free action instead of one action. Only 
 works with CQB weapons. +15% to miss with the aimed weapon.
 
 Blur	[15 Nanites]:
-Prerequisites: Level 10, Twitch
+Prerequisites: Level 10, Twitch, Dex > 7
 You may aim at an enemy as a free action instead of one action. Only 
 works with CQB weapons. No Miss Chance penalty.
 
