@@ -3,7 +3,7 @@
  * Feats may be taken on every even level as described in the Basic
  * Rules document. Passive feats are used freely with no limit
  * (unless otherwise stated) while active feats require the user to
- * spend a number of nanites, specified next to the feat's name.
+ * spend a number of nanites or stamina, specified next to the feat's name.
  * Unless otherwise specified, you cannot take a feat more than once.
  *======================================*/
 ====================
@@ -11,8 +11,8 @@ Passive Feats
 ====================
 Akimbo:
 Prerequisites: Dex 7, level 6 and Dual Wield feat
-Reduce the miss penalty from dual wielding to +1 miss chance per weapon. Reduce the reload 
-penalty for reloading to 10%. You may fire at more than one target at once for 
+Reduce the miss penalty from dual wielding to +1 miss chance per weapon. Reduce
+the reload penalty to 10%. You may fire at more than one target at once for 
 an additional +2 miss chance penalty.
 
 Acquired: Additional Plating
@@ -42,7 +42,7 @@ Acquired: . . . Who Needs Nano-Technologies?
 Prerequisites: Pilot or "Acquired: With Friends Like These . . ." and Piloting 60
 
 Backstab:
-Prerequisites: Level 3 and higher Assassins and Monks.
+Prerequisites: Level 3 and Assassin or Monk.
 Any damage dealt to an unaware opponent from behind deals an additional +20 damage.
 
 Bulltrue:
@@ -134,7 +134,7 @@ action by 30%, (30% better roll, +30% damage [drop the remainder], up to you.)
 
 Four on the Floor:
 Prerequisites: Pilot or 20 skill in piloting
-Tires were meant to be balded. You get a +20 to any difficult maneuver with a 
+Tires were meant to be balded. You get a +25 to any difficult maneuver with a 
 land vehicle in which you do not catch air. This works with vehicles that have 
 treads or some other method of land support as well.
 
@@ -173,15 +173,6 @@ There are always so many bullets flying around, you make a habit of not peaking 
 head out and looking at your enemy. And somehow you still hit them (some of the time).
 Roll a d10 before any Blind Firing or Hip Firing action. If the roll is from 6 to 10, 
 Gain -2 miss chance for that firing action; If the roll is from 1 to 5, nothing happens.
-
-Kata: 
-Prerequisites: Level 10 or higher
-Whenever you land a successful melee hit against someone, you may roll for X 
-additional attacks, where X is your LVL/2. Each additional attack has an additional
-2 higher miss chance than the previous hit. (A 4th level character making their 
-3rd strike in a row would be rolling at +4 miss chance). This +2 debuff applies 
-to a Monk's Shadow Strike as well, increasing the DC by 20 per strike 
-instead of increasing the strike's miss chance.
 
 Monk:
 Prerequisites: Level 7 or higher
@@ -302,13 +293,13 @@ Prerequisites:
 Roll a number of dice equal to your FORT / 5 (round up) + 1 and take the 
 result in extra hit points, or take the average of the result (1d10 = 5, 
 2d10 = 10, can be taken twice). If any of your die rolls is a 1 or 2, reroll
-that die.
+the die.
 
 Upgrade: 
 Prerequisites:
 Roll a number of dice equal to your INT / 5 (round up) + 1 and take the result 
 in extra Nanites, or take the average of the result (1d10 = 5, 2d10 = 10, can 
-be taken twice). If any of your die rolls is a 1 or 2, reroll that die.
+be taken twice). If any of your die rolls is a 1 or 2, reroll the die.
 
 Unconventional Warfare:
 Prerequisites: Any stat > 9, combat style must primarily use this stat.
@@ -342,13 +333,16 @@ likely to think twice about what you are doing. Increase your Deceive skill by 1
 and Speech skill by 10.
 
 Ward:
-Prerequisites: Dex 10, or Level 8 assassin / berserker. 
-+15% armour coverage when your melee weapon is equipped. (If you have no armor
-equiped, this feat grants you AP level 1 protection with 15% coverage)
+Prerequisites: 10 DEX, or Level 8 assassin / berserker. 
++15% armour coverage when your melee weapon is equipped in your hands. 
+(If you have no armor equiped, this feat grants you AP level 1 protection
+with 15% coverage)
 
-Wealthy Sponsor: 
-Prerequisites:
-Gain LUK * Lvl * 750 credits.
+Investor: 
+Prerequisites: 5 LUK, 5 INT, Level 5
+You like to do a little investing in your free time. This feat can only
+be taken once. Investor can be used twice, but only once every 5 levels.
+(Roll a d10 + Luck level) x 125. Gain this value in credits.
 
 Weapon Familiarization (can be taken once): 
 Prerequisites: 7 INT & 10 Weapon Use(x) 
@@ -366,11 +360,11 @@ apply skill points to unlock the rest of the bonuses. Max skill is 40)
 (Bonuses ONLY APPLY to weapons in their respective weapon class)					
 Proficient: Pistols					
 	Skill @				
-	10:	Pistol Proficient. Range +10m			
+	10:	Pistol Proficient. +5m ranges R1 & R2			
 	15:	-10% reload miss chance			
 	20:	+10% stealth when firing pistols			
-	25:	Pistol Expert. -5% miss chance @ all ranges			
-	30:	+5% Reflex when room clearing				
+	25:	Pistol Expert. -0.5 miss chance @ all ranges			
+	30:	+10m to range R3				
 	40:	Pistol Master. +20% damage; Gain feat "Pistol Quickdraw"
 		(which is feat "quickdraw"  that is only usable with pistols)			
 		*If you have feat "Quickdraw" in addition to "Pistol Quickdraw",
@@ -379,63 +373,65 @@ Proficient: Pistols
 		
 Proficient: Submachine Guns					
 	Skill @				
-	10:	SMG Proficient. Range +5m			
+	10:	SMG Proficient. +5m to all range brackets		
 	15:	-10% reload miss chance			
-	20:	+5% Reflex when room clearing		
-	25:	SMG Expert. -5% miss chance @ all ranges			
-	30:	-5% miss chance when firing in fully-automatic; -3% in burst			
+	20:	+5 Gun Reflex		
+	25:	SMG Expert. -0.5 miss chance @ all ranges			
+	30:	-0.5 miss chance when firing in fully-automatic or burst			
 	40:	SMG Master. +10% damage; Gain feat "The Split": when firing automatic 
 		or burst, you can choose to pay 15 Nanites and fire half your bullets
 		at two different targets in front of you, within 10m of each other.
 					
 Proficient: Shotguns					
 	Skill @				
-	10:	Shotgun Proficient. Range +10m		
+	10:	Shotgun Proficient. +10m to range R3	
 	15:	-15% reload miss chance			
-	20:	+5% Reflex when room clearing			
-	25:	Shotgun Expert. -5% miss chance @ all ranges			
+	20:	+5 Gun Reflex				
+	25:	Shotgun Expert. -0.5 miss chance @ all ranges			
 	30:	+10% perception checks for awareness within 25m.			
-	40:	Shotgun Master. +10% damage; Gain Active feat "Combat Rush": If you 
-		are aware of an enemy within 10m at any time during your turn, pay 
-		20 Nanites to gain 1 free move action for that turn, once per turn.			
+	40:	Shotgun Master. +10% damage; Gain Active feat "I'm Used to Close Range": If you 
+		hit an enemy with buckshot, you can pay 10 Stamina for that attack action to miss
+		or hit armor (your choice) if the target has less than 100% armor coverage.			
 					
 Proficient: Carbines					
 	Skill @				
-	10:	Carbine Proficient. Range +10m			
+	10:	Carbine Proficient. +5m to range R1, +10m to R2 & R3		
 	15:	-10% reload miss chance			
-	20:	+5% Reflex when room clearing			
-	25:	Carbine Expert. -5% miss chance @ all ranges			
-	30:	+5% chance to miss armor when in single fire mode (doesn't apply to 100% coverage armor)			
+	20:	+5 Gun Reflex		
+	25:	Carbine Expert. -0.5 miss chance @ all ranges			
+	30:	You can choose to have +5% chance to miss armor when in single fire mode (doesn't apply to 100% coverage armor)			
 	40:	Carbine Master. +10% damage; Gain feat "Make it count": When in single
-		fire mode, +10% chance to Crit, +5% chance to Extra Crit.
+		fire mode, +1 crit range (+10% chance to Crit).
 			
 Proficient: Automatic Rifles					
 	Skill @				
-	10:	Automatic Rifle Proficient. Range +10m			
+	10:	Automatic Rifle Proficient. +5m to range R1, +10m to R2 & R3 
 	15:	-10% reload miss chance			
 	20:	Automatic Rifles no longer jam			
-	25:	Automatic Rifle Expert. -5% miss chance @ all ranges			
-	30:	-5% miss chance when firing in fully-automatic; -3% in burst			
-	40:	Automatic Rifle Master. +10% damage; Gain feat "Offensive Expert": 
-		-20% miss chance for a fully-automatic firing action, once per turn.			
+	25:	Automatic Rifle Expert. -0.5 miss chance @ all ranges			
+	30:	-0.5 miss chance when firing in fully-automatic or burst			
+	40:	Automatic Rifle Master. +10% damage; Gain feat "Offensive Expert": Spend
+		10 stamina to gain -2 miss chance for a fully-automatic firing action, 
+		usable once per turn. This ability can let you exceed the minimum 1 miss
+		chance for automatic firing.
 					
 Proficient: Long Rifles					
 	Skill @				
-	10:	Long Rifle Proficient. -5m to minimum range, Range +10% meters			
+	10:	Long Rifle Proficient. -5m to minimum range, +10% meters to R2 & R3		
 	15:	-10% reload miss chance			
-	20:	+10% to perception checks to spot enemies outside of your weapon's minimum range.			
-	25:	Long Rifle Expert. -5% miss chance @ all ranges			
-	30:	Gain feat "Beware the Wrath of a Patient Man": shots fired as a held reaction have a -15% miss chance.			
+	20:	+10% to perception checks to spot enemies outside within your weapon's R2 & R3 ranges			
+	25:	Long Rifle Expert. -0.5 miss chance @ all ranges			
+	30:	Gain feat "Beware the Wrath of a Patient Man": shots fired as a held reaction have a -1 miss chance.			
 	40:	Long Rifle Master. +10% damage; Gain feat "Practiced Precision": DC 75% dexterity or sniper skill
 		check to negate the action for changing your aim from one target to another in front of you 
 		(1 successful negation per turn).			
 					
 Proficient: Heavy Weapons					
 	Skill @				
-	10:	Heavy Weapon Proficient. Range +5m		
+	10:	Heavy Weapon Proficient. +5m to range R2 & R3	
 	15:	-10% reload miss chance			
 	20:	+1m radius to your Suppression Area of Effect			
-	25:	Heavy Weapon Expert. -5% miss chance @ all ranges			
+	25:	Heavy Weapon Expert. -0.5 miss chance @ all ranges			
 	30:	Heavy Weapons no longer jam			
 	40:	Heavy Weapon Master. +10% damage; Gain feat "Effective Fire": when a
 		target is suppressed by your heavy weapon, they must make a DC 62% 
@@ -446,8 +442,8 @@ Proficient: Explosives
 	Skill @				
 	10:	Explosives Proficient. +10% explosives use			
 	15:	-10% reload miss chance (grenade launchers, rocket launchers, etc.)			
-	20:	Range +5m for explosive launchers (grenade launchers, etc.)			
-	25:	Explosives Expert. -5% miss chance (grenades, rocket launchers, etc.)			
+	20:	+5m to all range brackets for explosive launchers (grenade launchers, etc.)			
+	25:	Explosives Expert. -0.5 miss chance @ all ranges (grenades, rocket launchers, etc.)			
 	30:	+10% to charisma rolls for intimidation when holding any explosive/launcher			
 	40:	Explosives Master. +15% damage, Gain feat "Get Down!": Allies in blast radius 
 		may make a DC 60 Reflex save to take half damage (before armor) from friendly fire.			
@@ -456,35 +452,35 @@ Proficient: Explosives
 Active Feats
 ====================
 
-Adrenaline Rush [20* X]: 
+Adrenaline Rush [4*X stamina]: 
 Prerequisites:
-Run double your movement distance for X # of turns.
+During a move action, +1 movement speed per X, for that action only.
 
-Aimed Shot [10 Nanites]: 
-Prerequisites:
-Add an action to your normal Shooting time. During this time you concentrate 
-on your target in order to deal crit damage on your next shot. This is akin to 
-seeing a chink in armour and aiming for it, or shooting a target''s arm so 
-they cannot use their weapon, etc.
+Assisted Shot [10 Nanites]: 
+Prerequisites: 6 PER
+Use nanites during an aim action to help you carefully aim at the target. 
+Automatically critical hit on your next shot. This is akin to seeing a chink 
+in armour and aiming for it, or shooting a target's arm so they cannot use their
+weapon, etc.
 
-Bunker:
+Bunker [25 Nanites]:
 Prerequisites: High-Technology class (Monk, Paladin, Adept, Priest) or 
-Knowledge [Nanites] > 40
-Expend 25 Nanites, gain 25% to a piece of cover for 4 turns
+	Knowledge [Nanites] > 40
+Add +3 miss chance to a piece of cover for 4 turns
 
-Combat Roll [40 Nanites]:
+Combat Roll [30 Stamina]:
 Prerequisites: Dex of 5 or more
-Move 6m in one action, no more, no less. Enemies attacking you take a +20% 
-to miss when attacking you for the turn after you use this feat, and you take a 
-+15% to miss for the action after using this feat ends. If this malus would 
-not run out until after this turn, it's effect wraps around to the beginning of 
-your next turn. Cannot be used in concert with run n gun.
+Move 6m in one action, no more, no less. Enemies attacking you have a +2 miss chance 
+when attacking you during the roll and for the turn after you use this feat, and you
+have a +2 miss chance for the action after this feat ends. If this malus would 
+not run out until after this turn, its effect wraps around to the beginning of 
+your next turn. Cannot be used in concert with Run 'N' Gun.
 
-Cover Slide [20 Nanites]:
+Cover Slide [15 Stamina]:
 Prerequisites: Dex of 4 or more
 Move up to your speed and end next to a barrier behind which you can take 
-cover. You hunker behind that cover as a free action. Cannot be used in 
-concert with run 'n' gun.
+cover. You hunker or go prone behind that cover as a free action. Cannot 
+be used in concert with Run 'N' Gun.
 
 Empty the Mag: 
 Prerequisites:
@@ -492,30 +488,38 @@ It happens. You aren't quite sure if you can hit your target perhaps, or
 maybe you round that corner and are staring down the barrel of an enemy AR-68.
 Whatever the case, you need to dump the mag in their face to guarantee your 
 safety. Roll to pass a DC 30% DEX check. on success, you may fire off the 
-remainder of your clip or magazine (Applies only to weapons capable of semi-automatic
+remainder of your clip or magazine (Applies only to weapons with a semi-automatic
 mode, maximum 10 shots). Roll hits for each shot. Using this feat takes 
 3 actions, and must be completed in the span of one turn. After using 
 this feat, the user must reload their weapon for it to be effective again. 
 Can only be used once per encounter, LVL number of times per day. At level 5 
 and beyond, can be used twice per encounter.
 
-Flash Dance: 
+Flash Dance [10*lvl Nanites]: 
 Prerequisites:
-Expend 10*lvl Nanites. Allows the user to make Lvl number of attacks with 
-their melee weapon within a 5m space, rolling for each strike. All bonuses 
-that would normally apply to a standard attack still apply.
+Allows the user to make Lvl number of attacks with their melee weapon within
+a 5m space, rolling for each strike. All bonuses that would normally apply to
+a standard attack still apply.
 
-Gun Kata [30 Nanites / Turn]: 
+Gun Kata [30 Nanites]: 
 Prerequisites: Level 10 or higher
-For up to 3rds, reduce weapon range to 15m, reduce Miss Chance by 50%. Treat 
-any weapon as if it were a CQB weapon. After a successful strike, you may roll 
-for an additional strike during the same action on any target within the 15m 
-range.
+For 1 Action, reduce weapon range to 15m and reduce Miss Chance by 5. Treat 
+any weapon as if it were a CQB weapon. After a successful hit, you may roll 
+for an additional hit on any target within the 15m range, for up to 3 rounds
+fired. If you miss a shot, your Gun Kata ends.
 
-Multi-Target [ X*40 Nanites]: 
+Kata [Minimum 5 Stamina]: 
+Prerequisites: Level 10 or higher
+Whenever you land a successful melee hit against someone, you may roll for X 
+additional attacks, where X is your (stamina spent)/5. Each additional attack has an additional
+2 miss chance. (A 10th level character making their 3rd strike in a row would be 
+rolling at +4 miss chance). This +2 debuff applies to a Monk's Shadow Strike as well,
+increasing the DC by 20 per strike instead of increasing the strike's miss chance.
+
+Multi-Target [X*30 Nanites]: 
 Prerequisites:
-Take 2 actions to concentrate on up to Level +1 number of targets, where X is 
-the number of targets. Or wait 1 action to target Level/2(round up) Targets. 
+For 2 actions, concentrate on up to Level +1 number of targets, where X is 
+the number of targets. Or concentrate 1 action to target Level/2(round up) Targets. 
 You may Roll once to determine if you hit all of these targets. If you fail 
 the roll, then you may roll again to hit your first target normally.
 
