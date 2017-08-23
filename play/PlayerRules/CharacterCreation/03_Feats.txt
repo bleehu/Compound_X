@@ -3,7 +3,7 @@
  * Feats may be taken on every even level as described in the Basic
  * Rules document. Passive feats are used freely with no limit
  * (unless otherwise stated) while active feats require the user to
- * spend a number of stamina, specified next to the feat's name.
+ * spend some stamina, which is specified next to the feat's name.
  * Unless otherwise specified, you cannot take a feat more than once.
  *======================================*/
 ====================
@@ -183,8 +183,8 @@ Prerequisites: Level 5, 20 skill in Knowledge[Nanites]
 Allows the user to better concentrate on their expenditure of nanites, allowing them
 to achieve one of the following (you must choose one option when you acquire the feat):
     +2 turns of cloaking
-    +20% (or +2) to a combat-action at a cost of 20 nanites for 1 turn (ask GM before applying to an action.)
-    +20% to a non-combat-action at a cost of 20 nanites for 1 turn (ask GM before applying to an action.)
+    Once per turn, +20% (or +2) to a magic-combat-action at a cost of 20 nanites (ask GM before applying to an action.)
+    Once per turn, +20% to a non-combat-action at a cost of 20 nanites (ask GM before applying to an action.)
     Other, run any ideas by GM.
     
 Nanite Absorbtion: 
@@ -379,7 +379,7 @@ Proficient: Submachine Guns
 	25:	SMG Expert. -0.5 miss chance @ all ranges			
 	30:	-0.5 miss chance when firing in fully-automatic or burst			
 	40:	SMG Master. +10% damage; Gain feat "The Split": when firing automatic 
-		or burst, you can choose to pay 15 Nanites and fire half your bullets
+		or burst, you can choose to pay 5 Stamina and fire half your bullets
 		at two different targets in front of you, within 10m of each other.
 					
 Proficient: Shotguns					
