@@ -179,69 +179,225 @@ Minimum Strength 2, Reload DC 20 unless otherwise noted. With DEX less than 5,
 Single Action revolvers must be re-cocked for 1 action. Reload time 2 Actions.
 ============================================================
 
-ECSC Mk9 Auto $460 / $5
-30 m
-25%
-11 rds, 9mm Magazine; FMJ / HP
-41
+=====	LEVEL 1 REQUIREMENT WEAPONS	=====
 
-Matthews Model 19 $322 / $3
-20 m
-30%
-6 rds, .357; FMJ / HP
-46
-Reload 23%
-Single Action Revolver: cannot be fired as a free action.
+----Matthews Model 19 Snub	$269
+Single Action Revolver
+Damage: 50 Ballistic
+Ranged Miss Chance:
+	5 out to 5m
+	6 out to 10m
+	7 out to 15m
+Mag size: 6 rounds of 9.3x26mm. $5 per mag
+Reload DC:			45
+Fire modes:			Semi
+Move Speed Penalty:		0
+AP Level:			0
+Reflex Modifier: 		+25%
+Suppression Level:		Light
 
-ECSC Mk26 Auto $490 / $6
-35 m
-35%
-15 rds, .40 Magazine; FMJ / CS
-43
+----G&W 10mm Auto		$691
+Damage: 50 Ballistic
+Ranged Miss Chance:
+	4 out to 5m
+	5 out to 10m
+	6 out to 20m
+Mag size: 11 rounds of 10.0x23mm. $12 per mag
+Reload DC:			25
+Fire modes:			Semi
+Move Speed Penalty:		0
+AP Level:			0
+Reflex Modifier: 		+20%
+Suppression Level:		Light
 
-Matthews Model 25 $490 / $3
-30 m
-30%
-6 rds, .45 Long; FMJ / AP
-47
-Reload 23%
-Single Action Revolver: cannot be fired as a free action.
+----Matthews Model 25		$269
+Single Action Revolver
+Damage: 60 Ballistic
+Ranged Miss Chance:
+	4 out to 5m
+	5 out to 15m
+	6 out to 25m
+Mag size: 6 rounds of 11x35mm. $6 per mag
+Reload DC:			45
+Fire modes:			Semi
+Move Speed Penalty:		0
+AP Level:			1
+Reflex Modifier: 		+15%
+Suppression Level:		Light
 
-G&W 10mm Auto $500 / $7
-35 m
-35%
-15 rds, 10mm Magazine; CS
-44
+----Matthews Model 19 Snub	$269
+Damage: 50 Plasma + 1x Plasma Burn
+Ranged Miss Chance:
+	4 out to 5m
+	5 out to 15m
+	7 out to 25m
+Mag size: 9 units of Argon-8. $16 per mag
+Reload DC:			35
+Fire modes:			Semi
+Move Speed Penalty:		0
+AP Level:			0
+Reflex Modifier: 		+20%
+Suppression Level:		Light
 
-Anvil Arms P-08 Phantom $570 / $7
-40m
-35%
-15rds, 10mm Magazine; FMJ / HP
-44
+=====	LEVEL 5 REQUIREMENT WEAPONS	=====
 
-Anvil Armament P-45 $611 / $6
-40 m
-35%
-12 rds, .45 Auto; FMJ / HP
-47
+----ECSC Mk8 Auto		$614
+Damage: 45 Ballistic
+Ranged Miss Chance:
+	4 out to 5m
+	5 out to 10m
+	6 out to 15m
+Mag size: 15 rounds of 8.0x20mm. $15 per mag
+Reload DC:			25
+Fire modes:			Semi
+Move Speed Penalty:		0
+AP Level:			1
+Reflex Modifier: 		+20
+Suppression Level:		Light
 
-Matthews Model 24 $910 / $3
-50 m
-30%
-6 rds, .44 Magnum; FMJ / HP / AP
-52
-Reload 23%
-Single Action Revolver: cannot be fired as a free action.
+----Anvil Armamanet P-45	$710
+Damage: 55 Ballistic
+Ranged Miss Chance:
+	4 out to 5m
+	5 out to 10m
+	6 out to 20m
+Mag size: 8 rounds of . $10 per mag
+Reload DC:			25
+Fire modes:			Semi
+Move Speed Penalty:		0
+AP Level:			0
+Reflex Modifier: 		+20
+Suppression Level:		Light
 
-Frontier Plas-8 $1320 / $7
-45 m
-30%
-8 rds, Argon-8; LO-SV / HO-SV / LO-HV
-55
-2 turns plasma burn
-HO-SV treated like HP
-LO-HV treated like AP
-Reload 28%
+----Anvil Armamament R15	$887
+Single-Action Revolver
+Damage: 80 Ballistic
+Ranged Miss Chance:
+	4 out to 5m
+	5 out to 20m
+	6 out to 30m
+Mag size: 5 rounds of . $7 per mag
+Reload DC:			45
+Fire modes:			Semi
+Move Speed Penalty:		0
+AP Level:			2
+Reflex Modifier: 		+15
+Suppression Level:		Light
+
+----Frontier PL30		$1427
+Damage: 60 Plasma + 1x Plasma Burn
+Ranged Miss Chance:
+	4 out to 5m
+	5 out to 20m
+	7 out to 30m
+Mag size: 12 units of Argon-8. $23 per mag
+Reload DC:			35
+Fire modes:			Semi
+Move Speed Penalty:		0
+AP Level:			0
+Reflex Modifier: 		+20
+Suppression Level:		Light
+
+----Frontier Plas-8		$1718
+Damage: 70 Plasma + 1x Plasma Burn
+Ranged Miss Chance:
+	3 out to 5m
+	5 out to 20m
+	6 out to 25m
+Mag size: 8 units of Argon-8. $18 per mag
+Reload DC:			35
+Fire modes:			Semi
+Move Speed Penalty:		0
+AP Level:			1
+Reflex Modifier: 		+20
+Suppression Level:		Light
+
+----Flexcorp LL35 Laser Pistol	$1742
+Damage: 40 Laser
+Ranged Miss Chance:
+	3 out to 10m
+	4 out to 20m
+	5 out to 30m
+Mag size: 16 charges of 5kWh. $25 per mag
+Reload DC:			30
+Fire modes:			Semi
+Move Speed Penalty:		0
+AP Level:			N/A
+Reflex Modifier: 		+20
+Suppression Level:		Light
+
+=====	LEVEL 10 REQUIREMENT WEAPONS	=====
+
+----RMM Auto 6			$1173
+Damage: 75 Basllistic
+Ranged Miss Chance:
+	4 out to 5m
+	5 out to 20m
+	6 out to 25m
+Mag size: 6 rounds of 13.0x33mm. $10 per mag
+Reload DC:			25
+Fire modes:			Semi
+Move Speed Penalty:		0
+AP Level:			1
+Reflex Modifier: 		+
+Suppression Level:		Light
+
+----Matthews Model 738		$1196
+Single Action Revolver
+Damage: 65 Ballistic + 1x Bleed
+Ranged Miss Chance:
+	3 out to 5m
+	4 out to 25m
+	5 out to 30m
+Mag size: 7 rounds of 7.38x50mm. $9 per mag
+Reload DC:			45
+Fire modes:			Semi
+Move Speed Penalty:		0
+AP Level:			3
+Reflex Modifier: 		+
+Suppression Level:		Light
+
+----Frontier Lz50 Laser Pistol	$1775
+Damage: 50 Laser
+Ranged Miss Chance:
+	4 out to 10m
+	5 out to 25m
+	5 out to 30m
+Mag size: 14 charges of 5kWh. $27 per mag
+Reload DC:			30
+Fire modes:			Semi
+Move Speed Penalty:		0
+AP Level:			N/A
+Reflex Modifier: 		+
+Suppression Level:		Light
+
+----Partix 50L Laser Hand-Cannon	$2083
+Damage: 70 Laser
+Ranged Miss Chance:
+	4 out to 10m
+	5 out to 20m
+	6 out to 25m
+Mag size: 8 charges of 10kWh. $21 per mag
+Reload DC:			30
+Fire modes:			Semi
+Move Speed Penalty:		0
+AP Level:			N/A
+Reflex Modifier: 		+
+Suppression Level:		Light
+
+----Partix Plas-Disc Launcher MIX5	$2506
+Damage: 75 Plasma + 1x Plasma Burn
+Ranged Miss Chance:
+	3 out to 10m
+	5 out to 25m
+	6 out to 30m
+Mag size: 10 units of Neon-15. $25 per mag
+Reload DC:			35
+Fire modes:			Semi
+Move Speed Penalty:		0
+AP Level:			2
+Reflex Modifier: 		+
+Suppression Level:		Light
 
 ============================================================
 Sub-Machine Guns:
