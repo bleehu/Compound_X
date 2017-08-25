@@ -93,6 +93,8 @@ Hard Point space.
 and install a Secondary Module(s) that augments the benefits of the Primary Module. The 
 benefits are listed in the description of a given module. They do not mix and match,
 Secondary Modules only work for the Primary Module they are designed for.
+	Some modules have a "____ Skill Requirement". In order to operate the module, you
+must have the required amount of the given skill.
 
     =====================================
 	  STANDARD BALLISTIC ARMOURS
@@ -330,8 +332,47 @@ Secondary Module Benefit: -12 Stamina Activation Cost,
 
 	=====   LEVEL 1 REQUIREMENT   =====
 	
+	---- Explosives Carrier ----
+Primary Module Cost:	375
+Explosives Skill Req:	10
+Prim Module Hard Pts: 	1
+Description:     	Only attaches to chest and leg 
+hardpoints. Carries 3 additional rockets/explosives for
+chest Hard Points; only 2 additional for leg Hard Points.
+
+Secondary Module Cost:	n/a
+Sec Module Hard Pts:	n/a
+
+---- MoS Mobility (Grapple) System ----
+Primary Module Cost:	1875
+Athletics Skill Req:	15
+Prim Module Hard Pts: 	1
+Description:     	*Only useable on arm or chest Hard
+Points. 1 Action to fire a grapple. Grapples to any hard &
+smooth surface within 10m. 2 built in ropes (reloadable). 
+You can scale the rope at 3 meters per action as a free action, 
+but scaling uses an arm if mounted on an arm hardpoint. Very 
+slight motor noise to move on a grapple line. 
+
+Secondary Module Cost:	n/a
+Sec Module Hard Pts:	n/a
 	
 	=====   LEVEL 5 REQUIREMENT   =====
+	
+---- Class M Point Defense System ----
+Primary Module Cost:	1500
+Electronics Skill Req:	10
+Prim Module Hard Pts: 	1
+Stamina Activate Cost:	10
+Description:     	40% chance to hit, as an immediate reaction
+to a fast-moving enemy explosive that comes within your line of 
+sight and within a 5 meter radius of you, you can roll to eliminate
+one grenade, once per (your) turn.
+
+Secondary Module Cost:	1125
+Sec Module Hard Pts:	1
+Secondary Module Benefit: +60% chance to hit (max 100%),
++3 meter radius, +5 stamina cost, per secondary module.
 	
 /*========================================
  * Armour Additions and Helmets
