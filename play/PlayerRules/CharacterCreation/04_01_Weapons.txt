@@ -845,6 +845,131 @@ Armor Piercing Level:	n/a
 Reflex Modifier:	-5	
 Suppression Level:	Medium
 
+
+============================================================
+Machine Guns:
+Strength required ? unless otherwise stated.
+? actions to reload unless otherwise stated.
+============================================================
+
+===== Level 1 Weapons =====
+
+----ECSC Mk15R2	$2197	----
+Damage:	80 Ballistic	
+Ranged Miss Chance:		
+	3 out to 15m	
+	4 out to 45m	
+	5 out to 90m	
+Auto Miss Chance:	+3,  -1 for every 6 Strength	
+Mag Size:		60 rounds of 5.00x38mm. $36 per magazine
+Reload DC:		40
+Fire Modes:		Auto
+Auto Fire Rate: 	6	
+Armor Piercing Level:	1	
+Reflex Modifier:	-15	
+Suppression Level:	Heavy	
+Movement Speed Penalty:	-2m	
+		
+----Anvil Arms KMR4	$2854	----
+Damage:	95 Ballistic	
+Ranged Miss Chance:		
+	3 out to 15m	
+	4 out to 40m	
+	5 out to 85m	
+Auto Miss Chance:	+5,  -1 for every 3 Strength (starting at 5)	
+Mag Size:		80 rounds of 7.65x45mm. $57 per magazine
+Reload DC:		40
+Fire Modes:		Semi, Auto
+Auto Fire Rate: 	6	
+Armor Piercing Level:	2	
+Reflex Modifier:	-20	
+Suppression Level:	Heavy	
+Movement Speed Penalty:	-2.5m	
+
+===== Level 5 Weapons =====
+
+----ECSC Mk249 	$2555	----
+Damage:	85 Ballistic	
+Ranged Miss Chance:		
+	3 out to 15m	
+	4 out to 50m	
+	5 out to 90m	
+Auto Miss Chance:	+3,  -1 for every 6 Strength	
+Mag Size:		100 rounds of 5.00x45mm. $59 per magazine
+Reload DC:		40
+Fire Modes:		Auto
+Auto Fire Rate: 	7	
+Armor Piercing Level:	3	
+Reflex Modifier:	-20	
+Suppression Level:	Heavy	
+Movement Speed Penalty:	-2m	
+		
+----Frontier LMG-P8	$3543	----
+Damage:	100 Plasma + 1x PLasma Burn
+Ranged Miss Chance:		
+	2 out to 15m	
+	4 out to 45m	
+	5 out to 80m	
+Auto Miss Chance:	+3,  -1 for every 6 Strength	
+Mag Size:		40 units of Argon-8. $40 per magazine
+Reload DC:		40
+Fire Modes:		Auto
+Auto Fire Rate: 	6	
+Armor Piercing Level:	4	
+Reflex Modifier:	-30	
+Suppression Level:	Heavy	
+Movement Speed Penalty:	-2m
+		
+----Matthews Model 240-B 	$4450	----
+Damage:	105 Ballistic	
+Ranged Miss Chance:		
+	2 out to 15m	
+	3 out to 50m	
+	4 out to 90m	
+Auto Miss Chance:	+6,  -1 for every 3 Strength (starting at 5)	
+Mag Size:		80 rounds of 7.65x51mm. $58 per magazine
+Reload DC:		30
+Fire Modes:		Auto
+Auto Fire Rate: 	6	
+Armor Piercing Level:	4	
+Reflex Modifier:	-30	
+Suppression Level:	Heavy	
+Movement Speed Penalty:	-2.5m
+
+===== Level 10 Weapons =====
+
+----Partix Laser LMA210	$5111	----
+Damage:	75 Laser	
+Ranged Miss Chance:		
+	2 out to 15m	
+	3 out to 70m	
+	3 out to 95m	
+Auto Miss Chance:	+5,  -1 for every 4 Strength	
+Mag Size:		60 charges of 50kWh. $55 per magazine
+Reload DC:		35
+Fire Modes:		Semi, Auto
+Auto Fire Rate: 	6	
+Armor Piercing Level:	n/a	
+Reflex Modifier:	-30	
+Suppression Level:	Heavy	
+Movement Speed Penalty:	-2.5m	
+		
+----Frontier LMG-P10	$6132	----
+Damage:	120 Plasma + 1x PLasma Burn	
+Ranged Miss Chance:		
+	2 out to 15m	
+	3 out to 55m	
+	5 out to 90m	
+Auto Miss Chance:	+3,  -1 for every 6 Strength	
+Mag Size:		50 units of Argon-8. $59 per magazine
+Reload DC:		40
+Fire Modes:		Auto
+Auto Fire Rate: 	6	
+Armor Piercing Level:	5	
+Reflex Modifier:	-30	
+Suppression Level:	Heavy	
+Movement Speed Penalty:	-3m	
+
 ============================================================
 Heavy Weapons:
 Reload DC 40%, strength required 6 unless otherwise stated.
