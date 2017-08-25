@@ -686,39 +686,35 @@ Fire STR/3 shots per action, Round down. Jam range 2%
 
 ===== Level 1 Weapons =====
 
-----Anvil Arms AR-74		$1986
-Damage: 90 Ballistic
-Ranged Miss Chance:
-	3 out to 15m
-	4 out to 40m
-	5 out to 75m
-+Miss chance in Automatic Fire: +5, -1 per 4 STR
-+Miss chance in Burst Fire: 
-Mag size: 25 rounds of 7.65x40mm. $17 per mag
-Reload DC:			30
-Fire modes:			Semi, Auto
-Auto Fire Rate:			6
-Move Speed Penalty:		0
-AP Level:			2
-Reflex Modifier: 		-5
-Suppression Level:		Medium
+----Anvil Arms AR-74 	$1986	----
+Damage:	90 Ballistic	
+Ranged Miss Chance:		
+	3 out to 15m	
+	4 out to 40m	
+	5 out to 75m	
+Auto Miss Chance:	+5,  -1 for every 4 Strength	
+Mag Size:		25 rounds of 7.65x40mm. $17 per magazine
+Reload DC:		30
+Fire Modes:		Semi, Auto
+Auto Fire Rate: 	6	
+Armor Piercing Level:	2	
+Reflex Modifier:	-5	
+Suppression Level:	Medium	
 
-----ECSC Mk 15			$1715
-Damage: 
-Ranged Miss Chance:
-	 out to m
-	 out to m
-	 out to m
-+Miss chance in Automatic Fire: 
-+Miss chance in Burst Fire: 
-Mag size: rounds of . $ per mag
-Reload DC:			
-Fire modes:			
-Auto Fire Rate:			
-Move Speed Penalty:		0
-AP Level:			
-Reflex Modifier: 		-5
-Suppression Level:		Med
+----ECSC Mk15	$1715	----
+Damage:	75 Ballsitic
+Ranged Miss Chance:		
+	3 out to 15m	
+	4 out to 50m	
+	5 out to 85m	
+Auto Miss Chance:	+3,  Gain a -1 @ 6 Strength	
+Mag Size:		25 rounds of 5.00x38mm. $14 per magazine
+Reload DC:		30
+Fire Modes:		Semi, Auto
+Auto Fire Rate: 	6	
+Armor Piercing Level:	1	
+Reflex Modifier:	-5	
+Suppression Level:	Medium	
 
 ===== Level 5 Weapons =====
 
@@ -735,29 +731,119 @@ Fire Modes:		Semi, Auto
 Auto Fire Rate: 	7	
 Armor Piercing Level:	3	
 Reflex Modifier:	-5	
+Suppression Level:	Medium
+		
+----Frontier 240R	$1982	----
+Damage:	85 Ballistic	
+Ranged Miss Chance:		
+	3 out to 15m	
+	4 out to 35m	
+	5 out to 75m	
+Auto Miss Chance:	+4,  -1 for every 5 Strength	
+Mag Size:		40 rounds of 6.50x39mm. $26 per magazine
+Reload DC:		30
+Fire Modes:		Semi, Auto
+Auto Fire Rate: 	6	
+Armor Piercing Level:	2	
+Reflex Modifier:	-5	
 Suppression Level:	Medium	
+		
+----ECSC Mk16 	$2102	----
+Damage:	80 Ballistic	
+Ranged Miss Chance:		
+	3 out to 15m	
+	4 out to 50m	
+	5 out to 85m	
+Burst Miss Chance:	+2,  Gain a -1 @ 6 Strength	
+Auto Miss Chance:	+3,  Gain a -1 @ 7 Strength	
+Mag Size:		30 rounds of 5.00x45mm. $19 per magazine
+Reload DC:		30
+Fire Modes:		Semi, Burst, Auto
+Burst; Auto Fire Rate:	3; 6	
+Armor Piercing Level:	3	
+Reflex Modifier:	-5	
+Suppression Level:	Medium	
+		
+----G&W XK20	$2412	----
+Damage:	95 Ballistic + 1x Bleed	
+Ranged Miss Chance:		
+	3 out to 15m	
+	4 out to 45m	
+	5 out to 75m	
+Burst Miss Chance:	+5,  -1 for every 4 Strength	
+Auto Miss Chance:	+7,  -1 for every 3 Strength (Starting at 5)	
+Mag Size:		20 rounds of 8.20x44mm. $17 per magazine
+Reload DC:		30
+Fire Modes:		Semi, Burst, Auto
+Burst; Auto Fire Rate:	3; 6	
+Armor Piercing Level:	3	
+Reflex Modifier:	-5	
+Suppression Level:	Medium	
+		
+----Partix Laser Rifle LA105	$3094	----
+Damage:	65 Laser	
+Ranged Miss Chance:		
+	2 out to 20m	
+	3 out to 55m	
+	4 out to 90m	
+Auto Miss Chance:	+3,  Gain a -1 @ 7 Strength	
+Mag Size:		24 charges of 20kWh . $19 per magazine
+Reload DC:		35
+Fire Modes:		Semi, Auto
+Auto Fire Rate: 	6	
+Armor Piercing Level:	n/a	
+Reflex Modifier:	-5	
+Suppression Level:	Medium
 
 
 ===== Level 10 Weapons =====
 
-----		$
-Damage: 
-Ranged Miss Chance:
-	 out to m
-	 out to m
-	 out to m
-+Miss chance in Automatic Fire: 
-+Miss chance in Burst Fire: 
-Mag size: rounds of . $ per mag
-Reload DC:			
-Fire modes:			
-Auto Fire Rate:			
-Move Speed Penalty:		0
-AP Level:			
-Reflex Modifier: 		-5
-Suppression Level:		Med
-
-
+----G&W XK100	$3700	----
+Damage:	100 Ballistic
+Ranged Miss Chance:		
+	2 out to 15m	
+	3 out to 50m	
+	4 out to 85m	
+Burst Miss Chance:	+4,  -1 for every 4 Strength	
+Auto Miss Chance:	+6,  -1 for every 3 Strength (Starting at 5)	
+Mag Size:		20 rounds of 8.20x44mm. $17 per magazine
+Reload DC:		30
+Fire Modes:		Semi, Burst, Auto
+Burst; Auto Fire Rate:	3; 6	
+Armor Piercing Level:	4	
+Reflex Modifier:	-5	
+Suppression Level:	Medium	
+Notes/Description:	1x Bleed	
+		
+----Frontier Plas-20	$4231	----
+Damage:	105 Plasma + 1x Plasma Burn	
+Ranged Miss Chance:		
+	2 out to 20m	
+	3 out to 55m	
+	5 out to 85m	
+Auto Miss Chance:	+3,  Gain a -1 @ 6 Strength	
+Mag Size:		18 units of Argon-8. $20 per magazine
+Reload DC:		40
+Fire Modes:		Semi, Auto
+Auto Fire Rate: 	6	
+Armor Piercing Level:	4	
+Reflex Modifier:	-5	
+Suppression Level:	Medium	
+		
+----Partix Laser Rifle LA155	$4282	----
+Damage:	75 Laser	
+Ranged Miss Chance:		
+	2 out to 20m	
+	3 out to 65m	
+	3 out to 90m	
+Auto Miss Chance:	+3,  Gain a -1 @ 6 Strength	
+Mag Size:		30 charges of 25kWh. $28 per magazine
+Reload DC:		35
+Fire Modes:		Semi, Auto
+Auto Fire Rate: 	6	
+Armor Piercing Level:	n/a	
+Reflex Modifier:	-5	
+Suppression Level:	Medium
 
 ============================================================
 Heavy Weapons:
