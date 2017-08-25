@@ -36,10 +36,10 @@
 Shield Generator Nodes
 	-all
 	
-Utility Hardpoint Equipment
+Cloaking Equipment
 	-all
 	
-Cloaking Equipment
+Utility Hardpoint Equipment
 	-all
 */
     =====================================
@@ -88,12 +88,17 @@ this by providing 'Hard Points'. Hard Points are special joints and fittings tha
 make it easy to attach equipment. When you purchase equipment, it will list how
 many Hard Points it consumes. You can't attach more equipment than you have available
 Hard Point space.
+Hard Point Equipment/Shields/Cloaking often comes in two sizes, "Primary Modules" and 
+"Secondary Modules". After you purchase and install a Primary Module, you can also purchase
+and install a Secondary Module(s) that augments the benefits of the Primary Module.
+The benefits are listed in the description of a given module. There is no mixing and matching
+-Secondary Modules only work for the Primary Module they are designed for.
 
     =====================================
 	  STANDARD BALLISTIC ARMOURS
     =====================================
-Adding any armor materials to a chest, leg, or arm rig
-reduces your movement speed by -1m per material added.
+Adding any armor materials to a chest, leg, or arm rig adds to
+your movement speed penalties by -1m per material added.
 
 =====   LEVEL 1 REQUIREMENT MATERIALS   =====
 
@@ -165,7 +170,52 @@ Cost For Arm or Leg Armor:	2900
 APL (Armor Piercing Level):	10
 APs (Armor Points):		130
 
+    =====================================
+		ARMOR RIGS
+    =====================================
 
+*michael halp me plsz*
+
+    =====================================
+		SHIELD GENERATORS
+    =====================================
+Shields block 100% of laser damage, and 50% of plasma
+weapon damage, at the expense of shields strength. For
+more information, please see section "Shields" in the 
+Basic Rules document.
+
+	=====   LEVEL 1 REQUIREMENT   =====
+	
+---- Mk1 Class A Electron Shield
+Primary Module Cost:
+
+
+	=====   LEVEL 5 REQUIREMENT   =====
+	
+---- Mk1 HiCap Class A Electron Shield
+	
+	
+	=====   LEVEL 10 REQUIREMENT   =====
+
+    =====================================
+		CLOAKING EQUIPMENT
+    =====================================
+
+	=====   LEVEL 1 REQUIREMENT   =====
+	
+	=====   LEVEL 5 REQUIREMENT   =====
+	
+	=====   LEVEL 10 REQUIREMENT   =====
+	
+    =====================================
+	  UTILITY HARD POINT EQUIPMENT
+    =====================================
+
+	=====   LEVEL 1 REQUIREMENT   =====
+	
+	
+	=====   LEVEL 5 REQUIREMENT   =====
+	
 /*========================================
  * Armour Additions and Helmets
  * These additions may be worn with or added to armour.
@@ -203,7 +253,7 @@ APs (Armor Points):		130
     10 DR, 60%
     
 /*========================================
- * STANDARD BALISTIC ARMOURS
+ * STANDARD BALLISTIC ARMOURS
  *======================================*/
 ///////////////////////////////////////////////////////////////////////////
 //Undersuits
