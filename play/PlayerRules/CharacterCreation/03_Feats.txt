@@ -399,7 +399,7 @@ Proficient: Carbines
 	15:	-10% reload miss chance			
 	20:	+5 Gun Reflex		
 	25:	Carbine Expert. -0.5 miss chance @ all ranges			
-	30:	You can choose to have +5% chance to miss armor when in single fire mode (doesn't apply to 100% coverage armor)			
+	30:	You can choose to have +5% chance to miss armor when in single fire mode (doesn't apply to 100% coverage armor)	
 	40:	Carbine Master. +10% damage; Gain feat "Make it count": When in single
 		fire mode, +1 crit range (+10% chance to Crit).
 			
@@ -419,7 +419,7 @@ Proficient: Long Rifles
 	Skill @				
 	10:	Long Rifle Proficient. -5m to minimum range, +10% meters to R2 & R3		
 	15:	-10% reload miss chance			
-	20:	+10% to perception checks to spot enemies outside within your weapon's R2 & R3 ranges			
+	20:	+10% to perception checks to spot enemies beyond your long rifle's R2 range			
 	25:	Long Rifle Expert. -0.5 miss chance @ all ranges			
 	30:	Gain feat "Beware the Wrath of a Patient Man": shots fired as a held reaction have a -1 miss chance.			
 	40:	Long Rifle Master. +10% damage; Gain feat "Practiced Precision": DC 75% dexterity or sniper skill
