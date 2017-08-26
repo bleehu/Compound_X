@@ -855,7 +855,10 @@ Explosives:
 	armor and shields (explosive damage is essentially, a crushing force). Fragmentation 
 	grenades are considered ballistic weapons, as their primary damage delivery method is shrapnel. 
 Melee/Melee Weapons:
-	Melee damage is treated like ballistic damage.
+	Melee damage is treated like ballistic damage unless you hit a target's armor and don't pierce it.
+	If you are fighting a human sized being with armor, and you hit the targets armor but don't pierce it,
+	you then deal a special kind of concussive damage (called blunt damage) that ignores AP level but not APs
+	and you do 1/2 damage (up to 30 damage).
 Armor:
 	Ballistic Armors (or more simply, Armor) are the first type of protective measure that 
 	you will come across. When armor is shot by a ballistic weapon, the armor may reduce or
