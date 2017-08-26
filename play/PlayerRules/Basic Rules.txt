@@ -654,21 +654,21 @@ laser-toting plasma-fuming space hooligan will be looking to turn you into space
 with a laser, shields absorb 100% of the damage, reducing the shield's strength by the 
 damage taken. If you are hit with a plasma weapon, the shield absorbs 50% of the damage, 
 and the rest passes through to the next line of defense (either armor [if present] or the
-character's body). If the shield's strength is reduced to 0, all remaining damage passes 
+character's body). If the Shield's Strength is reduced to 0, all remaining damage passes 
 through unabated.
-As long as the shield's strength isn't reduced to 0, the shield will recharge 'Recharge Rate' 
-number of points at the start of the wearer's turn. If the shield's strength is reduced to 0, 
-you must wait a "Time Before Restart" number of turns before the shield will restart at 
+As long as the Shield's Strength isn't reduced to 0, the shield will recharge 'Recharge Rate / Turn' 
+number of points at the start of the wearer's turn. If the Shield's Strength is reduced to 0, 
+you must wait a "Shield Restart Time" number of turns before the shield will restart at 
 "Recharge Rate" strength. If you get hit with a weapon/by melee during that time, you must
-restart your recharging time. 
+start your "Shield Restart Time" over again. 
 If you don't want to wait that long, at the start of your turn you can pay the 
-"Fast Recharge Nanite Cost" to restart your shields. Or if your shield's strength is just
-damaged, at the start of your turn you can pay the "Fast Recharge Nanite Cost" to boost 
-the shield's strength by an extra "Recharge Rate" (in other words, 2x "Recharge Rate"
+"Fast Recharge Stamina" cost to restart your shields. Or if your Shield's Strength is just
+damaged, at the start of your turn you can pay the "Fast Recharge Stamina" cost to boost 
+the Shield's Strength by an extra "Recharge Rate / Turn" (in other words, 2x "Recharge Rate / Turn"
 instead of the normal 1x).
 
 Hip Firing:
-Add 3 to a weapon''s miss chance. You cannot use optical attachments in
+Add 3 to a weapon's miss chance. You cannot use optical attachments in
 hip firing unless otherwise noted. It is much smarter to takes one 
 action to Aim, and spend the rest of your shots firing. It's also a great 
 idea to take an action at the end of your turn to "hunker," and gain a +2 
@@ -718,7 +718,7 @@ Stealth Attacks & Flanking:
 If you are stealthed (undetected by an opponent) when you initiate an attack
 action, you incur bonuses depending on the circumstances of the attack.
 	Ranged weapon stealth-attacks (including explosive but not any other thrown 
-weapons) have -1 miss chance to hit., if 'adequate' aiming time is given (DM's discretion:
+weapons) have -1 miss chance to hit, if 'adequate' aiming time is given (DM's discretion:
 how rushed you are, or how skilled you are at stealth, etc). Ranged weapon stealth-
 attacks deal +20 damage and, in addition, if you critical hit you gain all the effects 
 of a critical.
@@ -900,11 +900,11 @@ Cloaking
 
 Cloaking is available in the armor section, but also available to some 
 classes as a class feature. For non-class cloakers, the rules are as follows:
-Expend the cloaking module's 'Nanite Activation Cost' to begin cloaking. At the
-beginning of every turn thereafter, you have to pay a 'Nanite Upkeep' cost to 
+Expend the cloaking module's "Stamina Activate Cost" to begin cloaking. At the
+beginning of every turn thereafter, you have to pay a "Stamina Upkeep" cost to 
 continue cloaking, unless you didn't move for the entire previous turn.
 	You can remain cloaked for a number of turns equal to "Cloak Turns" (see 
-table, below) or when you run out of Nanites, whichever occurs sooner. If your
+table, below) or when you run out of Stamina, whichever occurs sooner. If your
 cloak time runs out, you stop cloaking and have to wait a number of actions equal
 to your "Charge Delay" (listed under the relevant cloaking module's description) 
 before being able to cloak again.
