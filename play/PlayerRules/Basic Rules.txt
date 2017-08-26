@@ -198,6 +198,8 @@ These bonuses use a table instead of the above Stat Bonus equation, as combat ac
 rolls are played out on a d10, not a d100 scale. The two most-used base stats for accuracy
 rolls are Perception and Dexterity. The Perception stat affects a ranged weapon's range 
 bracket miss chance, and the Dexterity stat affects melee miss chance.
+
+COMBAT MISS CHANCE BONUSES TABLE
 ╔════════╦═════════════╗		
 ║ Stat   ║ Stat Bonus  ║
 ╠════════╬═════════════╣		
@@ -356,6 +358,7 @@ calculations, so if you had 10 int, and increased to 11, you would get 22 skill 
 for the level. Additionally, any stat point alteration forces a recalculation on all
 affected values.
 
+			  LEVELING-UP TABLE
 ╔═══════╦══════════╦═══════╦════════════╦════════════╦═══════════════╗
 ║ Level ║ Skill P. ║ Feats ║ Class Feat ║ Stat Point ║ Feats (9 INT) ║
 ╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
@@ -907,25 +910,30 @@ classes as a class feature. For non-class cloakers, the rules are as follows:
 Expend the cloaking module's "Stamina Activate Cost" to begin cloaking. At the
 beginning of every turn thereafter, you have to pay a "Stamina Upkeep" cost to 
 continue cloaking, unless you didn't move for the entire previous turn.
-	You can remain cloaked for a number of turns equal to "Cloak Turns" (see 
-table, below) or when you run out of Stamina, whichever occurs sooner. If your
-cloak time runs out, you stop cloaking and have to wait a number of actions equal
-to your "Charge Delay" (listed under the relevant cloaking module's description) 
-before being able to cloak again.
+	Wearers need only expend Stamina for the "Stamina Upkeep" cost on a turn 
+that they perform actions. Cloaking requires concentration so when you are doing 
+nothing but watching, you may cloak for free.
+
+You can remain cloaked for a number of turns equal to "Cloak Turns" (see table, 
+below) or when you run out of Stamina, whichever occurs sooner. When your cloak 
+ends, you stop cloaking and have to wait a number of actions equal to your 
+"Charge Delay" (listed under the relevant cloaking module's description) before 
+being able to cloak again.
 
 If someone/something is looking for you, they must pass a (normally, perception) 
-check at 'Detect DC' difficulty. While moving, the detect DC is reduced (listed as 
-'moving detect DC' under the relevant cloaking module's description). There is a tell-
-tale shimmer in the cloak, as the micro-foil has a hard time keeping up with moving
-environments. Once the wearer has settled down, the micro-foil is able to reproduce 
-the surrounding environment better and will stabilize. However, once you have performed 
-a combat action, the cloak fizzes out, as you have shifted your concentration from 
-maintaining the cloak to something else. When using a skill (accessing a terminal, 
-fixing something, etc.) use your reduced, 'moving detect DC' as you are diverting 
-your attention. See the following table for durations:
+check at 'Detect DC' difficulty, modified by your stealth skill. While moving, 
+the detect DC is reduced (listed as 'moving detect DC' under the relevant cloaking
+module's description). There is a tell-tale shimmer in the cloak, as the micro-foil 
+has a hard time keeping up with moving environments. Once the wearer has settled 
+down, the micro-foil is able to reproduce the surrounding environment better and 
+will stabilize. 
+	When using a skill (accessing a terminal, fixing something, etc.) use your 
+reduced, 'moving detect DC' as you are diverting your attention. However, once you 
+have performed a combat action, the cloak fizzes out.
 
+	  CLOAKING DURATIONS AND LEVELING BONUSES
 ╔═══════════╦═════════════╦═══════════╦═════════════════╗
-║ Character ║ Cloak Turns ║ Detect DC ║ Shadow Assassin ║
+║ Character ║ Cloak Turns ║ Detect DCs║ Shadow Assassin ║
 ║   Level   ║             ║   Gain    ║ Cloak Turn Gain ║
 ╠═══════════╬═════════════╬═══════════╬═════════════════╣
 ║     1*    ║      3      ║     -     ║        +1       ║
@@ -968,8 +976,8 @@ your attention. See the following table for durations:
 ╠═══════════╬═════════════╬═══════════╬═════════════════╣
 ║     20    ║      10     ║   +20%    ║        +5       ║
 ╚═══════════╩═════════════╩═══════════╩═════════════════╝
+The Table bonuses are not cumulative.
 *  For levels 1-4, you may only cloak once per encounter.
-
 
 //===================================================================
 //Copyright 2016 Taylor Rowland
