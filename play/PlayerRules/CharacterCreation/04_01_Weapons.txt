@@ -711,72 +711,70 @@ Minimum Strength 5, Reload DC 25% unless otherwise noted. Reload time is 2 Actio
 
 ===== Level 1 Weapons =====
 
----- G&W FBR-C	$2194
-Damage:	100
-Ranged Miss Chance:
-	3 out to 15m
-	4 out to 40m
-	5 out to 65m
-Automatic Accuracy Penalty: 7 - 1 for every 3 Strength (starting at 4)
-Mag Size: 20 rounds of 7.65x51mm. $16 per mag.
-Reload DC:				30%
-Fire Modes:			Semi, Auto
-Automatic Fire Rate:	5
-Armor Pierce Level:		2
-Reflex Modifier:			0 (CQB weapon)
-Suppression Level: Medium
-
-
----- G&W FBR		$2665
-Damage:	105
-Ranged Miss Chance:
-	3 out to 15m
-	4 out to 50m
-	5 out to 80m
-Automatic Accuracy Penalty: 6 - 1 for every 3 Strength (starting at 4)
-Mag Size: 25 rounds of 7.65x51mm. $20 per mag.
-Reload DC:				30%
-Fire Modes:			Semi, Auto
-Automatic Fire Rate:	5
-Armor Pierce Level:		2
-Reflex Modifier:			-10
-Suppression Level: Medium
-
+----G&W FBR-C 	$2194	----
+Damage:	100 Ballistic
+Ranged Miss Chance:		
+	3 out to 15m	
+	4 out to 40m	
+	5 out to 65m	
+Auto Miss Chance:	+7,  -1 for every 3 Strength (starting at 4)	
+Mag Size:		20 rounds of 7.65x51mm. $16 per magazine
+Reload DC:		30
+Fire Modes:		Semi, Auto
+Auto Fire Rate: 	5	
+Armor Piercing Level:	2	
+Reflex Modifier:	0	
+Suppression Level:	Medium	
+Notes/Description:	CQB rifle	
+		
+----G&W FBR 	$2665	----
+Damage:	105 Ballistic
+Ranged Miss Chance:		
+	3 out to 15m	
+	4 out to 50m	
+	5 out to 80m	
+Auto Miss Chance:	+6,  -1 for every 3 Strength (starting at 4)	
+Mag Size:		25 rounds of 7.65x51mm. $20 per magazine
+Reload DC:		30
+Fire Modes:		Semi, Auto
+Auto Fire Rate: 	5	
+Armor Piercing Level:	2	
+Reflex Modifier:	-10	
+Suppression Level:	Medium	
 
 ===== Level 5 Weapons =====
 
----- Matthews HK-80		$2714
-Damage:	100
-Ranged Miss Chance:
-	3 out to 15m
-	4 out to 55m
-	5 out to 85m
-Burst Accuracy: 3 - 1 @ 6 STR
-Mag Size: 30 rounds of 5.77x55mm. $23 per mag
-Reload DC: 30%
-Fire Modes:	Semi, Burst
-Burst Fire Rate: 			3
-Armor Piercing Level:	4
-Reflex Modifier:			-8
-Suppression Level: Medium
-	
+----Matthews HK-80	$2714	----
+Damage:	100 Ballistic
+Ranged Miss Chance:		
+	3 out to 15m	
+	4 out to 55m	
+	5 out to 85m	
+Burst Miss Chance:	+3,  Gain a -1 @ 6 Strength	
+Mag Size:		30 rounds of 5.77x55mm. $23 per magazine
+Reload DC:		30
+Fire Modes:		Semi, Burst
+Burst Fire Rate:	3	
+Armor Piercing Level:	4	
+Reflex Modifier:	-8	
+Suppression Level:	Medium	
 
 ===== Level 10 Weapons =====
 
----- Berren Rifles BR606	$3909
-Damage:	105
-Ranged Miss Chance:
-	2 out to 15m
-	3 out to 55m
-	4 out to 95m
-Automatic Accuracy: 5 - 1 for every 4 STR
-Mag Size: 25 of 6.06x55mm. $20 per mag
-Reload DC:		30%
-Fire Modes:	Semi, Auto
-Auto Fire Rate:	6
-Armor Piercing Level: 5
-Reflex Modifier:	-8
-Supression Level:	Medium
+----Berren Rifles BR606	$3909	----
+Damage:	105 Ballistic	
+Ranged Miss Chance:		
+	2 out to 15m	
+	3 out to 55m	
+	4 out to 95m	
+Auto Miss Chance:	+5,  -1 for every 4 Strength	
+Mag Size:		25 rounds of 6.06x55mm. $20 per magazine
+Reload DC:		30
+Fire Modes:		Semi, Auto
+Auto Fire Rate: 	6	
+Armor Piercing Level:	5	
+Reflex Modifier:	-8	
+Suppression Level:	Medium
 
 ============================================================
 Assault Rifles:
