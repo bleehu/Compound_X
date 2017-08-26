@@ -1144,39 +1144,178 @@ Minimum 5 strength to carry. All targets are inflicted with "Pinned" condition
 when hit. Reload DC 30% unless otherwise noted. Reload time 3 Actions.
 ============================================================
 
-ECSC PRS $4325 / $4
-10-150m
-15%
-7 rds, .300 Blackout; FMJ / AP
-60
-Bolt Action: take 1 action to fire, 1 action to chamber a new round.
-Integrated Improved Silencer. This integrated silencer prevents the usage of a
-muzzle break or other silencers or suppressors.
-Reload DC 26%, 2 Actions
+=====	LEVEL 1 REQUIREMENT WEAPONS	=====
 
-ECSC Mk12 Mod 0 $3500 / $10
-20-200m
-30%
-20 rds, 5.56x45mm Rifle Magazine; FMJ
-50
-Reload DC 25%, 2 Actions
+----Anvil Arms SR-150	$1559	----
+Damage:	115 Ballistic	
+Ranged Miss Chance:		
+	3 out to 20m	
+	4 out to 100m	
+	5 out to 170m	
+Mag Size:		5 rounds of 7.65x54mm. $10 per magazine
+Reload DC:		35
+Fire Modes:		Bolt Action
+Armor Piercing Level:	3	
+Reflex Modifier:	-25	
+Suppression Level:	Light	
+Movement Speed Penalty:	-1m	
+Notes/Description:	Starts with 'Basic 2x Scope attached': +10m minimum range	
+		
+----ECSC Mk12 Mod 0 	$2159	----
+Damage:	105 Ballistic
+Ranged Miss Chance:		
+	3 out to 20m	
+	4 out to 65m	
+	5 out to 110m	
+Mag Size:		20 rounds of 5.77x55mm. $53 per magazine
+Reload DC:		29
+Fire Modes:		Semi
+Armor Piercing Level:	2	
+Reflex Modifier:	-15	
+Suppression Level:	Medium	
+Movement Speed Penalty:	-0.5m	
+Notes/Description:	Starts with 'Basic 2x Scope attached': +10m minimum range	
 
-Anvil Arms SR-150 $5440 / $3
-20-200m
-20%
-5 rds, 7.62x54R; FMJ / AP
-68
-Bolt action: take 1 action to chamber round, 1 action to fire.
+=====	LEVEL 5 REQUIREMENT WEAPONS	=====
 
-Anvil Arms SR-250 $8160 / $5
-30-300m
-20%
-5 rds, 7.62x54R; FMJ / CS
-68
-Bolt Action: take 1 action to fire, 1 action to chamber a new round.
+----ECSC Mk25 DMR	$2877	----
+Damage:	110 Ballistic
+Ranged Miss Chance:		
+	2 out to 20m	
+	3 out to 75m	
+	4 out to 130m	
+Mag Size:		10 rounds of 7.65x51mm. $28 per magazine
+Reload DC:		29
+Fire Modes:		Semi
+Armor Piercing Level:	3	
+Reflex Modifier:	-20	
+Suppression Level:	Medium	
+Movement Speed Penalty:	-0.5m	
+Notes/Description:	Starts with 'Basic 2x Scope attached': +10m minimum range	
+		
+----ECSC PRS 	$2303	----
+Damage:	115 Ballistic
+Ranged Miss Chance:		
+	2 out to 20m	
+	3 out to 80m	
+	4 out to 140m	
+Mag Size:		7 rounds of 6.06x60mm. $16 per magazine
+Reload DC:		30
+Fire Modes:		Bolt Action
+Armor Piercing Level:	4	
+Reflex Modifier:	-20	
+Suppression Level:	Light	
+Movement Speed Penalty:	-0.5m	
+Notes/Description:	Integrated Improved Silencer. Starts with 'Basic 2x Scope attached': +10m minimum range	
+		
+----Frontier Plas-3 LR	$3135	----
+Damage:	130 Plasma + 3x Plasma Burn	
+Ranged Miss Chance:		
+	2 out to 20m	
+	3 out to 90m	
+	5 out to 160m	
+Mag Size:		4 units of Xenon-131. $16 per magazine
+Reload DC:		40
+Fire Modes:		Bolt Action
+Armor Piercing Level:	4	
+Reflex Modifier:	-30	
+Suppression Level:	Light	
+Movement Speed Penalty:	-1m	
+Notes/Description:	Starts with 'Basic 2x Scope attached': +10m minimum range	
 
-//add some rifles and buff SR series rifles 100m after marksman update
+=====	LEVEL 10 REQUIREMENT WEAPONS	=====
 
+----Anvil Arms SR-250 	$3198	----
+Damage:	130 Ballistic
+Ranged Miss Chance:		
+	2 out to 20m	
+	3 out to 140m	
+	4 out to 230m	
+Mag Size:		5 rounds of 7.65x67mm. $11 per magazine
+Reload DC:		35
+Fire Modes:		Bolt Action
+Armor Piercing Level:	6	
+Reflex Modifier:	-25	
+Suppression Level:	Light	
+Movement Speed Penalty:	-1m	
+Notes/Description:	Starts with 'Basic 2x Scope attached': +10m minimum range	
+		
+----NFA N505	$4431	----
+Damage:	150 Ballistic
+Ranged Miss Chance:		
+	2 out to 20m	
+	3 out to 155m	
+	4 out to 260m	
+Mag Size:		5 rounds of 8.60x70mm. $13 per magazine
+Reload DC:		35
+Fire Modes:		Bolt Action
+Armor Piercing Level:	6	
+Reflex Modifier:	-30	
+Suppression Level:	Light	
+Movement Speed Penalty:	-1.5m	
+Notes/Description:	Starts with 'Basic 2x Scope attached': +10m minimum range	
+		
+----Matthews BA780	$5720	----
+Damage:	140 Ballistic
+Ranged Miss Chance:		
+	1 out to 20m	
+	2 out to 210m	
+	3 out to 400m	
+Mag Size:		3 rounds of 7.80x74mm, streamlined. $16 per magazine
+Reload DC:		35
+Fire Modes:		Bolt Action
+Armor Piercing Level:	7	
+Reflex Modifier:	-30	
+Suppression Level:	Light	
+Movement Speed Penalty:	-1.5m	
+Notes/Description:	Starts with 'Basic 2x Scope attached': +10m minimum range	
+		
+----Partix 10X Laser Rifle 	$5877	----
+Damage:	110 Laser	
+Ranged Miss Chance:		
+	2 out to 20m	
+	3 out to 150m	
+	3 out to 200m	
+Mag Size:		7 charges of 35kWh. $29 per magazine
+Reload DC:		35
+Fire Modes:		Bolt Action
+Armor Piercing Level:	n/a	
+Reflex Modifier:	-30	
+Suppression Level:	Light	
+Movement Speed Penalty:	-1m	
+Notes/Description:	Starts with 'Basic 2x Scope attached': +10m minimum range	
+		
+----Frontier Plas-5 LR	$6975	----
+Damage:	160 Plasma + 3x Plasma Burn	
+Ranged Miss Chance:		
+	2 out to 20m	
+	3 out to 110m	
+	5 out to 200m	
+Mag Size:		8 units of Xenon-131. $38 per magazine
+Reload DC:		40
+Fire Modes:		Bolt Action
+Armor Piercing Level:	6	
+Reflex Modifier:	-30	
+Suppression Level:	Light	
+Movement Speed Penalty:	-1m	
+Notes/Description:	Starts with 'Basic 2x Scope attached': +10m minimum range	
+
+=====	LEVEL 15 REQUIREMENT WEAPONS	=====
+
+----Partix 40X HiBeam Rifle 	$11503	----
+Damage:	130 Laser	
+Ranged Miss Chance:		
+	1 out to 20m	
+	2 out to 180m	
+	3 out to 250m	
+Mag Size:		5 charges of 40kWh. $29 per magazine
+Reload DC:		35
+Fire Modes:		Semi
+Armor Piercing Level:	n/a	
+Reflex Modifier:	-30	
+Suppression Level:	Medium	
+Movement Speed Penalty:	-1m	
+Notes/Description:	Starts with 'Basic 2x Scope attached': +10m minimum range
 
 ============================================================
 Rocket Launchers:
