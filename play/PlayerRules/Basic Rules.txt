@@ -163,7 +163,7 @@ Movement Speed and Carry Ability so you have to decide whether you want:
 3 Movement Speed and 6 Carry Ability 
 		or 
 6 Movement Speed and 4 Carry Ability 
-Strength determing Movement Speed is likely to be the better choice, as Carry 
+Strength determining Movement Speed is likely to be the better choice, as Carry 
 Ability doesn't contribute as much to your character (see Secondary Stat Details, below)
 and you have a total of 6 + 4 = 10 points in secondary stats instead of 3 + 6 = 9. 
 
