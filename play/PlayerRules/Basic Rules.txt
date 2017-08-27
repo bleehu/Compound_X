@@ -665,8 +665,8 @@ you must wait a "Shield Restart Time" number of turns before the shield will res
 "Recharge Rate" strength. If you get hit with a weapon/by melee during that time, you must
 start your "Shield Restart Time" over again. 
 If you don't want to wait that long, at the start of your turn you can pay the 
-"Fast Recharge Stamina" cost to restart your shields. Or if your Shield's Strength is just
-damaged, at the start of your turn you can pay the "Fast Recharge Stamina" cost to boost 
+"Fast Recharge Nanites" cost to restart your shields. Or if your Shield's Strength is just
+damaged, at the start of your turn you can pay the "Fast Recharge Nanites" cost to boost 
 the Shield's Strength by an extra "Recharge Rate / Turn" (in other words, 2x "Recharge Rate / Turn"
 instead of the normal 1x).
 
@@ -907,16 +907,16 @@ Cloaking
 
 Cloaking is available in the armor section, but also available to some 
 classes as a class feature. For non-class cloakers, the rules are as follows:
-Expend the cloaking module's "Stamina Activate Cost" to begin cloaking. At the
-beginning of every turn thereafter, you have to pay a "Stamina Upkeep" cost to 
+Expend the cloaking module's "Nanite Activation Cost" to begin cloaking. At the
+beginning of every turn thereafter, you have to pay a "Nanite Upkeep" cost to 
 continue cloaking, unless you didn't move for the entire previous turn.
-	Wearers need only expend Stamina for the "Stamina Upkeep" cost on a turn 
-that they perform actions. Cloaking requires concentration so when you are doing 
-nothing but watching, you may cloak for free.
+	Wearers need only expend Nanites for the "Nanite Upkeep" cost at the end 
+of a turn that they perform actions. Cloaking requires concentration so when you 
+are doing nothing but watching, you may cloak for free.
 
 You can remain cloaked for a number of turns equal to "Cloak Turns" (see table, 
-below) or when you run out of Stamina, whichever occurs sooner. When your cloak 
-ends, you stop cloaking and have to wait a number of actions equal to your 
+below) or when you run out of Nanites, whichever occurs sooner. When your cloak 
+ends, you become visible and have to wait a number of actions equal to your 
 "Charge Delay" (listed under the relevant cloaking module's description) before 
 being able to cloak again.
 
