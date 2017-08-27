@@ -179,69 +179,210 @@ Minimum Strength 2, Reload DC 20 unless otherwise noted. With DEX less than 5,
 Single Action revolvers must be re-cocked for 1 action. Reload time 2 Actions.
 ============================================================
 
-ECSC Mk9 Auto $460 / $5
-30 m
-25%
-11 rds, 9mm Magazine; FMJ / HP
-41
+=====	LEVEL 1 REQUIREMENT WEAPONS	=====
 
-Matthews Model 19 $322 / $3
-20 m
-30%
-6 rds, .357; FMJ / HP
-46
-Reload 23%
-Single Action Revolver: cannot be fired as a free action.
+----Matthews Model 19 Snub	$269	----
+Damage: 50 Ballistic
+Ranged Miss Chance:
+	5 out to 5m
+	6 out to 10m
+	7 out to 15m
+Mag size: 		6 rounds of 9.3x26mm. $5 per mag
+Reload DC:		45
+Fire modes:		Semi
+AP Level:		0
+Reflex Modifier: 	+25
+Suppression Level:	Light
+Notes: 			Single Action Revolver
 
-ECSC Mk26 Auto $490 / $6
-35 m
-35%
-15 rds, .40 Magazine; FMJ / CS
-43
+----G&W 10mm Auto		$691	----
+Damage: 50 Ballistic
+Ranged Miss Chance:
+	4 out to 5m
+	5 out to 10m
+	6 out to 20m
+Mag size: 		11 rounds of 10.0x23mm. $12 per mag
+Reload DC:		25
+Fire modes:		Semi
+AP Level:		0
+Reflex Modifier: 	+20
+Suppression Level:	Light
 
-Matthews Model 25 $490 / $3
-30 m
-30%
-6 rds, .45 Long; FMJ / AP
-47
-Reload 23%
-Single Action Revolver: cannot be fired as a free action.
+----Matthews Model 25		$579	----
+Damage: 60 Ballistic
+Ranged Miss Chance:
+	4 out to 5m
+	5 out to 15m
+	6 out to 25m
+Mag size: 		6 rounds of 11x35mm. $6 per mag
+Reload DC:		45
+Fire modes:		Semi
+AP Level:		1
+Reflex Modifier: 	+15
+Suppression Level:	Light
+Notes: 			Single Action Revolver
 
-G&W 10mm Auto $500 / $7
-35 m
-35%
-15 rds, 10mm Magazine; CS
-44
+----Frontier PL10		$1022	----
+Damage: 55 Plasma + 1x Plasma Burn
+Ranged Miss Chance:
+	4 out to 5m
+	5 out to 15m
+	7 out to 25m
+Mag size: 		9 units of Argon-8. $16 per mag
+Reload DC:		35
+Fire modes:		Semi
+AP Level:		0
+Reflex Modifier: 	+20
+Suppression Level:	Light
 
-Anvil Arms P-08 Phantom $570 / $7
-40m
-35%
-15rds, 10mm Magazine; FMJ / HP
-44
+=====	LEVEL 5 REQUIREMENT WEAPONS	=====
 
-Anvil Armament P-45 $611 / $6
-40 m
-35%
-12 rds, .45 Auto; FMJ / HP
-47
+----ECSC Mk8 Auto		$614	----
+Damage: 45 Ballistic
+Ranged Miss Chance:
+	4 out to 5m
+	5 out to 10m
+	6 out to 15m
+Mag size: 		15 rounds of 8.0x20mm. $15 per mag
+Reload DC:		25
+Fire modes:		Semi
+AP Level:		1
+Reflex Modifier: 	+20
+Suppression Level:	Light
 
-Matthews Model 24 $910 / $3
-50 m
-30%
-6 rds, .44 Magnum; FMJ / HP / AP
-52
-Reload 23%
-Single Action Revolver: cannot be fired as a free action.
+----Anvil Armamanet P-45	$710	----
+Damage: 55 Ballistic
+Ranged Miss Chance:
+	4 out to 5m
+	5 out to 10m
+	6 out to 20m
+Mag size: 		8 rounds of 11.43x23mm. $10 per mag
+Reload DC:		25
+Fire modes:		Semi
+AP Level:		0
+Reflex Modifier: 	+20
+Suppression Level:	Light
 
-Frontier Plas-8 $1320 / $7
-45 m
-30%
-8 rds, Argon-8; LO-SV / HO-SV / LO-HV
-55
-2 turns plasma burn
-HO-SV treated like HP
-LO-HV treated like AP
-Reload 28%
+----Anvil Armamament R15	$887	----
+Damage: 80 Ballistic
+Ranged Miss Chance:
+	4 out to 5m
+	5 out to 20m
+	6 out to 30m
+Mag size: 		5 rounds of 15.0x47mm. $7 per mag
+Reload DC:		45
+Fire modes:		Semi
+AP Level:		2
+Reflex Modifier: 	+15
+Suppression Level:	Light
+Notes: 			Single Action Revolver
+
+----Frontier PL30	$1427	----
+Damage: 60 Plasma + 1x Plasma Burn
+Ranged Miss Chance:
+	4 out to 5m
+	5 out to 20m
+	7 out to 30m
+Mag size: 		12 units of Argon-8. $23 per mag
+Reload DC:		35
+Fire modes:		Semi
+AP Level:		0
+Reflex Modifier: 	+20
+Suppression Level:	Light
+
+----Frontier Plas-8	$1718	----
+Damage: 70 Plasma + 1x Plasma Burn
+Ranged Miss Chance:
+	3 out to 5m
+	5 out to 20m
+	6 out to 25m
+Mag size: 		8 units of Argon-8. $18 per mag
+Reload DC:		35
+Fire modes:		Semi
+AP Level:		1
+Reflex Modifier: 	+20
+Suppression Level:	Light
+
+----Flexcorp LL35 Laser Pistol	$1742	----
+Damage: 40 Laser
+Ranged Miss Chance:
+	3 out to 10m
+	4 out to 20m
+	5 out to 30m
+Mag size: 		16 charges of 5kWh. $25 per mag
+Reload DC:		30
+Fire modes:		Semi
+AP Level:		n/a
+Reflex Modifier: 	+20
+Suppression Level:	Light
+
+=====	LEVEL 10 REQUIREMENT WEAPONS	=====
+
+----RMM Auto 6			$1173	----
+Damage: 75 Ballistic
+Ranged Miss Chance:
+	4 out to 5m
+	5 out to 20m
+	6 out to 25m
+Mag size: 		6 rounds of 13.0x33mm. $10 per mag
+Reload DC:		25
+Fire modes:		Semi
+AP Level:		1
+Reflex Modifier: 	+15
+Suppression Level:	Light
+
+----Matthews Model 738		$1196	----
+Damage: 65 Ballistic + 1x Bleed
+Ranged Miss Chance:
+	3 out to 5m
+	4 out to 25m
+	5 out to 30m
+Mag size: 		7 rounds of 7.38x50mm. $9 per mag
+Reload DC:		45
+Fire modes:		Semi
+AP Level:		3
+Reflex Modifier: 	+15
+Suppression Level:	Light
+Notes: 			Single Action Revolver
+
+----Frontier Lz50 Laser Pistol	$1775	----
+Damage: 50 Laser
+Ranged Miss Chance:
+	4 out to 10m
+	5 out to 25m
+	5 out to 30m
+Mag size: 		14 charges of 5kWh. $27 per mag
+Reload DC:		30
+Fire modes:		Semi
+AP Level:		n/a
+Reflex Modifier: 	+20
+Suppression Level:	Light
+
+----Partix 50L Laser Hand-Cannon	$2083	----
+Damage: 70 Laser
+Ranged Miss Chance:
+	4 out to 10m
+	5 out to 20m
+	6 out to 25m
+Mag size: 		8 charges of 10kWh. $21 per mag
+Reload DC:		30
+Fire modes:		Semi
+AP Level:		n/a
+Reflex Modifier: 	+15
+Suppression Level:	Light
+
+----Partix Plas-Disc Launcher MIX5	$2506	----
+Damage: 75 Plasma + 1x Plasma Burn
+Ranged Miss Chance:
+	3 out to 10m
+	5 out to 25m
+	6 out to 30m
+Mag size: 		10 units of Neon-15. $25 per mag
+Reload DC:		35
+Fire modes:		Semi
+AP Level:		2
+Reflex Modifier: 	+20
+Suppression Level:	Light
 
 ============================================================
 Sub-Machine Guns:
@@ -414,54 +555,153 @@ Minimum Strength 5, Reload DC 25% unless otherwise noted. Reload time is 2 Actio
 ============================================================
 ===== Level 1 Weapons =====
 
----- Matthews 11-35 Carbine		$690
-Damage:	65
+---- Matthews 11-35 Carbine	$690	----
+Damage:	65 Ballistic
 Ranged Miss Chance:
 	3 out to 10m
 	4 out to 35m
 	5 out to 55m
-Mag Size:	18 rounds of 11x35mm. $7 per mag
-Reload DC:				30%
-Fire Modes:			Semi
-Armor Pierce Level:		1
-Reflex Modifier:			+5
-Suppression Level:		Medium
+Mag Size:		18 rounds of 11x35mm. $7 per mag
+Reload DC:		30%
+Fire Modes:		Semi
+Armor Pierce Level:	1
+Reflex Modifier:	+5
+Suppression Level:	Medium
 
----- Anvil Arms C25		$1608
-Damage:	80
+---- Anvil Arms C25	$1608	----
+Damage:	80 Ballistic
 Ranged Miss Chance:
 	3 out to 15m
 	4 out to 40m
 	5 out to 60m
 Burst Accuracy Penalty:	2 - 1 at 8 STR
-Mag Size:	25 rounds of 5.45x40mm. $15 per mag
-Reload DC:				30%
-Fire Modes:			Semi, Burst
-Armor Pierce Level:		2
-Reflex Modifier:			+2
-Suppression Level:		Medium
+Mag Size:		25 rounds of 5.45x40mm. $15 per mag
+Reload DC:		30%
+Fire Modes:		Semi, Burst
+Armor Pierce Level:	2
+Reflex Modifier:	+2
+Suppression Level:	Medium
 
----- RMM S-92	$1086
-Damage:	75
+---- RMM S-92		$1086	----
+Damage:	75 Ballistic
 Ranged Miss Chance:
 	3 out to 10m
 	4 out to 30m
 	5 out to 55m
 Burst Accuracy Penalty: 6 - 1 per 4 STR (starting at 4)
-Mag Size:	25 rounds of 12.1x33mm. $8 per mag
-Reload DC:				30%
-Fire Modes:			Semi, Burst
-Armor Pierce Level:		1
-Reflex Modifier:			+5
-Suppression Level:		Medium
+Mag Size:		25 rounds of 12.1x33mm. $8 per mag
+Reload DC:		30%
+Fire Modes:		Semi, Burst
+Armor Pierce Level:	1
+Reflex Modifier:	+5
+Suppression Level:	Medium
 
 ===== Level 5 Weapons =====
 
-----
+----RMM 577 Carbine	$1408	----
+Damage:	85 Ballistic
+Ranged Miss Chance:		
+	3 out to 15m	
+	4 out to 40m	
+	5 out to 65m	
+Mag Size:		30 rounds of 5.77x45mm. $15 per magazine
+Reload DC:		30
+Fire Modes:		Semi
+Armor Piercing Level:	3	
+Reflex Modifier:	+2	
+Suppression Level:	Medium	
+		
+----ECSC Mk28		$1690	----
+Damage:	75 Ballistic
+Ranged Miss Chance:		
+	3 out to 15m	
+	4 out to 45m	
+	5 out to 70m	
+Burst Miss Chance:	+2,  Gain a -1 @ 7 Strength	
+Mag Size:		30 rounds of 5.00x45mm. $18 per magazine
+Reload DC:		30
+Fire Modes:		Semi, Burst
+Burst Fire Rate:	3	
+Armor Piercing Level:	3	
+Reflex Modifier:	+2	
+Suppression Level:	Medium	
+Notes/Description:	CQB rifle	
+		
+----Frontier PL5-UC	$2001	----
+Damage:	90 Plasma + 1x Plasma Burn
+Ranged Miss Chance:		
+	3 out to 15m	
+	4 out to 40m	
+	6 out to 55m	
+Burst Miss Chance:	+3,  Gain a -1 @ 8 Strength	
+Mag Size:		20 units of Neon-15. $19 per magazine
+Reload DC:		40
+Fire Modes:		Semi, Burst
+Burst Fire Rate:	3	
+Armor Piercing Level:	3	
+Reflex Modifier:	+5	
+Suppression Level:	Medium
+		
+----Frontier Lz150 Carbine	$2111	----
+Damage:	55 Laser	
+Ranged Miss Chance:		
+	2 out to 20m	
+	3 out to 50m	
+	4 out to 70m	
+Burst Miss Chance:	+4,  -1 for every 6 Strength	
+Mag Size:		24 charges of 15kWh. $16 per magazine
+Reload DC:		35
+Fire Modes:		Semi, Burst
+Burst Fire Rate:	3	
+Armor Piercing Level:	n/a	
+Reflex Modifier:	+5	
+Suppression Level:	Medium
 
 ===== Level 10 Weapons =====
 
-----
+----Matthews 88C	$1770	----
+Damage:	90 Ballistic
+Ranged Miss Chance:		
+	3 out to 15m	
+	4 out to 35m	
+	5 out to 60m	
+Burst Miss Chance:	+4,  -1 for every 6 Strength	
+Mag Size:		20 rounds of 7.65x40mm. $15 per magazine
+Reload DC:		30
+Fire Modes:		Semi, Burst
+Burst Fire Rate:	3	
+Armor Piercing Level:	3	
+Reflex Modifier:	+2	
+Suppression Level:	Medium	
+Notes/Description:	CQB rifle	
+		
+----Frontier PL5-C	$2875	----
+Damage:	100 Plasma + 1x Plasma Burn
+Ranged Miss Chance:		
+	2 out to 20m	
+	4 out to 40m	
+	5 out to 60m	
+Burst Miss Chance:	+2,  Gain a -1 @ 6 Strength	
+Mag Size:		20 units of Neon-15. $21 per magazine
+Reload DC:		40
+Fire Modes:		Semi, Burst
+Burst Fire Rate:	3	
+Armor Piercing Level:	4	
+Reflex Modifier:	+2	
+Suppression Level:	Medium	
+		
+----Partix Plas-Disc Launcher MX50	$2623	----
+Damage:	95 Plasma + 1x Plasma Burn	
+Ranged Miss Chance:		
+	2 out to 20m	
+	4 out to 45m	
+	5 out to 70m	
+Mag Size:		25 units of Neon-15. $21 per magazine
+Reload DC:		40
+Fire Modes:		Semi
+Armor Piercing Level:	4	
+Reflex Modifier:	+2	
+Suppression Level:	Medium
 
 ============================================================
 Battle Rifles
@@ -470,131 +710,362 @@ Minimum Strength 5, Reload DC 25% unless otherwise noted. Reload time is 2 Actio
 
 ===== Level 1 Weapons =====
 
----- G&W FBR-C	$2194
-Damage:	100
-Ranged Miss Chance:
-	3 out to 15m
-	4 out to 40m
-	5 out to 65m
-Automatic Accuracy Penalty: 7 - 1 for every 3 Strength (starting at 4)
-Mag Size: 20 rounds of 7.65x51mm. $16 per mag.
-Reload DC:				30%
-Fire Modes:			Semi, Auto
-Automatic Fire Rate:	5
-Armor Pierce Level:		2
-Reflex Modifier:			0 (CQB weapon)
-Suppression Level: Medium
-
-
----- G&W FBR		$2665
-Damage:	105
-Ranged Miss Chance:
-	3 out to 15m
-	4 out to 50m
-	5 out to 80m
-Automatic Accuracy Penalty: 6 - 1 for every 3 Strength (starting at 4)
-Mag Size: 25 rounds of 7.65x51mm. $20 per mag.
-Reload DC:				30%
-Fire Modes:			Semi, Auto
-Automatic Fire Rate:	5
-Armor Pierce Level:		2
-Reflex Modifier:			-10
-Suppression Level: Medium
-
+----G&W FBR-C 	$2194	----
+Damage:	100 Ballistic
+Ranged Miss Chance:		
+	3 out to 15m	
+	4 out to 40m	
+	5 out to 65m	
+Auto Miss Chance:	+7,  -1 for every 3 Strength (starting at 4)	
+Mag Size:		20 rounds of 7.65x51mm. $16 per magazine
+Reload DC:		30
+Fire Modes:		Semi, Auto
+Auto Fire Rate: 	5	
+Armor Piercing Level:	2	
+Reflex Modifier:	0	
+Suppression Level:	Medium	
+Notes/Description:	CQB rifle	
+		
+----G&W FBR 	$2665	----
+Damage:	105 Ballistic
+Ranged Miss Chance:		
+	3 out to 15m	
+	4 out to 50m	
+	5 out to 80m	
+Auto Miss Chance:	+6,  -1 for every 3 Strength (starting at 4)	
+Mag Size:		25 rounds of 7.65x51mm. $20 per magazine
+Reload DC:		30
+Fire Modes:		Semi, Auto
+Auto Fire Rate: 	5	
+Armor Piercing Level:	2	
+Reflex Modifier:	-10	
+Suppression Level:	Medium	
 
 ===== Level 5 Weapons =====
 
----- Matthews HK-80		$2714
-Damage:	100
-Ranged Miss Chance:
-	3 out to 15m
-	4 out to 55m
-	5 out to 85m
-Burst Accuracy: 3 - 1 @ 6 STR
-Mag Size: 30 rounds of 5.77x55mm. $23 per mag
-Reload DC: 30%
-Fire Modes:	Semi, Burst
-Burst Fire Rate: 			3
-Armor Piercing Level:	4
-Reflex Modifier:			-8
-Suppression Level: Medium
-	
+----Matthews HK-80	$2714	----
+Damage:	100 Ballistic
+Ranged Miss Chance:		
+	3 out to 15m	
+	4 out to 55m	
+	5 out to 85m	
+Burst Miss Chance:	+3,  Gain a -1 @ 6 Strength	
+Mag Size:		30 rounds of 5.77x55mm. $23 per magazine
+Reload DC:		30
+Fire Modes:		Semi, Burst
+Burst Fire Rate:	3	
+Armor Piercing Level:	4	
+Reflex Modifier:	-8	
+Suppression Level:	Medium	
 
 ===== Level 10 Weapons =====
 
----- Berren Rifles BR606	$3909
-Damage:	105
-Ranged Miss Chance:
-	2 out to 15m
-	3 out to 55m
-	4 out to 95m
-Automatic Accuracy: 5 - 1 for every 4 STR
-Mag Size: 25 of 6.06x55mm. $20 per mag
-Reload DC:		30%
-Fire Modes:	Semi, Auto
-Auto Fire Rate:	6
-Armor Piercing Level: 5
-Reflex Modifier:	-8
-Supression Level:	Medium
+----Berren Rifles BR606	$3909	----
+Damage:	105 Ballistic	
+Ranged Miss Chance:		
+	2 out to 15m	
+	3 out to 55m	
+	4 out to 95m	
+Auto Miss Chance:	+5,  -1 for every 4 Strength	
+Mag Size:		25 rounds of 6.06x55mm. $20 per magazine
+Reload DC:		30
+Fire Modes:		Semi, Auto
+Auto Fire Rate: 	6	
+Armor Piercing Level:	5	
+Reflex Modifier:	-8	
+Suppression Level:	Medium
 
 ============================================================
-Automatic Rifles:
+Assault Rifles:
 Minimum Strength 5, Reload DC 25% unless otherwise noted. Reload time is 2 Actions.
 Fire STR/3 shots per action, Round down. Jam range 2%
 ============================================================
 
-Anvil Arms AR-74 $1370 / $17
-100m
-40%
-30 rds, 7.62x39mm Rifle Magazine; FMJ / AP / Incendiary
-57
+===== Level 1 Weapons =====
 
-Anvil Arms AR-68 $1850 / $17
-100m
-35%
-30 rds, 5.45x39mm Rifle Magazine; FMJ / HP / CS
-57
+----Anvil Arms AR-74 	$1986	----
+Damage:	90 Ballistic	
+Ranged Miss Chance:		
+	3 out to 15m	
+	4 out to 40m	
+	5 out to 75m	
+Auto Miss Chance:	+5,  -1 for every 4 Strength	
+Mag Size:		25 rounds of 7.65x40mm. $17 per magazine
+Reload DC:		30
+Fire Modes:		Semi, Auto
+Auto Fire Rate: 	6	
+Armor Piercing Level:	2	
+Reflex Modifier:	-5	
+Suppression Level:	Medium	
 
-ECSC Mk16 $2100 / $15
-120m
-30%
-30 rds, 5.56x45mm Rifle Magazine; FMJ / Tracer
-50
-Tracer inflicts 1 turn of bleed damage.
+----ECSC Mk15	$1715	----
+Damage:	75 Ballsitic
+Ranged Miss Chance:		
+	3 out to 15m	
+	4 out to 50m	
+	5 out to 85m	
+Auto Miss Chance:	+3,  Gain a -1 @ 6 Strength	
+Mag Size:		25 rounds of 5.00x38mm. $14 per magazine
+Reload DC:		30
+Fire Modes:		Semi, Auto
+Auto Fire Rate: 	6	
+Armor Piercing Level:	1	
+Reflex Modifier:	-5	
+Suppression Level:	Medium	
 
-G&W FBR $2690 / $13
-120m
-30%
-20 rds, 7.62x51mm Rifle Magazine; FMJ / AP
-64
+===== Level 5 Weapons =====
 
-ECSC Mk249 $1950 / $50
-Requires strength of 7 to carry
-120m
-35%
-100 rds, 5.56x45mm Linked; Tracer Rounds / CS
-50
-Supporting fire
-Tracer Rounds inflict 1 bleed damage, 1 burn on next turn.
-Minimum Strength 7 to carry. Reload DC 40%
+----Anvil Arms AR-68 	$1937
+Damage:	85 Ballistic
+Ranged Miss Chance:		
+	3 out to 15m	
+	4 out to 45m	
+	5 out to 80m	
+Auto Miss Chance:	+3,  Gain a -1 @ 8 Strength	
+Mag Size:		25 rounds of 5.45x40mm. $16 per magazine
+Reload DC:		30
+Fire Modes:		Semi, Auto
+Auto Fire Rate: 	7	
+Armor Piercing Level:	3	
+Reflex Modifier:	-5	
+Suppression Level:	Medium
+		
+----Frontier 240R	$1982	----
+Damage:	85 Ballistic	
+Ranged Miss Chance:		
+	3 out to 15m	
+	4 out to 35m	
+	5 out to 75m	
+Auto Miss Chance:	+4,  -1 for every 5 Strength	
+Mag Size:		40 rounds of 6.50x39mm. $26 per magazine
+Reload DC:		30
+Fire Modes:		Semi, Auto
+Auto Fire Rate: 	6	
+Armor Piercing Level:	2	
+Reflex Modifier:	-5	
+Suppression Level:	Medium	
+		
+----ECSC Mk16 	$2102	----
+Damage:	80 Ballistic	
+Ranged Miss Chance:		
+	3 out to 15m	
+	4 out to 50m	
+	5 out to 85m	
+Burst Miss Chance:	+2,  Gain a -1 @ 6 Strength	
+Auto Miss Chance:	+3,  Gain a -1 @ 7 Strength	
+Mag Size:		30 rounds of 5.00x45mm. $19 per magazine
+Reload DC:		30
+Fire Modes:		Semi, Burst, Auto
+Burst; Auto Fire Rate:	3; 6	
+Armor Piercing Level:	3	
+Reflex Modifier:	-5	
+Suppression Level:	Medium	
+		
+----G&W XK20	$2412	----
+Damage:	95 Ballistic + 1x Bleed	
+Ranged Miss Chance:		
+	3 out to 15m	
+	4 out to 45m	
+	5 out to 75m	
+Burst Miss Chance:	+5,  -1 for every 4 Strength	
+Auto Miss Chance:	+7,  -1 for every 3 Strength (Starting at 5)	
+Mag Size:		20 rounds of 8.20x44mm. $17 per magazine
+Reload DC:		30
+Fire Modes:		Semi, Burst, Auto
+Burst; Auto Fire Rate:	3; 6	
+Armor Piercing Level:	3	
+Reflex Modifier:	-5	
+Suppression Level:	Medium	
+		
+----Partix Laser Rifle LA105	$3094	----
+Damage:	65 Laser	
+Ranged Miss Chance:		
+	2 out to 20m	
+	3 out to 55m	
+	4 out to 90m	
+Auto Miss Chance:	+3,  Gain a -1 @ 7 Strength	
+Mag Size:		24 charges of 20kWh . $19 per magazine
+Reload DC:		35
+Fire Modes:		Semi, Auto
+Auto Fire Rate: 	6	
+Armor Piercing Level:	n/a	
+Reflex Modifier:	-5	
+Suppression Level:	Medium
 
-Anvil Arms KMR $3580 / $51
-Requires strength of 7 to carry
-160m
-30%
-80 rds, 7.62 x 51mm Linked
-64, Bleed Damage
-Supporting Fire
-Minimum 7 Str to carry. 40% reload
 
-Matthews Model 240-B $3720 / $50
-Requires strength of 7 to carry
-160m
-25%
-80 rds, .308 RMM-Mag Belt
-62, Bleed damage.
-Supporting Fire
-Minimum 7 Str to carry. 40% reload.
+===== Level 10 Weapons =====
+
+----G&W XK100	$3700	----
+Damage:	100 Ballistic
+Ranged Miss Chance:		
+	2 out to 15m	
+	3 out to 50m	
+	4 out to 85m	
+Burst Miss Chance:	+4,  -1 for every 4 Strength	
+Auto Miss Chance:	+6,  -1 for every 3 Strength (Starting at 5)	
+Mag Size:		20 rounds of 8.20x44mm. $17 per magazine
+Reload DC:		30
+Fire Modes:		Semi, Burst, Auto
+Burst; Auto Fire Rate:	3; 6	
+Armor Piercing Level:	4	
+Reflex Modifier:	-5	
+Suppression Level:	Medium	
+Notes/Description:	1x Bleed	
+		
+----Frontier Plas-20	$4231	----
+Damage:	105 Plasma + 1x Plasma Burn	
+Ranged Miss Chance:		
+	2 out to 20m	
+	3 out to 55m	
+	5 out to 85m	
+Auto Miss Chance:	+3,  Gain a -1 @ 6 Strength	
+Mag Size:		18 units of Argon-8. $20 per magazine
+Reload DC:		40
+Fire Modes:		Semi, Auto
+Auto Fire Rate: 	6	
+Armor Piercing Level:	4	
+Reflex Modifier:	-5	
+Suppression Level:	Medium	
+		
+----Partix Laser Rifle LA155	$4282	----
+Damage:	75 Laser	
+Ranged Miss Chance:		
+	2 out to 20m	
+	3 out to 65m	
+	3 out to 90m	
+Auto Miss Chance:	+3,  Gain a -1 @ 6 Strength	
+Mag Size:		30 charges of 25kWh. $28 per magazine
+Reload DC:		35
+Fire Modes:		Semi, Auto
+Auto Fire Rate: 	6	
+Armor Piercing Level:	n/a	
+Reflex Modifier:	-5	
+Suppression Level:	Medium
+
+
+============================================================
+Machine Guns:
+Strength required ? unless otherwise stated.
+? actions to reload unless otherwise stated.
+============================================================
+
+===== Level 1 Weapons =====
+
+----ECSC Mk15R2	$2197	----
+Damage:	80 Ballistic	
+Ranged Miss Chance:		
+	3 out to 15m	
+	4 out to 45m	
+	5 out to 90m	
+Auto Miss Chance:	+3,  -1 for every 6 Strength	
+Mag Size:		60 rounds of 5.00x38mm. $36 per magazine
+Reload DC:		40
+Fire Modes:		Auto
+Auto Fire Rate: 	6	
+Armor Piercing Level:	1	
+Reflex Modifier:	-15	
+Suppression Level:	Heavy	
+Movement Speed Penalty:	-2m	
+		
+----Anvil Arms KMR4	$2854	----
+Damage:	95 Ballistic	
+Ranged Miss Chance:		
+	3 out to 15m	
+	4 out to 40m	
+	5 out to 85m	
+Auto Miss Chance:	+5,  -1 for every 3 Strength (starting at 5)	
+Mag Size:		80 rounds of 7.65x45mm. $57 per magazine
+Reload DC:		40
+Fire Modes:		Semi, Auto
+Auto Fire Rate: 	6	
+Armor Piercing Level:	2	
+Reflex Modifier:	-20	
+Suppression Level:	Heavy	
+Movement Speed Penalty:	-2.5m	
+
+===== Level 5 Weapons =====
+
+----ECSC Mk249 	$2555	----
+Damage:	85 Ballistic	
+Ranged Miss Chance:		
+	3 out to 15m	
+	4 out to 50m	
+	5 out to 90m	
+Auto Miss Chance:	+3,  -1 for every 6 Strength	
+Mag Size:		100 rounds of 5.00x45mm. $59 per magazine
+Reload DC:		40
+Fire Modes:		Auto
+Auto Fire Rate: 	7	
+Armor Piercing Level:	3	
+Reflex Modifier:	-20	
+Suppression Level:	Heavy	
+Movement Speed Penalty:	-2m	
+		
+----Frontier LMG-P8	$3543	----
+Damage:	100 Plasma + 1x PLasma Burn
+Ranged Miss Chance:		
+	2 out to 15m	
+	4 out to 45m	
+	5 out to 80m	
+Auto Miss Chance:	+3,  -1 for every 6 Strength	
+Mag Size:		40 units of Argon-8. $40 per magazine
+Reload DC:		40
+Fire Modes:		Auto
+Auto Fire Rate: 	6	
+Armor Piercing Level:	4	
+Reflex Modifier:	-30	
+Suppression Level:	Heavy	
+Movement Speed Penalty:	-2m
+		
+----Matthews Model 240-B 	$4450	----
+Damage:	105 Ballistic	
+Ranged Miss Chance:		
+	2 out to 15m	
+	3 out to 50m	
+	4 out to 90m	
+Auto Miss Chance:	+6,  -1 for every 3 Strength (starting at 5)	
+Mag Size:		80 rounds of 7.65x51mm. $58 per magazine
+Reload DC:		30
+Fire Modes:		Auto
+Auto Fire Rate: 	6	
+Armor Piercing Level:	4	
+Reflex Modifier:	-30	
+Suppression Level:	Heavy	
+Movement Speed Penalty:	-2.5m
+
+===== Level 10 Weapons =====
+
+----Partix Laser LMA210	$5111	----
+Damage:	75 Laser	
+Ranged Miss Chance:		
+	2 out to 15m	
+	3 out to 70m	
+	3 out to 95m	
+Auto Miss Chance:	+5,  -1 for every 4 Strength	
+Mag Size:		60 charges of 50kWh. $55 per magazine
+Reload DC:		35
+Fire Modes:		Semi, Auto
+Auto Fire Rate: 	6	
+Armor Piercing Level:	n/a	
+Reflex Modifier:	-30	
+Suppression Level:	Heavy	
+Movement Speed Penalty:	-2.5m	
+		
+----Frontier LMG-P10	$6132	----
+Damage:	120 Plasma + 1x PLasma Burn	
+Ranged Miss Chance:		
+	2 out to 15m	
+	3 out to 55m	
+	5 out to 90m	
+Auto Miss Chance:	+3,  -1 for every 6 Strength	
+Mag Size:		50 units of Argon-8. $59 per magazine
+Reload DC:		40
+Fire Modes:		Auto
+Auto Fire Rate: 	6	
+Armor Piercing Level:	5	
+Reflex Modifier:	-30	
+Suppression Level:	Heavy	
+Movement Speed Penalty:	-3m	
 
 ============================================================
 Heavy Weapons:
@@ -602,30 +1073,165 @@ Reload DC 40%, strength required 6 unless otherwise stated.
 2 actions to reload unless otherwise stated.
 ============================================================
 
-G&W AA-29 Personal Flack Cannon $2070 / $18
-15%
-100 dam out to 10m, 80 out to 20m, 60 out to 50m.
-20 rounds, 
-Each shot into a door reduces the DC of kicking down that door by 65. If the 
-DC becomes 0, the door is blown open. No optics or barrel attachments.
+===== Level 1 Weapons =====
 
-Anvil Arms XM-545 Minigun $3000 / $150
-Reqires Strength of 8 to carry.
-60m
-30%
-300 rds, 5.45 x 39 mm belt; 
-50 damage
-Requires 2 actions of spin-up time. Fires STR/3 rounds per Action, 
-round down. Jam range 2%
-Supporting Fire. No optics, barrel attachments or extended mags.
+----Frontier Flame Thrower FLMR	$1774	----
+Damage:	100 Special	
+Ranged Miss Chance:		
+	2 out to 10m	
+	4 out to 15m	
+	5 out to 20m	
+Mag Size:		14 units of 4 liters, Naphitic Gel. $200 per magazine
+Reload DC:		50
+Fire Modes:		Semi
+Armor Piercing Level:	n/a	
+Reflex Modifier:	-20	
+Suppression Level:	Medium*	
+Movement Speed Penalty:	-2m	
+Notes/Description:	Requires 2 shots for Medium Suppression. Catches flammable objects on fire. Not affected by armor, unless 
+target is 100% sealed. If target took damage, apply 1xBurning@ DC70% to remove. Apply 1xFear on hit. No optics or barrel attachments.	
+		
+----Anvil Arms XM-50 Microgun	$2135	----
+Damage:	40 Ballistic	
+Ranged Miss Chance:		
+	4 out to 15m	
+	5 out to 30m	
+	6 out to 70m	
+Mag Size:		200 rounds of 5.00x17mm. $140 per magazine
+Reload DC:		60
+Fire Modes:		Special
+Armor Piercing Level:	0	
+Reflex Modifier:	-20	
+Suppression Level:	Heavy	
+Movement Speed Penalty:	-2m	
+Notes/Description:	Requires 1 Action of spin-up time. Fires 20 bullets (roll once for two bullets for miss chance, but once per
+bullet on armor rolls) per Action, round down. Jam range 2%. No optics, barrel attachments or extended mags. Requires 4 strength to 
+lug around, 5 to use.	
 
-Strudwick Arms Ultralight Autocannon $7600 / $200
-140m
-30%
-4 rounds, 20mm vicinity detonating HE rounds.
-75 explosive damage, 40 shrapnel 1m adjacent.
-Damages vehicles. No optics or barrel attachments.
-Clips cost $200 each
+===== Level 5 Weapons =====
+
+----Matthews TX-6 Rotary Grenade Launcher	$2705	----
+Damage:	see notes	
+Ranged Miss Chance:		
+	3 out to 10m	
+	4 out to 30m	
+	5 out to 60m	
+Mag Size:		6 rounds of 40mm Grenades. $?? per magazine
+Reload DC:		50
+Fire Modes:		Semi
+Armor Piercing Level:	x	
+Reflex Modifier:	-15	
+Suppression Level:	n/a	
+Movement Speed Penalty:	-1m	
+Notes/Description:	Ammo cost is 1/2 the cost of the respective grenade. Considered a secondary weapon. Requires an explosives
+skill of at least 10 to use. Accuracy only increased by grenade launcher attachments, PER mod, and [explosives skill]/20. All 40mm
+grenades explode on impact (DC 100% PER or LUCK check to dodge or take reduced damage) and have a -1m max explosion radius, unless
+otherwise stated. 2 Action reload.	
+		
+----Partix LX Lightning Gun	$2693	----
+Damage:	100 Special	
+Ranged Miss Chance:		
+	2 out to 10m	
+	3 out to 25m	
+	5 out to 40m	
+Mag Size:		10 charges of 50kWh . $100 per magazine
+Reload DC:		40
+Fire Modes:		Semi
+Armor Piercing Level:	n/a	
+Reflex Modifier:	-15	
+Suppression Level:	Medium*	
+Movement Speed Penalty:	-2m	
+Notes/Description:	Requires 2 shots for Medium suppression. Roll 50% luck for the closest target within 3m of  the primary, on
+success, they take 70 electrical damage. If there are ties, only one secondary target takes damage. Destroys electronics. All 
+affected targets must make a DC 70% Fort save. On failure, stunned for 1 turn. Not affected by armor. Requires 6 Str and 6 INT 
+to use. No optics or barrel attachments. Blocked by shields	
+		
+----Shiva Light-Antimaterial Rifle SARL	$3115	----
+Damage:	200 Ballistic	
+Ranged Miss Chance:		
+	3 out to 15m	
+	4 out to 40m	
+	5 out to 100m	
+Mag Size:		1 rounds of 12.0x100mm. $80 per magazine
+Reload DC:		35
+Fire Modes:		Semi
+Armor Piercing Level:	6	
+Reflex Modifier:	-25	
+Suppression Level:	Medium*	
+Movement Speed Penalty:	-1.5m	
+Notes/Description:	Only requires 1 shot for Medium Suppression. Considered a secondary weapon. Damages vehicles and pierces
+certain kinds of light cover. If the shot does not pierce armor, inflict damage/3 explosive damage. AP bullets have +1 AP over 
+listed value when used in this gun. 2 action reload time.	
+		
+----Anvil Arms XM-500 Minigun	$4477	----
+Damage:	50 Ballistic
+Ranged Miss Chance:		
+	4 out to 15m	
+	5 out to 40m	
+	6 out to 90m	
+Mag Size:		300 rounds of 5.00x24mm. $270 per magazine
+Reload DC:		60
+Fire Modes:		Special
+Armor Piercing Level:	1	
+Reflex Modifier:	-25	
+Suppression Level:	Heavy	
+Movement Speed Penalty:	-3m	
+Notes/Description:	Requires 1 Action of spin-up time. Fires 20 bullets (roll once for two bullets for miss chance, but once per
+bullet on armor rolls) per Action, round down. Jam range 2%. No optics, barrel attachments or extended mags. Requires 5 strength to 
+lug around, 6 to use.	
+
+===== Level 10 Weapons =====
+
+----G&W AA-29 Personal Flack Cannon	$2886	----
+Damage:	see notes	
+Ranged Miss Chance:		
+	2 out to 10m	
+	3 out to 20m	
+	4 out to 50m	
+Mag Size:		12 rounds of ??. $50 per magazine
+Reload DC:		40
+Fire Modes:		Semi
+Armor Piercing Level:	2	
+Reflex Modifier:	-20	
+Suppression Level:	Medium*	
+Movement Speed Penalty:	-3m	
+Notes/Description:	*Requires 3 shots for Medium suppression. 60x3 dam out to 10m, 50x3 out to 20m, 37x3 out to 50m. Hits every
+hit-able part of the body (e.g.: 60 damage to chest, legs, and arms @ 5m) (automatically hits armor if present). Hits all targets 1m
+adjacent to the primary target after 10m. 2m adjacent to the primary target after 20m. No optics or barrel attachments.	
+		
+----Strudwick Arms Ultralight Autocannon UA-6C	$3896	----
+Damage:	see notes	
+Ranged Miss Chance:		
+	3 out to 15m	
+	4 out to 30m	
+	5 out to 90m	
+Mag Size:		4 rounds of 20mm vicinity detonating HE rounds. $100 per magazine
+Reload DC:		30
+Fire Modes:		Semi
+Armor Piercing Level:	n/a	
+Reflex Modifier:	-30	
+Suppression Level:	Medium*	
+Movement Speed Penalty:	-3m	
+Notes/Description:	Only requires 1 shot for Medium Suppression. 110 explosive damage, 70 explosive to 2m adjacent (radius).
+Damages vehicles. Each shot into a door reduces the DC of kicking down that door by 65. If the DC becomes 0, the door is blown open.
+No optics or barrel attachments.	
+		
+----Shiva Antimaterial Rifle SAR	$7144	----
+Damage:	300 Ballistic
+Ranged Miss Chance:		
+	3 out to 15m	
+	4 out to 50m	
+	5 out to 120m	
+Mag Size:		1 rounds of 13.0x120mm. $150 per magazine
+Reload DC:		35
+Fire Modes:		Semi
+Armor Piercing Level:	8	
+Reflex Modifier:	-25	
+Suppression Level:	Medium*	
+Movement Speed Penalty:	-3m	
+Notes/Description:	Only requires 1 shot for Medium Suppression. Considered a secondary weapon. Damages vehicles and pierces
+certain kinds of light cover. If the shot does not pierce armor, inflict damage/3 explosive damage. AP bullets have +1 AP over 
+listed value when used in this gun. 2 action reload time.	
 
 ============================================================
 Long Rifles:
@@ -635,39 +1241,178 @@ Minimum 5 strength to carry. All targets are inflicted with "Pinned" condition
 when hit. Reload DC 30% unless otherwise noted. Reload time 3 Actions.
 ============================================================
 
-ECSC PRS $4325 / $4
-10-150m
-15%
-7 rds, .300 Blackout; FMJ / AP
-60
-Bolt Action: take 1 action to fire, 1 action to chamber a new round.
-Integrated Improved Silencer. This integrated silencer prevents the usage of a
-muzzle break or other silencers or suppressors.
-Reload DC 26%, 2 Actions
+=====	LEVEL 1 REQUIREMENT WEAPONS	=====
 
-ECSC Mk12 Mod 0 $3500 / $10
-20-200m
-30%
-20 rds, 5.56x45mm Rifle Magazine; FMJ
-50
-Reload DC 25%, 2 Actions
+----Anvil Arms SR-150	$1559	----
+Damage:	115 Ballistic	
+Ranged Miss Chance:		
+	3 out to 20m	
+	4 out to 100m	
+	5 out to 170m	
+Mag Size:		5 rounds of 7.65x54mm. $10 per magazine
+Reload DC:		35
+Fire Modes:		Bolt Action
+Armor Piercing Level:	3	
+Reflex Modifier:	-25	
+Suppression Level:	Light	
+Movement Speed Penalty:	-1m	
+Notes/Description:	Starts with 'Basic 2x Scope attached': +10m minimum range	
+		
+----ECSC Mk12 Mod 0 	$2159	----
+Damage:	105 Ballistic
+Ranged Miss Chance:		
+	3 out to 20m	
+	4 out to 65m	
+	5 out to 110m	
+Mag Size:		20 rounds of 5.77x55mm. $53 per magazine
+Reload DC:		29
+Fire Modes:		Semi
+Armor Piercing Level:	2	
+Reflex Modifier:	-15	
+Suppression Level:	Medium	
+Movement Speed Penalty:	-0.5m	
+Notes/Description:	Starts with 'Basic 2x Scope attached': +10m minimum range	
 
-Anvil Arms SR-150 $5440 / $3
-20-200m
-20%
-5 rds, 7.62x54R; FMJ / AP
-68
-Bolt action: take 1 action to chamber round, 1 action to fire.
+=====	LEVEL 5 REQUIREMENT WEAPONS	=====
 
-Anvil Arms SR-250 $8160 / $5
-30-300m
-20%
-5 rds, 7.62x54R; FMJ / CS
-68
-Bolt Action: take 1 action to fire, 1 action to chamber a new round.
+----ECSC Mk25 DMR	$2877	----
+Damage:	110 Ballistic
+Ranged Miss Chance:		
+	2 out to 20m	
+	3 out to 75m	
+	4 out to 130m	
+Mag Size:		10 rounds of 7.65x51mm. $28 per magazine
+Reload DC:		29
+Fire Modes:		Semi
+Armor Piercing Level:	3	
+Reflex Modifier:	-20	
+Suppression Level:	Medium	
+Movement Speed Penalty:	-0.5m	
+Notes/Description:	Starts with 'Basic 2x Scope attached': +10m minimum range	
+		
+----ECSC PRS 	$2303	----
+Damage:	115 Ballistic
+Ranged Miss Chance:		
+	2 out to 20m	
+	3 out to 80m	
+	4 out to 140m	
+Mag Size:		7 rounds of 6.06x60mm. $16 per magazine
+Reload DC:		30
+Fire Modes:		Bolt Action
+Armor Piercing Level:	4	
+Reflex Modifier:	-20	
+Suppression Level:	Light	
+Movement Speed Penalty:	-0.5m	
+Notes/Description:	Integrated Improved Silencer. Starts with 'Basic 2x Scope attached': +10m minimum range	
+		
+----Frontier Plas-3 LR	$3135	----
+Damage:	130 Plasma + 3x Plasma Burn	
+Ranged Miss Chance:		
+	2 out to 20m	
+	3 out to 90m	
+	5 out to 160m	
+Mag Size:		4 units of Xenon-131. $16 per magazine
+Reload DC:		40
+Fire Modes:		Bolt Action
+Armor Piercing Level:	4	
+Reflex Modifier:	-30	
+Suppression Level:	Light	
+Movement Speed Penalty:	-1m	
+Notes/Description:	Starts with 'Basic 2x Scope attached': +10m minimum range	
 
-//add some rifles and buff SR series rifles 100m after marksman update
+=====	LEVEL 10 REQUIREMENT WEAPONS	=====
 
+----Anvil Arms SR-250 	$3198	----
+Damage:	130 Ballistic
+Ranged Miss Chance:		
+	2 out to 20m	
+	3 out to 140m	
+	4 out to 230m	
+Mag Size:		5 rounds of 7.65x67mm. $11 per magazine
+Reload DC:		35
+Fire Modes:		Bolt Action
+Armor Piercing Level:	6	
+Reflex Modifier:	-25	
+Suppression Level:	Light	
+Movement Speed Penalty:	-1m	
+Notes/Description:	Starts with 'Basic 2x Scope attached': +10m minimum range	
+		
+----NFA N505	$4431	----
+Damage:	150 Ballistic
+Ranged Miss Chance:		
+	2 out to 20m	
+	3 out to 155m	
+	4 out to 260m	
+Mag Size:		5 rounds of 8.60x70mm. $13 per magazine
+Reload DC:		35
+Fire Modes:		Bolt Action
+Armor Piercing Level:	6	
+Reflex Modifier:	-30	
+Suppression Level:	Light	
+Movement Speed Penalty:	-1.5m	
+Notes/Description:	Starts with 'Basic 2x Scope attached': +10m minimum range	
+		
+----Matthews BA780	$5720	----
+Damage:	140 Ballistic
+Ranged Miss Chance:		
+	1 out to 20m	
+	2 out to 210m	
+	3 out to 400m	
+Mag Size:		3 rounds of 7.80x74mm, streamlined. $16 per magazine
+Reload DC:		35
+Fire Modes:		Bolt Action
+Armor Piercing Level:	7	
+Reflex Modifier:	-30	
+Suppression Level:	Light	
+Movement Speed Penalty:	-1.5m	
+Notes/Description:	Starts with 'Basic 2x Scope attached': +10m minimum range	
+		
+----Partix 10X Laser Rifle 	$5877	----
+Damage:	110 Laser	
+Ranged Miss Chance:		
+	2 out to 20m	
+	3 out to 150m	
+	3 out to 200m	
+Mag Size:		7 charges of 35kWh. $29 per magazine
+Reload DC:		35
+Fire Modes:		Bolt Action
+Armor Piercing Level:	n/a	
+Reflex Modifier:	-30	
+Suppression Level:	Light	
+Movement Speed Penalty:	-1m	
+Notes/Description:	Starts with 'Basic 2x Scope attached': +10m minimum range	
+		
+----Frontier Plas-5 LR	$6975	----
+Damage:	160 Plasma + 3x Plasma Burn	
+Ranged Miss Chance:		
+	2 out to 20m	
+	3 out to 110m	
+	5 out to 200m	
+Mag Size:		8 units of Xenon-131. $38 per magazine
+Reload DC:		40
+Fire Modes:		Bolt Action
+Armor Piercing Level:	6	
+Reflex Modifier:	-30	
+Suppression Level:	Light	
+Movement Speed Penalty:	-1m	
+Notes/Description:	Starts with 'Basic 2x Scope attached': +10m minimum range	
+
+=====	LEVEL 15 REQUIREMENT WEAPONS	=====
+
+----Partix 40X HiBeam Rifle 	$11503	----
+Damage:	130 Laser	
+Ranged Miss Chance:		
+	1 out to 20m	
+	2 out to 180m	
+	3 out to 250m	
+Mag Size:		5 charges of 40kWh. $29 per magazine
+Reload DC:		35
+Fire Modes:		Semi
+Armor Piercing Level:	n/a	
+Reflex Modifier:	-30	
+Suppression Level:	Medium	
+Movement Speed Penalty:	-1m	
+Notes/Description:	Starts with 'Basic 2x Scope attached': +10m minimum range
 
 ============================================================
 Rocket Launchers:
