@@ -473,9 +473,9 @@ During a move action, +1 movement speed per X (up to a max of +10 movement),
 for that action only. This feat can only be used once per turn.
 Adrenaline Rush can be taken again to reduce the Nanite cost to 2*X.
 
-Careful Shot [8 Nanites]: 
+Aimed Shot [8 Nanites]: 
 Prerequisites: PER 6
-Use your Nanites during an aim action to help you more carefully aim at the target. 
+Use your Nanites during an Aim action to help you more carefully aim at the target. 
 Automatically critical hit on your next shot, if you hit. This is akin to seeing 
 a chink in armour and aiming for it, or shooting a target's arm so they cannot use their
 weapon, etc.
