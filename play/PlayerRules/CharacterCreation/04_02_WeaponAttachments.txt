@@ -31,14 +31,14 @@ Grenade Launcher ranged miss chance: -0.5
 1x Dot Sight  $350
 Your basic tube-shaped dot-projection. Dot can be changed from blue-green-red 
 for various lighting situations and terrains.
-Reduction in Range Bracket Miss Chance by weapon type: -1 for Pistols, -0.5 other.
+Miss Chance reduction (in all Range Brackets) by weapon type: -1 for Pistols, -0.5 other.
 R3 Range: +3m
 
-1x Reflexive Sight  $500
+1x Reflex Sight  $500
 A reflectively-projected site, comprised of a light source and a single pane of 
 rectangular glass. Allows for less F.O.V. and parallax distortions. 
 Has a small cross, chevron, or dot as the indicator. 
-R3 Range bonus & Range Bracket Miss Chance reductions are proportional to the weapon
+R3 Range bonus & Miss Chance reduction (all Range Brackets) is proportional to the weapon
 type: +6m/-1.5 Pistols, +10m/-1.0 submachine guns, +2m/-1.0 carbines, +0m/-1.0 other.
 Weapon Reflex Modifier: +2
 
@@ -46,7 +46,7 @@ Weapon Reflex Modifier: +2
 Projects a hologram target acquisition reticle, which compensates slightly 
 for windage or target movement. also artificially enhances view so as to 
 magnify by 120%.
-R3 Range bonus & Range Bracket Miss Chance reductions are proportional to the weapon
+R3 Range bonus & Miss Chance reduction (all Range Brackets) is proportional to the weapon
 type: +8m/-2.0 Pistols, +12m/-1.5 submachine guns, +8m/-1.0 carbines, +6m/-1.0 other.
 Weapon Reflex Modifier: +5
 
@@ -54,23 +54,23 @@ Weapon Reflex Modifier: +5
 A basic magnifying optical-tube capable of increasing the effective range of a weapon. 
 Flips out of the way for 1 action.
 Must be paired with a reflex/projector/dot sight. Usable on select long barrel pistols, ask your DM. 
-Add a range bracket with Miss chance R4 = R3 + 1 and Range R4 = R3+20m. For pistols, Range R4 = R3+15m. +5m minimum range. 
+Add a range bracket with Miss chance R4 = [R3's miss chance]+1 and Range R4 = R3+20m. For pistols, Range R4 = R3+15m. +5m minimum range. 
 
 3.2x Basic Scope  $800
 A heavy-duty tube made for heavy weapons and sustained automatic fire, but 
 would suit single-fire weapons just as well. Sports a black multi-chevron 
 reticle suitable for daytime bright-light use.
-Add a range bracket with Miss Chance R4 = R3 + 1 and Range R4 = R3+35m, +10m minimum range.
+Add a range bracket with Miss Chance R4 = [R3's miss chance]+1 and Range R4 = R3+35m, +10m minimum range.
 Range Bracket Miss Chance: -0.5
 
 4x Basic Scope  $1100
 Not usable on pistols, SMGs. 
-Add a range bracket with Miss Chance R4 = R3+1 and Range R4 = R3+50m, +15m minimum range.
+Add a range bracket with Miss Chance R4 = [R3's miss chance]+1 and Range R4 = R3+50m, +15m minimum range.
 Range Bracket Miss Chance: -0.5
 
 6x Basic Scope  $1400
 Not usable on pistols, SMGs. 
-Add a range bracket with Miss Chance R4 = R3+1 and Range R4 = R3+80m, +20m minimum range.
+Add a range bracket with Miss Chance R4 = [R3's miss chance]+1 and Range R4 = R3+80m, +20m minimum range.
 Range Bracket Miss Chance: -0.5
 
 2-6x Scope  $2100
@@ -79,22 +79,22 @@ For 1 action, you can adjust the magnification on this scope in order to
 better see your target. Once sighted to a certain range, other targets that 
 are +/- 10 meters can still be fired upon. Otherwise you must adjust your 
 magnification.
-Add a range bracket with Miss Chance R4 = R3+0.5 and Range R4 = R3+80m, +10 minimum range.
+Add a range bracket with Miss Chance R4 = [R3's miss chance]+0.5 and Range R4 = R3+80m, +10 minimum range.
 Range Bracket Miss Chance: -0.5
 
 7x Basic Scope  $1500
 Can only be used on Long Rifles.
-Add a range bracket with Miss Chance R4 = R3+1 and Range R4 = R3+50%m (or +95m whichever is higher), +25m minimum range.
+Add a range bracket with Miss Chance R4 = [R3's miss chance]+1 and Range R4 = 1.5x R3  (or +95m whichever is higher), +25m minimum range.
 Range Bracket Miss Chance: -0.5
 
 8x Basic Scope  $1800
 Can only be used on Long Rifles.
-Add a range bracket with Miss Chance R4 = R3+1 and Range R4 = R3+100%m, +30m minimum range.
+Add a range bracket with Miss Chance R4 = [R3's miss chance]+1 and Range R4 = 2x R3, +30m minimum range.
 Range Bracket Miss Chance: -0.5
 
 15-20x Scope  $3000
 Can only be used on Long Rifles.
-Add a range bracket with Miss Chance R4 = R3+0.5 and Range R4 = R3+200%m, +60m minimum range.
+Add a range bracket with Miss Chance R4 = [R3's miss chance]+0.5 and Range R4 = 3x R3, +60m minimum range.
 Range Bracket Miss Chance: -0.5
 
 Range Finder  $740
@@ -119,14 +119,14 @@ Projects a hologram target acquisition reticle, which compensates slightly
 for windage or target movement. Contains a crystal which changes the holographic 
 color depending on the environment. Also artificially enhances view so as to 
 magnify by 200%.
-R3 Range bonus & Range Bracket Miss Chance reduction are proportional to the weapon
+R3 Range bonus & Miss Chance reduction (all Range Brackets) is proportional to the weapon
 type: +15m/-2.0 Pistols, +20m/-1.5 submachine guns, +15m/-1.0 carbines, +12m/-1.0 other.
 Minimum Range: +1m
 Weapon Reflex Modifier: +5
 
-4x Tritium-dot  $2000
-Not usable on pistol, SMGs.
-Add a range bracket with Miss Chance R4 = R3+1 and Range R4 = R3+55m, +15m minimum range.
+4x Low-Light Enhanced Sight  $2000
+Powered by tritium fiberoptics. Not usable on pistol, SMGs.
+Add a range bracket with Miss Chance R4 = [R3's miss chance]+1 and Range R4 = R3+55m, +15m minimum range.
 Range Bracket Miss Chance: -1
 
 ========================================
@@ -191,7 +191,7 @@ Improved Flash / Sound Suppressor  $1400
 Completely removes muzzle flash and the weapon report. Targets cannot locate 
 you due to firing your weapon.
 Auto and Burst Miss Chance: -0.5 
-R3 Range: +4m
+R3 Range: +8m
 Only applies to ballistic weapons. Not usable on coilguns, shotguns, or Machine Guns.
 
 ===== Level 10 Requirement =====
@@ -205,7 +205,7 @@ BE Meyers Spektor suppressor  $2000
 Completely removes muzzle flash and the weapon report. Targets cannot locate 
 you due to firing your weapon.
 Ranged Miss Chance: -0.5 
-R3 Range: +6m
+R3 Range: +12m
 Only applies to ballistic weapons. Not usable on coilguns, shotguns, or Machine Guns.
 
 ========================================
@@ -215,13 +215,13 @@ You may only choose one barrel type.
 
 ===== Level 1 Requirement =====
 
-Light Profile Barrel  $300 + 10% weapon cost
+Light Profile Barrel  $720
 Ranged Miss Chance: +0.5
 Strength Requirement: -1
 Carry Strength Bonus: +0.5 (cancels out movement speed penalties)
 Weapon Reflex Modifier: +5
 
-Heavy Profile Barrel  $450 + 10% weapon cost
+Heavy Profile Barrel  $720
 This heavier barrel reduces recoil, increases the accuracy of follow-up shots.
 Ranged Miss Chance: -1 @ Range Brackets R2 & R3 (and a -1 to R4 if relevant)
 Movement Speed Penalty: -1m
@@ -292,8 +292,8 @@ SMOKE: See ECSC Smoke Grenade.
 
 Under-Barrel Shotgun $520
 Damage, Ranged Miss Chance:			
-	130 damage, 2 miss chance out to 5m		
-	100 damage, 3 miss chance out to 10m		
+	110 damage, 2 miss chance out to 5m		
+	90 damage, 3 miss chance out to 10m		
 Mag Size:		3 rounds of 12ga Frangible. $13 for a bag of 8 shells.
 Reload DC:		45	
 Fire Modes:		Pump Action	
@@ -319,7 +319,7 @@ Cannot be used with an underbarrel weapon.
 At all times: -2 Auto and Burst Miss Chance.
 Only when deployed: -1 R3 & R2 Miss Chance.
 
-SPECO Under-Barrel Chainsaw SPC100  $607
+SPECO Under-Barrel Chainsaw SPC100  $607.77
 Enemy a little too close for comfort? Allows the user to enter melee combat 
 without needing to switch out their primary weapon for a melee weapon.
 Knowledge of "Weapon Use [Exotic]" required to operate.
@@ -370,17 +370,17 @@ Range Bracket Miss Chance: -0.5
 
 ===== Level 10 Requirement =====
 
-Pistol Smart-Lanyard System  $250
+Pistol Smart-Lanyard Holster System  $250
 Dropping your weapon holsters it as free action. Drawing it takes 1 Action as normal.
 
 ========================================
 Ammunition / Magazine Accessories
-Only extended, magpull, and C-mags apply to weapons other than bullet-firing. 
-Total mag price should be calculated by taking multipliers for extended mags 
-first, then multipliers for special effect, then magazine accessories like 
-magpulls. multipliers are multiplied together but they do not multiply the constant.
+Only extended, magpull, and Drum mags apply to unconventional weapons (weapons other
+than bullet-firing.) Total mag price should be calculated by taking multipliers for
+extended mags first, then multipliers for special effect, then magazine accessories
+like magpulls. Multipliers are multiplied together but they do not multiply the constant.
 For example, extended mag + poison bullet magazine magazine cost is
-(1.3x * 2x + 50) = (3.9x+50)
+(1.3x * 2x + 50) = (2.6x+50)
 ========================================
 
 ===== Level 1 Requirement =====
@@ -450,9 +450,9 @@ Pistol Hot-Load Reinforced Internals
 	(Pistol) $1000 + 20% weapon cost
 	(Revolver) $1500 + 20% weapon cost
 These reinforced internals allow the pistol to fire heavier loads, increasing 
-damage output of the pistol. Not usable with revolvers or plasma pistols.
-Usable in conjunction with other types of ammunition & accessories 
-(multiply their magazine costs together as normal). 
+damage output of the pistol. Not usable with plasma pistols. Usable in conjunction
+with other types of ammunition & accessories (multiply their magazine costs together
+as normal). 
 Magazine Cost increase: 1.8x
 Base Damage: +20% (drop the remainder)
 
@@ -470,14 +470,14 @@ Auto and Burst Miss Chance: -1.5
 Range Bracket Miss Chance: -0.5
 Strength Requirement: +1
 Movement Speed Penalty: -1m
-Weapon Reflex Modifier: The larger of [-20% base gun-weapon reflex or -5 weapon reflex]
+Weapon Reflex Modifier: The larger of [-20% base-gun weapon reflex or -5 weapon reflex]
 
 Light Profile Receiver (& Stock)  $1000
 Auto and Burst Miss Chance: +0.5
 Range Bracket Miss Chance: +0.5
 Strength Requirement: -1
 Carry Strength Bonus: +1 (cancels out movement speed penalties)
-Weapon Reflex Modifier: The larger of [+20% base gun-weapon reflex or +5 weapon reflex]
+Weapon Reflex Modifier: The larger of [+20% base-gun weapon reflex or +5 weapon reflex]
 
 Sawn-Off Shotgun Secondary Barrel   $250 + 10% weapon cost
 Applies only to break-action shotguns. If all relevant barrels are sawn off, 
