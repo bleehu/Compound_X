@@ -655,8 +655,7 @@ Fire Modes:		Semi, Burst
 Burst Fire Rate:	3	
 Armor Piercing Level:	n/a	
 Reflex Modifier:	+5	
-Suppression Level:	Medium	
-Notes/Description:		
+Suppression Level:	Medium
 
 ===== Level 10 Weapons =====
 
