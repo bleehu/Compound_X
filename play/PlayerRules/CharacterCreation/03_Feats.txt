@@ -3,7 +3,7 @@
  * Feats may be taken on every even level as described in the Basic
  * Rules document. Passive feats are used freely with no limit
  * (unless otherwise stated) while active feats require the user to
- * spend some stamina, which is specified next to the feat's name.
+ * spend some Nanites, which is specified next to the feat's name.
  * Unless otherwise specified, you cannot take a feat more than once.
  *======================================*/
 ====================
@@ -110,8 +110,21 @@ more than one target at a time. Reloading while dual wielding adds
 20% to the difficulty. Additionally the sum of the strength requirements 
 must be equal to or less than your strength.
 
+Empty the Mag: 
+Prerequisites:
+It happens. You aren't quite sure if you can hit your target perhaps, or 
+maybe you round that corner and are staring down the barrel of an enemy AR-68.
+Whatever the case, you need to dump the mag in their face to guarantee your 
+safety. Roll to pass a DC 30% DEX check. on success, you may fire off the 
+remainder of your clip or magazine (Applies only to weapons with a semi-automatic
+mode, maximum 10 shots). Roll hits for each shot. Using this feat takes 
+3 actions, and must be completed in the span of one turn. After using 
+this feat, the user must reload their weapon for it to be effective again. 
+Can only be used once per encounter, LVL number of times per day. At level 5 
+and beyond, can be used twice per encounter.
+
 Enhanced Neural Interface: 
-Prerequisites: INT 3, You must be a Cyborg or have a way to interface your mind to electronics
+Prerequisites: INT 3
 As a free action (in or out of combat) you can use any keyboard, plug into a 
 terminal, or use a monitor to perform a computer inquiry or operation. 
 +15% to ONE pertinent skill check (hacking, etc.) while using this feat,
@@ -149,10 +162,11 @@ You use your DEX modifier instead of your PER modifier for rolls to hit with
 ranged weapons. In taking this feat you sacrifice the ability to use PER on 
 rolls dealing with using a weapon.
 
-Improvise Weapon:
-Prerequisites: Melee Combat Skill > 20
-You do not take a penalty when using an improvised weapon. Chair legs can be 
-used as bats, fan blades as swords, etc., etc.
+POTENTIALLY REMOVE
+	Improvise Weapon:
+	Prerequisites: Melee Combat Skill > 20
+	You do not take a penalty when using an improvised weapon. Chair legs can be 
+	used as bats, fan blades as swords, etc., etc.
 
 Last Shot Counts: 
 Prerequisites: PER 5
@@ -183,7 +197,7 @@ Prerequisites: Level 5, 20 skill in Knowledge[Nanites]
 Allows the user to better concentrate on their expenditure of nanites, allowing them
 to achieve one of the following (you must choose one option when you acquire the feat):
     +2 turns of cloaking
-    Once per turn, +20% (or +2) to a magic-combat-action at a cost of 20 nanites (ask GM before applying to an action.)
+    Once per turn, +20% (or +2) to a Nanite-related-combat-action at a cost of 20 nanites (ask GM before applying to an action.)
     Once per turn, +20% to a non-combat-action at a cost of 20 nanites (ask GM before applying to an action.)
     Other, run any ideas by GM.
     
@@ -208,14 +222,15 @@ with you, you gain a pre-emptive melee strike against them.
 
 Quickdraw: 
 Prerequisites: DEX 5
-As a free action, draw your chosen weapon into firing position. If you are 
+As a free action, draw your chosen weapon(s) into firing position. If you are 
 holding something, you can drop it and still draw your weapon as a free 
 action. However, you might not want to drop anything glass. Or any explosives.
 
-Rainman: 
-Prerequisites: CHA <3 and INT >8
-Your character has something going for them. You may ask the GM how many 
-bullets each opponent has left in their weapon.
+NEEDS A BUFF:
+	Rainman: 
+	Prerequisites: CHA <3 and INT >8
+	Your character has something going for them. You may ask the GM how many 
+	bullets each opponent has left in their weapon.
 
 Salty Hashtables
 Prerequisites: Must be a mechanical race
@@ -266,8 +281,8 @@ Snap Shot:
 Prerequisites: PER 6
 Time slows down slightly around you, or at least your perception is increased 
 allowing you to process everything around you more quickly for a split second. 
-When a target is within half your largest range bracket, your miss chance is 
-reduced by 1 (or 10% if relevant).
+When a target is within your weapon's R1 or R2, your miss chance is reduced
+by 1 (or 10% if relevant).
 
 Social Ninja: 
 Prerequisites: CHA 7
@@ -347,7 +362,7 @@ be taken once. Investor can be used twice, but only once every 5 levels.
 Weapon Familiarization (can be taken once): 
 Prerequisites: INT 7 & 10 Weapon Use(x) 
 				-where x is the weapon type that the weapon falls under
-Remove 1 ranged miss chance from any one weapon model. If you spend 30 hours
+Remove 1.5 ranged miss chance from any one weapon model. If you spend 30 hours
 studying/using/practicing with a different gun (that you have at least 10 
 Weapon Use skill in using), you can change which gun you are most familiar 
 with -- which moves the bonus from the previous gun model, to the one you are
@@ -379,7 +394,7 @@ Proficient: Submachine Guns
 	25:	SMG Expert. -0.5 miss chance @ all ranges			
 	30:	-0.5 miss chance when firing in fully-automatic or burst			
 	40:	SMG Master. +10% damage; Gain feat "The Split": when firing automatic 
-		or burst, you can choose to pay 5 Stamina and fire half your bullets
+		or burst, you can choose to pay 5 Nanites and fire half your bullets
 		at two different targets in front of you, within 10m of each other.
 					
 Proficient: Shotguns					
@@ -390,7 +405,7 @@ Proficient: Shotguns
 	25:	Shotgun Expert. -0.5 miss chance @ all ranges			
 	30:	+10% perception checks for awareness within 25m.			
 	40:	Shotgun Master. +10% damage; Gain Active feat "I'm Used to Close Range": If you 
-		hit an enemy with buckshot, you can pay 10 Stamina for that attack action to miss
+		hit an enemy with buckshot, you can pay 10 Nanites for that attack action to miss
 		or hit armor (your choice) if the target has less than 100% armor coverage.			
 					
 Proficient: Carbines					
@@ -411,7 +426,7 @@ Proficient: Automatic Rifles
 	25:	Automatic Rifle Expert. -0.5 miss chance @ all ranges			
 	30:	-0.5 miss chance when firing in fully-automatic or burst			
 	40:	Automatic Rifle Master. +10% damage; Gain feat "Offensive Expert": Spend
-		10 stamina to gain -2 miss chance for a fully-automatic firing action, 
+		10 Nanites to gain -2 miss chance for a fully-automatic firing action, 
 		usable once per turn. This ability can let you exceed the minimum 1 miss
 		chance for automatic firing.
 					
@@ -452,88 +467,75 @@ Proficient: Explosives
 Active Feats
 ====================
 
-Adrenaline Rush [4*X Stamina]: 
+Adrenaline Rush [4*X Nanites]: 
 Prerequisites:
 During a move action, +1 movement speed per X (up to a max of +10 movement),
 for that action only. This feat can only be used once per turn.
-Adrenaline Rush can be taken again to reduce the stamina cost to 2*X.
+Adrenaline Rush can be taken again to reduce the Nanite cost to 2*X.
 
-Careful Shot [8 Stamina]: 
+Careful Shot [8 Nanites]: 
 Prerequisites: PER 6
-Use your stamina during an aim action to help you more carefully aim at the target. 
+Use your Nanites during an aim action to help you more carefully aim at the target. 
 Automatically critical hit on your next shot, if you hit. This is akin to seeing 
 a chink in armour and aiming for it, or shooting a target's arm so they cannot use their
 weapon, etc.
 
-Bunker [25 Stamina]:
+Bunker [25 Nanites]:
 Prerequisites: High-Technology class (Monk, Paladin, Adept, Priest) or 
 	Knowledge [Nanites] > 40
 Add +3 miss chance to a piece of cover for 4 turns
 
-Combat Roll [30 Stamina]:
+Combat Roll [30 Nanites]:
 Prerequisites: DEX 5
-Move 6m in one action, no more, no less. Enemies attacking you have a +2 miss chance 
-when attacking you during the roll and for the turn after you use this feat, and you
-have a +2 miss chance for the action after this feat ends. If this malus would 
-not run out until after this turn, its effect wraps around to the beginning of 
-your next turn. Cannot be used in concert with Run 'N' Gun.
+Move 6m in one action, no more, no less. Enemies attacking you have a +2 miss chance
+and a -20% penalty to reflex rolls when attacking you during the roll and for the turn
+after you use this feat, and you have a +2 miss chance for the action after this feat 
+ends. If this malus would not run out until after this turn, its effect wraps, around
+to the beginning of your next turn. Cannot be used in concert with Run 'N' Gun.
 
-Cover Slide [15 Stamina]:
+Cover Slide [15 Nanites]:
 Prerequisites: DEX 4
 Move up to your speed and end next to a barrier behind which you can take 
 cover. You hunker or go prone behind that cover as a free action. Cannot 
 be used in concert with Run 'N' Gun.
 
-Empty the Mag: 
-Prerequisites:
-It happens. You aren't quite sure if you can hit your target perhaps, or 
-maybe you round that corner and are staring down the barrel of an enemy AR-68.
-Whatever the case, you need to dump the mag in their face to guarantee your 
-safety. Roll to pass a DC 30% DEX check. on success, you may fire off the 
-remainder of your clip or magazine (Applies only to weapons with a semi-automatic
-mode, maximum 10 shots). Roll hits for each shot. Using this feat takes 
-3 actions, and must be completed in the span of one turn. After using 
-this feat, the user must reload their weapon for it to be effective again. 
-Can only be used once per encounter, LVL number of times per day. At level 5 
-and beyond, can be used twice per encounter.
-
-Flash Dance [8*X Stamina]: 
+Flash Dance [8*X Nanites]: 
 Prerequisites:
 For 1 Action, the user can make up to Lvl/2+1 (round up) number of attacks 
 with their melee weapon within a 5m space, rolling for each strike, where 
 X is the number of attacks. All bonuses that would normally apply to a standard
 attack still apply.
 
-Gun Kata [20 Stamina]: 
-Prerequisites: Level 10 or higher
+Gun Kata [30 Nanites]: 
+Prerequisites: Level 10
 For 1 Action, reduce weapon range to 15m and reduce Miss Chance by 5. Treat 
 any weapon as if it were a CQB weapon. After a successful hit, you may roll 
 for an additional hit on any target within the 15m range, for up to 3 rounds
 fired. If you miss a shot, your Gun Kata ends.
 
-Kata [Minimum 5 Stamina]: 
-Prerequisites: Level 10 or higher
+Kata [Minimum 5 Nanites]: 
+Prerequisites: Level 10
 Whenever you land a successful melee hit against someone, you may roll for X 
-additional attacks, where X is your stamina spent/5. Each additional attack has an additional
+additional attacks, where X is your Nanites spent/5. Each additional attack has an additional
 2 miss chance. (A 10th level character making their 3rd strike in a row would be 
 rolling at +4 miss chance). This +2 debuff applies to a Monk's Shadow Strike as well,
 increasing the DC by 20 per strike instead of increasing the strike's miss chance.
 
-Multi-Target [13*X Stamina]: 
+Multi-Target [13*X Nanites]: 
 Prerequisites:
 For 2 Actions, concentrate on up to Level+1 number of targets, where X is 
 the number of targets. Or concentrate 1 action to target Level/2(round up) Targets. 
-You may Roll once to determine if you hit all of these targets. If you fail 
-the roll, then you may roll again to hit your first target normally.
+You may Roll to-hit your first target in order to determine if you hit all of these 
+targets. If you fail the roll, then you may roll again to hit your first target
+normally.
 
-Run 'N' Gun [10 Stamina]: 
+Run 'N' Gun [10 Nanites]: 
 Prerequisites: PER 7 & DEX 7, or Soldier, or Specialist Classes.
-For 1 Action, you may move at half speed while firing. +1 Miss Chance. 
-If this feat is performed while sprinting, half your movement speed before you add 
-the +1m per-action from sprinting. The Miss Chance penalties stack for consecutive uses 
-of Run 'N' Gun. 
+For 1 Action, you may move at half speed while firing. +1 Miss Chance. If you don't Aim before using this feat, you must Hip Fire. If this feat is performed while sprinting, 
+half your movement speed before you add the +1m per-action from sprinting. The Miss
+Chance penalties stack for consecutive uses of Run 'N' Gun. 
 
-Steady Shot [5 Stamina]: 
+Steady Shot [5 Nanites]: 
 Prerequisites: PER 7
 Take 1 Action to breath slowly and line up your shot. -1 Ranged Miss Chance and 
 +10m to the weapon's largest range bracket for each level of Steady Shot taken.
@@ -541,12 +543,12 @@ Miss Chance can go below the -2 minimum range (See section "Combat:" in the basi
 rules document). You must be aiming at the target before you can use this feat. 
 Maximum 4 levels.
 
-Twitch	[7 Stamina]:
+Twitch	[7 Nanites]:
 Prerequisites: Level 3, Trained in SMGs or Pistols, DEX 7
 You may aim at an enemy as a free action instead of one action. Only 
 works with CQB weapons. +2 miss chance with the aimed weapon(s).
 
-Blur	[11 Stamina]:
+Blur	[11 Nanites]:
 Prerequisites: Level 10, Twitch
 You may aim at an enemy as a free action instead of one action. Only 
 works with CQB weapons. No Miss Chance penalty.
