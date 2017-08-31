@@ -12,6 +12,7 @@ exception of the tops of their heads.
 Type:		Organic
 Size:		Medium
 Speed:		Normal
+Starting Stat Points: 42
 Stat Modifiers:	
 +2 stat points to spend at level 1
 Language: 	Emperial Common, +1 dialect
@@ -61,6 +62,7 @@ Qualities: 10RP
 Type: humanoid
 Size: Medium
 Speed: Normal
+Starting Stat Points: 40
 Stat Modifiers: Flexible - +1 DEX, +1 to PER
 Language: Racial + ECSC Standard
 
@@ -95,6 +97,7 @@ recharge after a 24 hour period. this can be done via a self-contained
 reactor. Not affected by mind-influence, succeptable to hack attempts).
 Size: Medium+
 Speed: Normal
+Starting Stat Points: 40
 Stat Modifiers: INT + 1, FORT + 2. LUCK -3.
 Language: Basic
 
@@ -121,7 +124,8 @@ or fatigue. Once they hit 0 hit points, they are destroyed. They cannot be "
 brought back" but they can store copies of themselves on respawn systems.
 Size: Medium
 Speed: Normal
-Stat Modifiers: +2 INT, -2 LUK, +2 DEX -4 STR
+Starting Stat Points: 40
+Stat Modifiers: +2 INT, -2 LUK, +2 DEX, -4 STR
 Language: ECSC standard, Machine Language, +1 language.
 
 Racial Traits:
@@ -139,7 +143,7 @@ they can cast Shock Cannon with the following stats {
 	50 damage plus 2d10 CS damage
 }
 Archons are not as connected to electronics and integrated systems as Robotic 
-units are. However, as a Full round action, an archon may digitize itself into 
+units are. However, for 2 Actions, an archon may digitize itself into 
 a nearby system through an open connection port in order to interact with it. 
 In this way, Archons may have a racial score of +10 to computer use.
 Archons do not have a health bar. Instead, they have 300 + 20*int Nanites.
@@ -160,13 +164,14 @@ Preferred Classes: Any
 Type: Enhanced Organic.
 Size: Medium
 Speed: Normal+
-Stat Modifiers: 40 point pool.
+Starting Stat Points: 40
+Stat Modifiers: See Below
 Languge: ECSC Standard
 
 Racial Traits:
-Pick any three augments (you may take a single augment no more than 3 times, 
+Pick any three augments (you may take a single augment no more than 2 times, 
 or a combination of multiple augments. For example Occular Augment and Speed 
-Geared Fine Motor Controls II might help a mellee fighter increase both damage 
+Geared Fine Motor Controls II might help a melee fighter increase both damage 
 and hit chance.):
     Occular Augmentation: +1 Perception, Darkvision 20m.
     Enhanced Speed: +1 movement.
@@ -176,7 +181,7 @@ and hit chance.):
     Skeletal Support Structure: +1 FORT.
     Implanted Weapon: Pick a pistol from the basic weapons list. This pistol 
     is implanted in a limb. You may manipulate your limb to use this weapon at 
-    the cost of a half action. While the weapon is out, that limb does not 
+    the cost of 1 action. While the weapon is out, that limb does not 
     operate at its normal capacities. Hands would not grasp, legs would not 
     superbly support you, etc. Subrtact the price of the weapon from your 
     class starting money. The weapon can be upgraded to another pistol with a 

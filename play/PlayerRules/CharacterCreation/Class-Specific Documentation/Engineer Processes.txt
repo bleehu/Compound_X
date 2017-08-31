@@ -12,7 +12,7 @@ tree. Please see the Engineer Skill Tree - Repair.png for dependancies.
 ====================	  Cyberphysical			====================
 /////	Reboot
 Nanite Gain:65
-Action:		Half Action
+Action:		1 Action
 Duration: 	N/A
 Range:		Touch
 Effect:		Only usable on cybernetic allies that are "bleeding" out. That ally
@@ -22,7 +22,7 @@ check of 30.
 
 /////	Data Scrub
 Nanite Gain:35
-Action:		Half Action
+Action:		1 Action
 Duration: 	N/A
 Range:		Touch
 Effect:		Only usable on cybernetic allies who have been hacked or dominated.
@@ -34,7 +34,7 @@ scrub a hacked target.
 
 /////	Restore Armor
 Nanite Gain:50
-Action: 	Full Action
+Action: 	2 Actions
 Duration:	Almost Instant
 Range: 		Touch
 Effect:		You tinker with your ally's armor and mend it. Undo any debuffs on
@@ -42,7 +42,7 @@ your ally's armor such as sundering, battle damage, etc.
 
 /////	Percussive Matainence
 Nanite Gain:30
-Action:		Half Action
+Action:		1 Action
 Duration:	Almost Instant
 Range:		Touch
 Effect:		This stupid thing is broken again! You hit it with your wrench and
@@ -55,7 +55,7 @@ an RP event. Not to be confused with the concussive maitnence feat.
 
 /////	Defrag
 Nanite Gain:15
-Action:		Half Action
+Action:		1 Action
 Duration:	Until First Use
 Range:		Touch
 Effect:		You auto-balance your cybernetic ally's priority queues, defrag
@@ -65,7 +65,7 @@ RP roll.
 
 /////	Actuator Overdrive
 Nanite Gain:20
-Action:		Half Action
+Action:		1 Action
 Duration: 	engagement
 Range:		Touch
 Effect:		For an engagement, an ally moves 3m per action more. Ally 
@@ -76,7 +76,7 @@ engagement. Only works on cybernetic allies.
 
 /////	Discrete Overclock
 Nanite Gain:20
-Action:		Half Action
+Action:		1 Action
 Duration: 	Engagement
 Range:		Touch
 Effect:		A cybernetic ally gets a -8% to miss for the duration of the 
@@ -85,7 +85,7 @@ perception checks.
 
 /////	Network Targeting
 Nanite Gain:20
-Action:		Half Action
+Action:		1 Action
 Duration:	Until First Use
 Range:		Touch
 Effect:		You interface a visual triangulation unit with your cybernetic 
@@ -97,7 +97,7 @@ may be blocked with a hacking attack at DC 20.
 
 /////	System Overclock
 Nanite Gain:35
-Action:		Half Action
+Action:		1 Action
 Duration: 	Engagement
 Range:		Touch
 Effect:		A cybernetic ally gets a -14% to miss for the duration of the engagment.
@@ -106,7 +106,7 @@ take 20 damage from system overheat.
 
 /////	Colocation Processing
 Nanite Gain:20
-Action:		Half Action
+Action:		1 Action
 Duration:	Until First Use
 Range:		6m
 Effect:		You use your onboard manufacturing system processor as a dedicated
@@ -116,7 +116,7 @@ they get a +15 to it.
 
 /////	Regression Override
 Nanite Gain:60
-Action:		Half Action
+Action:		1 Action
 Duration:	8 Turns
 Range:		Touch
 Effect:		You temporarily dissable your cybernetic ally's regression system,
@@ -136,7 +136,7 @@ regression override once per encounter. Regression Overrides do not stack.
 
 /////	System Restore
 Nanite Gain:35
-Action:		Full Action
+Action:		2 Actions
 Duration: 	Permanent
 Range:		Touch
 Effect:		Can only be used on a cybernetic subject who's primary datacenter 
@@ -149,7 +149,7 @@ revived with System Restore.
 ====================	Material/Mechanic		====================
 /////	Duct Tape
 Nanite Gain:40
-Action:		Half Action
+Action:		1 Action
 Duration: 	N/A
 Range:		Touch
 Effect:		Ok, there was a little more to it than that. One of your targets 
@@ -158,7 +158,7 @@ on non-sentient robots and machinery.
 
 /////	Weapon Tuning
 Nanite Gain:20
-Action:		Half Action
+Action:		1 Action
 Duration: 	engagement
 Range:		Touch
 Effect:		You fiddle with your ally's gun quickly. You tune the whosits, and
@@ -169,7 +169,7 @@ keep your ally alive until then.
 
 /////	Vehicle Repair
 Nanite Gain:40
-Action:		2 Full Actions
+Action:		4 Actions
 Duration:	almost instant
 Range:		Touch
 Effect:		You pull out your tools and quickly repair the damage to a friendly
@@ -179,7 +179,7 @@ effect and may reduce the time taken to repair.
 
 /////	Multisys Repair
 Nanite Gain:30*n
-Action:		Half Action
+Action:		1 Action
 Duration: 	N/A
 Range:		Touch
 Effect:		The automaton is healed by the Engineer's heal roll / n, where n is 
@@ -188,7 +188,7 @@ beings or machines.
 
 ///// Micro Assembler
 Nanite Gain:50
-Action:		Half Action
+Action:		1 Action
 Duration: 	8 turns
 Range:		Touch
 Effect: You release a spider-like micro repair bot that repairs a cybernetic
@@ -200,7 +200,7 @@ location and may deal 5 damage per turn.
 
 /////	Engine Tuning
 Nanite Gain:50
-Action:		3 Full Actions
+Action:		6 Actions
 Duration: 	Almost Instant
 Range:		Touch
 Effect:		You crack open the hood of whatever vehicle is around and begin to
@@ -212,7 +212,7 @@ doing so and increases your effectivity at doing so.
 
 /////	Boilerplate Handiwork
 Nanite Gain:20
-Action:		Half Action
+Action:		1 Action
 Duration: 	Permanent
 Range:		Touch
 Effect:		Just slam some more metal on there! You add a protective layer to
@@ -222,7 +222,7 @@ destroyed, or until the engineer takes it off and discards it.
 
 /////	Zero Friction Covalent
 Nanite Gain:20
-Action:		Half Action
+Action:		1 Action
 Duration: 	Until next melee hit
 Range:		Touch
 Effect:		You coat your ally's weapon with a friction-negating substance that
@@ -234,7 +234,7 @@ weapon more than once at a time.
 
 /////	Sup it Up
 Nanite Gain:80
-Action:		6 Full Actions
+Action:		12 Actions
 Duration: 	8 turns
 Range:		Touch
 Effect:		Target friendly vehicle has full health, and its engine runs at
@@ -246,7 +246,7 @@ adding stabalized chassis for improved accuracy when fired from
 
 /////	Ceramic Catalyst
 Nanite Gain:	15 nanites
-Action:			Full Action
+Action:			2 Actions
 Duration:		10 turns or 2 hits
 Range:			Touch
 Effect:			An adheisive mist of kenetic-reactive ions that cause ceramic
@@ -261,7 +261,7 @@ ten turns or two hits, whichever happens first.
 
 ///// Microbot Swarm
 Nanite Gain:40 * n
-Action:		Half Action
+Action:		1 Action
 Duration: 	8 turns
 Range:		4m radius
 Effect: You release a swarm of spider-like micro repair bots that repair 
@@ -278,7 +278,7 @@ The microbot swarm director automatically detects disobedient microbots.
 
 /////	Repulsor Recharge
 Nanite Gain:	20 nanites
-Action:			Half Action
+Action:			1 Action
 Duration:		Immediate
 Range:			Touch
 Effect:			Recharges an ally's sheild by 60 points. Cannot be used to
@@ -287,7 +287,7 @@ their own sheilds.
 
 /////	Sensory Fuse
 Nanite Gain:	10 nanites
-Action:			Half Action
+Action:			1 Action
 Duration:		Until fuse pops
 Range:			Touch
 Effect:			You install an auto-ejecting Sensory Overload Fuse in your
@@ -297,7 +297,7 @@ hand to install, so an engineer cannot install one in themselves.
 
 /////	B-Filter Buffer
 Nanite Gain:	15 nanites
-Action:			Half Action
+Action:			1 Action
 Duration: 		For one visual perception check
 Range:			Touch
 Effect: Adds a hyper-fast self-consuming buffer between a cybernetic ally's 
@@ -308,7 +308,7 @@ optimal effeciency. Increases ally's visual perception by 10%.
 
 /////	Repulsor Overcharge
 Nanite Gain:	25 nanites
-Action:			Half Action
+Action:			1 Action
 Duration:		Immediate
 Range:			Touch
 Effect:			Recharges an ally's sheild by 60 points. May be used to charge
@@ -317,7 +317,7 @@ normalize down to their maximum after ten turns.
 
 /////	Refractory Spray
 Nanite Gain:	15 nanites
-Action:			Full Action
+Action:			2 Actions
 Duration:		Immediate
 Range:			Touch
 Effect:			An adheisive mist of refractive particles that absorb laser and
@@ -332,7 +332,7 @@ if hit by an energy attack.
 
 /////	Tune Laser
 Nanite Gain:	30 nanites
-Action:			Full Action
+Action:			2 Actions
 Duration:		5 Turns
 Range:			Touch
 Effect:			You dial in the potentiometers and realign the focusing 
@@ -341,7 +341,7 @@ and has a -10% to miss (To a maximum of 0% when target is in light cover).
 
 /////	MoCap Augmentation
 Nanite Gain:	20 nanites
-Action:			Full Action
+Action:			2 Actions
 Duration:		Immediate
 Range:			Touch
 Effect:			By temporarily reducing the resolution of your cybernetic 
@@ -355,7 +355,7 @@ off after ten turns.
 
 /////	Repulsor Projection
 Nanite Gain:	10 nanites
-Action:			Half Action
+Action:			1 Action
 Duration:		Immediate
 Range:			10m
 Effect:			Recharges an ally's sheild by 40 points. May not be used to
@@ -364,7 +364,7 @@ own sheilds.
 
 /////	Repulsor Hypercharge
 Nanite Gain:	40 nanites
-Action:			Full Action
+Action:			2 Actions
 Duration:		Immediate
 Range:			Touch
 Effect:			Recharges an ally's sheild by 85 points. May be used to charge
@@ -376,7 +376,7 @@ hypercharge their own sheilds.
 
 /////	Broadcast Repulsion
 Nanite Gain:	15 * n nanites, where n is the number of sheilds affected
-Action:			Full Action
+Action:			2 Actions
 Duration:		Immediate
 Range:			8m radius centered on engineer
 Effect:			All allies with sheilds in the area of effect have their 
@@ -387,7 +387,7 @@ of effect as well. A feedback wave ends the engineer's turn immediately.
 
 /////	CS Lacer
 Nanite Gain:	20 nanites
-Action:			Full Action
+Action:			2 Actions
 Duration:		10 Shots
 Range:			Touch
 Effect:			You must pass a DC 40 skill check on your ally's weapon to 
@@ -404,7 +404,7 @@ ally will have to make a skill check to swap back their muzzle attatchment.
 Note:
 nanites used to "glue" modular bits of tech together and to allow tech to function. After a certain amount of time the nanites die and the item crumbles. At higher levels, the nanites are able to last longer so the item can be used longer. 
 Drones do not count as "cybernetic allies" for most repair skills, though you can repair them with
-repair kits as normal. They take their turns independantly, with 2 Full actions per turn, and they
+repair kits as normal. They take their turns independantly, with 4 actions per turn, and they
 take their owner's (not necissarily their deployer's) initiative. A Drone can only use 4 IO ports 
 at a time unless otherwise stated. 
 Unlocking a Build tree skill requires having unlocked the skill below it on the 
@@ -415,7 +415,7 @@ tree. Please see the Engineer Skill Tree - Build.png for dependancies.
 Type: 				Drone
 Construction Cost:	40 Nanites
 Control Point Cost: 1 point
-Build Time:			2 Full Actions
+Build Time:			4 Actions
 Modular I/O ports: 	1 port
 Duration: 			Permanent
 Health:				20
@@ -441,7 +441,7 @@ same turn that it is shot at adds a 25% chance for the attacker to miss.
 Type: 				Drone
 Construction Cost:	60 Nanites
 Control Point Cost: 1 point
-Build Time:			3 Full Actions
+Build Time:			6 Actions
 Modular I/O ports: 	3 ports
 Duration: 			Permanent
 Health:				46
@@ -469,7 +469,7 @@ but does not reimburse its controler's nanites that were used to assemble it.
 Type: 				Drone
 Construction Cost:	60 Nanites
 Control Point Cost: 1 point
-Build Time:			3 Full Actions
+Build Time:			6 Actions
 Modular I/O ports: 	5 ports
 Duration: 			Permanent
 Health:				86
@@ -500,7 +500,7 @@ but does not reimburse its controler's nanites that were used to assemble it.
 Type: 				Drone
 Construction Cost:	55 Nanites
 Control Point Cost: 1 point
-Build Time:			3 Full Actions
+Build Time:			6 Actions
 Modular I/O ports: 	4 ports
 Duration: 			Permanent
 Health:				56
@@ -524,7 +524,7 @@ but does not reimburse its controler's nanites that were used to assemble it.
 Type: 				Drone
 Construction Cost:	220 Nanites
 Control Point Cost: 2 points
-Build Time:			4 Full Actions
+Build Time:			8 Actions
 Modular I/O ports: 	9 ports
 Duration: 			Permanent
 Health:				216
@@ -547,7 +547,7 @@ but does not reimburse its controler's nanites that were used to assemble it.
 Type: 				Drone
 Construction Cost:	350 Nanites
 Control Point Cost: 4 points
-Build Time:			4 Full Actions
+Build Time:			8 Actions
 Modular I/O ports: 	13 ports
 Duration: 			Permanent
 Health:				300
@@ -567,7 +567,7 @@ but does not reimburse its controler's nanites that were used to assemble it.
 /////	Peripheral: popgun
 Type:				Peripheral
 Construction Cost:	50 nanites
-Build Time:			1 Full Action
+Build Time:			2 Actions
 Modular I/O ports:	Uses 1 port
 Ammo:				Holds 20 shots
 Accuracy:			30%
@@ -575,7 +575,7 @@ Damage:				40 points
 Range:				30m
 Drone Health:		+15
 A simple 9mm repeater module bolted to the universal adapter ports on a drone.
-Reloading takes a full action, but always suceeds and never crits. Drones 
+Reloading takes 2 Actions, but always suceeds and never crits. Drones 
 reload with perfect consistency. Additional ammo available as a separate
 peripheral. As a unique ability, may have red lasers or suppressors added.
 Atatchments added to a drone are returned when the drone is reclaimed.
@@ -583,7 +583,7 @@ Atatchments added to a drone are returned when the drone is reclaimed.
 /////	Peripheral: Ammo
 Type:				Peripheral
 Construction Cost:	20 nanites
-Build Time:			1 Full Action
+Build Time:			2 Actions
 Modular I/O ports:	Uses 1 port
 Ammo:				Holds 3 full refills.
 Ammo storage and adaptive reffiting subsystem all rolled into one. May only 
@@ -593,7 +593,7 @@ of other drones. Also adds 30 health to a drone.
 /////	Peripheral: Tazer
 Type:				Peripheral
 Construction Cost:	40 nanites
-Build Time:			1 Full Action
+Build Time:			2 Actions
 Modular I/O ports:	Uses 1 port
 Ammo:				Holds 4 shots
 Accuracy:			20%
@@ -609,7 +609,7 @@ being paralyzed on their following turn.
 /////	Peripheral: Armor
 Type:				Peripheral
 Construction Cost:	25 nanites
-Build Time:			1 Full Action
+Build Time:			2 Actions
 Modular I/O ports:	Uses 1 port
 Coverage:			+50%
 Reduction:			20 points
@@ -621,7 +621,7 @@ allows armor diagnostics and triggering of reactive balistic cells.
 /////	Peripheral: Sheild Capacitor
 Type:				Peripheral
 Construction Cost:	60 nanites
-Build Time:			1 Full Action
+Build Time:			2 Actions
 Modular I/O ports:	Uses 2 ports
 Capacity:			80 points
 Recharge:			20 points/turn after 3 turns without hit
@@ -632,7 +632,7 @@ pulse frequency. Glows a neon color, -20 to drone stealth checks.
 /////	Peripheral: Minigun
 Type:				Peripheral
 Construction Cost:	80 nanites
-Build Time:			2 Full Actions
+Build Time:			4 Actions
 Modular I/O ports:	Uses 3 ports
 Ammo:				Holds 60 shots
 Accuracy:			30%
@@ -645,7 +645,7 @@ engineer must have unlocked antenae and sheild capacitor peripherals.
 /////	Peripheral: Antenae
 Type:				Peripheral
 Construction Cost:	40 nanites
-Build Time:			1 Full Action
+Build Time:			4 Action
 Range:				+10m
 A multiphasic antenae, DSP module and strong amplifier allows your drones
 to extend their service range. Multiple chanels of transmission make your
@@ -655,7 +655,7 @@ pwn attempts.
 /////	Peripheral: Flack Cannon
 Type:				Peripheral
 Construction Cost:	80 nanites
-Build Time:			1 Full Action
+Build Time:			2 Actions
 Modular I/O ports:	Uses 3 ports
 Ammo:				Holds 8 shots
 Accuracy:			30%
@@ -670,7 +670,7 @@ from impact. Each shot into a door reduces the DC of kicking down that door by
 /////	Peripheral: Rockets
 Type:				Peripheral
 Construction Cost:	100 nanites
-Build Time:			1 Full Action
+Build Time:			2 Actions
 Modular I/O ports:	Uses 1 port
 Ammo:				Holds 8 shots
 Accuracy:			50%
@@ -685,7 +685,7 @@ hunter marks don't stack. 2 rocket hits count as an anti-vehicle hit. At level
 /////	Peripheral: Network Security Module
 Type:				Peripheral
 Construction Cost:	20 nanites
-Build Time:			1 Full Action
+Build Time:			2 Actions
 Modular I/O ports:	Uses 1 port
 Hacking resistance:	20%	
 Drone Health:		+20
@@ -700,7 +700,7 @@ the NSM.
 /////	Insta-Cover
 Type:			Structure
 Build Cost:		30 nanites
-Build Time:		1 Full Action
+Build Time:		2 Actions
 Duration:		Permanent
 Health:			2 Vehicle Health
 Size:			2m x .2m x .8m
@@ -711,7 +711,7 @@ bullets. This gives partial cover for 2 meters in one direction.
 /////	Barbed Wire
 Type:			Structure
 Build Cost:		20 nanites
-Build Time:		1 Half Action
+Build Time:		1 Action
 Duration:		Permanent
 Health:			60 health points; immune to bullets but not to slashing weapons.
 Size:			1m x .1m x .3m
@@ -719,14 +719,14 @@ Effect:			You keep a coil of barbed wire for those times when you need to
 				politely discourage someone from going a particular way. The
 barbed wire is clearly visible, and any character attempting to move out of a
 space occupied by barbed wire must pass a DC 70 FORT check. A character in/on 
-barbed wire takes 30 slashing/cutting damage for each full action or after 
-every second half action. Barbed wire does not hinder certain ethereal 
+barbed wire takes 30 slashing/cutting damage for every 2 actions or after 
+every second action. Barbed wire does not hinder certain ethereal 
 characters.	Barbed wire does not hinder most vehicles, but it can pop tires.			
 
 /////	Adaptive Gun Mount
 Type:			Structure
 Build Cost:		10 nanites
-Build Time:		1 Full Action
+Build Time:		2 Actions
 Duration:		Permanent
 Health:			46 health
 Size:			.5m x .5m x .1m
@@ -740,7 +740,7 @@ does not proc for an engineer using their own mount.
 /////	Gun Emplacement
 Type: 		Structure
 Construction Cost:60 Nanites
-Build Time:	Full Action
+Build Time:	2 Actions
 Duration: 	Permanent
 Health:		1 vehicle health
 Size:		1m x 1m x 1m
@@ -749,21 +749,21 @@ of ammo. The balistic plate in front offers partial cover for whomever uses it.
 Each hit deals 53 damage and the gun has a 30% chance to miss. It cannot be 
 aimed, but it can be ripped off of its emplacement by a character that has 8 
 strength or more. When ripped off, the gun has an additional 10% chance to 
-miss. If the gun is fired four times, with four consecutive half actions, the
+miss. If the gun is fired four times, with four consecutive actions, the
 shooter gets a free fifth shot. Every hit that an ally (not you) makes with a
 turret that you placed gives you 30 nanites. Supporting Fire weapon.
 
 /////	Snare
 Type:				Trap
 Construction Cost:	5 nanites
-Build Time:			1 Half Action
+Build Time:			1 Action
 Disarm DC:			30%
 Damage:				0 points
 Range:				1 particular square meter
 Effect:				DC 20 + (20 * Engineer character Level) for an enemy to 
 					spot with a max of 90. When a character steps on a snare,
 their movement ends. They may not move until they pass a DC 60 Fortitude check.
-An additional fortitude check may be made at the cost of a half action. If the
+An additional fortitude check may be made at the cost of 1 action. If the
 engineer who made this is at least level 5 and has an intelligence of at least
 8, the DC to escape is 80. If Int 8 and level > 10, DC is 120. Snares burn if
 damaged with fire or plasma and break if slashed. Snares may be shot, but are
@@ -773,7 +773,7 @@ detect high tech. Snares will trap friendly characters.
 /////	ASPRO-S system
 Type: 		Structure
 Construction Cost:	120 Nanites
-Build Time:			2 Full Actions
+Build Time:			4 Actions
 Duration: 			Permanent
 Health:				50
 Size:				1m x 1m x 3m
@@ -787,7 +787,7 @@ or plasma. Will stop some hostile nanite attacks, see GM for specifics.
 /////	Sentry
 Type: 		Structure
 Construction Cost:120 Nanites
-Build Time:	2 Full Actions
+Build Time:	4 Actions
 Duration: 	Permanent
 Health:		120
 Size:		1m x 1m x 2m
@@ -809,7 +809,7 @@ cloaking. You may affix a claymore to any hard, flat surface.
 /////	Scavenge
 Type:			Action
 Nanite Cost:	20
-Scrap Time:		1 Full Action
+Scrap Time:		2 Actions
 Range:			Touch
 Effect:			You gather materials from fallen foes or derelict equipment in 
 the feild to replenish your stock of components. You gain an amount of nanites
@@ -823,15 +823,15 @@ be incompatible with your microassembler.
 /////	Light Mortar
 Type: 		Structure
 Construction Cost:160 Nanites
-Build Time:	4 Full Actions
+Build Time:	8 Actions
 Duration: 	Permanent
 Health:		1 vehicle health
 Size:		2m x 2m x 2m
 Effect:		That's it. You've just had it with those ###holes behind cover over
 there taking potshots at you and your squad. This oughta teach 'em. You 
 construct a mortar tube and shell printer. Deals 65 damage in a 2m radius
-around a hit target with a 30% chance to miss. One shell "clip" with a full 
-action to reload. 130m range with a high arc. Ignores cover penalties if the 
+around a hit target with a 30% chance to miss. One shell "clip" takes 2 
+actions to reload. 130m range with a high arc. Ignores cover penalties if the 
 shell comes straight down on top of the target. Successful hits have a 30%
 chance to daze the target. Every hit that an ally (not you) makes with a
 mortar that you placed gives you 40 nanites. Each emplacement comes with 
@@ -850,7 +850,7 @@ explosive to be made with, ie mortar shells, grenades, det cord, etc.
 /////	Chain Sentry
 Type:				Structure
 Build Cost:			60 nanites
-Build Time:			3 Full actions
+Build Time:			6 actions
 Duration:			Permanent
 Health:				1 Vehicle health
 Size:				1m x 1m x 1m
@@ -860,12 +860,12 @@ player who built it. Hacking DC of 40 to jam. Repair DC of 60 to fix a jam.
 Hacking DC of 90 to Pwn. Repair DC of 100 to purge a pwned sentry. Chain 
 sentries come with 200 rounds. The stats below are for the combined chainguns.
 They may not be fired independantly. Turns slowly; to change targets more than
-90 degrees takes a full action. Uses visible spectrum target identification.
+90 degrees takes 2 actions. Uses visible spectrum target identification.
 Range 60m
 Miss: 30%
 2 x 100 rd 5mm linked belts
 15 damage per bullet
-Fires five bullets per half action, but only two bullets every burst proc any
+Fires five bullets per action, but only two bullets every burst proc any
 per-bullet effects. Supporting Fire.
 
 
@@ -876,7 +876,7 @@ spoilers ;)
 Type:			Action
 Nanite Cost:	40
 Damage:			80
-Scrap Time:		1 Full Action
+Scrap Time:		2 Actions
 Range:			Touch
 Effect:			You gather materials from an opperating enemy robot, turret or drone in 
 the field to replenish your stock of components. You gain an amount of nanites
@@ -887,15 +887,15 @@ an enemy Detatchment Security Drone would be worth about 120 nanites.
 /////	Heavy Mortar
 Type: 		Structure
 Construction Cost:320 Nanites
-Build Time:	4 Full Actions
+Build Time:	8 Actions
 Duration: 	Permanent
 Health:		1 vehicle health
 Size:		2m x 2m x 2m
 Effect:		That's it. You've just had it with those ###holes behind cover over
 there taking potshots at you and your squad. This oughta teach 'em. You 
 construct a mortar tube and shell printer. Deals 80 damage in a 3m radius
-around a hit target with a 30% chance to miss. Three shell "clip" with a full 
-action to reload. 300m range with a high arc. Ignores cover penalties if the 
+around a hit target with a 30% chance to miss. Three shell "clip" with a 2 
+action reload time. 300m range with a high arc. Ignores cover penalties if the 
 shell comes straight down on top of the target. Successful hits have a 30%
 chance to daze the target. Every hit that an ally (not you) makes with a
 mortar that you placed gives you 40 nanites. Each emplacement comes with 
@@ -921,7 +921,7 @@ surface. It will even cling to the wings of dropships during reentry.
 /////	Rocket Sentry
 Type:				Structure
 Build Cost:			120 nanites
-Build Time:			3 Full Actions
+Build Time:			6 Actions
 Duration:			Permanent
 Health:				2 Vehicle Health
 Size:				2m x 2m x 2m
@@ -941,7 +941,7 @@ hunter marks don't stack. 2 rocket hits count as an anti-vehicle hit.
 /////	Bubble Shield
 Type: 		Structure
 Construction Cost:40 Nanites
-Build Time:	Full Action
+Build Time:	2 Actions
 Duration: 	30 rounds or end of encounter
 Health:		30
 Size:		1m x 1m x 1m
@@ -949,13 +949,13 @@ Effect:		You set up a local shield generator that creates a 4m radius dome
 shield that nobody can shoot through, but anyone can walk through or melee
 through. The shield will stop 120 damage per turn or one vehicle damage
 before popping. Once a shield has popped, it will need to be repaired at a cost
-of 20 nanites and one full action. Cannot be repaired more than twice.
+of 20 nanites and 2 actions. Cannot be repaired more than twice.
 
 
 /////	Entrench
 Type:			Structure
 Build Cost:		50 nanites
-Build Time:		4 Full Actions
+Build Time:		8 Actions
 Duration:		Permanent
 Health:			4 Vehicle Health
 Size:			Various
@@ -970,7 +970,7 @@ of good cover for 360 degrees.
 /////	Spotter
 Type:			Drone
 Build Cost:		30 nanites
-Build Time:		1 Full Action
+Build Time:		2 Actions
 Duration:		Permanent
 Health:			40 Points
 Size:			.5m x .5m x .3m
@@ -993,7 +993,7 @@ similar models, the spotter drone is quite stealthy.
 /////	Darknet Processor
 Type:			Structure
 Build Cost:		20 nanites
-Build Time:		2 Full Actions
+Build Time:		4 Actions
 Duration:		Permanent
 Health:			80 points
 Size:			.75 x .75. .5 (base) antenae is adjustable
@@ -1012,7 +1012,7 @@ system disrupted and 20 nanites for each system pwnd using this antenae.
 /////	Noisy Cricket
 Type:			Disposable munition system
 Build Cost:		55 nanites
-Build Time:		1 Full Action
+Build Time:		2 Actions
 Duration:		until it runs out of ammo
 Range:			60m
 Accuracy:		25% to miss
@@ -1033,7 +1033,7 @@ built it.
 /////	Oversheild Inductor
 Type:			Drone
 Build Cost:		40 nanites
-Build Time:		1 Full Action
+Build Time:		2 Actions
 Duration:		Permanent
 Health:			20 Points
 Size:			.5m x .5m x .3m
@@ -1051,7 +1051,7 @@ nanites in return.
 Type: 				Drone
 Construction Cost:	50 Nanites
 Control Point Cost: 0 points
-Build Time:			2 Full Actions
+Build Time:			4 Actions
 Modular I/O ports: 	2 ports
 Duration: 			Permanent
 Health:				86
@@ -1072,7 +1072,7 @@ quite and cap stealth scores at 80. Shotgun deals 80 dam out to 3m, 65 out to
 /////	Medic Drone
 Type:			Drone
 Build Cost:		40 nanites
-Build Time:		1 Full Action
+Build Time:		2 Actions
 Duration:		Permanent
 Health:			20 Points
 Size:			.5m x .5m x .3m
@@ -1080,7 +1080,7 @@ Disrupt DC:		30
 Pwn DC:			70
 Effect:			You set up and deploy a MD-413 surgical assistant hover drone.
 				It follows one particular medic and speeds up all hippocratic
-proceedures to a half action (no effect if action would be a half action or 
+proceedures to 1 action (no effect if an action would be just one action or 
 faster anyway). It also adds a +15 to medical skill checks and adds a +15 to
 perception checks made by that medic. The medic drone does not cost any control
 points. The engineer who deployed the medic drone is able to reclaim 10 nanites
@@ -1090,7 +1090,7 @@ quiet and limit a medic to a stealth score of 75 while active.
 /////	BFG
 Type:			Disposable munition system
 Build Cost:		75 nanites
-Build Time:		1 Full Action
+Build Time:		2 Actions
 Duration:		until it runs out of ammo
 Range:			500m
 Accuracy:		25%
@@ -1105,7 +1105,7 @@ nanites per hit with this weapon.
 /////	Cloaking Capacitor
 Type:			Wearable
 Build Cost:		40 nanites
-Build Time:		1 Full Action
+Build Time:		2 Actions
 Duration:		Permanent
 Health:			40 Points
 Size:			.5m x .5m x .3m
@@ -1118,7 +1118,7 @@ capacitor is detectable by detect high tech rolls above a 1.
 Type: 				Drone
 Construction Cost:	60 Nanites
 Control Point Cost: 0 points
-Build Time:			3 Full Actions
+Build Time:			6 Actions
 Modular I/O ports: 	3 ports
 Duration: 			Permanent
 Health:				72

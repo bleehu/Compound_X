@@ -64,8 +64,7 @@ Frontier Plasma Grenade: $150
 ============================================================
 Pistols:
 (All pistols are considered CQB Weapons)
-Minimum Strength 2, Reload DC 20 unless otherwise noted. Reload time 2 Half 
-Actions.
+Minimum Strength 2, Reload DC 20 unless otherwise noted. Reload time 2 Actions.
 ============================================================
 
 ECSC Mk26 EVA $1140 / $8
@@ -127,11 +126,11 @@ Fires a concentrated stream of high-velocity particles.
 ============================================================
 Sub-Machine Guns:
 Capable of high rates of fire, but utilizing lighter calibers than a 
-traditional combat rifle. Fire DEX/3 shots per Half-Action, rounding down. (DEX 5
+traditional combat rifle. Fire DEX/3 shots per Action, rounding down. (DEX 5
 = 2 shots, DEX 8 = 3 shots) Maximum LVL + 1.( All SMGs are considered CQB 
 weapons)
-Minimum Strength 4, Reload DC 25% unless otherwise noted. Reload time 2 Half 
-Actions. Jam range 2%
+Minimum Strength 4, Reload DC 25% unless otherwise noted. Reload time 2 Actions.
+Jam range 2%
 ============================================================
 
 Anvil Arms AR-34 PDW $1070 / $13
@@ -171,15 +170,14 @@ this rule do not factor towards the SMG''s dexterity based bonuses.
 
 ============================================================
 Shotguns:
-All pump shotguns take 1 Half Action to fire, 1 Half Action to rack. In the 
-racking action, you can load an additional round of your specification as a 
-half action. Double barrel and semi auto shotguns do not follow this rule.
+All pump shotguns take 1 Action to fire, 1 Action to rack. In the 
+racking action, you can load an additional round of your specification for another 
+action. Double barrel and semi auto shotguns do not follow this rule.
 Slug damage deals damage as a normal rifle would, dealing its full damage up 
 to the listed distance.
 Buck-Shot damage is dealt in 3 distinct distances, which are listed. All buck 
 shot deals 2 bleed tokens to the target.
-Minimum Strength 4, Reload DC 30% unless otherwise noted. Reload time 3 Half 
-Actions
+Minimum Strength 4, Reload DC 30% unless otherwise noted. Reload time 3 Actions.
 ============================================================
 
 Mathews Model 3x12 $1200 /$1 per shell
@@ -188,7 +186,7 @@ Mathews Model 3x12 $1200 /$1 per shell
 3 rds, 12 ga Buck / Slug
 Buck Shot: 80 dam out to 3m, 65 out to 10m, 50 out to 20m.
 Slug: 60 dam out to 50m.
-Tri-Barrel/Break-Barrel. Reload DC 25%, Full Action reload time.
+Tri-Barrel/Break-Barrel. Reload DC 25%, 2 Action reload time.
 
 ECSC PAO-8 $1400 $5
 20%
@@ -210,7 +208,7 @@ Anvil Arms AR-12 $2000 / $6
 10rds, 12ga Box Magazine; Slug / Frag (+$20 per Frag round)
 60
 Frag: 70 Explosive Damage, 2m radius. Ask your GM before buying Frag rounds.
-Reload DC 25%, Reload time 2 Half Actions.
+Reload DC 25%, Reload time 2 Actions.
 Fully automatic, Box fed.
 
 Frontier Plas-12 $2300 / $3 per shell
@@ -239,8 +237,7 @@ with. Cannot be equipped with any barrel attachments.
 
 ============================================================
 Carbines & Battle Rifles
-Minimum Strength 5, Reload DC 27% unless otherwise noted. Reload time 2 Half
-Actions.
+Minimum Strength 5, Reload DC 27% unless otherwise noted. Reload time 2 Actions.
 ============================================================
 
 RMM S-92 $2200 / $11
@@ -292,9 +289,8 @@ Each successive headshot increases damage by 15 to a max of 90.
 
 ============================================================
 Automatic Rifles:
-Minimum Strength 5, Reload DC 25% unless otherwise noted. Reload time 2 Half
-Actions.
-Fire STR/3 shots per half action, Round down. Jam range 2%
+Minimum Strength 5, Reload DC 25% unless otherwise noted. Reload time 2 Actions.
+Fire STR/3 shots per Action, Round down. Jam range 2%
 ============================================================
 
 G&W XK20 $2420 / $13
@@ -348,7 +344,7 @@ Heavy / Special Weapons:
 and often require certain skillsets to be used. They come in many shapes and 
 sizes, but are generally medium to extra large in size.
 Minimum Strength 7 to carry, Reload DC 30% unless otherwise noted. Reload time 
-4 Half Actions.
+4 Actions.
 ============================================================
 
 "Incapacitator" Stun-barb gun $2200 / $10
@@ -365,7 +361,7 @@ Target rolls a fort save against electric damage, dc of 80%. On fail, target
 takes additional 10 Shock damage per barb and is stunned for 2 turns.
 Target may make a medical roll to remove a barb. On a fail, target takes 5 
 damage per barb.
-Reload takes 2 half actions.
+Reload takes 2 Actions.
 
 Mathews TX-8 Rotary Grenade Launcher $1470 / Cost for each round is 10% the 
 cost of their parent grenade.
@@ -416,7 +412,7 @@ blue plasma is unleashed from the maw of this cannon.
 0%
 20 bursts or 30 seconds constant.
 Targets take 50 plasma damage and are dealt 5 turns of plasma damage.
-Takes 1 half action to charge and 1 half action to fire.
+Takes 1 Action to charge and 1 Action to fire.
 The user may choose to continue firing for a number of turns, and doesn''t 
 need to pause to aim or charge up a shot when doing so.
 All targets in a line 1 meter wide from the user must pass a DC 80 Reflex 
@@ -430,7 +426,7 @@ Sustained Beam Cannon $16,500 / $150
 This weapon spews forth a thick stream of high-velocity particles which start 
 as a thick beam, but narrow as the rifle is fired for a longer period of time.
 Each successive shot, -5% miss, +5 damage. Max burst: (Knowledge[Nanites]/10) +
-2. Cool down: 1 Full Action.
+2. Cool down: 2 Actions.
 
 Frontier EMC-9 $37,000 / $5
 1000m
@@ -490,7 +486,7 @@ check are dazed for 3 turns or until they can pass another FORT save at 80%.
 ============================================================
 Long Rifles:
 Minimum 5 strength to carry. All targets are inflicted with Pinned condition 
-when hit. Reload DC 30% unless otherwise noted. Reload time 3 Half Actions.
+when hit. Reload DC 30% unless otherwise noted. Reload time 3 Actions.
 ============================================================
 
 ECSC Mk25 DMR $7200 / $13
@@ -510,7 +506,7 @@ into the production of this prototype weapon, it has split damage for
 different ranges. 
 In addition, the High Energy variant requires 1 action of charge up time.
 Because of the large caliber round size, target takes penetrating damage. 
-Reload DC 26%, Reload time 2 Half Actions.
+Reload DC 26%, Reload time 2 Actions.
 Marksman only. Minimum Str 7
 
 Frontier Plas-5 HE $15,600 / $6
@@ -522,7 +518,7 @@ Minimum 6 strength to carry
 HO-HV consists of Xenon plasma. These shots burst on impact, dealing 3 Plasma 
 Burns to targets within 2m at 80% chance. These magazines cost $28.
 All ammo inflicts 2 Plasma Burn.
-Reload time 2 Half ACtions
+Reload time 2 Actions
 
 Mathews BA .408 $25,900 / $7
 Minimum 7 strength to carry
@@ -541,7 +537,7 @@ Beam Rifle $28,500 / $21
 0%
 6rds, HV-H+_LR (.400 Heavy Rifle form factor);
 85. Ignore Armour and CS shielding. Still affected by Nanite Shielding.
-"Bolt Action", requires 1 Half-Action of cooldown time, which is accompanied 
+"Bolt Action", requires 1 Action of cooldown time, which is accompanied 
 by the cycling of the bolt.
 Lightning erupts around the muzzle as this gun is fired, and a solid yellow-
 white beam of particles is ejected towards the target. The pure intensity and 
@@ -561,8 +557,8 @@ Composite Bow: $1260 / $1 an arrow
 STR*5 meters
 40% (Bow Use)
 50 + (2 * STR)
-A user may knock an arrow for a half action, and draw and release for a half 
-action. You may also choose to draw the bow back and hold it to release an 
+A user may knock an arrow for an Action, and draw and release for another Action. 
+You may also choose to draw the bow back and hold it to release an 
 arrow as a free action at a future time. Users can hold the bow drawn for STR 
 number of turns.
 
@@ -570,8 +566,8 @@ Compound Bow: $1680 / $1 an arrow
 STR*5 meters
 30% (Bow Use)
 60 + (2 * STR)
-A user may knock an arrow for a half action, and draw and release for a half 
-action. You may also choose to draw the bow back and hold it to release an 
+A user may knock an arrow for an Action, and draw and release for another Action. 
+You may also choose to draw the bow back and hold it to release an 
 arrow as a free action at a future time. Users can hold the bow drawn for STR 
 number of turns.
 
