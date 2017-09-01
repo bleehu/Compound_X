@@ -139,6 +139,8 @@ were on the college swim team, or maybe your military training had an
 emphasis on endurance and core strength developed in the pool. In any case,
 you gain 10 skill in swimming and a bonus +15 to checks when holding your
 breath. You also ignore movement penalties from wading through deep liquids.
+These bonuses increase in an additional 10 skill in swimming and an additional
++5 bonus to holding one's breath after level 7.
 
 First Shot Counts: 
 Prerequisites:
