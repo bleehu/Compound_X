@@ -143,7 +143,7 @@ These bonuses increase in an additional 10 skill in swimming and an additional
 +5 bonus to holding one's breath after level 7.
 
 First Shot Counts: 
-Prerequisites:
+Prerequisites: Fortitude > 3
 When reloading, if you Critically succeed, the first round out of that 
 magazine deals Extra-Crit damage.
 
