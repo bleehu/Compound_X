@@ -88,11 +88,6 @@ Make a stealth check to hide your chosen pistol, shotgun, or smg on your
 person. Minimum score of 20. Roll determines DC for enemy to actively search 
 and find weapon.
 
-Cross-Train:
-Prerquisites: Int 8
-Instead of taking your regular Class feat on the next level, you may learn one 
-from another class.
-
 Double Tap: 
 Prerequisites:
 Whenever your hit falls into extra-crit range, fire another bullet as a free
@@ -197,11 +192,6 @@ allowing them to achieve one of the following:
     +20% to an combat-action at a cost of 20 nanites for 1 turn (ask GM before applying to an action. )
     +20% to a non-combat-action at a cost of 20 nanites for 1 turn (ask GM before aplying to an action.)
     Others, run any ideas by GM.
-    
-Nanite Regeneration: 
-Prerequisites:
-For every crit you score, restore your nanites by the amount of crit damage 
-dealt. (10 nanites for standard crit, 20 for ex-crit)
 
 Never Tell Me the Odds:
 Prerequisites: None

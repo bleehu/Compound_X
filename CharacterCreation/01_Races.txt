@@ -110,6 +110,7 @@ Immune to: poison, cannot be intoxicated.
 Weakness (Electrical): Electrical damage deals an additional 50% damage.
 
 //============================================================
+<<<<<<< HEAD:CharacterCreation/01_Races.txt
 Archon
 Society: These constructs are made up of nanites. Commonly A.I.s that have 
 broken from their world of solitude and gained a corporeal body, these 
@@ -155,6 +156,8 @@ They can divy this pool up into 3 categories:
 Immune to: Poison, Cannot be intoxicated or bleeding.
 
 //============================================================
+=======
+>>>>>>> play:play/PlayerRules/CharacterCreation/01_Races.txt
 Cyborg
 
 Society: Cybernetics advanced rapidly over the last 200 years, and it is not 

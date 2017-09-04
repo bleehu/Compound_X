@@ -275,8 +275,7 @@ V
 The Trail becomes bright against a monochrome background of edged shades of 
 grey. +75% to a tracking check, or maximum 2 turns to pass.
 ----------------------
-Highlight Target: (Perception checks do not include checks to hit target. But by using a perception check for an 
-action to see where the target is and passing the target''s Cover DC+25 the player may recieve a +5% / +10% accuracy bonus.)
+Highlight Target:
 Expend 10 nanites to mark a target. All damage dealt by allies to this target 
 is increased by 10, and any perception checks are 25% easier to pass. Use once 
 per encounter. Maximum of Level number uses per day. Lasts for duration of 
@@ -289,8 +288,8 @@ Expend 10 nanites to paint a target. All damage dealt by allies to this target
 is increased by 20, and any perception checks are 50% easier to pass. Use 
 twice per encounter. Level number of uses per day. Lasts for the day.
 
-
 "Paladin" - You are a righteous warrior, vetted and trained by one of the 
+=======
 powerful corporations or some other technologically advanced entity. You seek 
 to uphold the principals which define the group you''ve sworn allegience to. 
 Through this devotion you have been granted access to high tech in order to 
@@ -485,8 +484,8 @@ Passives: Gain sniping at 10. Long Rifles do not have minimum ranges imposed
 due to the use of a high-power scope. However, you will have to make a reflex 
 save to fire at any targets that fall inside the traditional "minimum" range, 
 so be sure to note what that range is.
-Weapon Proficiencies: Long rifles, Carbines & Battle Rifles, Pistols.
-Armour Proficiencies: Recon, Light, Concealed.
+Weapon Proficiencies: Long rifles, Pistols.
+Armour Proficiencies: Recon, Light, Concealed, Cloaking.
 Starting Wealth: $1700+100*Luck + 2000
 Class Feats:
 ----------------------
@@ -630,38 +629,6 @@ meters. You may also roll stealth after emerging at no action cost. Movement
 in this manner is considered to take an action, plus another action for the 
 skill check. Monks still receive a penalty attack for performing a skill check 
 in melee combat.
-
-"Alchemist"
-Mech summoner / P otions master
-Passives: Repair/Tinker - 10 or ; +50 nanites.
-Weapon Profs: Pistols, SMGs, Shotguns, Carbines.
-Armour Profs: Recon, Light, Medium.
-
-
-
-/*
-Scoundrel
-Passives: 
-Weapon Proficiencies: 
-Feats:
-Some Feat -
-* 1st level
-**Additional level
-Players can level up a feat at every third level from level 1 [1, 4, 7, etc.), or choose to purchase a new feat.
-/*
-Class Name
-Passives added
-Weapon Proficiencies: 
-Class Feats:
-----------------------
-Some Feat -
-1st level
-|
-|
-|
-V
-Additional level
-Players can level up a feat at every 10th level, or choose to purchase a new feat.
 
 //===================================================================
 //Copyright 2016 Taylor Rowland
