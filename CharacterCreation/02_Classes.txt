@@ -485,8 +485,8 @@ Passives: Gain sniping at 10. Long Rifles do not have minimum ranges imposed
 due to the use of a high-power scope. However, you will have to make a reflex 
 save to fire at any targets that fall inside the traditional "minimum" range, 
 so be sure to note what that range is.
-Weapon Proficiencies: Long rifles, Carbines & Battle Rifles, Pistols.
-Armour Proficiencies: Recon, Light, Concealed.
+Weapon Proficiencies: Long rifles, Pistols.
+Armour Proficiencies: Recon, Light, Concealed, Cloaking.
 Starting Wealth: $1700+100*Luck + 2000
 Class Feats:
 ----------------------
@@ -631,39 +631,7 @@ in this manner is considered to take an action, plus another action for the
 skill check. Monks still receive a penalty attack for performing a skill check 
 in melee combat.
 
-"Alchemist"
-Mech summoner / P otions master
-Passives: Repair/Tinker - 10 or ; +50 nanites.
-Weapon Profs: Pistols, SMGs, Shotguns, Carbines.
-Armour Profs: Recon, Light, Medium.
-
-
-
-/*
-Scoundrel
-Passives: 
-Weapon Proficiencies: 
-Feats:
-Some Feat -
-* 1st level
-**Additional level
-Players can level up a feat at every third level from level 1 [1, 4, 7, etc.), or choose to purchase a new feat.
-/*
-Class Name
-Passives added
-Weapon Proficiencies: 
-Class Feats:
-----------------------
-Some Feat -
-1st level
-|
-|
-|
-V
-Additional level
-Players can level up a feat at every 10th level, or choose to purchase a new feat.
-
-//===================================================================
+//==================================================================
 //Copyright 2016 Taylor Rowland
 //
 //Licensed under the Apache License, Version 2.0 [the "License");
@@ -677,4 +645,4 @@ Players can level up a feat at every 10th level, or choose to purchase a new fea
 //WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 //See the License for the specific language governing permissions and
 //limitations under the License.
-//===================================================================
+//==================================================================

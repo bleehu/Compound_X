@@ -53,7 +53,7 @@ to decide where to go, this skill will channel your inner survivorman and
 enable you to have a better idea of where you should face.
 //Dex
 Piloting: You have been trained in the use and operation of many vehicles, and 
-even if you don’t recognize what it is, you can probably figure out how to use 
+even if you don't recognize what it is, you can probably figure out how to use 
 it in a couple of turns.
 //Int
 Repair: For normal damage (up to 50%) roll percents. Any percent under 50 + 
@@ -76,9 +76,9 @@ you can hit it. Some weapons require this skill for use, and this skill can be
 used for accuracy with any gun that has a range beyond 200m.
 //Dex
 Stealth: The art of stealth is a blanket over the most cloak and dagger of 
-actions. Good thing you’re in on the secret.
+actions. Good thing you're in on the secret.
 //Int
-Survival: Lost in the wilderness? You’re journey home will be made easier by 
+Survival: Lost in the wilderness? You're journey home will be made easier by 
 your ability to read the terrain, hunt and gather, and erect basic survival 
 structures..
 //Int
