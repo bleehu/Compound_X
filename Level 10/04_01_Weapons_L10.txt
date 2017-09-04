@@ -319,7 +319,6 @@ Long Rifles:
 On all engagements farther than 200m, you must take two Actions to adjust your scope for windage and elevation between targets of differing distance.
 Minimum 5 strength to carry. All targets are inflicted with "Pinned" condition when hit. Reload DC 30% unless otherwise noted. Reloading
 takes 3 Actions.
-
 ============================================================
 
 Artimis Urban Combat Rifle $5600 / $8

@@ -291,6 +291,7 @@ twice per encounter. Level number of uses per day. Lasts for the day.
 
 
 "Paladin" - You are a righteous warrior, vetted and trained by one of the 
+=======
 powerful corporations or some other technologically advanced entity. You seek 
 to uphold the principals which define the group you''ve sworn allegience to. 
 Through this devotion you have been granted access to high tech in order to 
@@ -631,7 +632,7 @@ in this manner is considered to take an action, plus another action for the
 skill check. Monks still receive a penalty attack for performing a skill check 
 in melee combat.
 
-//==================================================================
+//===================================================================
 //Copyright 2016 Taylor Rowland
 //
 //Licensed under the Apache License, Version 2.0 [the "License");
@@ -645,4 +646,4 @@ in melee combat.
 //WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 //See the License for the specific language governing permissions and
 //limitations under the License.
-//==================================================================
+//===================================================================
