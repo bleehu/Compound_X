@@ -43,7 +43,7 @@ Prerequisites: Pilot or "Acquired: With Friends Like These . . ." and Piloting 6
 
 Backstab:
 Prerequisites: Level 3 and Assassin or Monk.
-Any damage dealt to an unaware opponent from behind deals an additional +20 damage.
+Any damage dealt to an unaware opponent from behind deals an additional 20 + (Lvl * 2) damage.
 
 Bulltrue:
 Prerequisites: Must have Shotgun training
@@ -213,12 +213,15 @@ Somehow you always aim at the right location, at the right time.
 
 Point-man: 
 Prerequisites: PER 6
+Maybe you've been a point-man for a long time, maybe you don't mind the
+extra danger, or maybe you just room-clear a lot. Regardless, you are very
+good at what you do.
 When clearing a room, add 20 to your reflex roll.
 
-Pre-emptive Strike: 
+Preemptive Strike:  
 Prerequisites: DEX 7
-Whenever you are facing someone you are aware of and they enter into adjacency
-with you, you gain a pre-emptive melee strike against them.
+Whenever you are facing someone you are aware of, and they enter into adjacency
+with you, you gain a preemptive melee strike against them.
 
 Quickdraw: 
 Prerequisites: DEX 5
