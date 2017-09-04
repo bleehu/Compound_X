@@ -110,7 +110,6 @@ Immune to: poison, cannot be intoxicated.
 Weakness (Electrical): Electrical damage deals an additional 50% damage.
 
 //============================================================
-<<<<<<< HEAD:CharacterCreation/01_Races.txt
 Archon
 Society: These constructs are made up of nanites. Commonly A.I.s that have 
 broken from their world of solitude and gained a corporeal body, these 
@@ -156,8 +155,6 @@ They can divy this pool up into 3 categories:
 Immune to: Poison, Cannot be intoxicated or bleeding.
 
 //============================================================
-=======
->>>>>>> play:play/PlayerRules/CharacterCreation/01_Races.txt
 Cyborg
 
 Society: Cybernetics advanced rapidly over the last 200 years, and it is not 
@@ -185,7 +182,7 @@ and hit chance.):
     Speed Geared Fine Motor Controls: +1 DEX, no augment to movement speed.
     Skeletal Support Structure: +1 FORT.
     Implanted Weapon: Pick a pistol from the basic weapons list. This pistol 
-    is implanted in a limb. You may manipulate your limb to use this weapon at 
+    is implanted in a limb. You may manipulate your limb to use this weapon at
     the cost of 1 action. While the weapon is out, that limb does not 
     operate at its normal capacities. Hands would not grasp, legs would not 
     superbly support you, etc. Subrtact the price of the weapon from your 
