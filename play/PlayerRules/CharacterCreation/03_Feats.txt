@@ -133,7 +133,7 @@ basic computer inquiry or operation. +10% to ONE pertinent class skill
 this feat.
 
 Fish To Water
-Prerequisites:
+Prerequisites: Fort > 2
 Maybe you took a lot of swimming lessons when you were little, maybe you
 were on the college swim team, or maybe your military training had an 
 emphasis on endurance and core strength developed in the pool. In any case,
