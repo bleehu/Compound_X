@@ -922,7 +922,7 @@ Cloaking
 Cloaking is available in the armor section, but also available to some 
 classes as a class feature. For non-class cloakers, the rules are as follows:
 Expend the cloaking module's "Nanite Activation Cost" to begin cloaking. At the
-beginning of every turn thereafter, you have to pay a "Nanite Upkeep" cost to 
+ending of every turn thereafter, you have to pay a "Nanite Upkeep" cost to 
 continue cloaking.
 	Wearers need only expend Nanites for the "Nanite Upkeep" cost at the end 
 of a turn that they perform actions. Cloaking requires concentration so when you 
