@@ -216,20 +216,88 @@ Suit integrity: 20 shots
     =====================================
 Armor rigs cannot be worn in combination with other rigs or tactical vests.
 
-=====   RECON ARMOR RIGS   =====
+	=====  I RECON ARMOR RIGS   =====
 Tactical Vest with armor underneath. 
+
+	----   STANDARD RIGS   ----
+	
+----Chest Rig ----
+Rig Cost:		400
+Magazine Space:		5 (No more than 1 grenade per 3 secondary ammunition space)
+Armor Coverage:		40% 
+Movement Speed Penalty: -2m
+
+----Arm Rig (*No Armor*) ----
+Rig Cost:		90
+Magazine Space: 	(2 Secondary Magazines)
+Movement Speed Penalty: 0	
+
+----Leg Rig (*No Armor*) ----
+Rig Cost:		122
+Magazine Space:		2	
+Movement Speed Penalty: 0
+
+	----   ADVANCED RIGS   ----
+
+----Advanced Chest Rig ----
+Rig Cost:		710
+Magazine Space:		3
+Armor Coverage:		30% 
+Hard Points:    	2
+Movement Speed Penalty: -2m
     
-=====   LIGHT ARMOR RIGS   =====
+	=====  II LIGHT ARMOR RIGS   =====
 A "Chest Rig" which holds one front plate and some gear.
+
+	----   STANDARD RIGS   ----
+
+----Chest Rig ----
+Rig Cost:		570
+Magazine Space:		6 + (1 Secondary Magazine or Grenade)
+Armor Coverage:		40% 
+Movement Speed Penalty: -2m
+
+----Arm Rig (*No Armor*) ----
+Rig Cost:		90
+Magazine Space: 	(2 Secondary Magazines)
+Movement Speed Penalty: 0
+
+----Leg Rig ----
+Rig Cost:		300
+Magazine Space:		2	
+Armor Coverage:		15% 
+Movement Speed Penalty: 0
+
+	----   ADVANCED RIGS   ----
+
+----Advanced Chest Rig ----
+Rig Cost:		720
+Magazine Space:		4 + (1 Secondary Magazine or Grenade)
+Armor Coverage:		35% 
+Hard Points:    	2
+Movement Speed Penalty: -2m
+
+----Advanced Arm Rig (*No Armor*) ----
+Rig Cost:		130
+Magazine Space: 	0
+Hard Points:    	1
+Movement Speed Penalty: 0
+
+----Advanced Leg Rig ----
+Rig Cost:		400
+Magazine Space:		1	
+Armor Coverage:		15% 
+Hard Points:    	1
+Movement Speed Penalty: 0
     
-=====   MEDIUM ARMOR RIGS   =====
+	=====  III MEDIUM ARMOR RIGS   =====
 A smaller plate carrier which holds a moderate amount of gear.
 
-=====   MEDIUM-HEAVY ARMOR RIGS   =====
+	=====  IV MEDIUM-HEAVY ARMOR RIGS   =====
 A hefty plate carrier which holds front, back and side plates 
 as well as extended amounts of gear.
 
-=====   HEAVY ARMOR RIGS   =====
+	=====  V HEAVY ARMOR RIGS   =====
 Covers the front of your chest, your back, your sides, shoulders, neck, 
 pelvic region, and tops of your legs.
 
