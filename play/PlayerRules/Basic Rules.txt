@@ -923,16 +923,15 @@ Cloaking is available in the armor section, but also available to some
 classes as a class feature. For non-class cloakers, the rules are as follows:
 Expend the cloaking module's "Nanite Activation Cost" to begin cloaking. At the
 beginning of every turn thereafter, you have to pay a "Nanite Upkeep" cost to 
-continue cloaking, unless you didn't move for the entire previous turn.
+continue cloaking.
 	Wearers need only expend Nanites for the "Nanite Upkeep" cost at the end 
 of a turn that they perform actions. Cloaking requires concentration so when you 
 are doing nothing but watching, you may cloak for free.
-
-You can remain cloaked for a number of turns equal to "Cloak Turns" (see table, 
-below) or when you run out of Nanites, whichever occurs sooner. When your cloak 
-ends, you become visible and have to wait a number of actions equal to your 
-"Charge Delay" (listed under the relevant cloaking module's description) before 
-being able to cloak again.
+	You can remain cloaked for a number of turns equal to ["Cloak Turns" + your
+cloaking module's "Cloak Turn Bonus"] or when you run out of Nanites, whichever occurs 
+sooner (see table below for "Cloak Turns") . If your cloak time runs out, you stop 
+cloaking and have to wait a number of actions equal to your "Charge Delay" (listed under 
+the relevant cloaking module's description) before being able to cloak again.
 
 If someone/something is looking for you, they must pass a (normally, perception) 
 check at 'Detect DC' difficulty, modified by your stealth skill. While moving, 
