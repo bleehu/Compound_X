@@ -193,21 +193,21 @@ Basic Flight-Suit  $800
 Basic Environment Suit, offers minimal ballistic protection. When shot, 
 the suit will decompress or compress as necessary to maintain air pressure.
 Holds 1 trauma (armor) plate in the front and back. 30% coverage, must purchase 
-armor material separately.
+armor material separately (purchase a single armor material at chest armor cost).
 Suit integrity: 5 shots
 
 	=====   LEVEL 5 REQUIREMENT   =====
 	
 Polymer-Alloy Environment Suit  $1200
 Holds 1 trauma (armor) plate in the front and back. 30% coverage, must purchase 
-armor material separately.
+armor material separately (purchase a single armor material at chest armor cost).
 Suit integrity: 10 shots
 
 	=====   LEVEL 10 REQUIREMENT   =====
 
 Kevlar Fiber Environment Suit  $2000
 Holds 1 trauma (armor) plate in the front and back. 30% coverage, must purchase 
-armor material separately.
+armor material separately (purchase a single armor material at chest armor cost).
 Suit integrity: 20 shots
 
 	
@@ -252,7 +252,7 @@ Tactical Vest system with armor underneath.
 	Movement Speed Penalty: -2m
     
 =====  II LIGHT ARMOR RIGS   =====
-A light plate carrier system which holds one front plate and some gear.
+Light plate carrier system which holds one front plate and some gear.
 
 ----   STANDARD RIGS   ----
 
@@ -457,7 +457,7 @@ Runner's Kit: $100
 Gunner Kit: $231
 	Trauma Plate Vest
 		Holds 1 trauma plate in the front. 30% coverage, must purchase armor
-		material separately.
+		material separately (purchase a single armor material at chest armor cost).
 		Concealable.
 	Conceal Rig, Shoulder Harness
 		Pistol Holster, 2 Pistol mags
@@ -465,7 +465,7 @@ Gunner Kit: $231
 Enforcer Kit: $306
 	Trauma Plate Vest
 		Holds 1 trauma plate in the front. 30% coverage, must purchase armor
-		material separately.
+		material separately (purchase a single armor material at chest armor cost).
 		Concealable.
 	Conceal Rig, Waist
 		Pistol Holster or 2 primary mags, 2 secondary mags
@@ -473,7 +473,7 @@ Enforcer Kit: $306
 Clandestine Ops Kit: $341
 	Trauma Plate Vest
 		Holds 1 trauma plate in the front. 30% coverage, must purchase armor
-		material separately. 
+		material separately (purchase a single armor material at chest armor cost). 
 		Concealable.
 	Conceal Rig, Waist
 		Pistol Holster or 2 primary mags, 2 secondary mags
