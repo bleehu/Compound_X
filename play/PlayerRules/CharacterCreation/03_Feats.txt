@@ -132,8 +132,18 @@ basic computer inquiry or operation. +10% to ONE pertinent class skill
 (hacking, etc.) while using this feat, to be chosen at the time of taking 
 this feat.
 
+Fish To Water
+Prerequisites: Fort > 2
+Maybe you took a lot of swimming lessons when you were little, maybe you
+were on the college swim team, or maybe your military training had an 
+emphasis on endurance and core strength developed in the pool. In any case,
+you gain 10 skill in swimming and a bonus +15 to checks when holding your
+breath. You also ignore movement penalties from wading through deep liquids.
+These bonuses increase to 20 skill in swimming and 20 bonus to holding one's 
+breath after level 7.
+
 First Shot Counts: 
-Prerequisites:
+Prerequisites: Fortitude > 3
 When reloading, if you Critically succeed, the first round out of that 
 magazine deals Extra-Crit damage.
 
