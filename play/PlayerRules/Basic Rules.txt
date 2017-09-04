@@ -109,8 +109,10 @@ Class 		- Think of this like your job. Are you a sniper, waiting for the
 	starfighter? Or maybe you're a veteran soldier, who's seen it all. 
 	Classes define what armor and weapons your character can use in combat,
 	as well as certain special abilities which might help solve puzzles or
-	get you better discounts at stores. Your class also dictates how much 
-	money you start with to buy equipment.
+	get you better discounts at stores. Your class also determines how much 
+	money you start with to buy equipment and how many nanites you can use
+	at once.
+Nanites  	- 
 Skills		- Each character learns things while going through life. Maybe
 	your time in the military taught you how to navigate using the stars
 	or maybe your time working at a mechanic's shop made you good at 
@@ -255,7 +257,7 @@ Each Base Stat has different specific effects. They are detailed below.
 
 ==== Primary Stat Details ====
 Strength (STR):
-	How strong are you? This stat dictates how big of a gun you can carry and
+	How strong are you? This stat determines how big of a gun you can carry and
 	how hard you can punch or hit with strength melee weapons. It might also allow 
 	you to solve puzzles with the brute force approach.
 		If you have 1 Strength, you are exceptionally weak and your max movement per
@@ -270,8 +272,9 @@ Perception (PER):
 	something similar. You cannot use the Search or Awareness skills and you have a 
 	-20 malus to Speech skill rolls. 
 Fortitude (FORT): 
-	How tough are you? Fortitude dictates your maximum health, how hard you are to 
+	How tough are you? Fortitude determines your maximum health, how hard you are to 
 	knock off of your feet, and contributes to your saving throws.
+	Your Maximum Health = 50 + 10 * FORT
 		If you have 1 Fortitude, you are exceptionally frail. You can't inflict lethal 
 	unarmed damage and your unarmed damage is halved. Also, when you deal melee damage, 
 	you inflict half of the damage on yourself.
@@ -288,14 +291,15 @@ Charisma (CHA):
 	depending on how many points you have in Charisma. Or, if you have 9 or more Charisma,
 	you get to choose between taking feat "Will to Survive" or feat "Positional Mastermind". 
 Intelligence (INT): 
-	How smart are you? Intelligence dictates how many Nanites you have to cast spells
-	with or use certain Feats and abilities. It also affects how quickly you acquire new
-	skills when you	level up and how proficient you are at using some of those skills.
-		If you have 1 intelligence, let's just say, you aren't particularly smart. 
+	How smart are you? Intelligence determines how quickly you acquire new skills when you	
+	level up and how proficient you are at using some of those skills.
+		If you have 1 Intelligence, let's just say, you aren't particularly smart. 
 	You cannot attempt to use any skill that you do not have Proficiency in (see the 
 	"RP / Using Skills" section).
+		If you have 9 or more Intelligence you are exceptionally gifted and gain additional 
+	feats at certain levels; for more information, please see the "LEVELING-UP TABLE" below.
 Dexterity (DEX): 
-	How nimble are you? Dexterity decides your maximum move speed in combat, as well 
+	How nimble are you? Dexterity determines your maximum move speed in combat, as well 
 	as how much damage you do with finesse melee weapons like knives. Dexterity also 
 	contributes to skill checks for doing things with a character's body like climbing,
 	jumping, or dancing.
@@ -326,6 +330,14 @@ Luck (LUCK):
 ╠═══════╬═══════════════════════════════════════════════════════════════════════════════════════╣
 ║ 9-10  ║ Nothing bad happens... this time							║
 ╚═══════╩═══════════════════════════════════════════════════════════════════════════════════════╝
+
+Nanites:
+	Although not a primary stat, The maximum number of Nanites you can use at a given time is determined
+	by your character class and an associated primary stat. Your class may tell you its "Class Primary Attribute" 
+	is Strength. In that case, Strength * 10 is your maximum Nanites. More generally:
+	    Your Maximum Nanites = (Your Class's Primary Attribute) * 10
+	Some class feats and other abilities can increase the number of Nanites you can hold and use at a given time. 
+	Also, Unlike Health, Nanites regenerate during combat at a rate of 3 Nanites per turn. 
 
 ==== Secondary Stat Details ====
 Movement Speed:
@@ -455,11 +467,13 @@ Resting
 ==============================
 
 Short Rest:
-Taking about an hour, characters can take a short rest to rest and recoup.
+Taking about an hour, characters can take a Short Rest to rest and recoup which
+will restore all the character's Nanites.
 
 Long Rest:
 Taking about eight hours, characters need to rest after a long day of adventuring.
 If you choose to stay up all night, you won't be at your best for the next day.
+Restores all of a character's Nanites.
 
 ==============================
 RP / Using Skills:
