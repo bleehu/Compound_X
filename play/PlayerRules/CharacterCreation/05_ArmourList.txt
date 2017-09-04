@@ -214,100 +214,241 @@ Suit integrity: 20 shots
     =====================================
 		 ARMOR RIGS
     =====================================
-Armor rigs cannot be worn in combination with other rigs or tactical vests.
+Armor rigs cannot be worn in combination with other rigs from different types or tactical vests 
+(for example: Recon Rigs can't be worn with Light Rigs). Some of the lighter armor rigs cannot 
+hold armor materials, designated by "(*No Armor*)". Those rigs only provide more magazine 
+space or more hard points; they don't provide additional armor coverage.
 
-	=====  I RECON ARMOR RIGS   =====
-Tactical Vest with armor underneath. 
+=====  I RECON ARMOR RIGS   =====
+Tactical Vest system with armor underneath. 
 
-	----   STANDARD RIGS   ----
+----   STANDARD RIGS   ----
 	
-----Chest Rig ----
-Rig Cost:		400
-Magazine Space:		5 (No more than 1 grenade per 3 secondary ammunition space)
-Armor Coverage:		40% 
-Movement Speed Penalty: -2m
+	----Chest Rig ----
+	Rig Cost:		400
+	Magazine Space:		5 (No more than 1 grenade per 3 secondary ammunition space)
+	Armor Coverage:		40% 
+	Movement Speed Penalty: -2m
 
-----Arm Rig (*No Armor*) ----
-Rig Cost:		90
-Magazine Space: 	(2 Secondary Magazines)
-Movement Speed Penalty: 0	
+	----Arm Rig (*No Armor*) ----
+	Rig Cost:		90
+	Magazine Space: 	(2 Secondary Magazines)
+	Armor Coverage:		n/a
+	Movement Speed Penalty: 0	
 
-----Leg Rig (*No Armor*) ----
-Rig Cost:		122
-Magazine Space:		2	
-Movement Speed Penalty: 0
+	----Leg Rig (*No Armor*) ----
+	Rig Cost:		120
+	Magazine Space:		2
+	Armor Coverage:		n/a
+	Movement Speed Penalty: 0
 
-	----   ADVANCED RIGS   ----
+----   ADVANCED RIGS   ----
 
-----Advanced Chest Rig ----
-Rig Cost:		710
-Magazine Space:		3
-Armor Coverage:		30% 
-Hard Points:    	2
-Movement Speed Penalty: -2m
+	----Advanced Chest Rig ----
+	Rig Cost:		790
+	Magazine Space:		4 (No more than 1 grenade per 3 secondary ammunition space)
+	Armor Coverage:		30% 
+	Hard Points:    	2
+	Movement Speed Penalty: -2m
     
-	=====  II LIGHT ARMOR RIGS   =====
-A "Chest Rig" which holds one front plate and some gear.
+=====  II LIGHT ARMOR RIGS   =====
+A light plate carrier system which holds one front plate and some gear.
 
-	----   STANDARD RIGS   ----
+----   STANDARD RIGS   ----
 
-----Chest Rig ----
-Rig Cost:		570
-Magazine Space:		6 + (1 Secondary Magazine or Grenade)
-Armor Coverage:		40% 
-Movement Speed Penalty: -2m
+	----Chest Rig ----
+	Rig Cost:		570
+	Magazine Space:		6 + (1 Additional Secondary Magazine or Grenade)
+	Armor Coverage:		40% 
+	Movement Speed Penalty: -2m
 
-----Arm Rig (*No Armor*) ----
-Rig Cost:		90
-Magazine Space: 	(2 Secondary Magazines)
-Movement Speed Penalty: 0
+	----Arm Rig (*No Armor*) ----
+	Rig Cost:		90
+	Magazine Space: 	(2 Secondary Magazines or Grenades)
+	Armor Coverage:		n/a
+	Movement Speed Penalty: 0
 
-----Leg Rig ----
-Rig Cost:		300
-Magazine Space:		2	
-Armor Coverage:		15% 
-Movement Speed Penalty: 0
+	----Leg Rig ----
+	Rig Cost:		260
+	Magazine Space:		2	
+	Armor Coverage:		15% 
+	Movement Speed Penalty: 0
 
-	----   ADVANCED RIGS   ----
+----   ADVANCED RIGS   ----
 
-----Advanced Chest Rig ----
-Rig Cost:		720
-Magazine Space:		4 + (1 Secondary Magazine or Grenade)
-Armor Coverage:		35% 
-Hard Points:    	2
-Movement Speed Penalty: -2m
+	----Advanced Chest Rig ----
+	Rig Cost:		790
+	Magazine Space:		5 + (1 Additional Secondary Magazine or Grenades)
+	Armor Coverage:		35% 
+	Hard Points:    	1
+	Movement Speed Penalty: -2m
 
-----Advanced Arm Rig (*No Armor*) ----
-Rig Cost:		130
-Magazine Space: 	0
-Hard Points:    	1
-Movement Speed Penalty: 0
+	----Advanced Arm Rig (*No Armor*) ----
+	Rig Cost:		130
+	Magazine Space: 	0
+	Armor Coverage:		n/a
+	Hard Points:    	1
+	Movement Speed Penalty: 0
 
-----Advanced Leg Rig ----
-Rig Cost:		400
-Magazine Space:		1	
-Armor Coverage:		15% 
-Hard Points:    	1
-Movement Speed Penalty: 0
+	----Advanced Leg Rig ----
+	Rig Cost:		320
+	Magazine Space:		0	
+	Armor Coverage:		15% 
+	Hard Points:    	1
+	Movement Speed Penalty: 0
     
-	=====  III MEDIUM ARMOR RIGS   =====
-A smaller plate carrier which holds a moderate amount of gear.
+=====  III MEDIUM ARMOR RIGS   =====
+A smaller plate carrier system which holds a moderate amount of gear.
 
-	=====  IV MEDIUM-HEAVY ARMOR RIGS   =====
-A hefty plate carrier which holds front, back and side plates 
-as well as extended amounts of gear.
+----   STANDARD RIGS   ----
 
-	=====  V HEAVY ARMOR RIGS   =====
-Covers the front of your chest, your back, your sides, shoulders, neck, 
-pelvic region, and tops of your legs.
+	----Chest Rig ----
+	Rig Cost:		760
+	Magazine Space:		8 + (2 Additional Secondary Magazines or Grenades)
+	Armor Coverage:		40% 
+	Movement Speed Penalty: -2m
 
+	----Arm Rig ----
+	Rig Cost:		220
+	Magazine Space: 	(2 Secondary Magazines or Grenades)
+	Armor Coverage:		10%
+	Movement Speed Penalty: 0
 
-	==== CONCEALED RIGS ====
+	----Leg Rig ----
+	Rig Cost:		290
+	Magazine Space:		2	
+	Armor Coverage:		15% 
+	Movement Speed Penalty: 0
+
+----   ADVANCED RIGS   ----
+
+	----Advanced Chest Rig ----
+	Rig Cost:		1020
+	Magazine Space:		7
+	Armor Coverage:		35% 
+	Hard Points:    	1
+	Movement Speed Penalty: -2m
+
+	----Advanced Arm Rig ----
+	Rig Cost:		330
+	Magazine Space: 	0
+	Armor Coverage:		10%
+	Hard Points:    	1
+	Movement Speed Penalty: 0
+
+	----Advanced Leg Rig ----
+	Rig Cost:		370
+	Magazine Space:		0	
+	Armor Coverage:		15% 
+	Hard Points:    	1
+	Movement Speed Penalty: 0
+	
+=====  IV MEDIUM-HEAVY ARMOR RIGS   =====
+A hefty plate carrier system which holds front, back and side plates 
+as well as extended amounts of gear. Medium-Heavy Armor Chest Rigs
+provide a bonus +10 armor points.
+
+----   STANDARD RIGS   ----
+
+	----Chest Rig ----
+	Rig Cost:		1000
+	Magazine Space:		10
+	Armor Coverage:		40% 
+	Movement Speed Penalty: -2m
+	Notes: Provides an additional +10 Armor Points
+
+	----Arm Rig ----
+	Rig Cost:		320
+	Magazine Space: 	1
+	Armor Coverage:		15%
+	Movement Speed Penalty: -0.5m
+
+	----Leg Rig ----
+	Rig Cost:		390
+	Magazine Space:		2	
+	Armor Coverage:		20% 
+	Movement Speed Penalty: -0.5m
+
+----   ADVANCED RIGS   ----
+
+	----Advanced Chest Rig ----
+	Rig Cost:		1860
+	Magazine Space:		8
+	Armor Coverage:		35% 
+	Hard Points:    	2
+	Movement Speed Penalty: -2m
+	Notes: Provides an additional +10 Armor Points
+
+	----Advanced Arm Rig ----
+	Rig Cost:		460
+	Magazine Space: 	0
+	Armor Coverage:		15%
+	Hard Points:    	1
+	Movement Speed Penalty: -0.5m
+
+	----Advanced Leg Rig ----
+	Rig Cost:		500
+	Magazine Space:		0	
+	Armor Coverage:		20% 
+	Hard Points:    	1
+	Movement Speed Penalty: -0.5m
+
+=====  V HEAVY ARMOR RIGS   =====
+The heaviest plate carrier system available. Covers the front of your 
+chest, your back, your sides, shoulders, neck, pelvic region, and tops
+of your legs. Heavy Armor Chest Rigs provide a bonus +20 armor points.
+
+----   STANDARD RIGS   ----
+
+	----Chest Rig ----
+	Rig Cost:		1220
+	Magazine Space:		12
+	Armor Coverage:		40% 
+	Movement Speed Penalty: -2m
+	Notes: Provides an additional +20 Armor Points
+
+	----Arm Rig ----
+	Rig Cost:		410
+	Magazine Space: 	1
+	Armor Coverage:		25%
+	Movement Speed Penalty: -1m
+
+	----Leg Rig ----
+	Rig Cost:		590
+	Magazine Space:		3	
+	Armor Coverage:		35% 
+	Movement Speed Penalty: -1m
+
+----   ADVANCED RIGS   ----
+
+	----Advanced Chest Rig ----
+	Rig Cost:		2170
+	Magazine Space:		9
+	Armor Coverage:		35% 
+	Hard Points:    	2
+	Movement Speed Penalty: -2m
+	Notes: Provides an additional +20 Armor Points
+
+	----Advanced Arm Rig ----
+	Rig Cost:		590
+	Magazine Space: 	0
+	Armor Coverage:		25%
+	Hard Points:    	1
+	Movement Speed Penalty: -1m
+
+	----Advanced Leg Rig ----
+	Rig Cost:		690
+	Magazine Space:		0	
+	Armor Coverage:		35% 
+	Hard Points:    	1
+	Movement Speed Penalty: -1m
+
+===== CONCEALED RIGS =====
 Offering slightly worse protection and armament than standard armor rigs, 
 but with the bonus of being concealable under a coat or jacket for clandestine
 or stealth oriented operations. 
 Concealed rigs cannot be worn in combination with other rigs or tactical vests.
-    
+
 	=====   LEVEL 1 REQUIREMENT   =====
 Runner's Kit: $100
 	Conceal Rig, Shoulder Harness
