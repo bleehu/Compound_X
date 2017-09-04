@@ -10,7 +10,7 @@
 Passive Feats
 ====================
 Akimbo:
-Prerequisites: Dex 7, level 6 and Dual Wield feat
+Prerequisites: Dex 7, Level 6, Dual Wield feat
 Reduce the miss penalty from dual wielding to +1 miss chance per weapon. Reduce
 the reload penalty to 10%. You may fire at more than one target at once for 
 an additional +2 miss chance penalty.
@@ -42,7 +42,7 @@ Acquired: . . . Who Needs Nano-Technologies?
 Prerequisites: Pilot or "Acquired: With Friends Like These . . ." and Piloting 60
 
 Backstab:
-Prerequisites: Level 3 and Assassin or Monk.
+Prerequisites: Level 3, Assassin or Monk.
 Any damage dealt to an unaware opponent from behind deals an additional 20 + (Lvl * 2) damage.
 
 Bulltrue:
@@ -248,7 +248,7 @@ maintaining your bearings during a hyperspace jump as well as a +15% to stellar
 navigation.
 
 Shadow Sense:
-Prerequisites: Level 12 or higher Monk with Shadow Walk or Shadow Strike.
+Prerequisites: Level 12 Monk with Shadow Walk or Shadow Strike.
 +10 Damage-Reduction passive armour bonus with Shadow Strike or +15 DR armour
 bonus with Shadow Walk.
 
