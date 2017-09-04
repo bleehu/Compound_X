@@ -8,7 +8,7 @@ $500 Special Effect [ex. Headshot effect on the HK-80]
 ============================================================
 Pistols:
 (All pistols are considered CQB Weapons)
-Minimum Strength 2, Reload DC 20 unless otherwise noted. With DEX less than 5, Single Action revolvers must be re-cocked as a half action. Reload time 2 Half Actions
+Minimum Strength 2, Reload DC 20 unless otherwise noted. With DEX less than 5, Single Action revolvers must be re-cocked for an action. Reloading takes 2 Actions.
 ============================================================
 
 Mathews Model 36 $1580
@@ -64,8 +64,8 @@ A tremendous zap occurs as each bank of capacitors discharges in an instant, acc
 
 ============================================================
 Sub-Machine Guns:
-Capable of high rates of fire, but utilizing lighter calibers than a traditional combat rifle. Fire DEX/2 shots per full turn, rounding down. (DEX 5 = 2 shots, DEX 8 = 4 shots) Maximum LVL + 1.( All SMGs are considered CQB weapons)
-Minimum Strength 4, Reload DC 25% unless otherwise noted. Reload time 2 Half Actions. Jam range 2%
+Capable of high rates of fire, but utilizing lighter calibers than a traditional combat rifle. Fire DEX/3 shots per Action, rounding down. (DEX 5 = 1 shots, DEX 8 = 2 shots) ( All SMGs are considered CQB weapons)
+Minimum Strength 4, Reload DC 25% unless otherwise noted. Reloading takes 2 Actions. Jam range 2%
 ============================================================
 
 Paralax DE-22 Ghostbuster	$1440 / $15
@@ -87,7 +87,7 @@ Muzashi K-DS $3340 / $26
 30 rds, Krypton-12;
 65 dam, 2 x Plasma Burn
 Made for dual-weilding, these SMGs utilize magnetic magazines that can be reloaded without the use of an off-hand. Reload DC 15%
-The K-LS features a burst fire mode which allows for 2 round burst. Rather than firing DEX/2 shots per turn, fire 2 shots per half-action.
+The K-LS features a burst fire mode which allows for 2 round burst. Rather than firing DEX/3 shots per turn, fire 2 shots per Action.
 
 Schroder K-35 $3500
 100m
@@ -98,10 +98,10 @@ A tremendous zap occurs as each bank of capacitors discharges in an instant, acc
 
 ============================================================
 Shotguns:
-All pump shotguns take 1 Half Action to fire, 1 Half Action to rack. In the racking action, you can load an additional round of your specification as a half action. Double barrel and semi auto shotguns do not follow this rule.
+All pump shotguns take 1 Action to fire, 1 Action to rack. In the racking action, you can load an additional round of your specification for an additonal action. Double barrel and semi auto shotguns do not follow this rule.
 Slug damage deals damage as a normal rifle would, dealing its full damage up to the listed distance.
 Buck-Shot damage is dealt in 3 distinct distances, which are listed. All buck shot deals 2 bleed tokens to the target.
-Minimum Strength 4, Reload DC 30% unless otherwise noted. Reload time 3 Half Actions
+Minimum Strength 4, Reload DC 30% unless otherwise noted. Reloading takes 3 Actions.
 ============================================================
 
 Frontier Neon AN-12	$9400
@@ -113,7 +113,7 @@ Buckshot: 120 damage and 2 plasma burn tokens out to 3m,
 Slug: 80 damage and 1 plasma burn token out to 60m
 Plasma shells cost $60 each
 Pump Action
-Reloading only takes a half action, if reload roll is above 80% loads 3 shells, 
+Reloading only takes 1 action, if reload roll is above 80% loads 3 shells, 
 if roll is below 30%, only loads 1 shell. Loads 2 shells otherwise. 
 //Devnotes
 Generic plasma shotgun. generated offline without access to price tool. 
@@ -131,12 +131,12 @@ This Over-Under shotgun fires special Shotshells which each contain 3 caseless r
 10% / 15%
 2 rds, 3 x 25 mm Tungsten Core Shotshell
 60 + 2x bleed.
-A tremendous zap occurs as each bank of capacitors discharges in an instant, accelerating the small projectile to Mach-2 within the barrel. Dual Capacitor banks allow for no recharge time between shots, as there is always a charged set to fire a round. Pump Action on every other shot, so 1 half action to fire once, another to fire again, then a half-action to chamber the next two rounds. For an extra $200, the weapon can be purchased as a semi-automatic version, but with 15% miss instead of 10%
+A tremendous zap occurs as each bank of capacitors discharges in an instant, accelerating the small projectile to Mach-2 within the barrel. Dual Capacitor banks allow for no recharge time between shots, as there is always a charged set to fire a round. Pump Action on every other shot, so 1 action to fire once, another to fire again, then 1 action to chamber the next two rounds. For an extra $200, the weapon can be purchased as a semi-automatic version, but with 15% miss instead of 10%
 Minimum strength 6.
 
 ============================================================
 Carbines & Battle Rifles
-Minimum Strength 5, Reload DC 25% unless otherwise noted. Reload time 2 Half Actions
+Minimum Strength 5, Reload DC 25% unless otherwise noted. Reloading takes 2 Actions.
 ============================================================
 ECSC AR-SOC C			$2440
 120m
@@ -179,8 +179,8 @@ A tremendous zap occurs as each bank of capacitors discharges in an instant, acc
 
 ============================================================
 Automatic Rifles:
-Minimum Strength 5, Reload DC 25% unless otherwise noted. Reload time 2 Half Actions
-Fire STR/3 shots per half action. Round down. Jam range 2%
+Minimum Strength 5, Reload DC 25% unless otherwise noted. Reloading takes 2 Actions.
+Fire STR/3 shots per action. Round down. Jam range 2%
 ============================================================
 
 ECSC AR-SOC L               $2440
@@ -247,7 +247,7 @@ G&W XR $10,850 / $50
 ============================================================
 Heavy Weapons:
 Reload DC 40%, strength required 5 unless otherwise stated.
-A full action to reload unless otherwise stated. Requires
+Two actions to reload unless otherwise stated. Requires
 at least 20 points in heavy weapons skill unless otherwise
 stated.
 ============================================================
@@ -288,7 +288,7 @@ Min 6 Str
 5%
 35 rounds, (small calliber)
 20 Damage
-Each time fired, the Percent Miss penalty increases by 5% unless a Full Action is taken to let the weapon cool down.
+Each time fired, the Percent Miss penalty increases by 5% unless two actions are taken to let the weapon cool down.
 
 Strudwick Arms LA-8b Light Autocannon $10,990 / $140
 Requires strength 7 to carry.
@@ -316,9 +316,10 @@ Laser beam, cannot be dodged with a reaction check.
 
 ============================================================
 Long Rifles:
-Due to high velocities used in long rifle bullets, when a target is under the minimum engagement range, they take 20 less damage because of hit-pre-acceleration, PointBlank penetration, etc.
-On all engagements farther than 200m, you must take 1 Full Action to adjust your scope for windage and elevation between targets of differing distance.
-Minimum 5 strength to carry. All targets are inflicted with "Pinned" condition when hit. Reload DC 30% unless otherwise noted. Reload time 3 Half Actions.
+On all engagements farther than 200m, you must take two Actions to adjust your scope for windage and elevation between targets of differing distance.
+Minimum 5 strength to carry. All targets are inflicted with "Pinned" condition when hit. Reload DC 30% unless otherwise noted. Reloading
+takes 3 Actions.
+
 ============================================================
 
 Artimis Urban Combat Rifle $5600 / $8

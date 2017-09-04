@@ -12,6 +12,7 @@ exception of the tops of their heads.
 Type:		Organic
 Size:		Medium
 Speed:		Normal
+Starting Stat Points: 42
 Stat Modifiers:	
 +2 stat points to spend at level 1
 Language: 	Emperial Common, +1 dialect
@@ -61,6 +62,7 @@ Qualities: 10RP
 Type: humanoid
 Size: Medium
 Speed: Normal
+Starting Stat Points: 40
 Stat Modifiers: Flexible - +1 DEX, +1 to PER
 Language: Racial + ECSC Standard
 
@@ -95,6 +97,7 @@ recharge after a 24 hour period. this can be done via a self-contained
 reactor. Not affected by mind-influence, succeptable to hack attempts).
 Size: Medium+
 Speed: Normal
+Starting Stat Points: 40
 Stat Modifiers: INT + 1, FORT + 2. LUCK -3.
 Language: Basic
 
@@ -104,6 +107,50 @@ Purpose Built: Take an additional skill at 10 points during character
 creation. This is considered a Class skill.
 25m Darkvision.
 Weakness (Electrical): Electrical damage deals an additional 50% damage.
+
+//============================================================
+Archon
+Society: These constructs are made up of nanites. Commonly A.I.s that have 
+broken from their world of solitude and gained a corporeal body, these 
+powerful creations are as difficult to take down as they are rare.
+
+Preferred Classes: Warlock, Priest, Pilot.
+
+Qualities: 10RP
+Type: Construct. Does not need to eat, breathe, sleep. Immune to mind-
+affecting effects. Cannot heal damage on their own, but can be repaired by 
+nanite boost shots or using "Nanite Drain." Not subject to non-lethal damage 
+or fatigue. Once they hit 0 hit points, they are destroyed. They cannot be "
+brought back" but they can store copies of themselves on respawn systems.
+Size: Medium
+Speed: Normal
+Starting Stat Points: 40
+Stat Modifiers: +2 INT, -2 LUK, +2 DEX, -4 STR
+Language: ECSC standard, Machine Language, +1 language.
+
+Racial Traits:
+Capacitive Sheild Manipulator: Manipulate your CS field to create sheilds, 
+knives, bowls, or other simple shapes. (RP items mostly)
+Glowing Physique: The Archon glows a dim orange, blue, green, or yellow. This 
+color can brighten if the archon is under intense mental strain. It is not 
+light enough to provide a light source in a dark room, but would be noticeable 
+to others nearby. -5% to stealth checks.
+Nanite cannon: Archons are not able to use normal weapons. As a racial trait, 
+they can cast Shock Cannon with the following stats {
+	60m
+	25% (only buffed by Perception and class feats. Cannot take weapon familiarization, etc.)
+	Costs 2 Nanites per use
+	50 damage plus 2d10 CS damage
+}
+Archons are not as connected to electronics and integrated systems as Robotic 
+units are. However, for 2 Actions, an archon may digitize itself into 
+a nearby system through an open connection port in order to interact with it. 
+In this way, Archons may have a racial score of +10 to computer use.
+Archons do not have a health bar. Instead, they have 300 + 20*int Nanites.
+They can divy this pool up into 3 categories:
+- Max 200 into a "Health" Pool
+- Max 100 into an "Armour" Pool
+- As many remaining as they like into a "Mana" Pool.
 
 //============================================================
 Cyborg
@@ -117,7 +164,8 @@ Preferred Classes: Any
 Type: Enhanced Organic.
 Size: Medium
 Speed: Normal+
-Stat Modifiers: 40 point pool.
+Starting Stat Points: 40
+Stat Modifiers: See Below
 Languge: ECSC Standard
 
 Racial Traits:
@@ -132,8 +180,8 @@ and hit chance.):
     Speed Geared Fine Motor Controls: +1 DEX, no augment to movement speed.
     Skeletal Support Structure: +1 FORT.
     Implanted Weapon: Pick a pistol from the basic weapons list. This pistol 
-    is implanted in a limb. You may manipulate your limb to use this weapon at 
-    the cost of a half action. While the weapon is out, that limb does not 
+    is implanted in a limb. You may manipulate your limb to use this weapon at
+    the cost of 1 action. While the weapon is out, that limb does not 
     operate at its normal capacities. Hands would not grasp, legs would not 
     superbly support you, etc. Subrtact the price of the weapon from your 
     class starting money. The weapon can be upgraded to another pistol with a 
@@ -171,4 +219,4 @@ have this augment installed.
 //WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 //See the License for the specific language governing permissions and
 //limitations under the License.
-//===================================================================
+//==================================================================

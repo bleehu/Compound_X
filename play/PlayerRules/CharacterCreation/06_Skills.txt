@@ -1,9 +1,14 @@
-Skills List
+/*=============================================================================
+ * Skills List
+ * This document lists all the skills used in Compound_X. Skills augment your
+ * natural ability. Anyone who is strong enough can kick in a door, but if you
+ * are specially trained, you can much more effectively accomplish the task.
+ *===========================================================================*/
 //Dex
 Acrobatics: Rolling and tumbling come naturally to you. Useful for dodging, 
 jumping, balancing, and other fine body-control.
 //Per
-Awareness: your character''s passive perception skill including all 6 senses.
+Awareness: your character''s passive perception skill including all 6 senses. This differs from being able to look intently for something particular (Search).
 //Cha
 Deceive: You use your silver tongue to talk your way through situations with 
 ease.
@@ -48,7 +53,7 @@ to decide where to go, this skill will channel your inner survivorman and
 enable you to have a better idea of where you should face.
 //Dex
 Piloting: You have been trained in the use and operation of many vehicles, and 
-even if you don’t recognize what it is, you can probably figure out how to use 
+even if you don't recognize what it is, you can probably figure out how to use 
 it in a couple of turns.
 //Int
 Repair: For normal damage (up to 50%) roll percents. Any percent under 50 + 
@@ -63,15 +68,17 @@ skill addition.
 Repair kits: add 30 to the percentage to roll under. Then add 30 to the points 
 repaired. No negative if failed.
 //Per
+Search: Looting things and ransacking offices is something you''re quite fond of. Also helps whenever you are looking for something particular, rather than just sweeping the area for something of note (Awareness).
+//Per
 Sniping: You have a background going hunting with your dad, or maybe you went 
 to marine scout / sniper school. Who cares. If it moves, breathes or thinks, 
 you can hit it. Some weapons require this skill for use, and this skill can be 
 used for accuracy with any gun that has a range beyond 200m.
 //Dex
 Stealth: The art of stealth is a blanket over the most cloak and dagger of 
-actions. Good thing you’re in on the secret.
+actions. Good thing you're in on the secret.
 //Int
-Survival: Lost in the wilderness? You’re journey home will be made easier by 
+Survival: Lost in the wilderness? You're journey home will be made easier by 
 your ability to read the terrain, hunt and gather, and erect basic survival 
 structures..
 //Int
@@ -87,7 +94,7 @@ Space katanas, Plasma and Coilgun weaponry, and Heavy Weapons need this skill.
 //Dex
 Pickpocket: Misdirection, priming, and lifting. 
 //Dex
-Lockpicking: Making physical, mechaical, magnetic, and cryptographic locks go 
+Lockpicking: Making physical, mechanical, magnetic, and cryptographic locks go 
 from the locked position to the unlocked position without a key. May require 
 special equipment.
 

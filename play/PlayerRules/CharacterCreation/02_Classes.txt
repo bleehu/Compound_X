@@ -34,16 +34,18 @@ Allies must be able to hear and understand you to get the bonus.
 V
 Either 75% + (CHA mod) success or 30% added to next allied rolls.
 ----------------------
-It''ll heal [Min. Requirement of 7 fortitude]
-Make a FORT save at 50% to ignore an enemy damage. Remove one action next turn 
-to stare down your enemy, curse at them hitting you, make a badass remark, 
-etc. All damage taken during the encounter stacks, and half is taken at the 
-end of the encounter, regardless of your condition.
+Fight Fiercely First
+The Soldier gets an additional +10 to initiative rolls. 
+In addition, the soldier with this class feat gets a -30% to miss against enemies
+who have not taken a turn yet in combat or whom the soldier has beaten in 
+reflex roll when room clearing until that character takes a turn after losing the 
+reflex roll.
 |
 |
 |
 V
-Fort save is at 75%, or you take 1/3 of damages dealt
+The soldier's accuracy bonus effect works on any enemy with a lower initiative until
+that enemy has finished their 3rd turn.
 
 "Specialist" - There is always a need for the type of person willing and able 
 to bring the heaviest of fire down upon their enemies. The Specialist will be 
@@ -56,14 +58,20 @@ Starting Wealth: $1700+100*Luck + 900
 Class Feats:
 ----------------------
 Needs more dakka -
-You fire off a hail of bullets to pin your enemy. Fire 4 shots for a full 
-action, each shot DC +25%. If the target is still alive, they must pass a 
-Shock DC of 50 or be pinned for 2 turns.
+Sometimes, a situation just calls for more bullets. You're good at that. 
+When firing a semi-automatic weapon, you may fire an extra shot per
+action with a +10% chance to miss. When firing an automatic weapon,
+you may fire two extra shots with a +10% and +20% chance to miss
+respectively.
+This ability cannot be used with grenade launchers, rocket launchers, 
+or autocannons.
 |
 |
 |
 V
-Your ferocity knows no bounds. Fire off up to 6 shots, DC +25% for each.
+Your ferocity knows no bounds. Targets fired upon with Needs More Dakka
+must make a shock check of DC 60 + (Charisma * 8). On success, nothing 
+happens. On fail, target is Pinned Down [See basic rules for Conditions]
 ----------------------
 Heavier Ordinance not required -
 Your expertise with heavy weapons is sufficient for the task at hand. -25% 
@@ -267,7 +275,8 @@ V
 The Trail becomes bright against a monochrome background of edged shades of 
 grey. +75% to a tracking check, or maximum 2 turns to pass.
 ----------------------
-Highlight Target:
+Highlight Target: (Perception checks do not include checks to hit target. But by using a perception check for an 
+action to see where the target is and passing the target''s Cover DC+25 the player may recieve a +5% / +10% accuracy bonus.)
 Expend 10 nanites to mark a target. All damage dealt by allies to this target 
 is increased by 10, and any perception checks are 25% easier to pass. Use once 
 per encounter. Maximum of Level number uses per day. Lasts for duration of 
@@ -280,13 +289,15 @@ Expend 10 nanites to paint a target. All damage dealt by allies to this target
 is increased by 20, and any perception checks are 50% easier to pass. Use 
 twice per encounter. Level number of uses per day. Lasts for the day.
 
-=======
-"Paladin" - You are a righteous warrier, vetted and trained by one of the 
+
+"Paladin" - You are a righteous warrior, vetted and trained by one of the 
 powerful corporations or some other technologically advanced entity. You seek 
 to uphold the principals which define the group you''ve sworn allegience to. 
 Through this devotion you have been granted access to high tech in order to 
 pursue your goals and missions.
-Passives: Terms and Conditions clause compliance, access to Paladin Spell tree
+Passives: You gain 45 total nanites and each level you gain an additional 5 
+maximum nanites for each level after your first.
+Terms and Conditions clause compliance, access to Paladin Spell tree
 at level 3. By adhering to the Terms and Conditions, a Paladin gains an amount 
 of Favor within their church and can unlock new paladin spells by spending 
 Favor. Starting at level 3, a Paladin gains Favor equal to their Charisma each 
@@ -302,7 +313,7 @@ A shield can be projected from your off hand. When attacked, roll as if the
 shield were your armour, which has separate stats. 80% hit chance, 0 DR, 100 
 Nanite health. Hit chance only applies when opponent is in front of the 
 character. If an attak is coming from a flank or from behind, then ignore the 
-Shield. [Projects a tangible shield, not merely a CS field]. It takes a half 
+Shield. [Projects a tangible shield, not merely a CS field]. It takes 1 
 action to deploy the shield, and a free action to dismiss it.
 |
 |
@@ -442,14 +453,14 @@ Starting Wealth: $1700+100*Luck - 1300
 Feats:
 ----------------------
 Shadowy Assassin -
-Your moving cloak DC increases by 10. Attacks made while in cloaking do not 
+Your moving cloak DC increases by 10. Melee attacks made while in cloaking do not 
 break your cloaking unless you are observed making the attack. Any damage 
 dealt while in cloak is treated as standard-Crit damage.
 |
 |
 |
 V
-Your moving cload DC increases by 20, Attacks made while in cloacking do not 
+Your moving cload DC increases by 20, melee attacks made while in cloacking do not 
 break your cloaking. If you are observed making the attack, the observer must 
 pass your cloaking DC in order to observe the attack. All damage dealt while 
 cloaked is treated as Extra-Crit damage.
@@ -480,18 +491,21 @@ Starting Wealth: $1700+100*Luck + 2000
 Class Feats:
 ----------------------
 Pin Target
-Select a target. +25% to hit. On hit, target is Pinned. If the target attempts 
-to move from their pinned cover, you may roll a DC 60 sniping skill check to 
-hit them. For the remainder of the encounter, you get a +10% to hit the 
-selected target. If your rifle has Pin listed as an attribute, then any time 
-the selected target is pinned you may attack them reflexively if they move 
-from their pinned cover. If the target dies you may select a new target.
+If you fire at a target that is in cover, you can choose to "Pin" the target. Only 1 target may be
+Pinned by the marskman at a time. If the target attempts to move from cover within a 180 degree field
+of view infront of you, you may roll a DC 60 sniping skill check to hit them, as a free action. For the
+remainder of the encounter, you have a +10% to hit the pinned target with a firing action. If the target moves, 
+it is still considered pinned, and if the target dies or escapes from the battlefield you may pin a new target.
+Pin can only be activated by a pinned target once per Marksman player's turn. Only usable with long-rifles.
 |
 |
 |
 V
 Multi-Pin
-You may pin up to PER targets at a time. +20% to hit a Pinned target.
+You can now Pin a maximum of PER/2 (round down) targets at  time (you still have to fire at a 
+target to pin it). +20% to hit a Pinned target (instead of +10%). The Multi-Pin ability can be 
+activated by a pinned target once, per target, per Marksman player's turn. (I.e., 3 Pinned targets can 
+trigger Multi-Pin once each for a maximum total of 3 triggers before a marskman player's next turn).
 ----------------------
 Tech Rounds
 Spend 10 nanites. Choose from the following list of effects:
@@ -502,7 +516,7 @@ Spend 10 nanites. Choose from the following list of effects:
     players within 5m of the target are stunned for 1 turn.
     Shock round: On hit, electrifies the target, dealing an additional 10 
     damage + more for cybernetic units and also paralyzes them, forfeiting 
-    their first Full-Action, FORT DC 50
+    the first 2 Actions of their turn, FORT DC 50
 |
 |
 |
@@ -523,7 +537,7 @@ successful hit:
 "Beserker" - As an afficionado of the combat arts, you understand how 
 important tactile feedback is. Guns simply don''t offer the appropriate ammount
 , which is why you prefer to BEAT YOUR ENEMIES TO DEATH USING YOUR BARE HANDS 
-WHENEVER POSSIBLE!!!!!!!!!!!!!!!!!!!! MORE EXCLIMATION MARKS!!!!!!!!!!!!!!!! 
+WHENEVER POSSIBLE!!!!!!!!!!!!!!!!!!!! MORE EXCLAMATION MARKS!!!!!!!!!!!!!!!! 
 Passives: Expert unarmed.
 Weapon Proficiencies: Pistols.
 Armour Proficiencies: Concealed, Recon, Light, Medium, Heavy.
@@ -543,7 +557,7 @@ of your health, you gain a -20% chance to miss with melee weapons.
 ----------------------
 Beast Mode
 Once per engagement, you give a mighty shout and rush to engage your foes. For
-2 turns, your move speed increases by 2m per full action, your melee damage 
+2 turns, your move speed increases by 2m per 2 Actions, your melee damage 
 increases by 30 points and you gain 60 temporary hp which lasts until the end 
 of this effect. 
 |
@@ -613,11 +627,11 @@ V
 Shadow Walk
 Roll a Knowlege [Nnaites] check, DC 50. You may teleport up to Result-50/10 
 meters. You may also roll stealth after emerging at no action cost. Movement 
-in this manner is considered to take a half action, plus a half action for the 
+in this manner is considered to take an action, plus another action for the 
 skill check. Monks still receive a penalty attack for performing a skill check 
 in melee combat.
 
-//===================================================================
+//==================================================================
 //Copyright 2016 Taylor Rowland
 //
 //Licensed under the Apache License, Version 2.0 [the "License");
@@ -631,4 +645,4 @@ in melee combat.
 //WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 //See the License for the specific language governing permissions and
 //limitations under the License.
-//===================================================================
+//==================================================================

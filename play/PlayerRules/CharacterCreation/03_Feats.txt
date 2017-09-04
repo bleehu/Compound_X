@@ -4,6 +4,7 @@
  * Rules document. Passive feats are used freely with no limit
  * (unless otherwise stated) while active feats require the user to
  * spend a number of nanites, specified next to the feat's name.
+ * Unless otherwise specified, you cannot take a feat more than once.
  *======================================*/
 ====================
 Passive Feats
@@ -57,7 +58,7 @@ Prerequisites: Must have training in Shotguns
 If an enemy moves from being at least 4m from you to being less than 3m from 
 you and you have a loaded shotgun drawn, you may fire at them as a free 
 action. If the target is bloodied by the attack, they may not make a melee 
-attack against you with their next half action.
+attack against you with their next action.
 
 Combat Expertise [Guns]: 
 Prerequisites:
@@ -76,8 +77,8 @@ combat.
 
 Concussive Matainence:
 Prerequisites: 20 skill in repair or Engineer class. STR 4
-For a half action, you may whack something broken to try to fix it. +20% to 
-repair check or take a half action to smack something that you''ve failed to 
+For 1 action, you may whack something broken to try to fix it. +20% to 
+repair check or take an action to smack something that you''ve failed to 
 repair. +20% to repair check. Regardless, you can only use concusive 
 matainence on a target once per encounter.
 
@@ -114,7 +115,7 @@ Whatever the case, you need to dump the mag in their face to guarantee your
 safety. Roll to pass a DC 30% dex check. on success, you may fire off the 
 remainder of your clip or magazine (Applies only to semi- and fully-automatic 
 weapons, maximum 10 shots). Roll hits for each shot. Using this feat takes 
-3 half actions, and must be completed in the span of one turn. After using 
+3 actions, and must be completed in the span of one turn. After using 
 this feat, the user must reload their weapon for it to be effective again. 
 Can only be used once per encounter, LVL number of times per day. At level 5 
 and beyond, can be used twice per encounter.
@@ -133,7 +134,7 @@ magazine deals Extra-Crit damage.
 
 Focus Energy: 
 Prerequisites:
-Spend one Full-Action to increase the effects of a spell or Nanite based 
+Spend 2 Actions to increase the effects of a spell or Nanite based 
 action by 20%, (20% better roll, 20 damage, up to you.)
 
 Four on the Floor:
@@ -280,7 +281,7 @@ of a Stealth check.
 
 Steady Shot: 
 Prerequisites:
-Take a full action to breath slowly and line up your shot. -5% miss chance and 
+Take 1 Action to breath slowly and line up your shot. -5% miss chance and 
 +10m range each per level taken. Maximum 4 levels.
 
 Strong Back: 
@@ -474,7 +475,7 @@ Expend 25 Nanites, gain 25% to a piece of cover for 4 turns
 
 Combat Roll [40 Nanites]:
 Prerequisites: Dex of 5 or more
-Move 6m in one half action, no more, no less. Enemies attacking you take a +20% 
+Move 6m in one action, no more, no less. Enemies attacking you take a +20% 
 to miss when attacking you for the turn after you use this feat, and you take a 
 +15% to miss for the action after using this feat ends. If this mallice would 
 not run out until after this turn, it's effect wraps around to the beggining of 
@@ -508,12 +509,12 @@ the roll, then you may roll again to hit your first target normally.
 
 Twitch	[10 Nanites]:
 Prerequisites: Level 3, Trained in SMGs or Pistols, Dex > 6
-You may aim at an enemy as a free action instead of as a half action. Only 
+You may aim at an enemy as a free action instead of one action. Only 
 works with CQB weapons. +15% to miss with the aimed weapon.
 
 Blur	[15 Nanites]:
 Prerequisites: Level 10, Twitch
-You may aim at an enemy as a free action instead of as a half action. Only 
+You may aim at an enemy as a free action instead of one action. Only 
 works with CQB weapons. No Miss Chance penalty.
 
 //===================================================================
