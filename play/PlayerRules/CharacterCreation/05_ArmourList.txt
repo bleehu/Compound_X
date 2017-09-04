@@ -1,5 +1,5 @@
-Armour Document
-This document lists the armours available to characters in standard campaigns.
+armor Document
+This document lists the armors available to characters in standard campaigns.
 
  
  /*
@@ -81,57 +81,12 @@ must have the required amount of the given skill.
 
 
     =====================================
-        EVA SUITS AND FLIGHT HELMETS
+     STANDARD BALLISTIC ARMOR MATERIALS
     =====================================
-These additions may be worn with or added to armour. Environment 
-(EVA) suits are air- and water-tight when combined with an EVA or flight 
-helmet. EVA suits are bulky, DEX skill checks have a -10% penalty and movement
-is reduced in RP. If the suit is hit more times than its "Suit Integrity"
-rating, it will no longer be able to maintain air pressure (player health 
-has to be damaged in order for "Suit Integrity" to count a hit). Suits 
-traditionally come in white, yellow or red.
-
-	=====   LEVEL 1 REQUIREMENT   =====
-	
-Basic Tactical Helmet $100
-Tactical and Combat helmets can hold NVGs, lights, radios, etc.
-Protects the head from blunt trauma (mostly RP effects).
-
-Basic Flight Helmet $240
-A simple flight helmet. does not provide full seal, but can be paired with 
-air- and space-craft external oxygen systems. Protects the head from blunt
-trauma (mostly RP effects).
-
-Environment Helmet $350
-Provides a full environmental seal. Protects the head from blunt 
-trauma (mostly RP effects).
-
--------------------------------------------------
-
-	=====   LEVEL 1 REQUIREMENT   =====
-	
-Basic Flight-Suit  $800
-Basic Environment Suit, offers no ballistic protection. When shot, 
-the suit will decompress or compress, as necessary to maintain
-air pressure.
-Suit integrity: 5 shots
-
-	=====   LEVEL 5 REQUIREMENT   =====
-	
-Polymer-Alloy Environment Suit  $1200
-Suit integrity: 10 shots
-
-	=====   LEVEL 10 REQUIREMENT   =====
-
-Kevlar Fiber Environment Suit  $2000
-Suit integrity: 20 shots
-
-
-    =====================================
-	  STANDARD BALLISTIC ARMOURS
-    =====================================
-Adding any armor materials to a chest, leg, or arm rig adds to
-your movement speed penalties by -1m per material added.
+Adding any armor materials to a chest, leg, or arm rig adds to your 
+movement speed penalties by -1m per material added. The secondary stat,
+"Carry Strength", cancels out movement speed penalties; for more information,
+see section "Player Stats" in the Basic Rules document.
 
 =====   LEVEL 1 REQUIREMENT MATERIALS   =====
 
@@ -203,48 +158,92 @@ Cost For Arm or Leg Armor:	2900
 APL (Armor Piercing Level):	10
 APs (Armor Points):		130
 
+
+    =====================================
+        EVA SUITS AND FLIGHT HELMETS
+    =====================================
+Helmets may be worn with or added to armor or Environment (EVA) suits. 
+EVA suits are air- and water-tight when combined with an EVA or flight helmet.
+EVA suits are bulky, DEX skill checks have a -10% penalty and movement
+is reduced in RP. If the suit is hit more times than its "Suit Integrity"
+rating, it will no longer be able to maintain air pressure (player health 
+has to be damaged in order for "Suit Integrity" to count a hit). Suits 
+traditionally come in white, yellow or red.
+
+	=====   LEVEL 1 REQUIREMENT   =====
+	
+Basic Tactical Helmet $100
+Tactical and Combat helmets can hold NVGs, lights, radios, etc.
+Protects the head from blunt trauma (mostly RP effects).
+
+Basic Flight Helmet $240
+A simple flight helmet. does not provide full seal, but can be paired with 
+air- and space-craft external oxygen systems. Protects the head from blunt
+trauma (mostly RP effects).
+
+Environment Helmet $350
+Provides a full environmental seal. Protects the head from blunt 
+trauma (mostly RP effects).
+
+-------------------------------------------------
+
+	=====   LEVEL 1 REQUIREMENT   =====
+	
+Basic Flight-Suit  $800
+Basic Environment Suit, offers minimal ballistic protection. When shot, 
+the suit will decompress or compress as necessary to maintain air pressure.
+Holds 1 trauma (armor) plate in the front and back. 30% coverage, must purchase 
+armor material separately.
+Suit integrity: 5 shots
+
+	=====   LEVEL 5 REQUIREMENT   =====
+	
+Polymer-Alloy Environment Suit  $1200
+Holds 1 trauma (armor) plate in the front and back. 30% coverage, must purchase 
+armor material separately.
+Suit integrity: 10 shots
+
+	=====   LEVEL 10 REQUIREMENT   =====
+
+Kevlar Fiber Environment Suit  $2000
+Holds 1 trauma (armor) plate in the front and back. 30% coverage, must purchase 
+armor material separately.
+Suit integrity: 20 shots
+
 	
     =====================================
 		 ARMOR RIGS
     =====================================
-Armor rigs cannot be worn in combination with armor
-other rigs, plate carriers, soft armour, or tactical vests.
-	
-	
-	
-*michael halp me plsz* I took the armor descriptions from
-1.0 armor and put it below:
+Armor rigs cannot be worn in combination with other rigs or tactical vests.
 
-Recon Armour Setups:
-Tactical Vest with soft armour underneath. 
+=====   RECON ARMOR RIGS   =====
+Tactical Vest with armor underneath. 
     
-Light Armour Setups:
+=====   LIGHT ARMOR RIGS   =====
 A "Chest Rig" which holds one front plate and some gear.
     
-Medium Armour Setups:
+=====   MEDIUM ARMOR RIGS   =====
 A smaller plate carrier which holds a moderate amount of gear.
-    
-Medium-Heavy Armour Setups:
-A hefty plate carrier which holds front, back and side plates as well as
-extended amounts of gear.
 
-Heavy Armor:
+=====   MEDIUM-HEAVY ARMOR RIGS   =====
+A hefty plate carrier which holds front, back and side plates 
+as well as extended amounts of gear.
+
+=====   HEAVY ARMOR RIGS   =====
 Covers the front of your chest, your back, your sides, shoulders, neck, 
 pelvic region, and tops of your legs.
-
-
 
 
 	==== CONCEALED RIGS ====
 Offering slightly worse protection and armament than standard armor rigs, 
 but with the bonus of being concealable under a coat or jacket for clandestine
 or stealth oriented operations. 
+Concealed rigs cannot be worn in combination with other rigs or tactical vests.
     
 	=====   LEVEL 1 REQUIREMENT   =====
 Runner's Kit: $100
 	Conceal Rig, Shoulder Harness
 		Pistol Holster, 2 Pistol mags
-		Cannot be worn with plate carriers, soft armour, or tactical vests.
 	
 Gunner Kit: $231
 	Trauma Plate Vest
@@ -253,7 +252,6 @@ Gunner Kit: $231
 		Concealable.
 	Conceal Rig, Shoulder Harness
 		Pistol Holster, 2 Pistol mags
-		cannot be worn with plate carriers, soft armour, or tactical vests.
 
 Enforcer Kit: $306
 	Trauma Plate Vest
