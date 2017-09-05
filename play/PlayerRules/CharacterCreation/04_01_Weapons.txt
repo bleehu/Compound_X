@@ -147,7 +147,6 @@ RMM Frag+ Grenade: $120
 / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /  
 \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
 =============================================================================
-	
 Ranged Weapons List
 Outside effective range, subtract 10 damage and 30%, max double the effective 
 range.
@@ -672,44 +671,55 @@ Bolt Action: take 1 action to fire, 1 action to chamber a new round.
 ============================================================
 Rocket Launchers:
 ============================================================
-
-=====	LEVEL 5 REQUIREMENT WEAPONS	=====
-
----- ECSC RPE-B7	$2308
-Considered a secondary weapon. One rocket takes the space of 2 secondary magazine slots. Airburst Missile, 120 explosive damage. 5m radius.
-Chance to Miss:
-	3 out to 10m
-	4 out to 40m
-	5 out to 80m
-Mag Size: 1 40mm Self-propelled HE Rocket. $150 per rocket.
-Reload DC:		40%
-Max Speed Penalty: 1m per action
-Reflex Modifier: -35
-
-=====	LEVEL 10 REQUIREMENT WEAPONS	=====
-
----- ECSC RPE-CLS8	$6168
-Considered a secondary weapon. One rocket takes the space of 2 secondary magazine slots. Airburst Cluster Missile, 100 explosive damage. 8m radius. All affected targets roll DC 50% shock to resist stun for 1 turn.
-Chance to Miss:
-	3 out to 10m
-	4 out to 40m
-	5 out to 100m
-Mag Size: 1	50mm Self-propelled HE MIRV-guided missile. $300 per missile
-Reload DC: 50%
-Max Speed Penalty: 1m per action
-Reflex Modifier: -35
-
----- Anvil Arms AT-20	$5599
-Considered a secondary weapon. One rocket takes the space of 2 secondary magazine slots. Guided missile, 150 explosive damage, 3m radius. On a miss, lands within 4m of the target point. 8m radius. All affected targets roll DC 62% shock to resist stun for 1 turn. On a miss, roll a d10 to calculate the miss distance. Divide the number by 2 and round up; if the number is greater than 4, reduce it to 4. 
-Chance to Miss:
-	2 out to 15m
-	3 out to 55m
-	4 out to 150m
-Mag Size: 1	40mm Self-propelled guided HE Missile.	$200 per missile.
-Reload DC: 40%
-Max Speed Penalty: 1m per action
-Reflex Modifier: -35
-
+----ECSC RPE-B7	$2308	----	
+Damage:	120 explosive damage
+Damage Radius: 5m radius
+Ranged Miss Chance:		
+	3 out to 10m	
+	4 out to 40m	
+	5 out to 80m	
+Mag Size:		1 rounds of 40mm Self-propelled HE Rocket. $150 per magazine
+Reload DC:		40
+Fire Modes:		Special
+Armor Piercing Level:	n/a	
+Reflex Modifier:	-35	
+Suppression Level:	N/a	
+Movement Speed Penalty:	-1m	
+Notes:	Considered a secondary weapon. One rocket takes the space of 2 secondary magazine slots.
+		
+----ECSC RPE-CLS8	$6168	----
+Damage:	100 explosive damage	
+Damage Radius: 8m from impact
+Special: All affected targets roll DC 50% shock to resist stun for 1 turn.
+Ranged Miss Chance:		
+	3 out to 10m	
+	4 out to 40m	
+	5 out to 100m	
+Mag Size:		1 rounds of 50mm Self-propelled HE MIRV-guided missile. $300 per magazine
+Reload DC:		50
+Fire Modes:		Special
+Armor Piercing Level:	n/a	
+Reflex Modifier:	-35	
+Suppression Level:	N/a	
+Movement Speed Penalty:	-1m	
+Notes:	Considered a secondary weapon. One rocket takes the space of 2 secondary magazine slots.
+		
+----Anvil Arms AT-20	$5599	----
+Damage:	150 explosive damage
+Damage Radius: 3m radius
+Special: On a miss, lands within 4m of the target point. 8m radius. All affected targets roll DC 62% shock to resist stun for 1 turn. On a miss, roll a d10 to calculate the miss distance. Divide the number by 2 and round up; if the number is greater than 4, reduce it to 4.
+Ranged Miss Chance:		
+	2 out to 15m	
+	3 out to 55m	
+	4 out to 150m	
+Mag Size:		1 rounds of 40mm Self-propelled guided HE Missile. $200 per magazine
+Reload DC:		40
+Fire Modes:		Special
+Armor Piercing Level:	n/a	
+Reflex Modifier:	-35	
+Suppression Level:	N/a	
+Movement Speed Penalty:	-1m	
+Notes:	Considered a secondary weapon. One rocket takes the space of 2 secondary magazine slots. 
 
 //===================================================================
 //Copyright 2016 Taylor Rowland
