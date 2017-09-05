@@ -702,8 +702,7 @@ Armor Piercing Level:	n/a
 Reflex Modifier:	-35	
 Suppression Level:	N/a	
 Movement Speed Penalty:	-1m	
-Notes:	Considered a secondary weapon. One rocket takes the space of 2 secondary magazine slots. 
-        Airburst Cluster Missile, 100 explosive damage.
+Notes:	Considered a secondary weapon. One rocket takes the space of 2 secondary magazine slots.
 		
 ----Anvil Arms AT-20	$5599	----
 Damage:	150 explosive damage
