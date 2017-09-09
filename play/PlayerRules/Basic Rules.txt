@@ -544,30 +544,33 @@ you below the minimum miss chance.
 A character occupies 1m of space. however, as Compound X is not played out on a 
 squares-board, usually it doesn't matter if two players are within the same 
 1m space.
-
-Two Players locked in melee combat are considered to be in adjacent 1m spaces, 
-not in the same 1m space. Have you ever seen a fight? you don't start 
+	Two Players locked in melee combat are considered to be in adjacent 
+1m spaces, not in the same 1m space. Have you ever seen a fight? you don't start 
 face-to-face unless you're at a bar.
-Generally speaking, once a character has initiated melee combat with another 
-character, they are both considered to be in "melee combat," and occupy 
-adjacent 1m spaces. At this point (unless one character has a CQB weapon) 
-both characters are assumed to be using their fists or other melee weapons. If
-a character wishes to leave melee combat, they incur a "penalty attack." 
-Characters also incur "penalty attacks" when moving through or next to an 
-enemy character's 1m space, or within range of a melee weapon that the enemy 
-has equipped, and when performing a skill check when in melee combat.
-Melee combat is relatively simple. To hit an enemy player: add your dexterity 
-combat modifier to a d100 roll plus your miss chance modifier from your weapon/attack,
-and add any relevant skill(s). The result must be greater than the opponent's 
-DEX * 5 + any skill in combat (Guard DC). If you successfully hit your opponent,
-you roll armor as normal (for more details, see below sections "Armor and Getting Hit"
-and "Damage Types and Armor Types"). Your damage dealt is often based on a combination
-of your DEX and STR modifierx. If you are wielding a weapon against an unarmed 
-opponent, they may still incur damage depending on their skill.
+	Generally speaking, once a character has initiated melee combat with another 
+character, they are both considered to be in "melee combat," and occupy adjacent 
+1m spaces. At this point (unless one character has a CQB weapon) both characters 
+are assumed to be using their fists or other melee weapons. If a character wishes 
+to leave melee combat, they incur a "penalty attack."  Characters also incur 
+"penalty attacks" when moving through or next to an enemy character's 1m space,
+or within range of a melee weapon that the enemy has equipped, and when performing 
+a skill check when in melee combat.
+	Melee combat is relatively simple. To hit an enemy player: add your dexterity 
+combat modifier to a d10 roll plus your combat modifier from your weapon/attack*,
+and add any relevant skill(s)**. The result must be greater than the opponent's
+Guard DC: (DEX * 4)/10 + any skill** in combat. Drop any decimal remainder. If you
+successfully hit your opponent, you roll armor as normal (for more details, see below sections 
+"Armor and Getting Hit" and "Damage Types and Armor Types"). Your damage dealt is often
+based on a combination of your DEX and STR modifiers. If you are wielding a weapon against
+an unarmed opponent, they may still incur damage depending on their skill.
+	*Modifiers from specific weapons or unarmed[x] attacks are listed in the weapons document.
+	**To determine bonus modifiers from skill, for every 5 skill points in a relevant 
+	skill (such as "melee combat skill") take a bonus +0.5 when rolling against guard DC.
+	Drop any decimal remainder after adding all the modifiers.
 
 Hitting What You Intend:
 If you roll 3+ above your miss chance (3+ above the opponent's guard DC), you 
-ignore the opponent's armor and deal full damage.
+ignore the opponent's armor and deal full damage. 
 
 Grappling:
 A character may grapple another character when they are both in melee 
