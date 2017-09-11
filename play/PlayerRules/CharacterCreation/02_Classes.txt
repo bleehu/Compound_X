@@ -282,7 +282,8 @@ Class Primary Attribute: Perception
 Passives: Gain skill [Tracking] at 10. Purchase of primary cloaking modules is $1000 less. 
 At level 3 and above as a Hunter, Cloaking's Nanite Activation cost is reduced by 4.
 Gain Ability "Mark Quarry": Lvl/2+1 Uses per day - As a free action, expend 20 nanites to Mark 
-a visible target. The target leaves a trail that you can see and is 10% easier to track for the next hour.
+a visible target. You must be able to visibly see the target or something the target is wearing. 
+The target leaves a trail that you can see and is 10% easier to track for the next hour.
 At level 5, applies for the next 24 hours.
 NOTICE: SEE SECTION "CLOAKING" IN THE "BASIC RULES" DOCUMENT FOR MORE INFORMATION ON CLOAKING.
 Weapon Proficiencies: Pistols, Shotguns, Carbines, Long Rifles.
@@ -305,9 +306,9 @@ Feats:
 	Marked Quarry is, within 20 meters of you.
 	----------------------
 	Highlight Quarry - 
-	If your Quarry is marked, for 1 action, you can activate the nanites to make the quarry more 
-	visible. All damage dealt to this target is increased by 10. Two uses per encounter, one use per 
-	Quarry. Maximum of Lvl number uses per day. Lasts for the duration of the encounter.
+	If your Quarry is marked, for 1 action, you can activate a Marked Quarry's nanites to make them 
+	more visible. All damage dealt to this target is increased by 10. Two uses per encounter, one use
+	per Quarry. Maximum of Lvl number uses per day. Lasts for the duration of the encounter.
 	After level 10, instead of 10 damage, all damage dealt to this target is increased by 20.
 	----------------------
 	They Never Saw it Coming -
@@ -319,34 +320,33 @@ Feats:
 =====   PALADIN   =====
 You are a righteous warrior, vetted and trained by one of the 
 powerful corporations or some other technologically advanced entity. You seek 
-to uphold the principals which define the group you''ve sworn allegiance to. 
+to uphold the principals which define the group you've sworn allegiance to. 
 Through this devotion you have been granted access to high tech in order to 
 pursue your goals and missions.
 Class Primary Attribute: Fortitude
-Passives: You gain 45 total Nanites and each level you gain an additional 5 
-maximum Nanites for each level after your first.
+Passives: Add 25 + 5 per level to your maximum Nanite pool.
 Terms and Conditions clause compliance, access to Paladin Spell tree
 at level 3. By adhering to the Terms and Conditions, a Paladin gains an amount 
 of Favor within their church and can unlock new paladin spells by spending 
 Favor. Starting at level 3, a Paladin gains Favor equal to their Charisma each 
 level. Favor does not have to be spent, and can be saved up to learn more 
-potent prayers and spells. Knowledge [Nanites] - 10
+potent prayers and spells. Gain Skill [Knowledge[Nanites]] at 10
 Weapon Proficiencies: Pistols, Submachine Guns, Carbines, Automatic Rifles, Long Rifles.
 Armour Proficiencies: Recon, Light, Medium, Medium-Heavy.
 Starting Wealth: $1700+100*Luck
 Feats:
 	----------------------
 	Portable Shield:
-	A shield can be projected from your off hand. When attacked, roll as if the 
-	shield were your armour, which has separate stats. 80% hit chance, 0 DR, 100 
-	Nanite health. Hit chance only applies when opponent is in front of the 
-	character. If an attack is coming from a flank or from behind, then ignore the 
-	Shield. [Projects a tangible shield, not merely a CS field]. It takes 1 
+	A shield/barrier with a limited health pool can be projected from your off hand. 
+	When attacked, roll a separate armor roll for your shield, which has separate stats: 
+	80% Coverage, 140 Nanite Health. Hit chance only applies when opponent is in front 
+	of the character. If an attack is coming from a flank or from behind, then ignore the 
+	Shield. [Projects a tangible shield, not merely a Magnetic/Electron Shield]. It takes 1 
 	action to deploy the shield, and a free action to dismiss it.
 	|
 	|
 	V
-	90% hit chance, 0DR, 150 Nanite Health. Free action to deploy shield.
+	100% hit chance, 200 Nanite Health. Free action to deploy shield.
 	----------------------
 	Smite Enemy:
 	Once per engagement, you may select an opponent and deal them double damage, 
@@ -571,15 +571,14 @@ Class Feats:
 ======================================
 
 =====   BESERKER   =====
-As an aficionado of the combat arts, you understand how 
-important tactile feedback is. Guns simply don''t offer the appropriate amount, 
-which is why you prefer to BEAT YOUR ENEMIES TO DEATH USING YOUR BARE HANDS 
-WHENEVER POSSIBLE!!!!!!!!!!!!!!!!!!!! MORE EXCLAMATION MARKS!!!!!!!!!!!!!!!! 
+As an aficionado of the combat arts, you understand how important tactile feedback 
+is. Guns simply don't offer the appropriate amount, which is why you prefer to 
+BEAT YOUR ENEMIES TO DEATH USING YOUR BARE HANDS WHENEVER POSSIBLE!!!!!!!!!!!!!!!!!!!! MORE EXCLAMATION MARKS!!!!!!!!!!!!!!!! 
 Class Primary Attribute: Strength
 Passives: Expert Unarmed
 Weapon Proficiencies: Pistols.
 Armour Proficiencies: Concealed, Recon, Light, Medium, Medium-Heavy.
-Starting Wealth: $1700+100*Luck - 1200
+Starting Wealth: $1700 + 100*Luck - 1200
 Class Feats:
 	----------------------
 	Blood Rage -
