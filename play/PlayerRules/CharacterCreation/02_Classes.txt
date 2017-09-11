@@ -18,7 +18,7 @@ You have the blood of a warrior flowing through you. Your sole
 purpose is to fight until the threat is neutralized.
 Class Primary Attribute: Strength
 Passives: Gain Skill Weapon Use[X] at 10, Gain a +15 to Rolls for initiative. (you go first more often).
-Weapon Proficiencies: Pistols, Submachine Guns, Shotguns, Carbines, Battle Rifles, Assault Rifles.
+Weapon Proficiencies: Pistols, Submachine Guns, Shotguns, Carbines, Assault Rifles, Battle Rifles.
 Armour Proficiencies: Light, Medium, Medium-Heavy.
 Starting Wealth: $1700+100*Luck + 100
 Class Feats:
@@ -44,7 +44,7 @@ Class Feats:
 	V
 	75% + (CHA mod) success and 30% (or +3) added to next allied rolls.
 	----------------------
-	Fight Fiercely First
+	Fight Fiercely First -
 	The Soldier gets an additional +10 to initiative rolls. 
 	In addition, the soldier with this class feat gets a -3 miss chance against enemies
 	who have not taken a turn yet in combat or whom the soldier has beaten in 
@@ -61,8 +61,8 @@ Class Feats:
 =====   SPECIALIST   =====
 There is always a need for the type of person willing and able 
 to bring the heaviest of fire down upon their enemies. The Specialist will be 
-there when the odds are stacked highest against the forces for good, and he''
-ll be prepared to use heavy force to even those odds.
+there when the odds are stacked highest against the forces for good, and he'll 
+be prepared to use heavy force to even those odds.
 Class Primary Attribute: Strength
 Passives: Gain Skill [Thrown Weapons] at 10.
 Weapon Proficiencies: Pistols, Carbines, Machine Guns, Heavy Weapons.
@@ -97,15 +97,14 @@ Class Feats:
 
 
 =====   DOCTOR   =====
-You know how or why something works [most likely humans / humanoid 
-bodies), and put that knowledge to good use by supporting your team.
+You know how or why something works [most likely humans / humanoid bodies), 
+and put that knowledge to good use by supporting your team.
 Class Primary Attribute: Dexterity
-Passives: Gain 5 skill in Anatomy, 5 skill in Pathology, and 10 skill in 
-medicine. Every level, you gain one skill in both of the "hippocratic" and "
-malpractice" skill trees. At level 1 you start with an arm mounted needle 
-launcher, handheld pathogen synthesizer, field dressing applicator and 
-a package of ten needles. You start each encounter with 200 adrenaline
-points and will need to keep track of adrenaline points, needles and 
+Passives: Gain skill [Anatomy] at 5, skill [Pathology] at 5, and skill [medicine] at 10. 
+Every level, you gain one skill in both of the "hippocratic" and "malpractice" skill trees.
+At level 1 you start with an arm mounted needle launcher, handheld pathogen synthesizer, 
+field dressing applicator and a package of ten needles. You start each encounter with 
+200 adrenaline points and will need to keep track of adrenaline points, needles and 
 contagion points during a combat scenario.  
 Weapon Proficiencies: Pistols, Submachine Guns, Shotguns.
 Armour Proficiencies: Concealed, Recon, Light, Medium.
@@ -133,16 +132,16 @@ Class Feats:
 
 =====   ENGINEER   =====
 You solve problems. For instance, you know how to stop some mean 
-mutha-hubbard from tearin'' you and your team a structurally superfluous new 
+mutha-hubbard from tearin' you and your team a structurally superfluous new 
 behind. You know how to fix engines, machines, circuits, you name it. And when 
-you''re not busy fixing what other people broke, you get to work on making new 
-stuff. Which some knucklehead will probably eventually break too.
+you're not busy fixing what other people broke, you get to work on making new 
+stuff. Which some knucklehead will probably, eventually, break too.
 Class Primary Attribute: Intelligence
-passives: You gain get 10 skill points in repair. Every level, you get one 
-Process point in each of the "repair" and "build" skill trees.  At the 
-beginning of an engagement, you start with only half of your Nanites, but you 
-may accrue up to 600 Nanites max. You also start with 2 permanent control 
-points, which enable control over any automatons you construct.
+passives: Gain Skill [Repair] at 10. Every level, you get one Process point in 
+each of the "repair" and "build" skill trees.  At the beginning of an engagement,
+you start with only half of your Nanites, but you may accrue up to 600 Nanites max.
+You also start with 2 permanent control points, which enable control over any 
+automatons you construct.
 At level 6, the Feat "With Friends Like These . . ." is automatically unlocked.
 Weapon Proficiencies: Pistols, Shotguns, Carbines
 Armour Proficiencies: Concealed, Recon, Light, Medium.
@@ -165,16 +164,16 @@ Class Feats:
 	V
 	Overbuilt -
 	Any time you build a construction, you may spend an additional 15 Nanites to 
-	give that construction 50 additional health.
+	give that construction 50 additional health points.
 ======================================
 
 
 =====   PRIEST   =====
-You've lived your life in the deepest recesses of the holonet, and 
-have come out alive, and strong. You can figure out how a security system works
-, hack into systems, or even hack your allys'' Nanites to perform better.
+You've lived your life in the deepest recesses of the holonet, and have come out 
+alive and strong. You can figure out how a security system works, hack into systems,
+or even hack your allies' Nanites to perform better.
 Class Primary Attribute: Intelligence
-Passives: Gain PC use [HACKING] at 10 OR Knowledge [NANITES] at 10
+Passives: Gain Skill [Hacking] at 10 OR Gain Skill [Knowledge[NANITES]] at 10
 Weapon Proficiencies: Pistols, Submachine Guns.
 Armour Proficiencies: Concealed, Recon, Light, Medium.
 Starting Wealth: $1700+100*Luck - 650
@@ -192,14 +191,15 @@ Class Feats:
 	----------------------
 	Nanite Hacking -
 	You've had some cross-training in the medical field, or maybe you just tried 
-	plugging a cord into your brain. You know how to communicate with Nanites 
-	present in friends and enemies. DC 50 Knowledge [Nanites] grants a +20% to ally
-	''s next roll, or -10% on an opponent. Touch Effect.
+	plugging a cord into your brain. You know how to communicate with Nanites that
+	are present in friends and enemies. Once per turn, as a free action DC 50 
+	Knowledge[Nanites] grants a +20% to an ally's next roll, or -10% on an opponent.
+	Touch Effect.
 	|
 	|
 	V
 	Nanites have almost become second nature to you. DC 50 Knowledge [Nanites] 
-	grants a +30% to ally''s next roll, or -15% on an opponent. 
+	grants a +30% to an ally's next roll, or -15% on an opponent. 
 	Knowledge [Nanites]	/ 2 meters range.
 ======================================
 
@@ -208,7 +208,7 @@ Class Feats:
 You have a yearning to test the limits of the vehicles you operate. 
 The boundaries of speed and maneuvering were meant to be broken - by you.
 Class Primary Attribute: Dexterity
-Passives: Gain [Piloting] at 10.
+Passives: Gain Skill [Piloting] at 10.
 At level 6, the Feat ". . . Who Needs Nano-Technologies" is automatically unlocked.
 Weapon Proficiencies: Pistols, Submachine Guns, Shotguns.
 Armour Proficiencies: Concealed, Recon, Light, Medium.
@@ -217,22 +217,22 @@ Class Feats:
 	----------------------
 	Planes, Trains, Automobiles -
 	This is sorta familiar to something you once saw, or rode on. Maybe? 
-	Unfamiliar vehicles can be operated [albeit pretty poorly] after you pass a DC
-	50 check, or take up to 3 actions examining.
+	Unfamiliar vehicles can be operated [albeit pretty poorly] after you pass 
+	a DC 50 Luck check, or take up to 3 actions examining.
 	|
 	|
 	V
 	You have flown, operated and driven just about everything there is. Except 
-	that. Make a DC 40 check, or take up to 2 actions examining.
+	that. Make a DC 50 Piloting check, or take up to 2 actions examining.
 	----------------------
 	Extensive training <Vehicle> -
-	Your complete knowledge of <vehicle> makes your operation of it seem easy. Add
-	25 to any check concerning your operation, knowledge, or maintenance of the 
+	Your complete knowledge of <Vehicle> makes your operation of it seem easy. 
+	Add	25 to any check concerning your operation, knowledge, or maintenance of the 
 	vehicle.
 	|
 	|
 	V
-	You are THE guru across the holonets for <vehicle>. Add 50 onto a pertinent 
+	You are THE guru across the holonets for <Vehicle>. Add 50 onto a pertinent 
 	roll about the vehicle.
 ======================================
 
@@ -241,10 +241,9 @@ Class Feats:
 Your specialized skills with technology are combined with battle 
 training, providing you an edge in combat situations.
 Class Primary Attribute: Strength
-Passives: Gain 100 Nanites. any number of these can be put into a permanent 
-passive CS Class B unit that is implanted in your body. When not wearing armor,
-it covers 75% excluding head, hands, and feet. when wearing armor, it extends 
-your DR by 10 and you gain 5% coverage.
+Passives: Gain 100 Nanites. Any number of these can be put into the shield strength
+of a permanent Class A Electron Shield unit that is implanted in your body. 
+Recharge Rate/Turn: 50, Fast Recharge Nanites: 25, Shield Restart Time: 1 Turn
 Weapon Proficiencies: Pistols, Submachine Guns, Carbines.
 Armour Proficiencies: Concealed, Recon, Light, Medium.
 Starting Wealth: $1700+100*Luck - 400
@@ -252,9 +251,9 @@ Class Feats:
 	----------------------
 	Energy Burst -
 	You can emanate a short burst of Nanite induced energy. This energy can be 
-	used to: Restore 100% of the Nanites you expend to an ally. Deplete a target'
-	's Nanite reserve by 100% of what you expend. OR create an explosion at a 
-	target that deals 50 damage, plus causes C.S. to anyone caught in a 5 m radius,
+	used to: Restore 100% of the Nanites you expend to an ally. Deplete a target's 
+	Nanite reserve by 100% of what you expend. OR create an explosion at a 
+	target that deals 50 damage, plus inflicts 1x Plasma Burn to anyone caught in a 5m radius,
 	at a range of <X> Nanites expended [Max 50).
 	----------------------
 	Hardware Upgrade -
@@ -264,52 +263,56 @@ Class Feats:
 	You can use your CS to create basic items [knives, Frisbees, boomerangs, 
 	anything that is relatively 2-D shaped and smaller than .25x.25m] it gets <X> 
 	health, dependant on number of Nanites used to create it [minimum 5). You can 
-	also use any adjacent CS unit as a melee tool that can hit at 5*INT damage + 
-	CS Burn, 50% to hit.
+	also use any adjacent CS unit as a melee tool that can hit at 5*INT + Lvl damage + 
+	1x Plasma Burn, melee accuracy modifier: -1.
 	|
 	|
 	V
 	Items can be slightly more complex, up to .5x.5x.5m. Choose one of the 
-	following: CS Melee bash is extended to 5m or deals 7*INT damage + CS Burn, or 
-	hits at 75%.
+	following: CS Melee bash is extended to 5m or deals 7*INT + Lvl damage + 1x Plasma Burn, or 
+	melee accuracy modifier: +1.
 ======================================
 
 
 =====   HUNTER   =====
-An expert tracker, you''re the one hired when someone wants 
+An expert tracker, you're the one hired when someone wants 
 something found. Expertly trained in manipulating your Nanites to aid in 
 pursuit of a quarry, or in marking enemies for execution.
 Class Primary Attribute: Perception
-Passives: Gain skill in Tracking - 10. Use of Nanite cloaking armor is $1000 
-less. At level 3 and above as a Hunter, Cloaking costs 10 Nanites less.
-NOTICE: SEE BASIC RULES FOR ADDITIONAL CLOAKING ATTRIBUTES.
+Passives: Gain skill [Tracking] at 10. Purchase of primary cloaking modules is $1000 less. 
+At level 3 and above as a Hunter, Cloaking's Nanite Activation cost is reduced by 4.
+Gain Ability "Mark Quarry": Lvl/2+1 Uses per day - As a free action, expend 20 nanites to Mark 
+a visible target. The target leaves a trail that you can see and is 10% easier to track for the next hour.
+At level 5, applies for the next 24 hours.
+NOTICE: SEE SECTION "CLOAKING" IN THE "BASIC RULES" DOCUMENT FOR MORE INFORMATION ON CLOAKING.
 Weapon Proficiencies: Pistols, Shotguns, Carbines, Long Rifles.
 Armour Proficiencies: Cloaking, Concealed, Recon, Light.
 Starting Wealth: $1700+100*Luck + 1550
 Feats:
 	----------------------
-	Hunter Vision - (Lvl/2 # uses per day.)
+	Hunter Vision - Lvl/2 uses per day
 	Your breathing calms, as time appears to slow down. Your vision turns into 
 	myriad shades of grey. You see a faint path of color representing the trail of 
-	your quarry. +35% to a tracking check, Or take 3 turns to pass the check.
+	your quarry. +20% to a tracking check, Or take 3 turns to pass the check. 
+	Passively, gain the ability to sense where your Marked Quarry is, within
+	10 meters of you.
 	|
 	|
 	V
 	The Trail becomes bright against a monochrome background of edged shades of 
-	grey. +75% to a tracking check, or maximum 2 turns to pass.
+	grey. You can see marks and paths that others simply cannot. +50% to a tracking 
+	check, or maximum 2 turns to pass. Passively, gain the ability to sense where your
+	Marked Quarry is, within 20 meters of you.
 	----------------------
-	Highlight Target: (Perception checks do not include checks to hit target. But by using a perception check for an 
-	action to see where the target is and passing the target''s Cover DC+25 the player may receive a +5% / +10% accuracy bonus.)
-	Expend 10 Nanites to mark a target. All damage dealt by allies to this target 
-	is increased by 10, and any perception checks are 25% easier to pass. Use once 
-	per encounter. Maximum of Level number uses per day. Lasts for duration of 
-	encounter
-	|
-	|
-	V
-	Expend 10 Nanites to paint a target. All damage dealt by allies to this target 
-	is increased by 20, and any perception checks are 50% easier to pass. Use 
-	twice per encounter. Level number of uses per day. Lasts for the day.
+	Highlight Quarry - 
+	If your Quarry is marked, for 1 action, you can activate the nanites to make the quarry more 
+	visible. All damage dealt to this target is increased by 10. Two uses per encounter, one use per 
+	Quarry. Maximum of Lvl number uses per day. Lasts for the duration of the encounter.
+	After level 10, instead of 10 damage, all damage dealt to this target is increased by 20.
+	----------------------
+	They Never Saw it Coming -
+	If your Quarry has not seen you for 1 turn, your next attack against them does +30 bonus damage.
+	Increases to +50 bonus damage at level 10.
 ======================================
 
 
