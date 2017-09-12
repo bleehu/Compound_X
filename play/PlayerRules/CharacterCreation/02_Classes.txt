@@ -478,7 +478,7 @@ Feats:
 The galaxy is a dangerous place for those who would believe their 
 power or influence are limitless. The assassin lurks in the shadows, either as 
 a lone force of justice, or as part of a larger organization. They have 
-rightfully earned the title of Galaxy''s greatest Hand to Hand Fighters.
+rightfully earned the title of Galaxy's greatest Hand-to-Hand Fighters.
 Class Primary Attribute: Dexterity
 Passives: No penalty for engaging in Grappling maneuvers. Gain Hand-to-Hand Expert.
 Assassins wear a Shadow Cloak, which allows them to become a mere silhouette. 
@@ -502,14 +502,14 @@ Feats:
 	cloaked is treated as Crit damage + 10 additional damage.
 	----------------------
 	Azure-Assassin -
-	At the cost of 20 Nanites, you can summon Nanite-crystal blades. These blades 
+	At the cost of 15 Nanites, you can summon Nanite-crystal blades. These blades 
 	are as tough as high-carbon steel, have properties of a CS edged knife, but 
 	break after a single use. They can be thrown or used manually. Blades appear 
 	at the users hand, as if pulling them from nowhere.
 	|
 	|
 	V
-	At the cost of 15 Nanites, your Nanite-Crystal Blades can be summoned. Damage 
+	At the cost of 10 Nanites, your Nanite-Crystal Blades can be summoned. Damage 
 	dealt by these blades is always treated as Standard-Crit damage, in addition 
 	to any CS burns afflicted to the target. Blades appear at the users hand, wrist,
 	etc. Blades can also appear with some momentum for RP purposes.
@@ -521,7 +521,7 @@ keen eyes have given you insight into the art of precision warfare.
 Class Primary Attribute: Perception
 Passives: Gain skill [Sniper] at 10. Marksmen with Long Rifles do not have to 
 Hip-Fire inside of their minimum range as normal; instead, they have to make a 
-reflex save against the target to fire at the target(s).
+reflex save for every shot against the target.
 Weapon Proficiencies: Pistols, Carbines, Long Rifles.
 Armour Proficiencies: Concealed, Recon, Light.
 Starting Wealth: $1700+100*Luck + 2000
@@ -531,7 +531,7 @@ Class Feats:
 	If you fire at a target that is in cover, you can choose to "Pin" the target. Only 1 target may be
 	Pinned by the marksman at a time. If the target attempts to move from cover within a 180 degree field
 	of view infront of you, you may roll a DC 60 sniping skill check to hit them, as a free action. For the
-	remainder of the encounter, you have a +10% to hit the pinned target with a firing action. If the target moves, 
+	remainder of the encounter, you have a +1 to hit the pinned target with a firing action. If the target moves, 
 	it is still considered pinned, and if the target dies or escapes from the battlefield you may pin a new target.
 	Pin can only be activated by a pinned target once per Marksman player's turn. Only usable with long-rifles.
 	|
@@ -539,35 +539,31 @@ Class Feats:
 	V
 	Multi-Pin
 	You can now Pin a maximum of PER/2 (round down) targets at  time (you still have to fire at a 
-	target to pin it). +20% to hit a Pinned target (instead of +10%). The Multi-Pin ability can be 
+	target to pin it). +2 to hit a Pinned target (instead of +1). The Multi-Pin ability can be 
 	activated by a pinned target once, per target, per Marksman player's turn. (I.e., 3 Pinned targets can 
 	trigger Multi-Pin once each for a maximum total of 3 triggers before a marksman player's next turn).
 	----------------------
 	Tech Rounds
-	Spend 10 Nanites. Choose from the following list of effects:
-		Gas round: On hit, releases a cloud of gas 3m across centered on the 
-		target. Any enemies inside this cloud take a +10% Miss Chance debuff for 1
-		turn, and 10 damage.
-		Flash round: On hit, a blinding light emanates from the target. All 
-		players within 5m of the target are stunned for 1 turn.
-		Shock round: On hit, electrifies the target, dealing an additional 10 
-		damage + more for cybernetic units and also paralyzes them, forfeiting 
-		the first 2 Actions of their turn, FORT DC 50
+	Spend 7 Nanites. Choose from the following list of effects:
+	Gas round: On hit, releases a cloud of gas 3m across centered on the target. Any enemies 
+		inside this cloud take a +1 Miss Chance debuff for 1 turn, and 10 Poison damage.
+	Flash round: On hit, a blinding light emanates from the target. All players within 5m 
+		of the target are stunned for 1 turn.
+	Shock round: On hit, electrifies the target, dealing an additional 10 damage
+		(15 damage for cybernetic units and also paralyzes them, 
+		forfeiting the first 2 Actions of their turn, FORT DC 50).
 	|
 	|
 	V
 	Tech Rounds II
-	Spend 10 nanites. Choose from the following list of effects, activated on a 
+	Spend 7 nanites. Choose from the following list of effects, activated on a 
 	successful hit:
-		Thermate round: Target takes 10 burning damage, and 10 points off of their
-		armour Hit Percent. if the roll is less than 20% over, then the cover 
-		takes 20 damage.
-		Node round: Extend the range of a friendly Mechanic''s drone control to 
-		the hit enemy, or allow remote access by a friendly Priest.
-		Drain round: Half damage dealt to the target''s Nanite pool.
-		Seeker round: Increase your crit range by 10%.
-		Denial of Service: Does not deal damage. Half of your standard damage may 
-		be used as a bonus to a friendly Priest''s hack 
+	Thermate round: Target takes 10 burning damage, and 10% off of their Armor Coverage (DC 50 Repair to fix).
+	Node round: Extend the range of a friendly Engineer's drone control to the hit enemy, extends hacking range,
+		or allows remote access by a friendly Priest.
+	Drain round: Half of the damage dealt to health is dealt to the target's Nanite pool.
+	Seeker round: Increase your crit range by 1.
+	Denial of Service: Does not deal damage. Half of your standard damage may be used as a bonus to a friendly Priest's hack 
 ======================================
 
 =====   BESERKER   =====
@@ -606,7 +602,7 @@ Class Feats:
 
 
 =====   MONK   =====
-Head to any secluded Corporate Temple and you''ll find many Monks studying the
+Head to any secluded Corporate Temple and you'll find many Monks studying the
 ancient texts and learning about sacred technology. Of these holy disciples, 
 a few are trained to defend the Temple in case of attack. All Monks take an 
 Oath to not utilize "lesser" technologies [guns, armour, and even Nanite 
