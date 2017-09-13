@@ -398,15 +398,170 @@ unless otherwise stated.
 
 ===== Level 1 Weapons =====
 
----- 
+---- ----Matthews Model 2287 Short	$867	----
+Damage:	100	
+Ranged Miss Chance:		
+	3 out to 10m	
+	4 out to 20m	
+	5 out to 45m	
+Mag Size:		5 rounds of 20ga. slug $6 per bag of 8 shells.
+Reload DC:		45
+Fire Modes:		Pump Action
+Armor Piercing Level:	0	
+Reflex Modifier:	+8	
+Suppression Level:	Light	
+Notes/Description:	Lever action, negate 1 pump action per turn. CQB weapon. 
+		
+----Matthews Model 2x12	$1029	----
+Ranged Miss Chance:		
+	140 damage with a miss chance of 3 out to 10m	
+	105 damage with a miss chance of 4 out to 20m	
+	Slug only, 115 damage and a miss chance of 5 out to 50m	
+Auto Miss Chance:	+2,  -1 for every 9 Strength	
+Mag Size:		2 rounds of 12ga. $10 per bag of 8 shells.
+Reload DC:		38
+Fire Modes:		Semi, Auto
+Auto Fire Rate: 	2	
+Armor Piercing Level:	1	
+Reflex Modifier:	-8	
+Suppression Level:	Light	
+Movement Speed Penalty:	-1m
+		
+----Anvil Arms Hunting Shotgun	$1611	----
+Ranged Miss Chance:		
+	145 damage and a miss chance of 2 out to 13m	
+	110 damage and a miss chance of 3 out to 26m	
+	Slug only, 120 damage  and a miss chance of 4 out to 60m	
+Mag Size:		6 rounds of 12ga. $6 per bag of 8 shells.
+Reload DC:		45
+Fire Modes:		Pump Action
+Armor Piercing Level:	1	
+Reflex Modifier:	-6	
+Suppression Level:	Light	
+Movement Speed Penalty:	-0.5m
+
 
 ===== Level 5 Weapons =====
 
-----
+----Matthews Over / Under	$1415	----
+Ranged Miss Chance:		
+	140 damage with a miss chance of 2 out to 10m	
+	105 damage with a miss chance of 3 out to 25m	
+	Slug only; 115 damage with a miss chance of 4 out to 50m	
+Auto Miss Chance:	+1,  -1 for every 8 Strength	
+Mag Size:		2 rounds of 12ga . $10 per bag of 8 shells.
+Reload DC:		38
+Fire Modes:		Semi, Auto
+Auto Fire Rate: 	2	
+Armor Piercing Level:	1	
+Reflex Modifier:	-8	
+Suppression Level:	Light	
+Movement Speed Penalty:	-1m
+		
+----ECSC Mk900 	$1574	----
+Damage:	see notes	
+Ranged Miss Chance:		
+	150 damage with a miss chance of 2 out to 10m	
+	115 damage with a miss chance of 3 out to 20m	
+	Slug only; 125 damage with a miss chance of 4 out to 50m	
+Mag Size:		7 rounds of 12ga. $6 per bag of 8 shells.
+Reload DC:		45
+Fire Modes:		Pump Action
+Armor Piercing Level:	2	
+Reflex Modifier:	+5	
+Suppression Level:	Light	
+Movement Speed Penalty:	-0.5m
+		
+----Partix LA10 B-CQ	$2029	----
+Damage:	see notes, Laser	
+Ranged Miss Chance:
+	110 damage with a miss chance of 2 out to 10m	
+	90 damage with a miss chance of 3 out to 20m	
+	70 damage with a miss chance of 3 out to 40m	
+Mag Size:		5 rounds of 15 kWh,mag fed. $6 per magazine
+Reload DC:		35
+Fire Modes:		Pump Action
+Armor Piercing Level:	n/a	
+Reflex Modifier:	-5	
+Suppression Level:	Light	
+Movement Speed Penalty:	-0.5m
+		
+----NFA Combat 7 Shotgun	$2691	----
+Damage:	see notes	
+Ranged Miss Chance:		
+	135 damage with a miss chance of 2 out to 10m	
+	100 damage with a miss chance of 3 out to 20m	
+	Slug only; 110 damage with a miss chance of 4 out to 50m	
+Mag Size:		7 rounds of 12ga, mag fed. $9 per magazine
+Reload DC:		30
+Fire Modes:		Semi
+Armor Piercing Level:	1	
+Reflex Modifier:	+6	
+Suppression Level:	Medium	
 
 ===== Level 10 Weapons =====
 
-----
+----Matthews Model 3x12	$1492	----
+Damage:	see notes	
+Ranged Miss Chance:		
+	140 damage with a miss chance of 3 out to 10m	
+	105 damage with a miss chance of 4 out to 20m	
+	Slug only; 115 damage with a miss chance of 5 out to 50m	
+Auto Miss Chance:	+2,  -1 for every 9 Strength	
+Mag Size:		3 rounds of 12ga. $11 per bag of 8 shells.
+Reload DC:		38
+Fire Modes:		Semi, Auto
+Auto Fire Rate: 	3	
+Armor Piercing Level:	1	
+Reflex Modifier:	-10	
+Suppression Level:	Light	
+Movement Speed Penalty:	-1.5m
+		
+----RMM Auto-12	$3496	----
+Damage:	see notes	
+Ranged Miss Chance:		
+	135 damage with a miss chance of 2 out to 10m
+	105 damage with a miss chance of 3 out to 20m
+	Slug only; 110 damage with a miss chance of 4 out to 40m	
+Auto Miss Chance:	+6,  -1 for every 3 Strength (starting at 5)	
+Mag Size:		16 rounds of 12ga, mag fed. $24 per magazine
+Reload DC:		45
+Fire Modes:		Semi, Auto
+Auto Fire Rate: 	4	
+Armor Piercing Level:	1	
+Reflex Modifier:	0	
+Suppression Level:	Medium	
+Notes/Description:	CQB weapon.
+		
+----Frontier Plas-12	$3253	----
+Damage:	see notes, Plasma	
+Ranged Miss Chance:		
+	160 plasma damage with a miss chance of 1 out to 10m	
+	140 plasma damage with a miss chance of 3 out to 20m
+	110 plasma damage with a miss chance of 4 out to 35m	
+Mag Size:		10 rounds of Argon-12, magfed. $15 per magazine
+Reload DC:		45
+Fire Modes:		Pump Action
+Armor Piercing Level:	3	
+Reflex Modifier:	-5	
+Suppression Level:	Light	
+Movement Speed Penalty:	-0.5m	
+Notes/Description:	3x Plasma burn on hit.
+		
+----Partix LA36 CQ	$4618	----
+Damage:	see notes, Laser	
+Ranged Miss Chance:		
+	130 laser damage with a miss chance of 1 out to 15m	
+	110 laser damage with a miss chance of 2 out to 30m	
+	Focus beam only; 110 laser damage with a miss chance of 3 out to 60m	
+Mag Size:		8 rounds of 20 kWh,mag fed. $12 per magazine
+Reload DC:		35
+Fire Modes:		Pump Action
+Armor Piercing Level:	n/a	
+Reflex Modifier:	-5	
+Suppression Level:	Light	
+Movement Speed Penalty:	-0.5m	
+Notes/Description: Can change mirrors for a half-action, to Scatter Beams or Focus Beam (buckshot vs slug [Focus Beam get +1 miss chance]).
 
 ============================================================
 Carbines
