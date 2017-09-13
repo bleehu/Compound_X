@@ -19,7 +19,7 @@ purpose is to fight until the threat is neutralized.
 Class Primary Attribute: Strength
 Passives: Gain Skill Weapon Use[X] at 10, Gain a +15 to Rolls for initiative. (you go first more often).
 Weapon Proficiencies: Pistols, Submachine Guns, Shotguns, Carbines, Assault Rifles, Battle Rifles.
-Armour Proficiencies: Light, Medium, Medium-Heavy.
+Armor Proficiencies: Light, Medium, Medium-Heavy.
 Starting Wealth: $1700+100*Luck + 100
 Class Feats:
 	----------------------
@@ -66,7 +66,7 @@ be prepared to use heavy force to even those odds.
 Class Primary Attribute: Strength
 Passives: Gain Skill [Thrown Weapons] at 10.
 Weapon Proficiencies: Pistols, Carbines, Machine Guns, Heavy Weapons.
-Armour Proficiencies: Concealed, Light, Medium, Medium-Heavy, Heavy.
+Armor Proficiencies: Concealed, Light, Medium, Medium-Heavy, Heavy.
 Starting Wealth: $1700+100*Luck + 900
 Class Feats:
 	----------------------
@@ -107,7 +107,7 @@ field dressing applicator and a package of ten needles. You start each encounter
 200 adrenaline points and will need to keep track of adrenaline points, needles and 
 contagion points during a combat scenario.  
 Weapon Proficiencies: Pistols, Submachine Guns, Shotguns.
-Armour Proficiencies: Concealed, Recon, Light, Medium.
+Armor Proficiencies: Concealed, Recon, Light, Medium.
 Starting Wealth: $1700+100*Luck - 800
 Class Feats:
 	----------------------
@@ -144,7 +144,7 @@ You also start with 2 permanent control points, which enable control over any
 automatons you construct.
 At level 6, the Feat "With Friends Like These . . ." is automatically unlocked.
 Weapon Proficiencies: Pistols, Shotguns, Carbines
-Armour Proficiencies: Concealed, Recon, Light, Medium.
+Armor Proficiencies: Concealed, Recon, Light, Medium.
 Starting Wealth: $1700+100*Luck
 Class Feats: 
 	-----------------------
@@ -175,7 +175,7 @@ or even hack your allies' Nanites to perform better.
 Class Primary Attribute: Intelligence
 Passives: Gain Skill [Hacking] at 10 OR Gain Skill [Knowledge[NANITES]] at 10
 Weapon Proficiencies: Pistols, Submachine Guns.
-Armour Proficiencies: Concealed, Recon, Light, Medium.
+Armor Proficiencies: Concealed, Recon, Light, Medium.
 Starting Wealth: $1700+100*Luck - 650
 Class Feats:
 	----------------------
@@ -211,7 +211,7 @@ Class Primary Attribute: Dexterity
 Passives: Gain Skill [Piloting] at 10.
 At level 6, the Feat ". . . Who Needs Nano-Technologies" is automatically unlocked.
 Weapon Proficiencies: Pistols, Submachine Guns, Shotguns.
-Armour Proficiencies: Concealed, Recon, Light, Medium.
+Armor Proficiencies: Concealed, Recon, Light, Medium.
 Starting Wealth: $1700+100*Luck -1050
 Class Feats:
 	----------------------
@@ -245,7 +245,7 @@ Passives: Gain 100 Nanites. Any number of these can be put into the shield stren
 of a permanent Class A Electron Shield unit that is implanted in your body. 
 Recharge Rate/Turn: 50, Fast Recharge Nanites: 25, Shield Restart Time: 1 Turn
 Weapon Proficiencies: Pistols, Submachine Guns, Carbines.
-Armour Proficiencies: Concealed, Recon, Light, Medium.
+Armor Proficiencies: Concealed, Recon, Light, Medium.
 Starting Wealth: $1700+100*Luck - 400
 Class Feats:
 	----------------------
@@ -287,7 +287,7 @@ The target leaves a trail that you can see and is 10% easier to track for the ne
 At level 5, applies for the next 24 hours.
 NOTICE: SEE SECTION "CLOAKING" IN THE "BASIC RULES" DOCUMENT FOR MORE INFORMATION ON CLOAKING.
 Weapon Proficiencies: Pistols, Shotguns, Carbines, Long Rifles.
-Armour Proficiencies: Cloaking, Concealed, Recon, Light.
+Armor Proficiencies: Cloaking, Concealed, Recon, Light.
 Starting Wealth: $1700+100*Luck + 1550
 Feats:
 	----------------------
@@ -332,7 +332,7 @@ Favor. Starting at level 3, a Paladin gains Favor equal to their Charisma each
 level. Favor does not have to be spent, and can be saved up to learn more 
 potent prayers and spells. Gain Skill [Knowledge[Nanites]] at 10
 Weapon Proficiencies: Pistols, Submachine Guns, Carbines, Automatic Rifles, Long Rifles.
-Armour Proficiencies: Recon, Light, Medium, Medium-Heavy.
+Armor Proficiencies: Recon, Light, Medium, Medium-Heavy.
 Starting Wealth: $1700+100*Luck
 Feats:
 	----------------------
@@ -371,7 +371,7 @@ Tome of Spells, which must be on the Mage in order to cast spells. This Tome
 is accessed as any typical holobook, and can be connected to Altars to expand 
 the Mage''s available spells.
 Weapon Proficiencies: Pistols.
-Armour Proficiencies: Recon.
+Armor Proficiencies: Recon.
 Starting Wealth: $1700+100*Luck - 1400
 Feats: The Mage picks one of the following branches at level 5. Instead of 
 gaining more class feats at levels 1-, 15 and 20, they gain access to more 
@@ -411,7 +411,7 @@ can be used.
 Class Primary Attribute: Intelligence
 Passives: Knowledge Nanites - 10; +50 Nanites, +10 per level.
 Weapon Proficiencies: Pistols.
-Armour Proficiencies: Recon.
+Armor Proficiencies: Recon.
 Starting Wealth: $1700+100*Luck - 1400
 Feats: The Sorcerer picks one of the following branches at level 5. Instead of 
 gaining more class feats at levels 1-, 15 and 20, they gain access to more 
@@ -440,24 +440,25 @@ information.
 =====   GUNSLINGER   =====
 Class Primary Attribute: Perception
 Passives: [APPLY ONLY TO PISTOL]
-Choose one: Pistoleer lvl 1, Quick draw, Conceal Weapon, Steady Shot, +5 Round 
-capacity to mags, +2 mags to arsenal. Also choose two bonuses and one weakness:
-    - Bonuses: +10 Dam, +10m, -10% Miss Chance, +CS burn, +1 rds in mag;
-    - Weaknesses: -10 Dam, -10m, +10% Miss Chance, -1 magazine;
+Choose one: Pistoleer lvl 1, Quick draw, Conceal Weapon, Steady Shot. 
+Also choose two bonuses and one weakness:
+    - Bonuses: +10 Dam, +10m R3 Range Bracket, -1 Miss Chance, +1 rds in mag, +2 mags carried;
+    - Weaknesses: -10 Dam, -10m R3 Range Bracket, +1 Miss Chance, -1 rds in mag, -2 mags carried;
 Weapon Proficiencies: Pistols.
-Armour Proficiencies: Concealed, Recon, Light.
+Armor Proficiencies: Concealed, Recon, Light.
 Starting Wealth: $1700+100*Luck - 800
 Feats:
 	----------------------
 	Heightened awareness -
 	Being aware comes with your level of training. You cannot be caught flat-footed
-	, but opponents can still get surprise rounds against you.
+	(you cannot be penalized for being surprised), but opponents can still get surprise 
+	rounds against you.
 	|
 	|
 	V
 	You are omni-aware to any attacks made against you or allies. Whenever an 
-	enemy attempts to make an attack of opportunity on you or any allies within eye
-	-sight, you gain an attack of opportunity on them.
+	enemy attempts to make an attack of opportunity on you or any allies within 
+	eye-sight, you gain an attack of opportunity on them, first.
 	----------------------
 	Enhanced Gun-Kata -
 	You are a disciple of the art of close-range pistol fighting. Applies to any 
@@ -485,7 +486,7 @@ Assassins wear a Shadow Cloak, which allows them to become a mere silhouette.
 When in partial darkness or darker, the static DC increases by 10.
 NOTICE: SEE BASIC RULES FOR ADDITIONAL CLOAKING ATTRIBUTES
 Weapon Proficiencies: Pistols
-Armour Proficiencies: Cloaking, Concealed, Recon, Light.
+Armor Proficiencies: Cloaking, Concealed, Recon, Light.
 Starting Wealth: $1700+100*Luck - 1300
 Feats:
 	----------------------
@@ -523,7 +524,7 @@ Passives: Gain skill [Sniper] at 10. Marksmen with Long Rifles do not have to
 Hip-Fire inside of their minimum range as normal; instead, they have to make a 
 reflex save for every shot against the target.
 Weapon Proficiencies: Pistols, Carbines, Long Rifles.
-Armour Proficiencies: Concealed, Recon, Light.
+Armor Proficiencies: Concealed, Recon, Light.
 Starting Wealth: $1700+100*Luck + 2000
 Class Feats:
 	----------------------
@@ -573,7 +574,7 @@ BEAT YOUR ENEMIES TO DEATH USING YOUR BARE HANDS WHENEVER POSSIBLE!!!!!!!!!!!!!!
 Class Primary Attribute: Strength
 Passives: Expert Unarmed
 Weapon Proficiencies: Pistols.
-Armour Proficiencies: Concealed, Recon, Light, Medium, Medium-Heavy.
+Armor Proficiencies: Concealed, Recon, Light, Medium, Medium-Heavy.
 Starting Wealth: $1700 + 100*Luck - 1200
 Class Feats:
 	----------------------
@@ -584,20 +585,20 @@ Class Feats:
 	|
 	|
 	V
-	You gain a permanent additional 30 health. If you are missing more than half 
-	of your health, you gain a -20% chance to miss with melee weapons.
+	You gain an additional, permanent, 30 health. If you are missing more than half 
+	of your health, you gain a +2 accuracy bonus with melee weapons (affects rolling
+	over the opponents Guard DC).
 	----------------------
 	Beast Mode
 	Once per engagement, you give a mighty shout and rush to engage your foes. For
-	2 turns, your move speed increases by 2m per 2 Actions, your melee damage 
-	increases by 30 points and you gain 60 temporary hp which lasts until the end 
-	of this effect. 
+	2 turns, your move speed increases by 1m per Action, your melee damage increases 
+	by 30 points and you gain 60 temporary HPs which lasts until the end of this effect. 
 	|
 	|
 	V
-	Enemies within 3m * your charisma of you when you shout must pass a DC 70 
-	check not to target you, you gain a temporary 120 hp. This effect lasts an 
-	additional turn as well.
+	Enemies within [3 * CHA] meters of you when you shout must pass a DC 70 Charisma
+	check not to target you on their following turn. Instead of 60 HP, you gain a 
+	temporary (40 + 10*FORT) HPs. Beast Mode now last for 3 turns.
 ======================================
 
 
@@ -605,7 +606,7 @@ Class Feats:
 Head to any secluded Corporate Temple and you'll find many Monks studying the
 ancient texts and learning about sacred technology. Of these holy disciples, 
 a few are trained to defend the Temple in case of attack. All Monks take an 
-Oath to not utilize "lesser" technologies [guns, armour, and even Nanite 
+Oath to not utilize "lesser" technologies [guns, armor, and even Nanite 
 packs.], for only through embracing the Higher Technologies can one Advance 
 oneself to the planes of the Great Ones.
 Class Primary Attribute: Dexterity
@@ -620,7 +621,7 @@ of 100 Nanites spent to activate the shield. Activation is a free action.
 Each shield lasts for one encounter. Monks may meditate once per day for an 
  hour to regain any Nanites lost in this way.
 Weapon Proficiencies: None.
-Armour Proficiencies: None.
+Armor Proficiencies: None.
 Starting Wealth: $0 (assume basic robe and communicator)
 Class Feats:
 	----------------------
@@ -651,7 +652,7 @@ Class Feats:
 		Other [Discuss any ideas you have with the GM).
 	----------------------
 	Shadow Strike -
-	Instead of rolling to hit based on opponent armour + hand to hand skill, you 
+	Instead of rolling to hit based on opponent armor + hand to hand skill, you 
 	only have to pass a DC 50 Knowledge [Nanite] check.
 	|
 	|
@@ -669,7 +670,7 @@ Class Feats:
 Mech summoner / P otions master
 Passives: Repair/Tinker - 10 or ; +50 Nanites.
 Weapon Profs: Pistols, SMGs, Shotguns, Carbines.
-Armour Profs: Recon, Light, Medium.
+Armor Profs: Recon, Light, Medium.
 
 
 ======================================
