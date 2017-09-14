@@ -512,7 +512,7 @@ attack still apply.
 
 Gun Kata [30 Nanites]: 
 Prerequisites: Level 10
-For 1 Action, reduce weapon range to 15m and reduce Miss Chance by 5. Treat 
+For 1 Action, reduce weapon range to 15m and reduce Miss Chance by 1. Treat 
 any weapon as if it were a CQB weapon. After a successful hit, you may roll 
 for an additional hit on any target within the 15m range, for up to 3 rounds
 fired. If you miss a shot, your Gun Kata ends.
