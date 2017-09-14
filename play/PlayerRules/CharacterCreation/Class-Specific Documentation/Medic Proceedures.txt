@@ -30,7 +30,7 @@ Duration: 	Free Action
 Range:		Self
 Effect:		Increase move speed to 12m per action
 and get a +30 to accrobatics checks. Effect persists for 1 turn. While 
-in a medical emergency, the Doc suffers a +28% chance to miss, 'cause
+in a medical emergency, the Doc suffers a +2.5 chance to miss, 'cause
 they have more important things to worry about. Cannot be used to move
 more than 36m per turn.
 
@@ -39,7 +39,7 @@ Adrenaline Cost:30
 Needle Cost:	1
 Duration: 	2 Actions
 Range:		40m
-Effect:		10 % chance to miss. Deal 52 piercing damage. AP level 3.
+Effect:		2 chance to miss. Deal 52 piercing damage. AP level 3.
 If the needle penetrates the targets armor and is still alive, apply a 
 poison payload of your choice.
 
@@ -48,7 +48,7 @@ Adrenaline Cost:35
 Needle Cost:	1
 Duration: 	1 Action
 Range:		40m
-Effect:		16 % chance to miss. Deal 52 piercing damage. AP level 3.
+Effect:		2 chance to miss. Deal 52 piercing damage. AP level 3.
 As a free action before using the fast spike you may apply a poison payload
 to the needle before it is fired.  If the needle defeats the target's armor and 
 the target is still alive, apply the poison payload to the target.
@@ -59,7 +59,7 @@ Needle Cost: 3
 Duration: 	2 Actions
 Range:		30m
 Effect:		You launch off three harmasist spikes in quick succession using both
-hands. Each has an 18 % chance to miss. You may pick up to three targets to 
+hands. Each has an 2 chance to miss. You may pick up to three targets to 
 launch at. Each spike that hits deals 52 piercing damage and has an armor piercing 
 level of 3. If the needles defeat the armror of the target and the target is still alive, 
 apply a poison payload of your choice.
@@ -69,7 +69,7 @@ Adrenaline Cost:35
 Needle Cost: 1
 Duration: 	2 Actions
 Range:		45m
-Effect:		10 % chance to miss. Deal 42 piercing damage. AP level 6.
+Effect:		2 chance to miss. Deal 42 piercing damage. AP level 6.
 if the  needle defeats the target's armor, apply a poison payload of your choice.
 
 /////	Poison: Mild Halucinogen
@@ -94,7 +94,7 @@ Contagion Cost: 1
 Duration: 	engagement
 Range:		Payload (use in combination with other powers)
 Effect:		Target must pass a DC 70 Will check. If they fail, target
-has their speed reduced to 25%, round down and takes a +40% to miss.
+has their speed reduced to 25%, round down and takes a +4 to miss.
 Depressant always deploys as an area of effect cloud, even with 
 deploment powers that otherwise wouldn't. +5m radius area of effect.
 Depressant only affects biologic targets.
@@ -207,7 +207,7 @@ Effect: You need more pathogens, but your teammates aren't sharing. Perhaps
 your enemy might be made to donate some? You grab one of your needles and 
 violently scoop some out of them. This isn't exactly how it worked in med school.
 Make a melee attack against your enemy. If it hits, you get a contagion reward
-of 4, if it misses, you get nothing. You get a -20% to miss and deal damage 
+of 4, if it misses, you get nothing. You get a -2 to miss and deal damage 
 equal to 4 * Strength. Ignore armor. 
 
 /////	Poison: Thiopental Derivative
@@ -277,8 +277,8 @@ Adrenaline Cost: 60
 Contagion Cost: 1
 Duration: 	1 Action
 Range:		Applies to the Doc only
-Effect:		For 3 turns, the doc gets a -28% to miss with guns, grenades, 
-spells, and melee weapons. They also get a +30 to reload and a +10% chance to 
+Effect:		For 3 turns, the doc gets a -3 to miss with guns, grenades, 
+spells, and melee weapons. They also get a +30 to reload and a +1 chance to 
 crit.
 
 /////	Free Running
@@ -311,8 +311,8 @@ Adrenaline Cost: 60
 Contagion Cost: 1
 Duration: 	1 Action
 Range:		Applies to the Doc only
-Effect:		For 3 turns, the doc gets a -46% to miss with guns, grenades, 
-spells, and melee weapons. They also get a +60 to reload and a +10% chance to 
+Effect:		For 3 turns, the doc gets a -4 to miss with guns, grenades, 
+spells, and melee weapons. They also get a +60 to reload and a +1 chance to 
 crit.
 
 /////	Dex-11
@@ -331,7 +331,7 @@ Duration: 	2 Actions
 Range:		Effects apply only to the Doc
 Effect:		This is a fully customized brew specially grown to bond with your
 personal biochemestry. The effect lasts for 8 turns. You gain:
-*	-20% to miss with melee, guns, thrown weapons, or Proceedures
+*	-2 to miss with melee, guns, thrown weapons, or Proceedures
 *	an additional action per turn
 *	an additional temporary 40 hp
 *	an additional 2m move speed per action. 
@@ -422,7 +422,7 @@ Adrenaline Reward:	15
 Range:			Touch
 Action:			1 Action
 Effect:			For 4 turns, the patient moves 1m more per action and gets a 
--5% to miss with guns. As a side effect, the target suffers a +15% to miss 
+-0.5 to miss with guns. As a side effect, the target suffers a +1.5 to miss 
 with melee weapons. Increasing the dosage does not increase the effects. This
 trick only works on biologic patients.
 
@@ -531,7 +531,7 @@ Adrenaline Reward:	25
 Range:			Touch
 Action:			1 Action
 Effect:			For 5 turns, the patient moves 2m more per action and gets a 
--9% to miss with guns. As a side effect, the target suffers a +25% to miss 
+-1 to miss with guns. As a side effect, the target suffers a +2.5 to miss 
 with melee weapons. Increasing the dosage does not increase the effects. This
 trick only works on biologic patients. 
 
@@ -551,8 +551,8 @@ Adrenaline Reward:	40
 Range:			Touch
 Action:			1 Action
 Effect:			For 5 turns, the patient moves 3m more per action (max 13), gets 
-a -14% to miss with guns and a +30 to rolls to parkour around obsticles. As a 
-side effect, the target suffers a +25% to miss with melee weapons and a -15 to
+a -1.5 to miss with guns and a +30 to rolls to parkour around obsticles. As a 
+side effect, the target suffers a +2.5 to miss with melee weapons and a -15 to
 charisma rolls from being jittery. Increasing the dosage does not increase the
 effects. This trick only works on biologic patients.  
 
@@ -570,7 +570,7 @@ Adrenaline Reward:	15
 Range:			Touch
 Action:			1 Action
 Effect:			The patient deals an extra 2*(patient's strength) damage with
-melee weapons, has -8% to miss with melee weapons, and moves +1m per action. As
+melee weapons, has -0.5 to miss with melee weapons, and moves +1m per action. As
 a side effect, the target takes a -1 to both Intelligence and charisma for the
 duration of the effect. This trick only works on biologic patients. This effect
 lasts for 4 turns.
@@ -594,7 +594,7 @@ Adrenaline Reward:	40
 Range:			Touch
 Action:			1 Action
 Effect:			The patient deals an extra 3*(patient's strength) damage with
-melee weapons, has -16% to miss with melee weapons, and moves +2m per action. As
+melee weapons, has -1.5 to miss with melee weapons, and moves +2m per action. As
 a side effect, the target takes a -1 to both Intelligence and charisma for the
 duration of the effect. This trick only works on biologic patients. This effect
 lasts for 8 turns. 
