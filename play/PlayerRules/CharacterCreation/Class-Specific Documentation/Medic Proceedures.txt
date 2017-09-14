@@ -44,13 +44,14 @@ If the needle penetrates the targets armor and is still alive, apply a
 poison payload of your choice.
 
 /////	Fast Spike
-Adrenaline Cost:30
+Adrenaline Cost:35
 Needle Cost:	1
 Duration: 	1 Action
 Range:		40m
-Effect:		16 % chance to miss. Deal 52 piercing damage. AP level 2.
-If the needle defeats the target's armor and the target is still alive, apply a 
-poison payload of your choice.
+Effect:		16 % chance to miss. Deal 52 piercing damage. AP level 3.
+As a free action before using the fast spike you may apply a poison payload
+to the needle before it is fired.  If the needle defeats the target's armor and 
+the target is still alive, apply the poison payload to the target.
 
 /////	Multi Spikes
 Adrenaline Cost: 40
@@ -63,12 +64,12 @@ launch at. Each spike that hits deals 52 piercing damage and has an armor pierci
 level of 3. If the needles defeat the armror of the target and the target is still alive, 
 apply a poison payload of your choice.
 
-/////	Peircing Spike
+/////	Piercing Spike
 Adrenaline Cost:35
 Needle Cost: 1
 Duration: 	2 Actions
 Range:		45m
-Effect:		10 % chance to miss. Deal 42 piercing damage. AP level 4.
+Effect:		10 % chance to miss. Deal 42 piercing damage. AP level 6.
 if the  needle defeats the target's armor, apply a poison payload of your choice.
 
 /////	Poison: Mild Halucinogen
