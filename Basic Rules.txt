@@ -350,6 +350,20 @@ Using a medikit:
 Medic-kit, non-medic user: works as if you are a medic with skill 30.
 Medic-kit, medic user: Works as normal, but add 30 to amount healed.
 
+
+==============================
+Death
+==============================
+Oh no! You have less than 1 health point left! What now!?!
+
+The good news is you are not* dead yet. You are bleeding out. 
+
+*Footnote: Some hazards can reduce you to zero health points and kill you 
+instantly. Some examples are falling several stories, lava baptisms,
+or having a space station dropped on you. Do not do these things. They are
+also known to the state of California to cause cancer. 
+
+
 ==============================
 RP / Using Skills:
 ==============================
