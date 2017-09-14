@@ -440,15 +440,13 @@ information.
 =====   GUNSLINGER   =====
 [Insert cool text about John Wick]
 Class Primary Attribute: Perception
-Passives: Gain Feat "Predictive Gun-Fighting": Gain miss chance defense at 
-	[Reflex Save + Weapon Reflex]/10 (drop the remainder). If you are 
+Passives: Gain Feat "CQB Defensive Gun-Fighting": Gain miss chance defense at 
+	[Reflex Save + Weapon Reflex*]/10 (drop the remainder). If you are 
 	behind cover, you must choose to either use your cover's defense 
 	rating or the defense provided by this feat, you cannot use both.
-	(If dual wielding, use the Weapon Reflex value from the highest
-	of the two weapons).
-[APPLY ONLY TO PISTOL]
-Choose one: Weapon Skill Tree - Pistol Proficiency, Quickdraw, Conceal Weapon, Steady Shot.
-Also choose two bonuses and one weakness:
+	*(If dual wielding, use the larger Weapon Reflex value of the two weapons).
+[THE FOLLOWNG PASSIVES ONLY APPLY TO PISTOLS]
+Choose two bonuses and one weakness:
     - Bonuses: +10 Dam, +10m R3 Range Bracket, -1 Miss Chance, +1 rds in mag, +2 mags carried;
     - Weaknesses: -10 Dam, -10m R3 Range Bracket, +1 Miss Chance, -1 rds in mag, -2 mags carried;
 Weapon Proficiencies: Pistols.
@@ -467,23 +465,29 @@ Feats:
 	enemy attempts to make an attack of opportunity on you or any allies within 
 	eye-sight, you first gain an attack of opportunity on them.
 	----------------------
-	Enhanced Gun-Kata [3*X Nanites] -
-	You are a disciple of the art of close-range pistol fighting. For 1 Action,
-	Gun range is reduced to a max of 15m. Use 3 Nanites per X bullets fired*. On a 
-	successful hit, you may continue rolling hits until you either fail to hit 
-	or run out of rounds in your gun. You must make each successive hit on a 
-	different target. THIS MEANS ONE HIT PER TARGET PER ENHANCED GUN-KATA USAGE.
-	*(If you are dual wielding, and firing the same number of bullets from each gun,
-		use 3 Nanites per X bullets fired for only ONE gun)
+	IN PROGRESS
+	Enhanced Gun-Kata [10*X Nanites] -
+	You are a disciple of the art of close-range gun fighting. Pay 10 Nanites at the
+	start of each that you are using Enhanced Gun-Kata (EGK). Any time you are using 
+	EGK, if an enemy comes within a max Gun range of 15m, you gain a free attack on
+	them with your guns.
+			You are a disciple of the art of close-range gun fighting. For 1 Action,
+			Gun range is reduced to a max of 15m. Use 3 Nanites per X bullets fired*. On a 
+			successful hit, you may continue rolling hits until you either fail to hit 
+			or run out of rounds in your gun. You must make each successive hit on a 
+			different target. THIS MEANS ONE HIT PER TARGET PER ENHANCED GUN-KATA USAGE.
+			*(If you are dual wielding, and firing the same number of bullets from each gun,
+				use 3 Nanites per X bullets fired for only ONE gun)
 	|
 	|
 	V
-	You are a master of close-range pistol fighting. Instead of 15m, gun range is 
-	reduced to a max of 25m. If you run out of rounds, you may reload mid-kata 
-	by passing a DC 75 DEX check (Use 3 Nanites per X bullets fired* still applies).
-	You may hit a target multiple times, but every shot fired has to be at a different
-	target than the last one you fired at (in other words, you are not allowed to shoot
-	two bullets	in a row at the same target).
+	IN PROGRESS
+			You are a master of close-range gun fighting. Instead of 15m, gun range is 
+			reduced to a max of 25m. If you run out of rounds, you may reload mid-kata 
+			by passing a DC 75 DEX check (Use 3 Nanites per X bullets fired* still applies).
+			You may hit a target multiple times, but every shot fired has to be at a different
+			target than the last one you fired at (in other words, you are not allowed to shoot
+			two bullets	in a row at the same target).
 ======================================
 
 =====   ASSASSIN   =====
@@ -557,25 +561,24 @@ Class Feats:
 	----------------------
 	Tech Rounds
 	Spend 7 Nanites. Choose from the following list of effects:
-	Gas round: On hit, releases a cloud of gas 3m across centered on the target. Any enemies 
-		inside this cloud take a +1 Miss Chance debuff for 1 turn, and 10 Poison damage.
-	Flash round: On hit, a blinding light emanates from the target. All players within 5m 
-		of the target are stunned for 1 turn.
-	Shock round: On hit, electrifies the target, dealing an additional 10 damage
-		(15 damage for cybernetic units and also paralyzes them, 
-		forfeiting the first 2 Actions of their turn, FORT DC 50).
+		Gas round: On hit, releases a cloud of gas 3m across centered on the target. Any enemies 
+			inside this cloud take a +1 Miss Chance debuff for 1 turn, and 10 Poison damage.
+		Flash round: On hit, a blinding light emanates from the target. All players within 5m 
+			of the target are stunned for 1 turn.
+		Shock round: On hit, electrifies the target, dealing an additional 10 damage
+			(15 damage for cybernetic units and also paralyzes them, 
+			forfeiting the first 2 Actions of their turn, FORT DC 50).
 	|
 	|
 	V
 	Tech Rounds II
-	Spend 7 nanites. Choose from the following list of effects, activated on a 
-	successful hit:
-	Thermate round: Target takes 10 burning damage, and 10% off of their Armor Coverage (DC 50 Repair to fix).
-	Node round: Extend the range of a friendly Engineer's drone control to the hit enemy, extends hacking range,
-		or allows remote access by a friendly Priest.
-	Drain round: Half of the damage dealt to health is dealt to the target's Nanite pool.
-	Seeker round: Increase your crit range by 1.
-	Denial of Service: Does not deal damage. Half of your standard damage may be used as a bonus to a friendly Priest's hack 
+	Spend 7 nanites. Choose from the following list of effects, activated on a successful hit:
+		Thermate round: Target takes 10 burning damage, and 10% off of their Armor Coverage (DC 50 Repair to fix).
+		Node round: Extend the range of a friendly Engineer's drone control to the hit enemy, extends hacking range,
+			or allows remote access by a friendly Priest.
+		Drain round: Half of the damage dealt to health is dealt to the target's Nanite pool.
+		Seeker round: Increase your crit range by 1.
+		Denial of Service: Does not deal damage. Half of your standard damage may be used as a bonus to a friendly Priest's hack 
 ======================================
 
 =====   BESERKER   =====
@@ -621,16 +624,15 @@ Oath to not utilize "lesser" technologies [guns, armor, and even Nanite
 packs.], for only through embracing the Higher Technologies can one Advance 
 oneself to the planes of the Great Ones.
 Class Primary Attribute: Dexterity
-Passives: No penalty for engaging in Grappling maneuvers. Hand to hand 
-Expert, 20. +20 damage to non-lethal attacks, +10 damage to lethal attacks. At
-level 5, and again at level 15 all monks must head back to their home temple 
+Passives: No penalty for engaging in Grappling maneuvers. Gain Hand-to-hand Expert.
++20 damage to unarmed non-lethal attacks, +10 damage to unarmed lethal attacks. 
+At level 5, and again at level 15, all monks must head back to their home temple 
 or seek a wise master to learn more advanced techniques. Until this training 
 has been completed, a monk cannot proceed to the next level. Part of this 
-training is also usually a Monk''s Aura shield, which reduces incoming damage
-, regardless of type, by 10, and reduces melee damage by 20, but at the cost 
-of 100 Nanites spent to activate the shield. Activation is a free action. 
-Each shield lasts for one encounter. Monks may meditate once per day for an 
- hour to regain any Nanites lost in this way.
+training is also usually a Monk's Aura shield, which reduces incoming damage by 20, 
+regardless of type, but at the cost of 100 Nanites spent to activate the 
+shield. Activation is a free action. Each shield lasts for one encounter. Monks 
+mediate during short rests instead of sleeping.
 Weapon Proficiencies: None.
 Armor Proficiencies: None.
 Starting Wealth: $0 (assume basic robe and communicator)
