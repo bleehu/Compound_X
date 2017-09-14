@@ -339,21 +339,21 @@ Feats:
 	Portable Shield:
 	A shield/barrier with a limited health pool can be projected from your off hand. 
 	When attacked, roll a separate armor roll for your shield, which has separate stats: 
-	80% Coverage, 140 Nanite Health. Hit chance only applies when opponent is in front 
+	80% Coverage, 140 Nanite Health. Shield only protects when opponent is in front 
 	of the character. If an attack is coming from a flank or from behind, then ignore the 
 	Shield. [Projects a tangible shield, not merely a Magnetic/Electron Shield]. It takes 1 
 	action to deploy the shield, and a free action to dismiss it.
 	|
 	|
 	V
-	100% hit chance, 200 Nanite Health. Free action to deploy shield.
+	100% Coverage, 200 Nanite Health. Free action to deploy shield.
 	----------------------
 	Smite Enemy:
-	Once per engagement, you may select an opponent and deal them double damage, 
-	calculated after any other bonus damage. Standard hit rules apply, but the 
-	double damage is only consumed on a successful hit [multiple attempts at using 
-	smite may be made per encounter, but once a successful attack is made the 
-	smite is consumed for the encounter].
+	Once per engagement, you may deal double damage on an attack against a single 
+	target, calculated after any other bonus damage. Standard hit rules apply, but 
+	Smite Enemy is only consumed on a successful hit [multiple attempts at using 
+	Smite may be made per encounter, but once a successful double damage attack 
+	is made, Smite Enemy is consumed for the encounter].
 	|
 	|
 	V
@@ -438,9 +438,16 @@ information.
 
 
 =====   GUNSLINGER   =====
+[Insert cool text about John Wick]
 Class Primary Attribute: Perception
-Passives: [APPLY ONLY TO PISTOL]
-Choose one: Pistoleer lvl 1, Quick draw, Conceal Weapon, Steady Shot. 
+Passives: Gain Feat "Predictive Gun-Fighting": Gain miss chance defense at 
+	[Reflex Save + Weapon Reflex]/10 (drop the remainder). If you are 
+	behind cover, you must choose to either use your cover's defense 
+	rating or the defense provided by this feat, you cannot use both.
+	(If dual wielding, use the Weapon Reflex value from the highest
+	of the two weapons).
+[APPLY ONLY TO PISTOL]
+Choose one: Weapon Skill Tree - Pistol Proficiency, Quickdraw, Conceal Weapon, Steady Shot.
 Also choose two bonuses and one weakness:
     - Bonuses: +10 Dam, +10m R3 Range Bracket, -1 Miss Chance, +1 rds in mag, +2 mags carried;
     - Weaknesses: -10 Dam, -10m R3 Range Bracket, +1 Miss Chance, -1 rds in mag, -2 mags carried;
@@ -456,23 +463,27 @@ Feats:
 	|
 	|
 	V
-	You are omni-aware to any attacks made against you or allies. Whenever an 
+	You are omni-aware of any attacks made against you or allies. Whenever an 
 	enemy attempts to make an attack of opportunity on you or any allies within 
-	eye-sight, you gain an attack of opportunity on them, first.
+	eye-sight, you first gain an attack of opportunity on them.
 	----------------------
-	Enhanced Gun-Kata -
-	You are a disciple of the art of close-range pistol fighting. Applies to any 
-	target within 15m. On a successful hit, you may continue rolling hits until 
-	you fail to hit or run out of rounds in your magazine. You must make each 
-	successive hit on a different target. THIS MEANS ONE HIT PER TARGET PER KATA.
+	Enhanced Gun-Kata [3*X Nanites] -
+	You are a disciple of the art of close-range pistol fighting. For 1 Action,
+	Gun range is reduced to a max of 15m. Use 3 Nanites per X bullets fired*. On a 
+	successful hit, you may continue rolling hits until you either fail to hit 
+	or run out of rounds in your gun. You must make each successive hit on a 
+	different target. THIS MEANS ONE HIT PER TARGET PER ENHANCED GUN-KATA USAGE.
+	*(If you are dual wielding, and firing the same number of bullets from each gun,
+		use 3 Nanites per X bullets fired for only ONE gun)
 	|
 	|
 	V
-	You are a master of pistols. Applies to an target within 35m. On a successful 
-	hit, you may continue rolling hits until you fail to hit. if you run out of 
-	rounds, you may reload mid-kata by passing a DC 75% DEX check. You may hit a 
-	target multiple times, but there must be one shot between shots fired at a 
-	single target. (Ask GM).
+	You are a master of close-range pistol fighting. Instead of 15m, gun range is 
+	reduced to a max of 25m. If you run out of rounds, you may reload mid-kata 
+	by passing a DC 75 DEX check (Use 3 Nanites per X bullets fired* still applies).
+	You may hit a target multiple times, but every shot fired has to be at a different
+	target than the last one you fired at (in other words, you are not allowed to shoot
+	two bullets	in a row at the same target).
 ======================================
 
 =====   ASSASSIN   =====
