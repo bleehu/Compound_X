@@ -164,7 +164,7 @@ rolls dealing with using a weapon.
 
 POTENTIALLY REMOVE
 	Improvise Weapon:
-	Prerequisites: Melee Combat Skill > 20
+	Prerequisites: Skill [Melee Combat] at 20
 	You do not take a penalty when using an improvised weapon. Chair legs can be 
 	used as bats, fan blades as swords, etc., etc.
 
@@ -249,8 +249,8 @@ navigation.
 
 Shadow Sense:
 Prerequisites: Level 12 Monk with Shadow Walk or Shadow Strike.
-+10 Damage-Reduction passive armour bonus with Shadow Strike or +15 DR armour
-bonus with Shadow Walk.
+Your Aura Shield gains a +10 DR armour bonus if you have Shadow Strike or a +20 DR armour
+bonus if you have Shadow Walk.
 
 Signature Move: 
 Prerequisites:
@@ -327,6 +327,7 @@ fighting technique.
 Unlocked: Boomstick
 Prerequisites: Adept, Gunslinger
 Enables the use of shotguns by the listed classes.
+Note: Gunslingers can use their class feats with shotguns.
 
 Unlocked: Weapons Training
 Prerequisites: Monk
