@@ -1,9 +1,9 @@
 Version 2.0.4
 
-Creative Director: 	Taylor Rowland
-Producer:		        Mike Hedges
-Lead Developer:		Alex Lindahl
-Lead Test:		        Stephen Little
+Creative Director:      Taylor Rowland
+Producer:               Mike Hedges
+Lead Developer:         Alex Lindahl
+Lead Test:              Stephen Little
 
 Special Thanks to:
 Sarah Slater
