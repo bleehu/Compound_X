@@ -438,26 +438,27 @@ information.
 
 
 =====   GUNSLINGER   =====
-[Insert cool text about John Wick]
+[Insert cool tasty text about John Woo]
 Class Primary Attribute: Perception
-Passives: Gain Feat "CQB Defensive Gun-Fighting": Gain miss chance defense at 
-	[Reflex Save + Weapon Reflex*]/10 (drop the remainder). If you are 
-	behind cover, you must choose to either use your cover's defense 
-	rating or the defense provided by this feat, you cannot use both.
-	*(If dual wielding, use the larger Weapon Reflex value of the two weapons).
+Passives: Gain Feat "Predictive Gun-Fighting": Gain Miss Chance Defense at 
+	[Reflex Save + Weapon Reflex*]/10 (drop the remainder). If you are behind cover,
+	you must choose to either use your cover's defense rating or the defense provided 
+	by this feat, you cannot use both. Gain +1 additional defense at level 10. 
+	You can have a MAX of 5 Miss Chance Defense from this feat.
+	*(If dual wielding, use the larger of the two Weapon Reflexes).
 [THE FOLLOWNG PASSIVES ONLY APPLY TO PISTOLS]
 Choose two bonuses and one weakness:
-    - Bonuses: +10 Dam, +10m R3 Range Bracket, -1 Miss Chance, +1 rds in mag, +2 mags carried;
-    - Weaknesses: -10 Dam, -10m R3 Range Bracket, +1 Miss Chance, -1 rds in mag, -2 mags carried;
+    - Bonuses: +10 Dam, +8m R3 Range Bracket, -1 Miss Chance, +1 rds in mag, +2 mags carried;
+    - Weaknesses: -10 Dam, -8m R3 Range Bracket, +1 Miss Chance, -1 rds in mag, -2 mags carried;
 Weapon Proficiencies: Pistols.
 Armor Proficiencies: Concealed, Recon, Light.
 Starting Wealth: $1700+100*Luck - 800
 Feats:
 	----------------------
 	Heightened awareness -
-	Being aware comes with your level of training. You cannot be caught flat-footed
-	(you cannot be penalized for being surprised), but opponents can still get surprise 
-	rounds against you.
+	Being aware comes with your level of training. Gain 5 Reflex. You cannot be caught 
+	flat-footed	(you cannot be penalized for being surprised), but opponents can still 
+	get surprise rounds against you.
 	|
 	|
 	V
@@ -465,48 +466,47 @@ Feats:
 	enemy attempts to make an attack of opportunity on you or any allies within 
 	eye-sight, you first gain an attack of opportunity on them.
 	----------------------
-	IN PROGRESS
-	Enhanced Gun-Kata [10*X Nanites] -
-	You are a disciple of the art of close-range gun fighting. Pay 10 Nanites at the
-	start of each that you are using Enhanced Gun-Kata (EGK). Any time you are using 
-	EGK, if an enemy comes within a max Gun range of 15m, you gain a free attack on
-	them with your guns.
-			You are a disciple of the art of close-range gun fighting. For 1 Action,
-			Gun range is reduced to a max of 15m. Use 3 Nanites per X bullets fired*. On a 
-			successful hit, you may continue rolling hits until you either fail to hit 
-			or run out of rounds in your gun. You must make each successive hit on a 
-			different target. THIS MEANS ONE HIT PER TARGET PER ENHANCED GUN-KATA USAGE.
-			*(If you are dual wielding, and firing the same number of bullets from each gun,
-				use 3 Nanites per X bullets fired for only ONE gun)
+	Enhanced Gun-Kata [12 Nanites] -
+	You are a disciple of the art of close-range gun fighting. For 1 Action, reduce 
+	weapon range to 15m, and negate actions needed for Aiming, Pumping, and Cocking 
+	of a gun. Treat	your gun as if it was a CQB weapon and make 2 separate attacks 
+	with it. If your gun runs out of rounds before your two attacks are done, your
+	Enhanced Gun Kata ends.
 	|
 	|
 	V
-	IN PROGRESS
-			You are a master of close-range gun fighting. Instead of 15m, gun range is 
-			reduced to a max of 25m. If you run out of rounds, you may reload mid-kata 
-			by passing a DC 75 DEX check (Use 3 Nanites per X bullets fired* still applies).
-			You may hit a target multiple times, but every shot fired has to be at a different
-			target than the last one you fired at (in other words, you are not allowed to shoot
-			two bullets	in a row at the same target).
+	You are a master of close-range gun fighting. Instead of 15m, gun range is 
+	reduced to a max of 30m. If you run out of rounds, you may reload mid-kata 
+	by passing a DC 75 DEX check. If a target dies by one of your attacks,
+	gain +1 additional attack.
 ======================================
 
 =====   ASSASSIN   =====
-The galaxy is a dangerous place for those who would believe their 
-power or influence are limitless. The assassin lurks in the shadows, either as 
-a lone force of justice, or as part of a larger organization. They have 
-rightfully earned the title of Galaxy's greatest Hand-to-Hand Fighters.
+The galaxy is a dangerous place for those who would believe their power or 
+influence are limitless. The assassin lurks in the shadows, either as a lone
+force of justice, or as part of a larger organization. They have rightfully 
+earned the title of Galaxy's greatest Hand-to-Hand Fighters.
 Class Primary Attribute: Dexterity
 Passives: No penalty for engaging in Grappling maneuvers. Gain Hand-to-Hand Expert.
-Assassins wear a Shadow Cloak, which allows them to become a mere silhouette. 
-When in partial darkness or darker, the static DC increases by 10.
-NOTICE: SEE BASIC RULES FOR ADDITIONAL CLOAKING ATTRIBUTES
+Assassins wear a Shadow Cloak, which allows them to become a mere silhouette.
+Shadow Cloaks attempt to cloak* the assassin it all times at a Detect DC of 
+15 + skill [Stealth] and a moving Detect DC of 5 + skill [Stealth]. When in partial 
+darkness or darker, the Detect and Moving Detect DC increases by 15. In the darkness,
+a skilled assassin won't be seen, even when being looked at. However, in daylight,
+even the most skilled assassin can be seen if their silhouette is carelessly shown.
+	*The Shadow Cloak does not follow typical cloaking rules, it doesn't make you as 
+	invisible as a more powerful cloaking device, but allows you to hide in plain sight.
+	There is no Nanite Activation Cost, Nanite upkeep, or Cloak Turns as the Shadow Cloak
+	is special item. 
+Note: For more information on Cloaking and Cloaking modules, see section "Cloaking" in 
+the basic rules
 Weapon Proficiencies: Pistols
 Armor Proficiencies: Cloaking, Concealed, Recon, Light.
 Starting Wealth: $1700+100*Luck - 1300
 Feats:
 	----------------------
 	Shadowy Assassin -
-	Your moving cloak DC increases by 10. Melee attacks made while in cloaking do not 
+	Your moving cloak DC increases to 15. Melee attacks made while in cloaking do not 
 	break your cloaking unless you are observed making the attack. Any damage 
 	dealt while in cloak is treated as Crit damage.
 	|
