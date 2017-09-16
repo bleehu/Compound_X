@@ -487,48 +487,53 @@ influence are limitless. The assassin lurks in the shadows, either as a lone
 force of justice, or as part of a larger organization. They have rightfully 
 earned the title of Galaxy's greatest Hand-to-Hand Fighters.
 Class Primary Attribute: Dexterity
-Passives: No penalty for engaging in Grappling maneuvers. Gain Hand-to-Hand Expert.
+Passives: No penalty for engaging in Grappling maneuvers. 
+	Gain Hand-to-Hand Expert.
+	+50 maximum damage for stealth attacking (max of 200 damage at level 1).
+	(for more information, see section "Stealth Attacks" in the Basic Rules document.)
 Assassins wear a Shadow Cloak, which allows them to become a mere silhouette.
-Shadow Cloaks attempt to cloak* the assassin it all times at a Detect DC of 
-15 + skill [Stealth] and a moving Detect DC of 5 + skill [Stealth]. When in partial 
-darkness or darker, the Detect and Moving Detect DC increases by 15. In the darkness,
+Shadow Cloaks attempt to cloak* the assassin at all times** with a Detect DC of 
+10 + skill [Stealth] and a moving Detect DC of 0 + skill [Stealth]. When in partial 
+darkness or darker, the Detect and Moving Detect DC increases by 10. In the darkness,
 a skilled assassin won't be seen, even when being looked at. However, in daylight,
 even the most skilled assassin can be seen if their silhouette is carelessly shown.
 	*The Shadow Cloak does not follow typical cloaking rules, it doesn't make you as 
-	invisible as a more powerful cloaking device, but allows you to hide in plain sight.
-	There is no Nanite Activation Cost, Nanite upkeep, or Cloak Turns as the Shadow Cloak
-	is special item. 
-Note: For more information on Cloaking and Cloaking modules, see section "Cloaking" in 
-the basic rules
+	invisible as a more powerful cloaking device, but it does allow you to hide in 
+	plain sight. There is no Nanite Activation Cost, Nanite upkeep, or Cloak Turns 
+	as the Shadow Cloak is special item. 
+	**Except when attacking. You must wait 3 actions before the cloak resumes.
+	Note: For more information on Cloaking and Cloaking modules, see section 
+	"Cloaking" in the basic rules.
 Weapon Proficiencies: Pistols
 Armor Proficiencies: Cloaking, Concealed, Recon, Light.
 Starting Wealth: $1700+100*Luck - 1300
 Feats:
 	----------------------
 	Shadowy Assassin -
-	Your moving cloak DC increases to 15. Melee attacks made while in cloaking do not 
-	break your cloaking unless you are observed making the attack. Any damage 
-	dealt while in cloak is treated as Crit damage.
+	Your Cloak DC's increase by 10. Melee attacks made while in cloaking do not break 
+	your cloaking unless you are observed making the attack. Any damage dealt while in
+	cloak is treated as Critical damage.
 	|
 	|
 	V
-	Your moving cloak DC increases by 20. Melee attacks made while in cloaking do not 
-	break your cloaking. If you are observed making the attack, the observer must 
-	pass your cloaking DC in order to observe the attack. All damage dealt while 
-	cloaked is treated as Crit damage + 10 additional damage.
+	Melee attacks made while in cloaking do not break your cloaking. If you are 
+	observed making the attack, the observer must pass your Moving Cloak DC in order 
+	to observe the attack. All damage dealt while cloaked is treated as 
+	Crit damage + 10 bonus damage.
 	----------------------
 	Azure-Assassin -
 	At the cost of 15 Nanites, you can summon Nanite-crystal blades. These blades 
-	are as tough as high-carbon steel, have properties of a CS edged knife, but 
-	break after a single use. They can be thrown or used manually. Blades appear 
-	at the users hand, as if pulling them from nowhere.
+	are as tough as carbide steel, have properties of a VAE knife, but break after 
+	a single use. They can be thrown* or used manually. Blades appear at the users 
+	hand, as if pulling them from nowhere.
+	*When thrown, use the stats for thrown weapon, 'Carbide Kunai' but still ignore armor
+	like a VAE weapon.
 	|
 	|
 	V
-	At the cost of 10 Nanites, your Nanite-Crystal Blades can be summoned. Damage 
-	dealt by these blades is always treated as Standard-Crit damage, in addition 
-	to any CS burns afflicted to the target. Blades appear at the users hand, wrist,
-	etc. Blades can also appear with some momentum for RP purposes.
+	At the cost of 10 Nanites, your Nanite-Crystal Blades can be summoned. Blades have
+	+20 bonus damage, in addition to the properties of a VAE knife. Blades appear at the 
+	users hand, wrist, etc. Blades can also appear with some momentum for RP purposes.
 ======================================
 
 =====   MARKSMAN   =====
