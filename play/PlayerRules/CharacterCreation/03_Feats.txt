@@ -485,8 +485,7 @@ a chink in armour and aiming for it, or shooting a target's arm so they cannot u
 weapon, etc.
 
 Bunker [25 Nanites]:
-Prerequisites: High-Technology class (Monk, Paladin, Adept, Priest) or 
-	Knowledge [Nanites] > 40
+Prerequisites: High-Technology class (Monk, Paladin, Adept, Priest) or Knowledge [Nanites] at 40
 Add +3 miss chance to a piece of cover for 4 turns
 
 Combat Roll [30 Nanites]:
@@ -503,19 +502,19 @@ Move up to your speed and end next to a barrier behind which you can take
 cover. You hunker or go prone behind that cover as a free action. Cannot 
 be used in concert with Run 'N' Gun.
 
-Flash Dance [8*X Nanites]: 
-Prerequisites:
-For 1 Action, the user can make up to Lvl/2+1 (round up) number of attacks 
-with their melee weapon within a 5m space, rolling for each strike, where 
-X is the number of attacks. All bonuses that would normally apply to a standard
-attack still apply.
+Flash Dance [10*X Nanites]: 
+Prerequisites: Level 3
+For 2 Actions, the user can make Lvl/2 (round up) number of attacks, up to a max of 6, with 
+their melee weapon(s). The attacks must take place within a 5m space, rolling for each strike,
+where X is the number of attacks. All bonuses that would normally apply to a standard
+attack still apply. (Note: Flash Dance can trigger Bulltrue and Preemptive Strike)
 
 Gun Kata [30 Nanites]: 
 Prerequisites: Level 10
-For 1 Action, reduce weapon range to 15m and reduce Miss Chance by 1. Treat 
-any weapon as if it were a CQB weapon. After a successful hit, you may roll 
-for an additional hit on any target within the 15m range, for up to 3 rounds
-fired. If you miss a shot, your Gun Kata ends.
+For 1 Action, reduce weapon range to 15m, and negate actions needed for Aiming, Pumping,
+and Cocking of a gun. Treat your gun as if it was a CQB weapon. After a successful 
+hit, you may roll for an additional hit on any target within the 15m range, for up to 
+3 rounds fired. If you miss a shot or your gun runs out of rounds, your Gun Kata ends.
 
 Kata [Minimum 5 Nanites]: 
 Prerequisites: Level 10
@@ -526,7 +525,7 @@ rolling at +4 miss chance). This +2 debuff applies to a Monk's Shadow Strike as 
 increasing the DC by 20 per strike instead of increasing the strike's miss chance.
 
 Multi-Target [13*X Nanites]: 
-Prerequisites:
+Prerequisites: DEX 6, PER 6
 For 2 Actions, concentrate on up to Level+1 number of targets, where X is 
 the number of targets. Or concentrate 1 action to target Level/2(round up) Targets. 
 You may Roll to-hit your first target in order to determine if you hit all of these 
@@ -535,7 +534,8 @@ normally.
 
 Run 'N' Gun [10 Nanites]: 
 Prerequisites: PER 7 & DEX 7, or Soldier, or Specialist Classes.
-For 1 Action, you may move at half speed while firing. +1 Miss Chance. If you don't Aim before using this feat, you must Hip Fire. If this feat is performed while sprinting, 
+For 1 Action, you may move at half speed while firing. +1 Miss Chance. If you don't Aim before 
+using this feat, you must Hip Fire. If this feat is performed while sprinting, 
 half your movement speed before you add the +1m per-action from sprinting. The Miss
 Chance penalties stack for consecutive uses of Run 'N' Gun. 
 
