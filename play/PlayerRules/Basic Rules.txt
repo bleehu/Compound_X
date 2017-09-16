@@ -691,12 +691,12 @@ attacks deal +20 damage and, in addition, if you critical hit you gain all the e
 of a critical.
 	If you stealth-attack a target in melee, your target has a guard DC of 0. If you have 
 at least 10 skill in melee combat and you attack from stealth, Thrown and Melee (non-explosive) 
-weapons deal 2x damage, up to 150 maximum damage (before critical effects). If you critically 
-hit, you ignore the opponent's armor and deal full damage. Or, as normal, (see section, "melee combat")
-if you roll 3+ above your miss chance (3+ above the opponent's guard DC), you ignore the opponent's
-armor and deal full damage. Signifying, that the target gets hit in whatever you deem to be the
-most vulnerable; i.e., the head, neck, or the chest (over the heart, etc). If you critical hit, 
-you also gain all the standard-effects of a critical.
+weapons deal 2x damage, up to 150 maximum damage (before critical effects). Increases to a max of 200 
+at level 10. If you critically hit, you ignore the opponent's armor and deal full damage. Or, as normal, 
+(see section, "melee combat") if you roll 3+ above your miss chance (3+ above the opponent's guard DC), you
+ignore the opponent's armor and deal full damage. Signifying, that the target gets hit in whatever you 
+deem to be the most vulnerable; i.e., the head, neck, or the chest (over the heart, etc). If you 
+critical hit, you also gain all the standard-effects of a critical.
 
 Flanking:
 If you are behind a target, aka flanking, your melee attacks gain -2 miss chance. 
