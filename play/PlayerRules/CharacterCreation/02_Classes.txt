@@ -5,11 +5,11 @@ Core classes:
  * At level 1 you get to select a class, and receive the class passives. 
  * However, you do not select a class feat until level 5.
  * On selecting a class, you gain all of the passives listed, and get to 
- * For any listed class, if it says  "Gain X Skill at 10" that means you get
- * to add the X skill to your skill  list, and it starts at rank 10, meaning a 
- * +10% to any roll for that skill.  At the first level taken in a class
- * (other than level 1), you get the  single star version of the feat. At 
- * level 5 and every 5 levels thereafter,  you can  choose to rank up the 
+ * For any listed class, if it says "Gain X Skill at 10" that means you get
+ * to add the X skill to your skill list, and it starts at rank 10, meaning a 
+ * +10% to any roll for that skill. At the first level taken in a class
+ * (other than level 1), you get the single star version of the feat. At 
+ * level 5 and every 5 levels thereafter, you can choose to rank up the 
  * feat, or add the other feat to your  character.
  *==================================================*/
 
@@ -17,7 +17,7 @@ Core classes:
 You have the blood of a warrior flowing through you. Your sole 
 purpose is to fight until the threat is neutralized.
 Class Primary Attribute: Strength
-Passives: Gain Skill Weapon Use[X] at 10, Gain a +15 to Rolls for initiative. (you go first more often).
+Passives: Gain Skill Weapon Use[X] at 10, Gain a +15 to Rolls for initiative. (You go first more often).
 Weapon Proficiencies: Pistols, Submachine Guns, Shotguns, Carbines, Assault Rifles, Battle Rifles.
 Armor Proficiencies: Light, Medium, Medium-Heavy.
 Starting Wealth: $1700+100*Luck + 100
@@ -81,17 +81,19 @@ Class Feats:
 	|
 	V
 	Your ferocity knows no bounds. Targets fired upon with Needs More Dakka
-	must make a shock check of DC 60 + (Charisma * 8). On success, nothing 
-	happens. On fail, target is Pinned Down [See basic rules for Conditions]
+	must make a DC 60 + (Charisma * 8) Shock check. On failure, target is 
+	Pinned Down (see section "Conditions" in the basic rules document).
 	----------------------
 	Heavier Ordinance not required -
 	Your expertise with heavy weapons is sufficient for the task at hand. 
-	-2 Miss Chance and a flat +25 damage for an attack with a heavy weapon, expend 30 Nanites.
+	Expend 25 Nanites and gain -2 Miss Chance and a bonus +25 damage for an 
+	attack with a heavy weapon.
 	|
 	|
 	V
 	Your expertise with heavy weapons is overkill for the task at hand. 
-	-3 Miss Chance and a flat +35 damage for an attack with a heavy weapon, cost 30 Nanites.
+	Expend 25 Nanites and gain -3 Miss Chance and a bonus +35 damage for an 
+	attack with a heavy weapon.
 	(This miss chance bonus can exceed the minimum -2 ranged miss chance)
 ======================================
 
@@ -163,8 +165,8 @@ Class Feats:
 	|
 	V
 	Overbuilt -
-	Any time you build a construction, you may spend an additional 15 Nanites to 
-	give that construction 50 additional health points.
+	Any time you build a construction, you may spend 15 Nanites to give that 
+	construction 50 additional health points.
 ======================================
 
 
@@ -173,7 +175,7 @@ You've lived your life in the deepest recesses of the holonet, and have come out
 alive and strong. You can figure out how a security system works, hack into systems,
 or even hack your allies' Nanites to perform better.
 Class Primary Attribute: Intelligence
-Passives: Gain Skill [Hacking] at 10 OR Gain Skill [Knowledge[NANITES]] at 10
+Passives: Gain Skill [Hacking] at 10 OR Gain Skill Knowledge[NANITES] at 10
 Weapon Proficiencies: Pistols, Submachine Guns.
 Armor Proficiencies: Concealed, Recon, Light, Medium.
 Starting Wealth: $1700+100*Luck - 650
@@ -189,17 +191,17 @@ Class Feats:
 	Your skill and library have grown substantially. +30% against Firewalls, +15% 
 	against Info Nodes and Interaction Nodes.
 	----------------------
-	Nanite Hacking -
+	Nanite Boosting/Hacking -
 	You've had some cross-training in the medical field, or maybe you just tried 
 	plugging a cord into your brain. You know how to communicate with Nanites that
 	are present in friends and enemies. Once per turn, as a free action DC 50 
-	Knowledge[Nanites] grants a +20% to an ally's next roll, or -10% on an opponent.
+	Knowledge[Nanites] grants a +20% to an ally's next roll, or -10% to an opponent.
 	Touch Effect.
 	|
 	|
 	V
 	Nanites have almost become second nature to you. DC 50 Knowledge [Nanites] 
-	grants a +30% to an ally's next roll, or -15% on an opponent. 
+	grants a +30% to an ally's next roll, or -20% to an opponent. 
 	Knowledge [Nanites]	/ 2 meters range.
 ======================================
 
@@ -223,7 +225,7 @@ Class Feats:
 	|
 	V
 	You have flown, operated and driven just about everything there is. Except 
-	that. Make a DC 50 Piloting check, or take up to 2 actions examining.
+	that. Make a DC 50 Piloting OR Luck check, or take up to 2 actions examining.
 	----------------------
 	Extensive training <Vehicle> -
 	Your complete knowledge of <Vehicle> makes your operation of it seem easy. 
@@ -241,36 +243,37 @@ Class Feats:
 Your specialized skills with technology are combined with battle 
 training, providing you an edge in combat situations.
 Class Primary Attribute: Strength
-Passives: Gain 100 Nanites. Any number of these can be put into the shield strength
-of a permanent Class A Electron Shield unit that is implanted in your body. 
+Passives: Gain +50 Maximum Nanites. Gain a permanent Class A Electron Shield 
+unit that is implanted in your body:
 Recharge Rate/Turn: 50, Fast Recharge Nanites: 25, Shield Restart Time: 1 Turn
 Weapon Proficiencies: Pistols, Submachine Guns, Carbines.
 Armor Proficiencies: Concealed, Recon, Light, Medium.
 Starting Wealth: $1700+100*Luck - 400
 Class Feats:
 	----------------------
-	Energy Burst -
-	You can emanate a short burst of Nanite induced energy. This energy can be 
-	used to: Restore 100% of the Nanites you expend to an ally. Deplete a target's 
-	Nanite reserve by 100% of what you expend. OR create an explosion at a 
-	target that deals 50 damage, plus inflicts 1x Plasma Burn to anyone caught in a 5m radius,
-	at a range of <X> Nanites expended [Max 50).
+	Energy Burst [X Nanites] -
+	For 1 Action, you can emanate a short burst of Nanite induced energy. This energy can be 
+	used to: Restore 100% of the X Nanites you expend to an ally. Or deplete a target's 
+	Nanite reserve by 100% of the X Nanites you expend. OR create a nanite explosion that
+	deals 50 + 2x Lvl damage + X Nanites to the target, plus inflicts 2x Plasma Burn to anyone 
+	caught in a 5m radius, at a meter range of X/2 Nanites expended (Max 50 Nanites. 25m range 
+	at 50 Nanites).
 	----------------------
 	Hardware Upgrade -
 	You gain access to Assault Rifles.
 	----------------------
-	CS Manipulation -
+	CS Manipulation [X Nanites] -
 	You can use your CS to create basic items [knives, Frisbees, boomerangs, 
 	anything that is relatively 2-D shaped and smaller than .25x.25m] it gets <X> 
 	health, dependant on number of Nanites used to create it [minimum 5). You can 
-	also use any adjacent CS unit as a melee tool that can hit at 5*INT + Lvl damage + 
-	1x Plasma Burn, melee accuracy modifier: -1.
+	also use any CS item as a melee tool that can hit at 5*INT + Lvl damage + 1x Plasma Burn,
+	-1 melee accuracy modifier (penalty when rolling against enemy Guard DC).
 	|
 	|
 	V
 	Items can be slightly more complex, up to .5x.5x.5m. Choose one of the 
-	following: CS Melee bash is extended to 5m or deals 7*INT + Lvl damage + 1x Plasma Burn, or 
-	melee accuracy modifier: +1.
+	following: CS Melee bash is extended to 5m, or deals 7*INT + Lvl damage + 1x Plasma Burn, or 
+	+1 melee accuracy modifier (bonus when rolling against enemy Guard DC).
 ======================================
 
 
@@ -279,12 +282,12 @@ An expert tracker, you're the one hired when someone wants
 something found. Expertly trained in manipulating your Nanites to aid in 
 pursuit of a quarry, or in marking enemies for execution.
 Class Primary Attribute: Perception
-Passives: Gain skill [Tracking] at 10. Purchase of primary cloaking modules is $1000 less. 
+Passives: Gain skill [Tracking] at 10. Purchase your first primary cloaking module at a $1000 discount. 
 At level 3 and above as a Hunter, Cloaking's Nanite Activation cost is reduced by 4.
 Gain Ability "Mark Quarry": Lvl/2+1 Uses per day - As a free action, expend 20 nanites to Mark 
 a visible target. You must be able to visibly see the target or something the target is wearing. 
 The target leaves a trail that you can see and is 10% easier to track for the next hour.
-At level 5, applies for the next 24 hours.
+At level 5, leaves a trail for the next 24 hours.
 NOTICE: SEE SECTION "CLOAKING" IN THE "BASIC RULES" DOCUMENT FOR MORE INFORMATION ON CLOAKING.
 Weapon Proficiencies: Pistols, Shotguns, Carbines, Long Rifles.
 Armor Proficiencies: Cloaking, Concealed, Recon, Light.
@@ -309,10 +312,11 @@ Feats:
 	If your Quarry is marked, for 1 action, you can activate a Marked Quarry's nanites to make them 
 	more visible. All damage dealt to this target is increased by 10. Two uses per encounter, one use
 	per Quarry. Maximum of Lvl number uses per day. Lasts for the duration of the encounter.
-	After level 10, instead of 10 damage, all damage dealt to this target is increased by 20.
+	After level 10, all damage dealt to this target is increased by 20 (instead of 10).
 	----------------------
 	They Never Saw it Coming -
-	If your Quarry has not seen you for 1 turn, your next attack against them does +30 bonus damage.
+	If your Quarry has not seen you for at least 1 turn, your next attack against them does +30 bonus damage.
+	Triggerable once per Quarry.
 	Increases to +50 bonus damage at level 10.
 ======================================
 
@@ -443,7 +447,8 @@ Class Primary Attribute: Perception
 Passives: Gain Feat "Predictive Gun-Fighting": Gain Miss Chance Defense at 
 	[Reflex Save + Weapon Reflex*]/10 (drop the remainder). If you are behind cover,
 	you must choose to either use your cover's defense rating or the defense provided 
-	by this feat, you cannot use both. Gain +1 additional defense at level 10. 
+	by this feat, you cannot use both. Gain +1 additional defense at level 10. This
+	feat's defense bonus DOES stack with crouching or prone if you aren't behind cover.
 	You can have a MAX of 5 Miss Chance Defense from this feat.
 	*(If dual wielding, use the larger of the two Weapon Reflexes).
 [THE FOLLOWNG PASSIVES ONLY APPLY TO PISTOLS]
@@ -455,20 +460,19 @@ Armor Proficiencies: Concealed, Recon, Light.
 Starting Wealth: $1700+100*Luck - 800
 Feats:
 	----------------------
-	Heightened awareness -
-	Being aware comes with your level of training. Gain 5 Reflex. You cannot be caught 
+	Heightened Alertness -
+	Being alert comes with your level of training. Gain 10 Reflex. You cannot be caught 
 	flat-footed	(you cannot be penalized for being surprised), but opponents can still 
 	get surprise rounds against you.
-	|
-	|
-	V
-	You are omni-aware of any attacks made against you or allies. Whenever an 
-	enemy attempts to make an attack of opportunity on you or any allies within 
-	eye-sight, you first gain an attack of opportunity on them.
+	----------------------
+	Protective Awareness - Requires a minimum Reflex of 24
+	Assiduously observant, you stay aware of any attacks made against you or allies. 
+	Whenever an enemy attempts to make an opportunity attack on you or any allies within 
+	eye-sight, you first gain an attack on them.
 	----------------------
 	Enhanced Gun-Kata [12 Nanites] -
 	You are a disciple of the art of close-range gun fighting. For 1 Action, reduce 
-	weapon range to 15m, and negate actions needed for Aiming, Pumping, and Cocking 
+	weapon range to 15m, and negate actions needed for the Aiming, Pumping, and Cocking 
 	of a gun. Treat	your gun as if it was a CQB weapon and make 2 separate attacks 
 	with it. If your gun runs out of rounds before your two attacks are done, your
 	Enhanced Gun Kata ends.
@@ -487,11 +491,11 @@ influence are limitless. The assassin lurks in the shadows, either as a lone
 force of justice, or as part of a larger organization. They have rightfully 
 earned the title of Galaxy's greatest Hand-to-Hand Fighters.
 Class Primary Attribute: Dexterity
-Passives: No penalty for engaging in Grappling maneuvers. 
-	Gain Hand-to-Hand Expert.
-	+50 maximum damage for stealth attacking (max of 200 damage at level 1).
-	(for more information, see section "Stealth Attacks" in the Basic Rules document.)
-Assassins wear a Shadow Cloak, which allows them to become a mere silhouette.
+Passives:
+	No penalty for engaging in Grappling maneuvers. Gain Skill [Melee Combat] at 10.
+Gain Hand-to-Hand Trained. Gain bonus cloaking time when using other cloaking devices 
+besides the Shadow Cloak.
+	Assassins wear a Shadow Cloak, which allows them to become a mere silhouette.
 Shadow Cloaks attempt to cloak* the assassin at all times** with a Detect DC of 
 10 + skill [Stealth] and a moving Detect DC of 0 + skill [Stealth]. When in partial 
 darkness or darker, the Detect and Moving Detect DC increases by 10. In the darkness,
@@ -501,38 +505,39 @@ even the most skilled assassin can be seen if their silhouette is carelessly sho
 	invisible as a more powerful cloaking device, but it does allow you to hide in 
 	plain sight. There is no Nanite Activation Cost, Nanite upkeep, or Cloak Turns 
 	as the Shadow Cloak is special item. 
-	**Except when attacking. You must wait 3 actions before the cloak resumes.
-	Note: For more information on Cloaking and Cloaking modules, see section 
-	"Cloaking" in the basic rules.
+	**Except when attacking: you must wait until the start of the following turn 
+	before the cloak resumes. 
+NOTE: For more information on Cloaking and Cloaking modules, see section, "Cloaking" in 
+the basic rules.
 Weapon Proficiencies: Pistols
 Armor Proficiencies: Cloaking, Concealed, Recon, Light.
 Starting Wealth: $1700+100*Luck - 1300
 Feats:
 	----------------------
 	Shadowy Assassin -
-	Your Cloak DC's increase by 10. Melee attacks made while in cloaking do not break 
-	your cloaking unless you are observed making the attack. Any damage dealt while in
-	cloak is treated as Critical damage.
+	Your Cloak DCs increase by 10. Melee attacks made while in cloaking do not break 
+	your cloaking unless you are observed making the attack. Gain +20 base damage while
+	you are in cloaking and undetected by your target.
 	|
 	|
 	V
 	Melee attacks made while in cloaking do not break your cloaking. If you are 
 	observed making the attack, the observer must pass your Moving Cloak DC in order 
-	to observe the attack. All damage dealt while cloaked is treated as 
-	Crit damage + 10 bonus damage.
+	to observe the attack. +50 maximum damage for stealth attacking. (For more 
+	information, see section "Stealth Attacks" in the Basic Rules document.)
 	----------------------
 	Azure-Assassin -
 	At the cost of 15 Nanites, you can summon Nanite-crystal blades. These blades 
 	are as tough as carbide steel, have properties of a VAE knife, but break after 
 	a single use. They can be thrown* or used manually. Blades appear at the users 
 	hand, as if pulling them from nowhere.
-	*When thrown, use the stats for thrown weapon, 'Carbide Kunai' but still ignore armor
-	like a VAE weapon.
+	*When thrown, use the stats for thrown weapon, 'Carbide Kunai' but still ignore 
+	armor like a VAE weapon.
 	|
 	|
 	V
 	At the cost of 10 Nanites, your Nanite-Crystal Blades can be summoned. Blades have
-	+20 bonus damage, in addition to the properties of a VAE knife. Blades appear at the 
+	+20 base damage, in addition to the properties of a VAE knife. Blades appear at the 
 	users hand, wrist, etc. Blades can also appear with some momentum for RP purposes.
 ======================================
 
@@ -540,9 +545,8 @@ Feats:
 Your expert knowledge of bullet ballistics, feel for physics and 
 keen eyes have given you insight into the art of precision warfare.
 Class Primary Attribute: Perception
-Passives: Gain skill [Sniper] at 10. Marksmen with Long Rifles do not have to 
-Hip-Fire inside of their minimum range as normal; instead, they have to make a 
-reflex save for every shot against the target.
+Passives: Gain skill [Sniper] at 10, Gain skill [Spot] at 10.
+Gain feat "Skilled Overwatch": Held firing actions have +20 bonus damage.
 Weapon Proficiencies: Pistols, Carbines, Long Rifles.
 Armor Proficiencies: Concealed, Recon, Light.
 Starting Wealth: $1700+100*Luck + 2000
@@ -551,10 +555,11 @@ Class Feats:
 	Pin Target
 	If you fire at a target that is in cover, you can choose to "Pin" the target. Only 1 target may be
 	Pinned by the marksman at a time. If the target attempts to move from cover within a 180 degree field
-	of view infront of you, you may roll a DC 60 sniping skill check to hit them, as a free action. For the
-	remainder of the encounter, you have a +1 to hit the pinned target with a firing action. If the target moves, 
-	it is still considered pinned, and if the target dies or escapes from the battlefield you may pin a new target.
-	Pin can only be activated by a pinned target once per Marksman player's turn. Only usable with long-rifles.
+	of view infront of you, you may roll a DC 60 [Sniper] skill check to hit them, as a free action. You have 
+	a +1 to hit the pinned target with a firing action, for the	remainder of the encounter (even if they move
+	to a new location). If the target moves, it is still considered pinned, and if the target dies or escapes 
+	from the battlefield you may pin a new target. Pin can only be activated by a pinned target once per Marksman
+	player's turn. Only usable with long-rifles.
 	|
 	|
 	V
@@ -565,14 +570,13 @@ Class Feats:
 	trigger Multi-Pin once each for a maximum total of 3 triggers before a marksman player's next turn).
 	----------------------
 	Tech Rounds
-	Spend 7 Nanites. Choose from the following list of effects:
-		Gas round: On hit, releases a cloud of gas 3m across centered on the target. Any enemies 
-			inside this cloud take a +1 Miss Chance debuff for 1 turn, and 10 Poison damage.
-		Flash round: On hit, a blinding light emanates from the target. All players within 5m 
+	Spend 7 Nanites. Choose from the following list of effects, activated on a successful hit:
+		Gas round: Releases a cloud of gas 3m across centered on the target. Any enemies 
+			inside this cloud take a +1 Miss Chance debuff for their next turn, and 10 Poison damage.
+		Flash round: A blinding light emanates from the target. All players within a 5m radius 
 			of the target are stunned for 1 turn.
-		Shock round: On hit, electrifies the target, dealing an additional 10 damage
-			(15 damage for cybernetic units and also paralyzes them, 
-			forfeiting the first 2 Actions of their turn, FORT DC 50).
+		Shock round: Electrifies the target, dealing an additional 10 electrical damage
+			(paralyzes cybernetics or robotics, DC 60 FORT check to forfeit the first 2 Actions of their turn).
 	|
 	|
 	V
@@ -583,7 +587,7 @@ Class Feats:
 			or allows remote access by a friendly Priest.
 		Drain round: Half of the damage dealt to health is dealt to the target's Nanite pool.
 		Seeker round: Increase your crit range by 1.
-		Denial of Service: Does not deal damage. Half of your standard damage may be used as a bonus to a friendly Priest's hack 
+		Denial of Service: Does not deal damage. Half of your standard damage may be used as a bonus% to a friendly Priest's hack 
 ======================================
 
 =====   BESERKER   =====
@@ -610,8 +614,8 @@ Class Feats:
 	----------------------
 	Beast Mode
 	Once per engagement, you give a mighty shout and rush to engage your foes. For
-	2 turns, your move speed increases by 1m per Action, your melee damage increases 
-	by 30 points and you gain 60 temporary HPs which lasts until the end of this effect. 
+	2 turns, your move speed increases by 1m per Action, you gain +30 bonus melee damage
+	and you gain 60 temporary HPs which lasts until the end of this effect. 
 	|
 	|
 	V
@@ -644,12 +648,12 @@ Starting Wealth: $0 (assume basic robe and communicator)
 Class Feats:
 	----------------------
 	Elemental Strike -
-	Choose a type from the following list, and deal 1 counter of that type to your
-	opponent on each successful unarmed strike, with its listed effect:
-		Fire: 10 burn damage.
-		Ice: 10 cold damage.
-		Plasma: 10 burn damage.
-		Electricity: 10 shock damage.
+	Choose a type from the following list, and deal that type to your
+	opponent on each successful unarmed strike, with its listed effects:
+		Fire: 10 burn damage + 1x Burning.
+		Ice: 10 cold damage + 1x Frozen.
+		Plasma: 10 Plasma damage + 1x Plasma Burn.
+		Electricity: 10 electrical damage.
 	|
 	|
 	V
@@ -657,26 +661,22 @@ Class Feats:
 	You may either upgrade your existing element type, or take a second element 
 	type from the first list.
 		Upgrades:
-		Fire: 15 burn damage, target catches fire and must put it out.
-		Ice: 15 cold damage, area hit now has minor frostbite.
-		Plasma: Stricken area is disabled.
-		Electric: 15 shock damage and target is paralyzed for 1 turn, DC Knowledge
-		[Nanites] Check.
+		Fire: 15 burn damage + 2x Burning, target catches fire and must put it out.
+		Ice: 15 cold damage + 2x Frozen, area hit now has minor frostbite.
+		Plasma: 10 Plasma damage + 2x Plasma Burn, stricken area is disabled.
+		Electric: 15 electrical damage and DC 70 FORT check, target paralyzed for 1 turn.
 	You may also choose to switch to one of the following types:
-		Necrotic: 10 necrotic damage, target is afflicted with necropsy and must
-		seek medical attention.
+		Necrotic: 15 necrotic damage + 1x Necrosis
 		Vampiric: Heal self for 10, target loses 20 Nanites.
-		Capacitive: target loses 20 Nanites and receives 1 CS burn counter.
+		Capacitive: target loses 20 Nanites and receives 2x Plasma Burn.
 		Other [Discuss any ideas you have with the GM).
 	----------------------
 	Shadow Strike -
-	Instead of rolling to hit based on opponent armor + hand to hand skill, you 
+	Instead of rolling to hit based on opponent Guard DC + their Skill, you 
 	only have to pass a DC 50 Knowledge [Nanite] check.
-	|
-	|
-	V
-	Shadow Walk
-	Roll a Knowledge [Nanites] check, DC 50. You may teleport up to Result-50/10 
+	----------------------
+	Shadow Walk - Requires Shadow Strike
+	Roll a Knowledge[Nanites] check, DC 50. You may teleport up to Result-50/10 
 	meters. You may also roll stealth after emerging at no action cost. Movement 
 	in this manner is considered to take an action, plus another action for the 
 	skill check. Monks still receive a penalty attack for performing a skill check 
