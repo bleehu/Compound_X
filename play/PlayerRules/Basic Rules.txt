@@ -341,7 +341,8 @@ Nanites:
 
 ==== Secondary Stat Details ====
 Movement Speed:
-	Your speed in meters, for every two actions.
+	Your speed in meters, for every two actions. Use (Movement Speed)/2 for one action (drop the remainder). 
+	For more information, see topic "Movement and Sprinting", below.
 Carry Ability:
 	Not 'carrying' in the traditional sense. Carry ability cancels out movement speed penalties.
 	If you have 6 Carry Ability and 6m of movement speed penalties, you end up with no speed penalty.
@@ -533,7 +534,7 @@ Combat starts when either you or an enemy decides they would like to make an
 attack. Each "Player turn" lasts 4-6 seconds, and consists of 4 "Actions" 
 (described below).
 
-Miss Chance Limits:
+==== Miss Chance Limits ====
 At any time when using a melee or ranged weapon, you have a minimum of -2 weapon
 miss chance, and a minimum of 1 Auto or burst miss chance (if relevant). These 
 minimums apply after all PER/DEX/STR/Attachment modifiers, at all ranges, and 
@@ -553,7 +554,7 @@ character, they are both considered to be in "melee combat," and occupy adjacent
 are assumed to be using their fists or other melee weapons. If a character wishes 
 to leave melee combat, they incur a "penalty attack."  Characters also incur 
 "penalty attacks" when moving through or next to an enemy character's 1m space,
-or within range of a melee weapon that the enemy has equipped, and when performing 
+or within range of a melee weapon that the enemy has equipped and when performing 
 a skill check when in melee combat.
 	Melee combat is relatively simple. To hit an enemy player: add your dexterity 
 combat modifier to a d10 roll plus your combat modifier from your weapon/attack*,
@@ -563,6 +564,9 @@ successfully hit your opponent, you roll armor as normal (for more details, see 
 "Armor and Getting Hit" and "Damage Types and Armor Types"). Your damage dealt is often
 based on a combination of your DEX and STR modifiers. If you are wielding a weapon against
 an unarmed opponent, they may still incur damage depending on their skill.
+	NOTE: if you are fighting unarmed, you can (normally) deal full non-lethal damage or 
+half lethal damage (your choice). Non-lethal damage should be recorded as a separate (duplicate) 
+health bar. When their non-lethal health bar reaches 0, the target becomes unconscious/incapacitated.
 	*Modifiers from specific weapons or unarmed[x] attacks are listed in the weapons document.
 	**To determine bonus modifiers from skill, for every 5 skill points in a relevant 
 	skill (such as "melee combat skill") take a bonus +0.5 when rolling against guard DC.
@@ -622,7 +626,6 @@ You can jump vertically Str/3 meters.
 
 
 ==== Other Combat Details ====
-
 Critical Hits:
 Critical hits are accuracy rolls that land inside your critical hit range (aka. crit chance). 
 If you roll a critical hit, your weapon does +20 damage for that attack (and/or other effects,
@@ -684,22 +687,23 @@ to roll either for (15 - FORT) turns, or until they pass.
 Stealth Attacks:
 If you are stealthed (undetected by an opponent) when you initiate an attack action, 
 you incur bonuses depending on the circumstances of the attack.
-	Ranged weapon stealth-attacks (including explosive but not any other thrown 
+	Ranged weapon stealth-attacks (including explosive grenades but not any other thrown 
 weapons) have -1 miss chance to hit if 'adequate' aiming time is given (DM's discretion:
-how rushed you are, or how skilled you are at stealth, etc). Ranged weapon stealth-
-attacks deal +20 damage and, in addition, if you critical hit you gain all the effects 
-of a critical.
+how rushed you are, or how skilled you are at stealth, etc). Ranged weapon stealth-attacks 
+gain +20 bonus damage.
 	If you stealth-attack a target in melee, your target has a guard DC of 0. If you have 
-at least 10 skill in melee combat and you attack from stealth, Thrown and Melee (non-explosive) 
-weapons deal 2x damage, up to 150 maximum damage (before critical effects). Increases to a max of 200 
-at level 10. If you critically hit, you ignore the opponent's armor and deal full damage. Or, as normal, 
-(see section, "melee combat") if you roll 3+ above your miss chance (3+ above the opponent's guard DC), you
-ignore the opponent's armor and deal full damage. Signifying, that the target gets hit in whatever you 
-deem to be the most vulnerable; i.e., the head, neck, or the chest (over the heart, etc). If you 
-critical hit, you also gain all the standard-effects of a critical.
+at least 10 skill in melee combat and you attack from stealth, Thrown and Melee (non-explosive/non-grenade) 
+weapons deal 2x BASE Damage*, up to 150 maximum damage** (critical/BONUS damage is not doubled, but added 
+on to the 2x Base Damage). If you critically hit, you ignore the opponent's armor and deal full damage. 
+Or, as normal, (see section, "melee combat") if you roll 3+ above your miss chance (3+ above the opponent's
+guard DC), you ignore the opponent's armor and deal full damage. Signifying that the target gets hit in 
+whatever you deem to be the most vulnerable; i.e., the head, neck, or the chest (over the heart, etc). 
+	*Base Damage is typically the damage of the weapon without any other character bonuses, but Base Damage 
+	can be increased by certain classes and abilities.
+	**Increases to 200 max damage at level 10.
 
 Flanking:
-If you are behind a target, aka flanking, your melee attacks gain -2 miss chance. 
+If you are behind a target, aka flanking, your melee attacks gain +2 bonus accuracy against their Guard DC. 
 (Ranged attacks don't gain a specific bonus from flanking.)
 
 ==== Ranged Combat ====
@@ -848,31 +852,31 @@ Conditions
 ==============================
 
 Bleeding - d10/2+1 (drop the remainder) stackable damage per turn. Broken with 
-Medicine Skill check. DC varies. If you have a bleed condition, seek medical aid
-immediately, You CAN Bleed Out, you have been warned.
+	Medicine Skill check. DC varies. If you have a bleed condition, seek medical aid
+	immediately, You CAN Bleed Out, you have been warned.
 Burning - 2d10 damage per turn. Broken with a Maneuver Skill Check. DC 40. 
-Every 2 turns, the degree of the burn intensifies
+	Every 2 turns, the degree of the burn intensifies
 Downed - Your health has fallen below 0. Every turn in this condition, you
-must pass a DC 70 Fort save. You are allowed a number of failures equal to 
-your Fort score. When you have failed more times than your Fort score, you die. 
-While in this state, you cannot take any actions, but you can mumble or speak 
-incomprehensibly.
+	must pass a DC 70 Fort save. You are allowed a number of failures equal to 
+	your Fort score. When you have failed more times than your Fort score, you die. 
+	While in this state, you cannot take any actions, but you can mumble or speak 
+	incomprehensibly.
 Frozen - d10 damage per turn. lasts until a source of heat is applied to the 
-wound, or with Medicine Skill check, DC 50
+	wound, or with Medicine Skill check, DC 50
 Fear - No actions, except running away form the source of fear, or rolling to 
-defeat fear. DC 50, Will save.
+	defeat fear. DC 50, Will save.
 Fear, Greater - No actions, except rolling to defeat fear. DC 75, Will save.
 Necrosis - 2d10 +5 damage per turn. Seek medical attention immediately. If 
-left unhealed for more than a day, the infection spreads 1 foot per day. 
-Medicine DC 75, must be rolled.
+	left unhealed for more than a day, the infection spreads 1 foot per day. 
+	Medicine DC 75, must be rolled.
 Pinned Down - Target pinned (hunkered, no movement) for 2 full turns or until they 
-pass a Will saving throw at DC of 70, whichever is quicker.
+	pass a Will saving throw at DC of 70, whichever is quicker.
 Plasma Burn - 1d10+1 stackable damage per turn, for 2 turns if the target's armor
-is pierced/missed. If the targets armor is hit/pierced, the armor's AP level is 
-reduced by 1, permanently (repairable, DC 60% Repair check), not stackable. 
+	is pierced/missed. If the targets armor is hit/pierced, the armor's AP level is 
+	reduced by 1, permanently (repairable, DC 60% Repair check), not stackable. 
 Poisoned - d10 damage per turn. After 5 turns, some poisons may induce 
-unconsciousness. DC 50, Fortitude. Greater / Lesser poison increases damage 
-(+5/-5) and DC (+25,-10).
+	unconsciousness. DC 50, Fortitude. Greater / Lesser poison increases damage 
+	(+5/-5) and DC (+25,-10).
 
 ==============================
 Damage Types and Armor Types
@@ -948,7 +952,9 @@ Cloaking
 ==============================
 
 Cloaking is available in the armor section, but also available to some 
-classes as a class feature. For non-class cloakers, the rules are as follows:
+classes as a class feature.
+ 
+==== Cloaking Modules ====
 Expend the cloaking module's "Nanite Activation Cost" to begin cloaking. At the
 ending of every turn thereafter, you have to pay a "Nanite Upkeep" cost to 
 continue cloaking.
@@ -961,6 +967,7 @@ sooner (see table below for "Cloak Turns") . If your cloak time runs out, you st
 cloaking and have to wait a number of actions equal to your "Charge Delay" (listed under 
 the relevant cloaking module's description) before being able to cloak again.
 
+==== Cloaking Detection ===
 If someone/something is looking for you, they must pass a (normally, perception) 
 check at 'Detect DC' difficulty, modified by your stealth skill. While moving, 
 the detect DC is reduced (listed as 'moving detect DC' under the relevant cloaking
