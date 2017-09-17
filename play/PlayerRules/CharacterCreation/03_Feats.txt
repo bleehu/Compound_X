@@ -43,7 +43,7 @@ Prerequisites: Pilot or "Acquired: With Friends Like These . . ." and Piloting 6
 
 Backstab:
 Prerequisites: Level 3, Assassin or Monk.
-Any damage dealt to an unaware opponent from behind deals an additional 20 + (Lvl * 2) damage.
+Any damage dealt to an unaware opponent from behind deals an additional 10 + (Lvl * 2) Base damage.
 
 Bulltrue:
 Prerequisites: Must have Shotgun training
@@ -133,9 +133,9 @@ to be chosen at the time of taking this feat.
 First Shot Counts: 
 Prerequisites: LCK 6
 When reloading, if your reload roll is higher than an 80 (including any applicable skills) or
-if you roll inside your crit range, your first shot is an automatic critical + an additional 10 damage,
-for a total of 30 damage and other possible critical effects. (Instead, if you have Double Tap, you get 
-+10 damage for each bullet).
+if you roll inside your crit range, your first shot is an automatic critical + 10 bonus damage,
+for a total of 30 bonus damage and other possible critical effects. (Instead, if you have Double Tap, 
+you get +10 bonus damage for each Double Tap bullet).
 You have to reload a fresh magazine in order to trigger the bonus again. In other words, you cannot use
 First Shot Counts more times in one encounter than the number of fresh magazines you are carrying. If
 your weapon damages an area, First Shot Counts does not take effect.
@@ -170,8 +170,8 @@ POTENTIALLY REMOVE
 
 Last Shot Counts: 
 Prerequisites: PER 5
-The last shot in every mag deals is an automatic critical + an additional 10 damage,
-for a total of 30 damage. If your weapon has a magazine size of 1 or damages an area,
+The last shot in every mag deals is an automatic critical + 10 bonus damage,
+for a total of 30 bonus damage. If your weapon has a magazine size of 1 or damages an area,
 Last Shot Counts does not take effect.
 
 Leaf on the wind:
@@ -384,7 +384,7 @@ Proficient: Pistols
 	20:	+10% stealth when firing pistols			
 	25:	Pistol Expert. -0.5 miss chance @ all ranges			
 	30:	+10m to range R3				
-	40:	Pistol Master. +20% damage; Gain feat "Pistol Quickdraw"
+	40:	Pistol Master. +20% Base damage; Gain feat "Pistol Quickdraw"
 		(which is feat "Quickdraw"  that is only usable with pistols)			
 		*If you have feat "Quickdraw" in addition to "Pistol Quickdraw",
 		negate the action to aim when drawing your pistol(s). When holstering
@@ -397,7 +397,7 @@ Proficient: Submachine Guns
 	20:	+5 Gun Reflex		
 	25:	SMG Expert. -0.5 miss chance @ all ranges			
 	30:	-0.5 miss chance when firing in fully-automatic or burst			
-	40:	SMG Master. +10% damage; Gain feat "The Split": when firing automatic 
+	40:	SMG Master. +10% Base damage; Gain feat "The Split": when firing automatic 
 		or burst, you can choose to pay 5 Nanites and fire half your bullets
 		at two different targets in front of you, within 10m of each other.
 					
@@ -408,7 +408,7 @@ Proficient: Shotguns
 	20:	+5 Gun Reflex				
 	25:	Shotgun Expert. -0.5 miss chance @ all ranges			
 	30:	+10% perception checks for awareness within 25m.			
-	40:	Shotgun Master. +10% damage; Gain Active feat "I'm Used to Close Range": If you 
+	40:	Shotgun Master. +10% Base damage; Gain Active feat "I'm Used to Close Range": If you 
 		hit an enemy with buckshot, you can pay 10 Nanites for that attack action to miss
 		or hit armor (your choice) if the target has less than 100% armor coverage.			
 					
@@ -419,7 +419,7 @@ Proficient: Carbines
 	20:	+5 Gun Reflex		
 	25:	Carbine Expert. -0.5 miss chance @ all ranges			
 	30:	You can choose to have +5% chance to miss armor when in single fire mode (doesn't apply to 100% coverage armor)	
-	40:	Carbine Master. +10% damage; Gain feat "Make it count": When in single
+	40:	Carbine Master. +10% Base damage; Gain feat "Make it count": When in single
 		fire mode, +1 crit range (+10% chance to Crit).
 			
 Proficient: Automatic Rifles					
@@ -429,7 +429,7 @@ Proficient: Automatic Rifles
 	20:	Automatic Rifles no longer jam			
 	25:	Automatic Rifle Expert. -0.5 miss chance @ all ranges			
 	30:	-0.5 miss chance when firing in fully-automatic or burst			
-	40:	Automatic Rifle Master. +10% damage; Gain feat "Offensive Expert": Spend
+	40:	Automatic Rifle Master. +10% Base damage; Gain feat "Offensive Expert": Spend
 		10 Nanites to gain -2 miss chance for a fully-automatic firing action, 
 		usable once per turn. This ability can let you exceed the minimum 1 miss
 		chance for automatic firing.
@@ -441,7 +441,7 @@ Proficient: Long Rifles
 	20:	+10% to perception checks to spot enemies beyond your long rifle's R2 range			
 	25:	Long Rifle Expert. -0.5 miss chance @ all ranges			
 	30:	Gain feat "Beware the Wrath of a Patient Man": shots fired as a held reaction have a -1 miss chance.			
-	40:	Long Rifle Master. +10% damage; Gain feat "Practiced Precision": DC 75% dexterity or sniper skill
+	40:	Long Rifle Master. +10% Base damage; Gain feat "Practiced Precision": DC 75% dexterity or sniper skill
 		check to negate the action for changing your aim from one target to another in front of you 
 		(1 successful negation per turn).			
 					
@@ -452,7 +452,7 @@ Proficient: Heavy Weapons
 	20:	+1m radius to your Suppression Area of Effect			
 	25:	Heavy Weapon Expert. -0.5 miss chance @ all ranges			
 	30:	Heavy Weapons no longer jam			
-	40:	Heavy Weapon Master. +10% damage; Gain feat "Effective Fire": when a
+	40:	Heavy Weapon Master. +10% Base damage; Gain feat "Effective Fire": when a
 		target is suppressed by your heavy weapon, they must make a DC 62% 
 		Shock save. On failure, they lose two actions at the start of their 
 		next turn.			
@@ -464,7 +464,7 @@ Proficient: Explosives
 	20:	+5m to all range brackets for explosive launchers (grenade launchers, etc.)			
 	25:	Explosives Expert. -0.5 miss chance @ all ranges (grenades, rocket launchers, etc.)			
 	30:	+10% to charisma rolls for intimidation when holding any explosive/launcher			
-	40:	Explosives Master. +15% damage, Gain feat "Get Down!": Allies in blast radius 
+	40:	Explosives Master. +15% Base damage, Gain feat "Get Down!": Allies in blast radius 
 		may make a DC 60 Reflex save to take half damage (before armor) from friendly fire.			
 
 ====================
@@ -519,10 +519,10 @@ hit, you may roll for an additional hit on any target within the 15m range, for 
 Kata [Minimum 5 Nanites]: 
 Prerequisites: Level 10
 Whenever you land a successful melee hit against someone, you may roll for X 
-additional attacks, where X is your Nanites spent/5. Each additional attack has an additional
-2 miss chance. (A 10th level character making their 3rd strike in a row would be 
-rolling at +4 miss chance). This +2 debuff applies to a Monk's Shadow Strike as well,
-increasing the DC by 20 per strike instead of increasing the strike's miss chance.
+additional attacks, where X is your Nanites spent/5. Each additional attack has a 
+compounding +2 miss chance. (A 10th level character making their 3rd strike in a row 
+would be rolling at +4 miss chance). This +2 debuff applies to a Monk's Shadow Strike 
+as well, increasing the DC by 20 per strike instead of increasing the strike's miss chance.
 
 Multi-Target [13*X Nanites]: 
 Prerequisites: DEX 6, PER 6
