@@ -20,7 +20,7 @@ Class Primary Attribute: Strength
 Passives: Gain Skill Weapon Use[X] at 10, Gain a +15 to Rolls for initiative. (You go first more often).
 Weapon Proficiencies: Pistols, Submachine Guns, Shotguns, Carbines, Assault Rifles, Battle Rifles.
 Armor Proficiencies: Light, Medium, Medium-Heavy.
-Starting Wealth: $1700+100*Luck + 100
+Starting Wealth: $850 + 100*Luck + 2920
 Class Feats:
 	----------------------
 	Battle Adrenaline -
@@ -67,7 +67,7 @@ Class Primary Attribute: Strength
 Passives: Gain Skill [Thrown Weapons] at 10.
 Weapon Proficiencies: Pistols, Carbines, Machine Guns, Heavy Weapons.
 Armor Proficiencies: Concealed, Light, Medium, Medium-Heavy, Heavy.
-Starting Wealth: $1700+100*Luck + 900
+Starting Wealth: $850 + 100*Luck + 3300
 Class Feats:
 	----------------------
 	Needs more dakka -
@@ -110,7 +110,7 @@ field dressing applicator and a package of ten needles. You start each encounter
 contagion points during a combat scenario.  
 Weapon Proficiencies: Pistols, Submachine Guns, Shotguns.
 Armor Proficiencies: Concealed, Recon, Light, Medium.
-Starting Wealth: $1700+100*Luck - 800
+Starting Wealth: $850 + 100*Luck + 1820
 Class Feats:
 	----------------------
 	Adrenaline Junkie - 
@@ -147,7 +147,7 @@ automatons you construct.
 At level 6, the Feat "With Friends Like These . . ." is automatically unlocked.
 Weapon Proficiencies: Pistols, Shotguns, Carbines
 Armor Proficiencies: Concealed, Recon, Light, Medium.
-Starting Wealth: $1700+100*Luck
+Starting Wealth: $850 + 100*Luck + 1730
 Class Feats: 
 	-----------------------
 	A little Controlling - 
@@ -178,7 +178,7 @@ Class Primary Attribute: Intelligence
 Passives: Gain Skill [Hacking] at 10 OR Gain Skill Knowledge[NANITES] at 10
 Weapon Proficiencies: Pistols, Submachine Guns.
 Armor Proficiencies: Concealed, Recon, Light, Medium.
-Starting Wealth: $1700+100*Luck - 650
+Starting Wealth: $850 + 100*Luck + 1900
 Class Feats:
 	----------------------
 	Exploit weakness -
@@ -214,7 +214,7 @@ Passives: Gain Skill [Piloting] at 10.
 At level 6, the Feat ". . . Who Needs Nano-Technologies" is automatically unlocked.
 Weapon Proficiencies: Pistols, Submachine Guns, Shotguns.
 Armor Proficiencies: Concealed, Recon, Light, Medium.
-Starting Wealth: $1700+100*Luck -1050
+Starting Wealth: $850 + 100*Luck + 1820
 Class Feats:
 	----------------------
 	Planes, Trains, Automobiles -
@@ -248,7 +248,7 @@ unit that is implanted in your body:
 Recharge Rate/Turn: 50, Fast Recharge Nanites: 25, Shield Restart Time: 1 Turn
 Weapon Proficiencies: Pistols, Submachine Guns, Carbines.
 Armor Proficiencies: Concealed, Recon, Light, Medium.
-Starting Wealth: $1700+100*Luck - 400
+Starting Wealth: $850 + 100*Luck + 1802
 Class Feats:
 	----------------------
 	Energy Burst [X Nanites] -
@@ -282,7 +282,7 @@ An expert tracker, you're the one hired when someone wants
 something found. Expertly trained in manipulating your Nanites to aid in 
 pursuit of a quarry, or in marking enemies for execution.
 Class Primary Attribute: Perception
-Passives: Gain skill [Tracking] at 10. Purchase your first primary cloaking module at a $1000 discount. 
+Passives: Gain skill [Tracking] at 10. Purchase your first primary cloaking module at a $1500 discount. 
 At level 3 and above as a Hunter, Cloaking's Nanite Activation cost is reduced by 4.
 Gain Ability "Mark Quarry": Lvl/2+1 Uses per day - As a free action, expend 20 nanites to Mark 
 a visible target. You must be able to visibly see the target or something the target is wearing. 
@@ -291,7 +291,7 @@ At level 5, leaves a trail for the next 24 hours.
 NOTICE: SEE SECTION "CLOAKING" IN THE "BASIC RULES" DOCUMENT FOR MORE INFORMATION ON CLOAKING.
 Weapon Proficiencies: Pistols, Shotguns, Carbines, Long Rifles.
 Armor Proficiencies: Cloaking, Concealed, Recon, Light.
-Starting Wealth: $1700+100*Luck + 1550
+Starting Wealth: $850 + 100*Luck + 2440
 Feats:
 	----------------------
 	Hunter Vision - Lvl/2 uses per day
@@ -335,9 +335,9 @@ of Favor within their church and can unlock new paladin spells by spending
 Favor. Starting at level 3, a Paladin gains Favor equal to their Charisma each 
 level. Favor does not have to be spent, and can be saved up to learn more 
 potent prayers and spells. Gain Skill [Knowledge[Nanites]] at 10
-Weapon Proficiencies: Pistols, Submachine Guns, Carbines, Automatic Rifles, Long Rifles.
+Weapon Proficiencies: Pistols, Submachine Guns, Carbines, Assault Rifles, Long Rifles.
 Armor Proficiencies: Recon, Light, Medium, Medium-Heavy.
-Starting Wealth: $1700+100*Luck
+Starting Wealth: $850 + 100*Luck + 2280
 Feats:
 	----------------------
 	Portable Shield:
@@ -376,7 +376,7 @@ is accessed as any typical holobook, and can be connected to Altars to expand
 the Mage''s available spells.
 Weapon Proficiencies: Pistols.
 Armor Proficiencies: Recon.
-Starting Wealth: $1700+100*Luck - 1400
+Starting Wealth: $850 + 100*Luck + 1040
 Feats: The Mage picks one of the following branches at level 5. Instead of 
 gaining more class feats at levels 1-, 15 and 20, they gain access to more 
 powerful spells within that branch. See the Tome of Spells for more 
@@ -416,7 +416,7 @@ Class Primary Attribute: Intelligence
 Passives: Knowledge Nanites - 10; +50 Nanites, +10 per level.
 Weapon Proficiencies: Pistols.
 Armor Proficiencies: Recon.
-Starting Wealth: $1700+100*Luck - 1400
+Starting Wealth: $850 + 100*Luck + 1040
 Feats: The Sorcerer picks one of the following branches at level 5. Instead of 
 gaining more class feats at levels 1-, 15 and 20, they gain access to more 
 powerful spells within that branch. See the Tome of Spells for more 
@@ -457,7 +457,7 @@ Choose two bonuses and one weakness:
     - Weaknesses: -10 Dam, -8m R3 Range Bracket, +1 Miss Chance, -1 rds in mag, -2 mags carried;
 Weapon Proficiencies: Pistols.
 Armor Proficiencies: Concealed, Recon, Light.
-Starting Wealth: $1700+100*Luck - 800
+Starting Wealth: $850 + 100*Luck + 1125
 Feats:
 	----------------------
 	Heightened Alertness -
@@ -511,7 +511,7 @@ NOTE: For more information on Cloaking and Cloaking modules, see section, "Cloak
 the basic rules.
 Weapon Proficiencies: Pistols
 Armor Proficiencies: Cloaking, Concealed, Recon, Light.
-Starting Wealth: $1700+100*Luck - 1300
+Starting Wealth: $850 + 100*Luck + 1125
 Feats:
 	----------------------
 	Shadowy Assassin -
@@ -549,7 +549,7 @@ Passives: Gain skill [Sniper] at 10, Gain skill [Spot] at 10.
 Gain feat "Skilled Overwatch": Held firing actions have +20 bonus damage.
 Weapon Proficiencies: Pistols, Carbines, Long Rifles.
 Armor Proficiencies: Concealed, Recon, Light.
-Starting Wealth: $1700+100*Luck + 2000
+Starting Wealth: $850 + 100*Luck + 2340
 Class Feats:
 	----------------------
 	Pin Target
@@ -598,7 +598,7 @@ Class Primary Attribute: Strength
 Passives: Expert Unarmed
 Weapon Proficiencies: Pistols.
 Armor Proficiencies: Concealed, Recon, Light, Medium, Medium-Heavy.
-Starting Wealth: $1700 + 100*Luck - 1200
+Starting Wealth: $850 + 100*Luck + 1320
 Class Feats:
 	----------------------
 	Blood Rage -
