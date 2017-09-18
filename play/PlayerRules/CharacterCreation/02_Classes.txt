@@ -65,7 +65,7 @@ there when the odds are stacked highest against the forces for good, and he'll
 be prepared to use heavy force to even those odds.
 Class Primary Attribute: Strength
 Passives: Gain Skill [Thrown Weapons] at 10.
-Weapon Proficiencies: Pistols, Carbines, Machine Guns, Heavy Weapons.
+Weapon Proficiencies: Pistols, Carbines, Machine Guns, Heavy Weapons, Rocket Launchers.
 Armor Proficiencies: Concealed, Light, Medium, Medium-Heavy, Heavy.
 Starting Wealth: $850 + 100*Luck + 3300
 Class Feats:
