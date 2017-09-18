@@ -462,7 +462,7 @@ Feats:
 	----------------------
 	Heightened Alertness -
 	Being alert comes with your level of training. Gain 10 Reflex. You cannot be caught 
-	flat-footed	(you cannot be penalized for being surprised), but opponents can still 
+	flat-footed (you cannot be penalized for being surprised), but opponents can still 
 	get surprise rounds against you.
 	----------------------
 	Protective Awareness - Requires a minimum Reflex of 24
