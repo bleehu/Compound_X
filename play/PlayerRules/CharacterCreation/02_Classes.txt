@@ -23,15 +23,15 @@ Armor Proficiencies: Light, Medium, Medium-Heavy.
 Starting Wealth: $850 + 100*Luck + 2920
 Class Feats:
 	----------------------
-	Battle Adrenaline -
+	Battle Adrenaline [25 Nanites] -
 	Significant past training or combat experience has given you honed battle reactions, 
 	adrenaline simply aids your ability to understand and react to the task at hand. 
-	+1 non-attacking action, this turn only. Costs 25 Nanites to use. Activate as a free action 
+	+1 non-attacking action, this turn only. Activate as a free action 
 	during your turn, limit one use per turn and a max of 3 activations per encounter.
 	|
 	|
 	V
-	Maximum of 6 activations per encounter; costs 20 Nanites to use.
+	Maximum of 6 activations per encounter; costs [20 Nanites] to use.
 	----------------------
 	Battle Cry / Raise Moral -
 	You roar as you lead the charge against the enemy. 1 Action. 50% + (CHA mod) chance to 
@@ -64,15 +64,15 @@ to bring the heaviest of fire down upon their enemies. The Specialist will be
 there when the odds are stacked highest against the forces for good, and he'll 
 be prepared to use heavy force to even those odds.
 Class Primary Attribute: Strength
-Passives: Gain Skill [Thrown Weapons] at 10.
+Passives: Gain Skill [Thrown Weapons] OR [Explosives] at 10.
 Weapon Proficiencies: Pistols, Carbines, Machine Guns, Heavy Weapons, Rocket Launchers.
 Armor Proficiencies: Concealed, Light, Medium, Medium-Heavy, Heavy.
 Starting Wealth: $850 + 100*Luck + 3300
 Class Feats:
 	----------------------
-	Needs more dakka -
+	Needs More Dakka [10 Nanites] -
 	Sometimes, a situation just calls for more bullets. You're good at that. 
-	When firing a semi-automatic weapon, you may fire an extra shot (per action)
+	When firing a semi-automatic weapon, you may fire an extra shot (during 1 firing Action)
 	with a +1 miss chance. When firing an automatic weapon, you may fire two extra
 	shots with a +1 and +2 miss chance respectively.
 	This ability cannot be used with grenade launchers, rocket launchers, 
@@ -84,16 +84,14 @@ Class Feats:
 	must make a DC 60 + (Charisma * 8) Shock check. On failure, target is 
 	Pinned Down (see section "Conditions" in the basic rules document).
 	----------------------
-	Heavier Ordinance not required -
+	Heavier Ordinance Not Required [25 Nanites] -
 	Your expertise with heavy weapons is sufficient for the task at hand. 
-	Expend 25 Nanites and gain -2 Miss Chance and a bonus +25 damage for an 
-	attack with a heavy weapon.
+	Gain -2 Miss Chance and a bonus +25 damage for an attack with a heavy weapon.
 	|
 	|
 	V
 	Your expertise with heavy weapons is overkill for the task at hand. 
-	Expend 25 Nanites and gain -3 Miss Chance and a bonus +35 damage for an 
-	attack with a heavy weapon.
+	Gain -3 Miss Chance and a bonus +35 damage for an attack with a heavy weapon.
 	(This miss chance bonus can exceed the minimum -2 ranged miss chance)
 ======================================
 
@@ -202,7 +200,7 @@ Class Feats:
 	V
 	Nanites have almost become second nature to you. DC 50 Knowledge [Nanites] 
 	grants a +30% to an ally's next roll, or -20% to an opponent. 
-	Knowledge [Nanites]	/ 2 meters range.
+	Knowledge [Nanites] / 2 meters range.
 ======================================
 
 
