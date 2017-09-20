@@ -72,11 +72,11 @@ Class Feats:
 	----------------------
 	Needs More Dakka [10 Nanites] -
 	Sometimes, a situation just calls for more bullets. You're good at that. 
-	When firing a semi-automatic weapon, you may fire an extra shot (during 1 firing Action)
-	with a +1 miss chance. When firing an automatic weapon, you may fire two extra
-	shots with a +1 and +2 miss chance respectively.
-	This ability cannot be used with grenade launchers, rocket launchers, 
-	or autocannons.
+	Make a regular firing action. If firing a weapon semi-automatically, you may fire 
+	an extra shot with a +1 miss chance. Or, if firing a weapon automatically, you may 
+	fire two extra shots with a +1 and +2 miss chance respectively. When using this 
+	ability, you cannot crit. This ability cannot be used with grenade launchers, 
+	rocket launchers, or autocannons.
 	|
 	|
 	V
