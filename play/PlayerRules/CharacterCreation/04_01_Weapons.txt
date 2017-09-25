@@ -1,119 +1,152 @@
-/*=======================================
- * This document lists the weapons available to players in Compound
- * X. There are more weapons, listed in the "Advanced Weapons"
- * document, however those are considered higher level weapons or
- * quest rewards.
- * All weapons deal an additional 10 damage when a roll of 90-95
- * occurs. This is a Critical hit. When a roll of 96-100 occurs, all
- * weapons deal an additional 20 damage to base. This is an Extra-Crit.
- *=====================================*/
+MELEE & THROWN WEAPONS DOCUMENT
 
 ============================================================
-Melee:
-Melee weapons/attacks use an 'Accuracy Modifier' instead of
+MELEE WEAPONS & UNARMED FIGHTING
+These weapons/attacks use an 'Accuracy Modifier' instead of
 a 'Miss Chance'. This modifier is added to your combat dex modifier and
 and any relevant skill(s) to help you beat your opponent's guard DC.
+Melee weapons don't normally pierce armor, unless they state otherwise.
 
 If you have Hand-to-Hand trained, +10 damage to all melee attacks with a weapon.
 Instead, if you have Hand-to-Hand Expert, +20 damage to all melee attacks with a weapon. 
 
-Also, If you have melee combat skill >=20 then all dex requirements are reduced by 1.
+Also, If you have melee combat skill >=20 then all DEX or STR requirements for 
+melee weapons are reduced by 1.
 ============================================================
 
-==== BARE-HANDED FIGHTING ====
+==== UNARMED FIGHTING ====
 
-----Hand-to-Hand [untrained] Free	---- 
-Damage:	5 + STR + DEX
-Range:        	Adjacent (1m)
-Accuracy Modifier: -2
+----Hand-to-Hand [untrained] 	Free	---- 
+Damage:		    5 + STR + DEX
+Range:        	    Adjacent (1m)
+Accuracy Modifier:  -2
+DEX Requirement:    2
 
 ---- Hand-to-Hand [Trained]	---- 
 (Requires 3 DEX, 10 skill in Melee Combat or Unarmed Combat)
-Damage:	5 + STR + DEX + [Melee Combat skill] / 2
-Range:      	Adjacent (1m)
-Accuracy Modifier: -1
-Notes: Round down damage. 20% chance to disarm target unless 
+Damage:		    5 + STR + DEX + [Melee Combat skill] / 2
+Range:      	    Adjacent (1m)
+Accuracy Modifier:  -1
+DEX Requirement:    3
+Notes/Description: Round down damage. 20% chance to disarm target unless 
 	weapon is attached via sling, part of the target, etc.
 
 ----Hand-to-Hand [Expert]	----
 (Requires Combat Expertise [Melee] and either 20 skill
 in Melee Combat or Unarmed Combat, or class passive.)
-Damage:	[3*STR or 2*DEX] + [Melee Combat skill]
-Range:     	2m
+Damage:		   [3*STR or 2*DEX] + [Melee Combat skill]
+Range:     	   2m
 Accuracy Modifier: -1
-Notes: 50% chance to disarm target (unless weapon is part of target). 
+DEX Requirement:   5
+Notes/Description: 50% chance to disarm target (unless weapon is part of target). 
 	Can use disarm to grapple an opponent using their weapon's sling.
 
 ==== MELEE WEAPONS ====
 
 =====	LEVEL 1 REQUIREMENT WEAPONS	=====
 
----- Eliazar Plasma Torch		$243	----
-Damage:     	30 + 2x plasma burn
-Range:	   	Adjacent (1m)
+---- Eliazar Plasma Torch		$240	----
+Damage:		   30 + 2x Plasma Burn
+Range:     	   Adjacent (1m)
 Accuracy Modifier: +1
-STR Requirement: 	3
-Notes: Plasma. Can quickly repair vehicles with welding materials, seal/cut through moderate 
-	doors, and make temporary cover. -40% stealth for being quiet on stealth attacks.
+STR Requirement:   3
+Notes/Description: Plasma. Can quickly repair vehicles with welding materials, seal/cut through 
+	moderate doors, and make temporary cover. -40% stealth for being quiet on stealth attacks.
 
----- Gurbur G1 Combat Knife		$316	---- 
-Damage:      	40 + STR + 2*DEX + 1xbleed
-Range:       	Adjacent (1m)
+---- Gurbur G1 Combat Knife		$315	---- 
+Damage:		   40 + STR + 2*DEX + 1xBleed
+Range:     	   Adjacent (1m)
 Accuracy Modifier: +1
-DEX Requirement: 	3
+DEX Requirement:   3
 
----- Gurber GS101 Combat Sword		$681	----
-Damage:      	50 + 2*STR + 2*DEX + 1xBleed
-Range:          	2
+---- Gurber GS101 Combat Sword		$680	----
+Damage:		   50 + 2*STR + 2*DEX + 1xBleed
+Range:     	   2m
 Accuracy Modifier: +2
-DEX Requirement: 	4
+DEX Requirement:   4
 
 =====	LEVEL 5 REQUIREMENT WEAPONS	=====
 
-
-
----- CS Edged Knife: $200
-1m (adjacent)
-40%
-7 * (STR or DEX) + CS burn
-Ignore armour percents, Inflict CS burn. If target has Capacitant Shield armour
-, CS burn is canceled and all damage is inflicted to the shield, unless the 
-shield is completely discharged.
-
-
----- CS Edged Combat Sword: $400
-2m (adjacent)
-35%
-7*(STR) + 10 + CS Burn
-Ignore armour percents, Inflict CS burn. If target has Capacitant Shield armour
-, CS burn is canceled and all damage is inflicted to the shield, unless the 
-shield is completely discharged
-
----- Power Fist: $165
-Damage:	5 + STR + DEX + [Melee Combat skill] / 2
-Range:	Adjacent (1m)
+---- Guri Grabber Knife		$470	----
+Damage:		   30 + STR + 2*DEX + 1xBleed
+Range:     	   Adjacent (1m)
 Accuracy Modifier: +1
-Notes:
-1m (adjacent)
-40%
-11*STR
+DEX Requirement:   5
+Notes/Description: You can grapple after any successful basic melee attack. +10% Skill on grappling checks.
+	Whenever you roll a successful grappling check, you may deal [3*STR or 3*DEX] damage to your opponent.
 
-Guri Grabber Knife			1		30+STR+2*DEX+1xbleed
-Guri Carbon Whip			3		30+3*STR+2*DEX
-SPECO VAE Knife			1		45+STR+2*DEX+1xbleed
-SPECO VAE Edged Circular Saw			1		55+STR
-SPECO VAE Combat Sword			2		55+2*STR+2*DEX+1xBleed
+---- Guri Carbon Whip		$560	----
+Damage:		   30 + 3*STR + 2*DEX
+Range:     	   3m
+Accuracy Modifier: +1
+DEX Requirement:   6
+Notes/Description: Requires "Weapon Use [Exotic]". Can grapple limbs from range (DEX based grapple) and force 
+	movement (1m for every 5 [DEX or STR]). Can disarm weapons from range according to Hand-to-Hand [trained] or 
+	[Expert] disarm rules (you must have [Trained] or [Expert] to use their respective rules).
+
+---- SPECO SP10 VAE Combat Knife		$640	----
+Damage:		   45 + STR + 2*DEX + 1xBleed
+Range:     	   Adjacent (1m)
+Accuracy Modifier: +1
+DEX Requirement:   4
+Notes/Description: Voltage Aligned Edge; ignores standard armor
+
+---- SPECO SPC50 VAE Circular Saw		$695	----
+Damage:		   55 + STR + 1xBleed
+Range:     	   Adjacent (1m)
+Accuracy Modifier: +1
+STR Requirement:   4
+Notes/Description: Voltage Aligned Edge; ignores standard armor; can easily cut through most materials.
+	-50% on stealth rolls for being quiet during stealth attacks with this weapon.
+
+---- SPECO SP30 VAE Combat Sword		$1245	----
+Damage:		   55 + 2*STR + 2*DEX + 1xBleed
+Range:     	   2m
+Accuracy Modifier: +2
+DEX Requirement:   6
+Notes/Description: Voltage Aligned Edge; ignores standard armor
+
+
 Eliazar E500 Assisted-Sledgehammer			2		50+6*STR
 Eliazar E5500 Power Fist			1		50+5*STR
 Muzashi VAE Katana			2		60+1*STR+3*DEX+1xBleed
 Eliazar Plasma Sword			2		50+STR+2*DEX+3xPlasma burn
-SPECO Under Mounted Chainsaw SPC100			1		70+2xDex + 2xbleed
+SPECO Under Mounted Chainsaw SPC100			1		70+2xDex + 2xBleed
 
+=====	LEVEL 10 REQUIREMENT WEAPONS	=====
+
+---- xxx		$xx	----
+Damage:		   x
+Range:     	   x
+Accuracy Modifier: x
+DEX Requirement:   x
+Notes/Description: x
+
+---- xxx		$xx	----
+Damage:		   x
+Range:     	   x
+Accuracy Modifier: x
+DEX Requirement:   x
+Notes/Description: x
+
+---- xxx		$xx	----
+Damage:		   x
+Range:     	   x
+Accuracy Modifier: x
+DEX Requirement:   x
+Notes/Description: x
+
+---- xxx		$xx	----
+Damage:		   x
+Range:     	   x
+Accuracy Modifier: x
+DEX Requirement:   x
+Notes/Description: x
 
 
 ============================================================
 Misc. Thrown Weapons:
-All thrown weapons inflict bleed damage.
+All thrown weapons inflict Bleed damage.
 ============================================================
 
 Shuriken (5): $30
@@ -133,9 +166,9 @@ Throwing Axe (1): $60
 50% / 35% if skilled
 38
 
-Gurber Throwing Knife(1):			5 + [DEX or STR/2] range						15+STR+DEX+Thrown Weapon Skill/2+1xbleed							25+STR+2*DEX+1xbleed in melee				
-EAL Tactical Throwing Axe(1):			5+ STR + DEX/2 range						25+3*STR+DEX+Thrown Weapon Skill/2+1xbleed							40+2*STR+DEX+1xbleed in melee				
-Carbide Kunai(1):			5 + [DEX or STR/2] range						25+STR+DEX+Thrown Weapon Skill/2+1xbleed							30+STR+2*DEX+1xbleed in melee, +30% to stealth rolls to hide an attack when thrown				
+Gurber Throwing Knife(1):			5 + [DEX or STR/2] range						15+STR+DEX+Thrown Weapon Skill/2+1xBleed							25+STR+2*DEX+1xBleed in melee				
+EAL Tactical Throwing Axe(1):			5+ STR + DEX/2 range						25+3*STR+DEX+Thrown Weapon Skill/2+1xBleed							40+2*STR+DEX+1xBleed in melee				
+Carbide Kunai(1):			5 + [DEX or STR/2] range						25+STR+DEX+Thrown Weapon Skill/2+1xBleed							30+STR+2*DEX+1xBleed in melee, +30% to stealth rolls to hide an attack when thrown				
 Plasma Catalyst Kunai(1):			5 + [DEX or STR/2] range						10+STR+DEX+Thrown Weapon Skill/2+3xPlasma burn							Plasma effect reduces armor by 1 after the hit, as usual. 20+STR+2*DEX+1x Plasma Burn in melee				
 
 
@@ -180,14 +213,14 @@ detonates in the open, it’s blinding range is 10m
 ECSC Fragmentation Grenade: $100
 40m
 60% to land where intended and 95% to hit
-50 + 2 * bleed within 2.5m
-20 damage + 2 * bleed within 5m
+50 + 2 * Bleed within 2.5m
+20 damage + 2 * Bleed within 5m
 
 RMM Frag+ Grenade: $120
 45m
 60% to land where intended and 95% to hit
-60 + 2 * bleed within 2.5m
-20 + 2 * bleed within 5m
+60 + 2 * Bleed within 2.5m
+20 + 2 * Bleed within 5m
 
 =============================================================================  
 \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
@@ -528,7 +561,7 @@ Suppression Level:		Medium
 =====	LEVEL 10 REQUIREMENT WEAPONS	=====
 
 ---- Mathews "Bolter" 470B	$2389	----
-Damage:	60, 1x bleed on hit
+Damage:	60, 1x Bleed on hit
 Ranged Miss Chance:
 	3 out to 10m
 	4 out to 35m
@@ -581,7 +614,7 @@ action. Double barrel and semi auto shotguns do not follow this rule.
 Slug damage deals damage as a normal rifle would, dealing its full damage up 
 to the listed distance.
 Buck-Shot damage is dealt in 3 distinct distances, which are listed. All buck
-shot deals 2 bleed tokens to the target.
+shot deals 2 Bleed tokens to the target.
 Minimum Strength 4, Reload DC 30% unless otherwise noted. Reload time is 3 Actions
 unless otherwise stated.
 ============================================================
@@ -589,7 +622,7 @@ unless otherwise stated.
 ===== Level 1 Weapons =====
 
 ---- Matthews Model 2287 Short	$867	----
-Damage:	100, slug only
+Damage:	100 Ballistic, Slug Only
 Ranged Miss Chance:		
 	3 out to 10m	
 	4 out to 20m	
@@ -603,10 +636,10 @@ Suppression Level:	Light
 Notes/Description:	Lever action, negate 1 pump action per turn. CQB weapon. 
 		
 ----Matthews Model 2x12	$1029	----
-Damage, Ranged Miss Chance:		
+Ballistic Damage, Ranged Miss Chance:		
 	140 damage with a miss chance of 3 out to 10m	
 	105 damage with a miss chance of 4 out to 20m	
-	Slug Only; 115 damage with a miss chance of 5 out to 50m	
+	115 damage with a miss chance of 5 out to 50m - Slug Only 
 Auto Miss Chance:	+2,  -1 for every 9 Strength	
 Mag Size:		2 rounds of 12ga. $10 per bag of 8 shells.
 Reload DC:		38
@@ -619,10 +652,10 @@ Movement Speed Penalty:	-1m
 Notes/Description: Slug shells do 115 damage for all range brackets
 		
 ----Anvil Arms Hunting Shotgun	$1611	----
-Damage, Ranged Miss Chance:		
+Ballistic Damage, Ranged Miss Chance:		
 	145 damage with a miss chance of 2 out to 13m	
 	110 damage with a miss chance of 3 out to 26m	
-	Slug Only; 120 damage with a miss chance of 4 out to 60m	
+	120 damage with a miss chance of 4 out to 60m - Slug Only 
 Mag Size:		6 rounds of 12ga. $6 per bag of 8 shells.
 Reload DC:		45
 Fire Modes:		Pump Action
@@ -636,10 +669,10 @@ Notes/Description: Slug shells do 120 damage for all range brackets
 ===== Level 5 Weapons =====
 
 ----Matthews Over / Under	$1415	----
-Damage, Ranged Miss Chance:		
+Ballistic Damage, Ranged Miss Chance:		
 	140 damage with a miss chance of 2 out to 10m	
 	105 damage with a miss chance of 3 out to 25m	
-	Slug only; 115 damage with a miss chance of 4 out to 50m	
+	115 damage with a miss chance of 4 out to 50m - Slug Only 	
 Auto Miss Chance:	+1,  -1 for every 8 Strength	
 Mag Size:		2 rounds of 12ga . $10 per bag of 8 shells.
 Reload DC:		38
@@ -652,10 +685,10 @@ Movement Speed Penalty:	-1m
 Notes/Description: Slug shells do 115 damage for all range brackets
 		
 ----ECSC Mk900 	$1574	----	
-Damage, Ranged Miss Chance:		
+Ballistic Damage, Ranged Miss Chance:		
 	150 damage with a miss chance of 2 out to 10m	
 	115 damage with a miss chance of 3 out to 20m	
-	Slug only; 125 damage with a miss chance of 4 out to 50m	
+	125 damage with a miss chance of 4 out to 50m - Slug Only 
 Mag Size:		7 rounds of 12ga. $6 per bag of 8 shells.
 Reload DC:		45
 Fire Modes:		Pump Action
@@ -666,11 +699,10 @@ Movement Speed Penalty:	-0.5m
 Notes/Description: Slug shells do 125 damage for all range brackets
 		
 ----Partix LA10 B-CQ	$2029	----
-Damage:	see notes, Laser	
-Ranged Miss Chance:
+Laser Damage, Ranged Miss Chance:
 	110 damage with a miss chance of 2 out to 10m	
-	90 damage with a miss chance of 3 out to 20m	
-	70 damage with a miss chance of 3 out to 40m	
+	 90 damage with a miss chance of 3 out to 20m	
+	 70 damage with a miss chance of 3 out to 40m	
 Mag Size:		5 rounds of 15 kWh,mag fed. $6 per magazine
 Reload DC:		35
 Fire Modes:		Pump Action
@@ -680,11 +712,10 @@ Suppression Level:	Light
 Movement Speed Penalty:	-0.5m
 		
 ----NFA Combat 7 Shotgun	$2691	----
-Damage:	see notes	
-Ranged Miss Chance:		
+Ballistic Damage, Ranged Miss Chance:		
 	135 damage with a miss chance of 2 out to 10m	
 	100 damage with a miss chance of 3 out to 20m	
-	Slug only; 110 damage with a miss chance of 4 out to 50m	
+	110 damage with a miss chance of 4 out to 50m - Slug Only 
 Mag Size:		7 rounds of 12ga, mag fed. $9 per magazine
 Reload DC:		30
 Fire Modes:		Semi
@@ -696,11 +727,10 @@ Notes/Description: Slugs do 110 damage for all range brackets
 ===== Level 10 Weapons =====
 
 ----Matthews Model 3x12	$1492	----
-Damage:	see notes	
-Ranged Miss Chance:		
+Ballistic Damage, Ranged Miss Chance:		
 	140 damage with a miss chance of 3 out to 10m	
 	105 damage with a miss chance of 4 out to 20m	
-	Slug only; 115 damage with a miss chance of 5 out to 50m	
+	115 damage with a miss chance of 5 out to 50m - Slug Only 
 Auto Miss Chance:	+2,  -1 for every 9 Strength	
 Mag Size:		3 rounds of 12ga. $11 per bag of 8 shells.
 Reload DC:		38
@@ -713,10 +743,10 @@ Movement Speed Penalty:	-1.5m
 Notes/Description: Slug shells do 115 damage for all range brackets
 		
 ----RMM Auto-12	$3496	----
-Damage, Ranged Miss Chance:		
+Ballistic Damage, Ranged Miss Chance:		
 	135 damage with a miss chance of 2 out to 10m
 	105 damage with a miss chance of 3 out to 20m
-	Slug only; 110 damage with a miss chance of 4 out to 40m	
+	110 damage with a miss chance of 4 out to 40m - Slug Only 
 Auto Miss Chance:	+6,  -1 for every 3 Strength (starting at 5)	
 Mag Size:		16 rounds of 12ga, mag fed. $24 per magazine
 Reload DC:		45
@@ -729,10 +759,10 @@ Notes/Description:	CQB weapon.
 Notes/Description: Slug shells do 110 damage for all range brackets
 		
 ----Frontier Plas-12	$3253	----
-Damage, Ranged Miss Chance:		
-	160 Plasma damage with a miss chance of 1 out to 10m	
-	140 Plasma damage with a miss chance of 3 out to 20m
-	110 Plasma damage with a miss chance of 4 out to 35m	
+Plasma Damage, Ranged Miss Chance:		
+	160 damage with a miss chance of 1 out to 10m	
+	140 damage with a miss chance of 3 out to 20m
+	110 damage with a miss chance of 4 out to 35m	
 Mag Size:		10 rounds of Argon-12, magfed. $15 per magazine
 Reload DC:		45
 Fire Modes:		Pump Action
@@ -743,10 +773,10 @@ Movement Speed Penalty:	-0.5m
 Notes/Description:	3x Plasma burn on hit.
 		
 ----Partix LA36 CQ	$4618	----
-Damage, Ranged Miss Chance:		
-	130 Laser damage with a miss chance of 1 out to 15m	
-	110 Laser damage with a miss chance of 2 out to 30m	
-	Focus beam only; 110 Laser damage with a miss chance of 3 out to 60m	
+Laser Damage, Ranged Miss Chance:		
+	130 damage with a miss chance of 1 out to 15m	
+	110 damage with a miss chance of 2 out to 30m	
+	110 damage with a miss chance of 3 out to 60m - Focus Beam Only 
 Mag Size:		8 rounds of 20 kWh,mag fed. $12 per magazine
 Reload DC:		35
 Fire Modes:		Pump Action
@@ -1398,7 +1428,7 @@ Ranged Miss Chance:
 	2 out to 10m	
 	3 out to 20m	
 	4 out to 50m	
-Mag Size:		12 rounds of ??. $50 per magazine
+Mag Size:		12 rounds of 35mm shells (Flechette). $50 per magazine
 Reload DC:		40
 Fire Modes:		Semi
 Armor Piercing Level:	2	
@@ -1422,9 +1452,9 @@ Armor Piercing Level:	n/a
 Reflex Modifier:	-30	
 Suppression Level:	Medium*	
 Movement Speed Penalty:	-3m	
-Notes/Description:	Only requires 1 shot for Medium Suppression. 110 explosive damage, 70 explosive to 2m adjacent (radius).
-Damages vehicles. Each shot into a door reduces the DC of kicking down that door by 65. If the DC becomes 0, the door is blown open.
-No optics or barrel attachments.	
+Notes/Description:	Only requires 1 shot for Medium Suppression. 110 Explosive Damage to the primary target, 70 Explosive Damage
+to other targets in a 2m radius. Damages vehicles. Each shot into a door reduces the DC of kicking down that door by 65. If the 
+DC becomes 0, the door is blown open. No optics or barrel attachments.	
 		
 ----Shiva Antimaterial Rifle SAR	$7144	----
 Damage:	300 Ballistic
@@ -1631,7 +1661,7 @@ Rocket Launchers:
 =====	LEVEL 5 REQUIREMENT WEAPONS	=====
 
 ----ECSC RPE-B7	$2308	----	
-Damage:	120 explosive damage
+Damage:	120 Explosive Damage
 Damage Radius: 5m radius
 Ranged Miss Chance:		
 	3 out to 10m	
@@ -1649,7 +1679,7 @@ Notes:	Considered a secondary weapon. One rocket takes the space of 2 secondary 
 =====	LEVEL 10 REQUIREMENT WEAPONS	=====
 	
 ----ECSC RPE-CLS8	$6168	----
-Damage:	100 explosive damage	
+Damage:	100 Explosive Damage	
 Damage Radius: 8m radius
 Ranged Miss Chance:		
 	3 out to 10m	
@@ -1666,7 +1696,7 @@ Notes:	Considered a secondary weapon. One rocket takes the space of 2 secondary 
 	All affected targets roll DC 50 shock to resist stun for 1 turn.
 		
 ----Anvil Arms AT-20	$5599	----
-Damage:	150 explosive damage
+Damage:	150 Explosive Damage
 Damage Radius: 3m radius
 Ranged Miss Chance:		
 	2 out to 15m	
