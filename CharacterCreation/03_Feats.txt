@@ -507,6 +507,14 @@ Move up to your speed and end next to a barrier behind which you can take
 cover. You hunker behind that cover as a free action. Cannot be used in 
 concert with run 'n' gun.
 
+Desperate Crawl [20 Nanites]:
+Prerequisite:
+When downed instead of not being able to move you may crawl half of your 
+move speed or 4m every two actions whichever distance is shorter. Each 
+time you do this, you must pay 20 nanites. You still cannot speak, and you
+cannot take any other action. Death saving throws are not actions, and must
+be thrown normally.
+
 Flash Dance: 
 Prerequisites:
 Expend 10*lvl Nanites. Allows the user to make Lvl number of attacks with 
