@@ -352,11 +352,38 @@ Medic-kit, medic user: Works as normal, but add 30 to amount healed.
 
 
 ==============================
-Death
+Death, Dying and Downed
 ==============================
 Oh no! You have less than 1 health point left! What now!?!
 
 The good news is you are not* dead yet. You are bleeding out. 
+When your character falls below 1 hit point, you get 3 saving throws called Death 
+Saving Throws. These throws are not tied to any attribute. When you fail any three 
+times, you die. If you succeed, you do not lose one of these three Death 
+Saving Throws, but will still have to roll next round if you are not stabalized. 
+Once you have expended a saving throw, the next time you fall 
+below 1 health point your saving throws fall to 2. the next time, you have 1. you 
+can only replenish these saving throws by going a whole encounter without having 
+to use any. Each encounter that you go without expending a saving throw 
+replenishes one saving throw up to a maximum of three.
+
+Downed
+The state of having less than one Health Point is called being "downed." It is also
+sometimes called "bleeding out." They are equivalent. While a character is downed,
+they cannot move, cannot stand under their own power and fall prone if not 
+supported by other means. They cannot speak, but can mumble incomprehensively.
+Every turn that a character takes while they are downed, they must make a Death
+Saving Throw of DC 50. Success and failure of these throws is detailed above.
+
+Stabalize
+As an action, a teammate may bring you back up to 1 health point by suceeding 
+on a Medicine skill check to stabalize you. Once stabalized, you may take actions 
+and speak as normal. Don't forget that a recently stabalized character may need 
+to take an action to retrieve a dropped weapon and/or take an action to stand 
+back up if you have fallen.
+The skill DC to stabalize a fallen comrade is 80. Medicine skill, INT mod, and any
+bonuses from medical equipment such as medpacks may be added to that roll. 
+
 
 *Footnote: Some hazards can reduce you to zero health points and kill you 
 instantly. Some examples are falling several stories, lava baptisms,
@@ -560,11 +587,7 @@ Medicine Skill check. DC varies. If you have a bleed condition, seek medical aid
     immediately, You CAN Bleed Out, you have been warned.
 Burning - 2d10 damage per turn. Broken with a Maneuver Skill Check. DC 40. 
     Every 2 turns, the degree of the burn intensifies
-Downed - Your health has fallen below 0. Every turn in this condition, you 
-    must pass a DC 70 Fort save. You are allowed a number of failures equal to 
-    your Fort score. when you have failed more times than your Fort score, you 
-    die. While in this state, you cannot take any actions, but can mumble or speak 
-    incomprehensibly.
+Downed - Your health has fallen below 0. See Death and Dying above.
 Frozen - d10 damage per turn. lasts until a source of heat is applied to the 
     wound, or with Medicine Skill check, DC 50
 Fear - No actions, except running away form the source of fear, or rolling to 
