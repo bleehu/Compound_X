@@ -115,30 +115,30 @@ SPECO Under Mounted Chainsaw SPC100			1		70+2xDex + 2xBleed
 
 =====	LEVEL 10 REQUIREMENT WEAPONS	=====
 
----- xxx		$xx	----
-Damage:		   x
-Range:     	   x
+---- Eliazar E500 Assisted-Sledgehammer		$xx	----
+Damage:		   50 + 6*STR
+Range:     	   2m
 Accuracy Modifier: x
 DEX Requirement:   x
 Notes/Description: x
 
----- xxx		$xx	----
-Damage:		   x
-Range:     	   x
+---- Eliazar E5500 Power Fist		$xx	----
+Damage:		   50 + 5*STR
+Range:     	   Adjacent (1m)
 Accuracy Modifier: x
 DEX Requirement:   x
 Notes/Description: x
 
----- xxx		$xx	----
-Damage:		   x
-Range:     	   x
+---- Muzashi VAE Katana		$xx	----
+Damage:		   60 + 1*STR + 3*DEX + 1xBleed
+Range:     	   2m
 Accuracy Modifier: x
 DEX Requirement:   x
 Notes/Description: x
 
----- xxx		$xx	----
-Damage:		   x
-Range:     	   x
+---- Eliazar Plasma Sword		$xx	----
+Damage:		   50 + STR + 2*DEX + 3xPlasma Burn
+Range:     	   2m
 Accuracy Modifier: x
 DEX Requirement:   x
 Notes/Description: x
@@ -259,6 +259,8 @@ Pistols:
 (All pistols are considered CQB Weapons);
 Minimum Strength 2, Reload DC 20 unless otherwise noted. With DEX less than 5, 
 Single Action revolvers must be re-cocked for 1 action. Reload time 2 Actions.
+
+All pistols have Suppression Level - Light (unless otherwise noted).
 ============================================================
 
 =====	LEVEL 1 REQUIREMENT WEAPONS	=====
