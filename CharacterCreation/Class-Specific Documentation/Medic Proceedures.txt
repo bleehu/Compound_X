@@ -1,10 +1,10 @@
-Medics have the skills and tools to perform certain proceedures.
+Medics have the skills and tools to perform certain procedures.
 
 
 Contagions:
 Some of the more ... questionable... talents of the medic require the use of 
 mutated pathogens. The medic's tools can mutate existing biologic material
-to produce certain (usually harmfull) traits. Contagions are not stored between
+to produce certain (usually harmful) traits. Contagions are not stored between
 conflicts and die at the end of an engagement.
 
 Adrenaline:
@@ -17,7 +17,7 @@ The net effect is that a medic starts every engagement with 100 adrenaline
 points. 
 
 Needles:
-Some abilities require the expendature of large, spikey needles. They can
+Some abilities require the expenditure of large, spiky needles. They can
 be purchased at most medical centers and some weapons stores.
 
 =================================
@@ -29,7 +29,7 @@ Adrenaline Cost:40
 Duration: 	Free Action
 Range:		Self
 Effect:		Increase move speed to 12m per action
-and get a +30 to accrobatics checks. Effect persists for 1 turn. While 
+and get a +30 to acrobatics checks. Effect persists for 1 turn. While 
 in a medical emergency, the Doc suffers a +28% chance to miss, 'cause
 they have more important things to worry about. Cannot be used to move
 more than 36m per turn.
@@ -39,7 +39,7 @@ Adrenaline Cost:30
 Needle Cost:	1
 Duration: 	2 Actions
 Range:		40m
-Effect:		10 % chance to miss. Deal 52 piercing damage.
+Effect:		10 % chance to miss. Deal 52 damage.
 If target has no shield left and is still alive, apply a 
 poison payload of your choice.
 
@@ -48,7 +48,7 @@ Adrenaline Cost:30
 Needle Cost:	1
 Duration: 	1 Action
 Range:		40m
-Effect:		16 % chance to miss. Deal 52 piercing damage.
+Effect:		16 % chance to miss. Deal 52 damage.
 If target has no shield left and is still alive, apply a 
 poison payload of your choice.
 
@@ -59,7 +59,7 @@ Duration: 	2 Actions
 Range:		30m
 Effect:		You launch off three harmasist spikes in quick succession using both
 hands. Each has an 18 % chance to miss. You may pick up to three targets to 
-launch at. Each spike that hits deals 52 piercing damage. If target has no 
+launch at. Each spike that hits deals 52 damage. If target has no 
 shield left and is still alive, apply a poison payload of your choice.
 
 /////	Peircing Spike
@@ -67,10 +67,10 @@ Adrenaline Cost:35
 Needle Cost: 1
 Duration: 	2 Actions
 Range:		45m
-Effect:		10 % chance to miss. Deal 42 piercing damage.
-ignores sheilds and balistic armor. Apply a poison payload of your choice.
+Effect:		10 % chance to miss. Deal 42 damage.
+ignores shields and ballistic armor. Apply a poison payload of your choice.
 
-/////	Poison: Mild Halucinogen
+/////	Poison: Mild Hallucinogen
 Adrenaline Cost:20
 Contagion Cost: 1
 Duration: 	5 turns
@@ -78,13 +78,13 @@ Range:		Payload (use in combination with other powers)
 Effect:		Target must pass a DC 70 Will check. If they fail, 
 they suffer one of four effects as chosen by GM or by random dice roll:
 - Target panics and runs away as fast as he can
-- Target beleives nearest ally is a vicious, man-eating, submarine-sized
+- Target believes nearest ally is a vicious, man-eating, submarine-sized
 ferret, bent on eating his belly button and attacks accordingly
 - Target is tricked into thinking he is being eaten alive by bugs and
 strips naked immediately and attempts to squish them all
 - Target discovers that their weapon is actually a sprinkler, and begins
-watering the grass dilligently
-Halucinogens only affects biologic targets.
+watering the grass diligently
+Hallucinogens only affects biologic targets.
 
 /////	Poison: Depressant
 Adrenaline Cost:30
@@ -97,14 +97,14 @@ Depressant always deploys as an area of effect cloud, even with
 deploment powers that otherwise wouldn't. +5m radius area of effect.
 Depressant only affects biologic targets.
 
-/////	Quarentine
+/////	Quarantine
 Adrenaline Cost:120
 Duration: 	1 Action
-Range:		2 to 8m radius within 30m at your discression
+Range:		2 to 8m radius within 30m at your discretion
 Effect:		All enemies within the the radius of effect cannot leave 
 the area of effect. Effect persists for 8 turns.
 
-/////	Poison: Potent Halucinogen
+/////	Poison: Potent Hallucinogen
 Adrenaline Cost: 50
 Contagion Cost: 2
 Duration: 	10 turns
@@ -112,7 +112,7 @@ Range:		Payload (use in combination with other powers)
 Effect:		Target must pass a DC 150 Will check. If they fail, 
 they suffer one of four effects as chosen by the Doc or by random dice roll:
 - The target realizes they are not themselves at all, but actually a vital part
-of the floor. They immediately set everything down on themselves and dutifuly
+of the floor. They immediately set everything down on themselves and dutifully
 lay down and become one with the floor. Also, they can see music.
 - The target freaks out, and attempts to get his nearest compatriot to flee 
 with them. They make a charisma check against their compatriot to see if 
@@ -121,9 +121,9 @@ they are successful. Regardless, the target flees.
 love of their life and makes advances according to their custom. If the 
 target is alone, the nearest person-sized object will do.
 - The target realizes that the whole time, they were fighting on the wrong
-side. They immediatly join your valiant squad of fighting squids in the 
+side. They immediately join your valiant squad of fighting squids in the 
 pursuit of cake. The target has the worst munchies.
-Halucinogens only affects biologic targets.
+Hallucinogens only affects biologic targets.
 
 /////	Poison: Fentanyl Derivative
 Adrenaline Cost: 60
@@ -169,10 +169,10 @@ for any reason, even if it has reason to fear for its life. It will comply
 with simple commands slowly, as if in a stupor. Prolonged exposure to PAX
 will result in targets ceasing to eat, sleep, or move until they starve to
 death. In the event that a 14 is rolled, the target reacts badly to the PAX.
-The target will enter an unsatiable rage, and will attack the nearest living
-thing - bare handed if need be - with total disregard for the target's saftey.
+The target will enter an insatiable rage, and will attack the nearest living
+thing - bare handed if need be - with total disregard for the target's safety.
 A target that has reacted badly to PAX will never lie down. It will continue
-to kill and eat any living target until it dies of overconsumption or exaustion.
+to kill and eat any living target until it dies of overconsumption or exhaustion.
 PAX only affects biologic targets.
 
 /////	Epidemic
@@ -189,7 +189,7 @@ Duration: 	20 turns
 Range:		Payload (use in combination with other powers)
 Effect:		The biologic agent eats away at the target's flesh and biologic 
 parts at an astonishing rate. The target takes 3d10 damage per turn for the 
-duration of their afliction. They can be cured by decontamination devices or 
+duration of their affliction. They can be cured by decontamination devices or 
 specially trained medics. Targets that are wearing a gas mask, but have any 
 exposed biology are affected by this even if a deployment method says they 
 wouldn't. Use of biologic weapons are severely frowned upon in most civilized 
@@ -212,9 +212,9 @@ equal to 4 * Strength. Ignore armor.
 Contagion Cost: 1
 Duration: 	2 Actions
 Range:		Payload (use in combination with other powers)
-Effect:		Truth serum. Principle uses are for noncombat situations. While any 
+Effect:		Truth serum. Principle uses are for non-combat situations. While any 
 character could procure similar substances as a role-playing item for about $60 
-worth of chemistry suplies and a chemistry check of DC 80 a piece, the value of 
+worth of chemistry supplies and a chemistry check of DC 80 a piece, the value of 
 this trick is that it's free, almost unlimited and you don't need to worry about 
 smuggling it anywhere.
 
@@ -224,7 +224,7 @@ Needle Cost: 1
 Duration: 	2 Actions
 Range:		5m radius centered at a point up to 30m from the Doc
 Effect:		You add an aerator to the end of your needle and launch it not at 
-one target in particular, but among the frey hoping to hit multiple targets.
+one target in particular, but among the fray hoping to hit multiple targets.
 Targets without gas masks have the poison payload of your choice applied to 
 them.
 
@@ -235,7 +235,7 @@ Duration: 	two weeks
 Range:		Payload (use in combination with other powers)
 Effect:		The biologic agent eats away at the target's flesh and biologic 
 parts at an astonishing rate. The target takes 20 + 2d10 damage per turn for the
-duration of their afliction. They can be cured by decontamination devices 
+duration of their affliction. They can be cured by decontamination devices 
 or specially trained medics. Targets that are wearing a gas mask, but have any
 exposed biology are affected by this even if a deployment method says they 
 wouldn't. Use of biologic weapons are severely frowned upon in most civilized 
@@ -246,7 +246,7 @@ Adrenaline Cost: 60
 Contagion Cost: 1
 Duration: 	almost instantaneous
 Range:		Payload (use in combination with other powers)
-Effect:		A biologic target aflicted with this poison takes 180 damage that 
+Effect:		A biologic target afflicted with this poison takes 180 damage that 
 ignores shields, silences the target and prevents them from casting nanite 
 spells for 10 turns if they survive.
 
@@ -258,9 +258,9 @@ Range:		40m
 Effect:		The target has the poison payload of your choice applied to them.
 Any time another biologic target (friend or foe) comes within 8m of a target 
 infected with plague that new target gets infected too. This effect is 
-recoursive without limit, but a target that has made a save against the 
-payload delivered by this proceedure is inoculated from subsequent recoursions
-of this proceedure.
+recursive without limit, but a target that has made a save against the 
+payload delivered by this procedure is inoculated from subsequent recursions
+of this procedure.
 
 /////	Nanite Push
 Adrenaline Cost: 40
@@ -284,7 +284,7 @@ Duration: 	2 Actions
 Range:		5m radius centered at a point up to 30m from the Doc
 Effect:		Your nanites form microscopic bonds with any solid surface allowing 
 movement at your speed along any flat, solid surface that can support your 
-weight. The proceedure for doing this without blowing up one's heart or leaving
+weight. The procedure for doing this without blowing up one's heart or leaving
 one's spine behind takes more training than the average soldier receives. 
 
 /////	Dex-10
@@ -301,7 +301,7 @@ Adrenaline Cost: 60
 Duration: 	2 Actions
 Range:		A 45 degree angle centered on the Doc and extending out 15m
 Effect:		Biologic targets in the area of effect without gas masks have the
- oison payload of your choice applied to them.
+poison payload of your choice applied to them.
 
 /////	Illegal Penethylamine Agonist
 Adrenaline Cost: 60
@@ -327,8 +327,8 @@ Contagion Cost: 3
 Duration: 	2 Actions
 Range:		Effects apply only to the Doc
 Effect:		This is a fully customized brew specially grown to bond with your
-personal biochemestry. The effect lasts for 8 turns. You gain:
-*	-20% to miss with melee, guns, thrown weapons, or Proceedures
+personal biochemistry. The effect lasts for 8 turns. You gain:
+*	-20% to miss with melee, guns, thrown weapons, or Procedures
 *	an additional action per turn
 *	an additional temporary 40 hp
 *	an additional 2m move speed per action. 
@@ -351,7 +351,7 @@ Contagion Reward:		2
 Range:			Touch
 Action:			1 Action
 Effect:			Only usable on an person that is bleeding out. The person is
-no longer dying and has 30 hp, rather than having to stabalize the target and
+no longer dying and has 30 hp, rather than having to stabilize the target and
 then heal them as a separate action. This trick only works on biologic 
 patients.
 
@@ -395,7 +395,7 @@ Adrenaline Reward:	40
 Contagion Reward:		1
 Range:			Touch
 Action:			4 Actions
-Effect:			Stands for Persistant Emergent Generalists, a type of surgical 
+Effect:			Stands for Persistent Emergent Generalists, a type of surgical 
 nanobot that stays in the patient's bloodstream and continues to administer 
 care over an extended period of time. Effect lasts for 10 turns and heals 10 
 health every turn. DC 60 to hack. If nanobots are hacked, deals damage instead. 
@@ -407,7 +407,7 @@ Adrenaline Reward:	50
 Contagion Reward:		2
 Range:			Touch
 Action:			2 Actions
-Effect:			Stands for Persistant Emergent Generalists, a type of surgical 
+Effect:			Stands for Persistent Emergent Generalists, a type of surgical 
 nanobot that stays in the patient's bloodstream and continues to administer 
 care over an extended period of time. Effect lasts for 5 turns and heals 20 
 health every turn. DC 130 to hack. If nanobots are hacked, deals damage instead. 
@@ -440,33 +440,33 @@ Action:			1 Action
 Effect:			That's right... let it all out... Tastes a special kind of 
 awful, don't it? You give your ally a quick shot of stuff that makes their
 system reject any foreign substances in their system. Any malicious nanites or
-poisons or toxins or parasites are imediately expelled as they violenty puke.
-This cancels the effect of domination, any NF variants, poison, halucinogens,
+poisons or toxins or parasites are immediately expelled as they violently puke.
+This cancels the effect of domination, any NF variants, poison, hallucinogens,
 ongoing internal CS burns, depressants, and paralytics other than physical
-impact. This proceedure only works on biologic targets.
+impact. This procedure only works on biologic targets.
 
 /////	Mild Analgesic
 Adrenaline Reward:	10
 Range:			Touch
 Action:			1 Action
-Effect:			You shoot your ally with a mild pain releiver, not enough to
+Effect:			You shoot your ally with a mild pain reliever, not enough to
 make them really happy or cloud their mind, but enough to help them work
 through the pain of a decent injury. For 5 turns, your ally gets 30 temporary
-health. This proceedure only works on biologic patients. You may not give a 
+health. This procedure only works on biologic patients. You may not give a 
 patient more than one dose of analgesic per engagement, lest they suffer dire
-side effects like irational happiness, lack of focus, addiction and cardiac
+side effects like irrational happiness, lack of focus, addiction and cardiac
 arrest.
 
 /////	Strong Analgesic
 Adrenaline Reward:	22
 Range:			Touch
 Action:			1 Action
-Effect:			You shoot your ally with a strong pain releiver, not enough to
+Effect:			You shoot your ally with a strong pain reliever, not enough to
 make them really happy or cloud their mind, but enough to help them work
 through the pain of a decent injury. For 5 turns, your ally gets 60 temporary
-health. This proceedure only works on biologic patients. You may not give a 
+health. This procedure only works on biologic patients. You may not give a 
 patient more than one dose of analgesic per engagement, lest they suffer dire
-side effects like irational happiness, lack of focus, addiction and cardiac
+side effects like irrational happiness, lack of focus, addiction and cardiac
 arrest.
 
 /////	Illicit Analgesic
@@ -477,11 +477,11 @@ Effect:			The ECSC really shouldn't find out that you've been stocking up
 on this stuff. You mentally rationalize your decision to inject your ally with
 it as you slide the needle between their armor plates. Your ally gains 100 
 temporary health, but at the cost of -2 temporary perception and intelligence.
-This proceedure only works on biologic patients. You may use this power more 
+This procedure only works on biologic patients. You may use this power more 
 than once on a patient during an engagement, but after the first dose, the 
 negative side effects persist for the rest of the engagement and stack. If at 
 any point during the engagement, perception drops below 1, the patient will go
-blind or deaf or both at the GM's discression. If Intelligence drops below 1 at
+blind or deaf or both at the GM's discretion. If Intelligence drops below 1 at
 any time during the engagement, the patient suffers brain death.
 
 /////	Healing Nova
@@ -492,7 +492,7 @@ Action:			2 Actions
 Effect:			Every biologic patient in range has one wound healed by 40 
 points. The doc gets n adrenaline points back where n is the number of patients healed.
 Heals allies and enemies. The doc gets a -200 to stealth rolls when performing
-this proceedure.
+this procedure.
 
 /////	Improved Healing Nova
 Adrenaline Reward:	30 * n
@@ -502,16 +502,16 @@ Action:			2 Actions
 Effect:			Every biologic patient in range has Two wounds healed by 40 
 points. The doc gets n adrenaline points back where n is the number of 
 wounds healed. Only Heals Allies. The doc gets a -50 to stealth rolls when 
-performing this proceedure.
+performing this procedure.
 
-/////	5-HT Inhibiter
+/////	5-HT Inhibitor
 Adrenaline Reward:	10
 Range:			Touch
 Action:			1 Action
 Effect:			your ally gets a 10% bonus to perception checks, and 5% bonuses
-to lockpicking, explosive or hacking checks. This effect lasts until the next
+to lock-picking, explosive or hacking checks. This effect lasts until the next
 time one of those effects are triggered. Only works on biologic patients. a 
-patient cannot have more than one dose of 5-HT Inhibiter. 
+patient cannot have more than one dose of 5-HT Inhibitor. 
 
 /////	Dex-7
 Adrenaline Reward:	20
@@ -536,7 +536,7 @@ trick only works on biologic patients.
 Adrenaline Reward:	25
 Range:			Touch
 Action:			1 Action
-Effect:			Phentermine derivative manufactured by Sakai Corp on kimon in
+Effect:			Phentermine derivative manufactured by Sakai Corp on Kimon in
 sector 5. Central nervous system stimulant. Patient gets a +20 to reflex rolls
 and a +20 to initiative (turn order) for 5 turns. Oni doesn't give more than one
 turn per round. May only be used on biologic patients. Cannot be used on a 
@@ -548,7 +548,7 @@ Adrenaline Reward:	40
 Range:			Touch
 Action:			1 Action
 Effect:			For 5 turns, the patient moves 3m more per action (max 13), gets 
-a -14% to miss with guns and a +30 to rolls to parkour around obsticles. As a 
+a -14% to miss with guns and a +30 to rolls to parkour around obstacles. As a 
 side effect, the target suffers a +25% to miss with melee weapons and a -15 to
 charisma rolls from being jittery. Increasing the dosage does not increase the
 effects. This trick only works on biologic patients.  
@@ -558,7 +558,7 @@ Adrenaline Reward:	20*n
 Range:			20m radius centered on the Doc
 Action:			1 Action
 Effect:			Reveal active central nervous systems within a 20m radius of the Doc.
-Every target revealed by Sense Heartbeat that is comminicated to an ally and is
+Every target revealed by Sense Heartbeat that is communicated to an ally and is
 then defeated grants the Doc 20 adrenaline points. This ability may be 
 sustained for 5 adrenaline per turn as a free action.
 
