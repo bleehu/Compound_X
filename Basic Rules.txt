@@ -352,7 +352,7 @@ Medic-kit, medic user: Works as normal, but add 30 to amount healed.
 
 
 ==============================
-Death, Dying and Downed
+Death, Dying, and Downed
 ==============================
 Oh no! You have less than 1 health point left! What now!?! The good news is you
  are not* dead yet. But you are doing what's known as "bleeding out". The first 
@@ -370,7 +370,7 @@ Oh no! You have less than 1 health point left! What now!?! The good news is you
 Downed
 The state of having less than one Health Point is called being "downed." It is also
 sometimes called "bleeding out." They are equivalent. While a character is downed,
-they cannot move, cannot stand under their own power and fall prone if not 
+they cannot move, cannot stand under their own power, and fall prone if not 
 supported by other means. They cannot speak, but can mumble incomprehensibly.
 Every turn that a character takes while they are downed, they must make a Death
 Saving Throw of DC 50. Success and failure of these throws is detailed above.
