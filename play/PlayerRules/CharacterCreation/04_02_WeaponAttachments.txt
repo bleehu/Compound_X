@@ -3,7 +3,7 @@ weapon. Most Attachments can be affixed to any weapon unless otherwise
 noted. Ask a GM if you are not sure.
 
 Please note that unless otherwise specified, only one attachment of a given type may
-be used. For instance, one cannot use two red lasers to get a -30% to miss chance, nor 
+be used. For instance, one cannot use two red lasers to get a -4 Miss Chance, nor 
 can you use both a reflex sight and a 3.2x scope. 
 
 ========================================
