@@ -713,11 +713,13 @@ they immediately, 'Hit the Dirt'. When you Hit the Dirt, you dive to the ground,
 going prone, within a 2m range of where they stood (DEX movement rules apply 
 as normal). Hitting the dirt consumes the 1st action of their next turn.
 
-To fire, you must be within the longest range limit of your gun, i.e. be at a distance
-smaller than your gun's largest Range Bracket*, and you must not be out of ammo. 
+To fire, you must be within the longest range limit of your gun*, i.e. be at a distance
+smaller than your gun's largest Range Bracket**, and you must not be out of ammo. 
 You can aim and fire or, more simply, just fire at a target. If you shoot without 
 aiming, you are "Hip Firing" and incur additional aiming penalties (see Hip Firing, below). 
-*You cannot shoot weapons at a distance of over 100m without magnifying sights or over 
+*Actually you can fire at any range you like, but you won't necessarily hit anything.
+Except for air, you will always hit air (unless you're in space).
+**You cannot shoot weapons at a distance of over 100m without magnifying sights or over 
 150m without 2x+ magnification.
 
 Most weapons are Semi-Auto, meaning that each time you pull the 
