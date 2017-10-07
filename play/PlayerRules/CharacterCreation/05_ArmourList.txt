@@ -36,10 +36,8 @@ Armor Systems are composed of an armor rig and a protective material.
 Having lots of armor may slow you down, but armor will prevent you from 
 being easy prey. Armor rigs can be broken down into 4 pieces: helmets,
 chest rigs, arm rigs, and leg rigs. 
-	Helmets protect against special abilities that target your face-hole so 
-they aren't needed until later in the game, or they are probably never needed
-becayse that's not how do teh bulluts. 
-	The other 3 riggings provide ammunition space and (most rigs) provide
+	Helmets mostly help for RP effects or holding night vision goggles.
+The other 3 riggings provide ammunition space and (most rigs) provide
 space for installing an armor material. Armor Materials must be purchased 
 separately than Armor Rigs. Also, armor systems do not include any protection
 without an armor material. If you purchase more than one material* to cover 
