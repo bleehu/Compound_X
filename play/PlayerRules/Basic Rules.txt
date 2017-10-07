@@ -562,7 +562,7 @@ and add any relevant skill(s)**. The result must be greater than the opponent's
 Guard DC: (DEX * 4)/10 + any skill** in combat. Drop any decimal remainder. If you
 successfully hit your opponent, you roll armor as normal (for more details, see below sections 
 "Armor and Getting Hit" and "Damage Types and Armor Types"). Your damage dealt is often
-based on a combination of your DEX and STR modifiers. If you are wielding a weapon against
+based on a combination of your DEX and STR. If you are wielding a weapon against
 an unarmed opponent, they may still incur damage depending on their skill.
 	NOTE: if you are fighting unarmed, you can (normally) deal full non-lethal damage or 
 half lethal damage (your choice). Non-lethal damage should be recorded as a separate (duplicate) 
