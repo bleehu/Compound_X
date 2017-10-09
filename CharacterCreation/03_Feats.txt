@@ -88,6 +88,13 @@ Make a stealth check to hide your chosen pistol, shotgun, or smg on your
 person. Minimum score of 20. Roll determines DC for enemy to actively search 
 and find weapon.
 
+Desperate Crawl:
+Prerequisite:
+When downed instead of not being able to move you may crawl half of your 
+move speed or 4m every two actions whichever distance is shorter. You still 
+cannot speak, and you cannot take any other action. Death saving throws are 
+not actions, and must be thrown normally.
+
 Double Tap: 
 Prerequisites:
 Whenever your hit falls into extra-crit range, fire another bullet as a free
@@ -506,14 +513,6 @@ Prerequisites: Dex of 4 or more
 Move up to your speed and end next to a barrier behind which you can take 
 cover. You hunker behind that cover as a free action. Cannot be used in 
 concert with run 'n' gun.
-
-Desperate Crawl [20 Nanites]:
-Prerequisite:
-When downed instead of not being able to move you may crawl half of your 
-move speed or 4m every two actions whichever distance is shorter. Each 
-time you do this, you must pay 20 nanites. You still cannot speak, and you
-cannot take any other action. Death saving throws are not actions, and must
-be thrown normally.
 
 Flash Dance: 
 Prerequisites:
