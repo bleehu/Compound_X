@@ -523,9 +523,9 @@ range.
 Last Stand [40 Nanites]:
 Prerequisite: Level 4
 Don't die alone. Always bring a friend.
-When downed, on a succesful Death Saving throw, you may take an action to do
-one of the following: Draw a one-handed weapon such as a pistol or SMG, Aim,
-or fire with a to-miss penalty of 2.  
+When downed you may take an action to do one of the following: Draw a 
+one-handed weapon such as a pistol or SMG, Aim, or fire with a to-miss 
+penalty of 2.  
 
 Multi-Target [ X*40 Nanites]: 
 Prerequisites:
