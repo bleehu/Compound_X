@@ -7,8 +7,8 @@ a 'Miss Chance'. This modifier is added to your combat dex modifier and
 and any relevant skill(s) to help you beat your opponent's guard DC.
 Melee weapons don't normally pierce armor, unless they state otherwise.
 
-If you have Hand-to-Hand trained, +10 damage to all melee attacks with a weapon.
-Instead, if you have Hand-to-Hand Expert, +20 damage to all melee attacks with a weapon. 
+If you have Hand-to-Hand trained, +10 damage for all melee weapons and unarmed fighting.
+Instead, if you have Hand-to-Hand Expert, +20 damage for all melee weapons and unarmed fighting. 
 
 Also, If you have melee combat skill >=20 then all DEX or STR requirements for 
 melee weapons are reduced by 1.
@@ -16,14 +16,14 @@ melee weapons are reduced by 1.
 
 ==== UNARMED FIGHTING ====
 
-----Hand-to-Hand [untrained] 	Free	---- 
+----Hand-to-Hand [untrained] 	Free	----
 Damage:		    5 + STR + DEX
 Range:        	    Adjacent (1m)
 Accuracy Modifier:  -2
 DEX Requirement:    2
 
----- Hand-to-Hand [Trained]	---- 
-(Requires 3 DEX, 10 skill in Melee Combat or Unarmed Combat)
+----Hand-to-Hand [Trained]	----
+(10 skill in Melee Combat or Unarmed Combat)
 Damage:		    5 + STR + DEX + [Melee Combat skill] / 2
 Range:      	    Adjacent (1m)
 Accuracy Modifier:  -1
@@ -45,7 +45,7 @@ Notes/Description: 50% chance to disarm target (unless weapon is part of target)
 
 =====	LEVEL 1 REQUIREMENT WEAPONS	=====
 
----- Eliazar Plasma Torch		$240	----
+----Eliazar Plasma Torch		$240	----
 Damage:		   30 + 2x Plasma Burn
 Range:     	   Adjacent (1m)
 Accuracy Modifier: +1
@@ -53,13 +53,13 @@ STR Requirement:   3
 Notes/Description: Plasma. Can quickly repair vehicles with welding materials, seal/cut through 
 	moderate doors, and make temporary cover. -40% stealth for being quiet on stealth attacks.
 
----- Gurbur G1 Combat Knife		$315	---- 
+----Gurbur G1 Combat Knife		$315	---- 
 Damage:		   40 + STR + 2*DEX + 1xBleed
 Range:     	   Adjacent (1m)
 Accuracy Modifier: +1
 DEX Requirement:   3
 
----- Gurber GS101 Combat Sword		$680	----
+----Gurber GS101 Combat Sword		$680	----
 Damage:		   50 + 2*STR + 2*DEX + 1xBleed
 Range:     	   2m
 Accuracy Modifier: +2
@@ -75,7 +75,7 @@ DEX Requirement:   5
 Notes/Description: You can grapple after any successful basic melee attack. +10% Skill on grappling checks.
 	Whenever you roll a successful grappling check, you may deal [3*STR or 3*DEX] damage to your opponent.
 
----- Guri Carbon Whip		$560	----
+----Guri Carbon Whip		$560	----
 Damage:		   30 + 3*STR + 2*DEX
 Range:     	   3m
 Accuracy Modifier: +1
@@ -84,14 +84,14 @@ Notes/Description: Requires "Weapon Use [Exotic]". Can grapple limbs from range 
 	movement (1m for every 5 [DEX or STR]). Can disarm weapons from range according to Hand-to-Hand [trained] or 
 	[Expert] disarm rules (you must have [Trained] or [Expert] to use their respective rules).
 
----- SPECO SP10 VAE Combat Knife		$640	----
+----SPECO SP10 VAE Combat Knife		$640	----
 Damage:		   45 + STR + 2*DEX + 1xBleed
 Range:     	   Adjacent (1m)
 Accuracy Modifier: +1
 DEX Requirement:   4
 Notes/Description: Voltage Aligned Edge; ignores standard armor
 
----- SPECO SPC50 VAE Circular Saw		$695	----
+----SPECO SPC50 VAE Circular Saw		$695	----
 Damage:		   55 + STR + 1xBleed
 Range:     	   Adjacent (1m)
 Accuracy Modifier: +1
@@ -99,128 +99,211 @@ STR Requirement:   4
 Notes/Description: Voltage Aligned Edge; ignores standard armor; can easily cut through most materials.
 	-50% on stealth rolls for being quiet during stealth attacks with this weapon.
 
----- SPECO SP30 VAE Combat Sword		$1245	----
+----SPECO SP30 VAE Combat Sword		$1245	----
 Damage:		   55 + 2*STR + 2*DEX + 1xBleed
 Range:     	   2m
 Accuracy Modifier: +2
 DEX Requirement:   6
 Notes/Description: Voltage Aligned Edge; ignores standard armor
 
+=====	LEVEL 10 REQUIREMENT WEAPONS	=====
 
-Eliazar E500 Assisted-Sledgehammer			2		50+6*STR
-Eliazar E5500 Power Fist			1		50+5*STR
-Muzashi VAE Katana			2		60+1*STR+3*DEX+1xBleed
-Eliazar Plasma Sword			2		50+STR+2*DEX+3xPlasma burn
-SPECO Under Mounted Chainsaw SPC100			1		70+2xDex + 2xBleed
+----Eliazar E500 Assisted-Sledgehammer		$811	----
+Damage:		   50 + 6*STR
+Range:     	   2m
+Accuracy Modifier: +0
+STR Requirement:   6
+Notes/Description: 2-handed weapon. Considered concussive (explosive) damage. Hits armor points before physical 
+damage if the target's armor has defense against explosive (i.e. concussive) damage. If armor roll is greater than 50%,
+target rolls a DC 50% fort save for a broken limb of your choice. -20% stealth rolls for being quiet on stealth 
+attacks. Reduces door-breaking DC by 30% per hit.
+
+----Eliazar E5500 Power Fist		$880	----
+Damage:		   50 + 5*STR
+Range:     	   Adjacent (1m)
+Accuracy Modifier: +1
+STR Requirement:   5
+Notes/Description: Considered concussive (explosive) damage. Hits armor points before physical damage if the target has defense against explosive (i.e. concussive) damage. If armor roll is less than 50%, target rolls a DC 50% fort save for a being stunned for 1 turn. -30% stealth rolls for being quiet on stealth attacks. Reduces door-breaking DC by 45% per hit.
+
+----Muzashi VAE Katana		$1354	----
+Damage:		   60 + STR + 3*DEX + 2xBleed
+Range:     	   2m
+Accuracy Modifier: +2
+DEX Requirement:   6
+Notes/Description: Requires "Weapon Use [Exotic]". Voltage Aligned Edge; ignores standard armor
+
+----Eliazar Plasma Sword		$987	----
+Damage:		   50 + STR + 2*DEX + 3xPlasma Burn
+Range:     	   2m
+Accuracy Modifier: +2
+DEX Requirement:   4
+Notes/Description: Requires "Weapon Use [Exotic]". Plasma effect reduces armor by 1 level as usual, but this effect applies during 
+the sword hit (instead of after). If the target has a standard (non-Nanite) shield, all plasma burn is canceled, the shield takes 
+30 damage and the plasma sword passes through the shield.
+
+
+============================================================
+MISCELLANEOUS THROWN WEAPONS
+These weapons work similarly to guns. However your range is determined by your DEX or STR 
+and your miss chance is reduced by your [Combat PER Mod] + [1 for every 10 Thrown Weapon Skill]. 
+Like melee attacks, if you roll a Crit or 3+ above your Miss Chance, you ignore the target's armor
+and deal full damage. Misc thrown weapons also benefit from Stealth Attacks (see basic rules).
+
+If you have Hand-to-Hand trained, +10 base damage for all misc thrown weapons. 
+Instead, if you have Hand-to-Hand Expert, +20 base damage for all misc thrown weapons. 
+
+Also, If you have melee combat skill >=20 then all DEX or STR requirements for Misc. Thrown Weapons
+are reduced by 1.
+All misc thrown weapons have a Reflex Modifier: -10
+============================================================
+
+=====	LEVEL 1 REQUIREMENT WEAPONS	=====
+
+----Gurber Throwing Knife	$80	----
+Damage:	15 + STR + DEX + [Thrown Weapon Skill]/2 + 1xBleed
+Ranged Miss Chance:
+	5 out to [DEX or STR/2] meters
+	6 out to 5 + [DEX or STR/2] meters
+DEX Requirement:   5
+AP Level:		2
+Notes/Description:	For melee, 15+STR+2*DEX+1xBleed, +1 melee accuracy. 2 per Secondary Ammo Slot.
+
+=====	LEVEL 5 REQUIREMENT WEAPONS	=====
+
+----EAL Tactical Throwing Axe	$160	----
+Damage:	25 + 3*STR + DEX + [Thrown Weapon Skill]/2 + 1xBleed
+Ranged Miss Chance:
+	5 out to STR + DEX/2 - 1 meters
+	6 out to 5 + STR + DEX/2 meters
+STR Requirement:   5
+AP Level:		3
+Notes/Description:	For melee, 40+2*STR+DEX+1xBleed, +1 melee accuracy. 1 per Secondary Ammo Slot.
 
 =====	LEVEL 10 REQUIREMENT WEAPONS	=====
 
----- Eliazar E500 Assisted-Sledgehammer		$xx	----
-Damage:		   50 + 6*STR
-Range:     	   2m
-Accuracy Modifier: x
-DEX Requirement:   x
-Notes/Description: x
+----Carbide Kunai	$120	----
+Damage:	25 + STR + DEX + [Thrown Weapon Skill]/2 + 1xBleed
+Ranged Miss Chance:
+	5 out to [DEX or STR/2] meters
+	6 out to 5 + [DEX or STR/2] meters
+DEX Requirement:   6
+AP Level:		4
+Notes/Description:	For melee, 20+STR+2*DEX+1xBleed, +1 melee accuracy. 3 per Secondary Ammo Slot.
+When thrown, +30% to stealth rolls to hide the attack.
 
----- Eliazar E5500 Power Fist		$xx	----
-Damage:		   50 + 5*STR
-Range:     	   Adjacent (1m)
-Accuracy Modifier: x
-DEX Requirement:   x
-Notes/Description: x
-
----- Muzashi VAE Katana		$xx	----
-Damage:		   60 + 1*STR + 3*DEX + 1xBleed
-Range:     	   2m
-Accuracy Modifier: x
-DEX Requirement:   x
-Notes/Description: x
-
----- Eliazar Plasma Sword		$xx	----
-Damage:		   50 + STR + 2*DEX + 3xPlasma Burn
-Range:     	   2m
-Accuracy Modifier: x
-DEX Requirement:   x
-Notes/Description: x
-
+----Plasma Catalyst Kunai	$160	----
+Damage:	10 + STR + DEX + [Thrown Weapon Skill]/2 + 3xPlasma Burn
+Ranged Miss Chance:
+	5 out to [DEX or STR/2] meters
+	6 out to 5 + [DEX or STR/2] meters
+DEX Requirement:   6
+AP Level:		5
+Notes/Description:	For melee, 15+STR+2*DEX+1xPlasma Burn, +1 melee accuracy. 3 per Secondary Ammo Slot.
 
 ============================================================
-Misc. Thrown Weapons:
-All thrown weapons inflict Bleed damage.
-============================================================
-
-Shuriken (5): $30
-15m
-50% / 40% if skilled
-16
-Maximum 15 in inventory
-
-Throwing Knife (1): $40
-20m
-50% / 40% if skilled
-32
-Maximum 6 in inventory
-
-Throwing Axe (1): $60
-30m
-50% / 35% if skilled
-38
-
-Gurber Throwing Knife(1):			5 + [DEX or STR/2] range						15+STR+DEX+Thrown Weapon Skill/2+1xBleed							25+STR+2*DEX+1xBleed in melee				
-EAL Tactical Throwing Axe(1):			5+ STR + DEX/2 range						25+3*STR+DEX+Thrown Weapon Skill/2+1xBleed							40+2*STR+DEX+1xBleed in melee				
-Carbide Kunai(1):			5 + [DEX or STR/2] range						25+STR+DEX+Thrown Weapon Skill/2+1xBleed							30+STR+2*DEX+1xBleed in melee, +30% to stealth rolls to hide an attack when thrown				
-Plasma Catalyst Kunai(1):			5 + [DEX or STR/2] range						10+STR+DEX+Thrown Weapon Skill/2+3xPlasma burn							Plasma effect reduces armor by 1 after the hit, as usual. 20+STR+2*DEX+1x Plasma Burn in melee				
-
-
-============================================================
-Grenades:
+GRENADES
 All grenades require an explosives skill of at least 10 to use.
-Targets can roll a luck or perception check at 95% in order to dodge.
+Targets can roll a luck or perception check at DC 60+[your explosives skill]% in order to dodge/attempt to jump out of the way.
+You can 'cook' a grenade in your hand for 1 action to make it impossible for an enemy to dodge.
+
+If you fail your throw within 1 miss chance of the minimum, roll a d4 for how off-target the grenade throw is.
+If you fail your throw beyond 1 miss chance, roll a d10 instead.
+
+All grenades have a Reflex Modifier: -10	
 ============================================================
 
-ECSC Smoke Grenade: $50
-30m
-60% to land where intended
-D10 burn damage to exact spot of impact
-For a circle of 10m radius, all targets are now in stealth at 80%. Anyone 
-looking in or out of smoke must roll an 81% or higher (disregarding bonuses) 
-in order to fire through smoke. Targets that are adjacent need not abide by 
-this rule (including one target outside the circle adjacent to a target inside 
-the circle). If you are fully behind the smoke and a target is on the complete 
-opposite side, the smoke completely obscures your vision, leaving you with a 
-perception check of 120% in order to see all the way through the smoke. Smoke 
-lasts for 12 turns or 2 minutes.
+=====	LEVEL 1 REQUIREMENT WEAPONS	=====
 
-ECSC CID Chemical Incapacitation Device $50
-(Gas grenade)
-25m
-60% to land where intended
-D10 burn damage to spot of impact
-10m radius cloud of choking chemicals. anyne caught in the circle suffers the 
-following effects: partial blindness due to uncontrolable tears (+30% to hit), 
+----ECSC Smoke Grenade	$50	----
+Damage:	D10 burn damage to exact spot of impact
+Ranged Miss Chance (to land where intended):		
+	5 out to 10+[DEX or STR]*2 meters	
+Armor Piercing Level:	0		
+Notes/Description:	Rolling higher than a 9 Miss Chance causes a direct hit. For a 
+circle of 10m radius, all targets are now in stealth at 80%. Anyone looking in or out 
+of smoke must make a PER roll of 81% or higher (disregarding bonuses) in order to fire 
+through smoke. Targets that are adjacent need not abide by this rule (including one 
+target outside the circle adjacent to a target inside the circle). If you are fully 
+behind the smoke and a target is on the complete opposite side, the smoke completely 
+obscures your vision, leaving you with a perception check of 120% in order to see 
+all the way through the smoke. Smoke lasts for 12 turns or 2 minutes.
+
+----ECSC CID Chemical Incapacitation Device (Gas grenade)	$50	----
+Damage:	D10 burn damage to exact spot of impact
+Ranged Miss Chance (to land where intended):		
+	5 out to 7+[DEX or STR]*2 meters	
+Armor Piercing Level:	0		
+Notes/Description:	10m radius cloud of choking chemicals. anyone caught in the circle suffers the 
+following effects: partial blindness due to uncontrollable tears (+30% to hit), 
 coughing fits (-50% stealth), and take 10 damage per round spent in the cloud. 
-Targets can negate the effects with a gas mask. Targets who leave the cloud 
+Targets can negate all effects with a gas mask. Targets who leave the cloud 
 will continue to exhibit partial blindness for 3 turns after leaving the fog, 
 and coughing for 6 turns. Gas cloud persists for 2 turns after initial detonation.
 
-RMM FlashBang distraction and clearing device: $50
-30m
-70% to land where intended
-Everyone in the room gets blinded for 2 turns. You can break the blindness 
-with a perception check at 85% (disregarding bonuses). If the grenade 
-detonates in the open, it’s blinding range is 10m
+----RMM Flash-Bang Distraction and Clearing Device	$50	----
+Damage:	D10 burn damage to exact spot of impact
+Ranged Miss Chance (to land where intended):		
+	6 out to 10+[DEX or STR]*2 meters	
+Armor Piercing Level:	0		
+Notes/Description:	Everyone in the room gets blinded for 2 turns. Once per turn, You can 
+attempt to break the blindness with a perception check at 85% (disregarding bonuses). If the grenade 
+detonates in the open, it’s blinding range is a 10m radius.
 
-ECSC Fragmentation Grenade: $100
-40m
-60% to land where intended and 95% to hit
-50 + 2 * Bleed within 2.5m
-20 damage + 2 * Bleed within 5m
+----ECSC Fragmentation Grenade	$90	----
+Damage:	D10 burn damage to exact spot of impact
+Ranged Miss Chance (to land where intended):		
+	5 out to 10+[DEX or STR]*2 meters	
+Armor Piercing Level:	1		
+Notes/Description:	Each Target within the blast radius takes multiple hits. 45 damage per hit, automatically hits armor. 
+Targets take full damage to the torso, legs, and arms (if armor is pierced or not present): (3*45 damage)+2xBleed within a 2.5m radius.
+Only legs and torso (2*45 damage)+1xBleed within a 5m radius. At least one hit must damage health to cause  Bleed.
 
-RMM Frag+ Grenade: $120
-45m
-60% to land where intended and 95% to hit
-60 + 2 * Bleed within 2.5m
-20 + 2 * Bleed within 5m
+----ECSC C10 Plastic HE	$210	----
+Damage:	120 explosive damage within a 3m radius, 5m radius indoors.
+Ranged Miss Chance (to land where intended):		
+	n/a
+Armor Piercing Level:	n/a	
+Notes/Description:	Must be set-up before use. 1 Action, 40% DC explosives skill to set-up. On failure, 3 actions used instead of 1. Explosives 
+capable of sticking to surfaces. Comes with a remote detonator that is functional to 50m. 120 explosive damage within a 3m radius, 5m radius indoors.
+All affected targets roll DC 70% shock to resist stun for 1 turn. Can destroy a 3 meter radius of concrete or a 1m radius of steel. Jury-rigging can 
+make the explosive throwable (after set-up) with a 5 miss chance out to 5+[DEX or STR] meters.
+
+=====	LEVEL 5 REQUIREMENT WEAPONS	=====
+
+----RMM Frag+ Grenade	$140	----
+Damage:	D10 burn damage to exact spot of impact
+Ranged Miss Chance (to land where intended):		
+	5 out to 10+[DEX or STR]*2 meters	
+Armor Piercing Level:	2		
+Notes/Description:	Each Target within the blast radius takes multiple hits. 50 damage per hit, automatically hits armor. 
+Targets take full damage to the torso, legs, and arms (if armor is pierced or not present): (3*50 damage)+2xBleed within a 3m radius.
+Only legs and torso (2*50 damage)+1xBleed within a 6m radius. At least one hit must damage health to cause Bleed.
+
+----Frontier Chemical Grenade	$70	----
+Damage:	D10 burn damage to exact spot of impact
+Ranged Miss Chance (to land where intended):		
+	5 out to 10+[DEX or STR]*2 meters	
+Armor Piercing Level:	n/a		
+Notes/Description:	Creates a 7m radius cloud of burning, choking smoke. Targets take 30 Poison Damage per turn in the cloud.
+All Poison Damage is negated by use of a gas mask.
+
+----RMM HiEx Grenade	$285	----
+Damage:	D10 burn damage to exact spot of impact
+Ranged Miss Chance (to land where intended):		
+	5 out to 10+[DEX or STR]*2 meters	
+Armor Piercing Level:	n/a		
+Notes/Description:	2x inner blast radius when indoors. 120 explosive damage within a 2m radius, 60 explosive within a 5m radius.
+
+=====	LEVEL 10 REQUIREMENT WEAPONS	=====
+
+----Frontier Plasma Grenade FP-G5	$360	----
+Damage:	D10 burn damage to exact spot of impact
+Ranged Miss Chance (to land where intended):		
+	5 out to 10+[DEX or STR]*2 meters	
+Armor Piercing Level:	6		
+Notes/Description:	Each Target within the blast radius takes multiple hits. 60 damage per hit, automatically hits armor. 
+Targets take full damage to the torso, legs, and arms (if armor is pierced or not present): (3*60 damage)+3xPlasma Burn within a 3m radius.
+Only legs and torso (2*60 damage)+1xPlasma Burn within a 5m radius. At least one hit must damage health to cause Plasma Burn.		
 
 =============================================================================  
 \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
@@ -229,30 +312,9 @@ RMM Frag+ Grenade: $120
 / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /  
 \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
 =============================================================================
-	
-Ranged Weapons List
-Outside effective range, subtract 10 damage and 30%, max double the effective 
-range.
-Effects:
-Plasma burn:  2d10 damage per turn, stacking.
-Armor Piercing: rounds ignore 15 DR to armored targets / add 15 damage against
-armored targets; subtract 15 damage to unarmored targets.
-Hollow Point: add 15 damage to unarmored targets; subtract 15 damage to 
-armored targets.
-Supporting Fire: On Hit, target is forced to take cover for one action, 
-stackable, unless they pass a 70% FORT or INT check. If they pass the check, 
-they negate the cover, but take an additional shot. Additionally, targets 
-affected by supporting fire cannot make a reflex shot against anyone leaving 
-cover.
-Penetrating Damage: Armored targets take an additional 5 damage, and will need
-special treatments to remove armor fragments from their bodies. Unarmored 
-targets take an additional 5 damage due to special ballistics 
-characteristics. Target gains Bleeding condition.
-Incendiary Round: target takes 2 * d10 explosive damage.
-Capacitive Sheilded rounds deal CS burn. +5 dam against robotic units.
-Bleeding: The target has sustained a heavy hit that must be patched up. Target 
-takes d10/2 damage per turn until they pass a medical skill roll at DC of the 
-damage sustained.
+RANGED WEAPONS
+Outside effective range, you cannot hit your target with a direct hit.
+Weapons cannot shoot over 100m without magnifying sights, over 150m without 2x+ magnification
 
 ============================================================
 Pistols:
@@ -334,7 +396,7 @@ AP Level:		1
 Reflex Modifier: 	+20
 Suppression Level:	Light
 
-----Anvil Armamanet P-45	$710	----
+----Anvil Armament P-45	$710	----
 Damage: 55 Ballistic
 Ranged Miss Chance:
 	4 out to 5m
@@ -347,7 +409,7 @@ AP Level:		0
 Reflex Modifier: 	+20
 Suppression Level:	Light
 
-----Anvil Armamament R15	$887	----
+----Anvil Armament R15	$887	----
 Damage: 80 Ballistic
 Ranged Miss Chance:
 	4 out to 5m
@@ -530,7 +592,7 @@ Armor Pierce Level:		2
 Reflex Modifier:			+10
 Suppression Level:		Medium
 
----- Anvil Arms AR-34 PDW	$1356	----
+----Anvil Arms AR-34 PDW	$1356	----
 Damage:	45
 Ranged Miss Chance:
 	3 out to 10m
@@ -562,7 +624,7 @@ Suppression Level:		Medium
 
 =====	LEVEL 10 REQUIREMENT WEAPONS	=====
 
----- Mathews "Bolter" 470B	$2389	----
+----Mathews "Bolter" 470B	$2389	----
 Damage:	60, 1x Bleed on hit
 Ranged Miss Chance:
 	3 out to 10m
@@ -593,7 +655,7 @@ Armor Pierce Level:		2
 Reflex Modifier:			+10
 Suppression Level:		Medium
 
----- Flexcorp LS75	$3670	----
+----Flexcorp LS75	$3670	----
 Damage:	45, Laser
 Ranged Miss Chance:
 	2 out to 15m
@@ -623,13 +685,13 @@ unless otherwise stated.
 
 ===== Level 1 Weapons =====
 
----- Matthews Model 2287 Short	$867	----
+----Matthews Model 2287 Short	$867	----
 Damage:	100 Ballistic, Slug Only
 Ranged Miss Chance:		
 	3 out to 10m	
 	4 out to 20m	
 	5 out to 45m	
-Mag Size:		5 rounds of 20ga. $6 per bag of 8 shells.
+Mag Size:		5 rounds of 20-gauge. $6 per bag of 8 shells.
 Reload DC:		45
 Fire Modes:		Pump Action
 Armor Piercing Level:	0	
@@ -643,7 +705,7 @@ Ballistic Damage, Ranged Miss Chance:
 	105 damage with a miss chance of 4 out to 20m	
 	115 damage with a miss chance of 5 out to 50m - Slug Only 
 Auto Miss Chance:	+2,  -1 for every 9 Strength	
-Mag Size:		2 rounds of 12ga. $10 per bag of 8 shells.
+Mag Size:		2 rounds of 12-gauge. $10 per bag of 8 shells.
 Reload DC:		38
 Fire Modes:		Semi, Auto
 Auto Fire Rate: 	2	
@@ -658,7 +720,7 @@ Ballistic Damage, Ranged Miss Chance:
 	145 damage with a miss chance of 2 out to 13m	
 	110 damage with a miss chance of 3 out to 26m	
 	120 damage with a miss chance of 4 out to 60m - Slug Only 
-Mag Size:		6 rounds of 12ga. $6 per bag of 8 shells.
+Mag Size:		6 rounds of 12-gauge. $6 per bag of 8 shells.
 Reload DC:		45
 Fire Modes:		Pump Action
 Armor Piercing Level:	1	
@@ -676,7 +738,7 @@ Ballistic Damage, Ranged Miss Chance:
 	105 damage with a miss chance of 3 out to 25m	
 	115 damage with a miss chance of 4 out to 50m - Slug Only 	
 Auto Miss Chance:	+1,  -1 for every 8 Strength	
-Mag Size:		2 rounds of 12ga . $10 per bag of 8 shells.
+Mag Size:		2 rounds of 12-gauge . $10 per bag of 8 shells.
 Reload DC:		38
 Fire Modes:		Semi, Auto
 Auto Fire Rate: 	2	
@@ -691,7 +753,7 @@ Ballistic Damage, Ranged Miss Chance:
 	150 damage with a miss chance of 2 out to 10m	
 	115 damage with a miss chance of 3 out to 20m	
 	125 damage with a miss chance of 4 out to 50m - Slug Only 
-Mag Size:		7 rounds of 12ga. $6 per bag of 8 shells.
+Mag Size:		7 rounds of 12-gauge. $6 per bag of 8 shells.
 Reload DC:		45
 Fire Modes:		Pump Action
 Armor Piercing Level:	2	
@@ -718,7 +780,7 @@ Ballistic Damage, Ranged Miss Chance:
 	135 damage with a miss chance of 2 out to 10m	
 	100 damage with a miss chance of 3 out to 20m	
 	110 damage with a miss chance of 4 out to 50m - Slug Only 
-Mag Size:		7 rounds of 12ga, mag fed. $9 per magazine
+Mag Size:		7 rounds of 12-gauge, mag fed. $9 per magazine
 Reload DC:		30
 Fire Modes:		Semi
 Armor Piercing Level:	1	
@@ -734,7 +796,7 @@ Ballistic Damage, Ranged Miss Chance:
 	105 damage with a miss chance of 4 out to 20m	
 	115 damage with a miss chance of 5 out to 50m - Slug Only 
 Auto Miss Chance:	+2,  -1 for every 9 Strength	
-Mag Size:		3 rounds of 12ga. $11 per bag of 8 shells.
+Mag Size:		3 rounds of 12-gauge. $11 per bag of 8 shells.
 Reload DC:		38
 Fire Modes:		Semi, Auto
 Auto Fire Rate: 	3	
@@ -750,7 +812,7 @@ Ballistic Damage, Ranged Miss Chance:
 	105 damage with a miss chance of 3 out to 20m
 	110 damage with a miss chance of 4 out to 40m - Slug Only 
 Auto Miss Chance:	+6,  -1 for every 3 Strength (starting at 5)	
-Mag Size:		16 rounds of 12ga, mag fed. $24 per magazine
+Mag Size:		16 rounds of 12-gauge, mag fed. $24 per magazine
 Reload DC:		45
 Fire Modes:		Semi, Auto
 Auto Fire Rate: 	4	
@@ -797,7 +859,7 @@ Minimum Strength 5, Reload DC 25% unless otherwise noted. Reload time is 2 Actio
 ============================================================
 ===== Level 1 Weapons =====
 
----- Matthews 11-35 Carbine	$690	----
+----Matthews 11-35 Carbine	$690	----
 Damage:	65 Ballistic
 Ranged Miss Chance:
 	3 out to 10m
@@ -810,7 +872,7 @@ Armor Pierce Level:	1
 Reflex Modifier:	+5
 Suppression Level:	Medium
 
----- Anvil Arms C25	$1608	----
+----Anvil Arms C25	$1608	----
 Damage:	80 Ballistic
 Ranged Miss Chance:
 	3 out to 15m
@@ -824,7 +886,7 @@ Armor Pierce Level:	2
 Reflex Modifier:	+2
 Suppression Level:	Medium
 
----- RMM S-92		$1086	----
+----RMM S-92		$1086	----
 Damage:	75 Ballistic
 Ranged Miss Chance:
 	3 out to 10m
@@ -1041,7 +1103,7 @@ Reflex Modifier:	-5
 Suppression Level:	Medium	
 
 ----ECSC Mk15	$1715	----
-Damage:	75 Ballsitic
+Damage:	75 Ballistic
 Ranged Miss Chance:		
 	3 out to 15m	
 	4 out to 50m	
@@ -1244,7 +1306,7 @@ Suppression Level:	Heavy
 Movement Speed Penalty:	-2m	
 		
 ----Frontier LMG-P8	$3543	----
-Damage:	100 Plasma + 1x PLasma Burn
+Damage:	100 Plasma + 1x Plasma Burn
 Ranged Miss Chance:		
 	2 out to 15m	
 	4 out to 45m	
@@ -1294,7 +1356,7 @@ Suppression Level:	Heavy
 Movement Speed Penalty:	-2.5m	
 		
 ----Frontier LMG-P10	$6132	----
-Damage:	120 Plasma + 1x PLasma Burn	
+Damage:	120 Plasma + 1x Plasma Burn	
 Ranged Miss Chance:		
 	2 out to 15m	
 	3 out to 55m	
@@ -1385,7 +1447,7 @@ Suppression Level:	Medium*
 Movement Speed Penalty:	-2m	
 Notes/Description:	Requires 2 shots for Medium suppression. Roll 50% luck for the closest target within 3m of  the primary, on
 success, they take 70 electrical damage. If there are ties, only one secondary target takes damage. Destroys electronics. All 
-affected targets must make a DC 70% Fort save. On failure, stunned for 1 turn. Not affected by armor. Requires 6 Str and 6 INT 
+affected targets must make a DC 70% Fort save. On failure, stunned for 1 turn. Not affected by armor. Requires 6 STR and 6 INT 
 to use. No optics or barrel attachments. Blocked by shields	
 		
 ----Shiva Light-Antimaterial Rifle SARL	$3115	----
