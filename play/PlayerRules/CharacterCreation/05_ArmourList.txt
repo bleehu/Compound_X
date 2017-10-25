@@ -1,29 +1,41 @@
-armor Document
-This document lists the armors available to characters in standard campaigns.
+ARMOR LIST
+This document lists the armors and rig equipment available to characters in standard campaigns.
 
- 
- /*
- soon to be:
- Ballistic Armors
- 	-Basic Armor Materials
-	-Basic Helmet Materials
+    ---- (Approximate) TABLE OF CONTENTS ----
+
+    Introduction
+	-Armor Systems
+	-Where is my Ammo Storage?
+	-What is an Advanced Rig?
 	
- Armor Rigs
-	-recon
-	-light
-	-medium
-	-medium-heavy
-	-heavy
+    Standard Ballistic Armor Materials
+    	-Levels 1-10 Standard Armor Materials
+
+    EVA Suits and Flight Helmets
+	-Helmets
+	-Flight Suits
+	
+    Armor Rigs
+	-I Recon Armor Rigs
+	-II Light Armor Rigs
+	-III Medium Armor Rigs
+	-IV Medium-Heavy Armor Rigs
+	-V Heavy Armor Rigs
 		
-Shield Generator Nodes
-	-all
+    Concealed Rigs
+	-Various
+
+    Shield Generators
+	-Levels 1-10 Modules
 	
-Cloaking Equipment
-	-all
+    Cloaking Equipment
+	-Levels 1-10 Modules
 	
-Utility Hardpoint Equipment
-	-all
-*/
+    Utility Hard Point Equipment
+	-Explosives Carrier
+	-Mobility (Grapple) System
+	-Point Defense System
+
 
     =====================================
 		INTRODUCTION

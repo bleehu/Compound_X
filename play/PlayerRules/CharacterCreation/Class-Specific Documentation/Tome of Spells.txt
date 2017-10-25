@@ -640,102 +640,102 @@
     // Spells
     //--------------------
 
-		{2} Lay on Hands: [20]
+		{2} Lay on Hands: [15]
 		|   Touch Effect: Restore 20 HP to an ally or stabilize them.
 		|
 		V
-		{4} Cure Light Wounds: [40]
+		{4} Cure Light Wounds: [29]
 		|   Touch Effect: Restore 30 HP to an ally. Heals a small wound. (less 
 		|	than 40 damage sustained from a single source).
 		|
 		V
-		{8} Cure Moderate Wounds: [60]
+		{8} Cure Moderate Wounds: [43]
 		|   Touch Effect: Restore 50 HP to an ally. Heals a moderate wound. 
 		|	(less than 60 damage sustained from a single source).
 		|
 		V
-		{12} Divine Blessing: [100]
+		{12} Divine Blessing: [72]
 		|   Touch Effect: Restore 90 HP to an ally. Heals a heavy wound and 
 		|	revives ally. (Less than 90 damage sustained from a single source).
 		|
 		V
-		{20} Divine Intervention: [175]
-		    Touch Effect: Restores an ally from the brink of death. If an ally'
-		    's health drops below 0 during the encounter and would normally 
+		{20} Divine Intervention: [126]
+		    Touch Effect: Restores an ally from the brink of death. If an ally's 
+			health drops below 0 during the encounter and would normally 
 		    perish, so long as this spell is used during the same encounter 
 		    they will be revived to 1/4 of their max HP.
 
 
-		{5} Holy Blade: [30]
-		|   Ranged Spell: + 5 damage on ally''s weapon for 3 turns.
+		{5} Holy Blade: [22]
+		|   Ranged Spell: + 5 damage on ally's weapon for 3 turns.
 		|
 		V
-		{12} Sword of Righteousness: [120]
+		{12} Sword of Righteousness: [86]
 		    +15 damage for the remainder of the encounter. Can only be used 
 		    when facing Evil characters.
 
-		{5} Divine Armour: [30]
-		    Ranged Spell: +30 DR to an ally''s armour, single use.
+		{5} Divine Armour: [22]
+		    Ranged Spell: +60 Armor Points to an ally's armour, single use.
 
-		{5} Righteous Fury: [20]
-		|   Personal Effect: Cannot take cover for 5 turns. +10 DR and +10 
+		{5} Righteous Fury: [14]
+		|   Personal Effect: Cannot take cover for 5 turns. +20 Armor Points and +10 
 		|	damage for 3 turns.
 		|
 		V
-		{10} Righteous Rage: [40]
-		    Cannot take cover for 5 turns. +15 DR, +15 damage, 
-		    and +2m movement for 4 turns.
+		{10} Righteous Rage: [29]
+		    Cannot take cover for 5 turns. +30 Armor Points, +15 damage, 
+		    and +1m movement per Action for 4 turns.
 
-		{2} Piercing Blow: [10]
-		    Weapon Augment: Target is Pinned.
+		{2} Piercing Blow: [7]
+		    Weapon Augment: Target is Pinned Down.
 
-		{8} Bullet Ward: [60]
-		    Aura Effect: All allies within 2*Cha meters gain +5 DR for 4 turns.
+		{8} Bullet Ward: [43]
+		    Aura Effect: All allies within 2*Cha meters gain +10 Armor Points for 4 turns.
 
 		//Good Unique
-		{5} Wall of Protection: [50]
+		{5} Wall of Protection: [36]
 	    	Summon a wall 2m tall, 3m wide and .25m thick. Provides Full 
-	    	cover. Each 1m x 1m chunk has 50 health. The wall can be summoned 
+	    	cover. Each 1m x 1m chunk has 70 health. The wall can be summoned 
 	    	on any empty squares or squares only occupied by medium sized 
 	    	characters within Cha meters of the caster.
 
-		{5} Crimson Flame: [25]
-		|   Weapon Augment: You imbue an ally''s or your own weapon with divine
-		|	energy. +20 damage, single attack. Inflicts 1 Burn damage token.
+		{5} Crimson Flame: [18]
+		|   Weapon Augment: You imbue an ally's or your own weapon with divine
+		|	energy. +20 damage, single attack. Inflicts 1x Burning.
 		|
 		V
-		{10} Violet Flame: [45]
-		|   +40 damage, single attack. Inflicts 1 Burn Damage token.
+		{10} Violet Flame: [32]
+		|   +40 damage, single attack. Inflicts 1x Burning.
 		|
 		V
-		{15} Blue Flame: [65]
-		    +60 damage, single attack. Inflicts 1 Burn Damage token.
+		{15} Blue Flame: [47]
+		    +60 damage, single attack. Inflicts 1x Burning.
 
 		//Neutral Unique
-		{5} Negate Attack: [50]
-		|   Ranged Effect: Negate 50 damage from an attack coming at an ally 
-		|	within CHA m range.
+		{5} Negate Attack: [36]
+		|   Ranged Effect: Negate 70 damage from an attack coming at an ally 
+		|	within CHA # of meters range.
 		|
 		V
-		{10} Redirect Attack: [65]
-		    Negate 50 damage from an attack targeting an ally within CHA m 
+		{10} Redirect Attack: [47]
+		    Negate 70 damage from an attack targeting an ally within CHA # of meters 
 		    range and choose a target within CHA+ m range to take the damage.
 		//Evil Unique
 
 	//--------------------
     // Prayers
     //--------------------
-		{8} Prayer of Vengeance: [45]
+		{8} Prayer of Vengeance: [32]
 		    Personal Effect: When a team member gains the Downed condition, 
-		    you gain +5 DR and + 10 damage for the next 4 turns.
+		    you gain +10 Armor Points and +10 damage for the next 4 turns.
 
 		{10} Prayer of Meditation: [0]
 		    Personal Effect: Take 4 actions to Pray. Regain 40 Nanites.
 
-		{25} Prayer of Sorrow: [150]
-		    Weapon Augment: You imbue your own weapon with divine energy.+200 
-		    damage, single attack. After attack, take 200 damage and gain 
-		    Downed condition.
+		{25} Prayer of Sorrow: [108]
+		    Weapon Augment: You imbue your own weapon with divine energy. 
+			+200 damage, single attack. After the attack, take 200 damage and 
+			gain the Downed condition.
 
 		{} Prayer: []
 
@@ -745,7 +745,7 @@
 
 		{} : []
 		//Good Unique
-	    {15} Prayer of Peace: [100]
+	    {15} Prayer of Peace: [72]
 			Area of effect, CHA meter diameter centered on caster: Targets 
 			caught within the effect cannot attack for 3 turns. Affectees gain 
 			a penalty attack on anyone who attacks them while they are 
@@ -754,16 +754,17 @@
 			attack the stunned opponents.
 
 		//Neutral Unique
-		{15} Prayer of Silence: [200]
+		{15} Prayer of Silence: [144]
     		Aura Effect: Drain 100 Nanites from each character within CHA 
 				meters of you. Any deficiency takes damage instead, and the 
 				Paladin gains only the amount of nanites held by the target at 
 				the time the prayer takes effect.
 
-		{10} Prayer of Solitude: [80]
+		{10} Prayer of Solitude: [58]
 		    Touch Effect: target is incapacitated, trapped in a mental prison 
 		    for CHA/2 turns. Will Save DC 60 + CHA+ on cast. Nanites spent on 
 	    	this prayer are lost until the prayer completes.
+			
 		//Evil Unique
-		{15} Prayer of Halting: [40]
+		{15} Prayer of Halting: [29]
     		Ranged Effect: Target loses any Nanite-Based abilities for 3 turns.
