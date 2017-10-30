@@ -1,0 +1,649 @@
+Core classes:
+/*====================================================
+ * Your character starts at level 0. At level 0 you have skills, but no class, 
+ * class feats or regular feats.
+ * At level 1 you get to select a class, and recieve the class passives. 
+ * However, you do not select a class feat until level 5.
+ * On selecting a class, you gain all of the passives listed, and get to 
+ * For any listed class, if it says  "Gain X Skill at 10" that means you get
+ * to add the X skill to your skill  list, and it starts at rank 10, meaning a 
+ * +10% to any roll for that skill.  At the first level taken in a class
+ * (other than level 1), you get the  single star version of the feat. At 
+ * level 5 and every 5 levels thereafter,  you can  choose to rank up the 
+ * feat, or add the other feat to your  character.
+ *==================================================*/
+
+"Soldier" - You have the blood of a warrior flowing through you. Your sole 
+purpose is to fight until the threat is neutrilized.
+Passives: Gain Weapon Use[X] at 10, Gain a +15 to Rolls for initiative. (you 
+go first more often).
+Weapon Proficiencies: Pistols, Submachine guns, Carbines and Battle Rifles, 
+Shotguns, Automatic Rifles.
+Armour Proficiencies: Light, Medium, Heavy.
+Starting Wealth: $1700+100*Luck + 100
+Class Feats:
+----------------------
+Battle Cry / Raise Moral -
+You roar as you lead the charge against the enemy. 50% + (CHA mod) chance to 
+raise allied effectivness 15% on each of their next rolls [including your next 
+roll]. You must use your next action to run towards enemies [minimum 1m]. 
+Allies must be able to hear and understand you to get the bonus.
+|
+|
+|
+V
+Either 75% + (CHA mod) success or 30% added to next allied rolls.
+----------------------
+Fight Fiercely First
+The Soldier gets an additional +10 to initiative rolls. 
+In addition, the soldier with this class feat gets a -30% to miss against enemies
+who have not taken a turn yet in combat or whom the soldier has beaten in 
+reflex roll when room clearing until that character takes a turn after losing the 
+reflex roll.
+|
+|
+|
+V
+The soldier's accuracy bonus effect works on any enemy with a lower initiative until
+that enemy has finished their 3rd turn.
+
+"Specialist" - There is always a need for the type of person willing and able 
+to bring the heaviest of fire down upon their enemies. The Specialist will be 
+there when the odds are stacked highest against the forces for good, and he''
+ll be prepared to use heavy force to even those odds.
+Gain Thrown Weapons at 10.
+Weapon Proficiencies: Pistols, Carbines and Battle Rifles, Heavy Weapons.
+Armour Proficiencies: Light, Medium, Heavy, Full, Concealed.
+Starting Wealth: $1700+100*Luck + 900
+Class Feats:
+----------------------
+Needs more dakka -
+Sometimes, a situation just calls for more bullets. You're good at that. 
+When firing a semi-automatic weapon, you may fire an extra shot per
+action with a +10% chance to miss. When firing an automatic weapon,
+you may fire two extra shots with a +10% and +20% chance to miss
+respectively.
+This ability cannot be used with grenade launchers, rocket launchers, 
+or autocannons.
+|
+|
+|
+V
+Your ferocity knows no bounds. Targets fired upon with Needs More Dakka
+must make a shock check of DC 60 + (Charisma * 8). On success, nothing 
+happens. On fail, target is Pinned Down [See basic rules for Conditions]
+----------------------
+Heavier Ordinance not required -
+Your expertise with heavy weapons is sufficient for the task at hand. -25% 
+Miss Chance and +25 damage once per day for a heavy weapons attack.
+|
+|
+|
+V
+Your expertise with heavy weapons is overkill for the task at hand. -30% 
+Miss Chance and +35 damage once per day for a heavy weapon attack.
+
+"Doctor" - You know how or why something works [most likely humans / humanoid 
+bodies), and put that knowledge to good use by supporting your team.
+Passives: Gain 5 skill in Anatomy, 5 skill in Pathology, and 10 skill in 
+medicine. Every level, you gain one skill in both of the "hippocratic" and "
+malpractice" skill trees. At level 1 you start with an arm mounted needle 
+launcher, handheld pathogen synthesizer, field dressing applicator and 
+a package of ten needles. You start each encounter with 200 adrenaline
+points and will need to keep track of adrenaline points, needles and 
+contagion points during a combat scenario.  
+Weapon Proficiencies: Pistols, Shotguns, SMGs
+Armour Proficiencies: Concealed, Recon, Light, Medium.
+Starting Wealth: $1700+100*Luck - 800
+Class Feats:
+----------------------
+Adrenaline Junkie - 
+You thrive on the stress of being shot at while trying to save someone's life.
+You know that every breath you take could be your last, and one errant twitch
+could mean the difference between sending your brother in arms to see his 
+friends and family or his ancestors. You love it. Your maximum adrenaline is 
+600 and you start each encounter with 240 adrenaline points instead of 200.
+|
+|
+|
+V
+Adrenaline Addict - 
+"Nothing in life is so exhilarating as to be shot at without result" ~ Winston Churchill
+Any time an enemy shoots at you and misses, gain 10 Adrenaline Points. 
+-----------------------
+The Harmisist - 
+Prerequisite: Level 10
+Learn an extra malpractice proceedure.
+
+
+"Engineer" - You solve problems. For insance, you know how to stop some mean 
+mutha-hubbard from tearin'' you and your team a structurally supurfluous new 
+behind. You know how to fix engines, machines, circuits, you name it. And when 
+you''re not busy fixing what other people broke, you get to work on making new 
+stuff. Which some knucklehead will probably eventually break too. 
+passives: You gain get 10 skill points in repair. Every level, you get one 
+Process point in each of the "repair" and "build" skill trees.  At the 
+begining of an engagement, you start with only half of your nanites, but you 
+may accrue up to 600 nanites max. You also start with 2 permanent control 
+points, which enable control over any automatons you construct.
+At level 6, the Feat "With Friends Lik These . . ." is automatically unlocked.
+Weapon Proficiencies: Pistol, Carbine and Battle Rifles, Shotgun
+Armour Proficiencies: Concealed, Recon, Light, Medium.
+Starting Wealth: $1700+100*Luck
+Class Feats: 
+-----------------------
+A little Controlling - 
+You gain an additional permanant control point
+|
+|
+|
+V
+Control Phreak -
+You gain an additional permanant control point [max of 5 permanant points]
+----------------------
+Repairman -
+you gain a 10% chance to stabalize a crashing robotic ally and a +10% to 
+repair checks.
+|
+|
+|
+V
+Overbuilt -
+Any time you build a construction, you may spend an additional 15 nanites to 
+give that construction 50 additional health.
+
+"Priest" - you''ve lived your life in the deepest recesses of the holonet, and 
+have come out alive, and strong. You can figure out how a security system works
+, hack into systems, or even hack your allys'' nanites to perform better.
+Passives: Gain PC use [HACKING] at 10 OR Knowledge [NANITES] at 10
+Weapon Proficiencies: Pistols, SMGs.
+Armour Proficiencies: Concealed, Recon, Light, Medium.
+Starting Wealth: $1700+100*Luck - 650
+Class Feats
+----------------------
+Exploit weakness -
+You have a basic understanding of networks and computers, and can hack your 
+way into a system with ease, and have accrued many basic hacks onto your thumb
+drive belt. +20% against Firewalls.
+|
+|
+|
+V
+Your skill and library have grown substantially. +30% against Firewalls, +15% 
+against Info Nodes and Interaction Nodes.
+----------------------
+Nanite Hacking -
+You''ve had some cross-training in the medical field, or maybe you just tried 
+plugging a cord into your brain. You know how to communicate with Nanites 
+present in friends and enemies. DC 50 Knowledge [Nanites] grants a +20% to ally
+''s next roll, or -10% on an opponent. Touch Effect.
+|
+|
+|
+V
+Nanites have almost become second nature to you. DC 50 Knowledge [Nanites] 
+grants a +30% to ally''s next roll, or -15% on an opponent. Knowledge [Nanites]
+/ 2 meters range.
+
+"Pilot" - You have a yearning to test the limits of the vehicles you operate. 
+The boundaries of speed and maneuvering were meant to be broken - by you.
+Passives: Gain Piloting skill at 10.
+At level 6, the Feat ". . . Who Needs Nano-Technologies" is automatically 
+unlocked.
+Weapon Proficiencies: Pistols, Shotguns, SMGs
+Armour Proficiencies: Concealed, Recon, Light, Medium.
+Starting Wealth: $1700+100*Luck -1050
+Class Feats:
+----------------------
+Planes, Trains, Automobiles -
+This is sorta familiar to something you once saw, or rode on. Maybe? 
+Unfamiliar vehicles can be operated [albeit pretty poorly] after you pass a DC
+50 check, or take up to 3 actions examining.
+|
+|
+|
+V
+You have flown, operated and driven just about everything there is. Except 
+that. Make a DC 40 check, or take up to 2 actions examining.
+----------------------
+Extensive training <Vehicle> -
+Your complete knowledge of <vehicle> makes your operation of it seem easy. Add
+25 to any check concerning your operation, knowldege, or maintenence of the 
+vehicle.
+|
+|
+|
+V
+You are THE guru accross the holonets for <vehicle>. Add 50 onto a pertinent 
+roll about the vehicle.
+
+"Adept" - Your specialized skills with technology are combined with battle 
+training, providing you an edge in combat situations.
+Passives: Gain 100 nanites. any number of these can be put into a permanent 
+passive CS Class B unit that is implanted in your body. When not wearing armor,
+it covers 75% excluding head, hands, and feet. when wearing armor, it extends 
+your DR by 10 and you gain 5% coverage.
+Weapon Proficiencies: Pistols, SMGs, Carbines and Battle Rifles.
+Armour Proficiencies: Concealed, Recon, Light, Medium.
+Starting Wealth: $1700+100*Luck - 400
+Class Feats:
+----------------------
+Energy Burst -
+You can emanate a short burst of nanite induced energy. This energy can be 
+used to: Restore 100% of the nanites you expend to an ally. Deplete a target'
+'s nanite reserve by 100% of what you expend. OR create an explosion at a 
+target that deals 50 damage, plus causes C.S. to anyone caught in a 5 m radius,
+at a range of <X> nanites expended [Max 50).
+----------------------
+Hardware Upgrade -
+You gain access to Automatic Rifles.
+----------------------
+CS Manipulation -
+You can use your CS to create basic items [knives, frisbees, boomerangs, 
+anything that is relatively 2-D shaped and smaller than .25x.25m] it gets <X> 
+health, dependant on number of nanites used to create it [minimum 5). You can 
+also use any adjacent CS unit as a melee tool that can hit at 5*INT damage + 
+CS Burn, 50% to hit.
+|
+|
+|
+V
+Items can be slightly more complex, up to .5x.5x.5m. Choose one of the 
+following: CS Melee bash is extended to 5m or deals 7*INT damage + CS Burn, or 
+hits at 75%.
+
+"Hunter" - An expert tracker, you''re the one hired when someone wants 
+something found. Expertly trained in manipulating your nanites to aid in 
+pursuit of a quarry, or in marking enemies for execution.
+Passives: Gain skil in Tracking - 10. Use of Nanite cloaking armor is $1000 
+less. At level 3 and above as a Hunter, Cloaking costs 10 nanites less.
+NOTICE: SEE BASIC RULES FOR ADDITIONAL CLOAKING ATTRIBUTES.
+Weapon Proficiencies: Pistols, Long Rifles, Shotguns, Carbines and Battle 
+Rifles.
+Armour Proficiencies: Concealed, Recon, Light, Cloaking.
+Starting Wealth: $1700+100*Luck + 1550
+Feats:
+----------------------
+Hunter Vision - (Lvl/2 # uses per day.)
+Your breathing calms, as time appears to slow down. Your vision turns into 
+myriad shades of grey. You see a faint path of color representing the trail of 
+your quarry. +35% to a tracking check, Or take 3 turns to pass the check.
+|
+|
+|
+V
+The Trail becomes bright against a monochrome background of edged shades of 
+grey. +75% to a tracking check, or maximum 2 turns to pass.
+----------------------
+Highlight Target: (Perception checks do not include checks to hit target. But by using a perception check for an 
+action to see where the target is and passing the target''s Cover DC+25 the player may recieve a +5% / +10% accuracy bonus.)
+Expend 10 nanites to mark a target. All damage dealt by allies to this target 
+is increased by 10, and any perception checks are 25% easier to pass. Use once 
+per encounter. Maximum of Level number uses per day. Lasts for duration of 
+encounter
+|
+|
+|
+V
+Expend 10 nanites to paint a target. All damage dealt by allies to this target 
+is increased by 20, and any perception checks are 50% easier to pass. Use 
+twice per encounter. Level number of uses per day. Lasts for the day.
+
+
+"Paladin" - You are a righteous warrior, vetted and trained by one of the 
+=======
+powerful corporations or some other technologically advanced entity. You seek 
+to uphold the principals which define the group you''ve sworn allegience to. 
+Through this devotion you have been granted access to high tech in order to 
+pursue your goals and missions.
+Passives: You gain 45 total nanites and each level you gain an additional 5 
+maximum nanites for each level after your first.
+Terms and Conditions clause compliance, access to Paladin Spell tree
+at level 3. By adhering to the Terms and Conditions, a Paladin gains an amount 
+of Favor within their church and can unlock new paladin spells by spending 
+Favor. Starting at level 3, a Paladin gains Favor equal to their Charisma each 
+level. Favor does not have to be spent, and can be saved up to learn more 
+potent prayers and spells. Knowledge [Nanites] - 10
+Weapon Profiencies: Pistls, Carbines, SMGs, Long Rifles, Automatic Rifles.
+Armour Proficiencies: Recon, Light, Medium, Heavy.
+Starting Wealth: $1700+100*Luck
+Feats:
+----------------------
+Portable Shield:
+A shield can be projected from your off hand. When attacked, roll as if the 
+shield were your armour, which has separate stats. 80% hit chance, 0 DR, 100 
+Nanite health. Hit chance only applies when opponent is in front of the 
+character. If an attak is coming from a flank or from behind, then ignore the 
+Shield. [Projects a tangible shield, not merely a CS field]. It takes 1 
+action to deploy the shield, and a free action to dismiss it.
+|
+|
+|
+V
+90% hit chance, 0DR, 150 Nanite Health. Free action to deploy shield.
+----------------------
+Smite Enemy:
+Once per engagement, you may select an opponent and deal them double damage, 
+calculated after any other bonus damage. Standard hit rules apply, but the 
+double damage is only consumed on a successful hit [multiple attempts at using 
+smite may be made per encounter, but once a successful attack is made the 
+smite is consumed for the encounter].
+|
+|
+|
+V
+You may use Smite twice per engagement.
+
+"Mage" - Mages are picked from birth to train at a temple or other such 
+Technological Institution in the combative use of Nanites. They form the 
+backbone of the temple guard.
+Passives: Knowledge Nanites - 10; +50 nanites, +10 per level; One copy of the 
+Tome of Spells, which must be on the Mage in order to cast spells. This Tome 
+is accessed as any typical holobook, and can be connected to Altars to expand 
+the Mage''s available spells.
+Weapon Proficiencies: Pistols.
+Armour Proficiencies: Recon.
+Starting Wealth: $1700+100*Luck - 1400
+Feats: The Mage picks one of the following branches at level 5. Instead of 
+gaining more class feats at levels 1-, 15 and 20, they gain access to more 
+powerful spells within that branch. See the Tome of Spells for more 
+information.
+-----------------------
+Name: Warlock
+The Warlock has been trained in the arcane, with specific emphasis on 
+destructive spells for direct combat. Powerful Warlocks are able to turn the 
+tide in a battle, but are more succeptible to damage than their allies.
+Unlocks access to the Warlock spells in the Spell Tome.
+-----------------------
+Name: Controller
+Controllers hold interest in swaying the battle through affecting their 
+targets with less than lethal means. This doesn''t necesarily mean they are 
+above hurting those they combat. On the contrary, their means often lead to a 
+slower demise for their opponents.
+Unlocks access to the Controller spells in the Spell Tome.
+----------------------
+Name: Tactician
+The Tactician sees the battlefield from a different angle than their more 
+combat oriented fellows. Rather than approach a problem head-on, they prefer 
+to pursue alternate solutions, shaping the battlefield to favor their allies.
+Unlocks access to the Tactician spells in the Spell Tome
+
+"Sorcerer" - If the Mage is the performer, the Sorcerer is the composer. They 
+shroud themselves in secrecy, operating at the highest levels of their 
+organizations. Typically they spend their time researching new uses of Nanites 
+and reverse engineering captured technology. As the designers and researchers, 
+Sorcerers generally don''t need to have a Tome of Spells handy to cast their 
+spells. However, this also means that their spell knowledge is limited to 
+their memory, so they frequently shift around a mental list of spells which 
+can be used.
+Passives: Knowledge Nanites - 10; +50 nanites, +10 per level.
+Weapon Proficiencies: Pistols.
+Armour Proficiencies: Recon.
+Starting Wealth: $1700+100*Luck - 1400
+Feats: The Sorcorer picks one of the following branches at level 5. Instead of 
+gaining more class feats at levels 1-, 15 and 20, they gain access to more 
+powerful spells within that branch. See the Tome of Spells for more 
+information.
+----------------------
+Name: Conjurer
+Conjuration Sorcerers are usually Good aligned. Their research has revealed 
+many powerful spells that often involve creating structures or elemental 
+effects used for support or direct combat.
+-----------------------
+Name: Phaser
+The Sorcerer who walks the path of the Phaser is one who has realized that 
+Nanites are too powerful to be used by lesser beings. Their knowledge is used 
+to absorb other Nanite user''s attacks, often redirecting them. They can also 
+be powerful controllers.
+-----------------------
+Name: Consumer
+Consumers are generally the product of a powerful Sorcerer falling into Evil 
+ways. Their Technology favors negating other Nanite users'' abilities, 
+stealing Nanites from others, and denaturing matter. Consumers are powerful 
+direct combatants.
+
+"Gunslinger"
+Passives: [APPLY ONLY TO PISTOL]
+Choose one: Pistoleer lvl 1, Quick draw, Conceal Weapon, Steady Shot, +5 Round 
+capacity to mags, +2 mags to arsenal. Also choose two bonuses and one weakness:
+    - Bonuses: +10 Dam, +10m, -10% Miss Chance, +CS burn, +1 rds in mag;
+    - Weaknesses: -10 Dam, -10m, +10% Miss Chance, -1 magazine;
+Weapon Proficiencies: Pistol.
+Armour Proficiencies: Recon, Light, Concealed.
+Starting Wealth: $1700+100*Luck - 800
+Feats:
+----------------------
+Heightened awareness -
+Being aware comes with your level of training. You cannot be caught flat-footed
+, but opponents can still get surprise rounds against you.
+|
+|
+|
+V
+You are omni-aware to any attacks made against you or allies. Whenever an 
+enemy attempts to make an attack of opportunity on you or any allies within eye
+-sight, you gain an attack of opportunity on them.
+----------------------
+Enhanced Gun-Kata -
+You are a disciple of the art of close-range pistol fighting. Applies to any 
+target within 15m. On a successful hit, you may continue rolling hits until 
+you fail to hit or run out of rounds in your magazine. You must make each 
+successive hit on a different target. THIS MEANS ONE HIT PER TARGET PER KATA.
+|
+|
+|
+V
+You are a master of pistols. Applies to an target within 35m. On a successful 
+hit, you may continue rolling hits until you fail to hit. if you run out of 
+rounds, you may reload mid-kata by passing a DC 75% DEX check. You may hit a 
+target multiple times, but there must be one shot between shots fired at a 
+single target. (Ask GM).
+----------------------
+
+"Assassin" - The galaxy is a dangerous place for those who would believe their 
+power or influence are limitless. The assassin lurks in the shadows, either as 
+a lone force of justice, or as part of a larger organization. They have 
+rightfully earned the title of Galaxy''s greatest Hand to Hand Fighters.
+Passives: No penalty for engaging in Grappling maneuvers. 
+Assassins wear a Shadow Cloak, which allows them to become a mere silhouette. 
+When in partial darkness or darker, the static DC increases by 10.
+NOTICE: SEE BASIC RULES FOR ADDITIONAL CLOAKING ATTRIBUTES
+Weapon Proficiencies: Pistol, Hand to Hand Expert
+Armour Proficiencies: Concealed, Recon, Light, Cloaking.
+Starting Wealth: $1700+100*Luck - 1300
+Feats:
+----------------------
+Shadowy Assassin -
+Your moving cloak DC increases by 10. Melee attacks made while in cloaking do not 
+break your cloaking unless you are observed making the attack. Any damage 
+dealt while in cloak is treated as standard-Crit damage.
+|
+|
+|
+V
+Your moving cload DC increases by 20, melee attacks made while in cloacking do not 
+break your cloaking. If you are observed making the attack, the observer must 
+pass your cloaking DC in order to observe the attack. All damage dealt while 
+cloaked is treated as Extra-Crit damage.
+----------------------
+Azure-Assassin -
+At the cost of 20 Nanites, you can summon Nanite-crystal blades. These blades 
+are as tough as high-carbon steel, have properties of a CS edged knife, but 
+break after a single use. They can be thrown or used manually. Blades appear 
+at the users hand, as if pulling them from nowhere.
+|
+|
+|
+V
+At the cost of 15 Nanites, your Nanite-Crystal Blades can be summoned. Damage 
+dealt by these blades is always treated as Standard-Crit damage, in addition 
+to any CS burns afflicted to the target. Blades appear at the users hand, wrist
+, etc. Blades can also appear with some momentum for RP purposes.
+
+"Marksman" - Your expert knowledge of bullet balistics, feel for physics and 
+keen eyes have given you insight into the art of precision warfare.
+Passives: Gain sniping at 10. Long Rifles do not have minimum ranges imposed 
+due to the use of a high-power scope. However, you will have to make a reflex 
+save to fire at any targets that fall inside the traditional "minimum" range, 
+so be sure to note what that range is.
+Weapon Proficiencies: Long rifles, Pistols.
+Armour Proficiencies: Recon, Light, Concealed, Cloaking.
+Starting Wealth: $1700+100*Luck + 2000
+Class Feats:
+----------------------
+Pin Target
+If you fire at a target that is in cover, you can choose to "Pin" the target. Only 1 target may be
+Pinned by the marskman at a time. If the target attempts to move from cover within a 180 degree field
+of view infront of you, you may roll a DC 60 sniping skill check to hit them, as a free action. For the
+remainder of the encounter, you have a +10% to hit the pinned target with a firing action. If the target moves, 
+it is still considered pinned, and if the target dies or escapes from the battlefield you may pin a new target.
+Pin can only be activated by a pinned target once per Marksman player's turn. Only usable with long-rifles.
+|
+|
+|
+V
+Multi-Pin
+You can now Pin a maximum of PER/2 (round down) targets at  time (you still have to fire at a 
+target to pin it). +20% to hit a Pinned target (instead of +10%). The Multi-Pin ability can be 
+activated by a pinned target once, per target, per Marksman player's turn. (I.e., 3 Pinned targets can 
+trigger Multi-Pin once each for a maximum total of 3 triggers before a marskman player's next turn).
+----------------------
+Tech Rounds
+Spend 10 nanites. Choose from the following list of effects:
+    Gas round: On hit, releases a cloud of gas 3m accross centered on the 
+    target. Any enemies inside this cloud take a +10% Miss Chance debuff for 1
+    turn, and 10 damage.
+    Flash round: On hit, a blinding light emenates from the target. All 
+    players within 5m of the target are stunned for 1 turn.
+    Shock round: On hit, electrifies the target, dealing an additional 10 
+    damage + more for cybernetic units and also paralyzes them, forfeiting 
+    the first 2 Actions of their turn, FORT DC 50
+|
+|
+|
+V
+Tech Rounds II
+Spend 10 nanites. Choose from the following list of effects, activated on a 
+successful hit:
+    Thermite round: Target takes 10 burning damage, and 10 points off of their
+    armour Hit Percent. if the roll is less than 20% over, then the cover 
+    takes 20 damage.
+    Node round: Extend the range of a friendly Mechanic''s drone control to 
+    the hit enemy, or allow remote access by a firendly Priest.
+    Drain round: Half damage dealt to the target''s Nanite pool.
+    Seeker round: Increase your crit range by 10%.
+    Denial of Service: Does not deal damage. Half of your standard damage may 
+    be used as a bonus to a friendly Priest''s hack 
+
+"Beserker" - As an afficionado of the combat arts, you understand how 
+important tactile feedback is. Guns simply don''t offer the appropriate ammount
+, which is why you prefer to BEAT YOUR ENEMIES TO DEATH USING YOUR BARE HANDS 
+WHENEVER POSSIBLE!!!!!!!!!!!!!!!!!!!! MORE EXCLAMATION MARKS!!!!!!!!!!!!!!!! 
+Passives: Expert unarmed.
+Weapon Proficiencies: Pistols.
+Armour Proficiencies: Concealed, Recon, Light, Medium, Heavy.
+Starting Wealth: $1700+100*Luck - 1200
+Class Feats:
+----------------------
+Blood Rage -
+You gain a permanent 30 health. In addition, you deal an extra point of melee 
+damage for each health point you are missing. If more than a third of your 
+health is missing, your move speed is 1m per action farther.
+|
+|
+|
+V
+You gain a permanent additional 30 health. If you are missing more than half 
+of your health, you gain a -20% chance to miss with melee weapons.
+----------------------
+Beast Mode
+Once per engagement, you give a mighty shout and rush to engage your foes. For
+2 turns, your move speed increases by 2m per 2 Actions, your melee damage 
+increases by 30 points and you gain 60 temporary hp which lasts until the end 
+of this effect. 
+|
+|
+|
+V
+Enemies within 3m * your charisma of you when you shout must pass a DC 70 
+check not to target you, you gain a temporary 120 hp. This effect lasts an 
+additional turn as well.
+
+"Monk"
+Head to any secluded Corporate Temple and you''ll find many Monks studying the
+ancient texts and learning about sacred technology. Of these holy disciples, 
+a few are trained to defend the Temple in case of attack. All Monks take an 
+Oath to not utilize "lesser" technologies [guns, armour, and even nanite 
+packs.], for only through embracing the Higher Technologies can one Advance 
+oneself to the planes of the Great Ones.
+Passives: No penalty for engaging in Grappling maneuvers. Hand to hand 
+Expert, 20. +20 damage to non-lethal attacks, +10 damage to lethal attacks. At
+level 5, and again at level 15 all monks must head back to their home temple 
+or seek a wise master to learn more advanced techniques. Until this training 
+has been completed, a monk cannot proceed to the next level. Part of this 
+training is also usually a Monk''s Aura shield, which reduces incoming damage
+, regardless of type, by 10, and reduces melee damage by 20, but at the cost 
+of 100 nanites spent to activate the shield. Activation is a free action. 
+Each shield lasts for one encounter. Monks may meditate once per day for an 
+ hour to regain any nanites lost in this way.
+Weapon Proficiencies: none
+Armour Proficiencies: none
+Starting Wealth: $0 (assume basic robe and communicator)
+Class Feats:
+----------------------
+Elemental Strike -
+Choose a type from the following list, and deal 1 counter of that type to your
+opponent on each successful unarmed strike, with its listed effect:
+	Fire: 10 burn damage.
+	Ice: 10 cold damage.
+	Plasma: 10 burn damage.
+	Electricity: 10 shock damage.
+|
+|
+|
+V
+Elemental Strike, Advanced
+You may either uppgrade your existing element type, or take a second element 
+type from the first list.
+	Upgrades:
+	Fire: 15 burn damage, target catches fire and must put it out.
+	Ice: 15 cold damage, area hit now has minor frostbite.
+	Plasma: Stricken area is disabled.
+	Electric: 15 shock damage and target is paralyzed for 1 turn, DC Knowledge
+	[Nanites] Check.
+You may also choose to switch to one of the following types:
+	Necrotic: 10 necrotic damage, target is afflicted with necrocy and must
+	seek medical attention.
+	Vampiric: Heal self for 10, target loses 20 nanites.
+	Capacitive: target loses 20 nanites and recieves 1 CS burn counter.
+	Other [Discuss any ideas you have with the GM).
+
+Shadow Strike -
+Instead of rolling to hit based on oppenent armour + hand to hand skill, you 
+only have to pass a DC 50 Knowledge [Nanites] check.
+|
+|
+|
+V
+Shadow Walk
+Roll a Knowlege [Nnaites] check, DC 50. You may teleport up to Result-50/10 
+meters. You may also roll stealth after emerging at no action cost. Movement 
+in this manner is considered to take an action, plus another action for the 
+skill check. Monks still receive a penalty attack for performing a skill check 
+in melee combat.
+
+//===================================================================
+//Copyright 2016 Taylor Rowland
+//
+//Licensed under the Apache License, Version 2.0 [the "License");
+//you may not use this file except in compliance with the License.
+//You may obtain a copy of the License at
+//
+//   http://www.apache.org/licenses/LICENSE-2.0
+//
+//Unless required by applicable law or agreed to in writing, software
+//distributed under the License is distributed on an "AS IS" BASIS,
+//WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+//See the License for the specific language governing permissions and
+//limitations under the License.
+//===================================================================
