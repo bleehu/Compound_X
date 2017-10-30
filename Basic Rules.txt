@@ -1,10 +1,9 @@
-Welcome to Compound X!
-
 This document was created in order to help clear up how everything works in 
 this game.
 ==============================
 Premise:
 ==============================
+
 Welcome to Compound X! The specific time and place that your adventure takes
 place is up to your Game Master (often called a GM for short), but all of them
 take place far in the future where humans have left earth on their faster-than-light
@@ -34,7 +33,7 @@ at doing whatever it is you are attempting to do. What to add when is discussed
 in detail below. 
 
 For now, know that Compound X uses two ten-sided dice (usually called D10s) to
-represent a percent. One of the D10s represents the number in the 10's place.
+represent a d100, a percent. One of the D10s represents the number in the 10's place.
 the other represents the number in the 1's place. Most dice sets come with two
 D10s, one with a zero after the number on the face, the other without that zero.
 In that case, obviously you add the numbers on the face of the dice together to
@@ -86,6 +85,7 @@ Either in combat or out, play usually follows this loop:
 ==============================
 Your Character:
 ==============================
+
 In Compound X, you control one particular person. This person is your avatar
 in the game world. You decide what they say, how they react and what they do
 just by telling your Game Master at the appropriate time. But before you can
@@ -131,15 +131,41 @@ Feats		- Your character will gain special perks as you level up. This
 Player Stats:
 ==============================
 
-Each player has what are called Base Stats. An average person has a '5'
-for each stat, but an average player has a '6' . These stats are:
+Each player has what are called Base Stats. An average person has a '5' for
+each stat, but an average player has a '6'. Base Stats are split into Primary
+and Secondary stats. Primary stats are determined by your Base Stat points.
+Secondary stats are derived from primary stats. The largest primary stat
+associated with a given secondary stat determines the secondary stat's value; 
+However, if you have a primary stat that is associated with more than one secondary 
+stat, you may have to choose which secondary stat to contribute to.
+These stats are as follows (secondary stat associations are indented):
 Strength
+      ╠═ Carry Ability
+      ╚═ Movement Speed
 Perception
 Fortitude
+      ╚═ Carry Ability
 Charisma
+      ╚═ Skill Point Gain
 Intelligence
+      ╚═ Skill Point Gain
 Dexterity
-and Luck.
+      ╚═ Movement Speed
+Luck
+
+Secondary stat assignment examples: Charisma and Intelligence are associated with 
+Skill Point Gain. If you have 5 Charisma and 6 Intelligence, you would have 6 Skill 
+Point Gain.
+Let's now assume you have 6 Strength, 3 Dexterity, and 4 Fortitude. You would have 
+3 Movement Speed (from your Dexterity) and 4 Carry Ability (from your Fortitude). 
+Now, Strength is much higher than both of those, but Strength can't determine both 
+Movement Speed and Carry Ability so you have to decide whether you want:
+3 Movement Speed and 6 Carry Ability 
+		or 
+6 Movement Speed and 4 Carry Ability 
+Strength determing Movement Speed is likely to be the better choice, as Carry 
+Ability doesn't contribute as much to your character (see Secondary Stat Details, below)
+and you have a total of 6 + 4 = 10 points in secondary stats instead of 3 + 6 = 9. 
 
 Usually you can tell a lot about a character just by their base stats. For
 instance, a character with 9 strength and 3 intelligence is usually either
@@ -167,16 +193,73 @@ and the score of your roll would be
 That's a really high roll! But that may or may not be enough to lift the object
 depending on how heavy it is!
 
+Combat Stat Bonus for Ranged and Melee Accuracy:
+These bonuses use a table instead of the above Stat Bonus equation, as combat accuracy
+rolls are played out on a d10, not a d100 scale. The two most-used base stats for accuracy
+rolls are Perception and Dexterity. The Perception stat affects a ranged weapon's range 
+bracket miss chance, and the Dexterity stat affects melee miss chance.
+╔════════╦═════════════╗		
+║ Stat   ║ Stat Bonus  ║
+╠════════╬═════════════╣		
+║ 1      ║ -1.5	       ║	
+╠════════╬═════════════╣		
+║ 2      ║ -1	       ║	
+╠════════╬═════════════╣		
+║ 3-4    ║ -0.5	       ║		
+╠════════╬═════════════╣	
+║ 5      ║  0	       ║	
+╠════════╬═════════════╣	
+║ 6-7    ║  0.5	       ║	
+╠════════╬═════════════╣	
+║ 8-9    ║  1	       ║	
+╠════════╬═════════════╣	
+║ 10-11  ║  1.5	       ║	
+╠════════╬═════════════╣	
+║ 12-13  ║  2	       ║	
+╠════════╬═════════════╣	
+║ 14     ║  2.5	       ║		
+╠════════╬═════════════╣
+║ 15     ║  3	       ║		
+╚════════╩═════════════╝
+Drop any remaining decimal (in other words, round down) to the nearest whole number when 
+you are writing down the final miss chances of your weapon(s). For example, let's say you
+have a basic SMG with miss chance brackets of 4, 5, and 6. Assuming you have 6 Perception,
+your PER bonus is 0.5 and thus, your gun's range miss chance brackets are:
+(4 - 0.5), (5 - 0.5), (6 - 0.5)  =  3.5, 4.5, 5.5
+If these are your final miss chances, you would have to drop the remainder and your slightly-
+above-average perception wouldn't make enough of a difference to affect your miss chances!
+But let's say you also have a Dot Sight that you can put on your SMG. The Dot Sight
+gives a bonus -0.5 range bracket miss chance (among other benefits). This means you now have
+the following range brackets:
+(4 - 0.5 - 0.5), (5 - 0.5 - 0.5), (6 - 0.5 - 0.5)  =  3, 4, 5
+Perfect! Now your Perception and Dot Sight bonuses, together, reduce your range bracket
+miss chances by 1 point. If you don't have any other bonuses (from other attachments,
+feats, or abilities) then you would write down 3, 4, 5 as your range bracket miss chances.
+
+If your gun has automatic and/or burst fire, you'd add its associated miss chances to your
+range bracket miss chances and separately write down those numbers (after all bonuses to range
+bracket miss chance and bonuses to automatic or burst fire). In other words, if you have a ranged
+weapon with semi-auto, burst, and automatic fire modes, then you should write down 3 sets of 3 miss
+chances; one set for each of the 3 fire modes.
+For example, let's now assume your gun has a burst fire miss chance of 1 and an automatic fire miss
+chance of 3, your ranged bracket miss chances should look something like this:
+0-10m, 11-20m, 21-40m	range brackets
+  3,     4,      5    	semi-auto miss chances
+  4,     5,      6	burst fire miss chances
+  6,     7,      8	automatic fire miss chances
+
+Base Stat Details:
 Each Base Stat has different specific effects. They are detailed below.
 
-Strength:
+==== Primary Stat Details ====
+Strength (STR):
 	How strong are you? This stat dictates how big of a gun you can carry and
 	how hard you can punch or hit with strength melee weapons. It might also allow 
 	you to solve puzzles with the brute force approach.
 		If you have 1 Strength, you are exceptionally weak and your max movement per
 	2 actions is 2m (unless your Dex is 1) and you cannot wear armor that offers more 
 	than 50% coverage.
-Perception: 
+Perception (PER): 
 	Your ability to see, hear, smell and sense the world around you, as well as
 	to interpret what those sensations indicate. Perception affects your weapon 
 	accuracy and ability to cut through the chaos of battle to stay oriented. A high
@@ -184,29 +267,32 @@ Perception:
 		If you have 1 Perception, you are partially blind, only have 1 eye, or
 	something similar. You cannot use the Search or Awareness skills and you have a 
 	-20 malus to Speech skill rolls. 
-Fortitude: 
+Fortitude (FORT): 
 	How tough are you? Fortitude dictates your maximum health, how hard you are to 
 	knock off of your feet, and contributes to your saving throws.
 		If you have 1 Fortitude, you are exceptionally frail. You can't inflict lethal 
 	unarmed damage and your unarmed damage is halved. Also, when you deal melee damage, 
 	you inflict half of the damage on yourself.
-Charisma: 
+Charisma (CHA): 
 	How good are you at communicating with those around you? Charisma affects a 
 	number of interpersonal skills like haggling and diplomacy. It also contributes to 
 	how hard it is to dominate your will.
 		If you have 1 Charisma, you have a debilitating speech impediment. You have
 	an additional malus of -24 when using Speech, Deceive, and etc. skill. Under normal 
-	circumstances, you have to succed a DC 30 CHA skill check in order to communicate 
+	circumstances, you have to succeed a DC 30 CHA skill check in order to communicate 
 	with a non-player character (NPC). In combat, vocal communication to anything costs
 	1 Action.
-Intelligence: 
+		If you have 6 or more Charisma you gain the feat "Will to Survive". The feat scales
+	depending on how many points you have in Charisma. Or, if you have 9 or more Charisma,
+	you get to choose between taking feat "Will to Survive" or feat "Positional Mastermind". 
+Intelligence (INT): 
 	How smart are you? Intelligence dictates how many Nanites you have to cast spells
 	with or use certain Feats and abilities. It also affects how quickly you acquire new
 	skills when you	level up and how proficient you are at using some of those skills.
 		If you have 1 intelligence, let's just say, you aren't particularly smart. 
 	You cannot attempt to use any skill that you do not have Proficiency in (see the 
 	"RP / Using Skills" section).
-Dexterity: 
+Dexterity (DEX): 
 	How nimble are you? Dexterity decides your maximum move speed in combat, as well 
 	as how much damage you do with finesse melee weapons like knives. Dexterity also 
 	contributes to skill checks for doing things with a character's body like climbing,
@@ -214,11 +300,13 @@ Dexterity:
 		If you have 1 Dexterity, you are especially clumsy or suffer from a debilitating
 	illness which affects your ability to move swiftly and precisely. You cannot learn any
 	skills that use Dexterity as the contributing stat (for example, lockpicking).
-Luck: 
+Luck (LUCK): 
 	Some people are just lucky! A GM will often have you roll luck to see if a door was
 	left unlocked or if you just happened to duck to pick up a coin off the ground right 
 	when an assassin is trying to shoot you in the head. Luck also has a significant effect
 	on what loot you find in dungeons and your chance to roll a critical hit.
+		If you have 6 Luck or more, you gain feat "Lucky". The feat scales depending
+	on how many points you have in Luck.	
 		If you have 1 Luck, it goes without saying, you are very unlucky. At the start of
 	a combat encounter, roll a d10 and receive a penalty from the Black Cat table, below.	
 
@@ -236,8 +324,17 @@ Luck:
 ╠═══════╬═══════════════════════════════════════════════════════════════════════════════════════╣
 ║ 9-10  ║ Nothing bad happens... this time							║
 ╚═══════╩═══════════════════════════════════════════════════════════════════════════════════════╝
+
+==== Secondary Stat Details ====
+Movement Speed:
+	Your speed in meters, for every two actions.
+Carry Ability:
+	Not 'carrying' in the traditional sense. Carry ability cancels out movement speed penalties.
+	If you have 6 Carry Ability and 6m of movement speed penalties, you end up with no speed penalty.
+Skill Point Gain:
+	How many skill points you gain every level.
 	
-Assigning Stats to a new character
+Assigning Stats to a New Character
 	When making a new character, you'll have to assign their Base stats.
 This will tell you a lot about your character. When assigning your stats,
 no stat can be higher than a 9 before applying racial/species bonuses and
@@ -248,11 +345,11 @@ level 15. After level 15, the limit for stat points is 20. The number of
 initial base stat points that you have to apply is listed with your Race or 
 Species. See chapter 1: Races if you haven't yet. 
 
-Leveling up:
+Leveling Up:
 Gain feats according to the table below.
-With Charisma 9 or higher, receive more feats. The feats listed in the table are totals, 
+With Intelligence 9 or higher, receive more feats. The feats listed in the table are totals, 
 not to be added together.
-every level, gain 2*int skill points
+every level, gain 2*(Skill Point Gain) skill points
 every 5th level, +1 Class feat
 On levels 5, 9, 15 and 20, gain a stat point. The stat increase happens before any 
 calculations, so if you had 10 int, and increased to 11, you would get 22 skill points
@@ -260,7 +357,7 @@ for the level. Additionally, any stat point alteration forces a recalculation on
 affected values.
 
 ╔═══════╦══════════╦═══════╦════════════╦════════════╦═══════════════╗
-║ Level ║ Skill P. ║ Feats ║ Class Feat ║ Stat Point ║ Feats (9 CHA) ║
+║ Level ║ Skill P. ║ Feats ║ Class Feat ║ Stat Point ║ Feats (9 INT) ║
 ╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
 ║ 0     ║ Given    ║ 0     ║            ║            ║ 0             ║
 ╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
@@ -292,7 +389,7 @@ affected values.
 ╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
 ║ 14    ║ "        ║ 8     ║            ║            ║ 11            ║
 ╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
-║ 15    ║ "        ║       ║ 3          ║ +1         ║               ║
+║ 15    ║ "        ║       ║ 3          ║ +1         ║               ║ 
 ╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
 ║ 16    ║ "        ║ 9     ║            ║            ║ 13            ║
 ╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
@@ -318,7 +415,7 @@ negative effects.
     - Reflex: quickly react to an event (Ex: dodge falling debris, fire at an 
     	enemy if they leap from one piece of cover to another).
 the equations are as follows:
-    - Will: 2*(Cha + Fort - 6) Rational: Normally wisdom would be applied, so 
+    - Will: 2*(Cha + Int - 6) Rational: Normally wisdom would be applied, so 
     	Will in compound X is descried as your internal voice motivating you to
         endure a mental hardship.
     - Shock: 2*(Fort + Int - 6) Rational: You need to recognize that you are 
@@ -337,7 +434,7 @@ The medicine DC is equal to the damage dealt. On a fail skill check, no
 healing occurs. On a success, heal an amount equal to Medic skill + DC surplus.
 Ex: player is dealt 70 damage. Medic has 25 skill. Medic rolls an 86 (with 
 medic skill), so they heal 25+(86-70) for 41 health healed.
-Individual wounds are healed individually. 3 20 damage wounds needs three 
+Individual wounds are healed individually. 3x 20-damage wounds need three 
 rolls of 21 or higher.
 Ex: Player takes 70 damage. Medic has 25 skill. Medic rolls an 86 (with medic 
 skill), so they heal 25+(86-70) for 41 health. Now the player still has a 29 
@@ -392,8 +489,20 @@ also known to the state of California to cause cancer.
 
 
 ==============================
+Resting
+==============================
+
+Short Rest:
+Taking about an hour, characters can take a short rest to rest and recoup.
+
+Long Rest:
+Taking about eight hours, characters need to rest after a long day of adventuring.
+If you choose to stay up all night, you won't be at your best for the next day.
+
+==============================
 RP / Using Skills:
 ==============================
+
 The GM may ask you to roll a certain skill to see if your character can do 
 something. This may be something like, "Roll Awareness to see if you spot the 
 truck barreling towards you," or it might look like, "Roll Medicine to see if 
@@ -437,8 +546,8 @@ other mercantile area. Ask the GM if there are weapon shops or kiosks around,
 they should point you to one. From there you can apply upgrades and 
 attachments.
 The GM may tell you specific attachments that are available, or they may say 
-you can just go about your usual customization. Only one attachment can be 
-used per section (unless specifically stated in the item''s description). 
+you can just go about your usual customization. See the Attachments document
+for more details on the kinds of attachments you can use, and their restrictions.
 
 ==============================
 Combat:
@@ -448,10 +557,11 @@ Combat starts when either you or an enemy decides they would like to make an
 attack. Each "Player turn" lasts 4-6 seconds, and consists of 4 "Actions" 
 (described below).
 
-//Rules for stealth attack / flat foot
-//-20%, -10% crit, reduce chance to hit armour (20%?)
-//If your attack would normally force the target to roll a fort save, they are 
-//incapacitated by default with no roll.
+At any time when using a melee or ranged weapon, you have a minimum of -2 weapon
+miss chance, and a minimum of 1 Auto or burst miss chance (if relevant). These 
+minimums apply after all PER/DEX/STR/Attachment modifiers, at all ranges, and 
+before cover and any other environmental effects. Using an ability could push 
+you below the minimum miss chance.
 
 Melee Notes:
 A character occupies 1m of space. however, as Compound X is not played out on a 
@@ -469,112 +579,263 @@ Characters also incur "penalty attacks" when moving through or next to an
 enemy character''s 1m space, or within range of a melee weapon that the enemy 
 has equipped, and when performing a skill check when in melee combat.
 Melee combat is relatively simple. To hit an enemy player, add your dexterity 
-or strength modifier to a roll, plus any relevant skill. The result must be 
+modifier to a d100 roll, plus any relevant skill. The result must be 
 greater than the opponent''s DEX * 5 + any skill in combat (Guard DC). Your 
-damage dealt is based on your DEX or STR modifier. If you are wielding a 
-weapon against an unarmed opponent, they may still incur damage depending on 
-their skill.
+damage dealt is based on a combination of your DEX and STR modifier. If you 
+are wielding a weapon against an unarmed opponent, they may still incur damage
+depending on their skill.
+
 A character may grapple another character when they are both in melee 
 distance. Doing so provides the grappled player a "penalty attack" on the 
 grappling player. During grappling, both sides roll opposing grapple checks to 
 see who maintains control. Once you have control you may make a grapple check 
-to subdue your opponent (either through choke-out, pin, or a joint lock). You 
-may also strike an opponent during grappling, but if the strike fails your 
-opponent may attempt to gain control of the grapple. Skill in grappling is 
-different than skill in unarmed combat.
+to subdue your opponent (by choke-out, pin, or a joint lock). You may also strike
+an opponent during grappling, but if the strike fails your opponent may attempt 
+to gain control of the grapple. Skill in grappling is different than skill in 
+unarmed combat.
+Instead of dealing full damage, a character can try to kick/shove a human sized
+opponent to force movement by rolling for a normal unarmed attack with a -2
+miss penalty. If the attack succeeds, it yields 1/2 the damage it normally 
+would and pushes the target 1m for every 5 strength you have.
 
 Actions:
-During combat, your character is given 4 Actions to use for fighting, 
-movement, using items, etc. Here is a table of common tasks and their
+During combat, your character has 4 Actions. Actions are used for fighting, 
+movement, items, whimpering, etc. Here is a list of common tasks and their
 relative cost:
 
 Reloading a Pump-Action Shotgun - 4 Actions
-Reloading a Bolt-Action weapon - 3 Actions
-Moving DEX meters - 2 Actions
-Hunkering Down - 2 Actions
-Firing a semi-auto gun - 1 Action
+Reloading a Bolt-Action Weapon - 3 Actions
+Reloading a Magazine Fed Weapon - 2 Actions
+Moving DEX # of Meters - 2 Actions
+Hunkering Down - 1 Action
+Firing a Semi-Auto Gun - 1 Action
+Suppressing an Area/Target - 1 Action
 Cast a Spell - 1 Action
-Aiming Down Sights - 1 Action
-turning on a flashlight - 1 Action
-Unholstering Pistol - 1 Action
-Performing a skill check (other than Awareness) - 1 Action
-Conversing with partners - Free Action
-Getting your bearings / non skill-based perception - Free Action
+Aiming Down Gun Sights - 1 Action
+Turning on a Flashlight - 1 Action
+Unholstering Pistol or Grabbing a Weapon/Item - 1 Action
+Performing a Skill Check (other than Getting Bearings/Awareness of surroundings) - 1 Action
+Conversing With Partners - Free Action
+Getting Your Bearings / Non Skill-Based Perception - Free Action
 
-Movement:
-You can run DEX number of meters per 2 actions. A character with 1 DEX can 
-move 1m per 2 actions, or 2m per 4 actions (a full turn). You can sprint 
-instead of running, for a +2 movement bonus per two actions. However,
-firing your weapon after doing so will cause you to incur a +30% firing penalty.
-The penalty occurs during the actions you sprint, as well as 2 actions 
-afterwards. You can stack sprinting a number of Actions equal to your Fortitude; 
-however, for each Action taken sprinting, an Action of recovery (and resulting 
-+30% weapon penalty) must be taken after the sprinting ends.
-You can jump horizontally Dex/2 meters, and add 1 meter if you have a 5 meter 
-running start.
+Movement and Sprinting:
+You can run 'Movement Speed' minus 'Movement Speed Penalty' number of meters for every
+2 actions spent (Movement Speed Penalties should be rounded up before the subtraction).
+A character with 1 Movement Speed and 0 move speed penalties can move 1m per 2 actions, 
+or 2m per 4 actions (a full turn). You can sprint instead of running, for a +1 movement 
+bonus per action. However, firing your weapon after doing so will cause you to incur a 
++1 miss chance penalty. The penalty occurs during the actions you sprint, as well as 2 
+actions afterwards. You can sprint for a number of subsequent Actions equal to your Fortitude.
+You can jump horizontally Dex/2 meters, and add 1m if you have a 3m running start.
 You can jump vertically Str/3 meters.
 
 Fighting:
-During combat, most weapons are Semi-Auto, meaning that each time you pull the 
-trigger, the gun fires and chambers a new round automatically one time. It 
+If a player or opponent is standing outside of cover and they are shot at, 
+after the first firing action (assuming they didn't die or go unconscious), 
+they immediately, 'Hit the Dirt'. When you Hit the Dirt, you dive to the ground,
+going prone, within a 2m range of where they stood (DEX movement rules apply 
+as normal). Hitting the dirt consumes the 1st action of their next turn.
+
+During combat with a ranged weapon, you can aim and fire or, more simply, just fire
+at a target. If you shoot without aiming, you are "Hip Firing" and incur additional
+aiming penalties (see Hip Firing, below).
+Most weapons are Semi-Auto, meaning that each time you pull the 
+trigger, the gun fires once and chambers a new round automatically. It 
 takes 1 Action to fire a semi-auto weapon in this way. Some guns, 
 such as Shotguns and Bolt-Action sniper rifles require 2 Actions to fire 
 the gun, where the first Action is a trigger pull, and the second Action
-is the re-chambering of the weapon.
-To hit, Players must roll a percentile that is over their weapon's % miss 
-stat. When an enemy is in cover, their cover score is added to your weapon's 
-miss chance. If your normal miss chance is 25, and the enemy is in full cover, 
-your miss chance is increased by 50, for a final DC of 75.
-Critical Hits:
-If your Luck is 5, on a roll of 90-1 through 90-5, the hit is considered a 
-Critical hit, and deals an extra 10 damage. on a roll of 90-6 through 00-0, 
-the hit is considered an Extra-Critical hit, and deals an extra 20 damage. 
+is the rechambering of the weapon.
+To hit a target, Players must roll a d10 that is over their weapon's miss stat.
+When an enemy is in cover, their cover score is added to your weapon's miss chance. 
+Lets say your normal ranged miss chance is 2, and the enemy is in full cover, your
+miss chance is increased by 4, for a final DC of 6. So a roll of 7-10 would be 
+successful.
 
-Your Luck modifier ((Luck-5)*4) is subtracted from the lower bound of your critical
-hit range and half of your luck modifier is subtracted from the lower bound of your
-extra-critical hit range. All weapons can critical hit except for Fully-Automatic
-weapons (weapons that shoot more than 1 bullet per half-action by default).
+Critical Hits:
+Critical hits are accuracy rolls that land inside your critical hit range (aka. crit chance). 
+If you roll a critical hit, your weapon does +20 damage for that attack (and/or other effects,
+depending on your abilities). By default, everyone starts with a critical hit range of "1", 
+meaning, an attack roll of a 10 would be considered a critical hit. But your critical range may
+not be "1" because your Luck modifies your critical hit range: ((Luck-5)*0.4), drop the remainder,
+is added to your critical hit range. Which means, if you have a Luck stat of 8 (and thus, by
+the equation, +1 to your critical hit range), an attack roll of 9-10 would be considered a
+critical hit. 
+All weapons and melee can critical hit except for Fully-Automatic weapons (weapons that 
+shoot more than 1 bullet per Action by default).
 
 Gun Jams:
-On a roll of 00-01, the weapon Jams, necessitating a weapon skill check, DC 60.
-When a player is defending against a hit, they roll Percentiles under their 
-armor in order to apply a Damage Reduction, or to apply damage to their 
-Capacitive Shields if the player has them.
+If at any time that you are firing a gun and you roll a weapon accuracy of 1, roll a second d10.
+If that second d10 roll is a 1 or 2, the weapon Jams, necessitating a weapon 
+skill check, DC 60. 
 
-Hip Firing doubles a weapon''s miss chance. It is much smarter to takes one 
-action to Aim, and spend the rest of your shots on firing. Its also a great 
-idea to take an action at the end of your turn to "hunker," and gain a 25% 
+Armor and Getting Hit:
+When a player is defending against a successful enemy hit, they roll Percentiles under their 
+armor in order to see if their armor blocked the bullet, and from there, how much
+damage they receive. If the defending player has no armor, they armor roll for a target 50 Percentile. 
+If the armor roll is above 50%, they receive half-damage. Below 50%, full damage.
+
+Armor consists of 3 concepts: Armor Points (APs), Armor Piercing level (APL), and % Coverage.
+Starting from the end, Coverage is simply the percentile that you have to roll
+under to see if armor was hit. If the attack misses armor, or rolls over 50%, it does
+half damage because the bullet is hitting a less vital part of the body. If the attack
+hits armor: Armor Piercing level (APL) comes into play. 
+	APL is a unitless number that represents how well a weapon can pierce armor or
+how well armor can block bullets. If the attackers weapon's APL is less than the
+defenders armor's APL, all damage is blocked. If the weapon's APL is greater than
+or equal to the armor's APL, then Armor Points (APs) come into play. 
+	APs are, effectively, your armor's ability to slow down projectiles as they
+pass through it. Whenever armor is successfully pierced, all damage is first inflicted
+on APs. Once the APs are used up, all remaining damage goes to health. APs refresh at the
+start of the armor wearer's turn.
+
+Shields:
+If you are looking to defend against Lasers or Plasma, you're in the right place. Every 
+laser-toting plasma-fuming space hooligan will be looking to turn you into space-bacon 
+('spacon' for short) on your adventure; shields will slow that process down. If you are hit
+with a laser, shields absorb 100% of the damage, reducing the shield's strength by the 
+damage taken. If you are hit with a plasma weapon, the shield absorbs 50% of the damage, 
+and the rest passes through to the next line of defense (either armor [if present] or the
+character's body). If the shield's strength is reduced to 0, all remaining damage passes 
+through unabated.
+As long as the shield's strength isn't reduced to 0, the shield will recharge 'Recharge Rate' 
+number of points at the start of the wearer's turn. If the shield's strength is reduced to 0, 
+you must wait a "Time Before Restart" number of turns before the shield will restart at 
+"Recharge Rate" strength. If you get hit with a weapon/by melee during that time, you must
+restart your recharging time. 
+If you don't want to wait that long, at the start of your turn you can pay the 
+"Fast Recharge Nanite Cost" to restart your shields. Or if your shield's strength is just
+damaged, at the start of your turn you can pay the "Fast Recharge Nanite Cost" to boost 
+the shield's strength by an extra "Recharge Rate" (in other words, 2x "Recharge Rate"
+instead of the normal 1x).
+
+Hip Firing:
+Add 3 to a weapon''s miss chance. You cannot use optical attachments in
+hip firing unless otherwise noted. It is much smarter to takes one 
+action to Aim, and spend the rest of your shots firing. It's also a great 
+idea to take an action at the end of your turn to "hunker," and gain a +2 
 cover advantage.
+If your weapon has a minimum distance (usually because of a high-powered
+scope), and you fire inside that distance, you are forced to hip fire.
 
-Using Cover:
-Chances are, if an enemy can see you in Compound X, they can hit you. Using 
-cover will make it harder to be hit. You will encounter many types of cover 
-while adventuring throughout the galaxy. Many small objects provide only 
-partial cover, either by partially obscuring your silhouette, or by providing 
-slight protection from projectiles. Full cover will do both to a better 
-degree. Debuffs to enemies %Miss are as follows:
-No Cover: +0%
-Partial Cover: +25%
-Full Cover: +50%
-Hunkering: +25% on top of whatever cover you''re behind.
+Blind Firing:
+Add 6 to a ranged weapon's miss chances. Blind firing allows you to shoot around
+cover without looking or putting yourself at risk. You can blind fire while hunkered.
+Your blind fire miss chance is affected by your base weapon miss chance(s), not affected by
+attachments unless otherwise noted, reduced by PER stat combat bonus (as usual), and reduced
+by LUCK stat combat bonus. It's recommended to calculate this separate miss chance and 
+write it down before combat.
 
-Hunkering costs one action, and you cannot fire your weapons. Imagine 
-curling up in a ball, to pose the absolute smallest target possible. Its a 
-free action to un-hunker
+Using Cover/Stances:
+Chances are, if an enemy can see you in Compound X, they can hit you. Using cover
+will make you harder to be hit. You will encounter many types of cover while 
+adventuring throughout the galaxy. Many small objects provide only partial cover,
+either by partially obscuring your silhouette, or by providing slight protection
+from projectiles. Full cover will do both to a better degree. "Partial Cover" typically
+covers 30-50% of your body, whereas "Full Cover" will cover closer to 60-80%. Crouching
+or going prone will also take better advantage of your surroundings and make you a 
+smaller target. Debuffs to enemies Miss Chance are as follows:
+
+No Cover: +0
+Partial Cover: +2 
+Full Cover: +4
+
+Crouching: +1 (on top of whatever cover you're behind, may completely obscure vision)
+Prone: +2 (on top of whatever -partial- cover you're behind, otherwise, may completely obscure vision)
+Hunkering: +2 (on top of whatever cover you're behind.)
+
+Crouching is a free action, and standing up costs 1 Action. While you are
+crouched, you have -1 movement speed per action (minimum 1) and you cannot
+sprint or use other movement abilities.
+	Going prone costs 1 Action, and standing up costs 1 Action. Lying flat down on
+your chest makes you a smaller target and helps you aim better, but also makes you
+easier to hit in melee. -1 gun miss chance while prone and +2 chance to be hit in
+melee. Being prone severely limits your movement: 1/2 movement speed while prone, 
+round-up; maximum 2 movement per action.
+	Hunkering costs 1 action, and you cannot fire your weapons except by blind-fire 
+(see Blind Firing, above). Imagine curling up in a ball, to pose the absolute smallest
+target possible. Its a free action to un-hunker.
+
+Stealth Attacks & Flanking:
+If you are stealthed (undetected by an opponent) when you initiate an attack
+action, you incur bonuses depending on the circumstances of the attack.
+	Ranged weapon stealth-attacks (including explosive but not any other thrown 
+weapons) have -1 miss chance to hit., if 'adequate' aiming time is given (DM's discretion:
+how rushed you are, or how skilled you are at stealth, etc). Ranged weapon stealth-
+attacks deal +20 damage and, in addition, if you critical hit you gain all the effects 
+of a critical.
+	If you have 10 skill in melee combat, Thrown and Melee (non-explosive) weapons
+deal 2x damage, up to 150 maximum damage (before critical effects). If you critically
+hit, or hit at greater than 3 over your miss chance, the target gets hit in whatever you
+deem to be the most vulnerable; i.e., the head, neck, or the chest (over the heart,
+etc). If you critical hit, you also gain all the effects of a critical.
+	If you are behind a target, aka flanking, your melee attacks gain -2 miss chance.
+
+Suppression: 
+Every player with a ranged weapon gets the option to Suppress as the last 
+action of their turn. Suppression, also known as, "laying down fire", 
+"covering fire", or "suppressive fire" is the art of shooting a hail of 
+bullets (as accurately as possible) to try and prevent the enemy from 
+effectively fighting back while your team maneuvers. Suppression comes in
+three flavors: light, medium, and heavy; these indicate how wide of an area
+is suppressed as well as how effective that suppression is (defined below).
+The type of suppression available to you is dependent on your weapon.
+
+When you Suppress, you aim at the target as part of the action and fire a
+hail of bullets (within your weapon range). Suppression doesn't require any
+rolls to initiate, the suppressor simply fires, creating a light/medium/heavy
+suppression AOE (Area-of-Effect, typically a 1-3m circle). Even though Suppression
+is an AOE effect, if you cross in-front of someone (someone who is suppressing 
+a different person) you will likely trigger automatic attack rolls, DM's discretion.
+
+If a suppressed target moves out into the open**, they trigger automatic attack
+rolls (or automatic hits) by the suppressor, once per target per suppressor's 
+turn. If the suppressed target shoots, they fire with +1 miss chance, not-stackable.
+Suppression status can't be purged unless you move outside the AOE. 
+The only other way to stop being suppressed is to stop the suppressor from 
+using a suppression action on you at the end of their turn.
+
+Light Suppression:
+	As the last action of your turn, aim at a target and fire 3 rounds (or the rest
+	of your magazine, at least 1 round has to be fired) to suppress 1m radius AOE around
+	the target. The target takes a +1 miss chance malus until the start of your next turn, 
+	and if the target moves out into the open**, then roll an immediate reaction to hit the 
+	target with a (non-automatic fire) accuracy roll. Immediate reactions are stackable on a
+	per-weapon basis.
+Medium/Moderate Suppression:
+	identical to light suppression with the following exceptions, you must fire 6 rounds
+	from the current magazine to achieve 'moderate', and you don't have to roll to hit -- you 
+	automatically hit and roll armor.
+Heavy Suppression:
+	identical to light suppression with the following exceptions: you must fire 10 rounds
+	from the current magazine to achieve 'heavy', you don't have to roll to hit -- you 
+	automatically hit x2 and roll for armor. You suppress all targets within a 2m radius 
+	AOE around the primary target.
+
+**"Moving out into the open" includes moving into a new location while you can
+be hit by shots from the suppressor (this excludes moving into complete concealment,
+such as going prone behind a high concrete wall). For example, the following situations
+would trigger a free hit by the suppressor and give you the 'suppressed' status
+while remaining in the area (let's assume you are upright (not crouched or prone)):
+moving from partial cover to an adjacent partial cover, moving from complete concealment
+behind a barricade to partial cover, and moving when you are caught out in the open.
+	If the suppressor cannot physically hit you (such as being completely behind an 
+impenetrable barrier) you are not suppressed. The suppressor doesn't need to see 
+you, to hit you.
 
 Reloading:
 When a gun runs out of ammunition, the user must pause to reload. "But how long 
 do I gotta be outta the battle?" Great question!
 Each gun has a "Reload DC," rated based on the skill and brevity of the 
 weapon''s reload. For example, an assault rifle, which has a very obvious 
-magazine release button and protruding magazine, has an average DC of 25. More 
+magazine release button and protruding magazine, has an average DC of 30%. More 
 complex weapons, such as high-precision sniper systems or exotic sub-machine 
-guns might have a higher DC, maybe 35. If the Player passes the reload, then 
+guns might have a higher DC, maybe 40%. If the Player passes the reload, then 
 the reload time is standard. For Box-Magazine fed Semi- and Fully-Automatic 
 weapons, this is 2 Actions. Other, more complex weapons will specify their 
-reload time. On a critical Success (anything in the 90-100 range), the reload 
-time is halved (for Bolt-Actions it is reduced to 1 Action). On a failure,
-the reload time takes double.
+reload time. On a critical reload success (effected by luck as normal, anything 
+in the 90-100 range caused by a raw roll or by adding your weapon use skill),
+the reload time is halved (for Bolt-Actions it is reduced to 1 Action). On a 
+failure, the reload time takes twice as long.
 
 When players take more than 70 damage, they must roll a Shock save at a DC of 
 the damage taken. On fail they pass out. on success they stay conscious. When 
@@ -593,7 +854,6 @@ Frozen - d10 damage per turn. lasts until a source of heat is applied to the
 Fear - No actions, except running away form the source of fear, or rolling to 
     defeat fear. DC 50, Will save.
 Fear, Greater - No actions, except rolling to defeat fear. DC 75, Will save.
-CS Burn - 1d10/2 stackable damage for 2 turns. + 5 damage against robots, on hit.
 Necrosis - 2d10 +5 damage per turn. Seek medical attention immediately. If 
     left unhealed for more than a day, the infection spreads 1 foot per day. 
     Medicine DC 75, must be rolled.
@@ -624,29 +884,41 @@ Hammered (drunk) - While hammered, you take a -30 to accuracy rolls when
 Stunned/Paralyzed - Affected target cannot take actions for the duration.
 
 ==============================
-Damage Types and Armour types
+Damage Types and Armor Types
 ==============================
 
-There are 4 main types of damage in compound X: Ballistic (conventional 
-firearms, bows), Laser, Plasma, and melee. Additionally, some Ballistic, Laser 
-and melee weapons can deal non-lethal variants. These damage types interact 
-differently with the two types of armour. Ballistic weapons and ballistic armour 
-are the first damage type and armour type players will come across. When 
-ballistic armour is shot by a ballistic weapon, the armour may apply some damage 
-reduction, then the player takes damage. The second type of damage players may 
-come across is plasma. Plasma damage stacks, and interacts fairly neutrally 
-with both ballistic and CS armours. Ballistic armour applies some DR to any 
-plasma damage, but in turn the plasma will melt away part of the armour. One 
-Tenth of the plasma's damage is removed from the armour's hit percent. For CS 
-shields, Plasma deals full damage to the shielding, plus inflicts plasma burn 
-on the wearer. Laser damage is the third type pf damage encountered by players. 
-All lasers deal burn damage on hit. Lasers are completely nullified by CS 
-shields, dealing all of their damage to the shielding, and inflicting no burn 
-damage. Lasers deal full damage to armoured targets, and remove nothing off of 
-the armour's hit percent. If a player wearing ballistic armour is hit with a 
-laser, they receive damage as if they weren't wearing any armour.
+There are 5 main types of damage in compound X: Ballistic (conventional firearms, bows),
+Laser, Plasma, Explosive (concussive), and melee. Additionally, some Ballistic, Laser, and 
+melee weapons can deal non-lethal variants. These damage types interact differently with 
+the two types of protection: Armor and Shields. 
 
-Beyond weapon damage there are also environmental threats to consider. An 
+Ballistic Weapons:
+	Ballistic weapons are straightforward: they are blocked by armor and ignore shields.
+	Any damage that defeats armor damages health.
+Plasma Weapons:
+	Plasma interacts with both armor and shields. Armor's effectiveness is reduced by 
+	1 APL when hit by plasma. Targets hit with plasma, that pierces armor, take (stackable) 
+	plasma burn. For Shields, Plasma deals half damage to the shielding, plus inflicts plasma
+	burn and any remaining damage on the wearer (only if their armor is pierced, of course). 
+Laser Weapons:
+	Lasers are completely blocked by shields, dealing all of their damage to the shielding.
+	Lasers deal full damage to armored targets; If a player wearing ballistic armor is hit 
+	with a laser, they receive damage as if they weren't wearing any armor.
+Explosives:
+	Certain grenades and devices have Explosive (concussive) damage. Explosive Damage ignores
+	armor and shields (explosive damage is essentially, a crushing force). Fragmentation 
+	grenades are considered ballistic weapons, as their primary damage delivery method is shrapnel. 
+Melee/Melee Weapons:
+	Melee damage is treated like ballistic damage.
+Armor:
+	Ballistic Armors (or more simply, Armor) are the first type of protective measure that 
+	you will come across. When armor is shot by a ballistic weapon, the armor may reduce or
+	fully block damage before the character's health is damaged. 
+Shields:
+	CS Shields (or more simply, Shields) are the second type of protective measure that you
+	will come across. Shields normally protect against Plasma and Lasers but not against ballistics.  
+
+Beyond weapon damage, there are also environmental threats to consider. An 
 important note is on fall damage. A player can fall up to their Dex/2 in 
 meters before needing to roll an acrobatics check. If the surface they are 
 landing on is somehow fouled, the GM may require the player to roll an 
@@ -680,66 +952,73 @@ of the caster or the Charisma Modifier.
 Cloaking
 ==============================
 
-Cloaking is available in the armour section, but also available to some 
+Cloaking is available in the armor section, but also available to some 
 classes as a class feature. For non-class cloakers, the rules are as follows:
-Expend 50 Nanites to activate the cloaking shield. while moving, the cloak DC 
-is 30. while staying still, the cloak DC is 60. There is a tell-tale shimmer 
-in the cloak, as the micro-foil has a hard time keeping up with moving 
-environments. Once the wearer has settled down, the micro-foil is able to 
-reproduce the surrounding environment better and will stabilize. However, once 
-you have performed a combat action, the cloak fizzes out, as you have shifted 
-your concentration from maintaining the cloak to something else. When using a 
-skill (accessing a terminal, fixing something, etc.) your DC is 30, as you are 
-diverting your attention. See the following table for durations:
+Expend the cloaking module's 'Nanite Activation Cost' to begin cloaking. At the
+beginning of every turn thereafter, you have to pay a 'Nanite Upkeep' cost to 
+continue cloaking, unless you didn't move for the entire previous turn.
+	You can remain cloaked for a number of turns equal to ["Cloak Turns" + your
+cloaking module's "Cloak Turn Bonus"] or when you run out of Nanites, whichever occurs 
+sooner (see table below for "Cloak Turns") . If your cloak time runs out, you stop 
+cloaking and have to wait a number of actions equal to your "Charge Delay" (listed under 
+the relevant cloaking module's description) before being able to cloak again.
 
-╔══════════╦═════════════╦══════════╦════════════════╦═════════════════╗
-║ Characte ║ Cloak Turns ║ Cloak DC ║ Cloak Recharge ║ Shadow Assassin ║
-║   Level  ║             ║   Gain   ║      Rate      ║    Turn Gain    ║
-╠══════════╬═════════════╬══════════╬════════════════╬═════════════════╣
-║     1    ║      3      ║     -    ║        *       ║        +1       ║
-╠══════════╬═════════════╬══════════╬════════════════╬═════════════════╣
-║     2    ║      3      ║     -    ║        -       ║        -        ║
-╠══════════╬═════════════╬══════════╬════════════════╬═════════════════╣
-║     3    ║      3      ║     -    ║        -       ║        -        ║
-╠══════════╬═════════════╬══════════╬════════════════╬═════════════════╣
-║     4    ║      4      ║     -    ║        -       ║        -        ║
-╠══════════╬═════════════╬══════════╬════════════════╬═════════════════╣
-║     5    ║      4      ║    +5%   ║        3       ║        -        ║
-╠══════════╬═════════════╬══════════╬════════════════╬═════════════════╣
-║     6    ║      4      ║     -    ║        3       ║        +2       ║
-╠══════════╬═════════════╬══════════╬════════════════╬═════════════════╣
-║     7    ║      5      ║     -    ║        3       ║        -        ║
-╠══════════╬═════════════╬══════════╬════════════════╬═════════════════╣
-║     8    ║      5      ║     -    ║        3       ║        -        ║
-╠══════════╬═════════════╬══════════╬════════════════╬═════════════════╣
-║     9    ║      5      ║     -    ║        3       ║        -        ║
-╠══════════╬═════════════╬══════════╬════════════════╬═════════════════╣
-║    10    ║      6      ║   +10%   ║        3       ║        -        ║
-╠══════════╬═════════════╬══════════╬════════════════╬═════════════════╣
-║    11    ║      6      ║     -    ║        3       ║        +3       ║
-╠══════════╬═════════════╬══════════╬════════════════╬═════════════════╣
-║    12    ║      7      ║     -    ║        2       ║        -        ║
-╠══════════╬═════════════╬══════════╬════════════════╬═════════════════╣
-║    13    ║      7      ║     -    ║        2       ║        -        ║
-╠══════════╬═════════════╬══════════╬════════════════╬═════════════════╣
-║    14    ║      8      ║     -    ║        2       ║        -        ║
-╠══════════╬═════════════╬══════════╬════════════════╬═════════════════╣
-║    15    ║      8      ║   +15%   ║        2       ║        -        ║
-╠══════════╬═════════════╬══════════╬════════════════╬═════════════════╣
-║    16    ║      9      ║     -    ║        2       ║        +4       ║
-╠══════════╬═════════════╬══════════╬════════════════╬═════════════════╣
-║    17    ║      10     ║     -    ║        1       ║        -        ║
-╠══════════╬═════════════╬══════════╬════════════════╬═════════════════╣
-║    18    ║      11     ║     -    ║        1       ║        -        ║
-╠══════════╬═════════════╬══════════╬════════════════╬═════════════════╣
-║    19    ║      12     ║     -    ║        1       ║        -        ║
-╠══════════╬═════════════╬══════════╬════════════════╬═════════════════╣
-║    20    ║      15     ║   +20%   ║        0 **    ║        18       ║
-╚══════════╩═════════════╩══════════╩════════════════╩═════════════════╝
+If someone/something is looking for you, they must pass a (normally, perception) 
+check at 'Detect DC' difficulty. While moving, the detect DC is reduced (listed as 
+'moving detect DC' under the relevant cloaking module's description). There is a tell-
+tale shimmer in the cloak, as the micro-foil has a hard time keeping up with moving
+environments. Once the wearer has settled down, the micro-foil is able to reproduce 
+the surrounding environment better and will stabilize. However, once you have performed 
+a combat action, the cloak fizzes out, as you have shifted your concentration from 
+maintaining the cloak to something else. When using a skill (accessing a terminal, 
+fixing something, etc.) use your reduced, 'moving detect DC' as you are diverting 
+your attention. See the following table for durations:
+
+╔═══════════╦═════════════╦═══════════╦═════════════════╗
+║ Character ║ Cloak Turns ║ Detect DC ║ Shadow Assassin ║
+║   Level   ║             ║   Gain    ║ Cloak Turn Gain ║
+╠═══════════╬═════════════╬═══════════╬═════════════════╣
+║     1*    ║      3      ║     -     ║        +1       ║
+╠═══════════╬═════════════╬═══════════╬═════════════════╣
+║     2*    ║      3      ║     -     ║        -        ║
+╠═══════════╬═════════════╬═══════════╬═════════════════╣
+║     3*    ║      3      ║     -     ║        -        ║
+╠═══════════╬═════════════╬═══════════╬═════════════════╣
+║     4*    ║      4      ║     -     ║        -        ║
+╠═══════════╬═════════════╬═══════════╬═════════════════╣
+║     5     ║      4      ║    +5%    ║        -        ║
+╠═══════════╬═════════════╬═══════════╬═════════════════╣
+║     6     ║      4      ║     -     ║        +2       ║
+╠═══════════╬═════════════╬═══════════╬═════════════════╣
+║     7     ║      5      ║     -     ║        -        ║
+╠═══════════╬═════════════╬═══════════╬═════════════════╣
+║     8     ║      5      ║     -     ║        -        ║
+╠═══════════╬═════════════╬═══════════╬═════════════════╣
+║     9     ║      5      ║     -     ║        -        ║
+╠═══════════╬═════════════╬═══════════╬═════════════════╣
+║     10    ║      6      ║   +10%    ║        -        ║
+╠═══════════╬═════════════╬═══════════╬═════════════════╣
+║     11    ║      6      ║     -     ║        +3       ║
+╠═══════════╬═════════════╬═══════════╬═════════════════╣
+║     12    ║      6      ║     -     ║        -        ║
+╠═══════════╬═════════════╬═══════════╬═════════════════╣
+║     13    ║      7      ║     -     ║        -        ║
+╠═══════════╬═════════════╬═══════════╬═════════════════╣
+║     14    ║      7      ║     -     ║        -        ║
+╠═══════════╬═════════════╬═══════════╬═════════════════╣
+║     15    ║      7      ║   +15%    ║        -        ║
+╠═══════════╬═════════════╬═══════════╬═════════════════╣
+║     16    ║      8      ║     -     ║        +4       ║
+╠═══════════╬═════════════╬═══════════╬═════════════════╣
+║     17    ║      8      ║     -     ║        -        ║
+╠═══════════╬═════════════╬═══════════╬═════════════════╣
+║     18    ║      9      ║     -     ║        -        ║
+╠═══════════╬═════════════╬═══════════╬═════════════════╣
+║     19    ║      9      ║     -     ║        -        ║
+╠═══════════╬═════════════╬═══════════╬═════════════════╣
+║     20    ║      10     ║   +20%    ║        +5       ║
+╚═══════════╩═════════════╩═══════════╩═════════════════╝
 *  For levels 1-4, you may only cloak once per encounter.
-** At level 20, you can cloak immediately after your cloak fades, but you must 
-pass another stealth check to continue cloaking.
-
 
 
 //===================================================================
