@@ -110,51 +110,6 @@ Immune to: poison, cannot be intoxicated.
 Weakness (Electrical): Electrical damage deals an additional 50% damage.
 
 //============================================================
-Archon
-Society: These constructs are made up of nanites. Commonly A.I.s that have 
-broken from their world of solitude and gained a corporeal body, these 
-powerful creations are as difficult to take down as they are rare.
-
-Preferred Classes: Warlock, Priest, Pilot.
-
-Qualities: 10RP
-Type: Construct. Does not need to eat, breathe, sleep. Immune to mind-
-affecting effects. Cannot heal damage on their own, but can be repaired by 
-nanite boost shots or using "Nanite Drain." Not subject to non-lethal damage 
-or fatigue. Once they hit 0 hit points, they are destroyed. They cannot be "
-brought back" but they can store copies of themselves on respawn systems.
-Size: Medium
-Speed: Normal
-Starting Stat Points: 40
-Stat Modifiers: +2 INT, -2 LUK, +2 DEX, -4 STR
-Language: ECSC standard, Machine Language, +1 language.
-
-Racial Traits:
-Capacitive Sheild Manipulator: Manipulate your CS field to create sheilds, 
-knives, bowls, or other simple shapes. (RP items mostly)
-Glowing Physique: The Archon glows a dim orange, blue, green, or yellow. This 
-color can brighten if the archon is under intense mental strain. It is not 
-light enough to provide a light source in a dark room, but would be noticeable 
-to others nearby. -5% to stealth checks.
-Nanite cannon: Archons are not able to use normal weapons. As a racial trait, 
-they can cast Shock Cannon with the following stats {
-	60m
-	25% (only buffed by Perception and class feats. Cannot take weapon familiarization, etc.)
-	Costs 2 Nanites per use
-	50 damage plus 2d10 CS damage
-}
-Archons are not as connected to electronics and integrated systems as Robotic 
-units are. However, for 2 Actions, an archon may digitize itself into 
-a nearby system through an open connection port in order to interact with it. 
-In this way, Archons may have a racial score of +10 to computer use.
-Archons do not have a health bar. Instead, they have 300 + 20*int Nanites.
-They can divy this pool up into 3 categories:
-- Max 200 into a "Health" Pool
-- Max 100 into an "Armour" Pool
-- As many remaining as they like into a "Mana" Pool.
-Immune to: Poison, Cannot be intoxicated or bleeding.
-
-//============================================================
 Cyborg
 
 Society: Cybernetics advanced rapidly over the last 200 years, and it is not 
