@@ -91,7 +91,7 @@ and find weapon.
 Desperate Crawl:
 Prerequisite:
 When downed instead of not being able to move you may crawl half of your 
-move speed or 4m every two actions whichever distance is shorter. You still 
+move speed or 3m every two actions whichever distance is shorter. You still 
 cannot speak, and you cannot take any other action. Death saving throws are 
 not actions, and must be thrown normally.
 
