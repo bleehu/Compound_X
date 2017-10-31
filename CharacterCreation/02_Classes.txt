@@ -140,22 +140,37 @@ Starting Energy: 85 + (2 * Int Mod) + (15 * character level)
 Starting Munitions: 3
 At level 1, you also start with 80 material.
 At level 6, the Feat "With Friends Like These . . ." is automatically unlocked.
+At level 10, your maximum materials expands to
+Energy: 800
+Material: 1250
+Munitions: 12
 Weapon Proficiencies: Pistol, Carbine and Battle Rifles, Shotgun
 Armour Proficiencies: Concealed, Recon, Light, Medium.
 Starting Wealth: $1700+100*Luck
 Class Feats: 
 -----------------------
+Power Trip -
+You start each engagement with an extra 40 energy
+|
+|
+|
+V
+Cosmic Power -
+In addition to the 40 energy from Power Trip, you start each 
+engagement with another 30 energy and your maximum energy is
+increased by 50.
+-----------------------
 A little Controlling - 
-You gain an additional permanant control point
+You gain an additional permanent control point
 |
 |
 |
 V
 Control Phreak -
-You gain an additional permanant control point [max of 5 permanant points]
+You gain an additional permanent control point [max of 5 permanent points]
 ----------------------
 Repairman -
-you gain a 10% chance to stabalize a crashing robotic ally and a +10% to 
+you gain a 10% chance to stabilize a crashing robotic ally and a +10% to 
 repair checks.
 |
 |

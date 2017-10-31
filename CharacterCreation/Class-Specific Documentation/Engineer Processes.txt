@@ -1,17 +1,8 @@
 As engineers practice their craft, they learn certain processes. These are listed
 below. 
 
-Materials:
-An engineer will often use an extruder or 3d printer in the field to construct 
-helpful things like drones or cover in the heat of combat. To do this, the 
-engineer uses a resource called Material. An engineer's extruder has a built-in
-recycler which can be used to salvage usable material from a variety of sources.
-Often, recycling spent, unused or damaged parts is part of the standard procedure
-of a given process. Material accrued on mission persists between encounters and
-over small rests.
-
 Energy:
-Most procedures that an engineer can perform in the field requires the expendature
+Most procedures that an engineer can perform in the field requires the expenditure
 of a non-trivial amount of energy. During combat, an engineer may overcharge their
 standard issue batteries as outlined in the Engineer section of the 02_classes.txt
 document. When not in combat, energy is vented from the batteries down to their
@@ -19,6 +10,15 @@ safe storage limit. If the batteries were to remain overcharged for longer than 
 duration of an encounter, they would burn out or burn up and explode depending on
 the limit. The max limit and safe storage limit are outlined in the 02_classes.txt
 document in Character Creation. 
+
+Materials:
+An engineer will often use an extruder or 3D printer in the field to construct 
+helpful things like drones or cover in the heat of combat. To do this, the 
+engineer uses a resource called Material. An engineer's extruder has a built-in
+recycler which can be used to salvage usable material from a variety of sources.
+Often, recycling spent, unused or damaged parts is part of the standard procedure
+of a given process. Material accrued on mission persists between encounters and
+over small rests.
 
 Munitions:
 Munitions are used in the engineer's extruder to print more ... active components. 
@@ -31,7 +31,7 @@ allies) leaves a "network mote" on that ally. When calculating roaming range
 of drones built in the build tree, the range of the drone is taken from the
 nearest network mote or the engineer that deployed it.
 Unlocking a Repair tree skill requires having unlocked the skill below it on the 
-tree. Please see the Engineer Skill Tree - Repair.png for dependancies.
+tree. Please see the Engineer Skill Tree - Repair.png for dependencies.
 
 =================================
 =====		Repair Tree		=====
@@ -39,7 +39,8 @@ tree. Please see the Engineer Skill Tree - Repair.png for dependancies.
 
 ====================	  Cyberphysical			====================
 /////	Reboot
-Nanite Gain:65
+Energy Gain:65
+
 Action:		1 Action
 Duration: 	N/A
 Range:		Touch
@@ -49,7 +50,7 @@ then heal them. Not a quiet proceedure; detectable within 40m by a perception
 check of 30.
 
 /////	Data Scrub
-Nanite Gain:35
+Energy Gain:35
 Action:		1 Action
 Duration: 	N/A
 Range:		Touch
@@ -61,7 +62,7 @@ for successful scrubs. Be aware that engineers are not the only class that can
 scrub a hacked target.
 
 /////	Restore Armor
-Nanite Gain:50
+Energy Gain:50
 Action: 	2 Actions
 Duration:	Almost Instant
 Range: 		Touch
@@ -69,7 +70,7 @@ Effect:		You tinker with your ally's armor and mend it. Undo any debuffs on
 your ally's armor such as sundering, battle damage, etc. 
 
 /////	Percussive Matainence
-Nanite Gain:30
+Energy Gain:30
 Action:		1 Action
 Duration:	Almost Instant
 Range:		Touch
@@ -82,7 +83,7 @@ process may only be performed on cybernetic allies, turrets, vehicles or as
 an RP event. Not to be confused with the concussive maitnence feat.
 
 /////	Defrag
-Nanite Gain:15
+Energy Gain:15
 Action:		1 Action
 Duration:	Until First Use
 Range:		Touch
@@ -92,7 +93,7 @@ your ally continues on their way. Your ally gets a +5% bonus to their next
 RP roll.
 
 /////	Actuator Overdrive
-Nanite Gain:20
+Energy Gain:20
 Action:		1 Action
 Duration: 	engagement
 Range:		Touch
@@ -103,7 +104,7 @@ engagement. Only works on cybernetic allies.
 
 
 /////	Discrete Overclock
-Nanite Gain:20
+Energy Gain:20
 Action:		1 Action
 Duration: 	Engagement
 Range:		Touch
@@ -112,7 +113,7 @@ engagment. They also get a +15 to reloading weapons quickly and a +10 to
 perception checks. 
 
 /////	Network Targeting
-Nanite Gain:20
+Energy Gain:20
 Action:		1 Action
 Duration:	Until First Use
 Range:		Touch
@@ -124,7 +125,7 @@ drone, robot and turret that is also looking at that target. This effect
 may be blocked with a hacking attack at DC 20. 
 
 /////	System Overclock
-Nanite Gain:35
+Energy Gain:35
 Action:		1 Action
 Duration: 	Engagement
 Range:		Touch
@@ -133,7 +134,7 @@ They also get a +35 to reloading weapons quickly and a +10 to perception checks,
 take 20 damage from system overheat.
 
 /////	Colocation Processing
-Nanite Gain:20
+Energy Gain:20
 Action:		1 Action
 Duration:	Until First Use
 Range:		6m
@@ -143,7 +144,7 @@ ally makes a lockpick, hacking, explosives, repair, heal, or tracking check,
 they get a +15 to it. 
 
 /////	Regression Override
-Nanite Gain:60
+Energy Gain:60
 Action:		1 Action
 Duration:	8 Turns
 Range:		Touch
@@ -163,7 +164,7 @@ do, they take 20 damage of wear and tear. An engineer can only perform a
 regression override once per encounter. Regression Overrides do not stack.
 
 /////	System Restore
-Nanite Gain:35
+Energy Gain:35
 Action:		2 Actions
 Duration: 	Permanent
 Range:		Touch
@@ -176,7 +177,7 @@ revived with System Restore.
 
 ====================	Material/Mechanic		====================
 /////	Duct Tape
-Nanite Gain:40
+Energy Gain:40
 Action:		1 Action
 Duration: 	N/A
 Range:		Touch
@@ -185,7 +186,7 @@ wounds are healed. This trick only works on cybernetic allies. This also works
 on non-sentient robots and machinery.
 
 /////	Weapon Tuning
-Nanite Gain:20
+Energy Gain:20
 Action:		1 Action
 Duration: 	engagement
 Range:		Touch
@@ -196,7 +197,7 @@ you've done by the end of the engagement, but hopefully your efforts will help
 keep your ally alive until then.
 
 /////	Vehicle Repair
-Nanite Gain:40
+Energy Gain:40
 Action:		4 Actions
 Duration:	almost instant
 Range:		Touch
@@ -206,7 +207,7 @@ vehicles, it does add a nanite reward for doing so. It also increases the
 effect and may reduce the time taken to repair. 
 
 /////	Multisys Repair
-Nanite Gain:30*n
+Energy Gain:30*n
 Action:		1 Action
 Duration: 	N/A
 Range:		Touch
@@ -215,7 +216,7 @@ the number of wounds that the atomaton has. This trick only works on cybernetic
 beings or machines.
 
 ///// Micro Assembler
-Nanite Gain:50
+Energy Gain:50
 Action:		1 Action
 Duration: 	8 turns
 Range:		Touch
@@ -227,7 +228,7 @@ vulnerable to hack checks at a DC of 50. A hacked micro assembler reveals its
 location and may deal 5 damage per turn.
 
 /////	Engine Tuning
-Nanite Gain:50
+Energy Gain:50
 Action:		6 Actions
 Duration: 	Almost Instant
 Range:		Touch
@@ -239,7 +240,7 @@ required to boost the effect of a vehicle, it now rewards you in nanites for
 doing so and increases your effectivity at doing so.
 
 /////	Boilerplate Handiwork
-Nanite Gain:20
+Energy Gain:20
 Action:		1 Action
 Duration: 	Permanent
 Range:		Touch
@@ -249,7 +250,7 @@ down by 1m per action. This effect lasts until that 40 health has been
 destroyed, or until the engineer takes it off and discards it.
 
 /////	Zero Friction Covalent
-Nanite Gain:20
+Energy Gain:20
 Action:		1 Action
 Duration: 	Until next melee hit
 Range:		Touch
@@ -261,7 +262,7 @@ own weapon and the effect only lasts until the next hit. Cannot be used on a
 weapon more than once at a time.
 
 /////	Sup it Up
-Nanite Gain:80
+Energy Gain:80
 Action:		12 Actions
 Duration: 	8 turns
 Range:		Touch
@@ -273,7 +274,7 @@ adding a 1-vehicle damage sheild
 adding stabalized chassis for improved accuracy when fired from 
 
 /////	Ceramic Catalyst
-Nanite Gain:	15 nanites
+Energy Gain:	15 nanites
 Action:			2 Actions
 Duration:		10 turns or 2 hits
 Range:			Touch
@@ -288,7 +289,7 @@ catalyst on themselves. Ceramic Catalys decays after exposure to elements for
 ten turns or two hits, whichever happens first. 
 
 ///// Microbot Swarm
-Nanite Gain:40 * n
+Energy Gain:40 * n
 Action:		1 Action
 Duration: 	8 turns
 Range:		4m radius
@@ -305,7 +306,7 @@ The microbot swarm director automatically detects disobedient microbots.
 ====================	Optronic/Cycotonic		====================
 
 /////	Repulsor Recharge
-Nanite Gain:	20 nanites
+Energy Gain:	20 nanites
 Action:			1 Action
 Duration:		Immediate
 Range:			Touch
@@ -314,7 +315,7 @@ charge an ally's sheilds over their max value. An engineer cannot recharge
 their own sheilds.
 
 /////	Sensory Fuse
-Nanite Gain:	10 nanites
+Energy Gain:	10 nanites
 Action:			1 Action
 Duration:		Until fuse pops
 Range:			Touch
@@ -324,7 +325,7 @@ negates the effect of a flashbang or other such device. Fuses take a steady
 hand to install, so an engineer cannot install one in themselves.
 
 /////	B-Filter Buffer
-Nanite Gain:	15 nanites
+Energy Gain:	15 nanites
 Action:			1 Action
 Duration: 		For one visual perception check
 Range:			Touch
@@ -335,7 +336,7 @@ a disposable one-time use paracrystal network that degrades after a time for
 optimal effeciency. Increases ally's visual perception by 10%.
 
 /////	Repulsor Overcharge
-Nanite Gain:	25 nanites
+Energy Gain:	25 nanites
 Action:			1 Action
 Duration:		Immediate
 Range:			Touch
@@ -344,7 +345,7 @@ an ally's sheilds to up to 30 points above their maximum. Sheilds will
 normalize down to their maximum after ten turns. 
 
 /////	Refractory Spray
-Nanite Gain:	15 nanites
+Energy Gain:	15 nanites
 Action:			2 Actions
 Duration:		Immediate
 Range:			Touch
@@ -359,7 +360,7 @@ by metal detectors. Refractory Spray loses cohesion after ten turns or burns up
 if hit by an energy attack.
 
 /////	Tune Laser
-Nanite Gain:	30 nanites
+Energy Gain:	30 nanites
 Action:			2 Actions
 Duration:		5 Turns
 Range:			Touch
@@ -368,7 +369,7 @@ crystals. Your ally's weapon deals an extra 20 points of damage per hit
 and has a -10% to miss (To a maximum of 0% when target is in light cover). 
 
 /////	MoCap Augmentation
-Nanite Gain:	20 nanites
+Energy Gain:	20 nanites
 Action:			2 Actions
 Duration:		Immediate
 Range:			Touch
@@ -382,7 +383,7 @@ Since this is less than ideal in non-combat scenarios, you've set it to wear
 off after ten turns.
 
 /////	Repulsor Projection
-Nanite Gain:	10 nanites
+Energy Gain:	10 nanites
 Action:			1 Action
 Duration:		Immediate
 Range:			10m
@@ -391,7 +392,7 @@ charge a sheild above it's maximum capacity. An engineer may not charge their
 own sheilds. 
 
 /////	Repulsor Hypercharge
-Nanite Gain:	40 nanites
+Energy Gain:	40 nanites
 Action:			2 Actions
 Duration:		Immediate
 Range:			Touch
@@ -403,7 +404,7 @@ sheilds are hypercharged take a -20 to stealth rolls. An engineer cannot
 hypercharge their own sheilds.
 
 /////	Broadcast Repulsion
-Nanite Gain:	15 * n nanites, where n is the number of sheilds affected
+Energy Gain:	15 * n nanites, where n is the number of sheilds affected
 Action:			2 Actions
 Duration:		Immediate
 Range:			8m radius centered on engineer
@@ -414,7 +415,7 @@ feedback wave sets a 10 damage per turn for 4 turns to any enemies in the area
 of effect as well. A feedback wave ends the engineer's turn immediately.
 
 /////	CS Lacer
-Nanite Gain:	20 nanites
+Energy Gain:	20 nanites
 Action:			2 Actions
 Duration:		10 Shots
 Range:			Touch
@@ -836,7 +837,7 @@ cloaking. You may affix a claymore to any hard, flat surface.
 
 /////	Scavenge
 Type:			Action
-Nanite Cost:	20
+Energy Cost:	20
 Scrap Time:		2 Actions
 Range:			Touch
 Effect:			You gather materials from fallen foes or derelict equipment in 
@@ -902,7 +903,7 @@ spoilers ;)
 
 /////	Reverse engineer
 Type:			Action
-Nanite Cost:	40
+Energy Cost:	40
 Damage:			80
 Scrap Time:		2 Actions
 Range:			Touch
