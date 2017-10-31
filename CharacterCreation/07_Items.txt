@@ -22,6 +22,12 @@ Pneumatic Door Press ($700):
 Opens sliding, pneumatically controlled doors up to Militarized Level (airlock 
 specific doors exluded)
 
+Engineer's replacement Extruder Tool: $670
+Sometimes things happen and an engineer's favorite tool gets lost, stolen or 
+damaged. Replacing them is expensive, but not impossible. Please note that 
+buying an extruder does not mean that one knows how to use it to follow 
+Engineer processes; i.e., a gunslinger who buys an extruder can't construct
+IEDs with it.
 
 3D image builder, Static ($650):
 A 3m^3 framework that will build a rudimentary  3d image of whatever is inside
@@ -67,8 +73,11 @@ Security Spike: $100
 Once hacked the door can be controlled remotely.
 
 Medic Needle Pack: $60
-Contains 10 needles suitable for use with several malpractice proceedures.
-Not recomended for medicianal use. 
+Contains 10 needles suitable for use with several malpractice procedures.
+Not recommended for medicinal use. 
+
+Engineer Material Pack: $60
+Contains 80 material suitable for use with an engineer's 3D extruder tool.
 
 Single Use door brute-forcer $120:
 Hacks through the encryption on a door (up to 75 DC) and opens it.

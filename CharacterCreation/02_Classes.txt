@@ -120,17 +120,26 @@ Learn an extra malpractice proceedure.
 
 
 "Engineer" - You solve problems. For insance, you know how to stop some mean 
-mutha-hubbard from tearin'' you and your team a structurally supurfluous new 
+mutha-hubbard from tearin'' you and your team a structurally superfluous new 
 behind. You know how to fix engines, machines, circuits, you name it. And when 
 you''re not busy fixing what other people broke, you get to work on making new 
 stuff. Which some knucklehead will probably eventually break too.
 Class Primary Attribute: Intelligence
 passives: You gain get 10 skill points in repair. Every level, you get one 
-Process point in each of the "repair" and "build" skill trees.  At the 
-begining of an engagement, you start with only half of your nanites, but you 
-may accrue up to 600 nanites max. You also start with 2 permanent control 
-points, which enable control over any automatons you construct.
-At level 6, the Feat "With Friends Lik These . . ." is automatically unlocked.
+Process point in each of the "repair" and "build" engineering process trees. 
+You gain a mulitpurpose extruder tool as an item in your inventory. Each time 
+you level up, you gain an additional process from both the repair and build 
+engineering process trees. See Class Specific Documentation for Engineering 
+Processes. In addition, you can carry the following maximum amounts of 
+engineering materials:
+Energy: 600
+Material: 1000
+Munitions: 10
+And you start each engagement with:
+Starting Energy: 85 + (2 * Int Mod) + (15 * character level)
+Starting Munitions: 3
+At level 1, you also start with 80 material.
+At level 6, the Feat "With Friends Like These . . ." is automatically unlocked.
 Weapon Proficiencies: Pistol, Carbine and Battle Rifles, Shotgun
 Armour Proficiencies: Concealed, Recon, Light, Medium.
 Starting Wealth: $1700+100*Luck
