@@ -545,29 +545,29 @@ Lucky:
 Prerequisites: Luck 6
 	Good things predictably happen to you.
 	Luck = 6	
-		You can choose to reroll a die, once per long rest. You can only reroll 
-		once per separate die use and if you reroll, you must keep the second roll.
+		You can choose to reroll a check, save, or attack once per long rest. You 
+		may only reroll once for a given action and you must keep the second result.
 	Luck = 7		
-		You can choose to reroll a die, twice per long rest. You can only reroll
-		once per separate die use and if you reroll, you must keep the second roll.
+		You can choose to reroll a check, save, or attack twice per long rest. You 
+		may only reroll once for a given action and you must keep the second result.
 	Luck = 8		
-		You can choose to reroll a die, twice per long rest. You can only reroll 
-		once per separate die use and if you reroll, choose which roll to keep.
+		You can choose to reroll a check, save, or attack twice per long rest. You 
+		may only reroll once for a given action, but you may choose either result.
 	Luck = 9		
-		You can choose to reroll a die, three times per long rest. You can only
-		reroll once per separate die use and if you reroll, choose which roll to keep.
+		You can choose to reroll a check, save, or attack three times per long rest. 
+		You may only reroll once for a given action, but you may choose which roll 
+		to keep.
 	Luck = 10		
-		You can choose to reroll a die, four times per long rest. You can reroll
-		as many times as you want (which uses up your rerolls-per-rest) and if you 
-		reroll, choose which of the rolls to keep.
+		You may choose to reroll a check, save, or attack four times per long rest. 
+		You may reroll an action multiple times and choose which roll to keep.
 	Luck = 12	
-		You can choose to reroll a die with +10% or -10% bonus, four times per 
-		long rest. You can reroll as many times as you want (which uses up your 
-		rerolls-per-rest) and if you reroll, choose which of the rolls to keep.
+		You may choose to reroll a check, save, or attack four times per long rest. 
+		Your rerolls may have either a +10% or -10% bonus. You may reroll an action 
+		multiple times and choose which roll to keep.
 	Luck = 15	
-		You can choose to reroll a die with +20% or -20% bonus, four times per 
-		long rest. You can reroll as many times as you want (which uses up your
-		rerolls-per-rest) and if you reroll, choose which of the rolls to keep.
+		You may choose to reroll a check, save, or attack four times per long rest. 
+		Your rerolls may have either a +20% or -20% bonus. You may reroll an action 
+		multiple times and choose which roll to keep.
 		
 Positional Mastermind: 
 Prerequisites: Mutually Exclusive with Will to Survive; Charisma 9
