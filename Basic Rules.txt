@@ -471,6 +471,8 @@ they cannot move, cannot stand under their own power and fall prone if not
 supported by other means. They cannot speak, but can mumble incomprehensively.
 Every turn that a character takes while they are downed, they must make a Death
 Saving Throw of DC 50. Success and failure of these throws is detailed above.
+When downed, any additional attack that hits regardless of damage is the same as
+having failed one Death Saving Throw.
 
 Stabalize
 As an action, a teammate may bring you back up to 1 health point by suceeding 

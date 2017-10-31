@@ -527,6 +527,13 @@ any weapon as if it were a CQB weapon. After a successful strike, you may roll
 for an additional strike during the same action on any target within the 15m 
 range.
 
+Last Stand [40 Nanites]:
+Prerequisite: Level 4
+Don't die alone. Always bring a friend. 40 Nanites to activate when downed. 
+Once activated, you may take an action to do one of the following: Draw a 
+one-handed weapon such as a pistol or SMG, Aim, or fire with a to-miss 
+penalty of 2.  
+
 Multi-Target [ X*40 Nanites]: 
 Prerequisites:
 Take 2 actions to concentrate on up to Level +1 number of targets, where X is 
