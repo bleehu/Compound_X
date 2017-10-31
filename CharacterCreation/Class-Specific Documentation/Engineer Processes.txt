@@ -21,13 +21,10 @@ the limit. The max limit and safe storage limit are outlined in the 02_classes.t
 document in Character Creation. 
 
 Munitions:
+Munitions are used in the engineer's extruder to print more ... active components. 
+Due to regulations munitions extrusion material is not retained between combat
+encounters. 
 
-
-
-
-=================================
-=====		Repair Tree		=====
-=================================
 Network Motes: Any repair process that an engineer uses on a cybernetic ally
 (even if that process doesn't specify that it can only be used on cybernetic
 allies) leaves a "network mote" on that ally. When calculating roaming range
@@ -35,6 +32,10 @@ of drones built in the build tree, the range of the drone is taken from the
 nearest network mote or the engineer that deployed it.
 Unlocking a Repair tree skill requires having unlocked the skill below it on the 
 tree. Please see the Engineer Skill Tree - Repair.png for dependancies.
+
+=================================
+=====		Repair Tree		=====
+=================================
 
 ====================	  Cyberphysical			====================
 /////	Reboot
