@@ -87,6 +87,14 @@ Make a stealth check to hide your chosen pistol, shotgun, or smg on your
 person. Minimum score of 20. Roll determines DC for enemy to actively search 
 and find weapon.
 
+Desperate Crawl:
+Prerequisite:
+When downed instead of not being able to move you may crawl half of your 
+move speed or 3m every two actions whichever distance is shorter. You still 
+cannot speak, and you cannot take any other action. Death saving throws are 
+not actions, and must be thrown normally. You also get a +10% bonus to Death
+Saving Throws
+
 Double Tap: 
 Prerequisites:
 Whenever your hit falls into extra-crit range, fire another bullet as a free
@@ -97,7 +105,7 @@ SA Revolvers, Bolt Action, Pump-Action, Full-Auto weapons, etc.
 Dual Wield:
 Prerequisites: Dex 6
 Maybe you''ve got a bigger corpus callosum and your right brain and left brain
-are in higher sync than most people; or maybe you''ve seen too many John Woo
+are in higher synch than most people; or maybe you''ve seen too many John Woo
 holomovies. Either way, you''ve managed to effectively fight using a weapon
 in each hand. The weapons must be of the same type, either two pistols, two
 smgs, etc. While wielding dual weapons, you may fire both at the same time
