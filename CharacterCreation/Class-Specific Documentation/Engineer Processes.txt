@@ -1,3 +1,30 @@
+As engineers practice their craft, they learn certain processes. These are listed
+below. 
+
+Materials:
+An engineer will often use an extruder or 3d printer in the field to construct 
+helpful things like drones or cover in the heat of combat. To do this, the 
+engineer uses a resource called Material. An engineer's extruder has a built-in
+recycler which can be used to salvage usable material from a variety of sources.
+Often, recycling spent, unused or damaged parts is part of the standard procedure
+of a given process. Material accrued on mission persists between encounters and
+over small rests.
+
+Energy:
+Most procedures that an engineer can perform in the field requires the expendature
+of a non-trivial amount of energy. During combat, an engineer may overcharge their
+standard issue batteries as outlined in the Engineer section of the 02_classes.txt
+document. When not in combat, energy is vented from the batteries down to their
+safe storage limit. If the batteries were to remain overcharged for longer than the
+duration of an encounter, they would burn out or burn up and explode depending on
+the limit. The max limit and safe storage limit are outlined in the 02_classes.txt
+document in Character Creation. 
+
+Munitions:
+
+
+
+
 =================================
 =====		Repair Tree		=====
 =================================
