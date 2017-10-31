@@ -1,0 +1,119 @@
+/*========================================
+ * Priest Hacking Abilities
+ *======================================*/
+
+ Systems in compound X are built up of many different nodes representing 
+ functions within the system. There might be a node for a single door control, 
+ or there might be a node representing an electronic light switch. There are 
+ four categories that these nodes can fall into:
+    - Blockers: Mainly Firewalls, but other systems can impede access to parts 
+      of the network. Crypto-systems would be an example of a blocker node 
+      within an information network.
+    - Interactables: Correspond to some action in the real-world. Light 
+      operation, door controls, etc.
+    - Information: Mainly file systems / PCs, but could include other things.
+    - Traps: appear to be one or another type of node. Have negative affects 
+      on a priest who attempts to attack or probe them if they don''t detect 
+      and then disarm the trap.
+Basic hackers can interract with nodes in three ways, and also perform various 
+skill checks while analyzing a system:
+    - Attack: Allows access to the next set of nodes in the system (depending 
+      on the architecture some regions can be compartmentalized to discourage 
+      enemy hackers gaining full control of the network); or allows hacker to
+      take control of that node.
+    - Probe: reveals what nodes are beyond the probed node without controlling 
+      the node or activating any nodes beyond it. Sort of like peeking through 
+      a keyhole, you can see whats beyond the door without anything in the 
+      room beyond knowing you''re looking. Of course, if you think you''re 
+      looking through a keyhole, but its really the fly on a cleverly 
+      disguised guard, you''re in for some trouble. Traps can look like any 
+      other node, so be careful when probing a firewall.
+    - Monitor: Any time the node in question is used, the one monitoring is 
+      notified. The hacker monitoring the node can also see traffic going 
+      through a node and choose to intercept the trafic if they wish. Probing 
+      and attacking a node alert someone monitoring it. Firewalls are 
+      generally monitored, although with high enough skill, or a lucky roll, a 
+      hacker can enter a system without alerting someone monitoring the 
+      firewall. (injection technique).
+There are other ways of interacting with nodes. Priests can create software 
+nodes to set traps or monitor a line. There are also other ablities available 
+to higher level Priests.
+
+Robotic units can also be hacked. When expecting an attack the DC is much 
+higher. Hacked robots can be manipulated in a few ways: (in order of difficulty
+)
+    - Halt Action
+    - deactivate
+    - Take cover
+    - Leave cover
+    - Move
+    - Fire
+/*
+//Example Network: A simple couple room listening post with a single computer.
+
+[B]F1:60 {
+    [I]D1:60//main door
+    [B]F2:80{
+        [N]S1://hard-drive with some info, no encryption.
+        [N]R1://communication client
+    }
+    [I]L1:20//entry room light
+    [I]D2:45//store-room door
+    [I]L2:20//store-room light
+}
+*/
+
+Ability List:
+Abilities might be listed as the following:
+Name[Spot DC / Disarm DC]: description with effects, other DCs.
+The user must roll above the Disarm DC to set up a trap node.
+
+Level 1:
+
+Level 3:
+    Injection Technique:
+        Allows entry to a firewalled system without alerting anyone monitoring 
+        the firewall. You may probe or attack a node once without alerting 
+        anyone watching it. If you fail and need to attack again, you still 
+        run the risk of being found out.
+Level 7:
+    Create Node, Lesser:
+        User may create at their discretion any of the following nodes:
+        Trap nodes:
+            Malware, worm[45 / 20]: when the attacker activates this node, a 
+            benign worm infects their system, hogging system resources. Target 
+            takes a -20 penalty to hacking checks for 4 turns.
+
+            Malware, scarecrow[55 / 10]: appears as a user machine connected 
+            to the network. when attacked, it simply dissappears and 
+            reappears. DC 55 INT check to realize that this is not a real user.
+
+            Malware, ad-bomb[60 / 50]: dozens of ads are launched on the target
+            ''s device, most of which are very loud and possibly quite lewd in 
+            nature. Target device is disabled for 1 turn.
+        Firewall, lesser[50]: Generates a DC 50 firewall under any node the 
+        user controls.
+Level 11:
+    Create Node:
+        Traps:
+            Malware, centipede[75 / 40]: when attacked, this malicious worm 
+            begins deleting system files from the attacker''s device. Target 
+            takes a -20 penalty to hacking checks until a DC 90 is passed. If 
+            this DC is not met within 4 turns, the centipede eats through 
+            enough system files to force a reboot that disables the target''s 
+            device for 1 turn.
+
+            Malware, augment: Increase the disarm and spot DCs of a lesser 
+            malware by 20 each.
+        Firewall [70]
+        Encrypt [50] Opponents cannot probe past this node. Place it under any 
+        node you control.
+Level 13:
+    iCAN: internal Computer Assisted Networking. Not everyone has a server 
+    farm or bot-net available to do their bidding. Increase your hack score by 
+    5 for each Information Node you control on a network. Robotic units count 
+    towards this buff.
+Level 16:
+    Create Node, Greater
+Level 18:
+    //Unique ability

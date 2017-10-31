@@ -1,0 +1,728 @@
+/*=======================================
+ * This document lists the weapons available to players in Compound
+ * X. There are more weapons, listed in the "Advanced Weapons"
+ * document, however those are considered higher level weapons or
+ * quest rewards.
+ * All weapons deal an additional 10 damage when a roll of 90-95
+ * occurs. This is a Critical hit. When a roll of 96-100 occurs, all
+ * weapons deal an additional 20 damage to base. This is an Extra-Crit.
+ *=====================================*/
+
+============================================================
+Melee Weapons:
+Effects:
+Capacitant Shield [CS] burn: d10/2 damage for 2 turns, does not stack. +5 dam
+against robotic units.
+============================================================
+
+Hand to Hand [untrained]: free
+Adjacent
+55%
+10 + STR
+
+Hand to Hand [Trained]: requires 10 skill in unarmed combat
+Adjacent
+40%
+30+[STR+ or DEX+]
+20% disarm unless weapon is attached via sling, etc.
+
+Hand to Hand [Expert]: (Requires Combat Expertise [Melee] and unarmed skill, 
+or class passive.)
+2m
+25%
+50 + (STR+ or DEX+)
+50% disarm (unless weapon is part of target). Can use disarm to grapple an 
+opponent using their weapon''s sling.
+
+//Edged Weapons:
+
+Combat Knives: $120
+1m (adjacent)
+40%
+8* (STR or DEX)
+
+Combat Swords: $325
+2m
+35%
+8*(STR) + 10
+
+Power Fist: $165
+1m (adjacent)
+40%
+11*STR
+
+CS Edged Knife: $200
+1m (adjacent)
+40%
+7 * (STR or DEX) + CS burn
+Ignore armour percents, Inflict CS burn. If target has Capacitant Shield armour
+, CS burn is canceled and all damage is inflicted to the shield, unless the 
+shield is completely discharged.
+
+
+CS Edged Combat Sword: $400
+2m (adjacent)
+35%
+7*(STR) + 10 + CS Burn
+Ignore armour percents, Inflict CS burn. If target has Capacitant Shield armour
+, CS burn is canceled and all damage is inflicted to the shield, unless the 
+shield is completely discharged
+
+============================================================
+Misc. Thrown Weapons:
+All thrown weapons inflict bleed damage.
+============================================================
+
+Shuriken (5): $30
+15m
+50% / 40% if skilled
+16
+Maximum 15 in inventory
+
+Throwing Knife (1): $40
+20m
+50% / 40% if skilled
+32
+Maximum 6 in inventory
+
+Throwing Axe (1): $60
+30m
+50% / 35% if skilled
+38
+
+============================================================
+Grenades:
+All grenades require an explosives skill of at least 10 to use.
+Targets can roll a luck or perception check at 95% in order to dodge.
+============================================================
+
+ECSC Smoke Grenade: $50
+30m
+60% to land where intended
+D10 burn damage to exact spot of impact
+For a circle of 10m radius, all targets are now in stealth at 80%. Anyone 
+looking in or out of smoke must roll an 81% or higher (disregarding bonuses) 
+in order to fire through smoke. Targets that are adjacent need not abide by 
+this rule (including one target outside the circle adjacent to a target inside 
+the circle). If you are fully behind the smoke and a target is on the complete 
+opposite side, the smoke completely obscures your vision, leaving you with a 
+perception check of 120% in order to see all the way through the smoke. Smoke 
+lasts for 12 turns or 2 minutes.
+
+ECSC CID Chemical Incapacitation Device $50
+(Gas grenade)
+25m
+60% to land where intended
+D10 burn damage to spot of impact
+10m radius cloud of choking chemicals. anyne caught in the circle suffers the 
+following effects: partial blindness due to uncontrolable tears (+30% to hit), 
+coughing fits (-50% stealth), and take 10 damage per round spent in the cloud. 
+Targets can negate the effects with a gas mask. Targets who leave the cloud 
+will continue to exhibit partial blindness for 3 turns after leaving the fog, 
+and coughing for 6 turns. Gas cloud persists for 2 turns after initial detonation.
+
+RMM FlashBang distraction and clearing device: $50
+30m
+70% to land where intended
+Everyone in the room gets blinded for 2 turns. You can break the blindness 
+with a perception check at 85% (disregarding bonuses). If the grenade 
+detonates in the open, it’s blinding range is 10m
+
+ECSC Fragmentation Grenade: $100
+40m
+60% to land where intended and 95% to hit
+50 + 2 * bleed within 2.5m
+20 damage + 2 * bleed within 5m
+
+RMM Frag+ Grenade: $120
+45m
+60% to land where intended and 95% to hit
+60 + 2 * bleed within 2.5m
+20 + 2 * bleed within 5m
+
+=============================================================================  
+\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
+/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /  
+\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
+/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /  
+\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
+=============================================================================
+	
+Ranged Weapons List
+Outside effective range, subtract 10 damage and 30%, max double the effective 
+range.
+Effects:
+Plasma burn:  2d10 damage per turn, stacking.
+Armor Piercing: rounds ignore 15 DR to armored targets / add 15 damage against
+armored targets; subtract 15 damage to unarmored targets.
+Hollow Point: add 15 damage to unarmored targets; subtract 15 damage to 
+armored targets.
+Supporting Fire: On Hit, target is forced to take cover for one action, 
+stackable, unless they pass a 70% FORT or INT check. If they pass the check, 
+they negate the cover, but take an additional shot. Additionally, targets 
+affected by supporting fire cannot make a reflex shot against anyone leaving 
+cover.
+Penetrating Damage: Armored targets take an additional 5 damage, and will need
+special treatments to remove armor fragments from their bodies. Unarmored 
+targets take an additional 5 damage due to special ballistics 
+characteristics. Target gains Bleeding condition.
+Incendiary Round: target takes 2 * d10 explosive damage.
+Capacitive Sheilded rounds deal CS burn. +5 dam against robotic units.
+Bleeding: The target has sustained a heavy hit that must be patched up. Target 
+takes d10/2 damage per turn until they pass a medical skill roll at DC of the 
+damage sustained.
+
+============================================================
+Pistols:
+(All pistols are considered CQB Weapons);
+Minimum Strength 2, Reload DC 20 unless otherwise noted. With DEX less than 5, 
+Single Action revolvers must be re-cocked for 1 action. Reload time 2 Actions.
+============================================================
+
+ECSC Mk9 Auto $460 / $5
+30 m
+25%
+11 rds, 9mm Magazine; FMJ / HP
+41
+
+Matthews Model 19 $322 / $3
+20 m
+30%
+6 rds, .357; FMJ / HP
+46
+Reload 23%
+Single Action Revolver: cannot be fired as a free action.
+
+ECSC Mk26 Auto $490 / $6
+35 m
+35%
+15 rds, .40 Magazine; FMJ / CS
+43
+
+Matthews Model 25 $490 / $3
+30 m
+30%
+6 rds, .45 Long; FMJ / AP
+47
+Reload 23%
+Single Action Revolver: cannot be fired as a free action.
+
+G&W 10mm Auto $500 / $7
+35 m
+35%
+15 rds, 10mm Magazine; CS
+44
+
+Anvil Arms P-08 Phantom $570 / $7
+40m
+35%
+15rds, 10mm Magazine; FMJ / HP
+44
+
+Anvil Armament P-45 $611 / $6
+40 m
+35%
+12 rds, .45 Auto; FMJ / HP
+47
+
+Matthews Model 24 $910 / $3
+50 m
+30%
+6 rds, .44 Magnum; FMJ / HP / AP
+52
+Reload 23%
+Single Action Revolver: cannot be fired as a free action.
+
+Frontier Plas-8 $1320 / $7
+45 m
+30%
+8 rds, Argon-8; LO-SV / HO-SV / LO-HV
+55
+2 turns plasma burn
+HO-SV treated like HP
+LO-HV treated like AP
+Reload 28%
+
+============================================================
+Sub-Machine Guns:
+Capable of high rates of fire, but utilizing lighter calibers than a 
+traditional combat rifle. Fire DEX/3 shots per Action, rounding down. (
+DEX 5 = 1 shots, DEX 8 = 2 shots) Maximum LVL + 1.( All SMGs are considered 
+CQB weapons)
+Minimum Strength 4, Reload DC 25% unless otherwise noted. Reload time 2 Actions.
+Jam range 2%
+============================================================
+
+=====	LEVEL 1 REQUIREMENT WEAPONS	=====
+
+----ECSC Mk8 MP 	$1616
+Damage:	48
+Ranged Miss Chance:
+	3 out to 10m
+	4 out to 20m
+	5 out to 35m
+Burst Miss Chance:		+3 - 1 for every 6 Dex (starting at 5)
+Automatic Miss Chance:	+4 - 1 for every 5 Dex
+Mag size: 33 rounds of 8.0x20mm. $18 per mag
+Reload DC: 			30
+Fire modes:			Semi, Burst, Auto
+Burst; Auto fire rate:		3; 6
+Armor pierce level: 		1
+Reflex Modifier: 			+10
+Suppression Level:		Medium
+
+----ECSC Mk9 PDW 	$1027
+Damage:	45
+Ranged Miss Chance:
+	4 out to 10m
+	5 out to 20m
+	6 out to 40m
+Automatic Miss Chance:	+4 - 1 for every 5 Dex
+Mag size: 25 rounds of 9.0x16mm. $12 per mag
+Reload DC: 			30%
+Fire modes:			Semi, Auto
+Auto fire rate:			8
+Armor pierce level: 		0
+Reflex Modifier: 			+10
+Suppression Level: 		Medium
+
+=====	LEVEL 5 REQUIREMENT WEAPONS	=====
+
+----G&W XMP 80	$1536
+Damage:	55
+Ranged Miss Chance:
+	4 out to 10m
+	5 out to 20m
+	6 out to 40m
+Burst Miss Chance:		+4 - 1 for every 6 Dex
+Automatic Miss Chance:	+6 - 1 for every 4 Dex
+Mag Size:	30 rounds of 10.0x25mm. $19 per mag
+Reload DC:				30%
+Fire Modes:			Semi, Burst, Auto
+Burst Fire Rate:			3
+Auto fire rate:			6
+Armor Pierce Level:		2
+Reflex Modifier:			+10
+Suppression Level:		Medium
+
+---- Anvil Arms AR-34 PDW	$1356
+Damage:	45
+Ranged Miss Chance:
+	3 out to 10m
+	4 out to 25m
+	5 out to 45m
+Automatic Miss Chance:	+3 - 1 for every 8 Dex
+Mag Size:	15 rounds of 5.00x37mm. $7 per mag
+Reload DC:				30%
+Fire Modes:			Semi, Auto
+Auto fire rate:			6
+Armor Pierce Level:		3
+Reflex Modifier:			+10
+Suppression Level:		Medium
+
+----Flexcorp LS55	$2183
+Damage:	35, Laser
+Ranged Miss Chance:
+	3 out to 15m
+	4 out to 40m
+	5 out to 50m
+Automatic Miss Chance:	+3 - 1 for every 8 Dex
+Mag Size:	40 rounds of 10kW. $23 per mag
+Reload DC:				35%
+Fire Modes:			Semi, Auto
+Auto fire rate:			8
+Armor Pierce Level:		n/a
+Reflex Modifier:			10
+Suppression Level:		Medium
+
+=====	LEVEL 10 REQUIREMENT WEAPONS	=====
+
+---- Mathews "Bolter" 470B	$2389
+Damage:	60, 1x bleed on hit
+Ranged Miss Chance:
+	3 out to 10m
+	4 out to 35m
+	5 out to 45m
+Automatic Miss Chance:	+4 - 1 for every 5 Dex
+Mag Size:	20 rounds of 4x70mm. $13 per mag
+Reload DC:				30%
+Fire Modes:			Semi, Auto
+Auto fire rate:			4
+Armor Pierce Level:		2
+Reflex Modifier:			+5
+Suppression Level:		Medium
+
+----Frontier PL33G 	$2245
+Damage:	55, 1x plasma burn on hit
+Ranged Miss Chance:
+	3 out to 10m
+	4 out to 30m
+	6 out to 40m
+Burst Miss Chance:		+2 - 1 for every 8 Dex;
+Automatic Miss Chance:	+5 - 1 for every 5 Dex
+Mag Size:	20rounds of Argon-9. $16 per mag
+Reload DC:				40%
+Fire Modes:			Semi, Burst, Auto
+Burst; Auto Fire Rate:			3 ; 6
+Armor Pierce Level:		2
+Reflex Modifier:			+10
+Suppression Level:		Medium
+
+---- Flexcorp LS75	$3670
+Damage:	45, Laser
+Ranged Miss Chance:
+	2 out to 15m
+	3 out to 40m
+	4 out to 50m
+Automatic Miss Chance:	+4 - 1 for every 5 Dex
+Mag Size:	30 rounds of 10kW. $22 per mag
+Reload DC:				35%
+Fire Modes:			Semi, Auto
+Auto fire rate:			6
+Armor Pierce Level:		N/A
+Reflex Modifier:			+10
+Suppression Level:		Medium
+
+============================================================
+Shotguns:
+All pump shotguns take 1 Action to fire, 1 Action to rack. In the 
+racking action, you can load an additional round of your specification for one
+action. Double barrel and semi auto shotguns do not follow this rule.
+Slug damage deals damage as a normal rifle would, dealing its full damage up 
+to the listed distance.
+Buck-Shot damage is dealt in 3 distinct distances, which are listed. All buck
+shot deals 2 bleed tokens to the target.
+Minimum Strength 4, Reload DC 30% unless otherwise noted. Reload time is 3 Actions
+unless otherwise stated.
+============================================================
+
+===== Level 1 Weapons =====
+
+---- 
+
+===== Level 5 Weapons =====
+
+----
+
+===== Level 10 Weapons =====
+
+----
+
+============================================================
+Carbines
+Minimum Strength 5, Reload DC 25% unless otherwise noted. Reload time is 2 Actions.
+============================================================
+===== Level 1 Weapons =====
+
+---- Matthews 11-35 Carbine		$690
+Damage:	65
+Ranged Miss Chance:
+	3 out to 10m
+	4 out to 35m
+	5 out to 55m
+Mag Size:	18 rounds of 11x35mm. $7 per mag
+Reload DC:				30%
+Fire Modes:			Semi
+Armor Pierce Level:		1
+Reflex Modifier:			+5
+Suppression Level:		Medium
+
+---- Anvil Arms C25		$1608
+Damage:	80
+Ranged Miss Chance:
+	3 out to 15m
+	4 out to 40m
+	5 out to 60m
+Burst Accuracy Penalty:	2 - 1 at 8 STR
+Mag Size:	25 rounds of 5.45x40mm. $15 per mag
+Reload DC:				30%
+Fire Modes:			Semi, Burst
+Armor Pierce Level:		2
+Reflex Modifier:			+2
+Suppression Level:		Medium
+
+---- RMM S-92	$1086
+Damage:	75
+Ranged Miss Chance:
+	3 out to 10m
+	4 out to 30m
+	5 out to 55m
+Burst Accuracy Penalty: 6 - 1 per 4 STR (starting at 4)
+Mag Size:	25 rounds of 12.1x33mm. $8 per mag
+Reload DC:				30%
+Fire Modes:			Semi, Burst
+Armor Pierce Level:		1
+Reflex Modifier:			+5
+Suppression Level:		Medium
+
+===== Level 5 Weapons =====
+
+----
+
+===== Level 10 Weapons =====
+
+----
+
+============================================================
+Battle Rifles
+Minimum Strength 5, Reload DC 25% unless otherwise noted. Reload time is 2 Actions.
+============================================================
+
+===== Level 1 Weapons =====
+
+---- G&W FBR-C	$2194
+Damage:	100
+Ranged Miss Chance:
+	3 out to 15m
+	4 out to 40m
+	5 out to 65m
+Automatic Accuracy Penalty: 7 - 1 for every 3 Strength (starting at 4)
+Mag Size: 20 rounds of 7.65x51mm. $16 per mag.
+Reload DC:				30%
+Fire Modes:			Semi, Auto
+Automatic Fire Rate:	5
+Armor Pierce Level:		2
+Reflex Modifier:			0 (CQB weapon)
+Suppression Level: Medium
+
+
+---- G&W FBR		$2665
+Damage:	105
+Ranged Miss Chance:
+	3 out to 15m
+	4 out to 50m
+	5 out to 80m
+Automatic Accuracy Penalty: 6 - 1 for every 3 Strength (starting at 4)
+Mag Size: 25 rounds of 7.65x51mm. $20 per mag.
+Reload DC:				30%
+Fire Modes:			Semi, Auto
+Automatic Fire Rate:	5
+Armor Pierce Level:		2
+Reflex Modifier:			-10
+Suppression Level: Medium
+
+
+===== Level 5 Weapons =====
+
+---- Matthews HK-80		$2714
+Damage:	100
+Ranged Miss Chance:
+	3 out to 15m
+	4 out to 55m
+	5 out to 85m
+Burst Accuracy: 3 - 1 @ 6 STR
+Mag Size: 30 rounds of 5.77x55mm. $23 per mag
+Reload DC: 30%
+Fire Modes:	Semi, Burst
+Burst Fire Rate: 			3
+Armor Piercing Level:	4
+Reflex Modifier:			-8
+Suppression Level: Medium
+	
+
+===== Level 10 Weapons =====
+
+---- Berren Rifles BR606	$3909
+Damage:	105
+Ranged Miss Chance:
+	2 out to 15m
+	3 out to 55m
+	4 out to 95m
+Automatic Accuracy: 5 - 1 for every 4 STR
+Mag Size: 25 of 6.06x55mm. $20 per mag
+Reload DC:		30%
+Fire Modes:	Semi, Auto
+Auto Fire Rate:	6
+Armor Piercing Level: 5
+Reflex Modifier:	-8
+Supression Level:	Medium
+
+============================================================
+Automatic Rifles:
+Minimum Strength 5, Reload DC 25% unless otherwise noted. Reload time is 2 Actions.
+Fire STR/3 shots per action, Round down. Jam range 2%
+============================================================
+
+Anvil Arms AR-74 $1370 / $17
+100m
+40%
+30 rds, 7.62x39mm Rifle Magazine; FMJ / AP / Incendiary
+57
+
+Anvil Arms AR-68 $1850 / $17
+100m
+35%
+30 rds, 5.45x39mm Rifle Magazine; FMJ / HP / CS
+57
+
+ECSC Mk16 $2100 / $15
+120m
+30%
+30 rds, 5.56x45mm Rifle Magazine; FMJ / Tracer
+50
+Tracer inflicts 1 turn of bleed damage.
+
+G&W FBR $2690 / $13
+120m
+30%
+20 rds, 7.62x51mm Rifle Magazine; FMJ / AP
+64
+
+ECSC Mk249 $1950 / $50
+Requires strength of 7 to carry
+120m
+35%
+100 rds, 5.56x45mm Linked; Tracer Rounds / CS
+50
+Supporting fire
+Tracer Rounds inflict 1 bleed damage, 1 burn on next turn.
+Minimum Strength 7 to carry. Reload DC 40%
+
+Anvil Arms KMR $3580 / $51
+Requires strength of 7 to carry
+160m
+30%
+80 rds, 7.62 x 51mm Linked
+64, Bleed Damage
+Supporting Fire
+Minimum 7 Str to carry. 40% reload
+
+Matthews Model 240-B $3720 / $50
+Requires strength of 7 to carry
+160m
+25%
+80 rds, .308 RMM-Mag Belt
+62, Bleed damage.
+Supporting Fire
+Minimum 7 Str to carry. 40% reload.
+
+============================================================
+Heavy Weapons:
+Reload DC 40%, strength required 6 unless otherwise stated.
+2 actions to reload unless otherwise stated.
+============================================================
+
+G&W AA-29 Personal Flack Cannon $2070 / $18
+15%
+100 dam out to 10m, 80 out to 20m, 60 out to 50m.
+20 rounds, 
+Each shot into a door reduces the DC of kicking down that door by 65. If the 
+DC becomes 0, the door is blown open. No optics or barrel attachments.
+
+Anvil Arms XM-545 Minigun $3000 / $150
+Reqires Strength of 8 to carry.
+60m
+30%
+300 rds, 5.45 x 39 mm belt; 
+50 damage
+Requires 2 actions of spin-up time. Fires STR/3 rounds per Action, 
+round down. Jam range 2%
+Supporting Fire. No optics, barrel attachments or extended mags.
+
+Strudwick Arms Ultralight Autocannon $7600 / $200
+140m
+30%
+4 rounds, 20mm vicinity detonating HE rounds.
+75 explosive damage, 40 shrapnel 1m adjacent.
+Damages vehicles. No optics or barrel attachments.
+Clips cost $200 each
+
+============================================================
+Long Rifles:
+On all engagements farther than 200m, you must take 2 Actions to adjust 
+your scope for windage and elevation between targets of differing distance.
+Minimum 5 strength to carry. All targets are inflicted with "Pinned" condition 
+when hit. Reload DC 30% unless otherwise noted. Reload time 3 Actions.
+============================================================
+
+ECSC PRS $4325 / $4
+10-150m
+15%
+7 rds, .300 Blackout; FMJ / AP
+60
+Bolt Action: take 1 action to fire, 1 action to chamber a new round.
+Integrated Improved Silencer. This integrated silencer prevents the usage of a
+muzzle break or other silencers or suppressors.
+Reload DC 26%, 2 Actions
+
+ECSC Mk12 Mod 0 $3500 / $10
+20-200m
+30%
+20 rds, 5.56x45mm Rifle Magazine; FMJ
+50
+Reload DC 25%, 2 Actions
+
+Anvil Arms SR-150 $5440 / $3
+20-200m
+20%
+5 rds, 7.62x54R; FMJ / AP
+68
+Bolt action: take 1 action to chamber round, 1 action to fire.
+
+Anvil Arms SR-250 $8160 / $5
+30-300m
+20%
+5 rds, 7.62x54R; FMJ / CS
+68
+Bolt Action: take 1 action to fire, 1 action to chamber a new round.
+
+//add some rifles and buff SR series rifles 100m after marksman update
+
+
+============================================================
+Rocket Launchers:
+============================================================
+
+=====	LEVEL 5 REQUIREMENT WEAPONS	=====
+
+---- ECSC RPE-B7	$2308
+Considered a secondary weapon. One rocket takes the space of 2 secondary magazine slots. Airburst Missile, 120 explosive damage. 5m radius.
+Chance to Miss:
+	3 out to 10m
+	4 out to 40m
+	5 out to 80m
+Mag Size: 1 40mm Self-propelled HE Rocket. $150 per rocket.
+Reload DC:		40%
+Max Speed Penalty: 1m per action
+Reflex Modifier: -35
+
+=====	LEVEL 10 REQUIREMENT WEAPONS	=====
+
+---- ECSC RPE-CLS8	$6168
+Considered a secondary weapon. One rocket takes the space of 2 secondary magazine slots. Airburst Cluster Missile, 100 explosive damage. 8m radius. All affected targets roll DC 50% shock to resist stun for 1 turn.
+Chance to Miss:
+	3 out to 10m
+	4 out to 40m
+	5 out to 100m
+Mag Size: 1	50mm Self-propelled HE MIRV-guided missile. $300 per missile
+Reload DC: 50%
+Max Speed Penalty: 1m per action
+Reflex Modifier: -35
+
+---- Anvil Arms AT-20	$5599
+Considered a secondary weapon. One rocket takes the space of 2 secondary magazine slots. Guided missile, 150 explosive damage, 3m radius. On a miss, lands within 4m of the target point. 8m radius. All affected targets roll DC 62% shock to resist stun for 1 turn. On a miss, roll a d10 to calculate the miss distance. Divide the number by 2 and round up; if the number is greater than 4, reduce it to 4. 
+Chance to Miss:
+	2 out to 15m
+	3 out to 55m
+	4 out to 150m
+Mag Size: 1	40mm Self-propelled guided HE Missile.	$200 per missile.
+Reload DC: 40%
+Max Speed Penalty: 1m per action
+Reflex Modifier: -35
+
+
+//===================================================================
+//Copyright 2016 Taylor Rowland
+//
+//Licensed under the Apache License, Version 2.0 (the "License");
+//you may not use this file except in compliance with the License.
+//You may obtain a copy of the License at
+//
+//   http://www.apache.org/licenses/LICENSE-2.0
+//
+//Unless required by applicable law or agreed to in writing, software
+//distributed under the License is distributed on an "AS IS" BASIS,
+//WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+//See the License for the specific language governing permissions and
+//limitations under the License.
+//===================================================================
