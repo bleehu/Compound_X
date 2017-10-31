@@ -93,7 +93,8 @@ Prerequisite:
 When downed instead of not being able to move you may crawl half of your 
 move speed or 3m every two actions whichever distance is shorter. You still 
 cannot speak, and you cannot take any other action. Death saving throws are 
-not actions, and must be thrown normally.
+not actions, and must be thrown normally. You also get a +10% bonus to Death
+Saving Throws
 
 Double Tap: 
 Prerequisites:
@@ -104,7 +105,7 @@ SA Revolvers, Bolt Action, Pump-Action, Full-Auto weapons, etc.
 
 Dual Weild:
 Prerequisites: Dex 6
-Maybe you''ve got a bigger corpus colocum and your right brain and left brain
+Maybe you''ve got a bigger corpus collosum and your right brain and left brain
 are in higher synch than most people; or maybe you''ve seen too many John Woo
 holomovies. Either way, you''ve managed to effectively fight using a weapon
 in each hand. The weapons must be of the same type, either two pistols, two
