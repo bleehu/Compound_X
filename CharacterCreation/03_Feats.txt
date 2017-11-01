@@ -551,12 +551,11 @@ Prerequisites: Luck 6
 		You can choose to reroll a check, save, or attack twice per long rest. You 
 		may only reroll once for a given action and you must keep the second result.
 	Luck = 8		
-		You can choose to reroll a check, save, or attack twice per long rest. You 
-		may only reroll once for a given action, but you may choose either result.
+		You can choose to roll a check, save, or attack with advantage twice per 
+		long rest.
 	Luck = 9		
-		You can choose to reroll a check, save, or attack three times per long rest. 
-		You may only reroll once for a given action, but you may choose which roll 
-		to keep.
+		You can choose to roll a check, save, or attack with advantage three times 
+		per long rest.
 	Luck = 10		
 		You may choose to reroll a check, save, or attack four times per long rest. 
 		You may reroll an action multiple times and choose which roll to keep.
