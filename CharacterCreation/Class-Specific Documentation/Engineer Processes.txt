@@ -40,7 +40,6 @@ tree. Please see the Engineer Skill Tree - Repair.png for dependencies.
 ====================	  Cyberphysical			====================
 /////	Reboot
 Energy Gain:65
-
 Action:		1 Action
 Duration: 	N/A
 Range:		Touch
@@ -431,18 +430,17 @@ ally will have to make a skill check to swap back their muzzle attatchment.
 =====		Build Tree		=====
 =================================
 Note:
-nanites used to "glue" modular bits of tech together and to allow tech to function. After a certain amount of time the nanites die and the item crumbles. At higher levels, the nanites are able to last longer so the item can be used longer. 
 Drones do not count as "cybernetic allies" for most repair skills, though you can repair them with
-repair kits as normal. They take their turns independantly, with 4 actions per turn, and they
-take their owner's (not necissarily their deployer's) initiative. A Drone can only use 4 IO ports 
+repair kits as normal. They take their turns independently, with 4 actions per turn, and they
+take their owner's (not necessarily their deployer's) initiative. A Drone can only use 4 IO ports 
 at a time unless otherwise stated. 
 Unlocking a Build tree skill requires having unlocked the skill below it on the 
-tree. Please see the Engineer Skill Tree - Build.png for dependancies.
+tree. Please see the Engineer Skill Tree - Build.png for dependencies.
 
-====================	Embeded Systems		====================
+====================	Embedded Systems		====================
 /////	Dragonfly
 Type: 				Drone
-Construction Cost:	40 Nanites
+Construction Cost:	30 Energy, 40 material 
 Control Point Cost: 1 point
 Build Time:			4 Actions
 Modular I/O ports: 	1 port
@@ -468,7 +466,7 @@ same turn that it is shot at adds a 25% chance for the attacker to miss.
 
 /////	KRO-W5
 Type: 				Drone
-Construction Cost:	60 Nanites
+Construction Cost:	45 Energy, 50 Material
 Control Point Cost: 1 point
 Build Time:			6 Actions
 Modular I/O ports: 	3 ports
@@ -496,7 +494,7 @@ but does not reimburse its controler's nanites that were used to assemble it.
 
 /////	PD-5 Scout Bot
 Type: 				Drone
-Construction Cost:	60 Nanites
+Construction Cost:	50 Energy, 60 Material
 Control Point Cost: 1 point
 Build Time:			6 Actions
 Modular I/O ports: 	5 ports
@@ -527,7 +525,7 @@ but does not reimburse its controler's nanites that were used to assemble it.
 
 /////	Con-D0R
 Type: 				Drone
-Construction Cost:	55 Nanites
+Construction Cost:	60 Energy, 30 Material
 Control Point Cost: 1 point
 Build Time:			6 Actions
 Modular I/O ports: 	4 ports
@@ -551,7 +549,7 @@ but does not reimburse its controler's nanites that were used to assemble it.
 
 /////	Cerberus Attack Drone
 Type: 				Drone
-Construction Cost:	220 Nanites
+Construction Cost:	110 Energy, 90 Material
 Control Point Cost: 2 points
 Build Time:			8 Actions
 Modular I/O ports: 	9 ports
@@ -574,7 +572,7 @@ but does not reimburse its controler's nanites that were used to assemble it.
 
 /////	Titan Multipurpose Drone
 Type: 				Drone
-Construction Cost:	350 Nanites
+Construction Cost:	270 Energy, 150 Material
 Control Point Cost: 4 points
 Build Time:			8 Actions
 Modular I/O ports: 	13 ports
@@ -595,7 +593,7 @@ but does not reimburse its controler's nanites that were used to assemble it.
 
 /////	Peripheral: popgun
 Type:				Peripheral
-Construction Cost:	50 nanites
+Construction Cost:	10 Energy, 10 Material, 1 Munitions
 Build Time:			2 Actions
 Modular I/O ports:	Uses 1 port
 Ammo:				Holds 20 shots
@@ -611,7 +609,7 @@ Atatchments added to a drone are returned when the drone is reclaimed.
 
 /////	Peripheral: Ammo
 Type:				Peripheral
-Construction Cost:	20 nanites
+Construction Cost:	10 Energy, 1 Munitions
 Build Time:			2 Actions
 Modular I/O ports:	Uses 1 port
 Ammo:				Holds 3 full refills.
@@ -621,7 +619,7 @@ of other drones. Also adds 30 health to a drone.
 
 /////	Peripheral: Tazer
 Type:				Peripheral
-Construction Cost:	40 nanites
+Construction Cost:	50 Energy, 20 Material
 Build Time:			2 Actions
 Modular I/O ports:	Uses 1 port
 Ammo:				Holds 4 shots
@@ -637,7 +635,7 @@ being paralyzed on their following turn.
 
 /////	Peripheral: Armor
 Type:				Peripheral
-Construction Cost:	25 nanites
+Construction Cost:	10 Energy, 30 Material
 Build Time:			2 Actions
 Modular I/O ports:	Uses 1 port
 Coverage:			+50%
