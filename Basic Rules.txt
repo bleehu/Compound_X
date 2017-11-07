@@ -43,17 +43,16 @@ which dice represents the tens place before you roll. i.e. if one die rolls a
 die which represents your ten's place and a purple die which represents your one's
 place, and you roll an orange 3 and a purple 9 then you rolled 39%.
 
-Sometimes circumstances or the occasional feat may prompt you to make a roll with
-Advantage or Disadvantage. In such cases you make the roll twice. With Advantage
-you take the better roll, while with Disadvantage you take the worse roll. Note that
-better rolls are not always higher - for example if you rolled with advantage on an
-attack roll you would take the lower number. Advantage and Disadvantage do not stack 
-with themselves. If you would have both Advantage and Disadvantage on the same roll, 
-then they cancel each other, and you just roll once.
-
 It's important to note that you don't have to roll for everything. Your character
 probably knows how to do mundane things like brush their teeth, open an unlocked
 door, and tie their shoes. It's okay to just do these things, even in combat.
+
+Rolling with Advantage:
+Sometimes circumstances or the occasional feat may prompt you to make a roll with
+Advantage or Disadvantage. In such cases you make the roll twice. With Advantage
+you take the better roll, while with Disadvantage you take the worse roll. Advantage 
+and Disadvantage do not stack with themselves. If you would have both Advantage and 
+Disadvantage on the same roll, then they cancel each other, and you just roll once.
 
 ==============================
 Role Playing and Combat:
