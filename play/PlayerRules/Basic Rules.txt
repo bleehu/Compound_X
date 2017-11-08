@@ -344,8 +344,8 @@ Movement Speed:
 	Your speed in meters, for every two actions. Use (Movement Speed)/2 for one action (drop the remainder). 
 	For more information, see topic "Movement and Sprinting", below.
 Carry Ability:
-	Not 'carrying' in the traditional sense. Carry ability cancels out movement speed penalties.
-	If you have 6 Carry Ability and 6m of movement speed penalties, you end up with no speed penalty.
+	Cancels out movement speed penalties. Carry Ability allows you to carry heavier weapons or heavier armor without slowing
+	you down. If you have 6 Carry Ability and 6m of movement speed penalties, you end up with no movement speed penalties.
 Skill Point Gain:
 	How many skill points you gain every level. Every time you level up, you gain skill
 	points according to your "Skill Point Gain". Note about gaining skill points: you have a 
@@ -633,12 +633,11 @@ Critical hits are accuracy rolls that land inside your critical hit range (aka. 
 If you roll a critical hit, your weapon does +20 damage for that attack (and/or other effects,
 depending on your abilities). By default, everyone starts with a critical hit range of "1", 
 meaning, an attack roll of a 10 would be considered a critical hit. But your critical range may
-not be "1" because your Luck modifies your critical hit range: ((Luck-5)*0.4), drop the remainder,
+not be "1" because your Luck modifies your critical hit range: (Luck Modifier/10), round down,
 is added to your critical hit range. Which means, if you have a Luck stat of 8 (and thus, by
 the equation, +1 to your critical hit range), an attack roll of 9-10 would be considered a
-critical hit. 
-All weapons and melee can critical hit except for Fully-Automatic weapons (weapons that 
-shoot more than 1 bullet per Action by default).
+critical hit.	
+Fully-Automatic weapons cannot crit (weapons that shoot more than 1 bullet per Action by default).
 
 Armor and Getting Hit:
 When a player is defending against a successful enemy hit, they roll Percentiles under their 
@@ -687,7 +686,7 @@ players fail, they may roll each turn at a DC of 70 to wake up. They continue
 to roll either for (15 - FORT) turns, or until they pass.
 
 Stealth Attacks:
-If you are stealthed (undetected by an opponent) when you initiate an attack action, 
+If you are hidden (undetected by an opponent) when you initiate an attack action, 
 you incur bonuses depending on the circumstances of the attack.
 	Ranged weapon stealth-attacks (including explosive grenades but not any other thrown 
 weapons) have -1 miss chance to hit if 'adequate' aiming time is given (DM's discretion:
