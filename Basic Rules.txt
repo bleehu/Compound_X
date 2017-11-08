@@ -109,14 +109,16 @@ Class 		- Think of this like your job. Are you a sniper, waiting for the
 	starfighter? Or maybe you're a veteran soldier, who's seen it all. 
 	Classes define what armor and weapons your character can use in combat,
 	as well as certain special abilities which might help solve puzzles or
-	get you better discounts at stores. Your class also dictates how much 
-	money you start with to buy equipment.
+	get you better discounts at stores. Your class also determines how much 
+	money you start with to buy equipment and how many nanites you can use
+	at once.
+Nanites  	- 
 Skills		- Each character learns things while going through life. Maybe
 	your time in the military taught you how to navigate using the stars
 	or maybe your time working at a mechanic's shop made you good at 
 	repairing things? Or maybe you're one of those people who is just
 	naturally good at hacking computers. Picking these numbers will
-	represent that in the game world. 
+	represent that in the game world.
 Equipment	- Your equipment is made up of your character's weapon, armor
 	and miscellaneous items. You'll get money to buy them with at the start
 	of the game and you'll earn more money as you go about your adventures.
@@ -163,7 +165,7 @@ Movement Speed and Carry Ability so you have to decide whether you want:
 3 Movement Speed and 6 Carry Ability 
 		or 
 6 Movement Speed and 4 Carry Ability 
-Strength determing Movement Speed is likely to be the better choice, as Carry 
+Strength determining Movement Speed is likely to be the better choice, as Carry 
 Ability doesn't contribute as much to your character (see Secondary Stat Details, below)
 and you have a total of 6 + 4 = 10 points in secondary stats instead of 3 + 6 = 9. 
 
@@ -198,6 +200,8 @@ These bonuses use a table instead of the above Stat Bonus equation, as combat ac
 rolls are played out on a d10, not a d100 scale. The two most-used base stats for accuracy
 rolls are Perception and Dexterity. The Perception stat affects a ranged weapon's range 
 bracket miss chance, and the Dexterity stat affects melee miss chance.
+
+COMBAT MISS CHANCE BONUSES TABLE
 ╔════════╦═════════════╗		
 ║ Stat   ║ Stat Bonus  ║
 ╠════════╬═════════════╣		
@@ -253,7 +257,7 @@ Each Base Stat has different specific effects. They are detailed below.
 
 ==== Primary Stat Details ====
 Strength (STR):
-	How strong are you? This stat dictates how big of a gun you can carry and
+	How strong are you? This stat determines how big of a gun you can carry and
 	how hard you can punch or hit with strength melee weapons. It might also allow 
 	you to solve puzzles with the brute force approach.
 		If you have 1 Strength, you are exceptionally weak and your max movement per
@@ -268,8 +272,9 @@ Perception (PER):
 	something similar. You cannot use the Search or Awareness skills and you have a 
 	-20 malus to Speech skill rolls. 
 Fortitude (FORT): 
-	How tough are you? Fortitude dictates your maximum health, how hard you are to 
+	How tough are you? Fortitude determines your maximum health, how hard you are to 
 	knock off of your feet, and contributes to your saving throws.
+	Your Maximum Health = 50 + 10 * FORT
 		If you have 1 Fortitude, you are exceptionally frail. You can't inflict lethal 
 	unarmed damage and your unarmed damage is halved. Also, when you deal melee damage, 
 	you inflict half of the damage on yourself.
@@ -286,14 +291,15 @@ Charisma (CHA):
 	depending on how many points you have in Charisma. Or, if you have 9 or more Charisma,
 	you get to choose between taking feat "Will to Survive" or feat "Positional Mastermind". 
 Intelligence (INT): 
-	How smart are you? Intelligence dictates how many Nanites you have to cast spells
-	with or use certain Feats and abilities. It also affects how quickly you acquire new
-	skills when you	level up and how proficient you are at using some of those skills.
-		If you have 1 intelligence, let's just say, you aren't particularly smart. 
+	How smart are you? Intelligence determines how quickly you acquire new skills when you	
+	level up and how proficient you are at using some of those skills.
+		If you have 1 Intelligence, let's just say, you aren't particularly smart. 
 	You cannot attempt to use any skill that you do not have Proficiency in (see the 
 	"RP / Using Skills" section).
+		If you have 9 or more Intelligence you are exceptionally gifted and gain additional 
+	feats at certain levels; for more information, please see the "LEVELING-UP TABLE" below.
 Dexterity (DEX): 
-	How nimble are you? Dexterity decides your maximum move speed in combat, as well 
+	How nimble are you? Dexterity determines your maximum move speed in combat, as well 
 	as how much damage you do with finesse melee weapons like knives. Dexterity also 
 	contributes to skill checks for doing things with a character's body like climbing,
 	jumping, or dancing.
@@ -325,14 +331,25 @@ Luck (LUCK):
 ║ 9-10  ║ Nothing bad happens... this time							║
 ╚═══════╩═══════════════════════════════════════════════════════════════════════════════════════╝
 
+Nanites:
+	Although not a primary stat, The maximum number of Nanites you can use at a given time is determined
+	by your character class and an associated primary stat. Your class may tell you its "Class Primary Attribute" 
+	is Strength. In that case, Strength * 10 is your maximum Nanites. More generally:
+	    Your Maximum Nanites = (Your Class's Primary Attribute) * 10
+	Some class feats and other abilities can increase the number of Nanites you can hold and use at a given time. 
+	Also, Unlike Health, Nanites regenerate during combat at a rate of 3 Nanites per turn. 
+
 ==== Secondary Stat Details ====
 Movement Speed:
-	Your speed in meters, for every two actions.
+	Your speed in meters, for every two actions. Use (Movement Speed)/2 for one action (drop the remainder). 
+	For more information, see topic "Movement and Sprinting", below.
 Carry Ability:
-	Not 'carrying' in the traditional sense. Carry ability cancels out movement speed penalties.
-	If you have 6 Carry Ability and 6m of movement speed penalties, you end up with no speed penalty.
+	Cancels out movement speed penalties. Carry Ability allows you to carry heavier weapons or heavier armor without slowing
+	you down. If you have 6 Carry Ability and 6m of movement speed penalties, you end up with no movement speed penalties.
 Skill Point Gain:
-	How many skill points you gain every level.
+	How many skill points you gain every level. Every time you level up, you gain skill
+	points according to your "Skill Point Gain". Note about gaining skill points: you have a 
+	max of 50 points in any one Skill. Also, you have a max of 17+3*[CHA] points in any one Charisma Skill.
 	
 Assigning Stats to a New Character
 	When making a new character, you'll have to assign their Base stats.
@@ -356,6 +373,7 @@ calculations, so if you had 10 int, and increased to 11, you would get 22 skill 
 for the level. Additionally, any stat point alteration forces a recalculation on all
 affected values.
 
+			  LEVELING-UP TABLE
 ╔═══════╦══════════╦═══════╦════════════╦════════════╦═══════════════╗
 ║ Level ║ Skill P. ║ Feats ║ Class Feat ║ Stat Point ║ Feats (9 INT) ║
 ╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
@@ -495,11 +513,13 @@ Resting
 ==============================
 
 Short Rest:
-Taking about an hour, characters can take a short rest to rest and recoup.
+Taking about an hour, characters can take a Short Rest to rest and recoup which
+will restore all the character's Nanites.
 
 Long Rest:
 Taking about eight hours, characters need to rest after a long day of adventuring.
 If you choose to stay up all night, you won't be at your best for the next day.
+Restores all of a character's Nanites.
 
 ==============================
 RP / Using Skills:
@@ -559,34 +579,49 @@ Combat starts when either you or an enemy decides they would like to make an
 attack. Each "Player turn" lasts 4-6 seconds, and consists of 4 "Actions" 
 (described below).
 
+==== Miss Chance Limits ====
 At any time when using a melee or ranged weapon, you have a minimum of -2 weapon
 miss chance, and a minimum of 1 Auto or burst miss chance (if relevant). These 
 minimums apply after all PER/DEX/STR/Attachment modifiers, at all ranges, and 
 before cover and any other environmental effects. Using an ability could push 
 you below the minimum miss chance.
 
-Melee Notes:
+==== Melee Combat ====
 A character occupies 1m of space. however, as Compound X is not played out on a 
-squares-board, usually it doesn''t matter if two players are within the same 
+squares-board, usually it doesn't matter if two players are within the same 
 1m space.
-Two Players locked in melee combat are considered to be in adjacent 1m spaces, 
-not in the same 1m space. Have you ever seen a fight? you don't start 
+	Two Players locked in melee combat are considered to be in adjacent 
+1m spaces, not in the same 1m space. Have you ever seen a fight? you don't start 
 face-to-face unless you're at a bar.
-Generally speaking, once a character has initiated melee combat with another 
-character, they are both considered to be in "melee combat," and occupy 
-adjacent 1m spaces. At this point (unless one character has a CQB weapon) 
-both characters are assumed to be using their fists or other melee weapons. If
-a character wishes to leave melee combat, they incur a "penalty attack." 
-Characters also incur "penalty attacks" when moving through or next to an 
-enemy character''s 1m space, or within range of a melee weapon that the enemy 
-has equipped, and when performing a skill check when in melee combat.
-Melee combat is relatively simple. To hit an enemy player, add your dexterity 
-modifier to a d100 roll, plus any relevant skill. The result must be 
-greater than the opponent''s DEX * 5 + any skill in combat (Guard DC). Your 
-damage dealt is based on a combination of your DEX and STR modifier. If you 
-are wielding a weapon against an unarmed opponent, they may still incur damage
-depending on their skill.
+	Generally speaking, once a character has initiated melee combat with another 
+character, they are both considered to be in "melee combat," and occupy adjacent 
+1m spaces. At this point (unless one character has a CQB weapon) both characters 
+are assumed to be using their fists or other melee weapons. If a character wishes 
+to leave melee combat, they incur a "penalty attack."  Characters also incur 
+"penalty attacks" when moving through or next to an enemy character's 1m space,
+or within range of a melee weapon that the enemy has equipped and when performing 
+a skill check when in melee combat.
+	Melee combat is relatively simple. To hit an enemy player: add your dexterity 
+combat modifier to a d10 roll plus your combat modifier from your weapon/attack*,
+and add any relevant skill(s)**. The result must be greater than the opponent's
+Guard DC: (DEX * 4)/10 + any skill** in combat. Drop any decimal remainder. If you
+successfully hit your opponent, you roll armor as normal (for more details, see below sections 
+"Armor and Getting Hit" and "Damage Types and Armor Types"). Your damage dealt is often
+based on a combination of your DEX and STR. If you are wielding a weapon against
+an unarmed opponent, they may still incur damage depending on their skill.
+	NOTE: if you are fighting unarmed, you can (normally) deal full non-lethal damage or 
+half lethal damage (your choice). Non-lethal damage should be recorded as a separate (duplicate) 
+health bar. When their non-lethal health bar reaches 0, the target becomes unconscious/incapacitated.
+	*Modifiers from specific weapons or unarmed[x] attacks are listed in the weapons document.
+	**To determine bonus modifiers from skill, for every 5 skill points in a relevant 
+	skill (such as "melee combat skill") take a bonus +0.5 when rolling against guard DC.
+	Drop any decimal remainder after adding all the modifiers.
 
+Hitting What You Intend:
+If you roll 3+ above your miss chance (3+ above the opponent's guard DC), you 
+ignore the opponent's armor and deal full damage. 
+
+Grappling:
 A character may grapple another character when they are both in melee 
 distance. Doing so provides the grappled player a "penalty attack" on the 
 grappling player. During grappling, both sides roll opposing grapple checks to 
@@ -595,12 +630,15 @@ to subdue your opponent (by choke-out, pin, or a joint lock). You may also strik
 an opponent during grappling, but if the strike fails your opponent may attempt 
 to gain control of the grapple. Skill in grappling is different than skill in 
 unarmed combat.
-Instead of dealing full damage, a character can try to kick/shove a human sized
-opponent to force movement by rolling for a normal unarmed attack with a -2
-miss penalty. If the attack succeeds, it yields 1/2 the damage it normally 
-would and pushes the target 1m for every 5 strength you have.
 
-Actions:
+Kicking/Shoving:
+Instead of dealing full damage, a character can try to kick/shove a human sized
+opponent to force movement by rolling for a normal unarmed/armed melee attack 
+with an additional -2 miss penalty against the opponent's Guard DC. If the attack 
+succeeds, it yields 1/2 the damage it normally would and pushes the target 
+1m for every 5 strength you have.
+
+=== Actions ===
 During combat, your character has 4 Actions. Actions are used for fighting, 
 movement, items, whimpering, etc. Here is a list of common tasks and their
 relative cost:
@@ -620,7 +658,7 @@ Performing a Skill Check (other than Getting Bearings/Awareness of surroundings)
 Conversing With Partners - Free Action
 Getting Your Bearings / Non Skill-Based Perception - Free Action
 
-Movement and Sprinting:
+==== Movement and Sprinting ====
 You can run 'Movement Speed' minus 'Movement Speed Penalty' number of meters for every
 2 actions spent (Movement Speed Penalties should be rounded up before the subtraction).
 A character with 1 Movement Speed and 0 move speed penalties can move 1m per 2 actions, 
@@ -631,50 +669,24 @@ actions afterwards. You can sprint for a number of subsequent Actions equal to y
 You can jump horizontally Dex/2 meters, and add 1m if you have a 3m running start.
 You can jump vertically Str/3 meters.
 
-Fighting:
-If a player or opponent is standing outside of cover and they are shot at, 
-after the first firing action (assuming they didn't die or go unconscious), 
-they immediately, 'Hit the Dirt'. When you Hit the Dirt, you dive to the ground,
-going prone, within a 2m range of where they stood (DEX movement rules apply 
-as normal). Hitting the dirt consumes the 1st action of their next turn.
 
-During combat with a ranged weapon, you can aim and fire or, more simply, just fire
-at a target. If you shoot without aiming, you are "Hip Firing" and incur additional
-aiming penalties (see Hip Firing, below).
-Most weapons are Semi-Auto, meaning that each time you pull the 
-trigger, the gun fires once and chambers a new round automatically. It 
-takes 1 Action to fire a semi-auto weapon in this way. Some guns, 
-such as Shotguns and Bolt-Action sniper rifles require 2 Actions to fire 
-the gun, where the first Action is a trigger pull, and the second Action
-is the rechambering of the weapon.
-To hit a target, Players must roll a d10 that is over their weapon's miss stat.
-When an enemy is in cover, their cover score is added to your weapon's miss chance. 
-Lets say your normal ranged miss chance is 2, and the enemy is in full cover, your
-miss chance is increased by 4, for a final DC of 6. So a roll of 7-10 would be 
-successful.
-
+==== Other Combat Details ====
 Critical Hits:
 Critical hits are accuracy rolls that land inside your critical hit range (aka. crit chance). 
 If you roll a critical hit, your weapon does +20 damage for that attack (and/or other effects,
 depending on your abilities). By default, everyone starts with a critical hit range of "1", 
 meaning, an attack roll of a 10 would be considered a critical hit. But your critical range may
-not be "1" because your Luck modifies your critical hit range: ((Luck-5)*0.4), drop the remainder,
+not be "1" because your Luck modifies your critical hit range: (Luck Modifier/10), round down,
 is added to your critical hit range. Which means, if you have a Luck stat of 8 (and thus, by
 the equation, +1 to your critical hit range), an attack roll of 9-10 would be considered a
-critical hit. 
-All weapons and melee can critical hit except for Fully-Automatic weapons (weapons that 
-shoot more than 1 bullet per Action by default).
-
-Gun Jams:
-If at any time that you are firing a gun and you roll a weapon accuracy of 1, roll a second d10.
-If that second d10 roll is a 1 or 2, the weapon Jams, necessitating a weapon 
-skill check, DC 60. 
+critical hit.	
+Fully-Automatic weapons cannot crit (weapons that shoot more than 1 bullet per Action by default).
 
 Armor and Getting Hit:
 When a player is defending against a successful enemy hit, they roll Percentiles under their 
 armor in order to see if their armor blocked the bullet, and from there, how much
 damage they receive. If the defending player has no armor, they armor roll for a target 50 Percentile. 
-If the armor roll is above 50%, they receive half-damage. Below 50%, full damage.
+If the armor roll is 50% or above, they receive half-damage. Below 50%, full damage.
 
 Armor consists of 3 concepts: Armor Points (APs), Armor Piercing level (APL), and % Coverage.
 Starting from the end, Coverage is simply the percentile that you have to roll
@@ -697,21 +709,82 @@ laser-toting plasma-fuming space hooligan will be looking to turn you into space
 with a laser, shields absorb 100% of the damage, reducing the shield's strength by the 
 damage taken. If you are hit with a plasma weapon, the shield absorbs 50% of the damage, 
 and the rest passes through to the next line of defense (either armor [if present] or the
-character's body). If the shield's strength is reduced to 0, all remaining damage passes 
+character's body). If the Shield's Strength is reduced to 0, all remaining damage passes 
 through unabated.
-As long as the shield's strength isn't reduced to 0, the shield will recharge 'Recharge Rate' 
-number of points at the start of the wearer's turn. If the shield's strength is reduced to 0, 
-you must wait a "Time Before Restart" number of turns before the shield will restart at 
+As long as the Shield's Strength isn't reduced to 0, the shield will recharge 'Recharge Rate / Turn' 
+number of points at the start of the wearer's turn. If the Shield's Strength is reduced to 0, 
+you must wait a "Shield Restart Time" number of turns before the shield will restart at 
 "Recharge Rate" strength. If you get hit with a weapon/by melee during that time, you must
-restart your recharging time. 
+start your "Shield Restart Time" over again. 
 If you don't want to wait that long, at the start of your turn you can pay the 
-"Fast Recharge Nanite Cost" to restart your shields. Or if your shield's strength is just
-damaged, at the start of your turn you can pay the "Fast Recharge Nanite Cost" to boost 
-the shield's strength by an extra "Recharge Rate" (in other words, 2x "Recharge Rate"
+"Fast Recharge Nanites" cost to restart your shields. Or if your Shield's Strength is just
+damaged, at the start of your turn you can pay the "Fast Recharge Nanites" cost to boost 
+the Shield's Strength by an extra "Recharge Rate / Turn" (in other words, 2x "Recharge Rate / Turn"
 instead of the normal 1x).
 
+Shock:
+When players take more than 70 damage, they must roll a Shock save at a DC of 
+the damage taken. On fail they pass out. on success they stay conscious. When 
+players fail, they may roll each turn at a DC of 70 to wake up. They continue 
+to roll either for (15 - FORT) turns, or until they pass.
+
+Stealth Attacks:
+If you are hidden (undetected by an opponent) when you initiate an attack action, 
+you incur bonuses depending on the circumstances of the attack.
+	Ranged weapon stealth-attacks (including explosive grenades but not any other thrown 
+weapons) have -1 miss chance to hit if 'adequate' aiming time is given (DM's discretion:
+how rushed you are, or how skilled you are at stealth, etc). Ranged weapon stealth-attacks 
+gain +20 bonus damage.
+	If you stealth-attack a target in melee, your target has a guard DC of 0. If you have 
+at least 10 skill in melee combat and you attack from stealth, Thrown and Melee (non-explosive/non-grenade) 
+weapons deal 2x BASE Damage*, up to 150 maximum damage** (critical/BONUS damage is not doubled, but added 
+on to the 2x Base Damage). If you critically hit, you ignore the opponent's armor and deal full damage. 
+Or, as normal, (see section, "melee combat") if you roll 3+ above your miss chance (3+ above the opponent's
+guard DC), you ignore the opponent's armor and deal full damage. Signifying that the target gets hit in 
+whatever you deem to be the most vulnerable; i.e., the head, neck, or the chest (over the heart, etc). 
+	*Base Damage is typically the damage of the weapon without any other character bonuses, but Base Damage 
+	can be increased by certain classes and abilities.
+	**Increases to 200 max damage at level 10.
+
+Flanking:
+If you are behind a target, aka flanking, your melee attacks gain +2 bonus accuracy against their Guard DC. 
+(Ranged attacks don't gain a specific bonus from flanking.)
+
+==== Ranged Combat ====
+If a player or opponent is standing outside of cover and they are shot at, 
+after the first firing action (assuming they didn't die or go unconscious), 
+they immediately, 'Hit the Dirt'. When you Hit the Dirt, you dive to the ground,
+going prone, within a 2m range of where they stood (DEX movement rules apply 
+as normal). Hitting the dirt consumes the 1st action of their next turn.
+
+To fire, you must be within the longest range limit of your gun*, i.e. be at a distance
+smaller than your gun's largest Range Bracket**, and you must not be out of ammo. 
+You can aim and fire or, more simply, just fire at a target. If you shoot without 
+aiming, you are "Hip Firing" and incur additional aiming penalties (see Hip Firing, below). 
+*Actually you can fire at any range you like, but you won't necessarily hit anything.
+Except for air, you will always hit air (unless you're in space).
+**You cannot shoot weapons at a distance of over 100m without magnifying sights or over 
+150m without 2x+ magnification.
+
+Most weapons are Semi-Auto, meaning that each time you pull the 
+trigger, the gun fires once and chambers a new round automatically. It 
+takes 1 Action to fire a semi-auto weapon in this way. Some guns, 
+such as Shotguns and Bolt-Action sniper rifles require 2 Actions to fire 
+the gun, where the first Action is a trigger pull, and the second Action
+is the rechambering of the weapon.
+To hit a target, Players must roll a d10 that is over their weapon's miss stat.
+When an enemy is in cover, their cover score is added to your weapon's miss chance. 
+Lets say your normal ranged miss chance is 2, and the enemy is in full cover, your
+miss chance is increased by 4, for a final DC of 6. So a roll of 7-10 would be 
+successful.
+
+Gun Jams:
+If at any time that you are firing a gun and you roll a weapon accuracy of 1, roll a second d10.
+If that second d10 roll is a 1 or 2, the weapon Jams, necessitating a weapon 
+skill check, DC 60. 
+
 Hip Firing:
-Add 3 to a weapon''s miss chance. You cannot use optical attachments in
+Add 3 to a weapon's miss chance. You cannot use optical attachments in
 hip firing unless otherwise noted. It is much smarter to takes one 
 action to Aim, and spend the rest of your shots firing. It's also a great 
 idea to take an action at the end of your turn to "hunker," and gain a +2 
@@ -757,20 +830,20 @@ round-up; maximum 2 movement per action.
 (see Blind Firing, above). Imagine curling up in a ball, to pose the absolute smallest
 target possible. Its a free action to un-hunker.
 
-Stealth Attacks & Flanking:
-If you are stealthed (undetected by an opponent) when you initiate an attack
-action, you incur bonuses depending on the circumstances of the attack.
-	Ranged weapon stealth-attacks (including explosive but not any other thrown 
-weapons) have -1 miss chance to hit., if 'adequate' aiming time is given (DM's discretion:
-how rushed you are, or how skilled you are at stealth, etc). Ranged weapon stealth-
-attacks deal +20 damage and, in addition, if you critical hit you gain all the effects 
-of a critical.
-	If you have 10 skill in melee combat, Thrown and Melee (non-explosive) weapons
-deal 2x damage, up to 150 maximum damage (before critical effects). If you critically
-hit, or hit at greater than 3 over your miss chance, the target gets hit in whatever you
-deem to be the most vulnerable; i.e., the head, neck, or the chest (over the heart,
-etc). If you critical hit, you also gain all the effects of a critical.
-	If you are behind a target, aka flanking, your melee attacks gain -2 miss chance.
+Reloading:
+When a gun runs out of ammunition, the user must pause to reload. "But how long 
+do I gotta be outta the battle?" Great question!
+Each gun has a "Reload DC," rated based on the skill and brevity of the 
+weapon's reload. For example, an assault rifle, which has a very obvious 
+magazine release button and protruding magazine, has an average DC of 30%. More 
+complex weapons, such as high-precision sniper systems or exotic sub-machine 
+guns might have a higher DC, maybe 40%. If the Player passes the reload, then 
+the reload time is standard. For Box-Magazine fed Semi- and Fully-Automatic 
+weapons, this is 2 Actions. Other, more complex weapons will specify their 
+reload time. On a critical reload success (effected by luck as normal, anything 
+in the 90-100 range caused by a raw roll or by adding your weapon use skill),
+the reload time is halved (for Bolt-Actions it is reduced to 1 Action). On a 
+failure, the reload time takes twice as long.
 
 Suppression: 
 Every player with a ranged weapon gets the option to Suppress as the last 
@@ -824,29 +897,12 @@ behind a barricade to partial cover, and moving when you are caught out in the o
 impenetrable barrier) you are not suppressed. The suppressor doesn't need to see 
 you, to hit you.
 
-Reloading:
-When a gun runs out of ammunition, the user must pause to reload. "But how long 
-do I gotta be outta the battle?" Great question!
-Each gun has a "Reload DC," rated based on the skill and brevity of the 
-weapon''s reload. For example, an assault rifle, which has a very obvious 
-magazine release button and protruding magazine, has an average DC of 30%. More 
-complex weapons, such as high-precision sniper systems or exotic sub-machine 
-guns might have a higher DC, maybe 40%. If the Player passes the reload, then 
-the reload time is standard. For Box-Magazine fed Semi- and Fully-Automatic 
-weapons, this is 2 Actions. Other, more complex weapons will specify their 
-reload time. On a critical reload success (effected by luck as normal, anything 
-in the 90-100 range caused by a raw roll or by adding your weapon use skill),
-the reload time is halved (for Bolt-Actions it is reduced to 1 Action). On a 
-failure, the reload time takes twice as long.
+==============================
+Conditions
+==============================
 
-When players take more than 70 damage, they must roll a Shock save at a DC of 
-the damage taken. On fail they pass out. on success they stay conscious. When 
-players fail, they may roll each turn at a DC of 70 to wake up. They continue 
-to roll either for (15 - FORT) turns, or until they pass.
-
-Conditions:
 Bleeding - d10/2+1 (drop the remainder) stackable damage per turn. Broken with 
-Medicine Skill check. DC varies. If you have a bleed condition, seek medical aid
+    Medicine Skill check. DC varies. If you have a bleed condition, seek medical aid
     immediately, You CAN Bleed Out, you have been warned.
 Burning - 2d10 damage per turn. Broken with a Maneuver Skill Check. DC 40. 
     Every 2 turns, the degree of the burn intensifies
@@ -911,7 +967,11 @@ Explosives:
 	armor and shields (explosive damage is essentially, a crushing force). Fragmentation 
 	grenades are considered ballistic weapons, as their primary damage delivery method is shrapnel. 
 Melee/Melee Weapons:
-	Melee damage is treated like ballistic damage.
+	Melee damage is treated like ballistic damage unless you hit a target's armor and don't pierce it.
+	If you are fighting a being with body armor, and you hit the targets armor but don't pierce it,
+	you then deal a special kind of concussive damage (called blunt damage) that ignores armor but you can 
+	only deal 1/2 damage, up to a max of 25 damage. Max of 35 damage if you are using a melee weapon (like a
+	club, sword, or even hitting them with your gun).
 Armor:
 	Ballistic Armors (or more simply, Armor) are the first type of protective measure that 
 	you will come across. When armor is shot by a ballistic weapon, the armor may reduce or
@@ -955,29 +1015,36 @@ Cloaking
 ==============================
 
 Cloaking is available in the armor section, but also available to some 
-classes as a class feature. For non-class cloakers, the rules are as follows:
-Expend the cloaking module's 'Nanite Activation Cost' to begin cloaking. At the
-beginning of every turn thereafter, you have to pay a 'Nanite Upkeep' cost to 
-continue cloaking, unless you didn't move for the entire previous turn.
+classes as a class feature.
+ 
+==== Cloaking Modules ====
+Expend the cloaking module's "Nanite Activation Cost" to begin cloaking. At the
+ending of every turn thereafter, you have to pay a "Nanite Upkeep" cost to 
+continue cloaking.
+	Wearers need only expend Nanites for the "Nanite Upkeep" cost at the end 
+of a turn that they perform actions. Cloaking requires concentration so when you 
+are doing nothing but watching, you may cloak for free.
 	You can remain cloaked for a number of turns equal to ["Cloak Turns" + your
 cloaking module's "Cloak Turn Bonus"] or when you run out of Nanites, whichever occurs 
 sooner (see table below for "Cloak Turns") . If your cloak time runs out, you stop 
 cloaking and have to wait a number of actions equal to your "Charge Delay" (listed under 
 the relevant cloaking module's description) before being able to cloak again.
 
+==== Cloaking Detection ===
 If someone/something is looking for you, they must pass a (normally, perception) 
-check at 'Detect DC' difficulty. While moving, the detect DC is reduced (listed as 
-'moving detect DC' under the relevant cloaking module's description). There is a tell-
-tale shimmer in the cloak, as the micro-foil has a hard time keeping up with moving
-environments. Once the wearer has settled down, the micro-foil is able to reproduce 
-the surrounding environment better and will stabilize. However, once you have performed 
-a combat action, the cloak fizzes out, as you have shifted your concentration from 
-maintaining the cloak to something else. When using a skill (accessing a terminal, 
-fixing something, etc.) use your reduced, 'moving detect DC' as you are diverting 
-your attention. See the following table for durations:
+check at 'Detect DC' difficulty, modified by your stealth skill. While moving, 
+the detect DC is reduced (listed as 'moving detect DC' under the relevant cloaking
+module's description). There is a tell-tale shimmer in the cloak, as the micro-foil 
+has a hard time keeping up with moving environments. Once the wearer has settled 
+down, the micro-foil is able to reproduce the surrounding environment better and 
+will stabilize. 
+	When using a skill (accessing a terminal, fixing something, etc.) use your 
+reduced, 'moving detect DC' as you are diverting your attention. However, once you 
+have performed a combat action, the cloak fizzes out.
 
+	  CLOAKING DURATIONS AND LEVELING BONUSES
 ╔═══════════╦═════════════╦═══════════╦═════════════════╗
-║ Character ║ Cloak Turns ║ Detect DC ║ Shadow Assassin ║
+║ Character ║ Cloak Turns ║ Detect DCs║ Shadow Assassin ║
 ║   Level   ║             ║   Gain    ║ Cloak Turn Gain ║
 ╠═══════════╬═════════════╬═══════════╬═════════════════╣
 ║     1*    ║      3      ║     -     ║        +1       ║
@@ -1020,8 +1087,8 @@ your attention. See the following table for durations:
 ╠═══════════╬═════════════╬═══════════╬═════════════════╣
 ║     20    ║      10     ║   +20%    ║        +5       ║
 ╚═══════════╩═════════════╩═══════════╩═════════════════╝
+The Table bonuses are not cumulative.
 *  For levels 1-4, you may only cloak once per encounter.
-
 
 //===================================================================
 //Copyright 2016 Taylor Rowland

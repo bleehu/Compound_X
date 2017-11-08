@@ -1,29 +1,41 @@
-armor Document
-This document lists the armors available to characters in standard campaigns.
+ARMOR LIST
+This document lists the armors and rig equipment available to characters in standard campaigns.
 
- 
- /*
- soon to be:
- Ballistic Armors
- 	-Basic Armor Materials
-	-Basic Helmet Materials
+    ---- (Approximate) TABLE OF CONTENTS ----
+
+    Introduction
+	-Armor Systems
+	-Where is my Ammo Storage?
+	-What is an Advanced Rig?
 	
- Armor Rigs
-	-recon
-	-light
-	-medium
-	-medium-heavy
-	-heavy
+    Standard Ballistic Armor Materials
+    	-Levels 1-10 Standard Armor Materials
+
+    EVA Suits and Flight Helmets
+	-Helmets
+	-Flight Suits
+	
+    Armor Rigs
+	-I Recon Armor Rigs
+	-II Light Armor Rigs
+	-III Medium Armor Rigs
+	-IV Medium-Heavy Armor Rigs
+	-V Heavy Armor Rigs
 		
-Shield Generator Nodes
-	-all
+    Concealed Rigs
+	-Various
+
+    Shield Generators
+	-Levels 1-10 Modules
 	
-Cloaking Equipment
-	-all
+    Cloaking Equipment
+	-Levels 1-10 Modules
 	
-Utility Hardpoint Equipment
-	-all
-*/
+    Utility Hard Point Equipment
+	-Explosives Carrier
+	-Mobility (Grapple) System
+	-Point Defense System
+
 
     =====================================
 		INTRODUCTION
@@ -36,10 +48,8 @@ Armor Systems are composed of an armor rig and a protective material.
 Having lots of armor may slow you down, but armor will prevent you from 
 being easy prey. Armor rigs can be broken down into 4 pieces: helmets,
 chest rigs, arm rigs, and leg rigs. 
-	Helmets protect against special abilities that target your face-hole so 
-they aren't needed until later in the game, or they are probably never needed
-becayse that's not how do teh bulluts. 
-	The other 3 riggings provide ammunition space and (most rigs) provide
+	Helmets mostly help for RP effects or holding night vision goggles.
+The other 3 riggings provide ammunition space and (most rigs) provide
 space for installing an armor material. Armor Materials must be purchased 
 separately than Armor Rigs. Also, armor systems do not include any protection
 without an armor material. If you purchase more than one material* to cover 
