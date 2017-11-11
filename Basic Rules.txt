@@ -47,6 +47,13 @@ It's important to note that you don't have to roll for everything. Your characte
 probably knows how to do mundane things like brush their teeth, open an unlocked
 door, and tie their shoes. It's okay to just do these things, even in combat.
 
+Rolling with Advantage:
+Sometimes circumstances or the occasional feat may prompt you to make a roll with
+Advantage or Disadvantage. In such cases you make the roll twice. With Advantage
+you take the better roll, while with Disadvantage you take the worse roll. Advantage 
+and Disadvantage do not stack with themselves. If you would have both Advantage and 
+Disadvantage on the same roll, then they cancel each other, and you just roll once.
+
 ==============================
 Role Playing and Combat:
 ==============================
