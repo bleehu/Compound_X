@@ -465,8 +465,8 @@ Feats:
 	----------------------
 	Protective Awareness - Requires a minimum Reflex of 24
 	Assiduously observant, you stay aware of any attacks made against you or allies. 
-	Whenever an enemy attempts to make an opportunity attack on you or any allies within 
-	eye-sight, you first gain an attack on them.
+	Whenever an enemy (that you can see) attempts to make an OPPORTUNITY attack on you
+	or any allies, within your guns maximum range, you first gain an attack on them.
 	----------------------
 	Enhanced Gun-Kata [12 Nanites] -
 	You are a disciple of the art of close-range gun fighting. For 1 Action, reduce 
