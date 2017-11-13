@@ -373,10 +373,6 @@ Ward:
 Prerequisites: Dex 10 or Level 8 or higher assassin / berserker. +20% to 
 armour when your melee weapon is equipped.
 
-Wealthy Sponsor: 
-Prerequisites:
-Gain LUK * Lvl * 750 credits.
-
 Weapon Familiarization (can be taken once): 
 Prerequisites:
 Remove 15% miss chance from any one weapon model.
