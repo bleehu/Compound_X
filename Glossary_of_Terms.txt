@@ -30,7 +30,7 @@ Player: The human in the real world who is playing the game. One Player may have
 
 RPG: Role-Playing Game. Such as Dungeons and Dragons or Compound X!
 
-
+Player Character: The Player's avatar in the game world. A Player Character is made by following the procedures outlined in CharacterCreation. Generally, a Player only controls one character at a time, that Character is called a Player Character. 
 
 Saving Throw: A Saving Throw is a roll of the dice to see whether your character has the defenses to avoid something bad happening to them. See Saving Throws in the Basic Rules.txt document for more information.
 
