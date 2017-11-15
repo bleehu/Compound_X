@@ -13,6 +13,8 @@ Character, Non Player: See NPC
 Class: Most Player Characters have a Class. Classes are listed and explained in the CharacterCreation/02_Classes.txt document, and are a fundamental determinant of a Character's identity. 
 Class Feats: Every certain number of levels, a Character gains an extra-special kind of feat depending on their chosen Class. These are listed in the CharacterCreation/02_Classes.txt document and are called Class Feats.
 
+Combat: The phase of the game when there are enemies around and characters are limited by turns with certain amounts of Actions. See Basic Rules.txt section "Combat".
+
 D10: A 10-sided Die. See The Primary Game Mechanic in the Basic Rules. 
 
 DM: Dungeon Master. See Galaxy Master. 
