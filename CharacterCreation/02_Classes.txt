@@ -6,11 +6,10 @@ Core classes:
  * However, you do not select a class feat until level 5.
  * On selecting a class, you gain all of the passives listed, and get to 
  * For any listed class, if it says "Gain X Skill at 10" that means you get
- * to add the X skill to your skill list, and it starts at rank 10, meaning a 
- * +10% to any roll for that skill. At the first level taken in a class
- * (other than level 1), you get the single star version of the feat. At 
- * level 5 and every 5 levels thereafter, you can choose to rank up the 
- * feat, or add the other feat to your  character.
+ * to add the X skill to your skill list. For more on Skills, see 
+ * RP / Using Skills Section of Basic Rules.txt. At level 5 and every 
+ * 5 levels thereafter, you can choose to rank up the feat, or add the other 
+ * feat to your  character.
  *==================================================*/
 
 =====   SOLDIER   =====
