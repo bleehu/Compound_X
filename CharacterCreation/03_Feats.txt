@@ -31,16 +31,6 @@ Acquired: The Clandestine Option
 Prerequisites: Soldier, Specialist, Pilot, Adept, Hunter
 Enables the use of Concealed Armour by the listed classes.
 
-Acquired: The Stealth Option
-Prerequisites: Soldier, Engineer, Doctor, Priest, Pilot, Adept, Gunslinger, 
-Warlock, Monk, Berserker
-
-Acquired: With Friends Like These . . .
-Prerequisites: Pilot, Engineer or Piloting 40
-
-Acquired: . . . Who Needs Nano-Technologies?
-Prerequisites: Pilot or "Acquired: With Friends Like These . . ." and Piloting 60
-
 Backstab:
 Prerequisites: Level 3 and higher Assassins and Monks.
 Any damage dealt to an unaware opponent from behind deals Extra-Crit damage.
@@ -217,7 +207,6 @@ hammered. On hits that land while you are buzzed or hammered, you deal extra
 damage equal to your strength modifier.These bonuses only apply to melee 
 attacks. You also get a +10% on rolls to avoid blacking out.  
 
-
 Point-man: 
 Prerequisites:
 When clearing a room, add 10 to your reflex roll.
@@ -263,11 +252,11 @@ Shadow Walk.
 
 Signature Move: 
 Prerequisites:
-What can you say. When you do what you''re good at, you do it well. Come up 
+What can you say. When you do what you're good at, you do it well. Come up 
 with a Name or Motto for your signature move, and you gain +10% towards this 
 action. HOWEVER, you must shout your Motto or the Name when you perform this 
 move. And hey, keep this move on the DL unless it is absolutely necessary to 
-be used. You wouldn''t want posers to copy it. (Note: this is an RP''d action 
+be used. You wouldn't want posers to copy it. (Note: this is an RP'd action 
 meant to be performed in cqc, not simply aiming your rifle at their head 
 and squeezing the trigger while shouting "BOOM HEADSHOT!" Please ask for 
 GM permission when using this feat.)
@@ -349,7 +338,7 @@ Enables the use of shotguns by the listed classes.
 
 Unlocked: Weapons Training
 Prerequisites: Monk
-Enables the use of mellee weapons by the Monk class.
+Enables the use of melee weapons by the Monk class.
 
 Unlocked: Spray and Pray
 Prerequisites: Engineer
@@ -473,9 +462,9 @@ Proficient: Explosives
 Active Feats
 ====================
 
-Adrenaline Rush [20* X]: 
+Adrenaline Rush [15]: 
 Prerequisites:
-Run double your movement distance for X # ofturns.
+Run Run an extra meter per action.
 
 Aimed Shot [10 Nanites]: 
 Prerequisites:
