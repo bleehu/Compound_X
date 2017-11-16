@@ -1,7 +1,7 @@
 # Compound_X
 Compound_X table top role playing game.
 
-Version 2.0.5
+Version 2.0.6
 
 Creative Director:      Sarah Slater
 Game Director:          Alex Lindahl
