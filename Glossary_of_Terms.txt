@@ -1,8 +1,8 @@
-Here are a list of some proper nouns and terms which are different in Compound X then in the English Language normally. If one is missing, please create an issue in Github asking for it! Hope it helps!
+Here is a list of some proper nouns and terms that are different in Compound X than in the English Language normally. If one is missing, please create an issue in Github asking for it! Hope it helps!
 
-Action: In Compound X, an Action rarely means a single abstract bodily movement as it does in English. Instead an Action is a measure of time specifically during a Player's turn in Combat. See Actions in Basic Rules.txt
+Action: In Compound X, an Action rarely means a single abstract bodily movement as it does in English. Instead, an Action is a measure of time specifically during a Player's turn in Combat. See Actions in Basic Rules.txt
 
-Base Stats: The Base Stats of a character are Strength, Perception, Fortitude, Charisma, Intelligence, Dexterity and Luck. For more about Base Stats, see Basic Rules.txt in the seciton Base Stats.
+Base Stats: The Base Stats of a Character are Strength, Perception, Fortitude, Charisma, Intelligence, Dexterity and Luck. For more about Base Stats, see the section Base Stats in Basic Rules.txt.
 
 Compound X: The name of the game! It is also the name of a prison planet in the first campaign run back in 2015 by the game's creator, Taylor Rowland. 
 
@@ -10,12 +10,12 @@ Character:
 Character, Player: See Player Character
 Character, Non Player: See NPC
 
-Class: Most Player Characters have a Class. Classes are listed and explained in the CharacterCreation/02_Classes.txt document. 
-Class Feats: Every certain number of levels, your character gains an extra-special kind of feat depending on their chosen Class. These are listed in the CharacterCreation/02_Classes.txt document and are called Class Feats.
+Class: Most Player Characters have a Class. Classes are listed and explained in the CharacterCreation/02_Classes.txt document, and are a fundamental determinant of a Character's identity. 
+Class Feats: Every certain number of levels, a Character gains an extra-special kind of feat depending on their chosen Class. These are listed in the CharacterCreation/02_Classes.txt document and are called Class Feats.
 
 Combat: The phase of the game when there are enemies around and characters are limited by turns with certain amounts of Actions. See Basic Rules.txt section "Combat".
 
-D10: A 10 sided Dice. See The Primary Game Mechanic in the Basic Rules. 
+D10: A 10-sided Die. See The Primary Game Mechanic in the Basic Rules.
 
 DM: Dungeon Master. See Game Master. 
 
@@ -26,13 +26,13 @@ Game Master: Usually abbreviated as GM, the Game Master runs the game for the Pl
 
 GM: See Game Master.
 
-NPC: Stands for "Non-Player Character" and is defined as any character in the story who is not controlled by one of the Players. NPCs are almost always controlled by the GM. Often NPCs are the enemies that you fight, the shopkeepers that you buy things from or the hostages you rescue. 
+NPC: Stands for "Non-Player Character" and is defined as any character in the story who is not controlled by one of the Players. NPCs are almost always controlled by the GM. Often NPCs are the enemies that you fight, the shopkeepers that you buy things from, or the hostages you rescue. 
 
-Player: The human in the real world who is playing the game. One Player may have many Characters and might play in more than one game. Usually one Player plays one Player Character at a time. 
+Player: A human in the real world who is playing the game. One Player may have many Characters and might play in more than one game. Usually one Player plays one Player Character at a time. 
 
-RPG: Role-Playing Game. Such as Dungeons and Dragons or Compound X!
+RPG: Role-Playing Game, such as Dungeons and Dragons or Compound X!
 
-Player Character: The Player's avatar in the game world. A Player Character is made by following the procedures outlined in CharacterCreation. Generally, a Player only controls one character at a time, that Character is called a Player Character. 
+Player Character: The Player's avatar in the game world. A Player Character is made by following the procedures outlined in the CharacterCreation folder. Generally, a Player only controls one Character at a time; that Character is called a Player Character. 
 
 Saving Throw: A Saving Throw is a roll of the dice to see whether your character has the defenses to avoid something bad happening to them. See Saving Throws in the Basic Rules.txt document for more information.
 
