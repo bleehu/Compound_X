@@ -137,7 +137,7 @@ Feats		- Your character will gain special perks as you level up. This
 
 
 ==============================
-Player Stats:
+Base Stats:
 ==============================
 
 Each player has what are called Base Stats. An average person has a '5' for
