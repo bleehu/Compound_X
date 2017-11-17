@@ -30,7 +30,7 @@ Duration: 	Free Action
 Range:		Self
 Effect:		Increase move speed to 12m per action
 and get a +30 to accrobatics checks. Effect persists for 1 turn. While 
-in a medical emergency, the Doc suffers a +2.5 chance to miss, 'cause
+in a medical emergency, the Doc suffers a +2 chance to miss, 'cause
 they have more important things to worry about. Cannot be used to move
 more than 36m per turn.
 
@@ -422,7 +422,7 @@ Adrenaline Reward:	15
 Range:			Touch
 Action:			1 Action
 Effect:			For 4 turns, the patient moves 1m more per action and gets a 
--0.5 to miss with guns. As a side effect, the target suffers a +1.5 to miss 
+-1 to miss with guns. As a side effect, the target suffers a +1 to miss 
 with melee weapons. Increasing the dosage does not increase the effects. This
 trick only works on biologic patients.
 
@@ -531,7 +531,7 @@ Adrenaline Reward:	25
 Range:			Touch
 Action:			1 Action
 Effect:			For 5 turns, the patient moves 2m more per action and gets a 
--1 to miss with guns. As a side effect, the target suffers a +2.5 to miss 
+-1 to miss with guns. As a side effect, the target suffers a +2 to miss 
 with melee weapons. Increasing the dosage does not increase the effects. This
 trick only works on biologic patients. 
 
@@ -551,8 +551,8 @@ Adrenaline Reward:	40
 Range:			Touch
 Action:			1 Action
 Effect:			For 5 turns, the patient moves 3m more per action (max 13), gets 
-a -1.5 to miss with guns and a +30 to rolls to parkour around obsticles. As a 
-side effect, the target suffers a +2.5 to miss with melee weapons and a -15 to
+a -2 to miss with guns and a +30 to rolls to parkour around obsticles. As a 
+side effect, the target suffers a +2 to miss with melee weapons and a -15 to
 charisma rolls from being jittery. Increasing the dosage does not increase the
 effects. This trick only works on biologic patients.  
 
@@ -570,7 +570,7 @@ Adrenaline Reward:	15
 Range:			Touch
 Action:			1 Action
 Effect:			The patient deals an extra 2*(patient's strength) damage with
-melee weapons, has -0.5 to miss with melee weapons, and moves +1m per action. As
+melee weapons, has -1 to miss with melee weapons, and moves +1m per action. As
 a side effect, the target takes a -1 to both Intelligence and charisma for the
 duration of the effect. This trick only works on biologic patients. This effect
 lasts for 4 turns.
@@ -594,7 +594,7 @@ Adrenaline Reward:	40
 Range:			Touch
 Action:			1 Action
 Effect:			The patient deals an extra 3*(patient's strength) damage with
-melee weapons, has -1.5 to miss with melee weapons, and moves +2m per action. As
+melee weapons, has -2 to miss with melee weapons, and moves +2m per action. As
 a side effect, the target takes a -1 to both Intelligence and charisma for the
 duration of the effect. This trick only works on biologic patients. This effect
 lasts for 8 turns. 
