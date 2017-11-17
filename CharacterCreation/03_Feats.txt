@@ -537,12 +537,12 @@ their melee weapon(s). The attacks must take place within a 5m space, rolling fo
 where X is the number of attacks. All bonuses that would normally apply to a standard
 attack still apply. (Note: Flash Dance can trigger Bulltrue and Preemptive Strike)
 
-Gun Kata [30 Nanites / Turn]: 
-Prerequisites: Level 10 or higher
-For up to 3rds, reduce weapon range to 15m, reduce Miss Chance by 50%. Treat 
-any weapon as if it were a CQB weapon. After a successful strike, you may roll 
-for an additional strike during the same action on any target within the 15m 
-range. 
+Gun Kata [30 Nanites]: 
+Prerequisites: Level 10
+For 1 Action, reduce weapon range to 15m, and negate actions needed for Aiming, Pumping,
+and Cocking of a gun. Treat your gun as if it was a CQB weapon. After a successful 
+hit, you may roll for an additional hit on any target within the 15m range, for up to 
+3 rounds fired. If you miss a shot or your gun runs out of rounds, your Gun Kata ends.
 
 Last Stand [40 Nanites]:
 Prerequisite: Level 4
