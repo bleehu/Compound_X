@@ -31,16 +31,6 @@ Acquired: The Clandestine Option
 Prerequisites: Soldier, Specialist, Pilot, Adept, Hunter
 Enables the use of Concealed Armour by the listed classes.
 
-Acquired: The Stealth Option
-Prerequisites: Soldier, Engineer, Doctor, Priest, Pilot, Adept, Gunslinger, 
-Warlock, Monk, Berserker
-
-Acquired: With Friends Like These . . .
-Prerequisites: Pilot, Engineer or Piloting 40
-
-Acquired: . . . Who Needs Nano-Technologies?
-Prerequisites: Pilot or "Acquired: With Friends Like These . . ." and Piloting 60
-
 Backstab:
 Prerequisites: Level 3, Assassin or Monk.
 Any damage dealt to an unaware opponent from behind deals an additional 10 + (Lvl * 2) Base damage.
