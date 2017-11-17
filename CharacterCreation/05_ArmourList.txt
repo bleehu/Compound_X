@@ -573,7 +573,8 @@ Decided on purchase.
     =====================================
 Ever wanted to be invisible? Please see section
 "Cloaking" at the bottom of the Basic Rules document.
-You cannot use more than 1 cloaking primary module at 
+You must have proficiency with stealth armor, and 
+you cannot use more than 1 cloaking primary module at 
 one time.
 
 	=====   LEVEL 1 REQUIREMENT   =====
