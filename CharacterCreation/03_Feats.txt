@@ -241,11 +241,13 @@ As a free action, draw your chosen weapon(s) into firing position. If you are
 holding something, you can drop it and still draw your weapon as a free 
 action. However, you might not want to drop anything glass. Or any explosives.
 
-NEEDS A BUFF:
-	Rainman: 
-	Prerequisites: CHA <3 and INT >8
-	Your character has something going for them. You may ask the GM how many 
-	bullets each opponent has left in their weapon.
+
+Rainman: 
+Prerequisites: CHA <=2 and INT >=8
+Your character has something going for them. Gain 1 non-Charisma skill @ 10 points
+(or add 10 points to a non-Charisma skill). This skill can exceed the skill point
+limit by 10. You may also ask the GM how many bullets each opponent has left in their
+weapon.
 
 Salty Hashtables
 Prerequisites: Must be a mechanical race
@@ -610,11 +612,11 @@ Prerequisites: Luck 6
 		
 Positional Mastermind: 
 Prerequisites: Mutually Exclusive with Will to Survive; Charisma 9
-	You have incredible understanding of how beings in your universe perceive and react
-to their environments, allowing you to feint and position yourself in cover better. 
-If you have 9 Charisma, any living creature targeting you gets a +1 miss chance penalty
-when you have any kind of cover. If you have 12 Charisma, anything targeting you gets a 
-+1 miss chance penalty when you have any kind of cover.
+	You have incredible understanding of how beings in your universe perceive and react to their 
+environments, allowing you to feint and position yourself in cover better. If you have 9 or more Charisma, 
+any LIVING ENEMY (i.e. non-robotic enemy) targeting you gets a +1 miss chance penalty when you have any kind 
+of defense bonus from cover. If you have 12 or more Charisma, ANY ENEMY targeting you gets a +1 miss chance 
+penalty when you have any kind of defense bonus from cover.
 
 Will to Survive: 
 Prerequisites: Mutually Exclusive with Positional Mastermind; Charisma 6
@@ -640,7 +642,7 @@ you have 14 Charisma*
 			Twice per encounter, once per turn if you aren't knocked out, as an immediate 
 			reaction to being at or below half health, roll 1d10. If  <= 5, heal one wound
 			up for up to +25 hitpoints. If >5 heal one wound for up to +40 hitpoints. In 
-			addition, purge 1 debuff.
+			addition, purge 1 damage-over-time debuff (such as Plasma Burn or Poison).
 				
 //===================================================================
 //Copyright 2016 Taylor Rowland
