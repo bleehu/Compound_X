@@ -296,7 +296,7 @@ Effect:		Your move speed increases by 4m per 2 Actions, with an absolute
 maximum of 13m per action. Dex-10 lasts for one engagement. A Doc cannot have
 more than one dose of DEX at a time.
 
-/////	Nanite Wave
+/////	Infection Wave
 Adrenaline Cost: 60
 Duration: 	2 Actions
 Range:		A 45 degree angle centered on the Doc and extending out 15m
