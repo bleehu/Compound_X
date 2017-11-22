@@ -1,0 +1,315 @@
+=============================================================================
+RANGED WEAPONS
+Outside a weapon's longest range, you cannot hit your target.
+Also, weapons cannot shoot over 100m without magnifying sights, or over 150m without 2x+ magnification.
+
+============================================================
+SUB-MACHINE GUNS (SMGS)
+Capable of high rates of fire, but utilizing lighter calibers than a traditional combat rifle.
+Minimum Strength 4. Reload time 2 Actions. Jam range 2%.
+
+All SMGs are considered CQB weapons and have Suppression Level - Medium (unless otherwise noted).
+============================================================
+
+=====	LEVEL 1 REQUIREMENT WEAPONS	=====
+
+----ECSC Mk8 MP 	$1616	----
+Damage:	48
+Ranged Miss Chance:
+	3 out to 10m
+	4 out to 20m
+	5 out to 35m
+Burst Miss Chance:		+3 - 1 for every 6 Dex (starting at 5)
+Automatic Miss Chance:	+4 - 1 for every 5 Dex
+Mag size: 33 rounds of 8.0x20mm. $18 per mag
+Reload DC: 			30%
+Fire modes:			Semi, Burst, Auto
+Burst; Auto fire rate:		3; 6
+Armor pierce level: 		1
+Reflex Modifier: 			+10
+
+----ECSC Mk9 PDW 	$1027	----
+Damage:	45
+Ranged Miss Chance:
+	4 out to 10m
+	5 out to 20m
+	6 out to 40m
+Automatic Miss Chance:	+4 - 1 for every 5 Dex
+Mag size: 25 rounds of 9.0x16mm. $12 per mag
+Reload DC: 			30%
+Fire modes:			Semi, Auto
+Auto fire rate:			8
+Armor pierce level: 		0
+Reflex Modifier: 			+10
+
+=====	LEVEL 5 REQUIREMENT WEAPONS	=====
+
+----G&W XMP 80	$1536	----
+Damage:	55
+Ranged Miss Chance:
+	4 out to 10m
+	5 out to 20m
+	6 out to 40m
+Burst Miss Chance:		+4 - 1 for every 6 Dex
+Automatic Miss Chance:	+6 - 1 for every 4 Dex
+Mag Size:	30 rounds of 10.0x25mm. $19 per mag
+Reload DC:				30%
+Fire Modes:			Semi, Burst, Auto
+Burst Fire Rate:			3
+Auto fire rate:			6
+Armor Pierce Level:		2
+Reflex Modifier:			+10
+
+----Anvil Arms AR-34 PDW	$1356	----
+Damage:	45
+Ranged Miss Chance:
+	3 out to 10m
+	4 out to 25m
+	5 out to 45m
+Automatic Miss Chance:	+3 - 1 for every 8 Dex
+Mag Size:	15 rounds of 5.00x37mm. $7 per mag
+Reload DC:				30%
+Fire Modes:			Semi, Auto
+Auto fire rate:			6
+Armor Pierce Level:		3
+Reflex Modifier:			+10
+
+----Flexcorp LS55	$2183	----
+Damage:	35, Laser
+Ranged Miss Chance:
+	3 out to 15m
+	4 out to 40m
+	5 out to 50m
+Automatic Miss Chance:	+3 - 1 for every 8 Dex
+Mag Size:	40 rounds of 10kW. $23 per mag
+Reload DC:				35%
+Fire Modes:			Semi, Auto
+Auto fire rate:			8
+Armor Pierce Level:		n/a
+Reflex Modifier:			10
+
+=====	LEVEL 10 REQUIREMENT WEAPONS	=====
+
+----Mathews "Bolter" 470B	$2389	----
+Damage:	60, 1x Bleed on hit
+Ranged Miss Chance:
+	3 out to 10m
+	4 out to 35m
+	5 out to 45m
+Automatic Miss Chance:	+4 - 1 for every 5 Dex
+Mag Size:	20 rounds of 4x70mm. $13 per mag
+Reload DC:				30%
+Fire Modes:			Semi, Auto
+Auto fire rate:			4
+Armor Pierce Level:		2
+Reflex Modifier:			+5
+
+----Frontier PL33G 	$2245	----
+Damage:	55, 1x plasma burn on hit
+Ranged Miss Chance:
+	3 out to 10m
+	4 out to 30m
+	6 out to 40m
+Burst Miss Chance:		+2 - 1 for every 8 Dex;
+Automatic Miss Chance:	+5 - 1 for every 5 Dex
+Mag Size:	20rounds of Argon-9. $16 per mag
+Reload DC:				40%
+Fire Modes:			Semi, Burst, Auto
+Burst; Auto Fire Rate:			3 ; 6
+Armor Pierce Level:		2
+Reflex Modifier:			+10
+
+----Flexcorp LS75	$3670	----
+Damage:	45, Laser
+Ranged Miss Chance:
+	2 out to 15m
+	3 out to 40m
+	4 out to 50m
+Automatic Miss Chance:	+4 - 1 for every 5 Dex
+Mag Size:	30 rounds of 10kW. $22 per mag
+Reload DC:				35%
+Fire Modes:			Semi, Auto
+Auto fire rate:			6
+Armor Pierce Level:		N/A
+Reflex Modifier:			+10
+
+============================================================
+SHOTGUNS
+All pump shotguns take 1 Action to fire, 1 Action to rack. In the 
+racking action, you can load an additional round of your specification for one
+additional action. Double barrel, semi, and auto shotguns do not follow this rule.
+Slug damage deals damage as a normal rifle would, dealing its full damage up 
+to the weapons maximum range. Buck-Shot damage is typically different at 2 distinct distances,
+which are listed with the weapon in question.
+Minimum Strength 4. Reload time is 3 Actions unless weapon is mag-fed. If Mag-fed, 
+reload time is 2 Actions.
+
+All Shotguns have Suppression Level - Light (unless otherwise noted).
+============================================================
+
+===== Level 1 Weapons =====
+
+----Matthews Model 2287 Short	$867	----
+Damage:	100 Ballistic
+Ranged Miss Chance:		
+	3 out to 10m - Slug
+	4 out to 20m - Slug
+	5 out to 45m - Slug
+Mag Size:		5 rounds of 20-gauge. $6 per bag of 8 shells.
+Reload DC:		45
+Fire Modes:		Pump Action
+Armor Piercing Level:	0	
+Reflex Modifier:	+8		
+Notes/Description:	Slug Only. Lever action, negate 1 pump action per turn. CQB weapon. 
+		
+----Matthews Model 2x12	$1029	----
+Ballistic Damage, Ranged Miss Chance:		
+	140 damage with a miss chance of 3 out to 10m	
+	105 damage with a miss chance of 4 out to 20m	
+	115 damage with a miss chance of 5 out to 50m - Slug Only 
+Auto Miss Chance:	+2,  -1 for every 9 Strength	
+Mag Size:		2 rounds of 12-gauge. $10 per bag of 8 shells.
+Reload DC:		38
+Fire Modes:		Semi, Auto
+Auto Fire Rate: 	2	
+Armor Piercing Level:	1	
+Reflex Modifier:	-8	
+Movement Speed Penalty:	-1m
+Notes/Description: Slug shells do 115 damage for all range brackets
+		
+----Anvil Arms Hunting Shotgun	$1611	----
+Ballistic Damage, Ranged Miss Chance:		
+	145 damage with a miss chance of 2 out to 13m	
+	110 damage with a miss chance of 3 out to 26m	
+	120 damage with a miss chance of 4 out to 60m - Slug Only 
+Mag Size:		6 rounds of 12-gauge. $6 per bag of 8 shells.
+Reload DC:		45
+Fire Modes:		Pump Action
+Armor Piercing Level:	1	
+Reflex Modifier:	-6	
+Movement Speed Penalty:	-0.5m
+Notes/Description: Slug shells do 120 damage for all range brackets
+
+
+===== Level 5 Weapons =====
+
+----Matthews Over / Under	$1415	----
+Ballistic Damage, Ranged Miss Chance:		
+	140 damage with a miss chance of 2 out to 10m	
+	105 damage with a miss chance of 3 out to 25m	
+	115 damage with a miss chance of 4 out to 50m - Slug Only 	
+Auto Miss Chance:	+1,  -1 for every 8 Strength	
+Mag Size:		2 rounds of 12-gauge . $10 per bag of 8 shells.
+Reload DC:		38
+Fire Modes:		Semi, Auto
+Auto Fire Rate: 	2	
+Armor Piercing Level:	1	
+Reflex Modifier:	-8	
+Movement Speed Penalty:	-1m
+Notes/Description: Slug shells do 115 damage for all range brackets
+		
+----ECSC Mk900 	$1574	----	
+Ballistic Damage, Ranged Miss Chance:		
+	150 damage with a miss chance of 2 out to 10m	
+	115 damage with a miss chance of 3 out to 20m	
+	125 damage with a miss chance of 4 out to 50m - Slug Only 
+Mag Size:		7 rounds of 12-gauge. $6 per bag of 8 shells.
+Reload DC:		45
+Fire Modes:		Pump Action
+Armor Piercing Level:	2	
+Reflex Modifier:	+5	
+Movement Speed Penalty:	-0.5m
+Notes/Description: Slug shells do 125 damage for all range brackets
+		
+----Partix LA10 B-CQ	$2029	----
+Laser Damage, Ranged Miss Chance:
+	110 damage with a miss chance of 2 out to 10m	
+	 90 damage with a miss chance of 3 out to 20m	
+	 70 damage with a miss chance of 3 out to 40m	
+Mag Size:		5 rounds of 15 kWh, mag-fed. $6 per magazine
+Reload DC:		35
+Fire Modes:		Pump Action
+Armor Piercing Level:	n/a	
+Reflex Modifier:	-5	
+Movement Speed Penalty:	-0.5m
+Notes/Description: The Partix LA10 deals different amounts of damage 
+	at 3 distinct distances instead of the norm (2 distances).
+	Mag-fed, 2 Actions to reload.
+	
+----NFA Combat 7 Shotgun	$2691	----
+Ballistic Damage, Ranged Miss Chance:		
+	135 damage with a miss chance of 2 out to 10m	
+	100 damage with a miss chance of 3 out to 20m	
+	110 damage with a miss chance of 4 out to 50m - Slug Only 
+Mag Size:		7 rounds of 12-gauge, mag-fed. $9 per magazine
+Reload DC:		30
+Fire Modes:		Semi
+Armor Piercing Level:	1	
+Reflex Modifier:	+6	
+Suppression Level:	Medium	
+Notes/Description: Slugs do 110 damage for all range brackets.
+	Mag-fed, 2 Actions to reload.
+
+===== Level 10 Weapons =====
+
+----Matthews Model 3x12	$1492	----
+Ballistic Damage, Ranged Miss Chance:		
+	140 damage with a miss chance of 3 out to 10m	
+	105 damage with a miss chance of 4 out to 20m	
+	115 damage with a miss chance of 5 out to 50m - Slug Only 
+Auto Miss Chance:	+2,  -1 for every 9 Strength	
+Mag Size:		3 rounds of 12-gauge. $11 per bag of 8 shells.
+Reload DC:		38
+Fire Modes:		Semi, Auto
+Auto Fire Rate: 	3	
+Armor Piercing Level:	1	
+Reflex Modifier:	-10	
+Movement Speed Penalty:	-1.5m
+Notes/Description: Slug shells do 115 damage for all range brackets
+		
+----RMM Auto-12	$3496	----
+Ballistic Damage, Ranged Miss Chance:		
+	135 damage with a miss chance of 2 out to 10m
+	105 damage with a miss chance of 3 out to 20m
+	110 damage with a miss chance of 4 out to 40m - Slug Only 
+Auto Miss Chance:	+6,  -1 for every 3 Strength (starting at 5)	
+Mag Size:		16 rounds of 12-gauge, mag-fed. $24 per magazine
+Reload DC:		45
+Fire Modes:		Semi, Auto
+Auto Fire Rate: 	4	
+Armor Piercing Level:	1	
+Reflex Modifier:	0	
+Suppression Level:	Medium	
+Notes/Description:	CQB weapon.
+Notes/Description: Slug shells do 110 damage for all range brackets.
+	Mag-fed, 2 Actions to reload.
+		
+----Frontier Plas-12	$3253	----
+Plasma Damage, Ranged Miss Chance:		
+	160 damage with a miss chance of 1 out to 10m	
+	140 damage with a miss chance of 3 out to 20m
+	110 damage with a miss chance of 4 out to 35m	
+Mag Size:		10 rounds of Argon-12, mag-fed. $15 per magazine
+Reload DC:		45
+Fire Modes:		Pump Action
+Armor Piercing Level:	3	
+Reflex Modifier:	-5	
+Movement Speed Penalty:	-0.5m	
+Notes/Description:	3x Plasma burn on hit. The Plas-12 deals different amounts 
+	of damage at 3 distinct distances instead of the norm (2 distances).
+	Mag-fed, 2 Actions to reload.
+		
+----Partix LA36 CQ	$4618	----
+Laser Damage, Ranged Miss Chance:		
+	130 damage with a miss chance of 1 out to 15m	
+	110 damage with a miss chance of 2 out to 30m	
+	110 damage with a miss chance of 3 out to 60m - Focus Beam Only 
+Mag Size:		8 rounds of 20 kWh, mag-fed. $12 per magazine
+Reload DC:		35
+Fire Modes:		Pump Action
+Armor Piercing Level:	n/a	
+Reflex Modifier:	-5	
+Movement Speed Penalty:	-0.5m	
+Notes/Description: Can change mirrors for one Action, to Scatter Beams (buckshot) or 
+	Focus Beam (slug). Focus Beam gets +1 miss chance. Focus Beams do 110 damage 
+	for all range brackets. Mag-fed, 2 Actions to reload.

@@ -3,7 +3,7 @@ weapon. Most Attachments can be affixed to any weapon unless otherwise
 noted. Ask a GM if you are not sure.
 
 Please note that unless otherwise specified, only one attachment of a given type may
-be used. For instance, one cannot use two red lasers to get a -30% to miss chance, nor 
+be used. For instance, one cannot use two red lasers to get a -4 Miss Chance, nor 
 can you use both a reflex sight and a 3.2x scope. 
 
 ========================================
@@ -319,14 +319,15 @@ Cannot be used with an underbarrel weapon.
 At all times: -2 Auto and Burst Miss Chance.
 Only when deployed: -1 R3 & R2 Miss Chance.
 
-SPECO Under-Barrel Chainsaw SPC100  $607.77
+SPECO Under-Barrel Chainsaw SPC100  	$607.77
 Enemy a little too close for comfort? Allows the user to enter melee combat 
-without needing to switch out their primary weapon for a melee weapon.
-Knowledge of "Weapon Use [Exotic]" required to operate.
-Melee Damage:	70 + 2x Dexterity, 2x Bleed
-Melee Miss Chance: 	4
-Melee Range: 	1m
-Weapon Strength Requirement: +1
+without needing to switch out their primary weapon for a melee weapon. (This weapon
+follows normal melee rules as stated in the basic rules).
+Damage:		   70 + 2x Dexterity, 2x Bleed
+Range:     	   Adjacent (1m)
+Accuracy Modifier: +1
+Notes/Description: Requires "Weapon Use [Exotic]" to operate. +1 to the Weapon Strength 
+Requirement of the weapon you mount the Chainsaw on.
 
 ========================================
 Slings
