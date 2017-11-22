@@ -21,19 +21,19 @@ None
 
 //============================================================
 Tundari
-Society: Tribal system, lead by a counsel of elders.
+Society: Tribal system, lead by a council of elders.
 
 Homeworld: Tundaaari
 A dry, searingly hot planet covered in planes and deserts. 70% of the planet 
 is covered in water. The planet's axis of rotation is more or less upright 
-relative to it's binary star system. the north pole points more towards the 
+relative to its binary star system. The North pole points more towards the 
 suns, and as such is a cooked wasteland, while the south pole is left in a 
 more temperate, jungle climate. 90% of the annual rainfall on the planet 
 occurs on this jungly southern continent.
 
 Native Species: Tundarin
 This Feline-esque species is covered in a soft, short fur ranging in many 
-colors, from browns, to oranges, blacks, grays, etc. And a multitude of pasterns
+colors, from browns, to oranges, blacks, grays, etc. And a multitude of patterns
 (striped, splotched, dotted, etc.). They have whiskers, and very sharp teeth. 
 Their eyesight is very good, and they have low-light vision. Their build is 
 generally more slender and graceful, but there have been bulkier Tundarin 
@@ -217,7 +217,7 @@ Trioch II is now a place for venturing archaeologists to come and investigate th
 
 Racial Bonuses:
 Waterbreathing
-+1 base FOR, +10 to reflex rolls. Due to their rapid evolution, Opaleites have a much easier time adjusting to the physical obstacles presented to them. 
++1 base FORT, +10 to reflex rolls. Due to their rapid evolution, Opaleites have a much easier time adjusting to the physical obstacles presented to them. 
 -10 to perception rolls above water.
 Sensitivity to Smoke and Gasesous attacks. -20 to save rolls involving these attacks. 
 
