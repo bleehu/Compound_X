@@ -111,17 +111,6 @@ Immune to: poison, cannot be intoxicated.
 Weakness (Electrical): Electrical damage deals an additional 50% damage.
 
 //============================================================
-Society:
-Favored Class:
-Type:       Cybernetic
-Size:       Medium
-Speed:      Normal
-Starting Stat Points: 42
-Stat Modifiers: 
-
-Racial Traits:
-
-//============================================================
 Archon
 Society: These constructs are made up of nanites. Commonly A.I.s that have 
 broken from their world of solitude and gained a corporeal body, these 
