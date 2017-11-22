@@ -34,6 +34,8 @@ RPG: Role-Playing Game, such as Dungeons and Dragons or Compound X!
 
 Player Character: The Player's avatar in the game world. A Player Character is made by following the procedures outlined in the CharacterCreation folder. Generally, a Player only controls one Character at a time; that Character is called a Player Character. 
 
+Proficiency: Compound X uses three types of Proficiencies Weapon Proficiency, Armor Proficiency, and Skill Proficiency. For Weapon or Armor Proficiency, see Basic Rules Assigning A Class To Your Character Section, subsections Weapon Proficiency or Armor Proficiency. For Skill Proficiency see Basic Rules RP/Skills section.  
+
 Saving Throw: A Saving Throw is a roll of the dice to see whether your character has the defenses to avoid something bad happening to them. See Saving Throws in the Basic Rules.txt document for more information.
 
 Stacking/Stackable: When an effect or feat is Stackable, that means if applied to a character more than once the effect is cumulative or additive. So if a Character is taking damage from stacked burn conditions, the damage dealt is added together.
