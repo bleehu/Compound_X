@@ -110,6 +110,46 @@ Immune to: poison, cannot be intoxicated.
 Weakness (Electrical): Electrical damage deals an additional 50% damage.
 
 //============================================================
+Multipurpose Drone
+
+Society: 
+    Multipurpose drones were first constructed by Humans, and later
+made by both Humans and other Multipurpose Drones. There are a 
+variety of opinions defining race relations between Humans and
+MultiPDs. Some Drones feel they are superior to Humans because
+they don't age and don't need to sleep. Many see themselves as
+downtrodden and beholden to their creators. Still others work
+and recreate with Humans productively and peacefully. 
+    The cognitive matrix of a MultiPD works as its brain and
+comes with an empathic multiplexer for emotions and the dynamic
+learning compositor for sentient learning. Despite the range of
+emotional development a Drone can achieve, their lack of a face
+has given them a reputation among some organics as being cold and
+calculated.
+
+Favored Class: Engineer, Hunter, Medic, Priest
+Type:       Cybernetic
+Size:       Medium
+Speed:      Normal
+Starting Stat Points: 39
+Stat Modifiers: DEX + 1, INT + 1
+
+Racial Traits:
+Fragile: The Multipurpose drone has -25 max health.
+Machine Learning: The Multipurpose Drone learns 5 points more skills 
+    on each level up.
+Hovering: Multipurpose drones can't fly, but they do move by hovering
+    over the terrain below them. They don't take penalties for difficult
+    terrain and can hover over water. 
+Faceless: Opponents counter persuasion, deception, bluff checks with Repair
+    checks instead of insight/charisma checks. 
+Robotic: Does not need to eat, breath, or sleep. Must spend 6 hours to 
+    recharge after a 24 hour period. this can be done via a self-contained 
+    reactor. Not affected by mind-influence, susceptible to hack attempts.
+    Immune to poison, cannot be intoxicated.
+Weakness (Electrical): Electrical Damage deals an additional 50% damage.
+
+//============================================================
 Archon
 Society: These constructs are made up of nanites. Commonly A.I.s that have 
 broken from their world of solitude and gained a corporeal body, these 
