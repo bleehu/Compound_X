@@ -643,7 +643,7 @@ Instead of dealing full damage, a character can try to kick/shove a human sized
 opponent to force movement by rolling for a normal unarmed/armed melee attack 
 with an additional -2 miss penalty against the opponent's Guard DC. If the attack 
 succeeds, it yields 1/2 the damage it normally would and pushes the target 
-1m for every 5 strength you have.
+1m for up to every 5 strength you have.
 
 === Actions ===
 During combat, your character has 4 Actions. Actions are used for fighting, 
