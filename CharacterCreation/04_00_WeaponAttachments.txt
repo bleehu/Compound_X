@@ -339,7 +339,9 @@ Pistol Lanyard  $100
 If you drop your pistol, it'll fall harmlessly to 
 your leg level instead of dropping onto the ground.
 Holstering your weapon is a free action. Drawing your
-pistol takes 1 extra Action next time.
+pistol takes 1 extra Action next time*.
+*If you have 'Quickdraw' or 'Pistol Quickdraw' you only
+need to take 1 action to draw instead 2.
 
 Two Point Sling $350
 Cannot be used with pistols.
