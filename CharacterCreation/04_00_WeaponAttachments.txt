@@ -341,7 +341,7 @@ your leg level instead of dropping onto the ground.
 Holstering your weapon is a free action. Drawing your
 pistol takes 1 extra Action next time*.
 *If you have 'Quickdraw' and/or 'Pistol Quickdraw' you only
-need to take 1 action to draw instead 2.
+need to take 1 action to draw instead of 2.
 
 Two Point Sling $350
 Cannot be used with pistols.
