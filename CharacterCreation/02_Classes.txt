@@ -7,8 +7,8 @@ Core classes:
  * you can gain another class feat.
  *
  * For any listed class, if it says "Gain X Skill at 10" that means you get
- * to add the X skill (at 10 points) to your skill list. Thereby, you gain a +10% to
- * any roll which uses that skill. 
+ * to add the X skill to your skill list. For more on Skills, see 
+ * RP / Using Skills Section of Basic Rules.txt. 
  *==================================================*/
 
 =====   SOLDIER   =====

@@ -190,6 +190,13 @@ head out and looking at your enemy. And somehow you still hit them (some of the 
 Roll a d10 before any Blind Firing or Hip Firing action. If the roll is from 6 to 10, 
 Gain -2 miss chance for that firing action; If the roll is from 1 to 5, nothing happens.
 
+Last Stand:
+Prerequisite: Level 4
+Don't die alone. Always bring a friend. When you are downed, you may take up to 
+three actions on your turn to do one of the following: Draw a one-handed weapon 
+such as a pistol or SMG, Aim, or fire. You can no longer take any of these 
+actions if you are below -50 health. 
+
 Monk:
 Prerequisites: Level 7 or higher
 Able to use full damage for lethal strikes with unarmed.
@@ -512,7 +519,7 @@ to the beginning of your next turn. Cannot be used in concert with Run 'N' Gun.
 
 Cover Slide [15 Nanites]:
 Prerequisites: DEX 4
-Move up to your speed and end next to a barrier behind which you can take 
+Move up to your speed and end next to a barrier behind which you can take
 cover. You hunker or go prone behind that cover as a free action. Cannot 
 be used in concert with Run 'N' Gun.
 
