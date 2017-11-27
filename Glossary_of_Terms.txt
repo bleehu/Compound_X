@@ -30,6 +30,8 @@ Held Actions: A type of reaction where 1 or 2 Actions can be saved from your tur
 
 NPC: Stands for "Non-Player Character" and is defined as any character in the story who is not controlled by one of the Players. NPCs are almost always controlled by the GM. Often NPCs are the enemies that you fight, the shopkeepers that you buy things from, or the hostages you rescue. 
 
+Opportunity Attack: A type of Reaction, an Opportunity Attack is a free attack that triggers when an opponent leaves melee combat (and triggers by several other circumstances). See topic "Opportunity Attack" under "Melee Combat" in the basic rules.
+
 Player: A human in the real world who is playing the game. One Player may have many Characters and might play in more than one game. Usually one Player plays one Player Character at a time. 
 
 RPG: Role-Playing Game, such as Dungeons and Dragons or Compound X!
