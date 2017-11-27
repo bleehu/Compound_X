@@ -1064,7 +1064,7 @@ sooner (see table below for "Cloak Turns") . If your cloak time runs out, you st
 cloaking and have to wait a number of actions equal to your "Charge Delay" (listed under 
 the relevant cloaking module's description) before being able to cloak again.
 
-===== Cloaking Detection ===
+===== Cloaking Detection =====
 If someone/something is looking for you, they must pass a (normally, perception) 
 check at 'Detect DC' difficulty, modified by your stealth skill. While moving, 
 the detect DC is reduced (listed as 'moving detect DC' under the relevant cloaking
