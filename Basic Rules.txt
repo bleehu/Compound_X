@@ -681,11 +681,20 @@ is your turn or not. The most common reaction you will encounter will be from Su
 (described in "Ranged Combat", below) or Opportunity Attacks (described in "Melee Combat", above).
 After the reaction occurs, play continues as normal (if it is an opponents turn, they continue 
 their turn). 
-	Held Actions are a type of reaction. A player may choose to forgo using up to 2 actions 
-at the end of their turn. The player must declare to their DM what those actions are to be 
-triggered by then play continues as normal. If the trigger occurs before the player's next 
-turn, the player gets to immediately use their 1 or 2 actions. If the trigger does not occur 
-before the player's turn, they lose their held action(s) and start their turn as normal. 
+
+Held Actions:
+A type of reaction. A player may choose to forgo using up to 2 actions at the end of their turn. 
+The player must declare to their DM what those actions are to be triggered by then play continues
+as normal. If the trigger occurs before the player's next turn, the player gets to immediately 
+use their 1 or 2 actions. If the trigger does not occur before the player's turn, they lose their
+held action(s) and start their turn as normal. 
+	For example, let's say my character and his/her friends are walking along a ledge. I know that
+one of the characters in the party is clumsy so I have my character move along the ledge, and I ask 
+the DM if I can save my last action to try and catch the clumsy character, should they trip. The
+DM approves my plan and play continues. On the clumsy character's turn, they start to scoot across
+the ledge and trip! As soon as they trip, my held action triggers and my character saves them from 
+falling off the ledge and their turn continues. If they had not tripped, my held action would've
+been lost at the start of my following turn.
 
 ==== Movement and Sprinting ====
 You can run 'Movement Speed' minus 'Movement Speed Penalty' number of meters for every
