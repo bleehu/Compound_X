@@ -537,13 +537,6 @@ and Cocking of a gun. Treat your gun as if it was a CQB weapon. After a successf
 hit, you may roll for an additional hit on any target within the 15m range, for up to 
 3 rounds fired. If you miss a shot or your gun runs out of rounds, your Gun Kata ends.
 
-Last Stand [40 Nanites]:
-Prerequisite: Level 4
-Don't die alone. Always bring a friend. 40 Nanites to activate when downed. 
-Once activated, you may take an action to do one of the following: Draw a 
-one-handed weapon such as a pistol or SMG, Aim, or fire with a to-miss 
-penalty of 2.  
-
 Kata [Minimum 5 Nanites]: 
 Prerequisites: Level 10
 Whenever you land a successful melee hit against someone, you may roll for X 
