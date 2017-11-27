@@ -477,17 +477,17 @@ Medic-kit, medic user: Works as normal, but add 30 to amount healed.
 Death, Dying, and Downed
 ==============================
 Oh no! You have less than 1 health point left! What now!?! The good news is you
- are not* dead yet. But you are doing what's known as "bleeding out". The first 
- time your character falls below 1 hit point, you get 3 saving throws called 
- Death Saving Throws (or 'DSTs' for short). You roll one saving throw per turn 
- that you are downed and these DSTs are not modified by any attribute. If you 
- succeed a DST, (see 'Downed', below) you continue bleeding out; however, you get 
- to roll again next turn. If you fail 3 DSTs, you die. Once you fail a DST, the 
- next time you fall below 1 health point you only get 2 DSTs (2 failed throws and 
- you die). If you failed a DST during the first two times you were downed and 
- you are downed a third time, you only get 1 DST. You regain a DST by going a 
- whole encounter without failing a DST. You can have a maximum of 3 saving throws 
- at any one time.
+are not* dead yet. But you are doing what's known as "bleeding out". The first 
+time your character falls below 1 hit point, you get 3 saving throws called 
+Death Saving Throws (or 'DSTs' for short). You roll one saving throw per turn 
+that you are downed and these DSTs are not modified by any attribute. If you 
+succeed a DST, (see 'Downed', below) you continue bleeding out; however, you get 
+to roll again next turn. If you fail 3 DSTs, you die. Once you fail a DST, the 
+next time you fall below 1 health point you only get 2 DSTs (2 failed throws and 
+you die). If you failed a DST during the first two times you were downed and 
+you are downed a third time, you only get 1 DST. You regain a DST by going a 
+whole encounter without failing a DST. You can have a maximum of 3 saving throws 
+at any one time.
 
 Downed
 The state of having less than one Health Point is called being "downed." It is also
@@ -588,7 +588,7 @@ attack. Each "Player turn" lasts 4-6 seconds, and consists of 4 "Actions"
 
 ==== Miss Chance Limits ====
 At any time when using a melee or ranged weapon, you have a minimum of -2 weapon
-miss chance, and a minimum of 1 Auto or burst miss chance (if relevant). These 
+miss chance, and a minimum of 1 Auto or Burst miss chance (if relevant). These 
 minimums apply after all PER/DEX/STR/Attachment modifiers, at all ranges, and 
 before cover and any other environmental effects. Using an ability could push 
 you below the minimum miss chance.
@@ -597,18 +597,27 @@ you below the minimum miss chance.
 A character occupies 1m of space. however, as Compound X is not played out on a 
 squares-board, usually it doesn't matter if two players are within the same 
 1m space.
-	Two Players locked in melee combat are considered to be in adjacent 
-1m spaces, not in the same 1m space. Have you ever seen a fight? you don't start 
-face-to-face unless you're at a bar.
+	Two Players locked in melee combat are considered to be in adjacent 1m spaces, 
+not in the same 1m space. Have you ever seen a fight? you don't start face-to-face 
+unless you're at a bar.
 	Generally speaking, once a character has initiated melee combat with another 
-character, they are both considered to be in "melee combat," and occupy adjacent 
-1m spaces. At this point (unless one character has a CQB weapon) both characters 
-are assumed to be using their fists or other melee weapons. If a character wishes 
-to leave melee combat, they incur a "penalty attack."  Characters also incur 
-"penalty attacks" when moving through or next to an enemy character's 1m space,
-or within range of a melee weapon that the enemy has equipped and when performing 
-a skill check when in melee combat.
-	Melee combat is relatively simple. To hit an enemy player: add your dexterity 
+opponent, they are both considered to be in "melee combat," and occupy spaces within
+reach of one of the combatant's melee weapons. At this point (unless one character 
+has a CQB weapon) both characters are assumed to be using their fists or other melee 
+weapons. If a character wishes to leave melee combat, they incur an "Opportunity Attack."  
+	
+Opportunity Attack:
+A free attack* that is triggered when an opponent leaves melee combat or walks adjacent 
+(within melee range) to a character that is aware of their opponent. Characters 
+also incur Opportunity Attacks by performing a non-combat skill check when locked in melee 
+combat (such as trying to repair their own armor) or by trying to shoot a different opponent
+with a non-CQB weapon. 
+	*The free attack can be made with a CQB weapon or a melee weapon (depending on if the weapon
+	is already equipped in the character's hands). If the free attack is made with a CQB weapon,
+	and the weapon is not already aimed at the target, standard Hip Firing rules apply.
+
+Making Melee Attacks:
+Melee combat is relatively simple. To hit an enemy player: add your dexterity 
 combat modifier to a d10 roll plus your combat modifier from your weapon/attack*,
 and add any relevant skill(s)**. The result must be greater than the opponent's
 Guard DC: (DEX * 4)/10 + any skill** in combat. Drop any decimal remainder. If you
@@ -630,7 +639,7 @@ ignore the opponent's armor and deal full damage.
 
 Grappling:
 A character may grapple another character when they are both in melee 
-distance. Doing so provides the grappled player a "penalty attack" on the 
+distance. Doing so provides the grappled player an Opportunity Attack on the 
 grappling player. During grappling, both sides roll opposing grapple checks to 
 see who maintains control. Once you have control you may make a grapple check 
 to subdue your opponent (by choke-out, pin, or a joint lock). You may also strike
@@ -645,7 +654,7 @@ with an additional -2 miss penalty against the opponent's Guard DC. If the attac
 succeeds, it yields 1/2 the damage it normally would and pushes the target 
 1m for every 5 strength you have.
 
-=== Actions ===
+==== Actions ====
 During combat, your character has 4 Actions. Actions are used for fighting, 
 movement, items, whimpering, etc. Here is a list of common tasks and their
 relative cost:
@@ -664,6 +673,28 @@ Unholstering Pistol or Grabbing a Weapon/Item - 1 Action
 Performing a Skill Check (other than Getting Bearings/Awareness of surroundings) - 1 Action
 Conversing With Partners - Free Action
 Getting Your Bearings / Non Skill-Based Perception - Free Action
+
+==== Reactions & Held Actions ====
+Certain abilities or circumstances will allow you to take a special action in response to a 
+triggering event. A reaction occurs at the immediate moment that it is triggered, whether it
+is your turn or not. The most common reaction you will encounter will be from Suppression 
+(described in "Ranged Combat", below) or Opportunity Attacks (described in "Melee Combat", above).
+After the reaction occurs, play continues as normal (if it is an opponents turn, they continue 
+their turn). 
+
+Held Actions:
+A type of reaction. A player may choose to forgo using up to 2 actions at the end of their turn. 
+The player must declare to their DM what those actions are to be triggered by then play continues
+as normal. If the trigger occurs before the player's next turn, the player gets to immediately 
+use their 1 or 2 actions. If the trigger does not occur before the player's turn, they lose their
+held action(s) and start their turn as normal. 
+	For example, let's say my character and his/her friends are walking along a ledge. I know that
+one of the characters in the party is clumsy so I have my character move along the ledge, and I ask 
+the DM if I can save my last action to try and catch the clumsy character, should they trip. The
+DM approves my plan and play continues. On the clumsy character's turn, they start to scoot across
+the ledge and trip! As soon as they trip, my held action triggers and my character saves them from 
+falling off the ledge and their turn continues. If they had not tripped, my held action would've
+been lost at the start of my following turn.
 
 ==== Movement and Sprinting ====
 You can run 'Movement Speed' minus 'Movement Speed Penalty' number of meters for every
@@ -930,17 +961,17 @@ Plasma Burn - 1d10+1 stackable damage per turn, for 2 turns if the target's armo
 Poisoned - d10 damage per turn. After 5 turns, some poisons may induce 
     unconsciousness. DC 50, Fortitude. Greater / Lesser poison increases damage 
     (+5/-5) and DC (+25,-10).
-Buzzed (drunk) - Many drinks in the galaxy contain a substance called alchohol.
+Buzzed (drunk) - Many drinks in the galaxy contain a substance called alcohol.
 	When consuming these drinks, the effect should list a FORT save to avoid
 	increasing your level of intoxication. The first level of intoxication is Buzzed.
 	While buzzed, you gain a +10% to miss with any attack and a temporary -1
 	to Perception. At the same time, you get a +1 to charisma and luck. You also
-	take a -20 to skill checks involving driving, flying or opperating heavy 
+	take a -20 to skill checks involving driving, flying or operating heavy 
 	machinery. If you fail a Fort save to prevent increasing your intoxication
 	level while buzzed, you become hammered. As long as you don't become 
 	hammered, being buzzed will wear off in two hours.
 Hammered (drunk) - While hammered, you take a -30 to accuracy rolls when
-	attacking and a -50 to skill checks involving driving, flying or opperating
+	attacking and a -50 to skill checks involving driving, flying or operating
 	heavy machinery. You take a temporary -2 to dex, perception and charisma.
 	If your level of intoxication increases while you are hammered, you black
 	out and you are now Downed.

@@ -26,13 +26,19 @@ Game Master: Usually abbreviated as GM, the Game Master runs the game for the Pl
 
 GM: See Game Master.
 
+Held Actions: A type of reaction where 1 or 2 Actions can be saved from your turn to react to a trigger outside of your turn. See "Reactions & Held Actions" in the basic rules document.
+
 NPC: Stands for "Non-Player Character" and is defined as any character in the story who is not controlled by one of the Players. NPCs are almost always controlled by the GM. Often NPCs are the enemies that you fight, the shopkeepers that you buy things from, or the hostages you rescue. 
+
+Opportunity Attack: A type of Reaction, an Opportunity Attack is a free attack that triggers when an opponent leaves melee combat (and triggers by several other circumstances). See topic "Opportunity Attack" under "Melee Combat" in the basic rules.
 
 Player: A human in the real world who is playing the game. One Player may have many Characters and might play in more than one game. Usually one Player plays one Player Character at a time. 
 
 RPG: Role-Playing Game, such as Dungeons and Dragons or Compound X!
 
 Player Character: The Player's avatar in the game world. A Player Character is made by following the procedures outlined in the CharacterCreation folder. Generally, a Player only controls one Character at a time; that Character is called a Player Character. 
+
+Reactions: A special action that is triggered by certain circumstances or abilities. Reactions occur at the immediate moment that they are triggered. See "Reactions & Held Actions" in the basic rules document.
 
 Saving Throw: A Saving Throw is a roll of the dice to see whether your character has the defenses to avoid something bad happening to them. See Saving Throws in the Basic Rules.txt document for more information.
 
