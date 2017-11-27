@@ -1,18 +1,18 @@
-##Step 0: Ask for Advice
+## Step 0: Ask for Advice
 No really, if you get stuck at any point or just want a second opinion, other players can be tremendously helpful and
 are usually more than happy to assist new players getting their feet wet.
 
-##Step 1: Race
+## Step 1: Race
 *Section to be added on account of impending large-scale racial rework*
 
-##Step 2: Class
+## Step 2: Class
 For players new to role-playing games we recommend the Soldier or Hitman classes (and possibly Pilot).
 *Section to be expanded later on account of impending large-scale class rework*
 
-##Step 3: Background and Skills
+## Step 3: Background and Skills
 *Section to be added on account of impending addition of this feature*
 
-##Step 4: Attribute Point Allocation
+## Step 4: Attribute Point Allocation
 Now that you know what your character is capable of in-combat (your class) and out-of-combat (your non-combat skills), 
 you have all the information you need to decide your character's attributes. You have a total number of attribute points
 to allocate based on your choice of race, and 7 attributes to which to allocate them. Basic Rules.txt describes what each 
@@ -31,17 +31,17 @@ on what the attributes themselves do and the dependencies of the skills you sele
 between 7-9 each. Then give a 3-5 to one or two things your character won't be as good at, and finally adjust your numbers 
 as necessary to give medium scores to the remaining attributes.
 
-##Step 5: Feats
+## Step 5: Feats
 If you are making a level 1 character, you do not need to worry about feats. If your GM wants you to begin at a higher 
 level, you may wish to ask them for advice on which feats to take.
 
-##Step 6: Weapons, Attachments, and Armor
+## Step 6: Weapons, Attachments, and Armor
 Weapon and Armor proficiencies are determined by your class, as is your financial reach. Usually, though not always, you
 will want to acquire the heaviest type of armor your class has access to. Weapons are trickier, as each type of weapon
 is the best class of weapon for a particular task. As a [Class recommended in step 2], you may want a [X weapon for Y task],
 or a [Z weapon for W task]. [Sidearm discussion (if money permits)].
 
-##Step 7: Equipment
+## Step 7: Equipment
 Any remaining moneys you have can be spent on miscellaneous equipment from the [Items](https://github.com/bleehu/Compound_X/blob/play/CharacterCreation/07_Items.txt) document. Take whatever items you
 find that fit your character's aesthetic. We recommend on gneral principles always having a communicator of some type 
 and if money permits a medkit/repair kit or two, depending on whether your race is organic or robotic.
