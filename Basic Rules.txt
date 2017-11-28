@@ -120,9 +120,8 @@ Class 		- Think of this like your job. Are you a sniper, waiting for the
 Nanites  	- The evolution of technology brought about the ability to design
 	and control microscopic machines. Such a powerful advancement assists in
 	all forms of life in the Compound X universe. Nanites are used to activate
-	abilities that are not normally possible on Earth. Abilities such as sprinting 
-	extremely fast, aiming incredibly well, infusing bullets with electrical
-	energy, and more.
+	powerful abilities such as sprinting extremely fast, aiming incredibly well, 
+	infusing bullets with electrical energy, and more.
 Skills		- Each character learns things while going through life. Maybe
 	your time in the military taught you how to navigate using the stars
 	or maybe your time working at a mechanic's shop made you good at 
