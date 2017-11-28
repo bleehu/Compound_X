@@ -13,7 +13,7 @@ are usually more than happy to assist new players getting their feet wet.
 
 ## Step 4: Attribute Point Allocation
 Now that you know your character's primary (from your class) and secondary (from your skills) capabilities, you have all 
-the information you need to decide your character's attributes. You have a total number of attribute pointsto allocate 
+the information you need to decide your character's attributes. You have a total number of attribute points to allocate 
 based on your choice of race, and 7 attributes to which to allocate them. Basic Rules.txt describes what each attribute 
 does in a vacuum if you need a refresher. Here are a few pointers:
 1. Unless you know what you are doing, do not give your character less than 6 FORT. FORT directly determines your health
