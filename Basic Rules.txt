@@ -1,7 +1,5 @@
-This document was created in order to help clear up how everything works in 
-this game.
 ==============================
-Premise:
+Premise
 ==============================
 
 Welcome to Compound X! The specific time and place that your adventure takes
@@ -14,7 +12,7 @@ domination? Or maybe a mercenary who's somewhere in between? The choice is
 yours and your legend will be told as you play the game!
  
 ==============================
-The Primary Game Mechanic:
+The Primary Game Mechanic
 ==============================
 
 You may now be thinking to yourself; "Self-person, we sure can't wait to go
@@ -55,7 +53,7 @@ and Disadvantage do not stack with themselves. If you would have both Advantage 
 Disadvantage on the same roll, then they cancel each other, and you just roll once.
 
 ==============================
-Role Playing and Combat:
+Role Playing and Combat
 ==============================
 
 Compound X has two main 'modes' if you will: Combat, and Not in Combat. While in
@@ -90,7 +88,7 @@ Either in combat or out, play usually follows this loop:
 7.	Then the next player begins their turn.
 
 ==============================
-Your Character:
+Your Character
 ==============================
 
 In Compound X, you control one particular person. This person is your avatar
@@ -117,9 +115,13 @@ Class 		- Think of this like your job. Are you a sniper, waiting for the
 	Classes define what armor and weapons your character can use in combat,
 	as well as certain special abilities which might help solve puzzles or
 	get you better discounts at stores. Your class also determines how much 
-	money you start with to buy equipment and how many nanites you can use
+	money you start with to buy equipment and how many Nanites you can use
 	at once.
-Nanites  	- 
+Nanites  	- The evolution of technology brought about the ability to design
+	and control microscopic machines. Such a powerful advancement assists in
+	all forms of life in the Compound X universe. Nanites are used to activate
+	powerful abilities such as sprinting extremely fast, aiming incredibly well, 
+	infusing bullets with electrical energy, and more.
 Skills		- Each character learns things while going through life. Maybe
 	your time in the military taught you how to navigate using the stars
 	or maybe your time working at a mechanic's shop made you good at 
@@ -134,10 +136,8 @@ Feats		- Your character will gain special perks as you level up. This
 	able to do a fast combat roll under fire. Tackle these when your 
 	character advances to level 3.
 
-
-
 ==============================
-Base Stats:
+Base Stats
 ==============================
 
 Each player has what are called Base Stats. An average person has a '5' for
@@ -162,11 +162,11 @@ Dexterity
       ╚═ Movement Speed
 Luck
 
-Secondary stat assignment examples: Charisma and Intelligence are associated with 
-Skill Point Gain. If you have 5 Charisma and 6 Intelligence, you would have 6 Skill 
-Point Gain.
-Let's now assume you have 6 Strength, 3 Dexterity, and 4 Fortitude. You would have 
-3 Movement Speed (from your Dexterity) and 4 Carry Ability (from your Fortitude). 
+Secondary Stat Assignment Examples: 
+Charisma and Intelligence are associated with Skill Point Gain. If you have 5 Charisma
+and 6 Intelligence, you would have 6 Skill Point Gain.
+	Let's now assume you have 6 Strength, 3 Dexterity, and 4 Fortitude. You would 
+have 3 Movement Speed (from your Dexterity) and 4 Carry Ability (from your Fortitude). 
 Now, Strength is much higher than both of those, but Strength can't determine both 
 Movement Speed and Carry Ability so you have to decide whether you want:
 3 Movement Speed and 6 Carry Ability 
@@ -202,7 +202,7 @@ and the score of your roll would be
 That's a really high roll! But that may or may not be enough to lift the object
 depending on how heavy it is!
 
-Combat Stat Bonus for Ranged and Melee Accuracy:
+===== Combat Stat Bonus for Ranged and Melee Accuracy =====
 These bonuses use a table instead of the above Stat Bonus equation, as combat accuracy
 rolls are played out on a d10, not a d100 scale. The two most-used base stats for accuracy
 rolls are Perception and Dexterity. The Perception stat affects a ranged weapon's range 
@@ -232,8 +232,8 @@ COMBAT MISS CHANCE BONUSES TABLE
 ╠════════╬═════════════╣
 ║ 15     ║  3	       ║		
 ╚════════╩═════════════╝
-Drop any remaining decimal (in other words, round down) to the nearest whole number when 
-you are writing down the final miss chances of your weapon(s). For example, let's say you
+Drop any remaining decimal (0.5 or -0.5 becomes 0) -in other words- only use integers when
+you are writing down the final miss chances of your weapon(s). For example, let's say you 
 have a basic SMG with miss chance brackets of 4, 5, and 6. Assuming you have 6 Perception,
 your PER bonus is 0.5 and thus, your gun's range miss chance brackets are:
 (4 - 0.5), (5 - 0.5), (6 - 0.5)  =  3.5, 4.5, 5.5
@@ -259,10 +259,7 @@ chance of 3, your ranged bracket miss chances should look something like this:
   4,     5,      6	burst fire miss chances
   6,     7,      8	automatic fire miss chances
 
-Base Stat Details:
-Each Base Stat has different specific effects. They are detailed below.
-
-==== Primary Stat Details ====
+===== Primary Stat Details =====	
 Strength (STR):
 	How strong are you? This stat determines how big of a gun you can carry and
 	how hard you can punch or hit with strength melee weapons. It might also allow 
@@ -338,15 +335,7 @@ Luck (LUCK):
 ║ 9-10  ║ Nothing bad happens... this time							║
 ╚═══════╩═══════════════════════════════════════════════════════════════════════════════════════╝
 
-Nanites:
-	Although not a primary stat, The maximum number of Nanites you can use at a given time is determined
-	by your character class and an associated primary stat. Your class may tell you its "Class Primary Attribute" 
-	is Strength. In that case, Strength * 10 is your maximum Nanites. More generally:
-	    Your Maximum Nanites = (Your Class's Primary Attribute) * 10
-	Some class feats and other abilities can increase the number of Nanites you can hold and use at a given time. 
-	Also, Unlike Health, Nanites regenerate during combat at a rate of 3 Nanites per turn. 
-
-==== Secondary Stat Details ====
+===== Secondary Stat Details =====
 Movement Speed:
 	Your speed in meters, for every two actions. Use (Movement Speed)/2 for one action (drop the remainder). 
 	For more information, see topic "Movement and Sprinting", below.
@@ -357,8 +346,16 @@ Skill Point Gain:
 	How many skill points you gain every level. Every time you level up, you gain skill
 	points according to your "Skill Point Gain". Note about gaining skill points: you have a 
 	max of 50 points in any one Skill. Also, you have a max of 17+3*[CHA] points in any one Charisma Skill.
+
+===== Nanites =====
+Although not a primary or secondary stat per se, The maximum number of Nanites you can use at a given time is 
+determined by your character class and an associated primary stat. Your class may tell you its 
+"Class Primary Attribute" is Strength. In that case, Strength * 10 is your maximum Nanites. More generally:
+	Your Maximum Nanites = (Your Class's Primary Attribute) * 10
+Some class feats and other abilities can increase the number of Nanites you can hold and use at a given time. 
+Also, Unlike Health, Nanites regenerate during combat at a rate of 3 Nanites per turn. 
 	
-Assigning Stats to a New Character
+===== Assigning Stats to a New Character =====
 	When making a new character, you'll have to assign their Base stats.
 This will tell you a lot about your character. When assigning your stats,
 no stat can be higher than a 9 before applying racial/species bonuses and
@@ -369,7 +366,7 @@ level 15. After level 15, the limit for stat points is 20. The number of
 initial base stat points that you have to apply is listed with your Race or 
 Species. See chapter 1: Races if you haven't yet. 
 
-Leveling Up:
+===== Leveling Up =====
 Gain feats according to the table below.
 With Intelligence 9 or higher, receive more feats. The feats listed in the table are totals, 
 not to be added together.
@@ -472,10 +469,10 @@ Using a medikit:
 Medic-kit, non-medic user: works as if you are a medic with skill 30.
 Medic-kit, medic user: Works as normal, but add 30 to amount healed.
 
-
 ==============================
 Death, Dying, and Downed
 ==============================
+
 Oh no! You have less than 1 health point left! What now!?! The good news is you
 are not* dead yet. But you are doing what's known as "bleeding out". The first 
 time your character falls below 1 hit point, you get 3 saving throws called 
@@ -489,7 +486,7 @@ you are downed a third time, you only get 1 DST. You regain a DST by going a
 whole encounter without failing a DST. You can have a maximum of 3 saving throws 
 at any one time.
 
-Downed
+Downed:
 The state of having less than one Health Point is called being "downed." It is also
 sometimes called "bleeding out." They are equivalent. While a character is downed,
 they cannot move, cannot stand under their own power, and fall prone if not 
@@ -499,7 +496,7 @@ Saving Throw of DC 50. Success and failure of these throws is detailed above.
 Even if you had 5 health and took 80 damage, when you go down you go to 0 health.
 Any additional attacks you sustain will push you into negative health. 
 
-Stabilize
+Stabilize:
 As an action, a teammate may bring you back up to 1 health point by succeeding 
 on a Medicine skill check to stabilize you. Once stabilized, you may take actions 
 and speak as normal. Don't forget that a recently stabilized character may need 
@@ -513,7 +510,6 @@ bonuses from medical equipment such as medpacks may be added to that roll.
 instantly. Some examples are falling several stories, lava baptisms,
 or having a space station dropped on you. Do not do these things. They are
 also known to the state of California to cause cancer. 
-
 
 ==============================
 Resting
@@ -529,7 +525,7 @@ If you choose to stay up all night, you won't be at your best for the next day.
 Restores all of a character's Nanites.
 
 ==============================
-RP / Using Skills:
+RP / Using Skills
 ==============================
 
 The GM may ask you to roll a certain skill to see if your character can do 
@@ -567,7 +563,7 @@ Proficiency in a skill when they have 10 or more skill points in that skill.
 Defenders win ties for opposing rolls. If a character ties a DC they fail.
 
 ==============================
-Player Weapon Customization:
+Player Weapon Customization
 ==============================
 
 Weapon customization can be done anytime you are in a town, space station, or 
@@ -579,21 +575,21 @@ you can just go about your usual customization. See the Attachments document
 for more details on the kinds of attachments you can use, and their restrictions.
 
 ==============================
-Combat:
+Combat
 ==============================
 
 Combat starts when either you or an enemy decides they would like to make an 
 attack. Each "Player turn" lasts 4-6 seconds, and consists of 4 "Actions" 
 (described below).
 
-==== Miss Chance Limits ====
+===== Miss Chance Limits =====
 At any time when using a melee or ranged weapon, you have a minimum of -2 weapon
 miss chance, and a minimum of 1 Auto or Burst miss chance (if relevant). These 
 minimums apply after all PER/DEX/STR/Attachment modifiers, at all ranges, and 
 before cover and any other environmental effects. Using an ability could push 
 you below the minimum miss chance.
 
-==== Melee Combat ====
+===== Melee Combat =====
 A character occupies 1m of space. however, as Compound X is not played out on a 
 squares-board, usually it doesn't matter if two players are within the same 
 1m space.
@@ -654,7 +650,7 @@ with an additional -2 miss penalty against the opponent's Guard DC. If the attac
 succeeds, it yields 1/2 the damage it normally would and pushes the target 
 1m for every 5 strength you have.
 
-==== Actions ====
+===== Actions =====
 During combat, your character has 4 Actions. Actions are used for fighting, 
 movement, items, whimpering, etc. Here is a list of common tasks and their
 relative cost:
@@ -674,7 +670,7 @@ Performing a Skill Check (other than Getting Bearings/Awareness of surroundings)
 Conversing With Partners - Free Action
 Getting Your Bearings / Non Skill-Based Perception - Free Action
 
-==== Reactions & Held Actions ====
+===== Reactions & Held Actions =====
 Certain abilities or circumstances will allow you to take a special action in response to a 
 triggering event. A reaction occurs at the immediate moment that it is triggered, whether it
 is your turn or not. The most common reaction you will encounter will be from Suppression 
@@ -696,7 +692,7 @@ the ledge and trip! As soon as they trip, my held action triggers and my charact
 falling off the ledge and their turn continues. If they had not tripped, my held action would've
 been lost at the start of my following turn.
 
-==== Movement and Sprinting ====
+===== Movement and Sprinting =====
 You can run 'Movement Speed' minus 'Movement Speed Penalty' number of meters for every
 2 actions spent (Movement Speed Penalties should be rounded up before the subtraction).
 A character with 1 Movement Speed and 0 move speed penalties can move 1m per 2 actions, 
@@ -708,7 +704,7 @@ You can jump horizontally Dex/2 meters, and add 1m if you have a 3m running star
 You can jump vertically Str/3 meters.
 
 
-==== Other Combat Details ====
+===== Other Combat Details =====
 Critical Hits:
 Critical hits are accuracy rolls that land inside your critical hit range (aka. crit chance). 
 If you roll a critical hit, your weapon does +20 damage for that attack (and/or other effects,
@@ -788,7 +784,7 @@ Flanking:
 If you are behind a target, aka flanking, your melee attacks gain +2 bonus accuracy against their Guard DC. 
 (Ranged attacks don't gain a specific bonus from flanking.)
 
-==== Ranged Combat ====
+===== Ranged Combat =====
 If a player or opponent is standing outside of cover and they are shot at, 
 after the first firing action (assuming they didn't die or go unconscious), 
 they immediately, 'Hit the Dirt'. When you Hit the Dirt, you dive to the ground,
@@ -1052,10 +1048,9 @@ of the caster or the Charisma Modifier.
 Cloaking
 ==============================
 
-Cloaking is available in the armor section, but also available to some 
-classes as a class feature.
+Cloaking is available to some classes as a class feature.
  
-==== Cloaking Modules ====
+===== Cloaking Modules =====
 Expend the cloaking module's "Nanite Activation Cost" to begin cloaking. At the
 ending of every turn thereafter, you have to pay a "Nanite Upkeep" cost to 
 continue cloaking.
@@ -1068,7 +1063,7 @@ sooner (see table below for "Cloak Turns") . If your cloak time runs out, you st
 cloaking and have to wait a number of actions equal to your "Charge Delay" (listed under 
 the relevant cloaking module's description) before being able to cloak again.
 
-==== Cloaking Detection ===
+===== Cloaking Detection =====
 If someone/something is looking for you, they must pass a (normally, perception) 
 check at 'Detect DC' difficulty, modified by your stealth skill. While moving, 
 the detect DC is reduced (listed as 'moving detect DC' under the relevant cloaking
