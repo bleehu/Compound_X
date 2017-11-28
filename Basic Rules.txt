@@ -842,7 +842,7 @@ either by partially obscuring your silhouette, or by providing slight protection
 from projectiles. Full cover will do both to a better degree. "Partial Cover" typically
 covers 30-50% of your body, whereas "Full Cover" will cover closer to 60-80%. Crouching
 or going prone will also take better advantage of your surroundings and make you a 
-smaller target. Debuffs to opponent's Miss Chances are as follows:
+smaller target. Debuffs to opponents' Miss Chances are as follows:
 
 No Cover: +0
 Partial Cover: +2 
@@ -850,8 +850,8 @@ Full Cover: +4
 
 Crouching: +1 (on top of whatever cover you're behind, may completely obscure vision)
 Prone: +2 (on top of whatever -partial- cover you're behind, otherwise, may completely obscure vision.
-	    Provides no bonus if an opponent is within 5m of you and you aren't in cover from their 
-		perspective.)
+	    Does not provide a bonus against an opponent that is within 5m of you if you aren't in cover 
+		from their perspective.)
 Hunkering: +2 (on top of whatever cover you're behind.)
 
 Crouching is a free action, and standing up costs 1 Action. While you are
