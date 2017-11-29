@@ -1,7 +1,7 @@
 ==============================
 RANGED WEAPONS
 ==============================
-Outside a weapon's longest range, you cannot hit your target.
+    Outside a weapon's longest range, you cannot hit your target.
 Also, weapons cannot shoot over 100m without magnifying sights, or over 150m without 2x+ magnification.
 
 ==============================
@@ -11,9 +11,7 @@ PISTOLS
 they are fired, and they have -10 weapon reflex. Dex >= 5, SA revolvers must be cocked before use, once per combat turn (but they still
 have -10 weapon reflex). Reload time 2 Actions.
 
-- All pistols have "Suppression Level - Light" (unless otherwise noted).
-- All pistols are considered CQB Weapons
-
+- All pistols are considered CQB weapons and have "Suppression Level -  Light" (unless otherwise noted).
 
 =====	LEVEL 1 REQUIREMENT WEAPONS	=====
 
