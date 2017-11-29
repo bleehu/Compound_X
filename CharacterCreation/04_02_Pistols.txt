@@ -91,13 +91,13 @@ Fire modes:		Semi
 AP Level:		0
 Reflex Modifier: 	+20
 
-----Anvil Armament R15	$887	----
-Damage: 80 Ballistic
+----Anvil Armament R14	$967	----
+Damage: 85 Ballistic
 Ranged Miss Chance:
 	4 out to 5m
 	5 out to 20m
 	6 out to 30m
-Mag size: 		5 rounds of 15.0x47mm. $7 per mag
+Mag size: 		5 rounds of 14.0x47mm. $7 per mag
 Reload DC:		45
 Fire modes:		Semi
 AP Level:		2
