@@ -1,14 +1,16 @@
-/*========================================
- * This document lists the feats available to characters in Compound X
- * Feats may be taken on every even level as described in the Basic
- * Rules document. Passive feats are used freely with no limit
- * (unless otherwise stated) while active feats require the user to
- * spend some Nanites, which is specified next to the feat's name.
- * Unless otherwise specified, you cannot take a feat more than once.
- *======================================*/
-====================
+==============================
+Notes
+==============================
+    This document lists the feats available to characters in Compound X.
+Feats may be taken on every even level as described in the Basic
+Rules document. Passive feats are used freely with no limit
+(unless otherwise stated) while active feats require the user to
+spend some Nanites, which is specified next to the feat's name.
+Unless otherwise specified, you cannot take a feat more than once.
+
+==============================
 Passive Feats
-====================
+==============================
 Akimbo:
 Prerequisites: Dex 7, Level 6, Dual Wield feat
 Reduce the miss penalty from dual wielding to +1 miss chance per weapon. Reduce
@@ -164,11 +166,10 @@ You use your DEX modifier instead of your PER modifier for rolls to hit with
 ranged weapons. In taking this feat you sacrifice the ability to use PER on 
 rolls dealing with using a weapon.
 
-POTENTIALLY REMOVE
-	Improvise Weapon:
-	Prerequisites: Skill [Melee Combat] at 20
-	You do not take a penalty when using an improvised weapon. Chair legs can be 
-	used as bats, fan blades as swords, etc., etc.
+Improvise Weapon:
+Prerequisites: Skill [Melee Combat] at 20
+You do not take a penalty when using an improvised weapon. Chair legs can be 
+used as bats, fan blades as swords, etc., etc.
 
 Last Shot Counts: 
 Prerequisites: PER 5
@@ -229,7 +230,6 @@ hammered. On hits that land while you are buzzed or hammered, you deal extra
 damage equal to your strength modifier.These bonuses only apply to melee 
 attacks. You also get a +10% on rolls to avoid blacking out.  
 
-
 Point-man: 
 Prerequisites: PER 6
 Maybe you've been a point-man for a long time, maybe you don't mind the
@@ -247,7 +247,6 @@ Prerequisites: DEX 5
 As a free action, draw your chosen weapon(s) into firing position. If you are 
 holding something, you can drop it and still draw your weapon as a free 
 action. However, you might not want to drop anything glass. Or any explosives.
-
 
 Rainman: 
 Prerequisites: CHA <=2 and INT >=8
@@ -386,7 +385,7 @@ be taken once. Investor can be used twice, but only once every 5 levels.
 
 Weapon Familiarization (can be taken once): 
 Prerequisites: INT 7 & 10 Weapon Use(x) 
-				-where x is the weapon type that the weapon falls under
+				-where x is the weapon type that the weapon falls under.
 Remove 1.5 ranged miss chance from any one weapon model. If you spend 30 hours
 studying/using/practicing with a different gun (that you have at least 10 
 Weapon Use skill in using), you can change which gun you are most familiar 
@@ -488,9 +487,9 @@ Proficient: Explosives
 	40:	Explosives Master. +15% Base damage, Gain feat "Get Down!": Allies in blast radius 
 		may make a DC 60 Reflex save to take half damage (before armor) from friendly fire.			
 
-====================
+==============================
 Active Feats
-====================
+==============================
 
 Adrenaline Rush [4*X Nanites]: 
 Prerequisites:
@@ -578,9 +577,9 @@ Prerequisites: Level 10, Twitch
 You may aim at an enemy as a free action instead of one action. Only 
 works with CQB weapons. No Miss Chance penalty.
 
-====================
+==============================
 Primary Stat Bonus Feats
-====================
+==============================
 These feats cannot be bought. They are granted for free if you fulfill their prerequisites.
 
 Lucky: 
@@ -644,18 +643,18 @@ you have 14 Charisma*
 			up for up to +25 hitpoints. If >5 heal one wound for up to +40 hitpoints. In 
 			addition, purge 1 damage-over-time debuff (such as Plasma Burn or Poison).
 				
-//===================================================================
-//Copyright 2016 Taylor Rowland
-//
-//Licensed under the Apache License, Version 2.0 (the "License");
-//you may not use this file except in compliance with the License.
-//You may obtain a copy of the License at
-//
-//   http://www.apache.org/licenses/LICENSE-2.0
-//
-//Unless required by applicable law or agreed to in writing, software
-//distributed under the License is distributed on an "AS IS" BASIS,
-//WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-//See the License for the specific language governing permissions and
-//limitations under the License.
-//===================================================================
+===================================================================
+Copyright 2016 Taylor Rowland
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+===================================================================
