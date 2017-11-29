@@ -1,6 +1,7 @@
-//============================================================
+==============================
 Human
-Society:
+==============================
+===== Society =====
 Humans are the most common sentient species in ECSC. While most belong to the 
 empire that is centered near their home planet, many other cultures and sub 
 cultures dot the surrounding systems ranging from corporations to patriarchies 
@@ -12,14 +13,15 @@ Starting Stat Points: 42
 Stat Modifiers:	
 +2 stat points to spend at level 1
 Language: 	Emperial Common, +1 dialect
-Racial Traits:	
+===== Racial Traits =====	
 None
 
-//============================================================
+==============================
 Tundari
+==============================
 Society: Tribal system, lead by a council of elders.
 
-Homeworld: Tundaaari
+===== Homeworld: Tundaaari =====
 A dry, searingly hot planet covered in planes and deserts. 70% of the planet 
 is covered in water. The planet's axis of rotation is more or less upright 
 relative to its binary star system. The North pole points more towards the 
@@ -27,7 +29,7 @@ suns, and as such is a cooked wasteland, while the south pole is left in a
 more temperate, jungle climate. 90% of the annual rainfall on the planet 
 occurs on this jungly southern continent.
 
-Native Species: Tundarin
+===== Native Species: Tundarin =====
 This Feline-esque species is covered in a soft, short fur ranging in many 
 colors, from browns, to oranges, blacks, grays, etc. And a multitude of patterns
 (striped, splotched, dotted, etc.). They have whiskers, and very sharp teeth. 
@@ -35,7 +37,8 @@ Their eyesight is very good, and they have low-light vision. Their build is
 generally more slender and graceful, but there have been bulkier Tundarin 
 observed.
 
-Society: Tribal with leading council of elders
+===== Society: =====
+Tribal with leading council of elders.
 The planet as a whole is unified under the banner of space exploration. there 
 are many nation-states coming from historical tribes. Each nation-state is led 
 by a council of elders, and a head elder is elected from each council to sit 
@@ -61,7 +64,7 @@ Starting Stat Points: 40
 Stat Modifiers: Flexible - +1 DEX, +1 to PER
 Language: Racial + ECSC Standard
 
-Racial Traits:
+===== Racial Traits =====
 Camouflage: Choose a natural terrain type (Jungle, mountain, plains, desert, 
 arctic, urban, etc.). While in this terrain you have a +20% buff to 
 stealth.
@@ -72,9 +75,11 @@ requires dim light to see well.
 Sprinter - +1m movement speed when charging, retreating,  or otherwise moving 
 under pressure.
 
-//============================================================
+==============================
 Detachment A Security Drone
-Society: Slave soldiers. Squad families.
+==============================
+===== Society ===== 
+Slave soldiers. Squad families.
 Security Drones are specialized drones that have been granted a greater AI 
 capacity to learn and think independently. They are native to ECSC Compound X 
 experimentation laboratory.
@@ -93,7 +98,7 @@ Starting Stat Points: 40
 Stat Modifiers: INT + 1, FORT + 2. LUCK -3.
 Language: Basic
 
-Racial Traits:
+===== Racial Traits =====
 Robotic: Does not need to eat, breath, or sleep. Must spend 6 hours to 
 recharge after a 24 hour period. this can be done via a self-contained 
 reactor. Not affected by mind-influence, susceptible to hack attempts.
@@ -104,10 +109,12 @@ creation. This is considered a Class skill.
 Immune to: poison, cannot be intoxicated.
 Weakness (Electrical): Electrical damage deals an additional 50% damage.
 
-//============================================================
+==============================
 Cyborg
+==============================
 
-Society: Cybernetics advanced rapidly over the last 200 years, and it is not 
+===== Society ===== 
+Cybernetics advanced rapidly over the last 200 years, and it is not 
 uncommon to see Cyborgs walking amongst crowds. Most of society looks down on 
 their augmented brethren, and in some places they are outcasts completely. Be 
 warned if you take this race, you will be discriminated against at some point.
@@ -120,7 +127,7 @@ Starting Stat Points: 40
 Stat Modifiers: See Below
 Language: ECSC Standard
 
-Racial Traits:
+===== Racial Traits =====
 Pick any three augments (you may take a single augment no more than 2 times, 
 or a combination of multiple augments. For example Occular Augment and Speed 
 Geared Fine Motor Controls II might help a melee fighter increase both damage 
@@ -155,8 +162,9 @@ Once at level 3, and every 5 levels thereafter a Cyborg may purchase an
 additional augment at the cost of $2000. They must see a cybernetics expert to
 have this augment installed.
 
-//============================================================
+==============================
 Opaleite
+==============================
 
 Opaleites are so named by the humans who encountered them for the way the light diffracts in their large irises, giving the impression of an opal. A wide-eyed amphibious species that prefers to live entirely in the water. They come in a diverse set of body types and colors depending on where they live and which family they come from. The carry a double set of gills, one set in the neck and one set beneath the lungs that can be closed and sealed, much like the ears and nostrils of aquatic mammals. Unlike their mammalian counterparts, these people can function both underwater and above water. When in the water, the lungs merely act as a bypass for the water running through the gills and gives it a way to exit; while outside of the water, the gill flaps close and the lungs function as mammals’ do. They are incredibly sensitive to sunlight, and burn very easily when not in the water. 
     Native to the once Ocean planet Trioch II, these beings evolved to the changing of their planet as a massive solar flare from their star shifted the magnetic fields holding in the atmosphere were shaken and ultimately disrupted, causing the oceans to begin evaporating. With their oceans slowly dissipating through the leak in the atmosphere, they have begun migrating to the nearby Trioch IV, also mostly oceanus, which is out of immediate danger from the star. Now, they live in both the oceans and the well-shaded estuaries on Trioch IV. A few stubborn stragglers remain on Trioch II, which is slowly becoming a sandy, dry wasteland with very little atmosphere. 
