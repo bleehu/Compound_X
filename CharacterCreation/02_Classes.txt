@@ -1,25 +1,44 @@
-Core classes:
-/*====================================================
- * Your character starts at level 0. At level 0 you have skills, but no class, 
- * class feats or regular feats.
- * At level 1 you get to select a class, and receive the class passives. 
- * However, you do not select a class feat until level 5. Then, at levels 10, 15, and 20
- * you can gain another class feat.
- *
- * For any listed class, if it says "Gain X Skill at 10" that means you get
- * to add the X skill to your skill list. For more on Skills, see 
- * RP / Using Skills Section of Basic Rules.txt. 
- *==================================================*/
+==============================
+Core Classes
+==============================
+
+	Your character starts at level 0. At level 0 you have skills, but no class, 
+class feats or regular feats. At level 1 you get to select a class, and receive 
+the class passives. However, you do not select a class feat until level 5. Then, 
+at levels 10, 15, and 20 you can gain another class feat.
+
+	For any listed class, if it says "Gain X Skill at 10" that means you get to 
+add the X skill to your skill list. For more on Skills, see "RP / Using Skills" 
+Section of Basic Rules.txt. 
+
 
 =====   SOLDIER   =====
-You have the blood of a warrior flowing through you. Your sole 
-purpose is to fight until the threat is neutralized.
+
+	You have the blood of a warrior flowing through you. Your sole purpose is to 
+fight until the threat is neutralized.
+
 Class Primary Attribute: Strength
-Passives: Gain Skill Weapon Use[X] at 10, Gain a +15 to Rolls for initiative. (You go first more often).
-Weapon Proficiencies: Pistols, Submachine Guns, Shotguns, Carbines, Assault Rifles, Battle Rifles.
-Armor Proficiencies: Light, Medium, Medium-Heavy.
 Starting Wealth: $3770 + 100*Luck
-Class Feats:
+
+
+Passives: 
+* Gain Skill Weapon Use[X] at 10 
+* Gain a +15 to Rolls for initiative. (You go first more often).
+
+Weapon Proficiencies: 
+* Pistols 
+* Submachine Guns 
+* Shotguns 
+* Carbines
+* Assault Rifles
+* Battle Rifles.
+
+Armor Proficiencies: 
+* Light
+* Medium
+* Medium-Heavy
+
+== Class Feats ==
 	----------------------
 	Battle Adrenaline [25 Nanites] -
 	Significant past training or combat experience has given you honed battle reactions, 
@@ -57,16 +76,32 @@ Class Feats:
 
 
 =====   SPECIALIST   =====
-There is always a need for the type of person willing and able 
-to bring the heaviest of fire down upon their enemies. The Specialist will be 
-there when the odds are stacked highest against the forces for good, and he'll 
-be prepared to use heavy force to even those odds.
+	There is always a need for the type of person willing and able to bring the 
+heaviest of fire down upon their enemies. The Specialist will be there when the 
+odds are stacked highest against the forces for good, and he'll be prepared to 
+use heavy force to even those odds.
+
 Class Primary Attribute: Strength
-Passives: Gain Skill [Thrown Weapons] OR [Explosives] at 10.
-Weapon Proficiencies: Pistols, Carbines, Machine Guns, Heavy Weapons, Rocket Launchers.
-Armor Proficiencies: Concealed, Light, Medium, Medium-Heavy, Heavy.
 Starting Wealth: $4150 + 100*Luck
-Class Feats:
+
+Passives: 
+* Gain Skill [Thrown Weapons] OR [Explosives] at 10.
+
+Weapon Proficiencies: 
+* Pistols
+* Carbines
+* Machine Guns
+* Heavy Weapons
+* Rocket Launchers
+
+Armor Proficiencies: 
+* Concealed
+* Light
+* Medium
+* Medium-Heavy
+* Heavy
+
+== Class Feats ==
 	----------------------
 	Needs More Dakka [15 Nanites] -
 	Sometimes, a situation just calls for more bullets. You're good at that. 
@@ -97,17 +132,36 @@ Class Feats:
 =====   DOCTOR   =====
 You know how or why something works [most likely humans / humanoid bodies), 
 and put that knowledge to good use by supporting your team.
+
 Class Primary Attribute: Dexterity
-Passives: Gain skill [Anatomy] at 5, skill [Pathology] at 5, and skill [medicine] at 10. 
-Every level, you gain one skill in both of the "Hippocratic" and "malpractice" skill trees.
-At level 1 you start with an arm mounted needle launcher, handheld pathogen synthesizer, 
-field dressing applicator and a package of ten needles. You start each encounter with 
-200 adrenaline points and will need to keep track of adrenaline points, needles and 
-contagion points during a combat scenario.  
-Weapon Proficiencies: Pistols, Submachine Guns, Shotguns.
-Armor Proficiencies: Concealed, Recon, Light, Medium.
 Starting Wealth: $2670 + 100*Luck
-Class Feats:
+
+Passives:
+* Skill [Anatomy] at 5
+* Skill [Pathology] at 5
+* Skill [medicine] at 10. 
+
+	Every level, you gain one skill in both of the "Hippocratic" and 
+"Malpractice" skill trees. At level 1 you start with an arm mounted needle 
+launcher, hand held pathogen synthesizer, field dressing applicator and a package 
+of ten needles. You start each encounter with 200 adrenaline points and will 
+need to keep track of adrenaline points, needles and contagion points during a 
+combat scenario. 
+
+Weapon Proficiencies: 
+* Pistols
+* Submachine Guns
+* Shotguns
+
+Armor Proficiencies: Concealed
+
+* Recon
+
+* Light
+
+* Medium.
+
+== Class Feats ==
 	----------------------
 	Adrenaline Junkie - 
 	You thrive on the stress of being shot at while trying to save someone's life.
@@ -129,22 +183,37 @@ Class Feats:
 
 
 =====   ENGINEER   =====
-You solve problems. For instance, you know how to stop some mean 
+	You solve problems. For instance, you know how to stop some mean 
 mutha-hubbard from tearin' you and your team a structurally superfluous new 
 behind. You know how to fix engines, machines, circuits, you name it. And when 
 you're not busy fixing what other people broke, you get to work on making new 
 stuff. Which some knucklehead will probably, eventually, break too.
+
 Class Primary Attribute: Intelligence
-passives: Gain Skill [Repair] at 10. Every level, you get one Process point in 
-each of the "repair" and "build" skill trees.  At the beginning of an engagement,
-you start with only half of your Nanites, but you may accrue up to 600 Nanites max.
-You also start with 2 permanent control points, which enable control over any 
-automatons you construct.
-At level 6, the Feat "With Friends Like These . . ." is automatically unlocked.
-Weapon Proficiencies: Pistols, Shotguns, Carbines
-Armor Proficiencies: Concealed, Recon, Light, Medium.
 Starting Wealth: $2580 + 100*Luck
-Class Feats: 
+
+passives: 
+* Gain Skill [Repair] at 10. 
+* 2 Control Points
+
+	Every level, you get one Process point in each of the "repair" and "build" 
+skill trees.  At the beginning of an engagement, you start with only half of 
+your Nanites, but you may accrue up to 600 Nanites max.
+
+	At level 6, the Feat "With Friends Like These . . ." is automatically unlocked.
+
+Weapon Proficiencies: 
+* Pistols
+* Shotguns
+* Carbines
+
+Armor Proficiencies: 
+* Concealed
+* Recon
+* Light
+* Medium
+
+== Class Feats == 
 	-----------------------
 	A little Controlling - 
 	You gain an additional permanent control point
@@ -167,15 +236,26 @@ Class Feats:
 
 
 =====   PRIEST   =====
-You've lived your life in the deepest recesses of the holonet, and have come out 
-alive and strong. You can figure out how a security system works, hack into systems,
-or even hack your allies' Nanites to perform better.
+	You've lived your life in the deepest recesses of the holonet, and have come 
+out alive and strong. You can figure out how a security system works, hack into 
+systems, or even hack your allies' Nanites to perform better.
+
 Class Primary Attribute: Intelligence
-Passives: Gain Skill [Hacking] at 10 OR Gain Skill Knowledge[NANITES] at 10
-Weapon Proficiencies: Pistols, Submachine Guns.
-Armor Proficiencies: Concealed, Recon, Light, Medium.
 Starting Wealth: $2750 + 100*Luck
-Class Feats:
+
+Passives: 
+* Gain Skill [Hacking] at 10 OR Gain Skill Knowledge[NANITES] at 10
+
+Weapon Proficiencies: 
+* Pistols
+* Submachine Guns.
+
+Armor Proficiencies: Concealed
+* Recon
+* Light
+* Medium.
+
+== Class Feats ==
 	----------------------
 	Exploit weakness -
 	You have a basic understanding of networks and computers, and can hack your 
@@ -203,15 +283,29 @@ Class Feats:
 
 
 =====   PILOT   =====
-You have a yearning to test the limits of the vehicles you operate. 
-The boundaries of speed and maneuvering were meant to be broken - by you.
+	You have a yearning to test the limits of the vehicles you operate. The 
+boundaries of speed and maneuvering were meant to be broken - by you.
+
 Class Primary Attribute: Dexterity
-Passives: Gain Skill [Piloting] at 10.
-At level 6, the Feat ". . . Who Needs Nano-Technologies" is automatically unlocked.
-Weapon Proficiencies: Pistols, Submachine Guns, Shotguns.
-Armor Proficiencies: Concealed, Recon, Light, Medium.
 Starting Wealth: $2670 + 100*Luck
-Class Feats:
+
+Passives: 
+* Gain Skill [Piloting] at 10.
+
+At level 6, the Feat ". . . Who Needs Nano-Technologies" is automatically unlocked.
+
+Weapon Proficiencies: 
+* Pistols
+* Submachine Guns
+* Shotguns.
+
+Armor Proficiencies: 
+* Concealed
+* Recon
+* Light
+* Medium.
+
+== Class Feats ==
 	----------------------
 	Planes, Trains, Automobiles -
 	This is sorta familiar to something you once saw, or rode on. Maybe? 
@@ -236,16 +330,33 @@ Class Feats:
 
 
 =====   ADEPT   =====
-Your specialized skills with technology are combined with battle 
-training, providing you an edge in combat situations.
+	Your specialized skills with technology are combined with battle training, 
+providing you an edge in combat situations.
+
 Class Primary Attribute: Strength
-Passives: Gain +50 Maximum Nanites. Gain a permanent Class A Electron Shield 
-unit that is implanted in your body:
-Recharge Rate/Turn: 50, Fast Recharge Nanites: 25, Shield Restart Time: 1 Turn
-Weapon Proficiencies: Pistols, Submachine Guns, Carbines.
-Armor Proficiencies: Concealed, Recon, Light, Medium.
 Starting Wealth: $2652 + 100*Luck
-Class Feats:
+
+Passives: 
+* Gain +50 Maximum Nanites 
+* Gain a permanent Class A Electron Shield 
+
+	The Electron Shield unit is implanted in your body and has the following stats: 
+Recharge Rate/Turn: 50
+Fast Recharge Nanites: 25
+Shield Restart Time: 1 Turn
+
+Weapon Proficiencies: 
+* Pistols
+* Submachine Guns
+* Carbines.
+
+Armor Proficiencies: 
+* Concealed
+* Recon
+* Light
+* Medium
+
+== Class Feats ==
 	----------------------
 	Energy Burst [X Nanites] -
 	For 1 Action, you can emanate a short burst of Nanite induced energy. This energy can be 
@@ -274,21 +385,37 @@ Class Feats:
 
 
 =====   HUNTER   =====
-An expert tracker, you're the one hired when someone wants 
-something found. Expertly trained in manipulating your Nanites to aid in 
-pursuit of a quarry, or in marking enemies for execution.
+	An expert tracker, you're the one hired when someone wants something found. 
+Expertly trained in manipulating your Nanites to aid in pursuit of a quarry, or 
+in marking enemies for execution.
+
 Class Primary Attribute: Perception
-Passives: Gain skill [Tracking] at 10. Purchase your first primary cloaking module at a $1500 discount. 
-At level 3 and above as a Hunter, Cloaking's Nanite Activation cost is reduced by 4.
+Starting Wealth: $3290 + 100*Luck
+
+Passives: 
+* Gain skill [Tracking] at 10
+* Purchase your first primary cloaking module at a $1500 discount
+* Cloaking's Nanite Activation cost is reduced by 4 after level 3
+* Gain Ability "Mark Quarry" Detailed below
+
 Gain Ability "Mark Quarry": Lvl/2+1 Uses per day - As a free action, expend 20 nanites to Mark 
 a visible target. You must be able to visibly see the target or something the target is wearing. 
 The target leaves a trail that you can see and is 10% easier to track for the next hour.
 At level 5, leaves a trail for the next 24 hours.
 NOTICE: SEE SECTION "CLOAKING" IN THE "BASIC RULES" DOCUMENT FOR MORE INFORMATION ON CLOAKING.
-Weapon Proficiencies: Pistols, Shotguns, Carbines, Long Rifles.
-Armor Proficiencies: Cloaking, Concealed, Recon, Light.
-Starting Wealth: $3290 + 100*Luck
-Class Feats:
+
+Weapon Proficiencies: 
+* Pistols
+* Shotguns
+* Carbines
+* Long Rifles
+
+Armor Proficiencies: Cloaking
+* Concealed
+* Recon
+* Light
+
+== Class Feats ==
 	----------------------
 	Hunter Vision - Lvl/2 uses per day
 	Your breathing calms, as time appears to slow down. Your vision turns into 
@@ -318,22 +445,39 @@ Class Feats:
 
 
 =====   PALADIN   =====
-You are a righteous warrior, vetted and trained by one of the 
-powerful corporations or some other technologically advanced entity. You seek 
-to uphold the principals which define the group you've sworn allegiance to. 
-Through this devotion you have been granted access to high tech in order to 
-pursue your goals and missions.
+	You are a righteous warrior, vetted and trained by one of the powerful 
+corporations or some other technologically advanced entity. You seek to uphold 
+the principals which define the group you've sworn allegiance to. Through this 
+devotion you have been granted access to high tech in order to pursue your goals 
+and missions.
+
 Class Primary Attribute: Fortitude
-Passives: Add 25 + 5 per level to your maximum Nanite pool.
-Terms and Conditions clause compliance, access to Paladin Spell tree
-at level 3. By adhering to the Terms and Conditions, a Paladin gains an amount 
-of Favor within their church and can unlock new paladin spells by spending 
-Favor. Starting at level 3, a Paladin gains Favor equal to their Charisma each 
-level. Favor does not have to be spent, and can be saved up to learn more 
-potent prayers and spells. Gain Skill [Knowledge[Nanites]] at 10
-Weapon Proficiencies: Pistols, Submachine Guns, Carbines, Assault Rifles, Long Rifles.
-Armor Proficiencies: Recon, Light, Medium, Medium-Heavy.
 Starting Wealth: $3130 + 100*Luck
+
+Passives: 
+* Add 25 + 5 per level to your maximum Nanite pool.
+* Gain Skill Knowledge[Nanites] at 10
+
+	Terms and Conditions clause compliance, access to Paladin Spell tree at 
+level 3. By adhering to the Terms and Conditions, a Paladin gains an amount of 
+Favor within their church and can unlock new paladin spells by spending Favor. 
+Starting at level 3, a Paladin gains Favor equal to their Charisma each level. 
+Favor does not have to be spent, and can be saved up to learn more potent 
+prayers and spells.
+
+Weapon Proficiencies: 
+* Pistols
+* Submachine Guns
+* Carbines
+* Assault Rifles
+* Long Rifles
+
+Armor Proficiencies:
+* Recon
+* Light
+* Medium
+* Medium-Heavy
+
 Feats:
 	----------------------
 	Portable Shield:
@@ -362,21 +506,49 @@ Feats:
 
 =====   GUNSLINGER   =====
 [Insert cool tasty text about John Woo]
+
 Class Primary Attribute: Perception
-Passives: Gain Feat "Predictive Gun-Fighting": Gain Miss Chance Defense at 
-	[Reflex Save + Weapon Reflex*]/10 (drop the remainder). If you are behind cover,
-	you must choose to either use your cover's defense rating or the defense provided 
-	by this feat, you cannot use both. Gain +1 additional defense at level 10. This
-	feat's defense bonus DOES stack with crouching or prone if you aren't behind cover.
-	You can have a MAX of 5 Miss Chance Defense from this feat.
-	*(If dual wielding, use the larger of the two Weapon Reflexes).
-[THE FOLLOWNG PASSIVES ONLY APPLY TO PISTOLS]
-Choose two bonuses and one weakness:
-    - Bonuses: +10 Dam, +8m R3 Range Bracket, -1 Miss Chance, +1 rds in mag, +2 mags carried;
-    - Weaknesses: -10 Dam, -8m R3 Range Bracket, +1 Miss Chance, -1 rds in mag, -2 mags carried;
-Weapon Proficiencies: Pistols.
-Armor Proficiencies: Concealed, Recon, Light.
 Starting Wealth: $1975 + 100*Luck
+
+Passives: 
+* Gain Feat: Predictive Gun-fighting
+* Gain 2 Pistol Bonuses
+* Gain 1 Pistol Weakness
+
+	"Predictive Gun-Fighting": Gain Miss Chance Defense at [Reflex Save + Weapon 
+Reflex*]/10 (drop the remainder). If you are behind cover, you must choose to 
+either use your cover's defense rating or the defense provided by this feat, you 
+cannot use both. Gain +1 additional defense at level 10. This feat's defense 
+bonus DOES stack with crouching or prone if you aren't behind cover. You can 
+have a MAX of 5 Miss Chance Defense from this feat.
+*(If dual wielding, use the larger of the two Weapon Reflexes).
+	
+
+	Choose two bonuses and one weakness. These Bonuses and Weaknesses apply only
+to Pistols. 
+
+Pistol Bonuses: 
+* +10 Dam
+* +8m R3 Range Bracket
+* -1 Miss Chance
+* +1 rds in mag
+* +2 mags carried;
+
+Pistol Weaknesses:
+* -10 Dam
+* -8m R3 Range Bracket
+* +1 Miss Chance
+* -1 rds in mag
+* -2 mags carried
+
+Weapon Proficiencies:
+* Pistols
+
+Armor Proficiencies:
+* Concealed
+* Recon
+* Light
+
 Feats:
 	----------------------
 	Heightened Alertness -
@@ -407,32 +579,44 @@ Feats:
 ======================================
 
 =====   ASSASSIN   =====
-The galaxy is a dangerous place for those who would believe their power or 
+	The galaxy is a dangerous place for those who would believe their power or 
 influence are limitless. The assassin lurks in the shadows, either as a lone
 force of justice, or as part of a larger organization. They have rightfully 
 earned the title of Galaxy's greatest Hand-to-Hand Fighters.
+
 Class Primary Attribute: Dexterity
+Starting Wealth: $1975 + 100*Luck
+
 Passives:
-	No penalty for engaging in Grappling maneuvers. Gain Skill [Melee Combat] at 10.
-Gain Hand-to-Hand Trained. Gain bonus cloaking time when using other cloaking devices 
-besides the Shadow Cloak.
+* No penalty for engaging in Grappling maneuvers.
+* Gain Skill [Melee Combat] at 10
+* Gain Hand-to-Hand Trained. 
+* Gain bonus cloaking time when using other cloaking devices besides the Shadow Cloak.
+
 	Assassins wear a Shadow Cloak, which allows them to become a mere silhouette.
 Shadow Cloaks attempt to cloak* the assassin at all times** with a Detect DC of 
 10 + skill [Stealth] and a moving Detect DC of 0 + skill [Stealth]. When in partial 
 darkness or darker, the Detect and Moving Detect DC increases by 10. In the darkness,
 a skilled assassin won't be seen, even when being looked at. However, in daylight,
 even the most skilled assassin can be seen if their silhouette is carelessly shown.
-	*The Shadow Cloak does not follow typical cloaking rules, it doesn't make you as 
-	invisible as a more powerful cloaking device, but it does allow you to hide in 
-	plain sight. There is no Nanite Activation Cost, Nanite upkeep, or Cloak Turns 
-	as the Shadow Cloak is special item. 
-	**Except when attacking: you must wait until the start of the following turn 
-	before the cloak resumes. 
-NOTE: For more information on Cloaking and Cloaking modules, see section, "Cloaking" in 
-the basic rules.
-Weapon Proficiencies: Pistols
-Armor Proficiencies: Cloaking, Concealed, Recon, Light.
-Starting Wealth: $1975 + 100*Luck
+*The Shadow Cloak does not follow typical cloaking rules, it doesn't make you as 
+invisible as a more powerful cloaking device, but it does allow you to hide in 
+plain sight. There is no Nanite Activation Cost, Nanite upkeep, or Cloak Turns 
+as the Shadow Cloak is special item. 
+**Except when attacking: you must wait until the start of the following turn 
+before the cloak resumes. 
+
+	NOTE: For more information on Cloaking and Cloaking modules, see section, 
+"Cloaking" in the basic rules.
+
+Weapon Proficiencies: 
+* Pistols
+
+Armor Proficiencies: Cloaking
+* Concealed
+* Recon
+* Light
+
 Feats:
 	----------------------
 	Shadowy Assassin -
@@ -463,15 +647,28 @@ Feats:
 ======================================
 
 =====   MARKSMAN   =====
-Your expert knowledge of bullet ballistics, feel for physics and 
-keen eyes have given you insight into the art of precision warfare.
+	Your expert knowledge of bullet ballistics, feel for physics and keen eyes 
+have given you insight into the art of precision warfare.
+
 Class Primary Attribute: Perception
-Passives: Gain skill [Sniper] at 10, Gain skill [Spot] at 10.
-Gain feat "Skilled Overwatch": Held firing actions have +20 bonus damage.
-Weapon Proficiencies: Pistols, Carbines, Long Rifles.
-Armor Proficiencies: Concealed, Recon, Light.
 Starting Wealth: $3190 + 100*Luck
-Class Feats:
+
+Passives:
+* Gain skill [Sniper] at 10
+* Gain skill [Spot] at 10.
+* Gain feat "Skilled Overwatch": Held firing actions have +20 bonus damage.
+
+Weapon Proficiencies:
+* Pistols
+* Carbines
+* Long Rifles.
+
+Armor Proficiencies:
+* Concealed
+* Recon
+* Light
+
+== Class Feats ==
 	----------------------
 	Pin Target
 	If you fire at a target that is in cover, you can choose to "Pin" the target. Only 1 target may be
@@ -512,15 +709,28 @@ Class Feats:
 ======================================
 
 =====   BESERKER   =====
-As an aficionado of the combat arts, you understand how important tactile feedback 
-is. Guns simply don't offer the appropriate amount, which is why you prefer to 
-BEAT YOUR ENEMIES TO DEATH USING YOUR BARE HANDS WHENEVER POSSIBLE!!!!!!!!!!!!!!!!!!!! MORE EXCLAMATION MARKS!!!!!!!!!!!!!!!! 
+	As an aficionado of the combat arts, you understand how important tactile 
+feedback is. Guns simply don't offer the appropriate amount, which is why you 
+prefer to BEAT YOUR ENEMIES TO DEATH USING YOUR BARE HANDS WHENEVER 
+POSSIBLE!!!!!!!!!!!!!!!!!!!! MORE EXCLAMATION MARKS!!!!!!!!!!!!!!!! 
+
 Class Primary Attribute: Strength
-Passives: Expert Unarmed
-Weapon Proficiencies: Pistols.
-Armor Proficiencies: Concealed, Recon, Light, Medium, Medium-Heavy.
 Starting Wealth: $2170 + 100*Luck
-Class Feats:
+
+Passives:
+* Gain Expert in Unarmed
+
+Weapon Proficiencies:
+* Pistols.
+
+Armor Proficiencies:
+* Concealed
+* Recon
+* Light
+* Medium
+* Medium-Heavy
+
+== Class Feats ==
 	----------------------
 	Blood Rage -
 	You gain a permanent 30 health. In addition, you deal an extra point of melee 
@@ -547,26 +757,39 @@ Class Feats:
 
 
 =====   MONK   =====
-Head to any secluded Temple and you'll find many Monks studying the
-ancient texts and learning about sacred objects. Of these holy disciples, 
-a few are trained to defend the Temple in case of attack. All Monks take an 
-Oath to not utilize "lesser" technologies [guns, armor, and even Nanite 
-packs.], for only through embracing the Higher Technologies can one Advance 
-oneself to the planes of the Great Ones.
+	Head to any secluded Temple and you'll find many Monks studying the ancient 
+texts and learning about sacred objects. Of these holy disciples, a few are 
+trained to defend the Temple in case of attack. All Monks take an Oath to not 
+utilize "lesser" technologies [guns, armor, and even Nanite packs.], for only 
+through embracing the Higher Technologies can one Advance oneself to the planes 
+of the Great Ones.
+
 Class Primary Attribute: Dexterity
-Passives: No penalty for engaging in Grappling maneuvers. Gain Hand-to-hand Expert.
-+20 damage to unarmed non-lethal attacks, +10 damage to unarmed lethal attacks. 
-At level 5, and again at level 15, all monks must head back to their home temple 
-or seek a wise master to learn more advanced techniques. Until this training 
-has been completed, a monk cannot proceed to the next level. 
-Start with a "Monk's Aura Shield", which reduces incoming damage by 20 (increases to
-40 at level 5), regardless of type. Cost 100 Nanites to activate the shield.
-Activation is a free action. Each shield lasts for one encounter.
-Monks mediate during short rests instead of sleeping.
-Weapon Proficiencies: None.
-Armor Proficiencies: None.
 Starting Wealth: $0 (assume basic robe and communicator)
-Class Feats:
+
+Passives:
+* No penalty for engaging in Grappling maneuvers.
+* Gain Hand-to-hand Expert.
+* +20 damage to unarmed non-lethal attacks
+* +10 damage to unarmed lethal attacks. 
+
+	At level 5, and again at level 15, all monks must head back to their home 
+temple or seek a wise master to learn more advanced techniques. Until this 
+training has been completed, a monk cannot proceed to the next level. 
+
+	Start with a "Monk's Aura Shield", which reduces incoming damage by 20 
+(increases to 40 at level 5), regardless of type. Cost 100 Nanites to activate 
+the shield. Activation is a free action. Each shield lasts for one encounter.
+
+	Monks mediate during short rests instead of sleeping.
+
+Weapon Proficiencies:
+* None
+
+Armor Proficiencies: 
+* None
+
+== Class Feats ==
 	----------------------
 	Elemental Strike -
 	Choose a type from the following list, and deal that type to your
