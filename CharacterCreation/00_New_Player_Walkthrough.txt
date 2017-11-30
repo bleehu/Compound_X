@@ -42,6 +42,6 @@ can engage in any mid-range combat. If money permits you may also want a sidearm
 quarters fighting.
 
 ## Step 7: Equipment
-Any remaining moneys you have can be spent on miscellaneous equipment from the [Items](https://github.com/bleehu/Compound_X/blob/play/CharacterCreation/07_Items.txt) document. Take whatever items you
+Any remaining credits you have can be spent on miscellaneous equipment from the [Items](https://github.com/bleehu/Compound_X/blob/play/CharacterCreation/07_Items.txt) document. Take whatever items you
 find that fit your character's aesthetic. We recommend on gneral principles always having a communicator of some type 
 and if money permits a medkit/repair kit or two, depending on whether your race is organic or robotic.
