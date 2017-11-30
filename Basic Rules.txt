@@ -100,6 +100,10 @@ Making a character is a slightly involved process that can take a new player
 up to two hours to fully flesh out. There are several parts of characters which
 are detailed below, but let's list them here briefly before we get into the 
 nitty-gritty of it.
+If you want some extra guidance after reading through the sections below, see
+the 00_New_Player_Walkthrough.txt document in CharacterCreation. Following its
+steps will give you a customized, relatively low-complexity character that 
+will help you learn to play the rest of Compound X.
 
 Base Stats - These decide what raw characteristics make up your character, and 
 	are factored into most other decisions you make both in game and for the 

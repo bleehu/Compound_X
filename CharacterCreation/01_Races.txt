@@ -52,7 +52,6 @@ As far as the war goes, the Tundarin have been more peaceful towards humans,
 and have recently opened trade routes with the humans. While uncommon, 
 Tundarin have been known to mingle with humans on occasion. Those who do have 
 an understanding of Human Basic.
-Favored classes: Hunter, Assassin, Monk.
 
 Type: humanoid
 Size: Medium
@@ -84,8 +83,6 @@ or Flat Grey, or Flat Black. They have a single ocular sensor situated on a
 smallish square head. They generally stand somewhere in the 6 foot to 7 foot 
 range, and weigh between 400 and 700 pounds.
 
-Favored Class: Marksman, Soldier, Adept, Priest, Mechanic.
-
 Type: Cybernetic
 Size: Medium+
 Speed: Normal
@@ -112,7 +109,6 @@ uncommon to see Cyborgs walking amongst crowds. Most of society looks down on
 their augmented brethren, and in some places they are outcasts completely. Be 
 warned if you take this race, you will be discriminated against at some point.
 
-Preferred Classes: Any
 Type: Enhanced Organic.
 Size: Medium
 Speed: Normal+
@@ -158,11 +154,31 @@ have this augment installed.
 //============================================================
 Opaleite
 
-Opaleites are so named by the humans who encountered them for the way the light diffracts in their large irises, giving the impression of an opal. A wide-eyed amphibious species that prefers to live entirely in the water. They come in a diverse set of body types and colors depending on where they live and which family they come from. The carry a double set of gills, one set in the neck and one set beneath the lungs that can be closed and sealed, much like the ears and nostrils of aquatic mammals. Unlike their mammalian counterparts, these people can function both underwater and above water. When in the water, the lungs merely act as a bypass for the water running through the gills and gives it a way to exit; while outside of the water, the gill flaps close and the lungs function as mammals’ do. They are incredibly sensitive to sunlight, and burn very easily when not in the water. 
-    Native to the once Ocean planet Trioch II, these beings evolved to the changing of their planet as a massive solar flare from their star shifted the magnetic fields holding in the atmosphere were shaken and ultimately disrupted, causing the oceans to begin evaporating. With their oceans slowly dissipating through the leak in the atmosphere, they have begun migrating to the nearby Trioch IV, also mostly oceanus, which is out of immediate danger from the star. Now, they live in both the oceans and the well-shaded estuaries on Trioch IV. A few stubborn stragglers remain on Trioch II, which is slowly becoming a sandy, dry wasteland with very little atmosphere. 
+Opaleites are so named by the humans who encountered them for the way the light 
+diffracts in their large irises, giving the impression of an opal. A wide-eyed 
+amphibious species that prefers to live entirely in the water. They come in a 
+diverse set of body types and colors depending on where they live and which 
+family they come from. The carry a double set of gills, one set in the neck and 
+one set beneath the lungs that can be closed and sealed, much like the ears and 
+nostrils of aquatic mammals. Unlike their mammalian counterparts, these people
+can function both underwater and above water. When in the water, the lungs merely
+act as a bypass for the water running through the gills and gives it a way to 
+exit; while outside of the water, the gill flaps close and the lungs function as 
+mammals’ do. They are incredibly sensitive to sunlight, and burn very easily when 
+not in the water. 
+    Native to the once Ocean planet Trioch II, these beings evolved to the 
+changing of their planet as a massive solar flare from their star shifted the 
+magnetic fields holding in the atmosphere were shaken and ultimately disrupted, 
+causing the oceans to begin evaporating. With their oceans slowly dissipating 
+through the leak in the atmosphere, they have begun migrating to the nearby 
+Trioch IV, also mostly oceanus, which is out of immediate danger from the star. 
+Now, they live in both the oceans and the well-shaded estuaries on Trioch IV. A 
+few stubborn stragglers remain on Trioch II, which is slowly becoming a sandy, dry 
+wasteland with very little atmosphere. 
 
 
-Trioch II is now a place for venturing archaeologists to come and investigate the way the Opaleites used to live. 
+Trioch II is now a place for venturing archaeologists to come and investigate the 
+way the Opaleites used to live. 
 
 Racial Bonuses:
 Waterbreathing
