@@ -1,3 +1,6 @@
+==============================
+Glossary of Terms
+==============================
 Here is a list of some proper nouns and terms that are different in Compound X than in the English Language normally. If one is missing, please create an issue in Github asking for it! Hope it helps!
 
 Action: In Compound X, an Action rarely means a single abstract bodily movement as it does in English. Instead, an Action is a measure of time specifically during a Player's turn in Combat. See Actions in Basic Rules.txt

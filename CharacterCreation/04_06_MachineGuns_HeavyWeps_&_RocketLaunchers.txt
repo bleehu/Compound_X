@@ -1,15 +1,16 @@
-=============================================================================
+==============================
 RANGED WEAPONS
-Outside a weapon's longest range, you cannot hit your target.
+==============================
+    Outside a weapon's longest range, you cannot hit your target.
 Also, weapons cannot shoot over 100m without magnifying sights, or over 150m without 2x+ magnification.
 
-============================================================
+==============================
 MACHINE GUNS
-For sustained automatic fire, machine-guns are the first choice.
+==============================
+    For sustained automatic fire, machine-guns are the first choice.
 Minimum Strength 6. Reload time is 3 Actions. Jam range 2%.
 
-All Machine-Guns have Suppression Level - Heavy (unless otherwise noted).
-============================================================
+- All Machine-Guns have "Suppression Level - Heavy" (unless otherwise noted).
 
 ===== Level 1 Weapons =====
 
@@ -122,17 +123,17 @@ Armor Piercing Level:	5
 Reflex Modifier:	-30		
 Movement Speed Penalty:	-3m	
 
-============================================================							
-HEAVY WEAPONS							
-"Michael, what are these things again? One of these has multi-spinning barrels and another							
+==============================							
+HEAVY WEAPONS
+==============================				
+    "Michael, what are these things again? One of these has multi-spinning barrels and another							
 spits lightning like a wozerd."							
 Do you want to consume your foes in hails of expensive bullets? Well, you're in the right place.							
 (use-with-caution.-some-weapons-have-been-known-to-cause-cancer-in-the-state-of-_REDACTED_.-							
 If-you-experience-urges-to-light-people-on-fire-or-scream-maniacally-this-may-be-a-sign-of-a-							
 serious-condition-please-consult-with-your-local-space-physician)							
 Minimum Strength 6. Reload time is 3 Actions.						
-============================================================							
-
+							
 ===== Level 1 Weapons =====
 
 ----Frontier Flame Thrower FLMR	$1774	----
@@ -293,12 +294,12 @@ Notes/Description:	Only requires 1 shot for Medium Suppression. Considered a sec
 certain kinds of light cover. If the shot does not pierce armor, inflict damage/3 explosive damage. AP bullets have +1 AP over 
 listed value when used in this gun. 2 action reload time.	
 
-============================================================
+==============================
 ROCKET LAUNCHERS
-One rocket takes the space of 2 secondary magazine slots. 
+==============================
+    One rocket takes the space of 2 secondary magazine slots. 
 Rocket Launchers are considered secondary weapons.
 Minimum Strength 6. Reload time is 3 Actions.
-============================================================							
 
 =====	LEVEL 5 REQUIREMENT WEAPONS	=====
 
