@@ -213,7 +213,7 @@ ears and nostrils of aquatic mammals. Unlike their mammalian counterparts, these
 people can function both underwater and above water. When in the water, the 
 lungs merely act as a bypass for the water running through the gills and gives 
 it a way to exit; while outside of the water, the gill flaps close and the lungs 
-function as mammals' do. They are incredibly sensitive to sunlight, and burn 
+function as mammals'’' do. They are incredibly sensitive to sunlight, and burn 
 very easily when not in the water. 
 
 ===== Homeworld: Trioch II =====
@@ -252,7 +252,7 @@ Ability: Bioluminescence - Once per day.[Is an available skill] Persuade a
 being, sentient or not, that you are trustworthy. Victim must roll a will-save 
 50+(Siren points). Effect is dissipated when victims eyes are covered or lose 
 sight of you. This takes a tremendous amount of effort and you take a -10 
-penalty if tired or bloodied. This ability will temporarily scramble a robot’s 
+penalty if tired or bloodied. This ability will temporarily scramble a robot's 
 visual cortex, but they can adjust rapidly.
 
 == Chondrich ==
