@@ -153,13 +153,11 @@ Weapon Proficiencies:
 * Submachine Guns
 * Shotguns
 
-Armor Proficiencies: Concealed
-
+Armor Proficiencies: 
+* Concealed
 * Recon
-
 * Light
-
-* Medium.
+* Medium
 
 == Class Feats ==
 	----------------------
@@ -250,7 +248,8 @@ Weapon Proficiencies:
 * Pistols
 * Submachine Guns.
 
-Armor Proficiencies: Concealed
+Armor Proficiencies:
+* Concealed
 * Recon
 * Light
 * Medium.
@@ -410,7 +409,8 @@ Weapon Proficiencies:
 * Carbines
 * Long Rifles
 
-Armor Proficiencies: Cloaking
+Armor Proficiencies:
+* Cloaking
 * Concealed
 * Recon
 * Light
@@ -612,7 +612,8 @@ before the cloak resumes.
 Weapon Proficiencies: 
 * Pistols
 
-Armor Proficiencies: Cloaking
+Armor Proficiencies:
+* Cloaking
 * Concealed
 * Recon
 * Light
