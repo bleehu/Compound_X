@@ -266,13 +266,6 @@ recursive without limit, but a target that has made a save against the
 payload delivered by this procedure is inoculated from subsequent recursions
 of this procedure.
 
-----Nanite Push	-----
-Adrenaline Cost: 40
-Duration: 	2 Actions
-Range:		20m
-Effect:		Imparts enough force on a target or object to shift a 300lb 
-target 10m away by 1m.
-
 ----Mild Phenethylamine Agonist	-----
 Adrenaline Cost: 60
 Contagion Cost: 1
