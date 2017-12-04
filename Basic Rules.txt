@@ -352,12 +352,16 @@ Skill Point Gain:
 	max of 50 points in any one Skill. Also, you have a max of 17+3*[CHA] points in any one Charisma Skill.
 
 ===== Nanites =====
-Although not a primary or secondary stat per se, The maximum number of Nanites you can use at a given time is 
-determined by your character class and an associated primary stat. Your class may tell you its 
-"Class Primary Attribute" is Strength. In that case, Strength * 10 is your maximum Nanites. More generally:
+	Although not a primary or secondary stat per se, The maximum number of 
+Nanites you can use at a given time is determined by your character class and an 
+associated primary stat. Your class may tell you its "Class Primary Attribute" 
+is Strength. In that case, Strength * 10 is your maximum Nanites. 
+
+More generally:
 	Your Maximum Nanites = (Your Class's Primary Attribute) * 10
-Some class feats and other abilities can increase the number of Nanites you can hold and use at a given time. 
-Also, Unlike Health, Nanites regenerate during combat at a rate of 3 Nanites per turn. 
+Some class feats and other abilities can increase the number of Nanites you can 
+hold and use at a given time. Also, Unlike Health, Nanites regenerate during 
+combat at a rate of 3 Nanites per turn. 
 	
 
 ===== Assigning Stats to a New Character =====
@@ -365,7 +369,8 @@ Also, Unlike Health, Nanites regenerate during combat at a rate of 3 Nanites per
 This will tell you a lot about your character. When assigning your stats,
 no stat can be higher than a 9 before applying racial/species bonuses and
 no stat can be lower than a 1 after applying racial/species bonuses. 
-Additionally, even after race/species bonuses, feats, equipment, and base stat 
+
+	Additionally, even after race/species bonuses, feats, equipment, and base stat 
 bonuses from leveling, no stat can ever be over 15 until your character is 
 level 15. After level 15, the limit for stat points is 20. The number of 
 initial base stat points that you have to apply is listed with your Race or 
@@ -375,6 +380,7 @@ Species. See chapter 1: Races if you haven't yet.
 	Most Characters start at level 1 so the Player will choose a Class for that 
 Character at that time. A Character will only ever have one Class at a time, and
 under normal circumstances, cannot change their class once it is picked. 
+
 	On occasion (especially for new Players), a character may start at level 0 
 with no Class. This is usually for a tutorial mission and a Class is selected
 when the Character has completed the tutorial and leveled up to level 1. 
@@ -385,8 +391,9 @@ Character has a proficiency with a type of weapon, then they can use that weapon
 in combat and can purchase weapons of that type in the world or during character
 creation. If your Character lacks proficiency with a weapon, then they can't 
 purchase or use a weapon of that type. 
+
 	Note that Weapon Proficiency is different than having Skills with that 
-weapon. For more on Skills, see the RP/Skills section of this document.
+weapon. For more on Skills, see the "RP / Using Skills" section of this document.
 
 ===== Armor Proficiencies =====
 	Just like each Class comes with a set of Weapon Proficiencies, it also comes
