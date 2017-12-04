@@ -289,7 +289,8 @@ Range:		5m radius centered at a point up to 30m from the Doc
 Effect:		Your nanites form microscopic bonds with any solid surface allowing 
 movement at your speed along any flat, solid surface that can support your 
 weight. The procedure for doing this without blowing up one's heart or leaving
-one's spine behind takes more training than the average soldier receives. 
+one's spine behind takes more training than the average soldier receives. It 
+also can be quite exhausting.
 
 ----Dex-10	-----
 Adrenaline Cost: 60
