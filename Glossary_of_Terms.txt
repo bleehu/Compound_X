@@ -89,13 +89,16 @@ Player Character:
 following the procedures outlined in the CharacterCreation folder. Generally, a 
 Player only controls one Character at a time; that Character is called a Player 
 Character. 
+    In brief, Proficiency proficiency is a sufficient aptitude such that a 
+character can use a given type of Weapon or Armor in combat. Proficiency can 
+also be the ability to use a Skill with given capability.
 
 Proficiency: 
-    Compound X uses three types of Proficiencies Weapon Proficiency, Armor 
+    Compound X uses three types of Proficiencies: Weapon Proficiency, Armor 
 Proficiency, and Skill Proficiency. For Weapon or Armor Proficiency, see Basic 
-Rules Assigning A Class To Your Character Section, subsections Weapon 
-Proficiency or Armor Proficiency. For Skill Proficiency see Basic Rules 
-"RP/Skills" section.  
+Rules "Assigning A Class To Your Character" Section, subsections "Weapon 
+Proficiency" or "Armor Proficiency". For Skill Proficiency see Basic Rules 
+"RP / Using Skills" section. 
 
 Reactions: 
     A special action that is triggered by certain circumstances or abilities. 
