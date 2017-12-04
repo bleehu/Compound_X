@@ -651,7 +651,7 @@ Kicking/Shoving:
 Instead of dealing full damage, a character can try to kick/shove a human sized
 opponent to force movement by rolling for a normal unarmed/armed melee attack 
 with an additional -2 miss penalty against the opponent's Guard DC. If the attack 
-succeeds, it yields 1/2 the damage it normally would and pushes the target 
+succeeds, it yields 1/2 the damage it normally would and pushes the target up to
 1m for every 5 strength you have.
 
 ===== Actions =====
