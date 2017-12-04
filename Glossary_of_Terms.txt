@@ -8,11 +8,12 @@ issue in Github asking for it! Hope it helps!
 Action: 
     In Compound X, an Action rarely means a single abstract bodily movement as 
 it does in English. Instead, an Action is a measure of time specifically during 
-a Player's turn in Combat. See Actions in Basic Rules.txt
+a Player's turn in Combat. See "Actions" Section in the "Combat" Chapter in 
+Basic Rules.txt
 
 Base Stats: 
     The Base Stats of a Character are Strength, Perception, Fortitude, Charisma, 
-Intelligence, Dexterity and Luck. For more about Base Stats, see the section 
+Intelligence, Dexterity and Luck. For more about Base Stats, see the Section 
 "Base Stats" in Basic Rules.txt.
 
 Compound X: 
@@ -57,7 +58,7 @@ They are responsible for telling the story, keeping the game moving and deciding
 how the NPCs behave and act. 
 
 GM: 
-See Game Master.
+    See Game Master.
 
 Held Actions: 
     A type of reaction where 1 or 2 Actions can be saved from your turn to react 
