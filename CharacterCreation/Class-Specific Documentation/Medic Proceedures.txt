@@ -1,16 +1,16 @@
 ==============================
 Procedures
 ==============================
-Medics have the skills and tools to perform certain procedures.
+    Medics have the skills and tools to perform certain procedures.
 
 Contagions:
-Some of the more ... questionable... talents of the medic require the use of 
+    Some of the more ... questionable... talents of the medic require the use of 
 mutated pathogens. The medic's tools can mutate existing biologic material
 to produce certain (usually harmful) traits. Contagions are not stored between
 conflicts and die at the end of an engagement.
 
 Adrenaline:
-Not to be confused with the feat by the same name. As a Medic fights, their
+    Not to be confused with the feat by the same name. As a Medic fights, their
 adrenaline levels rise. Some abilities require a certain amount of adrenaline
 to perform in combat scenarios. A medic cannot have more than 500 
 adrenaline points at any time. While medics are able to calm down between
@@ -19,8 +19,12 @@ The net effect is that a medic starts every engagement with 100 adrenaline
 points. 
 
 Needles:
-Some abilities require the expenditure of large, spiky needles. They can
+    Some abilities require the expenditure of large, spiky needles. They can
 be purchased at most medical centers and some weapons stores.
+
+    When using a (poison) payload deployment skill, your chosen poison payload
+must be chosen before making your attack roll and must be paid for whether you
+hit or not.
 
 ==============================
 Malpractice Tree
@@ -41,19 +45,19 @@ Adrenaline Cost:30
 Needle Cost:	1
 Duration: 	2 Actions
 Range:		40m
-Effect:		2 chance to miss. Deal 52 damage. AP level 3. If the spike defeats 
-the target's armor and the target is still alive, apply a poison payload of your 
-choice. At Player level 5, the Harmacist spike deals 64 damage and has an AP 
-level of 4.
+Effect:		2 chance to miss. Deal 52 damage. AP level 3. If the spike deals
+damage to the target's health and the target is still alive, apply a poison 
+payload of your choice. At Player level 5, the Harmacist spike deals 64 damage 
+and has an AP level of 4.
 
 ==Fast Spike ==
 Adrenaline Cost:30
 Needle Cost:	1
 Duration: 	1 Action
 Range:		40m
-Effect:		2 chance to miss. Deal 52 damage. AP level 3. If the spike defeats
-the target's armor and the target is still alive, apply a poison payload of your 
-choice.
+Effect:		2 chance to miss. Deal 52 damage. AP level 3. If the spike deals 
+damage to the target's health and the target is still alive, apply a poison 
+payload of your choice.
 
 ==Multi Spikes ==
 Adrenaline Cost: 40
@@ -63,8 +67,8 @@ Range:		30m
 Effect:		You launch off three harmasist spikes in quick succession using both
 hands. Each has a 2 chance to miss. You may pick up to three targets to 
 launch at. Each spike that hits deals 52 piercing damage and has an armor piercing 
-level of 3. If the needles defeat the armor of the target and the target is still alive, 
-apply a poison payload of your choice.
+level of 3. If the needles deal damage to their target's health and the target 
+is still alive, apply a poison payload of your choice. 
 
 ==Piercing Spike ==
 Adrenaline Cost:35
@@ -72,7 +76,8 @@ Needle Cost: 1
 Duration: 	2 Actions
 Range:		45m
 Effect:		2 chance to miss. Deal 42 piercing damage. AP level 6.
-if the  needle defeats the target's armor, apply a poison payload of your choice.
+if the  needle deals damage to the target's health and the target is still alive,
+apply a poison payload of your choice.
 
 ==Poison: Mild Hallucinogen ==
 Adrenaline Cost:20
