@@ -1,0 +1,770 @@
+/*=============================================================================
+ * Tome of Spells
+ * For a 1 action spell to be cast, the caster must pass a DC equal to the 
+ * Nanites spent on the spell, max 100. For paladins, the DC is instead 5* the 
+ * favor cost of the spell. For example, Sword of Righteousness has a Cast DC 
+ * of 60 (5 * 12 favor). The DC must be passed before any nanites are spent, 
+ * so if the DC is failed, no Nanites are lost.
+ * 
+ *===========================================================================*/
+	//Level 1:
+		Detect High-Magic [10]: Detect any highly advanced technology in the 
+		immediate area. Works like a sixth sense in terms of range and 
+		strength. Potential uses include sensing what the most powerful piece 
+		of tech is, relative tech strengths of multiple objects, or discerning 
+		possible manufacturer of tech.
+		//dev note: "works like sixth sense" ... which is how exactly? Or where would one look this up?
+	//Level 3:
+		Dispell
+	//Level 5:
+
+	//Level 7:
+		
+	//Level 9:
+
+	//Level 11:
+
+	//Level 13:
+
+	//Level 15:
+
+	//Level 17:
+
+	//Level 19:
+//==============================
+// Mage Spells
+// Mages gain a number of spell points equal to half their charisma (round up)
+// per level. You may put at most one spell point into the most recently
+// unlocked tier, and no more than 2 points into any tier. Unused spell points
+// are not carried over to the next level. For example, Sorbeth the mage
+// reaches level 4 with a charsima score of 10. He gains 5 spell points, but
+// is only able to put 4 to use. He puts one point into Blind, one into Frost
+// Blast, one into Weapon Malfunction, and one into Thunder Stomp.
+//==============================
+
+    //--------------------
+    // Warlock
+    //--------------------
+		//Level 1:
+			Arcane Blast [40]: Deals 40 + P.Lvl turns C.S. Burn. 70m range, 
+				acurracy is 40% (INT base)
+				Max Points: 5
+				
+			Fireball [40]: Deals 40 + P.Lvl #of  Burn damage to a single 
+				target. Burn damage lasts for 2 turns. or until extinghuished. 60m 
+				Range, Acurracy is 40% (INT base)
+				Max Points: 5
+		
+			Entomb [40]: wraps self in a shell of nanites. The Shell lasts for 
+				12 actions and cannot normally be canceled by the caster. 
+				While in the shell, the caster cannot use spells, weapons or 
+				items. Nor can they be affected by incoming fire, enemy melee 
+				attacks, spells, poison gas or lack of air. The nanite shell is 
+				not flamable and is routed to the ground where the caster was 
+				standing with the strength of cement. If destroyed, the shell 
+				no longer adds any protection and the caster is unstuck. Entomb 
+				can only be cast on the caster. 1 action to cast.
+				Spell Point 1: Nanite shell has 400 health.
+				Spell Point 2: Nanite shell has 600 health. Nanite shell may be used as partial cover for allies.
+				Spell Point 3: Nanite shell has 700 health and may be canceled at the 8th action.
+				Spell Point 4: Nanite Shell has one vehicle health and is immune to small arms. Nanite shell may be used as superior cover for allies.
+				Spell Point 5: Nanite Shell has 2 vehicle health and may be canceled any time after 6 Actions.
+			//dev note: this is the Warlock Mage's panic button
+			
+		//Level 5:
+			Arcane Storm [60]: Fire P.Lvl +1 # of Arcane Blasts.
+				Max Points: 2
+			//dev note: more than a quarter of your nanite pool for a 3-round burst of arcane blasts is a little steep, isn't it?
+			
+			Ember Shards [60]: Launch dozens of sharp burning nanite fragments
+				toward a target. May be sustained on subsequent turns for 5 nanites
+				and 2 actions. While sustained, target is pinned. 35% chance to miss,
+				on hit, target takes 30 fire damage and ongoing 20 fire damage for 
+				2 turns. Burn does not stack, but takes the largest of the two numbers.
+				1 Action for initial cast.
+					1 Point:	3 * CHA meter range
+					2 Points: 	50 initial fire damage on hit
+					3 Points:	5 * CHA meter range
+					4 Points:	20% chance to miss
+					5 Points:	ongoing damage lasts for up to 10 turns.
+				
+		//Level 7:
+			Dragon''s Breath [50]: You breath fire, dealing any enemy within
+			20m of your mouth 40 Fire damage, and 3 rounds of P.Lvl # Burn 
+			damage. DC 50 Reaction Save.
+				Max Points: 5
+				// dev note: consider making this a cone, as opposed to a close blast
+				// 20m!?!
+		
+
+		//Level 9:
+			
+		//Level 11:
+
+		//Level 13:
+
+		//Level 15:
+
+		//Level 17:
+
+		//Level 19:
+
+	//--------------------
+    // Controller
+    //--------------------
+		//Level 1:
+			Blind [20]: Blinds the target for 1 turn minimum, max P.Lvl # 
+			turns. Target rolls Reaction save at DC 20 + 3*INT to resist. 
+			Range is 30m.
+
+			Frost Blast []: 
+
+		//Level 3:
+			Slow
+		
+		//dev note: needs panic button/mobility spell
+
+			Thunder Stomp [30]: All targets in a 8m radius must pass a Shock 
+			Saving Throw or are tripped. DC = 20 + 5 * P.Lvl.
+				Max Points: 5
+
+			Weapon Malfunction [30]: Force a target''s weapon to Jam. DC = 50 -
+			P.Lvl*10
+				Max Points: 5
+				//dev note: this is effecively a counter move against enemies with guns.
+				
+		//Level 5:
+			Influence Mind
+			
+		//Level 7:
+			Circle of Lightning [50]: All targets in a 18m circle are hit with 
+			thousands of volts of electricity. Deals 10 * P.Lvl +20 damage + a 
+			Shock Saving Throw to resist electric incapacitation. DC = 30 + 5 *
+			P.Lvl.
+				Max Points: 5
+
+			Weapon Overload [50]: Magazine of target''s weapon is overloaded 
+			and explodes. Deal damage equal to the weapon''s damage. Magazine 
+			is destroyed. DC = 100 - P.Lvl*10
+				Max Points: 5
+		//Level 9:
+			Armour Malfunction [30]: Target''s CS armour malfunctions for 1 
+			turn, causing P.Lvl # of C.S. Burns. DC is the percent coverage of 
+			the armour.
+				Max Points: 5
+		//Level 11:
+			Dominate Mind
+		//Level 13:
+			Armour Overload [50]: Target''s CS armor is overloaded with nanite 
+			energy, dealing the target 50 explosive damage and P.Lvl # of C.S. 
+			burns for 2 turns. The sheild is drained for 3 turns before it can 
+			start to regen health. (DC = percent coverage)
+				Max Points: 5
+		//Level 15:
+
+		//Level 17:
+
+		//Level 19:
+
+	//--------------------
+    // Tactician
+    //--------------------
+		//Level 1:
+			Lightning Bolt  [40]: Deal 20 + P.Lvl*10 Shock Damage, with 30% 
+			chance to stun target. 50m range, Acurracy is 40% (INT base)
+				Max Points: 5
+
+			Barricade//hold door closed
+			Detect Wounded [8]: If 
+
+		//Level 3:
+			Mage Armour [X]: Gain a nanite shield, 100% coverage of body. 
+			Shield = [X nanites]. Touch effect. Max X = 30+(10*P.Lvl) Can be 
+			used P.Lvl # times per encounter. Add 20 to shield when used on an
+			ally. Lasts duration of encounter.
+				Max Points: 5
+				//dev note: this is the tactician mage's panic button
+				
+			Service Weapon//increase select weapon stats by 5% for some time
+				// Dev note: this is already an engineer spell. Some redundancy is ok, just make sure it's deliberate.
+
+			Silence
+		//Level 5:
+			Chain Lightning [50]: Hits target, plus can jump to any one target 
+			P.Lvl meters away. Make up to P.Lvl + 1 jumps.
+				Max Points: 5
+			
+			Reversal [15]:
+				May be cast on an enemy's turn as an immediate reaction at the cost
+				of 1 Action on the caster's next turn. Triggers when an enemy casts 
+				a spell which forces movement in an area CHA meters from you. 
+				The enemy caster must make a FORT save opposed by your INT and DEX.
+				If he succeeds, cancel the forced movement part of his attack. If he fails,
+				apply each forced movement on the enemy caster. If multiple units were
+				forced to move through your area, apply these forced movements in the
+				order you see fit. If the enemy's spell would deal damage as well as 
+				force movement, the damage is applied as normal.
+				//Dev note: this is the tactician's counter spell.
+				Counters: 
+					Polaric Well
+					Push
+					Shift
+				Does not counter:
+					Fear
+			
+			Shocking Betty [20]: You place a globule of electric nanites on a flat 
+			surface. The next time you end your turn and an enemy is within 3m of 
+			the globule, and the globule has Line Of Sight with that enemy then it
+			detonates. When it detonates, every entity within 5m of the globule 
+			takes 3*INT points of electric damage. Every entity within 5m of entities
+			that took 30 damage that haven't already taken damage also take damage.
+				2 Points: Targets that get shocked must pass a DC 40 Fort save or 
+					be stunned for a turn.
+				3 Points: 
+			
+		//Level 7:
+			Non-Lethal Field [100]: Create a circle Charisma meters in diameter. 
+			For P.Lvl turns, treat any incoming damage as non-lethal. 
+			Recieving a total of non-lethal damage equal to your health will 
+			cause your character to become unconcious, but does not cause your 
+			character to become "downed." Your character is knocked out for 
+			11-Fort rounds, minimum 1 round. If you recieve a number of 
+			non-lethal damage equal to twice your health, the "downed" 
+			condition is imposed on you.
+			
+			Polaric Well [20]: Pick a target within 4 * CHA meters of you with a 
+				sheild. Roll to hit them with nanites which hyperpolarize their sheilds.
+				DC 20 to hit. All sheilded entities within INT meters of your origional 
+				target must make a FORT save with DC 60. Each entity that fails is pushed
+				[strength mod] meters toward your origional target. The initial target must 
+				be within line of sight of you, but the attraction feild's effects goes through walls. 
+				The attraction feild does not go through mag-lev tanks, large metal objects such 
+				as a car or through spaceship hull plate. It will penetrate a dumpster or 
+				oil drum. It will not pull a sheild door off of the wall, but it may break it
+				at the GM's discression. Typical slam damage from this attack propelling
+				targets into each other or into walls is 2d10 per square of forced 
+				movement into an unmoving object (but this is also at the GM's 
+				discression). 
+				Spell Point 2: Fort save DC increases to 75
+				Spell Point 3: Range to initial target increases to 5 * CHA
+				Spell Point 4: Fort save DC increases to 100
+				Spell Point 5: Vehicles may be the inital target regardless of sheilding.
+					Large vehicles are easier to hit and have a DC to hit of 5.
+
+		//Level 9:
+			Improved Mage Armour [X]: Gain a nanite shield. Shield = [X nanites
+			], Plus gain 5*P.Lvl D.R. The damage reduction is broken when the 
+			shield breaks. Touch Effect. Max X = 40+(12*P.Lvl). Can be used 
+			Level # times per encounter. Add 30 to shield when used on an ally.
+				Max Points: 5
+
+			Thunder Cloud [70]: Everyone in a P.Lvl*10m Radius from you takes 
+			damage, 50% chance to stun.
+				Max Points: 5
+		//Level 11:
+
+		//Level 13:
+
+		//Level 15:
+
+		//Level 17:
+
+		//Level 19:
+
+
+//==============================
+// Sorcerer Spells
+// Sorcerers gain a number of spell points equal to half their charisma (round
+// up) per level. You may put at most one spell point into the most recently
+// unlocked tier, and no more than 2 points into any tier. Unused spell points
+// are not carried over to the next level. For example, Marian the Sorceress
+// reaches level 4 with a charsima score of 10. She gains 5 spell points, but
+// is only able to put 4 to use. She puts one point into Bullet Storm, one
+// into Blur, and two into Push.
+//==============================
+    //--------------------
+    // Conjurer
+    //--------------------
+		//Level 1:
+			Create Benevelent Zone [10]: You hold your hands aloft and summon 
+				the nanites to bless a particular area. Zones are marked by 
+				an origin point, and all points within the radius that are 
+				not on the other side of a wall or cover from that origin. 
+				more simply put, a zone looks like a circle on flat land,
+				but looks like pac man if cast at the corner of a building.
+				1 Action to cast. Zone persists for INT turns.
+				Level 1: Zone is 3m from origin. Allies have a -5% to miss 
+					while standing in the zone.
+				Level 2: Zone is 5m from origin.
+				Level 3: Zone is 5m from origin + half CHA mod
+				Level 4: Allies have an additional -5% to miss while standing 
+					in the zone
+				Level 5: Zone is 5m from origin + CHA mod
+				Level 6: Zone Permiates partial cover
+				Level 7: 
+				Level 8:
+				
+			
+			Create Malicious Zone [10]: You quickly and wrathfully gesture at 
+				the ground causing the nanites to permiate and desecrate it.
+				Zones are marked by 
+				an origin point, and all points within the radius that are 
+				not on the other side of a wall or cover from that origin. 
+				more simply put, a zone looks like a circle on flat land,
+				but looks like pac man if cast at the corner of a building.
+				1 Action to cast. Zone persists for INT turns.
+				Level 1: Zone is 3m from origin. Enemies have a +5% to miss 
+					while standing in the zone.
+				Level 2: Zone is 5m from origin.
+				Level 3: Zone is 5m from origin + half CHA mod
+				Level 4: Enemies have an additional +5% to miss while standing 
+					in the zone
+				Level 5: Zone is 5m from origin + CHA mod
+				Level 6: Zone Permiates partial cover
+				Level 7: 
+				Level 8:
+			
+			Camoflage Area [40]: Create a stealthed area P.Level * 2 m 
+			diameter. Everything in the area is considered hidden, DC caster''s
+			(CHA + P.Levels) * 5. Lasts CHA number of turns.
+				Max Points: 3
+				//dev note: what is a stealthed area? Wording unclear. Is this the Conjurer's panic button?
+				// suggestion: consume benevolent zone and apply affect to it?
+			
+			Damage area [30]: At your command, the nanites in a malicious zone
+				burst with arcane energy. It's not the most effecient way to
+				hurt those who dare tresspass, but it's a good start. 1	action
+				to cast. Consume a malicious zone and deal damage to 
+				all characters in the zone.
+				
+		//Level 3:
+			Sustained Barage [20]: 20 damage. Each successive time cast, 
+			nanite cost increases by 5, damage increases by 10. Maximum 
+			Knowledge[Nanites]/10 casts.
+		    Cool down:
+		        Knowledge[Nanites] <= 50, 6 Actions
+		                           <= 75, 4 Actions
+		                            > 75, 2 Actions
+			
+			Homecoming [20]: Nanite tenticals sprout from a benevolent zone and rapidly 
+				pull you to their origin. 1 Action to cast. Cannot be done stealthily.
+				This spell consumes the benevolent zone. If this moved the caster more than
+				their speed, the caster cannot move for the rest of their turn. If the caster
+				was being grappled when they cast this, the tenticals pull both the grappler
+				and the grapplee to the origin of the zone. If the caster was in a vehicle
+				when this spell was cast, the caster is pulled out of the vehicle. Max range
+				30m. 
+				Max Level: 1
+				//dev note: this is the conjurer's panic button
+			
+		//Level 5:
+			Torch Area [20]: With a quick wave of your hand you call upon the nanites
+				in a malicious zone to ignite dealing INT * 4 damage. Any entity in the
+				feild of effect must make a reflex save opposed by your spellcasting 
+				skill or also take 10 ongoing fire damage at the end of their turn for 
+				CHA mod turns. This consumes the malicious zone.
+				
+			Expeditious Zone [20]: With a flick of your wrist you instruct the nanites 
+				in a benevolent zone to roll like water on ice when they detect the 
+				movement of a foe but to provide ideal traction for the steps of 
+				a freind. Allies move the first CHA mod spaces through this zone 
+				as a free action; Enemies are slowed by CHA mod spaces per turn
+				(not per move action). Zone lasts for INT turns (restart the counter
+				when you cast this spell)
+				
+		//Level 7:
+			Nanite Battle Companion [100]: Cast time: 4 Actions. Creates 
+			a companion sphere 30cm in diameter which follows the caster and 
+			attacks once per caster''s turn, as a free action to the caster, 
+			with the following traits:
+			    50 health. +20% miss chance to enemy attacks
+			    30m range
+			    30%
+			    60 damage
+		    Nanites spent on the companion are lost and cannot be replenished 
+		    until it is dismissed or destroyed.
+			    Pick 1 trait per P.Lvl and boost it by 10%. Max Points: 5
+			Snap Freeze Area [20]: With a snap of your fingers you bid a malicious 
+				zone to emit small droplets of condensed atmosphere which 
+				decompress rapidly cooling to very low temperatures. Entities 
+				within the zone must make a reflex saving throw opposed by your
+				spellcasting skill. If the entities fail, they are frozen solid for three 
+				turns and take 50 frost damage. If they succeed, they are slowed
+				by your CHA mod number of spaces per turn (not per move) and
+				only take 20 frost damage. This consumes the malicous zone.
+				
+		//Level 9:
+			Fire Whip [60]: You form a whip out of fire. Nanites spent to 
+			create the whip are lost until it disappears. The whip is treated 
+			as a melee weapon with the following stats:
+				3 meters
+				30% (dex based)
+				60 + P.Lvl*Dex Damage + 1 burn damage token.
+				Max Points: 5
+		//Level 11:
+
+		//Level 13:
+
+		//Level 15:
+
+		//Level 17:
+
+		//Level 19:
+
+	//--------------------
+    // Phaser
+    //--------------------
+		//Level 1:
+			Charge Orb [10]: You pause and focus your power which manifests as 
+				a floating orb of nanite-projected energy. Each orb you have 
+				reduces stealth rolls by 10. Orbs may be dismissed as 
+				a free action.
+				Level 1: Two Actions gives you one orb. You may keep up to 2 orbs active at a time.
+				Level 2: You may keep up to 4 orbs active at a time.
+				Level 3: One Action gives you one orb
+				Level 4: You may keep up to 6 orbs active at a time.
+				Level 5: Four actions may be used to give you five orbs
+				Level 6: You may keep up to 7 orbs active at a time.
+				Level 7: Killing an enemy spell caster who has at least 100 
+					nanites at their moment of death gives you a free charged orb
+			
+			Bullet Storm [10]: A cascade of bullet-like Nanite shards is fired 
+				at the target. Target takes 20 + P.Lvl * 15 damage. Spend two orbs. 
+				Max Points: 5
+			//dev note: this is the phaser's basic attack
+
+			Launch Orb [0]: Spend one orb. You launch it at an enemy. If it hits, it burns them with
+				the spite of your nanite power. 30% - Perception modifier to miss. Takes 1 action to launch. 
+				Level 1: 15m + CHA modifier range, Deals 30 damage
+				Level 2: 20m + CHA mod range, Deals 35 damage
+				Level 3: 25m + CHA mod range, Deals 40 damage, If you have dual weild feat, may fire 2 orbs at once.
+				Level 4: 30m + CHA mod range, Deals 40 damage. -10% to miss, minimum 0% before terrain.
+				Level 5: 40m + CHA mod range, Deals 45 damage. At player level 10, Deals 60 damage.
+			
+			Blur [20]: The target''s edges blur and melt into the background, 
+				causing opponents targeting them to miss more often. Target 
+				imposes a (40+P.Lvl*5)% miss to anyone targeting them. While this effect is 
+				active, you cannot attack, use items or cast spells. Spend 2 orbs to activate.
+				Level 3: Your movement speed increases by 2m per action during this spell.
+				Max Points: 5
+			//dev note: this is the phaser sorcerer's panic button
+		
+		//Level 3:
+			Push [30]: Nudge a medium sized target P.Lvl meters or a large 
+			sized target P.Lvl/2 meters (round up).
+				Max Points: 5
+			
+			Bullet Storm [10]: A cascade of bullet-like Nanite shards is fired 
+				at the target. Target takes 20 + P.Lvl * 15 damage. Spend two orbs. 
+				Max Points: 5
+				
+		//Level 5:
+			Dismiss Attack
+			//dev note: scrap this, it offers the same bad counterplay as counterspell
+			
+			Collect Power [40]: Interupt. Triggered if an enemy spellcaster 
+				uses a spell which affects at least two allies (including you)
+				within CHA meters of you, but which is not an area of effect spell. 
+				(i.e. if you and a nearby ally are being hit with chain lightning)
+				Cancel that multi-target attack. The attacker still pays for the 
+				nanite cost to launch it. You get 2 Orbs and lose your first  
+				action on your next turn.
+				Max Level: 1
+				//DEV notes:
+				// This is the phaser's counter move
+				// Counters these spells:
+				// + Chain lightning
+				// + Arcane Storm
+				// + and certain NPC only attacks
+		
+		//Level 7:
+			Shift [60]: Move the ground underneath P.Lvl+1 medium sized 
+			enemies P.Lvl meters (Large sized enemies count as 2 medium sized 
+			enemies).
+				Max Points: 5
+				
+			Shatter Orbs [25]:
+				Remove all of your orbs. They fly into sharp fragments in all directions
+				up to INT meters around you. All enetities in that range whom you have
+				Line of Sight with must make a REF saving throw of DC 
+				50 + (2 * DEX) + (5 * character level). If they fail, they take 20 damage
+				for each orb this attack cost you. If they succeed, half damage. 1 Acton to cast.
+				
+			Go Deep [10]:
+				You launch an orb as far as it will go. The base range for this attack is 
+				the range of your Launch Orb Attack. 30% - perception modifier to 
+				miss. 1 Action to launch. On hit, deals 50 damage
+				1 point:	Add 20 meters to range
+				2 points:	Add 40 meters to range
+				3 points:	20% base to-miss percentage
+				4 points:	
+				5 points:	
+				
+		//Level 9:
+			Redirect Attack [75]: Prevent an attack from landing. Add 50% to 
+			your cover score for 1 turn. Attacks that fall into this 50% range 
+			are redirected at the enemy and deal damage according to the 
+			following:
+				1 P.Lvl: half damage.
+				2 P.Lvlvs: full damage.
+				Max Points: 2
+			Example: Enemy''s hit chance is 20. You are in partial cover when 
+			you cast this spell. The enemy''s chance to hit you is 95. If 
+			their roll falls in the range of 46-95, you redirect the attack 
+			onto them.
+			//dev note: scrap this, too general
+			
+		//Level 11:
+
+		//Level 13:
+
+		//Level 15:
+
+		//Level 17:
+
+		//Level 19:
+
+	//--------------------
+    // Consumer
+    //--------------------
+		//Level 1:
+			Stun [20]: Paralyzes the target for 1 turn minimum, max P.Lvl # 
+			turns. Target rolls Shock save at DC 20 + 3*INT to resist. Range 
+			is 30m.
+				Max Points: 5
+			Darkness
+		//Level 3:
+			Cloud of Smog  [20]: Creates a 10m diameter cloud of choking smog. 
+			Deals 10 damage per round in the cloud, and anyone in the cloud 
+			must pass a FORT save DC (10*rds in smog) + (5*Caster''s CHA). If 
+			the FORT save is failed, the target faints in the cloud and 
+			continues to take damage. Cloud lasts P.Lvl turns. 20m range.
+				Max Points: 5
+		
+		//dev note: needs panic button/mobility spell
+
+			Invoke Fear [10]: Target is afraid of subject and will flee or 
+			cower for P.Lvl # of turns. Target''s Will Save DC is 30 + 10*P.Lvl
+			.
+				Max Points: 5
+		//Level 5:
+			Acid Touch [30]: Deals 20+P.Lvl*10 Melting or Necrotic damage 
+			(depending on your character). DC is opponent''s armour%. on fail, 
+			deal the damage to the target''s armour% CHA m range.
+				Max Points: 5
+
+			Arcane Circle//protect against spells
+			
+			Consume Enchantment [20]: 1 Action. Dispell a persistant 
+				area-of-effect spell. Gain 40 nanites. Your next single-target 
+				attack deals an extra 30 damage.
+				Max Level: 1
+				//DEV notes:
+				// This is the consumer's counter move
+				// Counters these spells:
+				// + Summon Tenticals
+				// + Benevelent Zone
+				// + Malicious Zone 
+
+			Nanite Leach [10*P.Lvl]: Remove up to 10*P.Lvl nanites from 
+			opponent. If the opponent''s nanites are depleted, excess leech is 
+			dealt as damage. CHA m range. Target resist with Shock save, DC 20+
+			P.Lvl*Int.
+				Max Points: 5
+		//Level 7:
+			Summon Tenticals [40]: Summon a circle of thick, black tenticals 
+			P.Lvl meters in diameter for P.Lvl+1 turns. All opponents who are 
+			in the circle or who move into the circle must pass a grapple check
+			, DC [10*P.Lvl + 30] or they are pinned. This check must be made 
+			each round for 1 Action before the opponent can perform any 
+			other actions. On fail, they are trapped for the round. +50% to 
+			the tentical spot DC when in darkness. The tenticals only appear 
+			in adjacent open spaces. if the spell is cast next to a closed door
+			, for example, the tenticals do not appear on both sides of the 
+			door.
+				Max Points: 5
+
+			Cloud of Acid [30]: Creates a 10m cloud of acidic gas. Deals 20 
+			damage per round in the cloud, and anyone in the cloud must pass a 
+			FORT save DC (10*rds in smog) + (5*Caster''s CHA). If the FORT 
+			save is failed, the target faints in the cloud and continues to 
+			take damage. Cloud lasts P.Lvl turns.
+				Max Points: 5
+		//Level 9:
+			Nanite Vampirisim [5*P.Lvl]: Leech 10*P.Lvl Nanites from opponent, 
+			and deal 5*P.Lvl damage to opponent. CHA m range.
+				Max Points: 5
+		//Level 11:
+			Raise Undead [50]: Command your nanites to occupy the body of a 
+			deceased being and posses it. Undead can carry out basic commands 
+			and operations from the caster, but are considered to have no 
+			Ability points or feats. They have 50 health and whatever armour 
+			and weapons are on the current body. DC is 85 - 10*P.Lvl. Nanites 
+			spent on a target are lost until the target is dead or the caster 
+			relinquishes control.
+				Max Points: 5
+
+			Summon Necrotic Tenticals [50]: A circle of thick black tenticals 
+			with sinister green tips is generated as in the prior spell. Each 
+			time an opponent is successfully grappled, they take P.Lvl*10 
+			Necrotic damage.
+				Max Points: 2
+		//Level 13:
+
+		//Level 15:
+
+		//Level 17:
+
+		//Level 19:
+
+
+
+//==============================
+// Paladin Spells & Prayers
+//==============================
+	Prayers take 2 Actions to complete and any nanites spent on them are 
+	lost until the effects of the prayer wear off. Spells are 1 Action to 
+	cast and remove the listed amount of nanites once cast. By default, spells 
+	are not affected by cover unless explicitly stated in the description.
+	Aura Effect: All characters within Cha meters (or as noted) are affected, 
+	regardless of cover.
+	Area of Effect: All characters in a Cha meter diameter are affected, but 
+	cover may affect the spell depending on the description. This area can be 
+	up to Cha+ meters away.
+	Personal Effect: Affects the caster.
+	Ranged Effect: Cha+ meter range.
+	Touch Effect: Paladin must make contact with target to cast spell.
+	Weapon Augment: Affects a weapon (Mellee or Ranged but NOT Improvised) 
+	within Cha meters.
+    //--------------------
+    // Spells
+    //--------------------
+
+		{2} Lay on Hands: [15]
+		|   Touch Effect: Restore 20 HP to an ally or stabilize them.
+		|
+		V
+		{4} Cure Light Wounds: [29]
+		|   Touch Effect: Restore 30 HP to an ally. Heals a small wound. (less 
+		|	than 40 damage sustained from a single source).
+		|
+		V
+		{8} Cure Moderate Wounds: [43]
+		|   Touch Effect: Restore 50 HP to an ally. Heals a moderate wound. 
+		|	(less than 60 damage sustained from a single source).
+		|
+		V
+		{12} Divine Blessing: [72]
+		|   Touch Effect: Restore 90 HP to an ally. Heals a heavy wound and 
+		|	revives ally. (Less than 90 damage sustained from a single source).
+		|
+		V
+		{20} Divine Intervention: [126]
+		    Touch Effect: Restores an ally from the brink of death. If an ally's 
+			health drops below 0 during the encounter and would normally 
+		    perish, so long as this spell is used during the same encounter 
+		    they will be revived to 1/4 of their max HP.
+
+
+		{5} Holy Blade: [22]
+		|   Ranged Spell: + 5 damage on ally's weapon for 3 turns.
+		|
+		V
+		{12} Sword of Righteousness: [86]
+		    +15 damage for the remainder of the encounter. Can only be used 
+		    when facing Evil characters.
+
+		{5} Divine Armour: [22]
+		    Ranged Spell: +60 Armor Points to an ally's armour, single use.
+
+		{5} Righteous Fury: [14]
+		|   Personal Effect: Cannot take cover for 5 turns. +20 Armor Points and +10 
+		|	damage for 3 turns.
+		|
+		V
+		{10} Righteous Rage: [29]
+		    Cannot take cover for 5 turns. +30 Armor Points, +15 damage, 
+		    and +1m movement per Action for 4 turns.
+
+		{2} Piercing Blow: [7]
+		    Weapon Augment: Target is Pinned Down.
+
+		{8} Bullet Ward: [43]
+		    Aura Effect: All allies within 2*Cha meters gain +10 Armor Points for 4 turns.
+
+		//Good Unique
+		{5} Wall of Protection: [36]
+	    	Summon a wall 2m tall, 3m wide and .25m thick. Provides Full 
+	    	cover. Each 1m x 1m chunk has 70 health. The wall can be summoned 
+	    	on any empty squares or squares only occupied by medium sized 
+	    	characters within Cha meters of the caster.
+
+		{5} Crimson Flame: [18]
+		|   Weapon Augment: You imbue an ally's or your own weapon with divine
+		|	energy. +20 damage, single attack. Inflicts 1x Burning.
+		|
+		V
+		{10} Violet Flame: [32]
+		|   +40 damage, single attack. Inflicts 1x Burning.
+		|
+		V
+		{15} Blue Flame: [47]
+		    +60 damage, single attack. Inflicts 1x Burning.
+
+		//Neutral Unique
+		{5} Negate Attack: [36]
+		|   Ranged Effect: Negate 70 damage from an attack coming at an ally 
+		|	within CHA # of meters range.
+		|
+		V
+		{10} Redirect Attack: [47]
+		    Negate 70 damage from an attack targeting an ally within CHA # of meters 
+		    range and choose a target within CHA+ m range to take the damage.
+		//Evil Unique
+
+	//--------------------
+    // Prayers
+    //--------------------
+		{8} Prayer of Vengeance: [32]
+		    Personal Effect: When a team member gains the Downed condition, 
+		    you gain +10 Armor Points and +10 damage for the next 4 turns.
+
+		{10} Prayer of Meditation: [0]
+		    Personal Effect: Take 4 actions to Pray. Regain 40 Nanites.
+
+		{25} Prayer of Sorrow: [108]
+		    Weapon Augment: You imbue your own weapon with divine energy. 
+			+200 damage, single attack. After the attack, take 200 damage and 
+			gain the Downed condition.
+
+		{} Prayer: []
+
+		{} : []
+
+		{} Prayer: []
+
+		{} : []
+		//Good Unique
+	    {15} Prayer of Peace: [72]
+			Area of effect, CHA meter diameter centered on caster: Targets 
+			caught within the effect cannot attack for 3 turns. Affectees gain 
+			a penalty attack on anyone who attacks them while they are 
+			stunned, except if the attacker is in stealth or out of sight. 
+			Paladins cannot use this prayer with the intent of an ally to 
+			attack the stunned opponents.
+
+		//Neutral Unique
+		{15} Prayer of Silence: [144]
+    		Aura Effect: Drain 100 Nanites from each character within CHA 
+				meters of you. Any deficiency takes damage instead, and the 
+				Paladin gains only the amount of nanites held by the target at 
+				the time the prayer takes effect.
+
+		{10} Prayer of Solitude: [58]
+		    Touch Effect: target is incapacitated, trapped in a mental prison 
+		    for CHA/2 turns. Will Save DC 60 + CHA+ on cast. Nanites spent on 
+	    	this prayer are lost until the prayer completes.
+			
+		//Evil Unique
+		{15} Prayer of Halting: [29]
+    		Ranged Effect: Target loses any Nanite-Based abilities for 3 turns.

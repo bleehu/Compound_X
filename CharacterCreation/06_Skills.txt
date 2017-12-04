@@ -1,0 +1,154 @@
+ ==============================
+ Skills List
+ ==============================
+     This document lists all the skills used in Compound_X. Skills augment your
+ natural ability. Anyone who is strong enough can kick in a door, but if you
+ are specially trained, you can much more effectively accomplish the task.
+ 
+ - GENERAL NOTE: Max of 50 points in any one skill.
+ - CHARISMA NOTE: Max of 17 +[CHA]*3 points in Charisma skills.
+ 
+===== CHARISMA =====
+Deceive: 
+You use your silver tongue to talk your way through situations with 
+ease.
+
+Speech: 
+The art of outmanuevering your opponent with vocal communication or just being
+well understand.
+ 
+===== DEXTERITY =====
+Acrobatics: 
+Rolling and tumbling come naturally to you. Useful for dodging, 
+jumping, balancing, and other fine body-control.
+
+Hand to Hand [Expert]: 
+Experts in hand to Hand can perform feats unimaginable 
+to mere mortals. They can perform silent take downs, disarmaments, and can 
+fight against  edged weapons without a penalty. However, they have to have 
+specifically mentioned expert training in their background. Standard mechanics,
+or scientists, or farmers will not be able to use this skill. A Buddhist 
+Fighting Monk on the other hand, would get this skill for free. Talk to your 
+GM. For the most part, anyone can take H-H Expert as a skill, but they must 
+take the Melee Combat Expert Feat.
+
+Melee Combat Skill: 
+See damage rules under Melee Weapons listing.
+
+Hand-to-Hand/Unarmed Skill:
+Trained in unarmed fighting, you are more likely to hit your opponents or block their attacks.
+
+Piloting: 
+You have been trained in the use and operation of many vehicles, and 
+even if you don’t recognize what it is, you can probably figure out how to use 
+it in a couple of turns.
+
+Stealth:
+The art of stealth is a blanket over the most cloak and dagger of 
+actions. Good thing you’re in on the secret.
+
+Pickpocket: 
+Misdirection, priming, and lifting. 
+
+Lockpicking: 
+Making physical, mechanical, magnetic, and cryptographic locks go 
+from the locked position to the unlocked position without a key. May require 
+special equipment.
+
+===== INTELLIGENCE =====
+Knowledge [X]: 
+You may have gone to college to get a degree in X, or maybe you 
+heard all about X from your local reputable information source. Either way, 
+you know a lot about X. Options:
+	Local
+	Criminal
+	Nanites
+	Sorcery
+	Technology
+	Alien
+	Military
+
+Medicine: 
+If health is over 50, DC 30. Any amount over 30 is restored to target's 
+health. Rolls under 30 deal d10 bleed damage. If health is under 50, DC 50.
+Any amount over 50 is restored to target's health. Rolls under 30 deal d10 
+bleed damage. Medicine skill checks can be performed even if untrained in 
+medicine, but the user takes a -10%. Medicine packs decrease the DC by 10, 
+increase the amount healed by 30, and negate bleed damage on a failed roll.
+
+Navigate: 
+you can read a map, congratulations. Any time you are lost, or need 
+to decide where to go, this skill will channel your inner survivorman and 
+enable you to have a better idea of where you should face.
+
+Hacking: 
+Used to gain outside access to computer based systems.
+
+Repair: 
+For normal damage (up to 50%) roll percents. Any percent under 50 + 
+skill level repairs that much. Rolls over 50 + skill level fail. Target takes 
+d10 Shock damage.
+For critical damage (50% or less) roll percents. Any percent under 30 + skill 
+level repairs that much. Rolls over 30 + skill level fail. Target takes d10 
+Shock damage.
+
+Survival: 
+Lost in the wilderness? You’re journey home will be made easier by 
+your ability to read the terrain, hunt and gather, and erect basic survival 
+structures.
+
+Weapons Use (Rifles / Pistols): 
+Pertains to clearing jams, assembling a gun, 
+reloading, etc. If it has a trigger and a barrel you can figure out how to use 
+it.
+
+Weapon Use (Blades): 
+Sword care, technique, and use are all covered here. For 
+your basic combat knives, long swords, Spears, etc.
+
+Weapon Use (Exotic): 
+Not a weapon covered above? it will fall under here. 
+Space katanas, Plasma and Coilgun weaponry, and Heavy Weapons need this skill.
+
+===== PERCEPTION =====
+Awareness: 
+your character's passive perception skill including all 6 senses. This differs from being able to look intently for something particular (Search).
+
+Search: 
+Looting things and ransacking offices is something you're quite fond of. Also helps whenever you are looking for something particular, rather than just sweeping the area for something of note (Awareness).
+
+Sniping: 
+You have a background going hunting with your dad, or maybe you went 
+to marine scout / sniper school. Who cares. If it moves, breathes or thinks, 
+you can hit it. Some weapons require this skill for use. 
+
+===== STRENGTH =====
+Door Kicking: 
+You've been trained in the subtle art of viscously and 
+unceremoniously removing a door from it's frame for rapid entry.
+
+Athletics:
+Excelling in physical ability, you are a better runner, jumper, climber, and
+swimmer than normal.
+
+
+
+Let me know about other skills. You can look here for inspiration:
+
+http://forum.rpg.net/showthread.php?463062-Gathered-List-Of-Skills-From-RPGS
+
+===================================================================
+Copyright 2016 Taylor Rowland
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+===================================================================

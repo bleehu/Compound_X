@@ -1,0 +1,101 @@
+==============================
+Player Tactical Movement Interface and Guide
+==============================
+This document is considered an "optional" or "supplemental"
+document. The information contained within is not necessary to be
+successful or to have fun in Compound_X, but it will augment the
+natural abilities of players and provide them with advantages over
+NPCs.
+
+==============================
+Introduction
+==============================
+Moving across a battle field is an art which enables a team to perform at much 
+more optimal levels. The key thing to remember is that communication helps 
+everyone. There different ways to move a team, and different situations ins 
+which to use them. This document won't go too in depth about scenarios and 
+what movement to use in them, but will introduce the reader to key-words to 
+inform both the team and the GM of what they want to do exactly.
+
+==============================
+Movement
+==============================
+
+Possibly the most important thing to remember when in a combat scenario, or 
+when you suspect that an encounter is imminent is to stick to cover. This is 
+pretty self-explanatory, but sticking to cover makes you less likely to die. 
+Windows, doorways, crates, cars, etc. are all good examples of cover.
+
+==============================
+Maneuvers
+==============================
+
+Pieing Corners
+    Pieing a corner is the act of rounding a corner in such a way that you are 
+    constantly aware of any targets around the corner. Rather than just 
+    steepping around the corner and then checking to see whats there, imagine 
+    dividng the corner into sections, like slices of pie. The combatant would 
+    take small steps, "eating" small pieces of pie and checking each 20 degree 
+    or 30 degree section for contacts as they move. This allows a more 
+    thorough examination of the environment while exposing less of your body to
+    a potential threat. This maneuver is performed with the gun in "up" 
+    position so that the combatant is ready to engage any threats that are 
+    discovered.
+
+Peeking Corners
+    Peeking a corner is a quick way of checking whats around it. The combatant 
+    stands or kneels next to the corner they want to peak, and quickly moves 
+    their head out of cover, lightly scanning the area for about a half 
+    second. Generally this is done with the weapon in ready position or 
+    holstered, as you want to be moving as little weight as possible to 
+    minimize the time you are exposed.
+
+Flanking
+    Flanking is the act of attacking from the opponent's side or rear, where 
+    they are more blind and less able to react to a threat. In order for a 
+    flank to have maximum success, those doing the flanking should take the 
+    enemy by surprise. Stealth or concealment are good options here.
+
+Supporting Fire / Covering Fire
+    Supporting fire is when an ally lays fire downrange in order to discourage 
+    the enemy from firing back or moving. It is useful for allowing movement 
+    of allied troops, either for a push, a flank, or a retreat. If a team 
+    wants to move half of their assets to a different location that would 
+    provide them with a tactical advantage, they might coordinate with each 
+    other and tell the GM "We are going to provide covering fire for X, Y and 
+    Z to do W." The GM may then have their enemy NPCs roll shock saving throws 
+    or just allow the enemies to be supressed for 1 turn. Additionally the GM 
+    may ask that those providing the covering fire expend more ammunition than 
+    they would normally consume in a regular turn of firing.
+
+Leap-Frogging
+    Leap frogging is a form of movement which enables a team to maximize 
+    coverage while moving. It is slower than just moving in a formation, but 
+    the group is less exposed as a whole. The group all take cover in some 
+    sort of line or column formation. The person or persons at the end of the 
+    line or collumn move to the front, while everyone else covers them. This 
+    pattern repeats as necessary until the group reaches their goal. This can 
+    be either a more secure area, or an extraction point. Combine this 
+    maneuver with solid stealth checks for an impenitrible defense, although 
+    the group will be slowed drastically.
+
+Changing Levels
+    When taking cover behind an object which you can peek around or under, you 
+    may want to change your attack height or attack position. This is 
+    especially useful if you are pinned by a machine gun or sniper. Normally 
+    we think of using cover exactly as it is presented to us. If there is a 
+    pillar, you stand behind it and shoot around it. For a car you might kneel 
+    behind it and shoot over it. It is also possible in these situations to 
+    fire from alternative locations. This provides you with one main advantage:
+    firing from an unexpected position or angle can catch an enemy off-guard. 
+    Think about laying down and peeking around a corner close to the ground to 
+    fire, or firing underneath a car.
+
+==============================
+Clearing Rooms
+==============================
+
+
+===================
+X
+===================

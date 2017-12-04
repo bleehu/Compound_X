@@ -1,0 +1,47 @@
+## Step 0: Ask for Advice
+No really, if you get stuck at any point or just want a second opinion, other players can be tremendously helpful and
+are usually more than happy to assist new players getting their feet wet.
+
+## Step 1: Race
+
+
+## Step 2: Class
+
+
+## Step 3: Background and Skills
+
+
+## Step 4: Attribute Point Allocation
+Now that you know your character's primary (from your class) and secondary (from your skills) capabilities, you have all 
+the information you need to decide your character's attributes. You have a total number of attribute points to allocate 
+based on your choice of race, and 7 attributes to which to allocate them. Basic Rules.txt describes what each attribute 
+does in a vacuum if you need a refresher. Here are a few pointers:
+1. Unless you know what you are doing, do not give your character less than 6 FORT. FORT directly determines your health
+points, and having enough of them contributes to not dying.
+2. Have at least 6 in either STR or DEX, and if possible up to 8. One of these stats will determine your movement speed,
+which is of high value.
+3. Have at least 4 Luck. Luck is a unique attribute and its value can be hard to gauge without experiencing its effects 
+firsthand.
+4. Avoid the 6-6-6-6-6-6-6 even attribute spread. While you won't be bad at anything, you also won't be particularly good 
+at anything. It will be more fun for the whole group if characters are good at some things and not so good at others, as
+in real life.
+One way to go about this process is to decide on 2-3 things you want your character to be especially good at, based both 
+on what the attributes themselves do and the dependencies of the skills you selected, and giving those stats a number 
+between 7-9 each. Then give a 3-5 to one or two things your character won't be as good at, and finally adjust your numbers 
+as necessary to give medium scores to the remaining attributes.
+
+## Step 5: Feats
+If you are making a level 1 character, you do not need to worry about feats. If your GM wants you to begin at a higher 
+level, you may wish to ask them for advice on which feats to take.
+
+## Step 6: Weapons, Attachments, and Armor
+Weapon and Armor proficiencies are determined by your class, as is your financial reach. Usually, though not always, you
+will want to acquire the heaviest type of armor your class has access to. Weapons are trickier, as each type of weapon
+is the best class of weapon for a particular task. As a Soldier, you probably want a carbine or assault rifle so that you
+can engage in any mid-range combat. If money permits you may also want a sidearm and/or melee weapon to shore up close-
+quarters fighting.
+
+## Step 7: Equipment
+Any remaining credits you have can be spent on miscellaneous equipment from the [Items](https://github.com/bleehu/Compound_X/blob/play/CharacterCreation/07_Items.txt) document. Take whatever items you
+find that fit your character's aesthetic. We recommend on gneral principles always having a communicator of some type 
+and if money permits a medkit/repair kit or two, depending on whether your race is organic or robotic.
