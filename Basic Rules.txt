@@ -352,23 +352,55 @@ Skill Point Gain:
 	max of 50 points in any one Skill. Also, you have a max of 17+3*[CHA] points in any one Charisma Skill.
 
 ===== Nanites =====
-Although not a primary or secondary stat per se, The maximum number of Nanites you can use at a given time is 
-determined by your character class and an associated primary stat. Your class may tell you its 
-"Class Primary Attribute" is Strength. In that case, Strength * 10 is your maximum Nanites. More generally:
+	Although not a primary or secondary stat per se, The maximum number of 
+Nanites you can use at a given time is determined by your character class and an 
+associated primary stat. Your class may tell you its "Class Primary Attribute" 
+is Strength. In that case, Strength * 10 is your maximum Nanites. 
+
+More generally:
 	Your Maximum Nanites = (Your Class's Primary Attribute) * 10
-Some class feats and other abilities can increase the number of Nanites you can hold and use at a given time. 
-Also, Unlike Health, Nanites regenerate during combat at a rate of 3 Nanites per turn. 
+Some class feats and other abilities can increase the number of Nanites you can 
+hold and use at a given time. Also, Unlike Health, Nanites regenerate during 
+combat at a rate of 3 Nanites per turn. 
 	
+
 ===== Assigning Stats to a New Character =====
 	When making a new character, you'll have to assign their Base stats.
 This will tell you a lot about your character. When assigning your stats,
 no stat can be higher than a 9 before applying racial/species bonuses and
 no stat can be lower than a 1 after applying racial/species bonuses. 
-Additionally, even after race/species bonuses, feats, equipment and base stat 
+
+	Additionally, even after race/species bonuses, feats, equipment, and base stat 
 bonuses from leveling, no stat can ever be over 15 until your character is 
 level 15. After level 15, the limit for stat points is 20. The number of 
 initial base stat points that you have to apply is listed with your Race or 
 Species. See chapter 1: Races if you haven't yet. 
+
+===== Assigning A Class to your Character =====
+	Most Characters start at level 1 so the Player will choose a Class for that 
+Character at that time. A Character will only ever have one Class at a time, and
+under normal circumstances, cannot change their class once it is picked. 
+
+	On occasion (especially for new Players), a character may start at level 0 
+with no Class. This is usually for a tutorial mission and a Class is selected
+when the Character has completed the tutorial and leveled up to level 1. 
+
+===== Weapon Proficiencies =====
+	Each Class comes with a specific list of Weapon Proficiencies. If your 
+Character has a proficiency with a type of weapon, then they can use that weapon
+in combat and can purchase weapons of that type in the world or during character
+creation. If your Character lacks proficiency with a weapon, then they can't 
+purchase or use a weapon of that type. 
+
+	Note that Weapon Proficiency is different than having Skills with that 
+weapon. For more on Skills, see the "RP / Using Skills" section of this document.
+
+===== Armor Proficiencies =====
+	Just like each Class comes with a set of Weapon Proficiencies, it also comes
+with a list of Armor Proficiencies. Just like Weapon Proficiencies, if your 
+class has a Proficiency with a given armor type then they can purchase or wear
+that armor type in combat. If your character doesn't have that proficiency, then
+they can't.
 
 ===== Leveling Up =====
 Gain feats according to the table below.
@@ -651,7 +683,7 @@ Kicking/Shoving:
 Instead of dealing full damage, a character can try to kick/shove a human sized
 opponent to force movement by rolling for a normal unarmed/armed melee attack 
 with an additional -2 miss penalty against the opponent's Guard DC. If the attack 
-succeeds, it yields 1/2 the damage it normally would and pushes the target 
+succeeds, it yields 1/2 the damage it normally would and pushes the target up to
 1m for every 5 strength you have.
 
 ===== Actions =====
@@ -1128,19 +1160,3 @@ have performed a combat action, the cloak fizzes out.
 ╚═══════════╩═════════════╩═══════════╩═════════════════╝
 The Table bonuses are not cumulative.
 *  For levels 1-4, you may only cloak once per encounter.
-
-//===================================================================
-//Copyright 2016 Taylor Rowland
-//
-//Licensed under the Apache License, Version 2.0 (the "License");
-//you may not use this file except in compliance with the License.
-//You may obtain a copy of the License at
-//
-//   http://www.apache.org/licenses/LICENSE-2.0
-//
-//Unless required by applicable law or agreed to in writing, software
-//distributed under the License is distributed on an "AS IS" BASIS,
-//WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-//See the License for the specific language governing permissions and
-//limitations under the License.
-//===================================================================
