@@ -1,7 +1,11 @@
 ==============================
 Procedures
 ==============================
-    Medics have the skills and tools to perform certain procedures.
+    Doctors have the skills and tools to perform certain Procedures. As a Doctor
+gains more experience in the field, they learn to perform new Procedures. 
+Procedures are broken into two categories; Malpractice and Hippocratic. 
+Hippocratic Procedures help the medic and their allies. Malpractice Procedures
+tend to violate the Hippocratic Oath to "do no harm."
 
 Contagions:
     Some of the more ... questionable... talents of the medic require the use of 
