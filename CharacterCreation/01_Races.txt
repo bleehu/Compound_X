@@ -230,20 +230,3 @@ touches you takes 10 dmg +5 poison dmg per turn until cleansed. If you barrel
 into anything while poofed, it takes 30 damage +10 poison damage per turn and 
 must roll a shock save DC of 50 to not be paralyzed. You are easier to hit while
 in this state and take an additional %10 damage from any damage done to you.
-
-
-//===================================================================
-//Copyright 2016 Taylor Rowland
-//
-//Licensed under the Apache License, Version 2.0 (the "License");
-//you may not use this file except in compliance with the License.
-//You may obtain a copy of the License at
-//
-//   http://www.apache.org/licenses/LICENSE-2.0
-//
-//Unless required by applicable law or agreed to in writing, software
-//distributed under the License is distributed on an "AS IS" BASIS,
-//WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-//See the License for the specific language governing permissions and
-//limitations under the License.
-//===================================================================
