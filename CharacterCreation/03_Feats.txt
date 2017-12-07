@@ -17,21 +17,21 @@ Prerequisites: Dex 7, Level 6, Dual Wield feat
 the reload penalty to 10%. You may fire at more than one target at once for 
 an additional +2 miss chance penalty.
 
-Acquired: Additional Plating
+Acquired, Additional Plating:
 Prerequisites: Marksman, Gunslinger
-	Enables the use of Medium Armour by the listed classes.
+	Enables the use of Medium Armor by the listed classes.
 
-Acquired: Battle Ready
+Acquired, Battle Ready:
 Prerequisites: Pilot, Adept
-	Enables the use of Heavy armour by the listed classes.
+	Enables the use of Heavy armor by the listed classes.
 
-Acquired: Metal Jacket
+Acquired, Metal Jacket:
 Prerequisites: Soldier, Engineer, Adept, Berserker
-	Enables the use of Full Armour by the listed classes.
+	Enables the use of Full Armor by the listed classes.
 
-Acquired: The Clandestine Option
+Acquired, The Clandestine Option:
 Prerequisites: Soldier, Specialist, Pilot, Adept, Hunter
-	Enables the use of Concealed Armour by the listed classes.
+	Enables the use of Concealed Armor by the listed classes.
 
 Backstab:
 Prerequisites: Level 3, Assassin or Monk.
@@ -124,7 +124,7 @@ terminal, or use a monitor to perform a computer inquiry or operation.
 +15% to ONE pertinent skill check (hacking, etc.) while using this feat,
 to be chosen at the time of taking this feat.
 
-Fish To Water
+Fish To Water:
 Prerequisites: Fort > 2
 	Maybe you took a lot of swimming lessons when you were little, maybe you
 were on the college swim team, or maybe your military training had an 
@@ -204,17 +204,17 @@ Prerequisites: Level 7 or higher
 
 Nanite Concentration:
 Prerequisites: Level 5, 20 skill in Knowledge[Nanites]
-	Allows the user to better concentrate on their expenditure of nanites, allowing them
+	Allows the user to better concentrate on their expenditure of Nanites, allowing them
 to achieve one of the following (you must choose one option when you acquire the feat):
 - +2 turns of cloaking
-- Once per turn, +20% (or +2) to a Nanite-related-combat-action at a cost of 20 nanites (ask GM before applying to an action.)
-- Once per turn, +20% to a non-combat-action at a cost of 20 nanites (ask GM before applying to an action.)
+- Once per turn, +20% (or +2) to a Nanite-related-combat-action at a cost of 20 Nanites (ask GM before applying to an action.)
+- Once per turn, +20% to a non-combat-action at a cost of 20 Nanites (ask GM before applying to an action.)
 - Other, run any ideas by GM.
     
-Nanite Absorbtion: 
+Nanite Absorption: 
 Prerequisites: 10 skill in Knowledge[Nanites]
-	Once per turn, if you score a critical hit on a target that has nanites,
-the target loses up to 20 nanites and you gain the amount lost.
+	Once per turn, if you score a critical hit on a target that has Nanites,
+the target loses up to 20 Nanites and you gain the amount lost.
 
 Never Tell Me the Odds:
 Prerequisites: LCK 4
@@ -255,13 +255,13 @@ Prerequisites: CHA <=2 and INT >=8
 limit by 10. You may also ask the GM how many bullets each opponent has left in their
 weapon.
 
-Salty Hashtables
+Salty Hashtables:
 Prerequisites: Must be a mechanical race
 	Your data inputs are sanitized and encrypted, complete with checksums!
 Hacking you is 25% harder and you are aware whenever one of your senses is 
 malfunctioning.
 
-Salty Space Dog
+Salty Space Dog:
 Prerequisites: Pilot or 10 Piloting Skill
 	You've been up in the black more times than you can count. You get a +15% to
 maintaining your bearings during a hyperspace jump as well as a +15% to stellar
@@ -269,7 +269,7 @@ navigation.
 
 Shadow Sense:
 Prerequisites: Level 12 Monk with Shadow Walk or Shadow Strike.
-	Your Aura Shield gains a +10 DR armour bonus if you have Shadow Strike or a +20 DR armour
+	Your Aura Shield gains a +10 DR armor bonus if you have Shadow Strike or a +20 DR armor
 bonus if you have Shadow Walk.
 
 Signature Move: 
@@ -278,7 +278,7 @@ Prerequisites:
 with a Name or Motto for your signature move, and you gain +10% toward this 
 action. HOWEVER, you must shout your Motto or the Name when you perform this 
 move. And hey, keep this move on the DL unless it is absolutely necessary to 
-be used. You wouldn''t want posers to copy it. (Note: this is an RP'd action 
+be used. You wouldn't want posers to copy it. (Note: this is an RP'd action 
 meant to be performed in CQC, not simply aiming your rifle at their head 
 and squeezing the trigger while shouting "BOOM HEADSHOT!" Please ask for 
 GM permission when using this feat.)
@@ -322,7 +322,7 @@ Prerequisites: STR 7, Strong Back
 more than some. In addition to two primary weapons, you can carry another 
 secondary weapon.
 
-Tele-Cast
+Tele-Cast:
 Prerequisites: Paladin, Sorcerer, Mage.
 	You may use a melee weapon to perform touch effect spells.
 
@@ -373,8 +373,8 @@ and Speech skill by 10.
 
 Ward:
 Prerequisites: DEX 10, or Level 8 assassin / berserker. 
-	+15% armour coverage when your melee weapon is equipped in your hands. 
-(If you have no armor equiped, this feat grants you AP level 1 protection
+	+15% armor coverage when your melee weapon is equipped in your hands. 
+(If you have no armor equipped, this feat grants you AP level 1 protection
 with 15% coverage)
 
 Investor: 
