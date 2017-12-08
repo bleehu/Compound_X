@@ -223,9 +223,9 @@ Somehow you always aim at the right location, at the right time.
 
 Punch Drunk:
 Prerequisite: Fort > 3
-Take a +5% to miss on all attacks when not drunk. 
-Instead of taking a penalty to accuracy when using melee attacks when 
-intoxicated, you get a -10% to miss when buzzed and a -15% to miss when
+	Take a +1 to miss on all attacks when not drunk. 
+Instead of taking a penalty to accuracy when using melee attacks while 
+intoxicated, you get a -1 to miss when buzzed and a -2 to miss when
 hammered. On hits that land while you are buzzed or hammered, you deal extra 
 damage equal to your strength modifier.These bonuses only apply to melee 
 attacks. You also get a +10% on rolls to avoid blacking out.  
