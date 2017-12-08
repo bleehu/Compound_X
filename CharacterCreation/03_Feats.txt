@@ -23,11 +23,11 @@ Prerequisites: Marksman, Gunslinger
 
 Acquired, Battle Ready:
 Prerequisites: Pilot, Adept
-	Enables the use of Heavy armor by the listed classes.
+	Enables the use of Medium-Heavy Armor by the listed classes.
 
 Acquired, Metal Jacket:
 Prerequisites: Soldier, Engineer, Adept, Berserker
-	Enables the use of Full Armor by the listed classes.
+	Enables the use of Heavy Armor by the listed classes.
 
 Acquired, The Clandestine Option:
 Prerequisites: Soldier, Specialist, Pilot, Adept, Hunter
