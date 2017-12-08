@@ -46,16 +46,16 @@ is bloodied after the attack, they may not make a melee attack against you with
 their next action.
 
 Combat Expertise [Guns]: 
-Prerequisites:
+Prerequisites: None
 	-1 miss chance with guns. -5% penalty to Skill Checks in combat.
 
 Combat Expertise [Melee]: 
-Prerequisites:
+Prerequisites: None
 (Requirement for Expert Melee Training) 
 	-1 miss chance in melee. -5% penalty to Skill Checks in combat.
 
 Combat Expertise [Support]: 
-Prerequisites:
+Prerequisites: None
 	+20% bonus to skill checks for class-related tasks in combat. (If you are a medic, this 
 would apply to medicine but it wouldn't apply to hacking, etc.). +1 miss chance
 with Guns or Melee in combat.
@@ -67,13 +67,13 @@ try to fix it. You can use Concussive Maintenance even after you've already fail
 to repair something. You can use concussive maintenance once per target, per encounter.
 
 Conceal Weapon: 
-Prerequisites:
+Prerequisites: None
 	Make a stealth check to hide your chosen pistol, shotgun, or SMG on your 
 person. To succeed, you need a minimum score of 20. Roll determines DC for 
 enemy to actively search and find your hidden weapon.
 
 Desperate Crawl:
-Prerequisite:
+Prerequisites: None
 	When downed instead of not being able to move you may crawl half of your 
 move speed or 3m every two actions whichever distance is shorter. You still 
 cannot speak, and you cannot take any other action. Death saving throws are 
@@ -81,7 +81,7 @@ not actions, and must be thrown normally. You also get a +10% bonus to Death
 Saving Throws
 
 Double Tap: 
-Prerequisites: 
+Prerequisites: None 
 	Whenever your hit falls into crit range, with a max crit range of 3*, fire another bullet as a
 free action, foregoing the normal bonus-damage from a crit. The extra bullet automatically hits the 
 target if your first bullet does, does not trigger any other effects, and cannot be used to double tap
@@ -105,7 +105,7 @@ more than one target at a time. Reloading while dual wielding adds
 must be equal to or less than your strength.
 
 Empty the Mag: 
-Prerequisites:
+Prerequisites: None
 	It happens. You aren't quite sure if you can hit your target perhaps, or 
 maybe you round that corner and are staring down the barrel of an enemy AR-68.
 Whatever the case, you need to dump the mag in their face to guarantee your 
@@ -145,7 +145,7 @@ First Shot Counts more times in one encounter than the number of fresh magazines
 your weapon damages an area, First Shot Counts does not take effect.
 
 Focus Energy: 
-Prerequisites:
+Prerequisites: None
 	Spend 1 Action to increase the effects of a spell or Nanite based 
 action by 30%, (30% better roll, +30% damage [drop the remainder], up to you.)
 
@@ -156,7 +156,7 @@ land vehicle in which you do not catch air. This works with vehicles that have
 treads or some other method of land support as well.
 
 Novice Gunsmith: 
-Prerequisites:
+Prerequisites: None
 	Combine up to 2 weapon total conversions. Ask GM about applicability of 
 desired conversations.
 
@@ -178,7 +178,7 @@ for a total of 30 bonus damage. If your weapon has a magazine size of 1 or damag
 Last Shot Counts does not take effect.
 
 Leaf on the wind:
-Prerequisite: Pilot or 40 skill in piloting
+Prerequisites: Pilot or 40 skill in piloting
 	You get a +20% to pilot skill checks in airborne or spaceborne vehicles, and
 an additional +20% to unconventional maneuvers in such as well, but you and
 your vehicle take double damage for the next three turns after using these
@@ -192,7 +192,7 @@ Roll a d10 before any Blind Firing or Hip Firing action. If the roll is from 6 t
 Gain -2 miss chance for that firing action; If the roll is from 1 to 5, nothing happens.
 
 Last Stand:
-Prerequisite: Level 4
+Prerequisites: Level 4
 	Don't die alone. Always bring a friend. When you are downed, you may take up to 
 three actions on your turn to do one of the following: Draw a one-handed weapon 
 such as a pistol or SMG, Aim, or fire. You can no longer take any of these 
@@ -222,7 +222,7 @@ Prerequisites: LCK 4
 +1 Critical hit range (i.e., +10% Critical Hit chance).
 
 Punch Drunk:
-Prerequisite: Fort > 3
+Prerequisites: Fort > 3
 	Take a +5% to miss on all attacks when not drunk. 
 Instead of taking a penalty to accuracy when using melee attacks when 
 intoxicated, you get a -10% to miss when buzzed and a -15% to miss when
@@ -273,7 +273,7 @@ Prerequisites: Level 12 Monk with Shadow Walk or Shadow Strike.
 bonus if you have Shadow Walk.
 
 Signature Move: 
-Prerequisites:
+Prerequisites: None
 	What can you say. When you do what you're good at, you do it well. Come up 
 with a Name or Motto for your signature move, and you gain +10% toward this 
 action. HOWEVER, you must shout your Motto or the Name when you perform this 
@@ -327,14 +327,14 @@ Prerequisites: Paladin, Sorcerer, Mage.
 	You may use a melee weapon to perform touch effect spells.
 
 Toughness: 
-Prerequisites:
+Prerequisites: None
 	Roll a number of dice equal to your FORT / 5 (round up) + 1 and take the 
 result in extra hit points, or take the average of the result (1d10 = 5, 
 2d10 = 10, can be taken twice). If any of your die rolls is a 1 or 2, reroll
 the die.
 
 Upgrade: 
-Prerequisites:
+Prerequisites: None
 	Roll a number of dice equal to your INT / 5 (round up) + 1 and take the result 
 in extra Nanites, or take the average of the result (1d10 = 5, 2d10 = 10, can 
 be taken twice). If any of your die rolls is a 1 or 2, reroll the die.
@@ -492,7 +492,7 @@ Active Feats
 ==============================
 
 Adrenaline Rush [4*X Nanites]: 
-Prerequisites:
+Prerequisites: None
 	During a move action, +1 movement speed per X (up to a max of +10 movement),
 for that action only. This feat can only be used once per turn.
 Adrenaline Rush can be taken again to reduce the Nanite cost to 2*X.
