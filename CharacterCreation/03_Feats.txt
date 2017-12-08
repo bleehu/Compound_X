@@ -344,24 +344,24 @@ Prerequisites: Any stat > 9, combat style must primarily use this stat.
 	You are trained in the art of combative tossing, or some other obscure 
 fighting technique.
 
-Unlocked: Boomstick
+Unlocked, Boomstick: 
 Prerequisites: Adept, Gunslinger
 	Enables the use of shotguns by the listed classes.
 Note: Gunslingers can use their class feats with shotguns.
 
-Unlocked: Weapons Training
+Unlocked, Weapons Training:
 Prerequisites: Monk
 	Enables the use of melee weapons by the Monk class.
 
-Unlocked: Spray and Pray
+Unlocked, Spray and Pray:
 Prerequisites: Engineer
 	Enables the use of SMGs by the Engineer class.
 
-Unlocked: Small Arms Shipment
+Unlocked, Small Arms Shipment:
 Prerequisites: Marksman, Doctor, Priest
 	Enables the use of Carbines by the listed classes.
 
-Unlocked: Welcome to the Front Line
+Unlocked, Welcome to the Front Line:
 Prerequisites: Adept, Paladin
 	Enables the use of Automatic Rifles by the listed classes.
 
