@@ -23,7 +23,7 @@ without an Armor Material. If you purchase more than one Material* to cover
 your whole body (installing in the Arm, Leg, and Chest Rigs, for example) it 
 improves the Armor Coverage (% of Armor protection), but not the quantity of 
 the Armor Strength (AS) or the Armor Piercing Level (APL). 
-	For example: if you purchase a Chest Eig from the Medium Armor Systems
+	For example: if you purchase a Chest Rig from the Medium Armor Systems
 category and a Standard L1 Material, you'll have 40% coverage, 40 AS, and an 
 APL of 1. Now, in addition, if you purchase the Leg Rig from the Medium Armor 
 Systems and a Standard L1 Material, you'd have 55% coverage, 40 AS, and an
