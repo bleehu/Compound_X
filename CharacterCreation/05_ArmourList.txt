@@ -1,44 +1,8 @@
 ==============================
-Notes
+NOTES
 ==============================
 	This document lists the armors and rig equipment 
 available to characters in standard campaigns.
-
----- (Approximate) TABLE OF CONTENTS ----
-
-Introduction
--Armor Systems
--Where is my Ammo Storage?
--What is an Advanced Rig?
-
-Standard Ballistic Armor Materials
--Levels 1-10 Standard Armor Materials
-
-EVA Suits and Flight Helmets
--Helmets
--Flight Suits
-
-Armor Rigs
--I Recon Armor Rigs
--II Light Armor Rigs
--III Medium Armor Rigs
--IV Medium-Heavy Armor Rigs
--V Heavy Armor Rigs
-	
-Concealed Rigs
--Various
-
-Shield Generators
--Levels 1-10 Modules
-
-Cloaking Equipment
--Levels 1-10 Modules
-
-Utility Hard Point Equipment
--Explosives Carrier
--Mobility (Grapple) System
--Point Defense System
-
 
 ==============================
 INTRODUCTION
@@ -221,7 +185,7 @@ Suit integrity: 10 shots
 Kevlar Fiber Environment Suit
 Cost:	$2000
 Suit integrity: 20 shots
-Holds 1 trauma (armor) plate in the front and back. 30% coverage, must purchase 
+	Holds 1 trauma (armor) plate in the front and back. 30% coverage, must purchase 
 armor material separately (purchase a single armor material at chest armor cost).
 	
 ==============================
@@ -514,7 +478,7 @@ Recharge Rate / Turn:	50
 Fast Recharge Nanites:	14
 
 Secondary Module Cost:	810
-Sec Module Hard Pts:	1
+Sec Module Hard Pts:	1	
 Secondary Module Benefit: Either provides +60 shield strength
 OR +60 recharge rate, +4 fast recharge cost per secondary.
 Decided on purchase.
@@ -550,7 +514,6 @@ or +50 recharge rate. Decided on purchase.
 =====   LEVEL 10 REQUIREMENT   =====
 	
 ---- C-Class Self Sustained Nanite (SSN) Shield ----
-   *Blocks All Forms of Damage*
 Primary Module Cost:	4210
 Prim Module Hard Pts: 	2
 Shield Strength:	100
@@ -564,6 +527,7 @@ Secondary Module Benefit: Either provides +50 shield strength
 or +50 recharge rate, +4 fast recharge cost per secondary. 
 Decided on purchase.
 
+- Nanite Shields block all forms of damage.
 
 =====================================
 CLOAKING EQUIPMENT
@@ -595,7 +559,6 @@ Bonus, -1 Nanite Upkeep, per secondary module
 =====   LEVEL 5 REQUIREMENT   =====
 	
 ---- Mk1 Passive Camouflage Module ----
-  *Cloak Does Not Fail When Attacking*
 Primary Module Cost:	2500
 Stealth Skill Required:	10
 Prim Module Hard Pts: 	1
@@ -611,6 +574,10 @@ Sec Module Hard Pts:	1
 Secondary Module Benefit: Max of 2 secondary modules.
 +5 Detect DCs, -1 Nanite Activation Cost, -1 Nanite upkeep, 
 per secondary module.
+
+- Unlike most Cloaking modules, the Passive
+  Camouflage Module's Cloak does not fail when 
+  you attack.
 
 ---- Mk2 Advanced Microfoil Cloaker ----
 Primary Module Cost:	2750
