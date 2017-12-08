@@ -754,23 +754,23 @@ Fully-Automatic weapons cannot crit (weapons that shoot more than 1 bullet per A
 
 Armor and Getting Hit:
 When a player is defending against a successful enemy hit, they roll Percentiles under their 
-armor in order to see if their armor blocked the bullet, and from there, how much
-damage they receive. If the defending player has no armor, they armor roll for a target 50 Percentile. 
-If the armor roll is 50% or above, they receive half-damage. Below 50%, full damage.
+Armor Coverage in order to see if their Armor blocked the bullet, and from there, how much
+damage they receive. If the defending player has no Armor, they Armor roll for a target 50 Percentile. 
+If the Armor roll is 50% or above, they receive half-damage. Below 50%, full damage.
 
-Armor consists of 3 concepts: Armor Points (APs), Armor Piercing level (APL), and % Coverage.
+Armor consists of 3 concepts: Armor Strength (AS), Armor Piercing level (APL), and % Coverage.
 Starting from the end, Coverage is simply the percentile that you have to roll
-under to see if armor was hit. If the attack misses armor, or rolls over 50%, it does
+under to see if Armor was hit. If the attack misses Armor, or rolls over 50%, it does
 half damage because the bullet is hitting a less vital part of the body. If the attack
-hits armor: Armor Piercing level (APL) comes into play. 
-	APL is a unitless number that represents how well a weapon can pierce armor or
-how well armor can block bullets. If the attackers weapon's APL is less than the
-defenders armor's APL, all damage is blocked. If the weapon's APL is greater than
-or equal to the armor's APL, then Armor Points (APs) come into play. 
-	APs are, effectively, your armor's ability to slow down projectiles as they
-pass through it. Whenever armor is successfully pierced, all damage is first inflicted
-on APs. Once the APs are used up, all remaining damage goes to health. APs refresh at the
-start of the armor wearer's turn.
+hits Armor: Armor Piercing level (APL) comes into play. 
+	APL is a unitless number that represents how well a weapon can pierce Armor or
+how well Armor can block bullets. If the attackers weapon's APL is less than the
+defenders Armor's APL, all damage is blocked. If the weapon's APL is greater than
+or equal to the Armor's APL, then Armor Strength (AS) comes into play. 
+	AS is, effectively, your Armor's ability to slow down projectiles as they
+pass through it. Whenever Armor is successfully pierced, all damage is first inflicted
+to AS. Once the AS is used up, all remaining damage goes to health. AS refreshes at the
+start of the Armor wearer's turn.
 
 Shields:
 If you are looking to defend against Lasers or Plasma, you're in the right place. Every 
@@ -782,7 +782,7 @@ and the rest passes through to the next line of defense (either armor [if presen
 character's body). If the Shield's Strength is reduced to 0, all remaining damage passes 
 through unabated.
 As long as the Shield's Strength isn't reduced to 0, the shield will recharge 'Recharge Rate / Turn' 
-number of points at the start of the wearer's turn. If the Shield's Strength is reduced to 0, 
+amount of strength at the start of the wearer's turn. If the Shield's Strength is reduced to 0, 
 you must wait a "Shield Restart Time" number of turns before the shield will restart at 
 "Recharge Rate" strength. If you get hit with a weapon/by melee during that time, you must
 start your "Shield Restart Time" over again. 
@@ -937,7 +937,7 @@ a different person) you will likely trigger automatic attack rolls, DM's discret
 If a suppressed target moves out into the open**, they trigger automatic attack
 rolls (or automatic hits) by the suppressor, once per target per suppressor's 
 turn. If the suppressed target shoots, they fire with +1 miss chance, not-stackable.
-Suppression status can't be purged unless you move outside the AOE. 
+Suppression status can't be purged unless you move outside the AOE. 
 The only other way to stop being suppressed is to stop the suppressor from 
 using a suppression action on you at the end of their turn.
 
@@ -949,13 +949,13 @@ Light Suppression:
 	target with a (non-automatic fire) accuracy roll. Immediate reactions are stackable on a
 	per-weapon basis.
 Medium/Moderate Suppression:
-	identical to light suppression with the following exceptions, you must fire 6 rounds
+	Identical to light suppression with the following exceptions, you must fire 6 rounds
 	from the current magazine to achieve 'moderate', and you don't have to roll to hit -- you 
-	automatically hit and roll armor.
+	automatically hit and Armor roll.
 Heavy Suppression:
-	identical to light suppression with the following exceptions: you must fire 10 rounds
+	Identical to light suppression with the following exceptions: you must fire 10 rounds
 	from the current magazine to achieve 'heavy', you don't have to roll to hit -- you 
-	automatically hit x2 and roll for armor. You suppress all targets within a 2m radius 
+	automatically hit x2 and Armor Roll. You suppress all targets within a 2m radius 
 	AOE around the primary target.
 
 **"Moving out into the open" includes moving into a new location while you can
@@ -990,7 +990,7 @@ Necrosis - 2d10 +5 damage per turn. Seek medical attention immediately. If
 Pinned Down - Target pinned (hunkered, no movement) for 2 full turns or until they 
     pass a Will saving throw at DC of 70, whichever is quicker.
 Plasma Burn - 1d10+1 stackable damage per turn, for 2 turns if the target's armor
-    is pierced/missed. If the targets armor is hit/pierced, the armor's AP level is 
+    is pierced/missed. If the targets armor is hit/pierced, the armor's AP Level is 
     reduced by 1, permanently (repairable, DC 60% Repair check), not stackable. 
 Poisoned - d10 damage per turn. After 5 turns, some poisons may induce 
     unconsciousness. DC 50, Fortitude. Greater / Lesser poison increases damage 
@@ -1079,7 +1079,7 @@ this is a Knowledge [Nanites] DC. Mages/Sorcerers can add any skill points
 they have in Sorcery to their rolls, and Paladins may do the same with their 
 Knowledge [Nanites] skill. Some spells may also require the target to make a 
 saving throw in order to avoid the spell or negate its effects. Generally 
-speaking, spells have a range that is dependant on either the Charisma score 
+speaking, spells have a range that is dependent on either the Charisma score 
 of the caster or the Charisma Modifier.
 
 ==============================
