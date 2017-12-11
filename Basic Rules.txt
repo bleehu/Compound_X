@@ -111,7 +111,7 @@ see the 00_New_Player_Walkthrough.txt document in CharacterCreation. Following
 its steps will give you a customized, relatively low-complexity character that 
 will help you learn to play the rest of Compound X.
 
-Base Stats:: 
+Base Stats:
 	These decide what raw characteristics make up your character, and are 
 factored into most other decisions you make both in game and for the rest of 
 character creation. Choosing your stats is a very good way to start making a 
@@ -355,7 +355,7 @@ more Charisma, you get to choose between taking feat "Will to Survive" or feat
 
 Intelligence (INT): 
 	How smart are you? Intelligence determines how quickly you acquire new 
-skills when you	level up and how proficient you are at using some of those 
+skills when you level up and how proficient you are at using some of those 
 skills.
 
 	If you have 1 Intelligence, let's just say, you aren't particularly smart. 
@@ -391,7 +391,7 @@ on how many points you have in Luck.
 start of a combat encounter, roll a d10 and receive a penalty from the Black Cat 
 table, below.	
 
-===== BLACK CAT TABLE =====	
+== BLACK CAT TABLE ==	
 ╔═══════╦═══════════════════════════════════════════════════════════════════════════════════════╗
 ║ Roll  ║ Effect									  	║ 
 ╠═══════╬═══════════════════════════════════════════════════════════════════════════════════════╣
@@ -1052,7 +1052,7 @@ in the 90-100 range caused by a raw roll or by adding your weapon use skill),
 the reload time is halved (for Bolt-Actions it is reduced to 1 Action). On a 
 failure, the reload time takes twice as long.
 
-===== Suppression ===== 
+== Suppression == 
 
 	Every player with a ranged weapon gets the option to Suppress as the last 
 action of their turn. Suppression, also known as, "laying down fire", 
