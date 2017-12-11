@@ -1,10 +1,6 @@
-=======
-Items List
-
-
-//===================
-//tools
-//===================
+==============================
+Tools
+==============================
 Plasma cutter / Blow Torch ($450):
 Cut through steel, aluminum, etc unless it is specifically a hardened object. 
 cut through up to 1 inch of steel in 2 full turns, 2 inches in 3 full turns.
@@ -31,9 +27,9 @@ it, exportable to a portable device.
 Builds a 3D image of what its being pointed at, will need to see the object 
 from multiple angles to capture the whole object. Up to 20m^3 of space.
 
-//===================
-//wearables
-//===================
+==============================
+Wearables
+==============================
 Night Vision Goggles ($300):
 IR visibility for low light conditions. Resolution clouds after 100m.
 
@@ -41,9 +37,9 @@ Gas Mask ($300):
 Prevents the inhalation of noxious or toxic air-borne compunds. Reduce PER 
 based rolls (including strike rolls) by 10.
 
-//===================
-//consumables
-//===================
+==============================
+Consumables
+==============================
 
 MarkAll(tm) permanent marking pen. $2
 
@@ -80,9 +76,9 @@ to break.
 HD Zip-Cuffs ($300):
 Pack of 5 carbon-fiber zipe-tie cuffs. Strength DC 95 or INT 105 to Break.
 
-//===================
-//explosives
-//===================
+==============================
+Explosives
+==============================
 Breaching charges ($500):
 Will remove a door from your path. Make sure no one is within 2m of the door
 in any direction or they take damage as if hit by an ECSC fragmentation 
@@ -112,9 +108,9 @@ pass, etc. Basically items that cannot be used in combat, but would have great
 value in RP. These cost nothing, but you can only have a maximum of 2 items at 
 start.
 
-//===================
-//		Miscellaneous Items
-//===================
+==============================
+Miscellaneous Items
+==============================
 
 20m of Nylon Rope		$30:
 A light, sturdy rope 20 meters long which can hold a tension of 400lbs without snapping.
@@ -167,19 +163,3 @@ on the lookout for shops or characters who might sell you more things. If you
 want to buy other starting equipment, ask your DM if something specific is 
 available and how much it might cost. Equipment that you start with generally
 depends on your character's fist mission. 
-
-//===================================================================
-//Copyright 2016 Taylor Rowland
-//
-//Licensed under the Apache License, Version 2.0 (the "License");
-//you may not use this file except in compliance with the License.
-//You may obtain a copy of the License at
-//
-//   http://www.apache.org/licenses/LICENSE-2.0
-//
-//Unless required by applicable law or agreed to in writing, software
-//distributed under the License is distributed on an "AS IS" BASIS,
-//WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-//See the License for the specific language governing permissions and
-//limitations under the License.
-//===================================================================

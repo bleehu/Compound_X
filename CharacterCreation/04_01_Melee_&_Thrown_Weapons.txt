@@ -1,20 +1,21 @@
-============================================================
+==============================
 MELEE WEAPONS & UNARMED FIGHTING
-These weapons/attacks use an 'Accuracy Modifier' instead of
+==============================
+    These weapons/attacks use an 'Accuracy Modifier' instead of
 a 'Miss Chance'. This modifier is added to your combat dex modifier and
 and any relevant skill(s) to help you beat your opponent's guard DC.
 Melee weapons don't normally pierce armor, unless they state otherwise.
 
-If you have Hand-to-Hand trained, +10 damage for all melee weapons and unarmed fighting.
-Instead, if you have Hand-to-Hand Expert, +20 damage for all melee weapons and unarmed fighting. 
+- If you have Hand-to-Hand trained, +10 damage for all melee weapons and unarmed fighting.
+- Instead, if you have Hand-to-Hand Expert, +20 damage for all melee weapons and unarmed fighting. 
 
-Also, If you have melee combat skill >=20 then all DEX or STR requirements for 
-melee weapons are reduced by 1.
+- Also, If you have melee combat skill >=20 then all DEX or STR requirements for 
+  melee weapons are reduced by 1.
 
 (When dividing Melee Combat Skill, drop the remainder)
-============================================================
 
-==== UNARMED FIGHTING ====
+
+===== UNARMED FIGHTING =====
 
 ----Hand-to-Hand [untrained] 	Free	----
 Damage:		    5 + STR + DEX
@@ -142,22 +143,22 @@ the sword hit (instead of after). If the target has a standard (non-Nanite) shie
 30 damage and the plasma sword passes through the shield.
 
 
-============================================================
+==============================
 MISCELLANEOUS THROWN WEAPONS
-These weapons work similarly to guns. However your range is determined by your DEX or STR 
+==============================
+    These weapons work similarly to guns. However your range is determined by your DEX or STR 
 and your miss chance is reduced by your [Combat PER Mod] + [1 for every 10 Thrown Weapon Skill]. 
 Like melee attacks, if you roll a Crit or 3+ above your Miss Chance, you ignore the target's armor
 and deal full damage. Misc thrown weapons also benefit from Stealth Attacks (see basic rules).
 
-If you have Hand-to-Hand trained, +10 base damage for all misc thrown weapons. 
-Instead, if you have Hand-to-Hand Expert, +20 base damage for all misc thrown weapons. 
+- If you have Hand-to-Hand trained, +10 base damage for all misc thrown weapons. 
+  Instead, if you have Hand-to-Hand Expert, +20 base damage for all misc thrown weapons. 
+- Also, If you have melee combat skill >=20 then all DEX or STR requirements for Misc. Thrown Weapons
+  are reduced by 1.
+- All misc thrown weapons have a Reflex Modifier: -10
 
-Also, If you have melee combat skill >=20 then all DEX or STR requirements for Misc. Thrown Weapons
-are reduced by 1.
-All misc thrown weapons have a Reflex Modifier: -10
+- (When dividing Thrown Weapon Skill, drop the remainder)
 
-(When dividing Thrown Weapon Skill, drop the remainder)
-============================================================
 
 =====	LEVEL 1 REQUIREMENT WEAPONS	=====
 
@@ -202,9 +203,10 @@ DEX Requirement:   6
 AP Level:		5
 Notes/Description:	For melee, 15+STR+2*DEX+1xPlasma Burn, +1 melee accuracy. 3 per Secondary Ammo Slot.
 
-============================================================
+==============================
 GRENADES
-All grenades require an explosives skill of at least 10 to use.
+==============================
+    All grenades require an explosives skill of at least 10 to use.
 Targets can roll a luck or perception check at DC 60+[your explosives skill]% in order to dodge/attempt to jump out of the way.
 You can 'cook' a grenade in your hand for 1 action to make it impossible for an enemy to dodge.
 
@@ -212,8 +214,8 @@ Gain -2 miss chance if you are throwing under half of your grenade's max throwin
 If you fail your throw within 1 miss chance of the minimum, roll d4 meters for how off-target the grenade throw is.
 If you fail your throw beyond 1 miss chance, roll a d10 instead.
 
-All grenades have a Reflex Modifier: -10	
-============================================================
+- All grenades have a Reflex Modifier: -10	
+
 
 =====	LEVEL 1 REQUIREMENT WEAPONS	=====
 

@@ -1,50 +1,17 @@
-ARMOR LIST
-This document lists the armors and rig equipment available to characters in standard campaigns.
+==============================
+NOTES
+==============================
+	This document lists the armors and rig equipment 
+available to characters in standard campaigns.
 
-    ---- (Approximate) TABLE OF CONTENTS ----
-
-    Introduction
-	-Armor Systems
-	-Where is my Ammo Storage?
-	-What is an Advanced Rig?
-	
-    Standard Ballistic Armor Materials
-    	-Levels 1-10 Standard Armor Materials
-
-    EVA Suits and Flight Helmets
-	-Helmets
-	-Flight Suits
-	
-    Armor Rigs
-	-I Recon Armor Rigs
-	-II Light Armor Rigs
-	-III Medium Armor Rigs
-	-IV Medium-Heavy Armor Rigs
-	-V Heavy Armor Rigs
-		
-    Concealed Rigs
-	-Various
-
-    Shield Generators
-	-Levels 1-10 Modules
-	
-    Cloaking Equipment
-	-Levels 1-10 Modules
-	
-    Utility Hard Point Equipment
-	-Explosives Carrier
-	-Mobility (Grapple) System
-	-Point Defense System
-
-
-    =====================================
-		INTRODUCTION
-    =====================================
-For more information on how armor functions in CX, please see topic 
+==============================
+INTRODUCTION
+==============================
+	For more information on how armor functions in CX, please see topic 
 "Armor and Getting Hit" in the Basic Rules document.
 
-	   ---- ARMOR SYSTEMS ----
-Armor Systems are composed of an armor rig and a protective material. 
+===== ARMOR SYSTEMS =====
+	Armor Systems are composed of an armor rig and a protective material. 
 Having lots of armor may slow you down, but armor will prevent you from 
 being easy prey. Armor rigs can be broken down into 4 pieces: helmets,
 chest rigs, arm rigs, and leg rigs. 
@@ -61,20 +28,20 @@ category and a Standard L1 material, you'll have 40% coverage, 40 APs, and an
 APL of 1. Now, in addition, if you purchase the leg rig from the Medium Armor 
 Systems and a Standard L1 material, you'd have 55% coverage, 40 APs, and an
 APL of 1.
-*Note: you cannot mix-and-match materials or rig categories. Only one kind of 
-material for the one category of rigging you are wearing.
+		*Note: you cannot mix-and-match materials or rig categories. Only one
+		kind of material for the one category of rigging you are wearing.
 
-	---- WHERE IS MY AMMO STORAGE? ----
-If you are wearing any armor rigging, you have a certain amount of "Mag Space".
-When you are loading up your guns before a mission, you can decide how to 
-arrange your Mag Space to suit your needs. "Mag Space" translates 1 to 1
+===== WHERE IS MY AMMO STORAGE? =====
+	If you are wearing any armor rigging, you have a certain amount of 
+"Mag Space". When you are loading up your guns before a mission, you can decide 
+how to arrange your Mag Space to suit your needs. "Mag Space" translates 1 to 1
 into Primary Magazines, and 2 to 3 (or 1 to 1) into Secondary Magazines.
 	For example, if I have had chest rig from the Recon Armor Systems category, I 
 would have 5 Mag Space. I can turn that Mag Space into 3 Primary Magazine and 3
 Secondary Magazine spaces, 5 Primary Magazine spaces, or any feasible combination. 
 
-	---- WHAT IS AN 'ADVANCED RIG'? ----
-Advanced (adv.) rigs typically provide less armor coverage and magazine space 
+===== WHAT IS AN 'ADVANCED RIG'? =====
+	Advanced (adv.) rigs typically provide less armor coverage and magazine space 
 than their regular counterparts, but they allow you to attach Shield Generators,
 Hard Point Equipment, and/or Cloaking Equipment. Advanced rigs allow you to do
 this by providing 'Hard Points'. Hard Points are special joints and fittings that
@@ -89,11 +56,10 @@ Secondary Modules only work for the Primary Module they are designed for.
 	Some modules have a "____ Skill Requirement". In order to operate the module, you
 must have the required amount of the given skill.
 
-
-    =====================================
-     STANDARD BALLISTIC ARMOR MATERIALS
-    =====================================
-Adding any armor materials to a chest, leg, or arm rig adds to your 
+==============================
+STANDARD BALLISTIC ARMOR MATERIALS
+==============================
+	Adding any armor materials to a chest, leg, or arm rig adds to your 
 movement speed penalties by -1m per material added. The secondary stat,
 "Carry Strength", cancels out movement speed penalties; for more information,
 see section "Player Stats" in the Basic Rules document.
@@ -169,10 +135,10 @@ APL (Armor Piercing Level):	10
 APs (Armor Points):		130
 
 
-    =====================================
-        EVA SUITS AND FLIGHT HELMETS
-    =====================================
-Helmets may be worn with or added to armor or Environment (EVA) suits. 
+==============================
+EVA SUITS AND FLIGHT HELMETS
+==============================
+	Helmets may be worn with or added to armor or Environment (EVA) suits. 
 EVA suits are air- and water-tight when combined with an EVA or flight helmet.
 EVA suits are bulky, DEX skill checks have a -10% penalty and movement
 is reduced in RP. If the suit is hit more times than its "Suit Integrity"
@@ -180,321 +146,316 @@ rating, it will no longer be able to maintain air pressure (player health
 has to be damaged in order for "Suit Integrity" to count a hit). Suits 
 traditionally come in white, yellow or red.
 
-	=====   LEVEL 1 REQUIREMENT   =====
+=====   LEVEL 1 REQUIREMENT   =====
 	
-Basic Tactical Helmet $100
-Tactical and Combat helmets can hold NVGs, lights, radios, etc.
+Basic Tactical Helmet
+Cost:	$100
+	Tactical and Combat helmets can hold NVGs, lights, radios, etc.
 Protects the head from blunt trauma (mostly RP effects).
 
-Basic Flight Helmet $240
-A simple flight helmet. does not provide full seal, but can be paired with 
+Basic Flight Helmet
+Cost:	$240
+	A simple flight helmet. does not provide full seal, but can be paired with 
 air- and space-craft external oxygen systems. Protects the head from blunt
 trauma (mostly RP effects).
 
-Environment Helmet $350
-Provides a full environmental seal. Protects the head from blunt 
+Environment Helmet
+Cost:	$350
+	Provides a full environmental seal. Protects the head from blunt 
 trauma (mostly RP effects).
-
--------------------------------------------------
-
-	=====   LEVEL 1 REQUIREMENT   =====
 	
-Basic Flight-Suit  $800
-Basic Environment Suit, offers minimal ballistic protection. When shot, 
+Basic Flight-Suit
+Cost:	$800
+Suit integrity: 5 shots
+	Basic Environment Suit, offers minimal ballistic protection. When shot, 
 the suit will decompress or compress as necessary to maintain air pressure.
 Holds 1 trauma (armor) plate in the front and back. 30% coverage, must purchase 
 armor material separately (purchase a single armor material at chest armor cost).
-Suit integrity: 5 shots
 
-	=====   LEVEL 5 REQUIREMENT   =====
+=====   LEVEL 5 REQUIREMENT   =====
 	
-Polymer-Alloy Environment Suit  $1200
-Holds 1 trauma (armor) plate in the front and back. 30% coverage, must purchase 
+Polymer-Alloy Environment Suit
+Cost:	$1200
+	Holds 1 trauma (armor) plate in the front and back. 30% coverage, must purchase 
 armor material separately (purchase a single armor material at chest armor cost).
 Suit integrity: 10 shots
 
-	=====   LEVEL 10 REQUIREMENT   =====
+=====   LEVEL 10 REQUIREMENT   =====
 
-Kevlar Fiber Environment Suit  $2000
-Holds 1 trauma (armor) plate in the front and back. 30% coverage, must purchase 
-armor material separately (purchase a single armor material at chest armor cost).
+Kevlar Fiber Environment Suit
+Cost:	$2000
 Suit integrity: 20 shots
-
+	Holds 1 trauma (armor) plate in the front and back. 30% coverage, must purchase 
+armor material separately (purchase a single armor material at chest armor cost).
 	
-    =====================================
-		 ARMOR RIGS
-    =====================================
-Armor rigs cannot be worn in combination with other rigs from different types or tactical vests 
-(for example: Recon Rigs can't be worn with Light Rigs). Some of the lighter armor rigs cannot 
-hold armor materials, designated by "(*No Armor*)". Those rigs only provide more magazine 
-space or more hard points; they don't provide additional armor coverage.
+==============================
+ARMOR RIGS
+==============================
+	Armor rigs cannot be worn in combination with other rigs from different types or tactical 
+vests (for example: Recon Rigs can't be worn with Light Rigs). Some of the lighter armor rigs cannot 
+hold armor materials, designated by "(*No Armor*)". Those rigs only provide more magazine space 
+or more hard points; they don't provide additional armor coverage.
 
 =====  I RECON ARMOR RIGS   =====
-Tactical Vest system with armor underneath. 
+	Tactical Vest system with armor underneath. 
 
-----   STANDARD RIGS   ----
+== STANDARD RIGS ==
 	
-	----Chest Rig ----
-	Rig Cost:		400
-	Magazine Space:		5 (No more than 1 grenade per 3 secondary ammunition space)
-	Armor Coverage:		40% 
-	Movement Speed Penalty: -2m
+----Chest Rig ----
+Rig Cost:		400
+Magazine Space:		5 (No more than 1 grenade per 3 secondary ammunition space)
+Armor Coverage:		40% 
+Movement Speed Penalty: -2m
 
-	----Arm Rig (*No Armor*) ----
-	Rig Cost:		90
-	Magazine Space: 	(2 Secondary Magazines)
-	Armor Coverage:		n/a
-	Movement Speed Penalty: 0	
+----Arm Rig (*No Armor*) ----
+Rig Cost:		90
+Magazine Space: 	(2 Secondary Magazines)
+Armor Coverage:		n/a
+Movement Speed Penalty: 0	
 
-	----Leg Rig (*No Armor*) ----
-	Rig Cost:		120
-	Magazine Space:		2
-	Armor Coverage:		n/a
-	Movement Speed Penalty: 0
+----Leg Rig (*No Armor*) ----
+Rig Cost:		120
+Magazine Space:		2
+Armor Coverage:		n/a
+Movement Speed Penalty: 0
 
-----   ADVANCED RIGS   ----
+== ADVANCED RIGS ==
 
-	----Advanced Chest Rig ----
-	Rig Cost:		790
-	Magazine Space:		4 (No more than 1 grenade per 3 secondary ammunition space)
-	Armor Coverage:		30% 
-	Hard Points:    	2
-	Movement Speed Penalty: -2m
+----Advanced Chest Rig ----
+Rig Cost:		790
+Magazine Space:		4 (No more than 1 grenade per 3 secondary ammunition space)
+Armor Coverage:		30% 
+Hard Points:    	2
+Movement Speed Penalty: -2m
     
 =====  II LIGHT ARMOR RIGS   =====
-Light plate carrier system which holds one front plate and some gear.
+	Light plate carrier system which holds one front plate and some gear.
 
-----   STANDARD RIGS   ----
+== STANDARD RIGS ==
 
-	----Chest Rig ----
-	Rig Cost:		570
-	Magazine Space:		6 + (1 Additional Secondary Magazine or Grenade)
-	Armor Coverage:		40% 
-	Movement Speed Penalty: -2m
+----Chest Rig ----
+Rig Cost:		570
+Magazine Space:		6 + (1 Additional Secondary Magazine or Grenade)
+Armor Coverage:		40% 
+Movement Speed Penalty: -2m
 
-	----Arm Rig (*No Armor*) ----
-	Rig Cost:		90
-	Magazine Space: 	(2 Secondary Magazines or Grenades)
-	Armor Coverage:		n/a
-	Movement Speed Penalty: 0
+----Arm Rig (*No Armor*) ----
+Rig Cost:		90
+Magazine Space: 	(2 Secondary Magazines or Grenades)
+Armor Coverage:		n/a
+Movement Speed Penalty: 0
 
-	----Leg Rig ----
-	Rig Cost:		260
-	Magazine Space:		2	
-	Armor Coverage:		15% 
-	Movement Speed Penalty: 0
+----Leg Rig ----
+Rig Cost:		260
+Magazine Space:		2	
+Armor Coverage:		15% 
+Movement Speed Penalty: 0
 
-----   ADVANCED RIGS   ----
+== ADVANCED RIGS ==
 
-	----Advanced Chest Rig ----
-	Rig Cost:		790
-	Magazine Space:		5 + (1 Additional Secondary Magazine or Grenades)
-	Armor Coverage:		35% 
-	Hard Points:    	1
-	Movement Speed Penalty: -2m
+----Advanced Chest Rig ----
+Rig Cost:		790
+Magazine Space:		5 + (1 Additional Secondary Magazine or Grenades)
+Armor Coverage:		35% 
+Hard Points:    	1
+Movement Speed Penalty: -2m
 
-	----Advanced Arm Rig (*No Armor*) ----
-	Rig Cost:		130
-	Magazine Space: 	0
-	Armor Coverage:		n/a
-	Hard Points:    	1
-	Movement Speed Penalty: 0
+----Advanced Arm Rig (*No Armor*) ----
+Rig Cost:		130
+Magazine Space: 	0
+Armor Coverage:		n/a
+Hard Points:    	1
+Movement Speed Penalty: 0
 
-	----Advanced Leg Rig ----
-	Rig Cost:		320
-	Magazine Space:		0	
-	Armor Coverage:		15% 
-	Hard Points:    	1
-	Movement Speed Penalty: 0
+----Advanced Leg Rig ----
+Rig Cost:		320
+Magazine Space:		0	
+Armor Coverage:		15% 
+Hard Points:    	1
+Movement Speed Penalty: 0
     
 =====  III MEDIUM ARMOR RIGS   =====
-A smaller plate carrier system which holds a moderate amount of gear.
+	A smaller plate carrier system which holds a moderate amount of gear.
 
-----   STANDARD RIGS   ----
+== STANDARD RIGS ==
 
-	----Chest Rig ----
-	Rig Cost:		760
-	Magazine Space:		8 + (2 Additional Secondary Magazines or Grenades)
-	Armor Coverage:		40% 
-	Movement Speed Penalty: -2m
+----Chest Rig ----
+Rig Cost:		760
+Magazine Space:		8 + (2 Additional Secondary Magazines or Grenades)
+Armor Coverage:		40% 
+Movement Speed Penalty: -2m
 
-	----Arm Rig ----
-	Rig Cost:		220
-	Magazine Space: 	(2 Secondary Magazines or Grenades)
-	Armor Coverage:		10%
-	Movement Speed Penalty: 0
+----Arm Rig ----
+Rig Cost:		220
+Magazine Space: 	(2 Secondary Magazines or Grenades)
+Armor Coverage:		10%
+Movement Speed Penalty: 0
 
-	----Leg Rig ----
-	Rig Cost:		290
-	Magazine Space:		2	
-	Armor Coverage:		15% 
-	Movement Speed Penalty: 0
+----Leg Rig ----
+Rig Cost:		290
+Magazine Space:		2	
+Armor Coverage:		15% 
+Movement Speed Penalty: 0
 
-----   ADVANCED RIGS   ----
+== ADVANCED RIGS ==
 
-	----Advanced Chest Rig ----
-	Rig Cost:		1020
-	Magazine Space:		7
-	Armor Coverage:		35% 
-	Hard Points:    	1
-	Movement Speed Penalty: -2m
+----Advanced Chest Rig ----
+Rig Cost:		1020
+Magazine Space:		7
+Armor Coverage:		35% 
+Hard Points:    	1
+Movement Speed Penalty: -2m
 
-	----Advanced Arm Rig ----
-	Rig Cost:		330
-	Magazine Space: 	0
-	Armor Coverage:		10%
-	Hard Points:    	1
-	Movement Speed Penalty: 0
+----Advanced Arm Rig ----
+Rig Cost:		330
+Magazine Space: 	0
+Armor Coverage:		10%
+Hard Points:    	1
+Movement Speed Penalty: 0
 
-	----Advanced Leg Rig ----
-	Rig Cost:		370
-	Magazine Space:		0	
-	Armor Coverage:		15% 
-	Hard Points:    	1
-	Movement Speed Penalty: 0
+----Advanced Leg Rig ----
+Rig Cost:		370
+Magazine Space:		0	
+Armor Coverage:		15% 
+Hard Points:    	1
+Movement Speed Penalty: 0
 	
 =====  IV MEDIUM-HEAVY ARMOR RIGS   =====
-A hefty plate carrier system which holds front, back and side plates 
-as well as extended amounts of gear. Medium-Heavy Armor Chest Rigs
+	A hefty plate carrier system which holds front, back and side 
+plates as well as extended amounts of gear. Medium-Heavy Armor Chest Rigs
 provide a bonus +10 armor points.
 
-----   STANDARD RIGS   ----
+== STANDARD RIGS ==
 
-	----Chest Rig ----
-	Rig Cost:		1000
-	Magazine Space:		10
-	Armor Coverage:		40% 
-	Movement Speed Penalty: -2m
-	Notes: Provides an additional +10 Armor Points
+----Chest Rig ----
+Rig Cost:		1000
+Magazine Space:		10
+Armor Coverage:		40% 
+Movement Speed Penalty: -2m
+Notes: Provides an additional +10 Armor Points
 
-	----Arm Rig ----
-	Rig Cost:		320
-	Magazine Space: 	1
-	Armor Coverage:		15%
-	Movement Speed Penalty: -0.5m
+----Arm Rig ----
+Rig Cost:		320
+Magazine Space: 	1
+Armor Coverage:		15%
+Movement Speed Penalty: -0.5m
 
-	----Leg Rig ----
-	Rig Cost:		390
-	Magazine Space:		2	
-	Armor Coverage:		20% 
-	Movement Speed Penalty: -0.5m
+----Leg Rig ----
+Rig Cost:		390
+Magazine Space:		2	
+Armor Coverage:		20% 
+Movement Speed Penalty: -0.5m
 
-----   ADVANCED RIGS   ----
+== ADVANCED RIGS ==
 
-	----Advanced Chest Rig ----
-	Rig Cost:		1860
-	Magazine Space:		8
-	Armor Coverage:		35% 
-	Hard Points:    	2
-	Movement Speed Penalty: -2m
-	Notes: Provides an additional +10 Armor Points
+----Advanced Chest Rig ----
+Rig Cost:		1860
+Magazine Space:		8
+Armor Coverage:		35% 
+Hard Points:    	2
+Movement Speed Penalty: -2m
+Notes: Provides an additional +10 Armor Points
 
-	----Advanced Arm Rig ----
-	Rig Cost:		460
-	Magazine Space: 	0
-	Armor Coverage:		15%
-	Hard Points:    	1
-	Movement Speed Penalty: -0.5m
+----Advanced Arm Rig ----
+Rig Cost:		460
+Magazine Space: 	0
+Armor Coverage:		15%
+Hard Points:    	1
+Movement Speed Penalty: -0.5m
 
-	----Advanced Leg Rig ----
-	Rig Cost:		500
-	Magazine Space:		0	
-	Armor Coverage:		20% 
-	Hard Points:    	1
-	Movement Speed Penalty: -0.5m
+----Advanced Leg Rig ----
+Rig Cost:		500
+Magazine Space:		0	
+Armor Coverage:		20% 
+Hard Points:    	1
+Movement Speed Penalty: -0.5m
 
 =====  V HEAVY ARMOR RIGS   =====
-The heaviest plate carrier system available. Covers the front of your 
+	The heaviest plate carrier system available. Covers the front of your 
 chest, your back, your sides, shoulders, neck, pelvic region, and tops
 of your legs. Heavy Armor Chest Rigs provide a bonus +20 armor points.
 
-----   STANDARD RIGS   ----
+== STANDARD RIGS ==
 
-	----Chest Rig ----
-	Rig Cost:		1220
-	Magazine Space:		12
-	Armor Coverage:		40% 
-	Movement Speed Penalty: -2m
-	Notes: Provides an additional +20 Armor Points
+----Chest Rig ----
+Rig Cost:		1220
+Magazine Space:		12
+Armor Coverage:		40% 
+Movement Speed Penalty: -2m
+Notes: Provides an additional +20 Armor Points
 
-	----Arm Rig ----
-	Rig Cost:		410
-	Magazine Space: 	1
-	Armor Coverage:		25%
-	Movement Speed Penalty: -1m
+----Arm Rig ----
+Rig Cost:		410
+Magazine Space: 	1
+Armor Coverage:		25%
+Movement Speed Penalty: -1m
 
-	----Leg Rig ----
-	Rig Cost:		590
-	Magazine Space:		3	
-	Armor Coverage:		35% 
-	Movement Speed Penalty: -1m
+----Leg Rig ----
+Rig Cost:		590
+Magazine Space:		3	
+Armor Coverage:		35% 
+Movement Speed Penalty: -1m
 
-----   ADVANCED RIGS   ----
+== ADVANCED RIGS ==
 
-	----Advanced Chest Rig ----
-	Rig Cost:		2170
-	Magazine Space:		9
-	Armor Coverage:		35% 
-	Hard Points:    	2
-	Movement Speed Penalty: -2m
-	Notes: Provides an additional +20 Armor Points
+----Advanced Chest Rig ----
+Rig Cost:		2170
+Magazine Space:		9
+Armor Coverage:		35% 
+Hard Points:    	2
+Movement Speed Penalty: -2m
+Notes: Provides an additional +20 Armor Points
 
-	----Advanced Arm Rig ----
-	Rig Cost:		590
-	Magazine Space: 	0
-	Armor Coverage:		25%
-	Hard Points:    	1
-	Movement Speed Penalty: -1m
+----Advanced Arm Rig ----
+Rig Cost:		590
+Magazine Space: 	0
+Armor Coverage:		25%
+Hard Points:    	1
+Movement Speed Penalty: -1m
 
-	----Advanced Leg Rig ----
-	Rig Cost:		690
-	Magazine Space:		0	
-	Armor Coverage:		35% 
-	Hard Points:    	1
-	Movement Speed Penalty: -1m
+----Advanced Leg Rig ----
+Rig Cost:		690
+Magazine Space:		0	
+Armor Coverage:		35% 
+Hard Points:    	1
+Movement Speed Penalty: -1m
 
 ===== CONCEALED RIGS =====
-Offering slightly worse protection and armament than standard armor rigs, 
+	Offering slightly worse protection and armament than standard armor rigs, 
 but with the bonus of being concealable under a coat or jacket for clandestine
 or stealth oriented operations. 
-Concealed rigs cannot be worn in combination with other rigs or tactical vests.
+	Concealed rigs cannot be worn in combination with other rigs or tactical vests.
 
-	=====   LEVEL 1 REQUIREMENT   =====
-Runner's Kit: $100
-	Conceal Rig, Shoulder Harness
-		Pistol Holster, 2 Pistol mags
+Runner's Kit: 
+Cost:	$100
+- Conceal Rig, Shoulder Harness. Pistol Holster, 2 Pistol mags
 	
-Gunner Kit: $231
-	Trauma Plate Vest
-		Holds 1 trauma plate in the front. 30% coverage, must purchase armor
-		material separately (purchase a single armor material at chest armor cost).
-		Concealable.
-	Conceal Rig, Shoulder Harness
-		Pistol Holster, 2 Pistol mags
+Gunner Kit:
+Cost:	$231
+- Trauma Plate Vest. Holds 1 trauma plate in the front. 30% coverage, must 
+  purchase armor material separately (purchase a single armor material at chest 
+  armor cost). Concealable. 
+- Conceal Rig, Shoulder Harness. Pistol Holster, 2 Pistol mags.
 
-Enforcer Kit: $306
-	Trauma Plate Vest
-		Holds 1 trauma plate in the front. 30% coverage, must purchase armor
-		material separately (purchase a single armor material at chest armor cost).
-		Concealable.
-	Conceal Rig, Waist
-		Pistol Holster or 2 primary mags, 2 secondary mags
+Enforcer Kit:
+Cost:	$306
+- Trauma Plate Vest. Holds 1 trauma plate in the front. 30% coverage, must 
+  purchase armor material separately (purchase a single armor material at chest 
+  armor cost). Concealable. 
+- Conceal Rig, Waist. Pistol Holster or 2 primary mags,2 secondary mags.
 
-Clandestine Ops Kit: $341
-	Trauma Plate Vest
-		Holds 1 trauma plate in the front. 30% coverage, must purchase armor
-		material separately (purchase a single armor material at chest armor cost). 
-		Concealable.
-	Conceal Rig, Waist
-		Pistol Holster or 2 primary mags, 2 secondary mags
-	Conceal Rig, Shoulder Harness
-		Pistol Holster, 2 Pistol mags
-		
+Clandestine Ops Kit:
+Cost:	$341
+- Trauma Plate Vest. Holds 1 trauma plate in the front. 30% coverage, must 
+  purchase armor material separately (purchase a single armor material at chest 
+  armor cost). Concealable. 
+- Conceal Rig, Waist. Pistol Holster or 2 primary mags, 2 secondary mags. 
+- Conceal Rig, Shoulder Harness. Pistol Holster, 2 Pistol mags
 
-    =====================================
-	      SHIELD GENERATORS
-    =====================================
-Shields cover the wearer with a transparent field which blocks 
+==============================
+SHIELD GENERATORS
+==============================
+	Shields cover the wearer with a transparent field which blocks 
 100% of incoming laser damage, and 50% of plasma weapon damage, 
 as long as the shield isn't drained of its "Shield Strength".
 Traditionally, a shield unit consists of a generator pack which 
@@ -506,7 +467,7 @@ without letting it break, they can avoid the costly recharge time.
 For more information, please see section "Shields" in the 
 Basic Rules document.
 
-	=====   LEVEL 1 REQUIREMENT   =====
+=====   LEVEL 1 REQUIREMENT   =====
 	
 ---- A-Class Electron Shield ----
 Primary Module Cost:	2310
@@ -517,12 +478,12 @@ Recharge Rate / Turn:	50
 Fast Recharge Nanites:	14
 
 Secondary Module Cost:	810
-Sec Module Hard Pts:	1
+Sec Module Hard Pts:	1	
 Secondary Module Benefit: Either provides +60 shield strength
 OR +60 recharge rate, +4 fast recharge cost per secondary.
 Decided on purchase.
 
-	=====   LEVEL 5 REQUIREMENT   =====
+=====   LEVEL 5 REQUIREMENT   =====
 	
 ---- HiCap A-Class Electron Shield ----
 Primary Module Cost:	2410
@@ -550,10 +511,9 @@ Sec Module Hard Pts:	1
 Secondary Module Benefit: Either provides +50 shield strength
 or +50 recharge rate. Decided on purchase. 
 	
-	=====   LEVEL 10 REQUIREMENT   =====
+=====   LEVEL 10 REQUIREMENT   =====
 	
 ---- C-Class Self Sustained Nanite (SSN) Shield ----
-   *Blocks All Forms of Damage*
 Primary Module Cost:	4210
 Prim Module Hard Pts: 	2
 Shield Strength:	100
@@ -567,17 +527,18 @@ Secondary Module Benefit: Either provides +50 shield strength
 or +50 recharge rate, +4 fast recharge cost per secondary. 
 Decided on purchase.
 
+- Nanite Shields block all forms of damage.
 
-    =====================================
-	     CLOAKING EQUIPMENT
-    =====================================
-Ever wanted to be invisible? Please see section
+=====================================
+CLOAKING EQUIPMENT
+=====================================
+	Ever wanted to be invisible? Please see section
 "Cloaking" at the bottom of the Basic Rules document.
 You must have proficiency with stealth armor, and 
 you cannot use more than 1 cloaking primary module at 
 one time.
 
-	=====   LEVEL 1 REQUIREMENT   =====
+=====   LEVEL 1 REQUIREMENT   =====
 	
 ---- Mk1 Microfoil Cloaker ----
 Primary Module Cost:	2000
@@ -595,10 +556,9 @@ Sec Module Hard Pts:	1
 Secondary Module Benefit: Provides +1 Cloak Turn
 Bonus, -1 Nanite Upkeep, per secondary module
 
-	=====   LEVEL 5 REQUIREMENT   =====
+=====   LEVEL 5 REQUIREMENT   =====
 	
 ---- Mk1 Passive Camouflage Module ----
-  *Cloak Does Not Fail When Attacking*
 Primary Module Cost:	2500
 Stealth Skill Required:	10
 Prim Module Hard Pts: 	1
@@ -614,6 +574,10 @@ Sec Module Hard Pts:	1
 Secondary Module Benefit: Max of 2 secondary modules.
 +5 Detect DCs, -1 Nanite Activation Cost, -1 Nanite upkeep, 
 per secondary module.
+
+- Unlike most Cloaking modules, the Passive
+  Camouflage Module's Cloak does not fail when 
+  you attack.
 
 ---- Mk2 Advanced Microfoil Cloaker ----
 Primary Module Cost:	2750
@@ -632,7 +596,7 @@ Secondary Module Benefit: Provides -3 Detect DCs,
 -1 Charge Delay Actions, -3 Nanite Activation Cost, 
 -1 Nanite Upkeep, per secondary module.
 	
-	=====   LEVEL 10 REQUIREMENT   =====
+=====   LEVEL 10 REQUIREMENT   =====
 	
 ---- Mk3 Experimental Body Cloaker ----
 Primary Module Cost:	3520
@@ -650,13 +614,13 @@ Sec Module Hard Pts:	1
 Secondary Module Benefit: -12 Nanite Activation Cost,
 -1 Charge Delay Actions, per secondary module.
 	
-    =====================================
-	 UTILITY HARD POINT EQUIPMENT
-    =====================================
+==============================
+UTILITY HARD POINT EQUIPMENT
+==============================
 
-	=====   LEVEL 1 REQUIREMENT   =====
+=====   LEVEL 1 REQUIREMENT   =====
 	
-	---- Explosives Carrier ----
+---- Explosives Carrier ----
 Primary Module Cost:	375
 Explosives Skill Req:	10
 Prim Module Hard Pts: 	1
@@ -681,7 +645,7 @@ slight motor noise to move on a grapple line.
 Secondary Module Cost:	n/a
 Sec Module Hard Pts:	n/a
 	
-	=====   LEVEL 5 REQUIREMENT   =====
+=====   LEVEL 5 REQUIREMENT   =====
 	
 ---- Class M Point Defense System ----
 Primary Module Cost:	1500
@@ -697,19 +661,3 @@ Secondary Module Cost:	1125
 Sec Module Hard Pts:	1
 Secondary Module Benefit: +60% chance to hit (max 100%),
 +3 meter radius, +5 Nanite Active cost, per secondary module.
-
-    
-//===================================================================
-//Copyright 2016 Taylor Rowland
-//
-//Licensed under the Apache License, Version 2.0 (the "License");
-//you may not use this file except in compliance with the License.
-//You may obtain a copy of the License at
-//
-//   http://www.apache.org/licenses/LICENSE-2.0
-//
-//Unless required by applicable law or agreed to in writing, software
-//distributed under the License is distributed on an "AS IS" BASIS,
-//WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-//See the License for the specific language governing permissions and
-//limitations under the License.
