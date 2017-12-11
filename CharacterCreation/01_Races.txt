@@ -94,6 +94,7 @@ Detachment A Security Drone
 ==============================
 
 ===== Society ===== 
+
     Slave soldiers. Squad families.
     Security Drones are specialized drones that have been granted a greater AI 
 capacity to learn and think independently. They are native to ECSC Compound X 
