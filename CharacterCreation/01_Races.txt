@@ -15,7 +15,7 @@ Speed:		Normal
 Starting Stat Points: 42
 Stat Modifiers:	
 +2 stat points to spend at level 1
-Language: 	Emperial Common, +1 dialect
+Language: 	Imperial Common, +1 dialect
 
 ===== Racial Traits =====	
 
@@ -124,7 +124,7 @@ reactor. Not affected by mind-influence, susceptible to hack attempts.
 Built in Armour: Take any Heavy Armour for $100 less, or armors cost $60 less.
 Purpose Built: Take an additional skill at 10 points during character 
 creation. This is considered a Class skill.
-25m Darkvision.
+25m IR Vision.
 Immune to: poison, cannot be intoxicated.
 Weakness (Electrical): Electrical damage deals an additional 50% damage.
 
@@ -156,14 +156,14 @@ or a combination of multiple augments. For example Occular Augment and Speed
 Geared Fine Motor Controls II might help a melee fighter increase both damage 
 and hit chance.):
 
-* Occular Augmentation: +1 Perception, Darkvision 20m.
+* Ocular Augmentation: +1 Perception, IR Vision 20m.
 * Enhanced Speed: +1 movement.
 * Enhanced Strength: +1 STR, metal arms, legs, or both.
 * Neural Implant: +1 Intelligence.
 * Speed Geared Fine Motor Controls: +1 DEX, no augment to movement speed.
 * Skeletal Support Structure: +1 FORT.
 * Implanted Weapon: See Below
-* Integrated multitool: See Below
+* Integrated multi-tool: See Below
 * Internal Reinforcing: Critical Damage threshold +5, +5 base health.
 * External Reinforcing: 5 DR passive, potential for RP abilities.
 
@@ -176,18 +176,17 @@ have this augment installed.
     Pick a pistol from the basic weapons list. This pistol is implanted in a 
 limb. You may manipulate your limb to use this weapon at the cost of 1 action. 
 While the weapon is out, that limb does not operate at its normal capacities. 
-Hands would not grasp, legs would not superbly support you, etc. Subrtact the 
+Hands would not grasp, legs would not superbly support you, etc. Subtract the 
 price of the weapon from your class starting money. The weapon can be upgraded 
 to another pistol with a DC 25 Biomechanics check, or a DC 50 Mechanics check. 
 It can be upgraded to any CQB weapon with a DC 50 Biomechanics or DC 75 
 Mechanics check.
 
-== Integrated Multitool ==
+== Integrated Multi-tool ==
 
     Your fingers hide a basic toolkit, including low-speed motorized 
 screwdrivers, soldering iron, wrenches, quantum spanner, toothpick, pliers, 
-sharp edge, lock pick, etc. If it fits in a leatherman, its plausible that it 
-would be in this toolkit.
+sharp edge, lock pick, etc.
 
 ===== Weaknesses =====
 
@@ -223,7 +222,7 @@ changing of their planet as a massive solar flare from their star shifted the
 magnetic fields holding in the atmosphere were shaken and ultimately disrupted, 
 causing the oceans to begin evaporating. With their oceans slowly dissipating 
 through the leak in the atmosphere, they have begun migrating to the nearby 
-Trioch IV, also mostly oceanus, which is out of immediate danger from the star. 
+Trioch IV, also mostly oceanic, which is out of immediate danger from the star. 
 Now, they live in both the oceans and the well-shaded estuaries on Trioch IV. A 
 few stubborn stragglers remain on Trioch II, which is slowly becoming a sandy, 
 dry wasteland with very little atmosphere. 
@@ -287,20 +286,3 @@ touches you takes 10 dmg +5 poison dmg per turn until cleansed. If you barrel
 into anything while poofed, it takes 30 damage +10 poison damage per turn and 
 must roll a shock save DC of 50 to not be paralyzed. You are easier to hit while
 in this state and take an additional %10 damage from any damage done to you.
-
-
-//===================================================================
-//Copyright 2016 Taylor Rowland
-//
-//Licensed under the Apache License, Version 2.0 (the "License");
-//you may not use this file except in compliance with the License.
-//You may obtain a copy of the License at
-//
-//   http://www.apache.org/licenses/LICENSE-2.0
-//
-//Unless required by applicable law or agreed to in writing, software
-//distributed under the License is distributed on an "AS IS" BASIS,
-//WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-//See the License for the specific language governing permissions and
-//limitations under the License.
-//===================================================================
