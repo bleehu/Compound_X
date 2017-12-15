@@ -143,10 +143,12 @@ sensitive to smoke or disease have disadvantage on this save. At level 10, this
 area expands to up to 3m x 5m at the discretion of the Doctor.
 
     "Contaminated" targets get a -2 to melee or weapon accuracy rolls, and lose
-5 health and 5 nanites at the end of their turn every turn until Contamination
+5 health and 5 Nanites at the end of their turn every turn until Contamination
 is cured. Contamination can be cured as an action by any character with skill in
 medicine such as enemy medics. The effect persists even if the target leaves the
-contaminated area.
+contaminated area. If a target would accrue negative Nanites from this effect,
+They take damage equal to the number of negative Nanites and their Nanites stay
+at 0. 
 
     The contaminant spray is a puffy asbestos-pink foam which fades slowly to
 gray in color over the 5 turns that it is active. Contaminated targets do not
@@ -325,9 +327,10 @@ Range:		Payload (use in combination with other powers)
     A biologic target afflicted with this poison must succeed on a DC 110 FORT 
 save or the target takes 180 damage that ignores shields and armor and silences 
 the target. If the target succeeds on their save, they take 60 damage instead. A 
-silenced target is prevented from using nanite abilities for 10 turns. (Also 
-prevents Engineering Processes and Doctor Procedures due to violent tremors). At 
-level 13, damage increases to 220.
+silenced target is prevented from using abilities that use Nanites for 10 turns. 
+(Also prevents Engineering Processes and Doctor Procedures due to violent 
+tremors). At level 13, damage increases to 220. Does not prevent unarmed or 
+attacks with guns or melee weapons.
 
 ==Plague ==
 Adrenaline Cost: 250 Points
@@ -356,7 +359,7 @@ Adrenaline Cost: 60 Points
 Nanite Cost: 15 Nanites
 Duration: 	2 Actions
 Range:		5m radius centered at a point up to 30m from the Doc
-    Your nanites form microscopic bonds with any solid surface allowing 
+    Your Nanites form microscopic bonds with any solid surface allowing 
 movement at your speed along any flat, solid surface that can support your 
 weight. The procedure for doing this without blowing up one's heart or leaving
 one's spine behind takes more training than the average soldier receives. It 
@@ -441,7 +444,8 @@ You gain 1 Contagion.
 Fortitude is permanently reduced by 2. You gain 2 Contagions.
 
     Their Lymph Node: The target loses their lymph node. They lose 40 health and
-120 Nanites. You gain 2 Contagions.
+up to 120 Nanites. This ability will not drop a target's nanite count below 0. 
+You gain 2 Contagions.
 
 ==============================
 Hippocratic Tree
@@ -511,7 +515,7 @@ easily detectable by tech scanning technologies or spells. PEGs cannot heal a
 patient over their maximum health.
 
 ==Improved P.E.G.s ==
-Adrenaline Reward:	50 Nanites
+Adrenaline Reward:	50 Points
 Contagion Reward: 2 Points
 Range: Touch
 Action: 2 Actions
@@ -547,7 +551,7 @@ Range:			Touch
 Action:			1 Action
     That's right... let it all out... Tastes a special kind of awful, don't it? 
 You give your ally a quick shot of stuff that makes their system reject any 
-foreign substances in their system. Any malicious nanites or poisons or toxins 
+foreign substances in their system. Any malicious Nanites or poisons or toxins 
 or parasites are immediately expelled as they violently puke. This cancels the 
 effect of domination, any NF variants, poison, hallucinogens, ongoing internal 
 CS burns, depressants, and paralytics other than physical impact. This procedure 
