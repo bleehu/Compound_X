@@ -4,6 +4,21 @@ Version Beta 0.0.2
 
 A fun sci-fi table top role playing game.
 
-Creative Director: Sarah Slater Game Director: Alex Lindahl Producer: Mike Hedges Lead Test: Stephen Little
+Creative Director: Reveraine
 
-Special Thanks to: Taylor Rowland Zach Carrell Rose Brallier James Talbott Nathan Young Derek Fuchs Kevin Fuchs Natalie Fuchs
+Game Director: 1Source Control
+
+Producer: Bleehu 
+
+Lead Test: Wildlovelies
+
+## Special Thanks to: 
+
+* Trowl223
+* HulkingOpossum
+* 
+* TurtleLord 
+* MasterdieKillsu 
+* Shrub 
+* Spinach 
+* Gnat
