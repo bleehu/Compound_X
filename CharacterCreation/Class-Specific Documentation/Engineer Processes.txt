@@ -436,7 +436,7 @@ ally will have to make a skill check to swap back their muzzle attachment.
 ==============================
 Build Tree
 ==============================
-Note:
+
     Nanites are used to "glue" modular bits of tech together and to allow tech 
 to function. After a certain amount of time the Nanites die and the item 
 crumbles. At higher levels, the Nanites are able to last longer so the item can 
