@@ -90,15 +90,15 @@ HD Zip-Cuffs ($300):
 ==============================
 Explosives
 ==============================
-Breaching charges ($500):
+Breaching charges ($160):
     Will remove a door from your path. Make sure no one is within 2m of the door
 in any direction or they take damage as if hit by an ECSC fragmentation 
 grenade.
 
-Wall Charge ($840):
+Wall Charge ($120):
     Reduces a 1.5x1.5m section of wall to rubble, allowing entry. Clear areas 2m 
-surrounding the charge or take 70 explosive damage. Densities of material one 
-wall charge can breach through is listed below.
+surrounding the charge or take 70 explosive damage. Thicknesses of several 
+materials one wall charge can breach through are listed below.
 
 Wood:       Up to 12in.
 Concrete:   up to 10in
