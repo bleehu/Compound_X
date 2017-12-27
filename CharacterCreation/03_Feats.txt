@@ -33,6 +33,7 @@ Acquired, The Clandestine Option:
 Prerequisites: Soldier, Specialist, Pilot, Adept, Hunter
 	Enables the use of Concealed Armor by the listed classes.
 
+
 Backstab:
 Prerequisites: Level 3, Assassin or Monk.
 	Any damage dealt to an unaware opponent from behind deals an additional 10 + (Lvl * 2) Base damage.
