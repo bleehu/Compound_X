@@ -1,15 +1,17 @@
-=============================================================================
+==============================
 RANGED WEAPONS
-Outside a weapon's longest range, you cannot hit your target.
+==============================
+    Outside a weapon's longest range, you cannot hit your target.
 Also, weapons cannot shoot over 100m without magnifying sights, or over 150m without 2x+ magnification.
 
-============================================================
+==============================
 SUB-MACHINE GUNS (SMGS)
-Capable of high rates of fire, but utilizing lighter calibers than a traditional combat rifle.
+==============================
+    Capable of high rates of fire, but utilizing lighter calibers than a traditional combat rifle.
 Minimum Strength 4. Reload time 2 Actions. Jam range 2%.
 
-All SMGs are considered CQB weapons and have Suppression Level - Medium (unless otherwise noted).
-============================================================
+- All SMGs are considered CQB weapons and have "Suppression Level - Medium" (unless otherwise noted).
+
 
 =====	LEVEL 1 REQUIREMENT WEAPONS	=====
 
@@ -133,9 +135,10 @@ Auto fire rate:			6
 Armor Pierce Level:		N/A
 Reflex Modifier:			+10
 
-============================================================
+==============================
 SHOTGUNS
-All pump shotguns take 1 Action to fire, 1 Action to rack. In the 
+==============================
+    All pump shotguns take 1 Action to fire, 1 Action to rack. In the 
 racking action, you can load an additional round of your specification for one
 additional action. Double barrel, semi, and auto shotguns do not follow this rule.
 Slug damage deals damage as a normal rifle would, dealing its full damage up 
@@ -144,8 +147,8 @@ which are listed with the weapon in question.
 Minimum Strength 4. Reload time is 3 Actions unless weapon is mag-fed. If Mag-fed, 
 reload time is 2 Actions.
 
-All Shotguns have Suppression Level - Light (unless otherwise noted).
-============================================================
+- All Shotguns have "Suppression Level - Light" (unless otherwise noted).
+
 
 ===== Level 1 Weapons =====
 
