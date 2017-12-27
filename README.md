@@ -1,19 +1,7 @@
-# Compound_X
-Compound_X table top role playing game.
+# Compound X Alpha
+Compound X table top role playing game Alpha Build. The classic version from
+before 1SourceControl's famed combat 2.0 update.
 
 Version 2.0.5
 
-Creative Director:      Sarah Slater
-Game Director:          Alex Lindahl
-Producer:               Mike Hedges
-Lead Test:              Stephen Little
-
-Special Thanks to:
-Taylor Rowland
-Zach Carrell
-Rose Brallier
-James Talbott
-Nathan Young
-Derek Fuchs
-Kevin Fuchs
-Natalie Fuchs
+By Trowl223, Bleehu and many more!
