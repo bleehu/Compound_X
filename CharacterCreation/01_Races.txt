@@ -11,7 +11,6 @@ Speed:		Normal
 Starting Stat Points: 42
 Stat Modifiers:	
 +2 stat points to spend at level 1
-Language: 	Emperial Common, +1 dialect
 Racial Traits:	
 None
 
@@ -58,7 +57,6 @@ Size: Medium
 Speed: Normal
 Starting Stat Points: 40
 Stat Modifiers: Flexible - +1 DEX, +1 to PER
-Language: Racial + ECSC Standard
 
 Racial Traits:
 Camouflage: Choose a natural terrain type (Jungle, mountain, plains, desert, 
@@ -88,7 +86,6 @@ Size: Medium+
 Speed: Normal
 Starting Stat Points: 40
 Stat Modifiers: INT + 1, FORT + 2. LUCK -3.
-Language: Basic
 
 Racial Traits:
 Robotic: Does not need to eat, breath, or sleep. Must spend 6 hours to 
@@ -114,7 +111,6 @@ Size: Medium
 Speed: Normal+
 Starting Stat Points: 40
 Stat Modifiers: See Below
-Language: ECSC Standard
 
 Racial Traits:
 Pick any three augments (you may take a single augment no more than 2 times, 
