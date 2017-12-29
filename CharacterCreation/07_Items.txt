@@ -61,9 +61,8 @@ separate instructions.
 Repair kit ($100):
     For normal damage (50% or less) roll percents under 50. On pass, repair 30 + 
 percent rolled. For severe wounds (50% or more), roll percents under 50. On 
-pass, repair 30.
-
-    If you have Skill in Repair, see the skill sheet for separate instructions.
+pass, repair 30. If you have Skill in Repair, see the skill sheet for separate 
+instructions.
 
 Nanite Pack ($100):
     Restores 2d10 + 20 nanites.
