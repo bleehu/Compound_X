@@ -41,6 +41,19 @@ based rolls (including strike rolls) by 10.
 Consumables
 ==============================
 
+Glow Stick ($4):
+    A clear plastic tube with filled with colored Cyalume that emits enough 
+light to see by in a 5m radius. When activated they make a muffled crunching
+noise and then last for about two hours. They are available in the following
+colors.
+*  Red
+*  Orange
+*  Gold
+*  Green
+*  Cyan
+*  White ($1 extra)
+*  Blacklight ($2 extra) 
+
 MarkAll(tm) permanent marking pen. $2
 
 MediKit: $100
