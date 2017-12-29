@@ -41,6 +41,19 @@ based rolls (including strike rolls) by 10.
 Consumables
 ==============================
 
+Glow Stick ($4):
+    A clear plastic tube with filled with a colored phosphorus compound that 
+emits enough light to see by in a 5m radius. When activated they make a 
+muffled crunching noise and then last for about two hours. They are available 
+in the following colors.
+*  Red
+*  Orange
+*  Gold
+*  Green
+*  Cyan
+*  White ($1 extra)
+*  Blacklight ($2 extra) 
+
 MarkAll(tm) permanent marking pen. $2
 
 MediKit: $100
@@ -49,28 +62,28 @@ For normal wounds (50% damage or less) roll percents under 50. On pass, heal 30
 50. On pass, heal 30. If you have Skill in Medicine, see the skill sheet for 
 separate instructions.
 
+Medic Needle Pack: $60
+Contains 10 needles suitable for use with several malpractice procedures.
+Not recommended for medicinal use. 
+
+Nanite Pack: $100
+Restores 2d10 + 20 nanites.
+
 Repair kit: $100
 For normal damage (50% or less) roll percents under 50. On pass, repair 30 + 
 percent rolled. For severe wounds (50% or more), roll percents under 50. On 
 pass, repair 30.
 If you have Skill in Repair, see the skill sheet for separate instructions.
 
-Nanite Pack: $100
-Restores 2d10 + 20 nanites.
-
 Security Spike: $100
 +20 to a hack check on a door with a physical access panel. DC 30 to place. 
 Once hacked the door can be controlled remotely.
-
-Medic Needle Pack: $60
-Contains 10 needles suitable for use with several malpractice proceedures.
-Not recomended for medicianal use. 
 
 Single Use door brute-forcer $120:
 Hacks through the encryption on a door (up to 75 DC) and opens it.
 
 Zip-Cuffs ($25):
-pack of 5 nilon fiber woven standard zip-tie cuffs. Strength DC 70 or INT 80 
+pack of 5 nylon fiber woven standard zip-tie cuffs. Strength DC 70 or INT 80 
 to break.
 
 HD Zip-Cuffs ($300):
