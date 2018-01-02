@@ -194,8 +194,7 @@ have 3 Movement Speed (from your Dexterity) and 4 Carry Ability (from your Forti
 Now, Strength is much higher than both of those, but Strength can't determine both 
 Movement Speed and Carry Ability so you have to decide whether you want:
 
-* 3 Movement Speed and 6 Carry Ability 
-* or 
+* 3 Movement Speed and 6 Carry Ability, or 
 * 6 Movement Speed and 4 Carry Ability 
 
 	Strength determining Movement Speed is likely to be the better choice, as 
@@ -211,15 +210,11 @@ shy or just have a terrible stutter.
 
 	But your raw base stat is rarely used in calculations during the game. To
 get the math to work out better, we usually us what is called a 'Stat Bonus'.
-Stat bonuses are used very often. They are calculated as so:
+Stat bonuses are used very often. They are calculated by one of the two equivalent 
+equations below (use whichever looks easier to you):
 
-	Stat Bonus = (4 * Stat) - 20 
-	
-	which is equal to 
-	
-	Stat Bonus = (Stat - 5) * 4
-	
-	if that's any easier.
+* Stat Bonus = (4 * Stat) - 20 
+* Stat Bonus = (Stat - 5) * 4
 
 	For instance, if you were trying to lift something heavy, your GM may tell 
 you to roll a 'Strength Check' and add your 'Strength Bonus'. To do this, you 
@@ -483,8 +478,7 @@ Leveling Up
 Intelligence 9 or higher, receive more feats. The feats listed in the table are 
 totals, not to be added together. Every 5th level, +1 Class feat.
 
-	Every level, gain 2*(Skill Point Gain) skill 
-points.
+	Every level, gain 2*(Skill Point Gain) skill points.
 
 	On levels 5, 9, 15 and 20, gain a stat point. The stat increase happens 
 before any calculations, so if you had 10 int, and increased to 11, you would 
@@ -544,14 +538,23 @@ Saving Throws
 
 	Saving throws are used in dire or critical situations to defend against very 
 negative effects.
-- Will: defend against a mind affect (Ex: throw off hopelessness after crashing in an escape pod)
-- Shock: maintain composure after serious damage (Ex: stay conscious after being shot by a high caliber round)
-- Reflex: quickly react to an event (Ex: dodge falling debris, fire at an enemy if they leap from one piece of cover to another).
+
+- Will: defend against a mind affect (Ex: throw off hopelessness after crashing 
+	in an escape pod)
+- Shock: maintain composure after serious damage (Ex: stay conscious after being 
+	shot by a high caliber round)
+- Reflex: quickly react to an event (Ex: dodge falling debris, fire at an enemy 
+	if they leap from one piece of cover to another).
 
 The equations are as follows:
-- Will: 2*(Cha + Int - 6) Rational: Normally wisdom would be applied, so Will in compound X is descried as your internal voice motivating you to endure a mental hardship.
-- Shock: 2*(Fort + Int - 6) Rational: You need to recognize that you are in shock, and resist its physical effects.
-- Reflex: 2*(Per + Dex - 6) Rational: In order to react quickly to an event you need to be able to see it coming.
+
+- Will: 2*(Cha + Int - 6) Rational: Normally wisdom would be applied, so Will in 
+	Compound X is descried as your internal voice motivating you to endure a 
+	mental hardship.
+- Shock: 2*(Fort + Int - 6) Rational: You need to recognize that you are in shock, 
+	and resist its physical effects.
+- Reflex: 2*(Per + Dex - 6) Rational: In order to react quickly to an event you 
+	need to be able to see it coming.
 
 ==============================
 Medicine Saving Throws
@@ -625,7 +628,7 @@ back up if you have fallen.
 	The skill DC to stabilize a fallen comrade is 80. Medicine skill, INT mod, 
 and any bonuses from medical equipment such as medpacks may be added to that roll. 
 
-*Footnote: Some hazards can reduce you to zero health points and kill you 
+*Some hazards can reduce you to zero health points and kill you 
 instantly. Some examples are falling several stories, lava baptisms,
 or having a space station dropped on you. Do not do these things. They are
 also known to the state of California to cause cancer. 
@@ -683,7 +686,7 @@ penalties if they attempt to use a skill that they don't have "Proficiency" in.
 A character has Proficiency in a skill when they have 10 or more skill points in 
 that skill.
 
-Defenders win ties for opposing rolls. If a character ties a DC they fail.
+	Defenders win ties for opposing rolls. If a character ties a DC they fail.
 
 ==============================
 Player Weapon Customization
@@ -706,6 +709,7 @@ attack. Each "Player turn" lasts 4-6 seconds, and consists of 4 "Actions"
 (described below).
 
 ===== Miss Chance Limits =====
+
 	At any time when using a melee or ranged weapon, you have a minimum of -2 
 weapon miss chance, and a minimum of 1 Auto or Burst miss chance (if relevant). 
 These minimums apply after all PER/DEX/STR/Attachment modifiers, at all ranges, 
@@ -713,6 +717,7 @@ and before cover and any other environmental effects. Using an ability could
 push you below the minimum miss chance.
 
 ===== Melee Combat =====
+
 	A character occupies 1m of space. however, as Compound X is not played out 
 on a squares-board, usually it doesn't matter if two players are within the same 
 1m space.
@@ -788,6 +793,7 @@ succeeds, it yields 1/2 the damage it normally would and pushes the target up to
 1m for every 5 strength you have.
 
 ===== Actions =====
+
 	During combat, your character has 4 Actions. Actions are used for fighting, 
 movement, items, whimpering, etc. Here is a list of common tasks and their
 relative cost:
@@ -808,6 +814,7 @@ Conversing With Partners: Free Action
 Getting Your Bearings / Non Skill-Based Perception: Free Action
 
 ===== Reactions & Held Actions =====
+
 	Certain abilities or circumstances will allow you to take a special action 
 in response to a triggering event. A reaction occurs at the immediate moment 
 that it is triggered, whether it is your turn or not. The most common reaction 
@@ -835,6 +842,7 @@ they had not tripped, my held action would've been lost at the start of my
 following turn.
 
 ===== Movement and Sprinting =====
+
 	You can run 'Movement Speed' minus 'Movement Speed Penalty' number of meters 
 for every 2 actions spent (Movement Speed Penalties should be rounded up before 
 the subtraction). A character with 1 Movement Speed and 0 move speed penalties 
@@ -848,6 +856,7 @@ You can jump vertically Str/3 meters.
 
 
 ===== Other Combat Details =====
+
 Critical Hits:
 	Critical hits are accuracy rolls that land inside your critical hit range 
 (aka. crit chance). If you roll a critical hit, your weapon does +20 damage for 
@@ -1070,12 +1079,13 @@ suppression AOE (Area-of-Effect, typically a 1-3m circle). Even though Suppressi
 is an AOE effect, if you cross in-front of someone (someone who is suppressing 
 a different person) you will likely trigger automatic attack rolls, DM's discretion.
 
-	If a suppressed target moves out into the open**, they trigger automatic 
-attack rolls (or automatic hits) by the suppressor, once per target per 
-suppressor's turn. If the suppressed target shoots, they fire with +1 miss 
-chance, not-stackable. Suppression status can't be purged unless you move 
-outside the AOE. The only other way to stop being suppressed is to stop the 
-suppressor from using a suppression action on you at the end of their turn.
+	If a suppressed target moves out into the open (see below), they 
+trigger automatic attack rolls (or automatic hits) by the suppressor, once 
+per target per suppressor's turn. If the suppressed target shoots, they 
+fire with +1 miss chance, not-stackable. Suppression status can't be purged 
+unless you move outside the AOE. The only other way to stop being suppressed 
+is to stop the suppressor from using a suppression action on you at the end 
+of their turn.
 
 Moving out into the open: 
 	In the context of suppression and movement, "moving out into the open" 
@@ -1187,7 +1197,7 @@ some Ballistic, Laser, and melee weapons can deal non-lethal variants. These
 damage types interact differently with the two types of protection: Armor and 
 Shields. 
 
-== Damage Types ==
+===== Damage Types =====
 
 Ballistic Weapons:
 	Ballistic weapons are straightforward: they are blocked by armor and ignore 
@@ -1220,7 +1230,7 @@ concussive damage (called blunt damage) that ignores armor but you can only deal
 1/2 damage, up to a max of 25 damage. Max of 35 damage if you are using a melee 
 weapon (like a club, sword, or even hitting them with your gun).
 
-== Protection Types ==
+===== Protection Types =====
 
 Armor:
 	Ballistic Armors (or more simply, Armor) are the first type of protective 
@@ -1298,7 +1308,7 @@ surrounding environment better and will stabilize.
 reduced, 'moving detect DC' as you are diverting your attention. However, once 
 you have performed a combat action, the cloak fizzes out.
 
-== CLOAKING DURATIONS AND LEVELING BONUSES ==
+===== Cloaking Durations and Leveling Bonuses =====
 ╔═══════════╦═════════════╦═══════════╦═════════════════╗
 ║ Character ║ Cloak Turns ║ Detect DCs║ Shadow Assassin ║
 ║   Level   ║             ║   Gain    ║ Cloak Turn Gain ║
