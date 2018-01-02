@@ -23,8 +23,6 @@ Stat Modifiers:	+2 stat points to spend at level 1
 Tundari
 ==============================
 
-Society: Tribal system, lead by a council of elders.
-
 ===== Homeworld: Tundaaari =====
 
     A dry, searingly hot planet covered in planes and deserts. 70% of the planet 
@@ -128,8 +126,6 @@ creation. This is considered a Class skill.
 25m IR Vision.
 Immune to: poison, cannot be intoxicated.
 Weakness (Electrical): Electrical damage deals an additional 50% damage.
-
-
 
 ==============================
 Cyborg
