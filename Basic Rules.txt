@@ -168,6 +168,7 @@ associated with a given secondary stat determines the secondary stat's value;
 However, if you have a primary stat that is associated with more than one 
 secondary stat, you may have to choose which secondary stat to contribute to.
 These stats are as follows (secondary stat associations are indented):
+<<<<<<< HEAD
 
 Strength:
 * Carry Ability
@@ -233,6 +234,7 @@ object depending on how heavy it is!
 
 ===== Combat Stat Bonus for Ranged and Melee Accuracy =====
 
+<<<<<<< HEAD
 	These bonuses use a table instead of the above Stat Bonus equation, as 
 combat accuracy rolls are played out on a d10, not a d100 scale. The two 
 most-used base stats for accuracy rolls are Perception and Dexterity. The 
@@ -240,29 +242,30 @@ Perception stat affects a ranged weapon's range bracket miss chance, and the
 Dexterity stat affects melee miss chance.
 
 == COMBAT MISS CHANCE BONUSES TABLE ==
-╔════════╦═════════════╗		
-║ Stat   ║ Stat Bonus  ║
-╠════════╬═════════════╣		
-║ 1      ║ -1.5	       ║	
-╠════════╬═════════════╣		
-║ 2      ║ -1	       ║	
-╠════════╬═════════════╣		
-║ 3-4    ║ -0.5	       ║		
-╠════════╬═════════════╣	
-║ 5      ║  0	       ║	
-╠════════╬═════════════╣	
-║ 6-7    ║  0.5	       ║	
-╠════════╬═════════════╣	
-║ 8-9    ║  1	       ║	
-╠════════╬═════════════╣	
-║ 10-11  ║  1.5	       ║	
-╠════════╬═════════════╣	
-║ 12-13  ║  2	       ║	
-╠════════╬═════════════╣	
-║ 14     ║  2.5	       ║		
-╠════════╬═════════════╣
-║ 15     ║  3	       ║		
-╚════════╩═════════════╝
+
++--------+-------------+
+| Stat   | Stat Bonus  |
++--------+-------------+		
+| 1      | -1.5	       |
++--------+-------------+
+| 2      | -1	       |
++--------+-------------+
+| 3-4    | -0.5	       |
++--------+-------------+	
+| 5      |  0	       |	
++--------+-------------+	
+| 6-7    |  0.5	       |	
++--------+-------------+	
+| 8-9    |  1	       |	
++--------+-------------+	
+| 10-11  |  1.5	       |	
++--------+-------------+	
+| 12-13  |  2	       |	
++--------+-------------+	
+| 14     |  2.5	       |		
++--------+-------------+
+| 15     |  3	       |		
++--------+-------------+
 
 	Drop any remaining decimal (0.5 or -0.5 becomes 0) -in other words- only use 
 integers when you are writing down the final miss chances of your weapon(s). For 
@@ -294,7 +297,7 @@ or burst fire). In other words, if you have a ranged weapon with semi-auto,
 burst, and automatic fire modes, then you should write down 3 sets of 3 miss
 chances; one set for each of the 3 fire modes. For example, let's now assume 
 your gun has a burst fire miss chance of 1 and an automatic fire miss
-chance of 3, your ranged bracket miss chances should look something like this:
+chance of 3, your ranged bracket miss chances should look something like this...
 
 0-10m, 11-20m, 21-40m	range brackets
   3,     4,      5    	semi-auto miss chances
@@ -373,6 +376,7 @@ You cannot learn any skills that use Dexterity as the contributing stat (for
 example, lockpicking).
 
 Luck (LUCK): 
+<<<<<<< HEAD
 	Some people are just lucky! A GM will often have you roll luck to see if a 
 door was left unlocked or if you just happened to duck to pick up a coin off the 
 ground right when an assassin is trying to shoot you in the head. Luck also has 
@@ -384,22 +388,23 @@ on how many points you have in Luck.
 
 	If you have 1 Luck, it goes without saying, you are very unlucky. At the 
 start of a combat encounter, roll a d10 and receive a penalty from the Black Cat 
-table, below.	
+table, below.		
 
-== BLACK CAT TABLE ==	
-╔═══════╦═══════════════════════════════════════════════════════════════════════════════════════╗
-║ Roll  ║ Effect									  	║ 
-╠═══════╬═══════════════════════════════════════════════════════════════════════════════════════╣
-║ 1-2   ║ Your primary weapon malfunctions/breaks and you cannot use it until DC 60 repaired    ║
-╠═══════╬═══════════════════════════════════════════════════════════════════════════════════════╣
-║ 3-4   ║ You cannot crit or critically succeed (in any form) in this encounter			║
-╠═══════╬═══════════════════════════════════════════════════════════════════════════════════════╣
-║ 5-6   ║ You trip and hurt yourself, take 15 damage and lose three actions from your 1st turn  ║
-╠═══════╬═══════════════════════════════════════════════════════════════════════════════════════╣
-║ 7-8   ║ Mental breakdown, roll DC 75 Will save or gain status effect 'Fear' of enemies	║
-╠═══════╬═══════════════════════════════════════════════════════════════════════════════════════╣
-║ 9-10  ║ Nothing bad happens... this time							║
-╚═══════╩═══════════════════════════════════════════════════════════════════════════════════════╝
+===== BLACK CAT TABLE =====	
++-------+---------------------------------------------------------------------------------------+
+| Roll  | Effect                                                                                | 
++-------+---------------------------------------------------------------------------------------+
+| 1-2   | Your primary weapon malfunctions/breaks and you cannot use it until DC 60 repaired    |
++-------+---------------------------------------------------------------------------------------+
+| 3-4   | You cannot crit or critically succeed (in any form) in this encounter                 |
++-------+---------------------------------------------------------------------------------------+
+| 5-6   | You trip and hurt yourself, take 15 damage and lose three actions from your 1st turn  |
++-------+---------------------------------------------------------------------------------------+
+| 7-8   | Mental breakdown, roll DC 75 Will save or gain status effect 'Fear' of enemies        |
++-------+---------------------------------------------------------------------------------------+
+| 9-10  | Nothing bad happens... this time                                                      |
++-------+---------------------------------------------------------------------------------------+
+
 
 ===== Secondary Stat Details =====
 Movement Speed:
@@ -486,51 +491,52 @@ get 22 skill points for the level. Additionally, any stat point alteration
 forces a recalculation on all affected values.
 
 ===== LEVELING-UP TABLE =====
-╔═══════╦══════════╦═══════╦════════════╦════════════╦═══════════════╗
-║ Level ║ Skill P. ║ Feats ║ Class Feat ║ Stat Point ║ Feats (9 INT) ║
-╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
-║ 0     ║ Given    ║ 0     ║            ║            ║ 0             ║
-╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
-║ 1     ║ Static   ║       ║            ║            ║               ║
-╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
-║ 2     ║ 2*int    ║ 2     ║            ║            ║ 2             ║
-╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
-║ 3     ║ "        ║       ║            ║            ║               ║
-╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
-║ 4     ║ "        ║ 3     ║            ║            ║ 4             ║
-╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
-║ 5     ║ "        ║       ║ 1          ║ +1         ║               ║
-╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
-║ 6     ║ "        ║ 4     ║            ║            ║ 5             ║
-╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
-║ 7     ║ "        ║       ║            ║            ║               ║
-╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
-║ 8     ║ "        ║ 5     ║            ║            ║ 7             ║
-╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
-║ 9     ║ "        ║       ║            ║ +1         ║               ║
-╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
-║ 10    ║ "        ║ 6     ║ 2          ║            ║ 8             ║
-╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
-║ 11    ║ "        ║       ║            ║            ║               ║
-╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
-║ 12    ║ "        ║ 7     ║            ║            ║ 10            ║
-╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
-║ 13    ║ "        ║       ║            ║            ║               ║
-╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
-║ 14    ║ "        ║ 8     ║            ║            ║ 11            ║
-╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
-║ 15    ║ "        ║       ║ 3          ║ +1         ║               ║ 
-╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
-║ 16    ║ "        ║ 9     ║            ║            ║ 13            ║
-╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
-║ 17    ║ "        ║       ║            ║            ║               ║
-╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
-║ 18    ║ "        ║ 10    ║            ║            ║ 14            ║
-╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
-║ 19    ║ "        ║       ║            ║            ║               ║
-╠═══════╬══════════╬═══════╬════════════╬════════════╬═══════════════╣
-║ 20    ║ "        ║ 11    ║ 4          ║ +1         ║ 16            ║
-╚═══════╩══════════╩═══════╩════════════╩════════════╩═══════════════╝
+
++-------+----------+-------+------------+------------+---------------+
+| Level | Skill P. | Feats | Class Feat | Stat Point | Feats (9 INT) |
++-------+----------+-------+------------+------------+---------------+
+| 0     | Given    | 0     |            |            | 0             |
++-------+----------+-------+------------+------------+---------------+
+| 1     | Static   |       |            |            |               |
++-------+----------+-------+------------+------------+---------------+
+| 2     | 2*int    | 2     |            |            | 2             |
++-------+----------+-------+------------+------------+---------------+
+| 3     | "        |       |            |            |               |
++-------+----------+-------+------------+------------+---------------+
+| 4     | "        | 3     |            |            | 4             |
++-------+----------+-------+------------+------------+---------------+
+| 5     | "        |       | 1          | +1         |               |
++-------+----------+-------+------------+------------+---------------+
+| 6     | "        | 4     |            |            | 5             |
++-------+----------+-------+------------+------------+---------------+
+| 7     | "        |       |            |            |               |
++-------+----------+-------+------------+------------+---------------+
+| 8     | "        | 5     |            |            | 7             |
++-------+----------+-------+------------+------------+---------------+
+| 9     | "        |       |            | +1         |               |
++-------+----------+-------+------------+------------+---------------+
+| 10    | "        | 6     | 2          |            | 8             |
++-------+----------+-------+------------+------------+---------------+
+| 11    | "        |       |            |            |               |
++-------+----------+-------+------------+------------+---------------+
+| 12    | "        | 7     |            |            | 10            |
++-------+----------+-------+------------+------------+---------------+
+| 13    | "        |       |            |            |               |
++-------+----------+-------+------------+------------+---------------+
+| 14    | "        | 8     |            |            | 11            |
++-------+----------+-------+------------+------------+---------------+
+| 15    | "        |       | 3          | +1         |               | 
++-------+----------+-------+------------+------------+---------------+
+| 16    | "        | 9     |            |            | 13            |
++-------+----------+-------+------------+------------+---------------+
+| 17    | "        |       |            |            |               |
++-------+----------+-------+------------+------------+---------------+
+| 18    | "        | 10    |            |            | 14            |
++-------+----------+-------+------------+------------+---------------+
+| 19    | "        |       |            |            |               |
++-------+----------+-------+------------+------------+---------------+
+| 20    | "        | 11    | 4          | +1         | 16            |
++-------+----------+-------+------------+------------+---------------+
 
 ==============================
 Saving Throws
@@ -865,6 +871,7 @@ of 9-10 would be considered a critical hit.
 per Action by default).
 
 Armor and Getting Hit:
+
 	When a player is defending against a successful enemy hit, they roll 
 Percentiles under their armor in order to see if their armor blocked the bullet, 
 and from there, how much damage they receive. If the defending player has no 
@@ -927,15 +934,16 @@ other thrown weapons) have -1 miss chance to hit if 'adequate' aiming time is
 given (DM's discretion: how rushed you are, or how skilled you are at stealth, 
 etc). Ranged weapon stealth-attacks gain +20 bonus damage.
 
-	If you stealth-attack a target in melee, your target has a guard DC of 0. If you have 
-at least 10 skill in melee combat and you attack from stealth, Thrown and Melee 
-(non-explosive/non-grenade) weapons deal 2x BASE Damage*, up to 150 maximum 
-damage** (critical/BONUS damage is not doubled, but added on to the 2x Base 
-Damage). If you critically hit, you ignore the opponent's armor and deal full 
-damage. Or, as normal, (see section, "melee combat") if you roll 3+ above your 
-miss chance (3+ above the opponent's guard DC), you ignore the opponent's armor 
-and deal full damage. Signifying that the target gets hit in whatever you deem 
-to be the most vulnerable; i.e., the head, neck, or the chest (over the heart, etc). 
+	If you stealth-attack a target in melee, your target has a guard DC of 0. If 
+you have at least 10 skill in melee combat and you attack from stealth, Thrown 
+and Melee (non-explosive/non-grenade) weapons deal 2x BASE Damage*, up to 150 
+maximum damage** (critical/BONUS damage is not doubled, but added on to the 2x 
+Base Damage). If you critically hit, you ignore the opponent's armor and deal 
+full damage. Or, as normal, (see section, "melee combat") if you roll 3+ above 
+your miss chance (3+ above the opponent's guard DC), you ignore the opponent's 
+armor and deal full damage. Signifying that the target gets hit in whatever you 
+deem to be the most vulnerable; i.e., the head, neck, or the chest (over the 
+heart, etc). 
 
 *Base Damage is typically the damage of the weapon without any other character 
 bonuses, but Base Damage can be increased by certain classes and abilities.
@@ -1114,6 +1122,18 @@ Heavy Suppression:
 to hit -- you automatically hit x2 and roll for armor. You suppress all targets 
 within a 2m radius AOE around the primary target.
 
+
+**"Moving out into the open" includes moving into a new location while you can
+be hit by shots from the suppressor (this excludes moving into complete concealment,
+such as going prone behind a high concrete wall). For example, the following situations
+would trigger a free hit by the suppressor and give you the 'suppressed' status
+while remaining in the area (let's assume you are upright (not crouched or prone)):
+moving from partial cover to an adjacent partial cover, moving from complete concealment
+behind a barricade to partial cover, and moving when you are caught out in the open.
+	If the suppressor cannot physically hit you (such as being completely behind an 
+impenetrable barrier) you are not suppressed. The suppressor doesn't need to see 
+you, to hit you.
+
 ==============================
 Conditions
 ==============================
@@ -1263,7 +1283,7 @@ this is a Knowledge [Nanites] DC. Mages/Sorcerers can add any skill points
 they have in Sorcery to their rolls, and Paladins may do the same with their 
 Knowledge [Nanites] skill. Some spells may also require the target to make a 
 saving throw in order to avoid the spell or negate its effects. Generally 
-speaking, spells have a range that is dependant on either the Charisma score 
+speaking, spells have a range that is dependent on either the Charisma score 
 of the caster or the Charisma Modifier.
 
 ==============================
@@ -1301,52 +1321,49 @@ surrounding environment better and will stabilize.
 reduced, 'moving detect DC' as you are diverting your attention. However, once 
 you have performed a combat action, the cloak fizzes out.
 
-===== Cloaking Durations and Leveling Bonuses =====
-╔═══════════╦═════════════╦═══════════╦═════════════════╗
-║ Character ║ Cloak Turns ║ Detect DCs║ Shadow Assassin ║
-║   Level   ║             ║   Gain    ║ Cloak Turn Gain ║
-╠═══════════╬═════════════╬═══════════╬═════════════════╣
-║     1*    ║      3      ║     -     ║        +1       ║
-╠═══════════╬═════════════╬═══════════╬═════════════════╣
-║     2*    ║      3      ║     -     ║        -        ║
-╠═══════════╬═════════════╬═══════════╬═════════════════╣
-║     3*    ║      3      ║     -     ║        -        ║
-╠═══════════╬═════════════╬═══════════╬═════════════════╣
-║     4*    ║      4      ║     -     ║        -        ║
-╠═══════════╬═════════════╬═══════════╬═════════════════╣
-║     5     ║      4      ║    +5%    ║        -        ║
-╠═══════════╬═════════════╬═══════════╬═════════════════╣
-║     6     ║      4      ║     -     ║        +2       ║
-╠═══════════╬═════════════╬═══════════╬═════════════════╣
-║     7     ║      5      ║     -     ║        -        ║
-╠═══════════╬═════════════╬═══════════╬═════════════════╣
-║     8     ║      5      ║     -     ║        -        ║
-╠═══════════╬═════════════╬═══════════╬═════════════════╣
-║     9     ║      5      ║     -     ║        -        ║
-╠═══════════╬═════════════╬═══════════╬═════════════════╣
-║     10    ║      6      ║   +10%    ║        -        ║
-╠═══════════╬═════════════╬═══════════╬═════════════════╣
-║     11    ║      6      ║     -     ║        +3       ║
-╠═══════════╬═════════════╬═══════════╬═════════════════╣
-║     12    ║      6      ║     -     ║        -        ║
-╠═══════════╬═════════════╬═══════════╬═════════════════╣
-║     13    ║      7      ║     -     ║        -        ║
-╠═══════════╬═════════════╬═══════════╬═════════════════╣
-║     14    ║      7      ║     -     ║        -        ║
-╠═══════════╬═════════════╬═══════════╬═════════════════╣
-║     15    ║      7      ║   +15%    ║        -        ║
-╠═══════════╬═════════════╬═══════════╬═════════════════╣
-║     16    ║      8      ║     -     ║        +4       ║
-╠═══════════╬═════════════╬═══════════╬═════════════════╣
-║     17    ║      8      ║     -     ║        -        ║
-╠═══════════╬═════════════╬═══════════╬═════════════════╣
-║     18    ║      9      ║     -     ║        -        ║
-╠═══════════╬═════════════╬═══════════╬═════════════════╣
-║     19    ║      9      ║     -     ║        -        ║
-╠═══════════╬═════════════╬═══════════╬═════════════════╣
-║     20    ║      10     ║   +20%    ║        +5       ║
-╚═══════════╩═════════════╩═══════════╩═════════════════╝
-
-	The Table bonuses are not cumulative.
-
-*For levels 1-4, you may only cloak once per encounter.
+== CLOAKING DURATIONS AND LEVELING BONUSES ==
++-----------+-------------+-----------+-----------------+
+| Char lv   | Cloak Turns | Detect DCs| Shadow Assn turn|
++-----------+-------------+-----------+-----------------+
+|     1*    |      3      |     -     |        +1       |
++-----------+-------------+-----------+-----------------+
+|     2*    |      3      |     -     |        -        |
++-----------+-------------+-----------+-----------------+
+|     3*    |      3      |     -     |        -        |
++-----------+-------------+-----------+-----------------+
+|     4*    |      4      |     -     |        -        |
++-----------+-------------+-----------+-----------------+
+|     5     |      4      |    +5%    |        -        |
++-----------+-------------+-----------+-----------------+
+|     6     |      4      |     -     |        +2       |
++-----------+-------------+-----------+-----------------+
+|     7     |      5      |     -     |        -        |
++-----------+-------------+-----------+-----------------+
+|     8     |      5      |     -     |        -        |
++-----------+-------------+-----------+-----------------+
+|     9     |      5      |     -     |        -        |
++-----------+-------------+-----------+-----------------+
+|     10    |      6      |   +10%    |        -        |
++-----------+-------------+-----------+-----------------+
+|     11    |      6      |     -     |        +3       |
++-----------+-------------+-----------+-----------------+
+|     12    |      6      |     -     |        -        |
++-----------+-------------+-----------+-----------------+
+|     13    |      7      |     -     |        -        |
++-----------+-------------+-----------+-----------------+
+|     14    |      7      |     -     |        -        |
++-----------+-------------+-----------+-----------------+
+|     15    |      7      |   +15%    |        -        |
++-----------+-------------+-----------+-----------------+
+|     16    |      8      |     -     |        +4       |
++-----------+-------------+-----------+-----------------+
+|     17    |      8      |     -     |        -        |
++-----------+-------------+-----------+-----------------+
+|     18    |      9      |     -     |        -        |
++-----------+-------------+-----------+-----------------+
+|     19    |      9      |     -     |        -        |
++-----------+-------------+-----------+-----------------+
+|     20    |      10     |   +20%    |        +5       |
++-----------+-------------+-----------+-----------------+
+The Table bonuses are not cumulative.
+*  For levels 1-4, you may only cloak once per encounter.
