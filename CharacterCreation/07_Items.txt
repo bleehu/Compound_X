@@ -38,6 +38,17 @@ Gas Mask ($300):
     Prevents the inhalation of noxious or toxic air-borne compunds. Reduce PER 
 based rolls (including strike rolls) by 10.
 
+Hazmat Suit, Disposable ($60):
+    A white unitard that covers over your hands, feet, arms, legs, body and 
+head. The suit zips up in the back and has a elastic drawstring that fits around
+a gas mask or rebreather. The outer layer of the suit has a no-stick covering
+except on the soles of the feet and the gloves. The inner lining is waterproof
+and airtight. The material makes a crinkling sound that gives a -20 to stealth
+checks. Wearing the suit correctly provides immunity to airborne gas attack or
+infection. For example, provides immunity from tear gas, The Doctor's 
+Contaminate Area Procedure, etc. The suit provides no armor coverage and if the
+wearer takes damage the suit ruptures and no longer provides immunity.
+
 ==============================
 Consumables
 ==============================
