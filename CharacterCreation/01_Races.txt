@@ -146,6 +146,8 @@ Stat Modifiers: See Below
 
 ===== Racial Traits =====
 
+== Mechanical Augmentation ==
+
     Pick any three augments (you may take a single augment no more than 2 times, 
 or a combination of multiple augments. For example Occular Augment and Speed 
 Geared Fine Motor Controls II might help a melee fighter increase both damage 
@@ -195,6 +197,8 @@ augmentations and any affected limbs. DC 80 Hack check.
 Opaleite
 ==============================
 
+===== Anatomy =====
+
     Opaleites are so named by the humans who encountered them for the way the 
 light diffracts in their large irises, giving the impression of an opal. A 
 wide-eyed amphibious species that prefers to live entirely in the water. They 
@@ -234,7 +238,6 @@ star. Now, they live in both the oceans and the well-shaded estuaries on Trioch
 IV. A few stubborn stragglers remain on Trioch II, which is slowly becoming a 
 sandy, dry wasteland with very little atmosphere. 
 
-
     Trioch II is now a place for venturing archaeologists to come and 
 investigate the way the Opaleites used to live. 
 
@@ -253,9 +256,11 @@ attacks. -20 to save rolls involving these attacks.
 
 == Seadevil ==
 
--1 to base CHA, -1 to base FORT.
-+1 to DEX
-Low-light vision.
+* +1 DEX
+* -1 FOR
+* -1 CHA
+* Low-light vision.
+
 Ability: Bioluminescence - Once per day.[Is an available skill] Persuade a 
 being, sentient or not, that you are trustworthy. Victim must roll a will-save 
 50+(Siren points). Effect is dissipated when victims eyes are covered or lose 
@@ -265,7 +270,9 @@ visual cortex, but they can adjust rapidly.
 
 == Chondrich ==
 
--1 to base CHA, +1 to both STR and FOR
+* +1 STR
+* +1 FOR
+* -1 CHA
 
 Passive: Tough Skinned 
 
@@ -279,8 +286,8 @@ any chance to hit you.
 
 == Mendar ==
 
-+2 to base CHA
--2 to chosen stats.
+* +2 CHA
+* -2 to chosen stats.
 
 Ability: Colorful!
 
@@ -291,8 +298,10 @@ bring in the attention of those in the area. Victims must roll a will-save of
 
 == Tetra ==
 
--1 to DEX, -1 to STR
-+1 FOR
+* +1 FOR
+* -1 STR
+* -1 DEX
+
 Ability: Burst of Speed
 
     [Once per encounter] You are not fast, except when you or your schoolmates 
