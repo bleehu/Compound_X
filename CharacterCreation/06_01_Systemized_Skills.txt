@@ -1,0 +1,117 @@
+==============================
+Full list of skills
+==============================
+
+* Acrobatics
+* Athletics
+* Deception
+* Insight
+* Intimidation
+* Investigation
+* Medical
+* Navigation
+* Space
+* Geography
+* Persuasion
+* Repair
+* Sleight of Hand 
+* Spotting
+* Stealth
+* Survival
+
+Vehicles:
+* GENERAL*
+* Flight
+* Ground
+
+Weapons:
+* GENERAL*
+* Melee
+* Long Rifle
+* SMG
+* Shotgun
+* General
+* Pistol
+* Thrown
+* Heavy
+
+Knowledge:
+* GENERAL*
+* Gravity Manipulation
+* Energy Manipulation
+* Hard Light
+* History
+* Nanites
+* Plasma
+* Computer Systems
+* Xenology
+
+*Gives half the bonus a specific will give on a check.
+
+	Suggested that certain classes can gain skill in their proficiency 
+area twice as quickly, so every point you spend from leveling up is doubled 
+up in that skill.
+
+	Suggest cap of 60. Adding Specific modifier to to skill. For 
+example, Attribute of 10 = 20 mod. This gives a max of +80 to a skill 
+check. In theory a 180 could be rolled. This is very rare.
+
+	Currently there are no rules for a critical success on skill checks 
+in the listing. I would suggest a 10 bonus for regular critical, and a 20 
+bonus for extra critical (Name change suggestion to Supreme Critical. Extra 
+sounds like it’s a bonus sauce. SUPREME makes it sound like the full 
+frigging 5 course meal). This gives us a possible maximum of 200.
+
+== More reasonable DC for things ==
+Example for (STRENGTH) Athletics check: 
+* 25 = Easy (Doing a pull-up)
+* 50 = Simple (Climbing a tree)
+* 75 = Moderate (Kicking down a door)
+* 100 = Hard (Running through a wooden wall)
+* 125 = Difficult (Kicking down a reinforced door)
+* 150 = Improbable (Throwing a human through a reinforced door)
+* 175 = Inconceivable (Ripping a reinforced door off its hinges with 
+	your hands and hitting someone with it like a baseball game)
+* 200 = Impossible (Opening an airlock with your bear-hands)
+
+	Rationale, allowing certain classes to gain up to double that score 
+in certain areas. INT of (avg5)*(2)*(level10) = 100 known. Max = 200 known
+
+	For example: Soldiers can get various Weapon specializations, Berserker 
+can get Weapons - Melee (instead of unarmed expert because they do in fact have 
+a weapon in most cases) etc. See Suggested list below
+
+	Also took out the word Use from things. Added a - to specify specifi
+
+===== Class Skill Proficiency =====
+
+Adept: Knowledge - Nanites, Weapons - General
+	New Name. I like Tech Trooper.
+	
+Assassin: Stealth, Weapons - Melee
+Berserker: Athletics, Weapons - Melee
+	Typo in class description name, need to get that first r in there
+	
+Engineer: Knowledge - [General], Repair
+Doctor: Knowledge - [Any], Medical
+Gunslinger: Acrobatics, Weapons - Pistol
+Hacker: Knowledge - Nanites, Knowledge - Systems
+	Suggested removing nanites from this tree, it doesn’t make a ton of 
+sense to me for a hacker to use nanites to buff allies now that we have 
+removed them from the bloodstream. Perhaps they buff any tech the ally has, 
+for like giving them auto aim on a rifle or giving a bonus to any check they 
+use with technology. Honestly I think this subclass needs some rework now 
+that nanites are no longer in the bloodstream. Unless you want this to be 
+a subclass that does put nanites into thing’s blood. In the case that it 
+does get removed, recommended Knowledge - Any or a Hacking skill if that 
+is the case.
+
+Hunter: Spotting, Survival, Weapons - Shotgun or Long Rifle
+Marksman: Spotting, Weapons - Long Rifle
+Monk: Acrobatics or Athletics, Stealth
+Paladin: Knowledge - Hard Light, Weapons - General
+	New Name. I like Spartan or Vanguard or Guardian
+	
+Pilots: Vehicles - [Flight, General, Ground. Pick 2], Weapons - General
+Soldier: Weapons - General, Weapons - Specific
+Specialist: Weapons - Heavy, Weapons - Thrown
