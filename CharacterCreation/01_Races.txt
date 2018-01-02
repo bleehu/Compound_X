@@ -1,49 +1,58 @@
-//============================================================
+==============================
 Human
-Society:
-Humans are the most common sentient species in ECSC. While most belong to the 
+==============================
+
+===== Society =====
+
+    Humans are the most common sentient species in ECSC. While most belong to the 
 empire that is centered near their home planet, many other cultures and sub 
 cultures dot the surrounding systems ranging from corporations to patriarchies 
 to pirate anarchies. 
+
 Type:		Organic
 Size:		Medium
 Speed:		Normal
 Starting Stat Points: 42
-Stat Modifiers:	
-+2 stat points to spend at level 1
-Language: 	Emperial Common, +1 dialect
-Racial Traits:	
-None
+Stat Modifiers:	+2 stat points to spend at level 1
 
-//============================================================
+===== Racial Traits =====
+
+    None
+
+==============================
 Tundari
-Society: Tribal system, lead by a council of elders.
+==============================
 
-Homeworld: Tundaaari
-A dry, searingly hot planet covered in planes and deserts. 70% of the planet 
+===== Homeworld: Tundaaari =====
+
+    A dry, searingly hot planet covered in planes and deserts. 70% of the planet 
 is covered in water. The planet's axis of rotation is more or less upright 
-relative to its binary star system. The North pole points more towards the 
-suns, and as such is a cooked wasteland, while the south pole is left in a 
-more temperate, jungle climate. 90% of the annual rainfall on the planet 
-occurs on this jungly southern continent.
+relative to its binary star system. The North pole points more towards the suns, 
+and as such is a cooked wasteland, while the south pole is left in a more 
+temperate, jungle climate. 90% of the annual rainfall on the planet occurs on 
+this jungly southern continent.
 
-Native Species: Tundarin
-This Feline-esque species is covered in a soft, short fur ranging in many 
+===== Native Species: Tundarin =====
+
+    This Feline-esque species is covered in a soft, short fur ranging in many 
 colors, from browns, to oranges, blacks, grays, etc. And a multitude of patterns
 (striped, splotched, dotted, etc.). They have whiskers, and very sharp teeth. 
 Their eyesight is very good, and they have low-light vision. Their build is 
 generally more slender and graceful, but there have been bulkier Tundarin 
 observed.
 
-Society: Tribal with leading council of elders
-The planet as a whole is unified under the banner of space exploration. there 
-are many nation-states coming from historical tribes. Each nation-state is led 
-by a council of elders, and a head elder is elected from each council to sit 
-in on the grand council which overlooks issues on a planet-wide scale. They 
-are hunters by nature, with a close tie to nature. Their cities typically 
-blend in with the environment, whether it be large tree cities or hanging 
-cliff cities.
-They typically believe in spiritualism, and their level of science has been 
+===== Society: =====
+
+    Tribal with leading council of elders.
+
+    The planet as a whole is unified under the banner of space exploration. 
+There are many nation-states coming from historical tribes. Each nation-state is 
+led by a council of elders, and a head elder is elected from each council to sit 
+in on the grand council which overlooks issues on a planet-wide scale. They are 
+hunters by nature, with a close tie to nature. Their cities typically blend in 
+with the environment, whether it be large tree cities or hanging cliff cities.
+
+    They typically believe in spiritualism, and their level of science has been 
 brought about by their religious leaders. Science is seen as a result of their
 religion, rather than an explanation of it. This being the case, science is 
 well taught and understood by most all Tundarin, and higher tier and newer 
@@ -58,26 +67,43 @@ Size: Medium
 Speed: Normal
 Starting Stat Points: 40
 Stat Modifiers: Flexible - +1 DEX, +1 to PER
-Language: Racial + ECSC Standard
 
-Racial Traits:
-Camouflage: Choose a natural terrain type (Jungle, mountain, plains, desert, 
-arctic, urban, etc.). While in this terrain you have a +20% buff to 
-stealth.
-Stalker: Gain Stealth and Awareness skills at 15 if you take them as level 1 
-skills, instead of the normal 10.
-Low-Light Vision: can see in moonlight as well as if it were day-light. only 
-requires dim light to see well.
-Sprinter - +1m movement speed when charging, retreating,  or otherwise moving 
-under pressure.
+===== Racial Traits =====
 
-//============================================================
+Camouflage: 
+
+    Choose a natural terrain type (Jungle, mountain, plains, desert, arctic, 
+urban, etc.). While in this terrain you have a +20% buff to stealth.
+
+Stalker: 
+
+    Gain Stealth and Awareness skills at 15 if you take them as level 1 skills, 
+instead of the normal 10.
+
+Low-Light Vision: 
+
+    can see in moonlight as well as if it were day-light. only requires dim 
+light to see well.
+
+Sprinter: 
+
+    +1m movement speed when charging, retreating,  or otherwise moving under 
+pressure.
+
+==============================
 Detachment A Security Drone
-Society: Slave soldiers. Squad families.
-Security Drones are specialized drones that have been granted a greater AI 
+==============================
+
+===== Society ===== 
+
+    Slave soldiers. Squad families.
+    Security Drones are specialized drones that have been granted a greater AI 
 capacity to learn and think independently. They are native to ECSC Compound X 
 experimentation laboratory.
-They have a steel reinforced frame, and are usually armor plated. The 
+
+===== Anatomy =====
+
+    They have a steel reinforced frame, and are usually armor plated. The 
 coloration of plating can range anywhere in the natural colors and camouflages,
 or Flat Grey, or Flat Black. They have a single ocular sensor situated on a 
 smallish square head. They generally stand somewhere in the 6 foot to 7 foot 
@@ -88,23 +114,26 @@ Size: Medium+
 Speed: Normal
 Starting Stat Points: 40
 Stat Modifiers: INT + 1, FORT + 2. LUCK -3.
-Language: Basic
 
-Racial Traits:
+===== Racial Traits =====
+
 Robotic: Does not need to eat, breath, or sleep. Must spend 6 hours to 
 recharge after a 24 hour period. this can be done via a self-contained 
 reactor. Not affected by mind-influence, susceptible to hack attempts.
 Built in Armour: Take any Heavy Armour for $100 less, or armors cost $60 less.
 Purpose Built: Take an additional skill at 10 points during character 
 creation. This is considered a Class skill.
-25m Darkvision.
+25m IR Vision.
 Immune to: poison, cannot be intoxicated.
 Weakness (Electrical): Electrical damage deals an additional 50% damage.
 
-//============================================================
+==============================
 Cyborg
+==============================
 
-Society: Cybernetics advanced rapidly over the last 200 years, and it is not 
+===== Society ===== 
+
+    Cybernetics advanced rapidly over the last 200 years, and it is not 
 uncommon to see Cyborgs walking amongst crowds. Most of society looks down on 
 their augmented brethren, and in some places they are outcasts completely. Be 
 warned if you take this race, you will be discriminated against at some point.
@@ -114,47 +143,78 @@ Size: Medium
 Speed: Normal+
 Starting Stat Points: 40
 Stat Modifiers: See Below
-Language: ECSC Standard
 
-Racial Traits:
-Pick any three augments (you may take a single augment no more than 2 times, 
+===== Racial Traits =====
+
+== Mechanical Augmentation ==
+
+    Pick any three augments (you may take a single augment no more than 2 times, 
 or a combination of multiple augments. For example Occular Augment and Speed 
 Geared Fine Motor Controls II might help a melee fighter increase both damage 
 and hit chance.):
-    Occular Augmentation: +1 Perception, Darkvision 20m.
-    Enhanced Speed: +1 movement.
-    Enhanced Strength: +1 STR, metal arms, legs, or both.
-    Neural Implant: +1 Intelligence.
-    Speed Geared Fine Motor Controls: +1 DEX, no augment to movement speed.
-    Skeletal Support Structure: +1 FORT.
-    Implanted Weapon: Pick a pistol from the basic weapons list. This pistol 
-    is implanted in a limb. You may manipulate your limb to use this weapon at
-    the cost of 1 action. While the weapon is out, that limb does not 
-    operate at its normal capacities. Hands would not grasp, legs would not 
-    superbly support you, etc. Subrtact the price of the weapon from your 
-    class starting money. The weapon can be upgraded to another pistol with a 
-    DC 25 Biomechanics check, or a DC 50 Mechanics check. It can be upgraded 
-    to any CQB weapon with a DC 50 Biomechanics or DC 75 Mechanics check.
-    Integrated multitool: Your fingers hide a basic toolkit, including low-
-    speed motorized screwdrivers, soldering iron, wrenches, quantum spanner, 
-    toothpick, pliers, sharp edge, lock pick, etc. If it fits in a leatherman,
-    its plausible that it would be in this toolkit.
-    Internal Reinforcing: Critical Damage threshold +5, +5 base health.
-    External Reinforcing: 5 DR passive, potential for RP abilities.
 
-Cyborgs share all weaknesses with their base race, generally humans. They 
+* Ocular Augmentation: +1 Perception, IR Vision 20m.
+* Enhanced Speed: +1 movement.
+* Enhanced Strength: +1 STR, metal arms, legs, or both.
+* Neural Implant: +1 Intelligence.
+* Speed Geared Fine Motor Controls: +1 DEX, no augment to movement speed.
+* Skeletal Support Structure: +1 FORT.
+* Implanted Weapon: See Below
+* Integrated multi-tool: See Below
+* Internal Reinforcing: Critical Damage threshold +5, +5 base health.
+* External Reinforcing: 5 DR passive, potential for RP abilities.
+
+    Once at level 3, and every 5 levels thereafter a Cyborg may purchase an 
+additional augment at the cost of $2000. They must see a cybernetics expert to
+have this augment installed.
+
+== Implanted Weapon ==
+
+    Pick a pistol from the basic weapons list. This pistol is implanted in a 
+limb. You may manipulate your limb to use this weapon at the cost of 1 action. 
+While the weapon is out, that limb does not operate at its normal capacities. 
+Hands would not grasp, legs would not superbly support you, etc. Subtract the 
+price of the weapon from your class starting money. The weapon can be upgraded 
+to another pistol with a DC 25 Biomechanics check, or a DC 50 Mechanics check. 
+It can be upgraded to any CQB weapon with a DC 50 Biomechanics or DC 75 
+Mechanics check.
+
+== Integrated Multi-tool ==
+
+    Your fingers hide a basic toolkit, including low-speed motorized 
+screwdrivers, soldering iron, wrenches, quantum spanner, toothpick, pliers, 
+sharp edge, lock pick, etc.
+
+===== Weaknesses =====
+
+    Cyborgs share all weaknesses with their base race, generally humans. They 
 additionally are weak against electric damage taking an extra 50% damage.(10
 damage would become 15). They are also susceptible to hacking, although they 
 would not come under control, they would merely loose the use of their 
 augmentations and any affected limbs. DC 80 Hack check.
-Once at level 3, and every 5 levels thereafter a Cyborg may purchase an 
-additional augment at the cost of $2000. They must see a cybernetics expert to
-have this augment installed.
 
-//============================================================
+==============================
 Opaleite
+==============================
 
-Opaleites are so named by the humans who encountered them for the way the light 
+===== Anatomy =====
+
+    Opaleites are so named by the humans who encountered them for the way the 
+light diffracts in their large irises, giving the impression of an opal. A 
+wide-eyed amphibious species that prefers to live entirely in the water. They 
+come in a diverse set of body types and colors depending on where they live and 
+which family they come from. The carry a double set of gills, one set in the 
+neck and one set beneath the lungs that can be closed and sealed, much like the 
+ears and nostrils of aquatic mammals. Unlike their mammalian counterparts, these 
+people can function both underwater and above water. When in the water, the 
+lungs merely act as a bypass for the water running through the gills and gives 
+it a way to exit; while outside of the water, the gill flaps close and the lungs 
+function as mammals'’' do. They are incredibly sensitive to sunlight, and burn 
+very easily when not in the water. 
+
+===== Homeworld: Trioch II =====
+
+    Opaleites are so named by the humans who encountered them for the way the light 
 diffracts in their large irises, giving the impression of an opal. A wide-eyed 
 amphibious species that prefers to live entirely in the water. They come in a 
 diverse set of body types and colors depending on where they live and which 
@@ -165,68 +225,97 @@ can function both underwater and above water. When in the water, the lungs merel
 act as a bypass for the water running through the gills and gives it a way to 
 exit; while outside of the water, the gill flaps close and the lungs function as 
 mammals’ do. They are incredibly sensitive to sunlight, and burn very easily when 
-not in the water. 
+not in the water.
+
     Native to the once Ocean planet Trioch II, these beings evolved to the 
 changing of their planet as a massive solar flare from their star shifted the 
 magnetic fields holding in the atmosphere were shaken and ultimately disrupted, 
 causing the oceans to begin evaporating. With their oceans slowly dissipating 
 through the leak in the atmosphere, they have begun migrating to the nearby 
-Trioch IV, also mostly oceanus, which is out of immediate danger from the star. 
-Now, they live in both the oceans and the well-shaded estuaries on Trioch IV. A 
-few stubborn stragglers remain on Trioch II, which is slowly becoming a sandy, dry 
-wasteland with very little atmosphere. 
 
+    Trioch IV, also mostly oceanic, which is out of immediate danger from the 
+star. Now, they live in both the oceans and the well-shaded estuaries on Trioch 
+IV. A few stubborn stragglers remain on Trioch II, which is slowly becoming a 
+sandy, dry wasteland with very little atmosphere. 
 
-Trioch II is now a place for venturing archaeologists to come and investigate the 
-way the Opaleites used to live. 
+    Trioch II is now a place for venturing archaeologists to come and 
+investigate the way the Opaleites used to live. 
 
-Racial Bonuses:
-Waterbreathing
-+1 base FORT, +10 to reflex rolls. Due to their rapid evolution, Opaleites have 
-a much easier time adjusting to the physical obstacles presented to them. 
--10 to perception rolls above water.
-Sensitivity to Smoke and Gasesous attacks. -20 to save rolls involving these 
-attacks. 
+===== Racial Bonuses =====
 
-        Subraces:
+* Waterbreathing
+* +1 base FORT
+* +10 to reflex rolls
+* -10 to perception rolls above water.
 
-Seadevil
--1 to base CHA, -1 to base FORT.
-+1 to DEX
-Low-light vision.
+    Due to their rapid evolution, Opaleites have a much easier time adjusting to 
+the physical obstacles presented to them. Sensitivity to Smoke and Gasesous 
+attacks. -20 to save rolls involving these attacks. 
+
+===== Subraces =====
+
+== Seadevil ==
+
+* +1 DEX
+* -1 FOR
+* -1 CHA
+* Low-light vision.
+
 Ability: Bioluminescence - Once per day.[Is an available skill] Persuade a 
 being, sentient or not, that you are trustworthy. Victim must roll a will-save 
 50+(Siren points). Effect is dissipated when victims eyes are covered or lose 
 sight of you. This takes a tremendous amount of effort and you take a -10 
-penalty if tired or bloodied. This ability will temporarily scramble a robot’s 
+penalty if tired or bloodied. This ability will temporarily scramble a robot's 
 visual cortex, but they can adjust rapidly.
 
-Chondrich
--1 to base CHA, +1 to both STR and FOR
-Tough Skinned: Natural Armor protects you in a firefight. +10 armor coverage, 
-+ 5+(FOR/2) Damage reduction. Armor piercing rounds ignore these bonuses. 
-Large: You are larger than your counterparts and are thus easier to hit, -5 DC 
-on any chance to hit you.
+== Chondrich ==
 
-Mendar
-+2 to base CHA
--2 to chosen stats.
-Ability: Colorful! - People like you, they naturally flock toward your brilliant
-scales. You have the ability to either wow or calm a crowd. You are the perfect
-distraction; bring in the attention of those in the area. Victims must roll a 
-will-save of 40+Siren Points. Droids are immune to this effect.
+* +1 STR
+* +1 FOR
+* -1 CHA
 
-Tetra
--1 to DEX, -1 to STR
-+1 FOR
-Ability: Burst of Speed - [Once per encounter] You are not fast, except when you
-or your schoolmates are in danger. Moving faster than many think possible, you 
-dart forward, moving at 2*DEX for one action. Max 2 Actions. At the end of the 
-dash, take a free melee strike at an enemy within range.
-Ability: Toxic Poof - Your particularly stretchy scales allow for a rapid 
-expansion of your body, protruding the toxic spines that otherwise lay 
-harmlessly under your scales. You expand to twice your size and anything that 
-touches you takes 10 dmg +5 poison dmg per turn until cleansed. If you barrel 
-into anything while poofed, it takes 30 damage +10 poison damage per turn and 
-must roll a shock save DC of 50 to not be paralyzed. You are easier to hit while
-in this state and take an additional %10 damage from any damage done to you.
+Passive: Tough Skinned 
+
+    Natural Armor protects you in a firefight. +10 armor coverage, + 5+(FOR/2) 
+Damage reduction. Armor piercing rounds ignore these bonuses. 
+
+Passive: Large
+
+    You are larger than your counterparts and are thus easier to hit, -5 DC on 
+any chance to hit you.
+
+== Mendar ==
+
+* +2 CHA
+* -2 to chosen stats.
+
+Ability: Colorful!
+
+    People like you, they naturally flock toward your brilliant scales. You have 
+the ability to either wow or calm a crowd. You are the perfect distraction; 
+bring in the attention of those in the area. Victims must roll a will-save of 
+40+Siren Points. Droids are immune to this effect.
+
+== Tetra ==
+
+* +1 FOR
+* -1 STR
+* -1 DEX
+
+Ability: Burst of Speed
+
+    [Once per encounter] You are not fast, except when you or your schoolmates 
+are in danger. Moving faster than many think possible, you dart forward, moving 
+at 2*DEX for one action. Max 2 Actions. At the end of the dash, take a free 
+melee strike at an enemy within range.
+
+Ability: Toxic Poof 
+
+    Your particularly stretchy scales allow for a rapid expansion of your body, 
+protruding the toxic spines that otherwise lay harmlessly under your scales. You 
+expand to twice your size and anything that touches you takes 10 dmg +5 poison 
+dmg per turn until cleansed. If you barrel into anything while poofed, it takes 
+30 damage +10 poison damage per turn and must roll a shock save DC of 50 to not 
+be paralyzed. You are easier to hit while in this state and take an additional 
+%10 damage from any damage done to you.
+
