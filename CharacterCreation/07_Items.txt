@@ -1,6 +1,7 @@
 ==============================
 Tools
 ==============================
+
 Plasma cutter / Blow Torch ($450):
     Cut through steel, aluminum, etc unless it is specifically a hardened 
 object. Cut through up to 1 inch of steel in 2 full turns, 2 inches in 3 full 
@@ -29,6 +30,7 @@ from multiple angles to capture the whole object. Up to 20m^3 of space.
 ==============================
 Wearables
 ==============================
+
 Night Vision Goggles ($300):
     IR visibility for low light conditions. Resolution clouds after 100m.
 
@@ -89,6 +91,7 @@ HD Zip-Cuffs ($300):
 ==============================
 Explosives
 ==============================
+
 Breaching charges ($160):
     Will remove a door from your path. Make sure no one is within 2m of the door
 in any direction or they take damage as if hit by an ECSC fragmentation 
@@ -113,8 +116,6 @@ wall breaching pad (Explosives 50 DC).
 ==============================
 Miscellaneous Items
 ==============================
-
-Misc. Items and RP trinkets:
 
     Examples of RP trinkets include cigarettes, a lighter, cards, a wallet, an 
 ID pass, etc. Basically items that cannot be used in combat, but would have 
