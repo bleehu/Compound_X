@@ -1322,6 +1322,7 @@ reduced, 'moving detect DC' as you are diverting your attention. However, once
 you have performed a combat action, the cloak fizzes out.
 
 == CLOAKING DURATIONS AND LEVELING BONUSES ==
+
 +-----------+-------------+-----------+-----------------+
 | Char lv   | Cloak Turns | Detect DCs| Shadow Assn turn|
 +-----------+-------------+-----------+-----------------+
