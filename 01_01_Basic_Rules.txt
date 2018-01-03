@@ -242,7 +242,6 @@ object depending on how heavy it is!
 
 ===== Combat Stat Bonus for Ranged and Melee Accuracy =====
 
-<<<<<<< HEAD
 	These bonuses use a table instead of the above Stat Bonus equation, as 
 combat accuracy rolls are played out on a d10, not a d100 scale. The two 
 most-used base stats for accuracy rolls are Perception and Dexterity. The 
@@ -1141,72 +1140,6 @@ behind a barricade to partial cover, and moving when you are caught out in the o
 	If the suppressor cannot physically hit you (such as being completely behind an 
 impenetrable barrier) you are not suppressed. The suppressor doesn't need to see 
 you, to hit you.
-
-==============================
-Conditions
-==============================
-
-Bleeding:
-	d10/2+1 (drop the remainder) stackable damage per turn. Broken with Medicine 
-Skill check. DC varies. If you have a bleed condition, seek medical aid 
-immediately, You CAN Bleed Out, you have been warned.
-
-Burning:
-	2d10 damage per turn. Broken with a Maneuver Skill Check. DC 40. Every 2 
-turns, the degree of the burn intensifies
-
-Downed: 
-	Your health has fallen below 0. See Death and Dying above.
-
-Frozen:
-	d10 damage per turn. lasts until a source of heat is applied to the wound, 
-or with Medicine Skill check, DC 50
-
-Fear: 
-	No actions, except running away form the source of fear, or rolling to 
-defeat fear. DC 50, Will save.
-
-Fear, Greater:
-	No actions, except rolling to defeat fear. DC 75, Will save.
-
-Necrosis: 
-	2d10 +5 damage per turn. Seek medical attention immediately. If left 
-unhealed for more than a day, the infection spreads 1 foot per day. Medicine DC 
-75, must be rolled.
-
-Pinned Down: 
-	Target pinned (hunkered, no movement) for 2 full turns or until they pass a 
-Will saving throw at DC of 70, whichever is quicker.
-
-Plasma Burn:
-	1d10+1 stackable damage per turn, for 2 turns if the target's armor is 
-pierced/missed. If the targets armor is hit/pierced, the armor's AP level is 
-reduced by 1, permanently (repairable, DC 60% Repair check), not stackable. 
-
-Poisoned: 
-	d10 damage per turn. After 5 turns, some poisons may induce unconsciousness. 
-DC 50, Fortitude. Greater / Lesser poison increases damage (+5/-5) and DC 
-(+25,-10).
-
-Buzzed (drunk): 
-	Many drinks in the galaxy contain a substance called alcohol. When consuming 
-these drinks, the effect should list a FORT save to avoid increasing your level 
-of intoxication. The first level of intoxication is Buzzed. While buzzed, you gain 
-a +1 to Miss Chance with any attack and a temporary -1 to Perception. At the same 
-time, you get a +1 to Charisma and luck. You also take a -20 to skill checks 
-involving driving, flying or operating heavy machinery. If you fail a Fort save 
-to prevent increasing your intoxication level while buzzed, you become hammered. 
-As long as you don't become hammered, being buzzed will wear off in two hours.
-
-Hammered (drunk): 
-	While Hammered, you take a +3 to Miss Chance when attacking and a -50 to 
-skill checks involving driving, flying or operating heavy machinery. You take a 
-temporary -2 to DEX, Perception and charisma. If your level of intoxication 
-increases while you are hammered, you black out and you are now Downed. As long 
-as you don't black out, being hammered will turn into being buzzed after two hours.
-
-Stunned/Paralyzed: 
-	Affected target cannot take actions for the duration.
 
 ==============================
 Damage Types and Armor Types
