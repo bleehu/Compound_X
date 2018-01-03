@@ -89,6 +89,18 @@ Player Character at a time.
 
 RPG: 
     Role-Playing Game, such as Dungeons and Dragons or Compound X!
+    
+Roll - Standard:
+    Roll 1d100.
+    
+Roll - Advantage:
+    Roll twice. Take the highest of the two rolls. 
+    
+Roll - Average:
+    Roll 2d10s. Add together and divide by 2. 
+    
+Roll - Disadvantage:
+    Roll twice. Take the lowest of the two rolls. 
 
 Player Character: 
     The Player's avatar in the game world. A Player Character is made by 
