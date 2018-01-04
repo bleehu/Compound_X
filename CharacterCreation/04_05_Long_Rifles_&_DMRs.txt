@@ -1,18 +1,20 @@
-=============================================================================
+==============================
 RANGED WEAPONS
-Outside a weapon's longest range, you cannot hit your target.
+==============================
+    Outside a weapon's longest range, you cannot hit your target.
 Also, weapons cannot shoot over 100m without magnifying sights, or over 150m without 2x+ magnification.
 
-============================================================
+
+==============================
 LONG RIFLES and DESIGNATED MARSKMAN RIFLES (DMRs)
-The kings of rifles, long rifles are the longest ranged and hardest hitting rifles available.							
+==============================
+    The kings of rifles, long rifles are the longest ranged and hardest hitting rifles available.							
 On all engagements farther than 200m, you must take 2 Actions to adjust							
 your scope for windage and elevation between targets of differing distance.							
 Minimum 5 Strength. Bolt Action: take 1 action to fire, 1 action to chamber a new round. 							
 Reload time 3 Actions.		
 
-All Long Rifles/DMRs have Suppression Level - light (unless otherwise noted).
-============================================================					
+- All Long Rifles/DMRs have "Suppression Level - light" (unless otherwise noted).
 
 
 =====	LEVEL 1 REQUIREMENT WEAPONS	=====

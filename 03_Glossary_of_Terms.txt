@@ -1,0 +1,138 @@
+==============================
+Glossary of Terms
+==============================
+    Here is a list of some proper nouns and terms that are different in Compound 
+X than in the English Language normally. If one is missing, please create an 
+issue in Github asking for it! Hope it helps!
+
+Action: 
+    In Compound X, an Action rarely means a single abstract bodily movement as 
+it does in English. Instead, an Action is a measure of time specifically during 
+a Player's turn in Combat. See "Actions" Section in the "Combat" Chapter in 
+Basic Rules.txt.
+
+Base Stats: 
+    The Base Stats of a Character are Strength, Perception, Fortitude, Charisma, 
+Intelligence, Dexterity and Luck. For more about Base Stats, see the Section 
+"Base Stats" in Basic Rules.txt.
+
+Compound X: 
+    The name of the game! It is also the name of a prison planet in the first 
+campaign run back in 2015 by the game's creator, Taylor Rowland. 
+
+Character:
+    Character, Player: See Player Character.
+    
+    Character, Non Player: See NPC.
+
+Class: 
+    Most Player Characters have a Class. Classes are listed and explained in the 
+CharacterCreation/02_Classes.txt document, and are a fundamental determinant of 
+a Character's identity. 
+
+Class Feats: 
+    Every certain number of levels, a Character gains an extra-special kind of 
+feat depending on their chosen Class. These are listed in the 
+CharacterCreation/02_Classes.txt document and are called Class Feats.
+
+Combat: 
+    The phase of the game when there are enemies around and characters are 
+limited by turns with certain amounts of Actions. See Basic Rules.txt section 
+"Combat".
+
+D10:
+    A 10-sided Die. See "The Primary Game Mechanic" in the Basic Rules.
+
+DM: 
+    Dungeon Master. See Game Master. 
+
+Feat: 
+    As your character levels up, they get special perks or bonuses. These are 
+called Feats and are detailed in the CharacterCreation/03_Feats.txt document. 
+
+Feats, Class: 
+    See Class Feats.
+
+Free Action:
+    An Action that a Character takes on their turn that does not cost any of the
+Actions that a Character has on their turn. 
+
+Game Master: 
+    Usually abbreviated as GM, the Game Master runs the game for the Players. 
+They are responsible for telling the story, keeping the game moving and deciding 
+how the NPCs behave and act. 
+
+GM: 
+    See Game Master.
+
+Held Actions: 
+    A type of reaction where 1 or 2 Actions can be saved from your turn to react 
+to a trigger outside of your turn. See "Reactions & Held Actions" in the basic 
+rules document.
+
+NPC: 
+    Stands for "Non-Player Character" and is defined as any character in the 
+story who is not controlled by one of the Players. NPCs are almost always 
+controlled by the GM. Often NPCs are the enemies that you fight, the shopkeepers 
+that you buy things from, or the hostages you rescue. 
+
+Opportunity Attack: 
+    A type of Reaction, an Opportunity Attack is a free attack that triggers 
+when an opponent leaves melee combat (and triggers by several other 
+circumstances). See topic "Opportunity Attack" under "Melee Combat" in the basic 
+rules.
+
+Player: 
+    A human in the real world who is playing the game. One Player may have many 
+Characters and might play in more than one game. Usually one Player plays one 
+Player Character at a time. 
+
+RPG: 
+    Role-Playing Game, such as Dungeons and Dragons or Compound X!
+    
+Roll - Standard:
+    Roll 1d100.* 
+    
+Roll - Advantage:
+    Roll twice. Take the highest of the two rolls.* 
+    
+Roll - Average:
+    Roll 2d10s. Add together and divide by 2.* 
+    
+Roll - Disadvantage:
+    Roll twice. Take the lowest of the two rolls.*
+    
+*NOTE: For all Rolling rules see Basic Rules: "Primary Mechanics" section.
+
+Player Character: 
+    The Player's avatar in the game world. A Player Character is made by 
+following the procedures outlined in the CharacterCreation folder. Generally, a 
+Player only controls one Character at a time; that Character is called a Player 
+Character. 
+
+    In brief, Proficiency is a sufficient aptitude such that a character can use 
+a given type of Weapon or Armor in combat. Proficiency can also be the ability 
+to use a Skill with given capability.
+
+Proficiency: 
+    Compound X uses three types of Proficiencies: Weapon Proficiency, Armor 
+Proficiency, and Skill Proficiency. For Weapon or Armor Proficiency, see Basic 
+Rules "Assigning A Class To Your Character" Section, subsections "Weapon 
+Proficiency" or "Armor Proficiency". For Skill Proficiency see Basic Rules 
+"RP / Using Skills" section. 
+
+Reactions: 
+    A special action that is triggered by certain circumstances or abilities. 
+Reactions occur at the immediate moment that they are triggered. See "Reactions 
+& Held Actions" in the basic rules document.
+
+
+Saving Throw: 
+    A Saving Throw is a roll of the dice to see whether your character has the 
+defenses to avoid something bad happening to them. See "Saving Throws" in the 
+Basic Rules.txt document for more information.
+
+Stacking/Stackable: 
+    When an effect or feat is Stackable, that means if applied to a character 
+more than once the effect is cumulative or additive. So if a Character is taking 
+damage from stacked burn conditions, the damage dealt is added together.

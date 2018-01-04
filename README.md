@@ -1,6 +1,24 @@
 # Compound_X
-Compound_X table top role playing game.
 
-Version 2.0.5
+Version Beta 0.0.2
 
-By Taylor Rowland, Mike Hedges, Alex Lindahl, Sarah Slater, and James Talbot
+A fun sci-fi table top role playing game.
+
+Creative Director: Reveraine
+
+Game Director: 1Source Control
+
+Producer: Bleehu 
+
+Lead Test: Wildlovelies
+
+## Special Thanks to: 
+
+* Trowl223
+* HulkingOpossum
+* 
+* TurtleLord 
+* MasterdieKillsu 
+* Shrub 
+* Spinach 
+* Gnat
