@@ -832,7 +832,7 @@ Size:			.5m x .5m x .1m
     	You set up a recoil-dampening weapon stand that grants partial
 cover and a +10% accuracy bonus to whomever sets up here. Will fit in windows,
 off the back of a truck, etc. Adheres to a solid, flat surface. Engineer who
-built it gets 10 Nanites every time an ally hits a target using their gun mount.
+built it gets 10 Energy every time an ally hits a target using their gun mount.
 does not proc for an engineer using their own mount.
 
 
@@ -851,7 +851,7 @@ aimed, but it can be ripped off of its emplacement by a character that has 8
 strength or more. When ripped off, the gun has an additional 10% chance to 
 miss. If the gun is fired four times, with four consecutive actions, the
 shooter gets a free fifth shot. Every hit that an ally (not you) makes with a
-turret that you placed gives you 30 Nanites. Supporting Fire weapon.
+turret that you placed gives you 30 Energy. Supporting Fire weapon.
 
 == Snare == 
 Type:				Trap
@@ -879,12 +879,12 @@ Duration: 			Permanent
 Health:				50
 Size:				1m x 1m x 3m
 
-    		Your Nanites and you assemble an active countermeasure system that 
-eliminates incoming explosive ordinance. When active, this system destroys any
-incoming grenades, missiles, rockets or thrown weapons that it has line of 
-sight to from the top of its 3m mast within a 6m radius. Any incoming munitions
-are destroyed before they can detonate. Cannot stop incoming bullets, lasers, 
-or plasma. Will stop some hostile Nanite attacks, see GM for specifics.
+    		You assemble an active countermeasure system that eliminates 
+incoming explosive ordinance. When active, this system destroys any incoming 
+grenades, missiles, rockets or thrown weapons that it has line of sight to from 
+the top of its 3m mast within a 6m radius. Any incoming munitions are destroyed 
+before they can detonate. Cannot stop incoming bullets, lasers, or plasma. Will 
+stop some hostile Nanite attacks, see GM for specifics.
 
 == Sentry	== 
 Type: 		Structure
@@ -901,7 +901,7 @@ be affixed to any flat surface that is strong enough to support its weight.
 
 == Claymore	== 
 Type:				Trap
-Construction Cost:	20 Nanites
+Construction Cost:	10 Energy and 1 Munition
 Build Time:			1 Action
 Disarm DC:			60%
 Damage:				110 points
@@ -927,7 +927,7 @@ be incompatible with your microassembler.
 
 == Light Mortar	== 
 Type: 		Structure
-Construction Cost:160 Nanites
+Construction Cost:65 Energy, 45 Material and 1 Munitions
 Build Time:	8 Actions
 Duration: 	Permanent
 Health:		1 vehicle health
@@ -945,7 +945,7 @@ ten shells and may be refilled at a cost of 100 Energy.
 
 == IED	== 
 Type:				Trap
-Construction Cost:	50 Nanites
+Construction Cost:	20 Energy, 15 Material and 1 Munition
 Build Time:			1 Action
 Disarm DC:			80%
 Damage:				180 points or 3 vehicle damage
@@ -956,7 +956,7 @@ explosive to be made with, i.e. mortar shells, grenades, det-cord, etc.
 
 == Chain Sentry	== 
 Type:				Structure
-Build Cost:			60 Nanites
+Build Cost:			60 Energy, 35 Material and 1 Munitions
 Build Time:			6 actions
 Duration:			Permanent
 Health:				1 Vehicle health
@@ -1065,7 +1065,7 @@ Size:		1m x 1m x 1m
 shield that nobody can shoot through, but anyone can walk through or melee
 through. The shield will stop 120 damage per turn or one vehicle damage
 before popping. Once a shield has popped, it will need to be repaired at a cost
-of 20 Nanites and 2 actions. Cannot be repaired more than twice.
+of 20 Energy and 2 actions. Cannot be repaired more than twice.
 
 
 == Entrench	== 
@@ -1124,7 +1124,7 @@ wrapped up with a web application firewall. Allows any Priest within 8m of the
 station to make wireless hacking checks with a +20 to rolls. Gives friendly 
 drones in range a +10 to resist being hacked. Also provides four friendly 
 network nodes, all isolated by separate firewalls. The engineer who deployed 
-this gets 10 Nanites for each system disrupted and 20 Nanites for each system 
+this gets 10 Energy for each system disrupted and 20 Energy for each system 
 pwned using this antennae. 
 
 == Noisy Cricket	== 
@@ -1162,7 +1162,7 @@ heals any damage to your teammate's shields by 20 points at the end of your
 teammate's turn every turn. It's not really quiet though, so the teammate that 
 the drone is following cannot score stealth rolls above 70. For every 20 points 
 (including the first 40 of over-heal) of shield strength that the drone heals, 
-the engineer who built it gets 15 Nanites in return.
+the engineer who built it gets 15 Energy in return.
 
 == Pointer	== 
 Type: 				Drone
@@ -1201,7 +1201,7 @@ one particular medic and speeds up all Hippocratic procedures to 1 action (no
 effect if an action would be just one action or faster anyway). It also adds a 
 +15 to medical skill checks and adds a +15 to perception checks made by that 
 medic. The medic drone does not cost any control points. The engineer who 
-deployed the medic drone is able to reclaim 10 Nanites every time the medic uses 
+deployed the medic drone is able to reclaim 10 Energy every time the medic uses 
 the drone to heal something. Medic drones are not quiet and limit a medic to a 
 stealth score of 75 while active.
 
