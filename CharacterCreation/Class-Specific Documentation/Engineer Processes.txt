@@ -454,7 +454,7 @@ feedback wave sets a 10 damage per turn for 4 turns to any enemies in the area
 of effect as well. A feedback wave ends the engineer's turn immediately.
 
 == CS Lacer	== 
-Energy Gain:	20 Nanites
+Energy Gain:	20 Energy and 1 Munitions
 Action:			2 Actions
 Duration:		10 Shots
 Range:			Touch
@@ -484,7 +484,9 @@ time unless otherwise stated.
 the tree. Please see the Engineer Skill Tree - Build.png for dependencies.
 
 ===== Embedded Systems =====
+
 == Dragonfly	== 
+
 Type: 				Drone
 Construction Cost:	30 Energy, 40 material 
 Control Point Cost: 1 point
@@ -510,8 +512,7 @@ to its small size and jerky flight movement, a Dragonfly that moved on the same
 turn that it is shot at adds a 25% chance for the attacker to miss.
 
     When a drone is reclaimed, it frees up the control point cost that it 
-occupied, but does not reimburse its controller's Nanites that were used to 
-assemble it.
+occupied, but does not reimburse its construction cost.
 
 == KRO-W5	== 
 Type: 				Drone
@@ -541,8 +542,7 @@ peripheral an engineer would have to jerry rig something on to it. See GM for
 Role Playing options. 
 
     When a drone is reclaimed, it frees up the control point cost that it 
-occupied, but does not reimburse its controller's Nanites that were used to 
-assemble it.
+occupied, but does not reimburse its construction cost.
 
 == PD-5 Scout Bot	== 
 Type: 				Drone
@@ -576,8 +576,7 @@ stealth scores over 80. This limitation may be solved with clever RP, see your
 GM with ideas.  
 
     When a drone is reclaimed, it frees up the control point cost that it 
-occupied, but does not reimburse its controller's Nanites that were used to 
-assemble it.
+occupied, but does not reimburse its construction cost.
 
 == Con-D0R	== 
 Type: 				Drone
@@ -603,8 +602,7 @@ at it. If the Con-D0R has less than half of its ports occupied, enemies on the
 ground take an additional +10% when this effect is active.
 
     When a drone is reclaimed, it frees up the control point cost that it 
-occupied, but does not reimburse its controller's Nanites that were used to 
-assemble it.
+occupied, but does not reimburse its construction cost.
 
 == Cerberus Attack Drone	== 
 Type: 				Drone
@@ -629,8 +627,7 @@ come with armor that covers 80% of their systems and reduces incoming fire by
 player to take partial cover behind. 
 
     When a drone is reclaimed, it frees up the control point cost that it 
-occupied, but does not reimburse its controller's Nanites that were used to 
-assemble it.
+occupied, but does not reimburse its construction cost.
 
 == Titan Multipurpose Drone	== 
 Type: 				Drone
@@ -646,15 +643,14 @@ Size:				1.2m x 1.2m x 2.4m
 Disrupt DC:			30
 Pwn DC:				70
 
-    		The titan multipurpose drone is a bipedal megalith of death
+    The titan multipurpose drone is a bipedal megalith of death
 and science. Plasma induction core explodes violently when destroyed. 
 The titan comes with a 7.62 repeater that has a 20% chance to miss and deals 55 
 damage. fed from a 150 round drum. May also make melee attacks with its offhand.
 20% chance to miss. Deals 160 damage, kinda like being punched by a backhoe.
 
     When a drone is reclaimed, it frees up the control point cost that it 
-occupied, but does not reimburse its controller's Nanites that were used to 
-assemble it.
+occupied, but does not reimburse its construction cost.
 
 == Peripheral: popgun	== 
 Type:				Peripheral
@@ -716,7 +712,7 @@ allows armor diagnostics and triggering of reactive ballistic cells.
 
 == Peripheral: Shield Capacitor	== 
 Type:				Peripheral
-Construction Cost:	60 Nanites
+Construction Cost:	35 Energy, 10 Material
 Build Time:			2 Actions
 Modular I/O ports:	Uses 2 ports
 Capacity:			80 points
@@ -728,7 +724,7 @@ pulse frequency. Glows a neon color, -20 to drone stealth checks.
 
 == Peripheral: Minigun	== 
 Type:				Peripheral
-Construction Cost:	80 Nanites
+Construction Cost:	40 Energy, 40 Material
 Build Time:			4 Actions
 Modular I/O ports:	Uses 3 ports
 Ammo:				Holds 60 shots
@@ -742,7 +738,7 @@ engineer must have unlocked antennae and shield capacitor peripherals.
 
 == Peripheral: Antennae	== 
 Type:				Peripheral
-Construction Cost:	40 Nanites
+Construction Cost:	10 Energy, 15 Material
 Build Time:			4 Action
 Range:				+10m
 
@@ -769,7 +765,7 @@ from impact. Each shot into a door reduces the DC of kicking down that door by
 
 == Peripheral: Rockets	== 
 Type:				Peripheral
-Construction Cost:	100 Nanites
+Construction Cost:	80 Energy, 2 Munitions and 40 Material
 Build Time:			2 Actions
 Modular I/O ports:	Uses 1 port
 Ammo:				Holds 8 shots
@@ -785,7 +781,7 @@ hunter marks don't stack. 2 rocket hits count as an anti-vehicle hit. At level
 
 == Peripheral: Network Security Module	== 
 Type:				Peripheral
-Construction Cost:	20 Nanites
+Construction Cost:	15 Energy and 10 Material
 Build Time:			2 Actions
 Modular I/O ports:	Uses 1 port
 Hacking resistance:	20%	
@@ -801,7 +797,7 @@ the NSM.
 
 == Insta-Cover	== 
 Type:			Structure
-Build Cost:		30 Nanites
+Build Cost:		5 Energy and 25 Material
 Build Time:		2 Actions
 Duration:		Permanent
 Health:			2 Vehicle Health
@@ -813,7 +809,7 @@ bullets. This gives partial cover for 2 meters in one direction.
 
 == Barbed Wire	== 
 Type:			Structure
-Build Cost:		20 Nanites
+Build Cost:		5 Energy and 15 Material
 Build Time:		1 Action
 Duration:		Permanent
 Health:			60 health points; immune to bullets but not to slashing weapons.
@@ -829,7 +825,7 @@ most vehicles, but it can pop tires.
 
 == Adaptive Gun Mount	== 
 Type:			Structure
-Build Cost:		10 Nanites
+Build Cost:		5 Energy and 15 Material
 Build Time:		2 Actions
 Duration:		Permanent
 Health:			46 health
@@ -1259,6 +1255,5 @@ Pwn DC:				90
 follow the direction of one of your allies (not you). While unladen, its rotors 
 run slightly quieter than most; as long as it isn't carrying anything and its 
 ports are unused, it has a maximum stealth check of 90. It runs on a Li+ battery 
-and almost never explodes when destroyed. When a drone is reclaimed, it frees up 
-the control point cost that it occupied, but does not reimburse its controller's 
-Nanites that were used to assemble it.
+and almost never explodes when destroyed. When a drone is reclaimed, it does not 
+reimburse its controller's Nanites that were used to assemble it.
