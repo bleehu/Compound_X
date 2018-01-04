@@ -747,7 +747,7 @@ Pwn attempts.
 
 == Peripheral: Flack Cannon	== 
 Type:				Peripheral
-Construction Cost:	80 Nanites
+Construction Cost:	60 Energy, 40 Material and 1 Munitions
 Build Time:			2 Actions
 Modular I/O ports:	Uses 3 ports
 Ammo:				Holds 8 shots
