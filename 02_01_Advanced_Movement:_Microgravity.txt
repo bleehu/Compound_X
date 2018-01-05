@@ -50,7 +50,7 @@ the DM’s discretion.
 object, such as the surface they were Anchored to, that character may make a DC 120 
 reflex save to catch themselves (Anchoring equipment may provide bonuses), in which 
 case they become Anchored again but gain the prone state. Failure causes the character 
-to uncontrolled Bounce. If the Launching event was not a surprise, the character may 
+to Bounce uncontrolledly. If the Launching event was not a surprise, the character may 
 choose to Bounce instead of rolling the Reflex Save, and may control the direction of 
 the Bounce by succeeding on a difficulty 80 Acrobatics check. Failure reverts to an 
 uncontrolled Bounce.
@@ -84,10 +84,10 @@ speed at the end of every turn spent drifting.
 to, he or she may make an Acrobatics check to Anchor to it. The save is based on 
 many factors, enumerated in the next subsection. Passing the check allows the 
 character to Anchor to the surface and gain the prone state, while succeeding the 
-check by 20 or more makes going prone optional. Failing the save results in Bouncing. 
-Bouncing also resets any weapons fire modifiers for future Anchoring attempts. A 
-Character may always choose to controlled Bounce instead of Anchoring, in which 
-case the check's difficulty is halved.
+check by 20 or more makes going prone optional. Failing the save results in an 
+uncontrolled Bounce. Bouncing also resets any weapons fire modifiers for future 
+Anchoring attempts. A Character may always choose to controlled Bounce instead of 
+Anchoring, in which case the check's difficulty is halved.
 
 == Anchoring Acrobatics Check Difficulty Modifiers ==
 
@@ -102,6 +102,7 @@ Speed greater than twice the character’s Movement Speed: +15 * Speed / Movemen
 
 Angle of Impact:
 Less than 30 degrees: -15
+Between 30 and 60 degrees: 0
 Greater than 60 degrees: +30
 
 Non-recoilless Weapons Usage:
@@ -124,14 +125,14 @@ speed and direction of whichever character had greater initial momentum.
 character is willing, the Drifting character may Anchor to the same surface with an 
 Acrobatics check at half the usual difficulty. Otherwise, the colliding character 
 must succeed on a grapple attempt to Anchor to the surface (no Acrobatics check involved).
-Failure causes the colliding character to uncontrolled Bounce, and Launches the Anchored
+Failure causes the colliding character to Bounce uncontrolledly, and Launches the Anchored
 character directly toward the surface, triggering a possible Reflex save to Anchor as 
 described in the Launching section.
 
-	Characters may make an Acrobatics check to launch themselves with intent to 
-collide with another character. The check that scales with distance to and speed of the 
-target (starting at Difficulty 0). Note that if the target changes their speed or 
-direction while the character is in flight, the collision may not occur.
+	Characters may make an Acrobatics check to Launch themselves with intent to 
+collide with another character. The check scales with distance to and speed of the 
+target (starting at Difficulty 0) as described below. Note that if the target changes 
+their speed or direction while the character is in flight, the collision might not occur.
 
 Every 10m of path to target: Difficulty +20
 Every 4m per two actions of target's speed: Difficulty +30
