@@ -117,15 +117,21 @@ Stat Modifiers: INT + 1, FORT + 2. LUCK -3.
 
 ===== Racial Traits =====
 
-Robotic: Does not need to eat, breath, or sleep. Must spend 6 hours to 
-recharge after a 24 hour period. this can be done via a self-contained 
-reactor. Not affected by mind-influence, susceptible to hack attempts.
-Built in Armour: Take any Heavy Armour for $100 less, or armors cost $60 less.
-Purpose Built: Take an additional skill at 10 points during character 
-creation. This is considered a Class skill.
-25m IR Vision.
-Immune to: poison, cannot be intoxicated.
-Weakness (Electrical): Electrical damage deals an additional 50% damage.
+Robotic: 
+    Does not need to eat, breath, or sleep. Must spend 6 hours to recharge after 
+a 24 hour period. this can be done via a self-contained reactor. Not affected by mind-influence, susceptible to hack attempts.
+
+Built in Armour: 
+    Take any Heavy Armour for $100 less, or armors cost $60 less. 
+
+Purpose Built: 
+Take an additional skill at 10 points during character creation. This is 
+considered a Class skill. 25m IR Vision.
+
+    Immune to poison, cannot be intoxicated.
+
+Weakness (Electrical): 
+    Electrical damage deals an additional 50% damage.
 
 ==============================
 Multipurpose Drone
@@ -158,19 +164,30 @@ Stat Modifiers: DEX + 1, INT + 1
 
 ===== Racial Traits =====
 
-Fragile: The Multipurpose drone has -25 max health.
-Machine Learning: The Multipurpose Drone learns 5 points more skills 
-    on each level up.
-Hovering: Multipurpose drones can't fly, but they do move by hovering
-    over the terrain below them. They don't take penalties for difficult
-    terrain and can hover over water. 
-Faceless: Opponents counter persuasion, deception, bluff checks with Repair
-    checks instead of insight/charisma checks. 
-Robotic: Does not need to eat, breath, or sleep. Must spend 6 hours to 
-    recharge after a 24 hour period. this can be done via a self-contained 
-    reactor. Not affected by mind-influence, susceptible to hack attempts.
+Fragile: 
+    The Multipurpose drone has -25 max health.
+
+Machine Learning: 
+    The Multipurpose Drone learns 5 points more skills on each level up.
+
+Hovering: 
+    Multipurpose drones can't fly, but they do move by hovering over the terrain 
+below them. They don't take penalties for difficult terrain and can hover over 
+water. 
+
+Faceless: 
+    Opponents counter persuasion, deception, bluff checks with Repair checks 
+instead of insight/charisma checks. 
+
+Robotic: 
+    Does not need to eat, breath, or sleep. Must spend 6 hours to recharge after 
+a 24 hour period. this can be done via a self-contained reactor. Not affected by
+mind-influence, susceptible to hack attempts.
+
     Immune to poison, cannot be intoxicated.
-Weakness (Electrical): Electrical Damage deals an additional 50% damage.
+
+Weakness (Electrical): 
+    Electrical Damage deals an additional 50% damage.
 
 ==============================
 Cyborg
