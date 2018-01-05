@@ -1,0 +1,161 @@
+==============================
+Movement in Microgravity
+==============================
+
+===== States of Motion =====
+
+	In the absence of gravity, natural and artificial, movement changes 
+fundamentally. In Zero-G environments, characters have one of two states at all 
+times: Anchored or Drifting. 
+
+Anchored:
+	A character is Anchored if he or she is adjacent to and at rest relative 
+to a firm surface that weighs at least 5 times as much as the character. 
+
+Drifting:
+	A character is Drifting whenever that character is not Anchored.
+
+===== Movement While Anchored =====
+
+	If a character is Anchored to a ferrous surface in a way that permits 
+movement, he or she may make movements actions along that surface as if on a 
+planetary surface, though accommodation may have to be made for non-flat surfaces. 
+Also keep in mind that a character may not have their full speed available, 
+depending on their method of Anchor. 
+
+===== Launching =====
+
+	An Anchored character may spend two actions to launch him- or herself away 
+from the Anchoring surface. Characters launching in this way enter the Drifting 
+state with their standard movement speed and a direction of their choice. 
+
+	Characters may also be launched by certain events, such as explosives going 
+off nearby or the Anchored object being struck by a ship weapon. In those cases, 
+the character has an optional reflex save based on the force of the event to avoid 
+being Launched – failure causes the character to be Launched directly away from the 
+incoming force as described below.
+
+Small explosives or Blunt Melee Strike: 1m per 2 actions and 40 Reflex per 30 points of damage
+Demolition explosives or Vehicle/Ship Weapon: 8m per 2 actions and 50 Reflex per 30 hull points of damage
+
+	A character may spend an Action to Brace for Impact, which grants Advantage
+on any Reflex saves to avoid being Launched until the character takes another Action.
+
+	In the case that the Anchoring surface is a capital ship, station, or 
+similarly high-inertia object, characters are not Launched by strikes against the 
+surface that are more than 50m away except in truly calamitous circumstances, at 
+the DM’s discretion.
+
+	In the case that a character would be Launched toward an adjacent solid 
+object, such as the surface they were Anchored to, that character may make a DC 120 
+reflex save to catch themselves (Anchoring equipment may provide bonuses), in which 
+case they become Anchored again but gain the prone state. Failure causes the character 
+to uncontrolled Bounce. If the Launching event was not a surprise, the character may 
+choose to Bounce instead of rolling the Reflex Save, and may control the direction of 
+the Bounce by succeeding on a difficulty 80 Acrobatics check. Failure reverts to an 
+uncontrolled Bounce.
+
+== Bouncing ==
+
+	Characters may only Bounce if they are Drifting, otherwise the Launching 
+rules apply.
+
+	Uncontrolled Bouncing halves the character’s speed alters his or her 
+direction based on the angle of impact.
+
+	Controlled Bouncing reduces the character's speed by one meter per two 
+actions and alters his or her direction away from the surface of the character's 
+choice. Any attempt to controlled Bounce incurs an Acrobatics check, described
+below in Movement While Drifting.
+
+===== Movement While Drifting =====
+
+	If a character has a thruster pack or some other means of propulsion, he or she 
+is treated as a Strikecraft while not Anchored, and follows Strikecraft movement rules.
+
+	While Drifting, a character has a speed and a direction. Each turn, the 
+character is forced to travel four Actions worth of distance at this speed in this 
+direction. This movement does not require expenditure of Actions. 
+
+	If in a pressurized location, a character loses 1 meter per two actions of 
+speed at the end of every turn spent drifting.
+
+	If a character would impact a surface that he or she is capable of Anchoring 
+to, he or she may make an Acrobatics check to Anchor to it. The save is based on 
+many factors, enumerated in the next subsection. Passing the check allows the 
+character to Anchor to the surface and gain the prone state, while succeeding the 
+check by 20 or more makes going prone optional. Failing the save results in Bouncing. 
+Bouncing also resets any weapons fire modifiers for future Anchoring attempts. A 
+Character may always choose to controlled Bounce instead of Anchoring, in which 
+case the check's difficulty is halved.
+
+== Anchoring Acrobatics Check Difficulty Modifiers ==
+
+Surface Texture:
+Smooth Surface: 0
+Rough or Curved Surface: +20
+Damaged Surface: +40
+
+Speed:
+Speed equal or less than the character’s Movement Speed: -20
+Speed greater than twice the character’s Movement Speed: +15 * Speed / Movement Speed
+
+Angle of Impact:
+Less than 30 degrees: -15
+Greater than 60 degrees: +30
+
+Non-recoilless Weapons Usage:
+Ballistic weapon: +30 per action spent firing
+Plasma weapon: +15 per action spent firing
+
+Anchoring Equipment:
+	As described in the Item entry.
+
+== Collision ==
+
+	If two Drifting characters collide, they may Anchor to each other (treat as a 
+grapple attempt if one party is unwilling, failure causes both characters to 
+uncontrolled Bounce off of each other). If successful, the two characters are still 
+Drifting, but now have the same direction and speed. Collision physics realism is at 
+the DM’s discretion – for maximum simplicity you may give the combined characters the 
+speed and direction of whichever character had greater initial momentum.
+
+	A Drifting character may collide with an Anchored character. If the Anchored 
+character is willing, the Drifting character may Anchor to the same surface with an 
+Acrobatics check at half the usual difficulty. Otherwise, the colliding character 
+must succeed on a grapple attempt to Anchor to the surface (no Acrobatics check involved).
+Failure causes the colliding character to uncontrolled Bounce, and Launches the Anchored
+character directly toward the surface, triggering a possible Reflex save to Anchor as 
+described in the Launching section.
+
+	Characters may make an Acrobatics check to launch themselves with intent to 
+collide with another character. The check that scales with distance to and speed of the 
+target (starting at Difficulty 0). Note that if the target changes their speed or 
+direction while the character is in flight, the collision may not occur.
+
+Every 10m of path to target: Difficulty +20
+Every 4m per two actions of target's speed: Difficulty +30
+
+===== Microgravitic Character Movement at Space Combat Scale =====
+
+	At ship-scale, Launched characters stay in the same square as the ship or station 
+they launched from. Such characters will maintain the speed and direction of the ship they 
+launched from at the time they launched from it, basically regardless of actions taken, as 
+humanoids are much, much smaller than ships. See the sidebar about centripetal force for 
+optional rules to handle characters that launch from a ship during a turn.
+
+	Whether ground- or ship-scale apply to a particular volume (such as the space 
+between two relatively near ships) is at the DM’s discretion.
+
+	For health and safety reasons (including the general disinclination of most species 
+towards being violently and painfully torn apart), insufficiently protected characters are 
+**strongly discouraged** from passing through gravitic shielding.
+
+	A note: similar ship shield layers are sympathetic, and when they would intersect 
+they instead stitch together into one larger layer. Therefore you don’t need personal 
+antigrav to breach enemy shields if you can get your own shielded craft close enough.
+
+===== A Note On Intersecting Advanced Movement Rules =====
+
+	If a character is in Zero-G and underwater at the same time (or other liquid), 
+underwater rules take precedence.
