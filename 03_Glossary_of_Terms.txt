@@ -9,7 +9,7 @@ Action:
     In Compound X, an Action rarely means a single abstract bodily movement as 
 it does in English. Instead, an Action is a measure of time specifically during 
 a Player's turn in Combat. See "Actions" Section in the "Combat" Chapter in 
-Basic Rules.txt
+Basic Rules.txt.
 
 Base Stats: 
     The Base Stats of a Character are Strength, Perception, Fortitude, Charisma, 
@@ -21,8 +21,9 @@ Compound X:
 campaign run back in 2015 by the game's creator, Taylor Rowland. 
 
 Character:
-Character, Player: See Player Character
-Character, Non Player: See NPC
+    Character, Player: See Player Character.
+    
+    Character, Non Player: See NPC.
 
 Class: 
     Most Player Characters have a Class. Classes are listed and explained in the 
@@ -50,7 +51,11 @@ Feat:
 called Feats and are detailed in the CharacterCreation/03_Feats.txt document. 
 
 Feats, Class: 
-    See Class Feats
+    See Class Feats.
+
+Free Action:
+    An Action that a Character takes on their turn that does not cost any of the
+Actions that a Character has on their turn. 
 
 Game Master: 
     Usually abbreviated as GM, the Game Master runs the game for the Players. 
@@ -83,13 +88,28 @@ Characters and might play in more than one game. Usually one Player plays one
 Player Character at a time. 
 
 RPG: 
-Role-Playing Game, such as Dungeons and Dragons or Compound X!
+    Role-Playing Game, such as Dungeons and Dragons or Compound X!
+    
+Roll - Standard:
+    Roll 1d100.* 
+    
+Roll - Advantage:
+    Roll twice. Take the highest of the two rolls.* 
+    
+Roll - Average:
+    Roll 2d10s. Add together and divide by 2.* 
+    
+Roll - Disadvantage:
+    Roll twice. Take the lowest of the two rolls.*
+    
+*NOTE: For all Rolling rules see Basic Rules: "Primary Mechanics" section.
 
 Player Character: 
     The Player's avatar in the game world. A Player Character is made by 
 following the procedures outlined in the CharacterCreation folder. Generally, a 
 Player only controls one Character at a time; that Character is called a Player 
 Character. 
+
     In brief, Proficiency is a sufficient aptitude such that a character can use 
 a given type of Weapon or Armor in combat. Proficiency can also be the ability 
 to use a Skill with given capability.
