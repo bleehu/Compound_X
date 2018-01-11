@@ -32,8 +32,9 @@ process doesn't specify that it can only be used on cybernetic allies) leaves a
 the build tree, the range of the drone is taken from the nearest network mote or 
 the engineer that deployed it.
 
-    Unlocking a Process requires having unlocked the Process below it on Process 
-Tree. Please see the "Engineer Process Tree - Repair.png" for dependencies.
+    Unlocking a Process requires having unlocked the Process below it on the 
+Process Tree. Please see the "Engineer Process Tree - Repair.png" for 
+dependencies.
 
 ==============================
 Repair Tree	

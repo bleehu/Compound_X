@@ -189,8 +189,6 @@ stuff. Which some knucklehead will probably, eventually, break too.
 Class Primary Attribute: Intelligence
 Starting Wealth: $2580 + 100*Luck
 
-== Class Feats: ==
-
 passives: 
 * Gain Skill [Repair] at 10. 
 * 2 Control Points
