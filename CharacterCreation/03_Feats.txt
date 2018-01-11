@@ -609,24 +609,19 @@ Luck = 15
 	You may choose to reroll a check, save, or attack four times per long rest. 
 	Your rerolls may have either a +20% or -20% bonus. You may reroll an action 
 	multiple times and choose which roll to keep.
-
-Positional Mastermind:
-
-	Prerequisites: Mutually Exclusive with Will to Survive; Charisma 9
-
+		
+Positional Mastermind: 
+Prerequisites: Mutually Exclusive with Will to Survive; Charisma 9
 	You have incredible understanding of how beings in your universe perceive and react to their 
 environments, allowing you to feint and position yourself in cover better. If you have 9 or more Charisma, 
 any LIVING ENEMY (i.e. non-robotic enemy) targeting you gets a +1 miss chance penalty when you have any kind 
 of defense bonus from cover. If you have 12 or more Charisma, ANY ENEMY targeting you gets a +1 miss chance 
 penalty when you have any kind of defense bonus from cover.
 
-Will to Survive:
-
-	Prerequisites: Mutually Exclusive with Positional Mastermind; Charisma 6
-
-	You are convinced that you will survive no matter the hardship. *does not 
-purge debuffs unless you have 14 Charisma*
-
+Will to Survive: 
+Prerequisites: Mutually Exclusive with Positional Mastermind; Charisma 6
+	You are convinced that you will survive no matter the hardship. *does not purge debuffs unless 
+you have 14 Charisma*	
 Charisma = 6
 		Once per encounter, once per turn if you aren't knocked out, as an immediate
 		reaction to being at or below half health, roll 1d10. If  <= 5, heal one wound
