@@ -187,10 +187,9 @@ you're not busy fixing what other people broke, you get to work on making new
 stuff. Which some knucklehead will probably, eventually, break too.
 
 Class Primary Attribute: Intelligence
-
-Class Feats: 
-=======
 Starting Wealth: $2580 + 100*Luck
+
+== Class Feats: ==
 
 passives: 
 * Gain Skill [Repair] at 10. 
