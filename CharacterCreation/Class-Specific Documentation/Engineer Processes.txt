@@ -1,20 +1,49 @@
-==============================
-Repair Tree
-==============================
-Network Motes: 
-    Any repair process that an engineer uses on a cybernetic ally
-(even if that process doesn't specify that it can only be used on cybernetic
-allies) leaves a "network mote" on that ally. When calculating roaming range
-of drones built in the build tree, the range of the drone is taken from the
-nearest network mote or the engineer that deployed it.
+    As engineers practice their craft, they learn certain processes. These are 
+listed below. 
 
-    Unlocking a Repair tree skill requires having unlocked the skill below it on 
-the tree. Please see the Engineer Skill Tree - Repair.png for dependencies.
+Energy:
+    Most procedures that an engineer can perform in the field requires the 
+expenditure of a non-trivial amount of energy. During combat, an engineer may 
+overcharge their standard issue batteries as outlined in the Engineer section of 
+the 02_classes.txt document. When not in combat, energy is vented from the 
+batteries down to their safe storage limit. If the batteries were to remain 
+overcharged for longer than the duration of an encounter, they would burn out or 
+burn up and explode depending on the limit. The max limit and safe storage limit 
+are outlined in the "02_classes.txt" document in Character Creation. 
+
+Materials:
+    An engineer will often use an extruder or 3D printer in the field to 
+construct helpful things like drones or cover in the heat of combat. To do this, 
+the Engineer uses a resource called Material. An engineer's extruder has a 
+built-in recycler which can be used to salvage usable material from a variety of 
+sources. Often, recycling spent, unused or damaged parts is part of the standard 
+procedure of a given process. Material accrued on mission persists between 
+encounters and over small rests.
+
+Munitions:
+    Munitions are used in the engineer's extruder to print more ... active 
+components. Due to regulations munitions extrusion material is not retained 
+between combat encounters. 
+
+Network Motes: 
+    Any repair process that an engineer uses on a cybernetic ally (even if that 
+process doesn't specify that it can only be used on cybernetic allies) leaves a 
+"network mote" on that ally. When calculating roaming range of drones built in 
+the build tree, the range of the drone is taken from the nearest network mote or 
+the engineer that deployed it.
+
+    Unlocking a Process requires having unlocked the Process below it on the 
+Process Tree. Please see the "Engineer Process Tree - Repair.png" for 
+dependencies.
+
+==============================
+Repair Tree	
+==============================
 
 ===== Cyberphysical =====
 
 == Reboot	== 
-Nanite Gain:65
+Energy Gain:65
 Action:		1 Action
 Duration: 	N/A
 Range:		Touch
@@ -25,7 +54,7 @@ then heal them. Not a quiet procedure; detectable within 40m by a perception
 check of 30.
 
 == Data Scrub	== 
-Nanite Gain:35
+Energy Gain:35
 Action:		1 Action
 Duration: 	N/A
 Range:		Touch
@@ -33,12 +62,12 @@ Range:		Touch
     Only usable on cybernetic allies who have been hacked or dominated.
 The engineer makes a repair check opposed by half of the hacker's hack check or
 dominator's sorcery check. If the engineer wins, the ally or system is scrubbed
-and the system control returns to normal. The engineer only receives Nanites 
+and the system control returns to normal. The engineer only receives Energy 
 for successful scrubs. Be aware that engineers are not the only class that can
 scrub a hacked target.
 
 == Restore Armor	== 
-Nanite Gain:50
+Energy Gain:50
 Action: 	2 Actions
 Duration:	Almost Instant
 Range: 		Touch
@@ -47,7 +76,7 @@ Range: 		Touch
 your ally's armor such as sundering, battle damage, etc. 
 
 == Percussive Maintenance	== 
-Nanite Gain:30
+Energy Gain:30
 Action:		1 Action
 Duration:	Almost Instant
 Range:		Touch
@@ -61,7 +90,7 @@ process may only be performed on cybernetic allies, turrets, vehicles or as
 an RP event. Not to be confused with the concussive maintenance feat.
 
 == Defrag	== 
-Nanite Gain:15
+Energy Gain:15
 Action:		1 Action
 Duration:	Until First Use
 Range:		Touch
@@ -72,7 +101,7 @@ your ally continues on their way. Your ally gets a +5% bonus to their next
 RP roll.
 
 == Actuator Overdrive	== 
-Nanite Gain:20
+Energy Gain:20
 Action:		1 Action
 Duration: 	engagement
 Range:		Touch
@@ -82,8 +111,9 @@ movement has an absolute cap of 14m per action, even if some other effect
 would make it higher. A player may not be overdrived/overclocked more than 
 once per engagement. Only works on cybernetic allies.
 
+
 == Discrete Overclock	== 
-Nanite Gain:20
+Energy Gain:20
 Action:		1 Action
 Duration: 	Engagement
 Range:		Touch
@@ -93,7 +123,7 @@ engagement. They also get a +15 to reloading weapons quickly and a +10 to
 perception checks. 
 
 == Network Targeting	== 
-Nanite Gain:20
+Energy Gain:20
 Action:		1 Action
 Duration:	Until First Use
 Range:		Touch
@@ -106,7 +136,7 @@ drone, robot and turret that is also looking at that target. This effect
 may be blocked with a hacking attack at DC 20. 
 
 == System Overclock	== 
-Nanite Gain:35
+Energy Gain:35
 Action:		1 Action
 Duration: 	Engagement
 Range:		Touch
@@ -116,7 +146,7 @@ They also get a +35 to reloading weapons quickly and a +10 to perception checks,
 take 20 damage from system overheat.
 
 == Colocation Processing	== 
-Nanite Gain:20
+Energy Gain:20
 Action:		1 Action
 Duration:	Until First Use
 Range:		6m
@@ -127,7 +157,7 @@ ally makes a lockpick, hacking, explosives, repair, heal, or tracking check,
 they get a +15 to it. 
 
 == Regression Override	== 
-Nanite Gain:60
+Energy Gain:60
 Action:		1 Action
 Duration:	8 Turns
 Range:		Touch
@@ -148,7 +178,7 @@ do, they take 20 damage of wear and tear. An engineer can only perform a
 regression override once per encounter. Regression Overrides do not stack.
 
 == System Restore	== 
-Nanite Gain:35
+Energy Gain:35
 Action:		2 Actions
 Duration: 	Permanent
 Range:		Touch
@@ -160,10 +190,11 @@ subject is saved, they get the feat "Refurbished". Characters with the
 "Refurbished" feat have a permanent -1 to Intelligence and can never again be
 revived with System Restore.
 
+
 ===== Material/Mechanic =====
 
 == Duct Tape	== 
-Nanite Gain:40
+Energy Gain:40
 Action:		1 Action
 Duration: 	N/A
 Range:		Touch
@@ -173,7 +204,7 @@ wounds are healed. This trick only works on cybernetic allies. This also works
 on non-sentient robots and machinery.
 
 == Weapon Tuning	== 
-Nanite Gain:20
+Energy Gain:20
 Action:		1 Action
 Duration: 	engagement
 Range:		Touch
@@ -185,7 +216,7 @@ you've done by the end of the engagement, but hopefully your efforts will help
 keep your ally alive until then.
 
 == Vehicle Repair	== 
-Nanite Gain:40
+Energy Gain:40
 Action:		4 Actions
 Duration:	almost instant
 Range:		Touch
@@ -195,8 +226,9 @@ vehicle. It gains 1 vehicle health. While this power is not required to repair
 vehicles, it does add a Nanite reward for doing so. It also increases the 
 effect and may reduce the time taken to repair. 
 
+
 == Multisys Repair	== 
-Nanite Gain:30*n
+Energy Gain:30*n
 Action:		1 Action
 Duration: 	N/A
 Range:		Touch
@@ -206,7 +238,7 @@ the number of wounds that the automaton has. This trick only works on cybernetic
 beings or machines.
 
 == Micro Assembler	== 
-Nanite Gain:50
+Energy Gain:50
 Action:		1 Action
 Duration: 	8 turns
 Range:		Touch
@@ -219,7 +251,7 @@ vulnerable to hack checks at a DC of 50. A hacked micro assembler reveals its
 location and may deal 5 damage per turn.
 
 == Engine Tuning	== 
-Nanite Gain:50
+Energy Gain:50
 Action:		6 Actions
 Duration: 	Almost Instant
 Range:		Touch
@@ -228,11 +260,11 @@ Range:		Touch
 clean the spark plug, dial in the cylinder timing and add your own special
 sauce to the engine's fuel injector. It will now run at 125% power, and it has
 full health. Effect may vary by RP. See GM for details. While this power is not
-required to boost the effect of a vehicle, it now rewards you in Nanites for
+required to boost the effect of a vehicle, it now rewards you in Energy for
 doing so and increases your effectiveness at doing so.
 
 == Boilerplate Handiwork	== 
-Nanite Gain:20
+Energy Gain:20
 Action:		1 Action
 Duration: 	Permanent
 Range:		Touch
@@ -243,7 +275,7 @@ down by 1m per action. This effect lasts until that 40 health has been
 destroyed, or until the engineer takes it off and discards it.
 
 == Zero Friction Covalent	== 
-Nanite Gain:20
+Energy Gain:20
 Action:		1 Action
 Duration: 	Until next melee hit
 Range:		Touch
@@ -256,7 +288,7 @@ own weapon and the effect only lasts until the next hit. Cannot be used on a
 weapon more than once at a time.
 
 == Sup it Up	== 
-Nanite Gain:80
+Energy Gain:80
 Action:		12 Actions
 Duration: 	8 turns
 Range:		Touch
@@ -269,7 +301,7 @@ adding a 1-vehicle damage shield
 adding stabilized chassis for improved accuracy when fired from 
 
 == Ceramic Catalyst	== 
-Nanite Gain:	15 Nanites
+Energy Gain:	15 Energy
 Action:			2 Actions
 Duration:		10 turns or 2 hits
 Range:			Touch
@@ -285,7 +317,7 @@ catalyst on themselves. Ceramic Catalyst decays after exposure to elements for
 ten turns or two hits, whichever happens first. 
 
 == Microbot Swarm	== 
-Nanite Gain:40 * n
+Energy Gain:40 * n
 Action:		1 Action
 Duration: 	8 turns
 Range:		4m radius
@@ -293,7 +325,7 @@ Range:		4m radius
     You release a swarm of spider-like micro repair bots that repair 
 cybernetic allies for 8 turns before running out of power. The microbots are 
 able to heal 15 health per turn. The microbots burn up if one of their subjects
-is affected by CS burn. For this, the engineer gains 40 * n Nanites, where n is 
+is affected by CS burn. For this, the engineer gains 40 * n Energy, where n is 
 the number of allies affected. The engineer can only perform this once per 
 engagement. A Microassembler uses wireless cloud calculation to stay small, 
 but on-blueprint. As such, it is vulnerable to hack checks at a DC of 50. A 
@@ -303,7 +335,7 @@ The microbot swarm director automatically detects disobedient microbots.
 ===== Optronic/Cycotonic =====
 
 == Repulsor Recharge	== 
-Nanite Gain:	20 Nanites
+Energy Gain:	20 Energy
 Action:			1 Action
 Duration:		Immediate
 Range:			Touch
@@ -313,7 +345,7 @@ charge an ally's shields over their max value. An engineer cannot recharge
 their own shields.
 
 == Sensory Fuse	== 
-Nanite Gain:	10 Nanites
+Energy Gain:	10 Energy
 Action:			1 Action
 Duration:		Until fuse pops
 Range:			Touch
@@ -323,8 +355,9 @@ cybernetic ally's audio and visual signal processors. The fuse pops and
 negates the effect of a flashbang or other such device. Fuses take a steady
 hand to install, so an engineer cannot install one in themselves.
 
+
 == B-Filter Buffer	== 
-Nanite Gain:	15 Nanites
+Energy Gain:	15 Energy
 Action:			1 Action
 Duration: 		For one visual perception check
 Range:			Touch
@@ -336,7 +369,7 @@ a disposable one-time use paracrystal network that degrades after a time for
 optimal efficiency. Increases ally's visual perception by 10%.
 
 == Repulsor Overcharge	== 
-Nanite Gain:	25 Nanites
+Energy Gain:	25 Energy
 Action:			1 Action
 Duration:		Immediate
 Range:			Touch
@@ -346,7 +379,7 @@ an ally's shields to up to 30 points above their maximum. Shields will
 normalize down to their maximum after ten turns. 
 
 == Refractory Spray	== 
-Nanite Gain:	15 Nanites
+Energy Gain:	15 Energy
 Action:			2 Actions
 Duration:		Immediate
 Range:			Touch
@@ -362,7 +395,7 @@ by metal detectors. Refractory Spray loses cohesion after ten turns or burns up
 if hit by an energy attack.
 
 == Tune Laser	== 
-Nanite Gain:	30 Nanites
+Energy Gain:	30 Energy
 Action:			2 Actions
 Duration:		5 Turns
 Range:			Touch
@@ -372,7 +405,7 @@ crystals. Your ally's weapon deals an extra 20 points of damage per hit
 and has a -10% to miss (To a maximum of 0% when target is in light cover). 
 
 == MoCap Augmentation	== 
-Nanite Gain:	20 Nanites
+Energy Gain:	20 Energy
 Action:			2 Actions
 Duration:		Immediate
 Range:			Touch
@@ -387,7 +420,7 @@ Since this is less than ideal in non-combat scenarios, you've set it to wear
 off after ten turns.
 
 == Repulsor Projection	== 
-Nanite Gain:	10 Nanites
+Energy Gain:	10 Energy
 Action:			1 Action
 Duration:		Immediate
 Range:			10m
@@ -397,7 +430,7 @@ charge a shield above it's maximum capacity. An engineer may not charge their
 own shields. 
 
 == Repulsor Hypercharge	== 
-Nanite Gain:	40 Nanites
+Energy Gain:	40 Energy
 Action:			2 Actions
 Duration:		Immediate
 Range:			Touch
@@ -410,7 +443,7 @@ shields are Hypercharged take a -20 to stealth rolls. An engineer cannot
 Hypercharge their own shields.
 
 == Broadcast Repulsion	== 
-Nanite Gain:	15 * n Nanites, where n is the number of shields affected
+Energy Gain:	15 * n Energy, where n is the number of shields affected
 Action:			2 Actions
 Duration:		Immediate
 Range:			8m radius centered on engineer
@@ -422,7 +455,7 @@ feedback wave sets a 10 damage per turn for 4 turns to any enemies in the area
 of effect as well. A feedback wave ends the engineer's turn immediately.
 
 == CS Lacer	== 
-Nanite Gain:	20 Nanites
+Energy Gain:	20 Energy and 1 Munitions
 Action:			2 Actions
 Duration:		10 Shots
 Range:			Touch
@@ -437,10 +470,8 @@ ally will have to make a skill check to swap back their muzzle attachment.
 Build Tree
 ==============================
 
-    Nanites are used to "glue" modular bits of tech together and to allow tech 
-to function. After a certain amount of time the Nanites die and the item 
-crumbles. At higher levels, the Nanites are able to last longer so the item can 
-be used longer. 
+    The build processes that an Engineer employs allow them to be constructed
+quickly in the field using the Engineer's multipurpose extruder tool.
 
     Drones do not count as "cybernetic allies" for most repair skills, though 
 you can repair them with repair kits as normal. They take their turns 
@@ -452,9 +483,11 @@ time unless otherwise stated.
 the tree. Please see the Engineer Skill Tree - Build.png for dependencies.
 
 ===== Embedded Systems =====
+
 == Dragonfly	== 
+
 Type: 				Drone
-Construction Cost:	40 Nanites
+Construction Cost:	30 Energy, 40 material 
 Control Point Cost: 1 point
 Build Time:			4 Actions
 Modular I/O ports: 	1 port
@@ -478,12 +511,11 @@ to its small size and jerky flight movement, a Dragonfly that moved on the same
 turn that it is shot at adds a 25% chance for the attacker to miss.
 
     When a drone is reclaimed, it frees up the control point cost that it 
-occupied, but does not reimburse its controller's Nanites that were used to 
-assemble it.
+occupied, but does not reimburse its construction cost.
 
 == KRO-W5	== 
 Type: 				Drone
-Construction Cost:	60 Nanites
+Construction Cost:	45 Energy, 50 Material
 Control Point Cost: 1 point
 Build Time:			6 Actions
 Modular I/O ports: 	3 ports
@@ -509,12 +541,11 @@ peripheral an engineer would have to jerry rig something on to it. See GM for
 Role Playing options. 
 
     When a drone is reclaimed, it frees up the control point cost that it 
-occupied, but does not reimburse its controller's Nanites that were used to 
-assemble it.
+occupied, but does not reimburse its construction cost.
 
 == PD-5 Scout Bot	== 
 Type: 				Drone
-Construction Cost:	60 Nanites
+Construction Cost:	50 Energy, 60 Material
 Control Point Cost: 1 point
 Build Time:			6 Actions
 Modular I/O ports: 	5 ports
@@ -544,12 +575,11 @@ stealth scores over 80. This limitation may be solved with clever RP, see your
 GM with ideas.  
 
     When a drone is reclaimed, it frees up the control point cost that it 
-occupied, but does not reimburse its controller's Nanites that were used to 
-assemble it.
+occupied, but does not reimburse its construction cost.
 
 == Con-D0R	== 
 Type: 				Drone
-Construction Cost:	55 Nanites
+Construction Cost:	60 Energy, 30 Material
 Control Point Cost: 1 point
 Build Time:			6 Actions
 Modular I/O ports: 	4 ports
@@ -571,12 +601,11 @@ at it. If the Con-D0R has less than half of its ports occupied, enemies on the
 ground take an additional +10% when this effect is active.
 
     When a drone is reclaimed, it frees up the control point cost that it 
-occupied, but does not reimburse its controller's Nanites that were used to 
-assemble it.
+occupied, but does not reimburse its construction cost.
 
 == Cerberus Attack Drone	== 
 Type: 				Drone
-Construction Cost:	220 Nanites
+Construction Cost:	110 Energy, 90 Material
 Control Point Cost: 2 points
 Build Time:			8 Actions
 Modular I/O ports: 	9 ports
@@ -597,12 +626,11 @@ come with armor that covers 80% of their systems and reduces incoming fire by
 player to take partial cover behind. 
 
     When a drone is reclaimed, it frees up the control point cost that it 
-occupied, but does not reimburse its controller's Nanites that were used to 
-assemble it.
+occupied, but does not reimburse its construction cost.
 
 == Titan Multipurpose Drone	== 
 Type: 				Drone
-Construction Cost:	350 Nanites
+Construction Cost:	270 Energy, 150 Material
 Control Point Cost: 4 points
 Build Time:			8 Actions
 Modular I/O ports: 	13 ports
@@ -614,19 +642,18 @@ Size:				1.2m x 1.2m x 2.4m
 Disrupt DC:			30
 Pwn DC:				70
 
-    		The titan multipurpose drone is a bipedal megalith of death
+    The titan multipurpose drone is a bipedal megalith of death
 and science. Plasma induction core explodes violently when destroyed. 
 The titan comes with a 7.62 repeater that has a 20% chance to miss and deals 55 
 damage. fed from a 150 round drum. May also make melee attacks with its offhand.
 20% chance to miss. Deals 160 damage, kinda like being punched by a backhoe.
 
     When a drone is reclaimed, it frees up the control point cost that it 
-occupied, but does not reimburse its controller's Nanites that were used to 
-assemble it.
+occupied, but does not reimburse its construction cost.
 
 == Peripheral: popgun	== 
 Type:				Peripheral
-Construction Cost:	50 Nanites
+Construction Cost:	10 Energy, 10 Material, 1 Munitions
 Build Time:			2 Actions
 Modular I/O ports:	Uses 1 port
 Ammo:				Holds 20 shots
@@ -644,7 +671,7 @@ peripheral. As a unique ability, may have red lasers or suppressors added.
 
 == Peripheral: Ammo	== 
 Type:				Peripheral
-Construction Cost:	20 Nanites
+Construction Cost:	10 Energy, 1 Munitions
 Build Time:			2 Actions
 Modular I/O ports:	Uses 1 port
 Ammo:				Holds 3 full refills.
@@ -655,7 +682,7 @@ of other drones. Also adds 30 health to a drone.
 
 == Peripheral: Tazer	== 
 Type:				Peripheral
-Construction Cost:	40 Nanites
+Construction Cost:	50 Energy, 20 Material
 Build Time:			2 Actions
 Modular I/O ports:	Uses 1 port
 Ammo:				Holds 4 shots
@@ -672,7 +699,7 @@ being paralyzed on their following turn.
 
 == Peripheral: Armor	== 
 Type:				Peripheral
-Construction Cost:	25 Nanites
+Construction Cost:	10 Energy, 30 Material
 Build Time:			2 Actions
 Modular I/O ports:	Uses 1 port
 Coverage:			+50%
@@ -684,7 +711,7 @@ allows armor diagnostics and triggering of reactive ballistic cells.
 
 == Peripheral: Shield Capacitor	== 
 Type:				Peripheral
-Construction Cost:	60 Nanites
+Construction Cost:	35 Energy, 10 Material
 Build Time:			2 Actions
 Modular I/O ports:	Uses 2 ports
 Capacity:			80 points
@@ -696,7 +723,7 @@ pulse frequency. Glows a neon color, -20 to drone stealth checks.
 
 == Peripheral: Minigun	== 
 Type:				Peripheral
-Construction Cost:	80 Nanites
+Construction Cost:	40 Energy, 40 Material
 Build Time:			4 Actions
 Modular I/O ports:	Uses 3 ports
 Ammo:				Holds 60 shots
@@ -710,7 +737,7 @@ engineer must have unlocked antennae and shield capacitor peripherals.
 
 == Peripheral: Antennae	== 
 Type:				Peripheral
-Construction Cost:	40 Nanites
+Construction Cost:	10 Energy, 15 Material
 Build Time:			4 Action
 Range:				+10m
 
@@ -721,7 +748,7 @@ Pwn attempts.
 
 == Peripheral: Flack Cannon	== 
 Type:				Peripheral
-Construction Cost:	80 Nanites
+Construction Cost:	60 Energy, 40 Material and 1 Munitions
 Build Time:			2 Actions
 Modular I/O ports:	Uses 3 ports
 Ammo:				Holds 8 shots
@@ -737,7 +764,7 @@ from impact. Each shot into a door reduces the DC of kicking down that door by
 
 == Peripheral: Rockets	== 
 Type:				Peripheral
-Construction Cost:	100 Nanites
+Construction Cost:	80 Energy, 2 Munitions and 40 Material
 Build Time:			2 Actions
 Modular I/O ports:	Uses 1 port
 Ammo:				Holds 8 shots
@@ -753,7 +780,7 @@ hunter marks don't stack. 2 rocket hits count as an anti-vehicle hit. At level
 
 == Peripheral: Network Security Module	== 
 Type:				Peripheral
-Construction Cost:	20 Nanites
+Construction Cost:	15 Energy and 10 Material
 Build Time:			2 Actions
 Modular I/O ports:	Uses 1 port
 Hacking resistance:	20%	
@@ -769,7 +796,7 @@ the NSM.
 
 == Insta-Cover	== 
 Type:			Structure
-Build Cost:		30 Nanites
+Build Cost:		5 Energy and 25 Material
 Build Time:		2 Actions
 Duration:		Permanent
 Health:			2 Vehicle Health
@@ -781,7 +808,7 @@ bullets. This gives partial cover for 2 meters in one direction.
 
 == Barbed Wire	== 
 Type:			Structure
-Build Cost:		20 Nanites
+Build Cost:		5 Energy and 15 Material
 Build Time:		1 Action
 Duration:		Permanent
 Health:			60 health points; immune to bullets but not to slashing weapons.
@@ -797,7 +824,7 @@ most vehicles, but it can pop tires.
 
 == Adaptive Gun Mount	== 
 Type:			Structure
-Build Cost:		10 Nanites
+Build Cost:		5 Energy and 15 Material
 Build Time:		2 Actions
 Duration:		Permanent
 Health:			46 health
@@ -806,13 +833,13 @@ Size:			.5m x .5m x .1m
     	You set up a recoil-dampening weapon stand that grants partial
 cover and a +10% accuracy bonus to whomever sets up here. Will fit in windows,
 off the back of a truck, etc. Adheres to a solid, flat surface. Engineer who
-built it gets 10 Nanites every time an ally hits a target using their gun mount.
+built it gets 10 Energy every time an ally hits a target using their gun mount.
 does not proc for an engineer using their own mount.
 
 
 == Gun Emplacement	== 
 Type: 		Structure
-Construction Cost:60 Nanites
+Construction Cost:40 Energy, 1 Munitions and 40 Material
 Build Time:	2 Actions
 Duration: 	Permanent
 Health:		1 vehicle health
@@ -825,11 +852,11 @@ aimed, but it can be ripped off of its emplacement by a character that has 8
 strength or more. When ripped off, the gun has an additional 10% chance to 
 miss. If the gun is fired four times, with four consecutive actions, the
 shooter gets a free fifth shot. Every hit that an ally (not you) makes with a
-turret that you placed gives you 30 Nanites. Supporting Fire weapon.
+turret that you placed gives you 30 Energy. Supporting Fire weapon.
 
 == Snare == 
 Type:				Trap
-Construction Cost:	5 Nanites
+Construction Cost:	5 Energy and 5 Material
 Build Time:			1 Action
 Disarm DC:			30%
 Damage:				0 points
@@ -847,22 +874,22 @@ friendly characters.
 
 == ASPRO-S system	== 
 Type: 		Structure
-Construction Cost:	120 Nanites
+Construction Cost:	30 Energy, 1 Munitions and 15 Material
 Build Time:			4 Actions
 Duration: 			Permanent
 Health:				50
 Size:				1m x 1m x 3m
 
-    		Your Nanites and you assemble an active countermeasure system that 
-eliminates incoming explosive ordinance. When active, this system destroys any
-incoming grenades, missiles, rockets or thrown weapons that it has line of 
-sight to from the top of its 3m mast within a 6m radius. Any incoming munitions
-are destroyed before they can detonate. Cannot stop incoming bullets, lasers, 
-or plasma. Will stop some hostile Nanite attacks, see GM for specifics.
+    		You assemble an active countermeasure system that eliminates 
+incoming explosive ordinance. When active, this system destroys any incoming 
+grenades, missiles, rockets or thrown weapons that it has line of sight to from 
+the top of its 3m mast within a 6m radius. Any incoming munitions are destroyed 
+before they can detonate. Cannot stop incoming bullets, lasers, or plasma. Will 
+stop some hostile Nanite attacks, see GM for specifics.
 
 == Sentry	== 
 Type: 		Structure
-Construction Cost:120 Nanites
+Construction Cost: 30 Energy, 40 Material and 1 Munitions 
 Build Time:	4 Actions
 Duration: 	Permanent
 Health:		120
@@ -875,7 +902,7 @@ be affixed to any flat surface that is strong enough to support its weight.
 
 == Claymore	== 
 Type:				Trap
-Construction Cost:	20 Nanites
+Construction Cost:	10 Energy and 1 Munition
 Build Time:			1 Action
 Disarm DC:			60%
 Damage:				110 points
@@ -886,22 +913,22 @@ may affix a claymore to any hard, flat surface.
 
 == Scavenge	== 
 Type:			Action
-Nanite Cost:	20
+Energy Cost:	20
 Scrap Time:		2 Actions
 Range:			Touch
 
     	You gather materials from fallen foes or derelict equipment in 
-the field to replenish your stock of components. You gain an amount of Nanites
+the field to replenish your stock of components. You gain an amount of Material
 depending on the condition, size, complexity and familiarity of what you are
 scavenging. Your GM gets the final say on what your returns are, as a baseline,
-an enemy Detachment Security Drone would be worth about 80 Nanites. You cannot
+an enemy Detachment Security Drone would be worth about 80 Material. You cannot
 Scavenge active machinery. Some machinery may be too complex to scavenge or may
 be incompatible with your microassembler.
 
 
 == Light Mortar	== 
 Type: 		Structure
-Construction Cost:160 Nanites
+Construction Cost:65 Energy, 45 Material and 1 Munitions
 Build Time:	8 Actions
 Duration: 	Permanent
 Health:		1 vehicle health
@@ -914,12 +941,12 @@ around a hit target with a 30% chance to miss. One shell "clip" takes 2
 actions to reload. 130m range with a high arc. Ignores cover penalties if the 
 shell comes straight down on top of the target. Successful hits have a 30%
 chance to daze the target. Every hit that an ally (not you) makes with a
-mortar that you placed gives you 40 Nanites. Each emplacement comes with 
-ten shells and may be refilled at a cost of 100 Nanites.
+mortar that you placed gives you 40 Energy. Each emplacement comes with 
+ten shells and may be refilled at a cost of 100 Energy.
 
 == IED	== 
 Type:				Trap
-Construction Cost:	50 Nanites
+Construction Cost:	20 Energy, 15 Material and 1 Munition
 Build Time:			1 Action
 Disarm DC:			80%
 Damage:				180 points or 3 vehicle damage
@@ -930,7 +957,7 @@ explosive to be made with, i.e. mortar shells, grenades, det-cord, etc.
 
 == Chain Sentry	== 
 Type:				Structure
-Build Cost:			60 Nanites
+Build Cost:			60 Energy, 35 Material and 1 Munitions
 Build Time:			6 actions
 Duration:			Permanent
 Health:				1 Vehicle health
@@ -956,20 +983,20 @@ Fire effect.
 
 == Reverse engineer	== 
 Type:			Action
-Nanite Cost:	40
-Damage:			80
+Energy Cost:	40 Energy
+Damage:			80 Damage
 Scrap Time:		2 Actions
 Range:			Touch
 
     	You gather materials from an operating enemy robot, turret or drone in 
-the field to replenish your stock of components. You gain an amount of Nanites
+the field to replenish your stock of components. You gain an amount of Material
 depending on the condition, size, complexity and familiarity of what you are
 scavenging. Your GM gets the final say on what your returns are, as a baseline,
-an enemy Detachment Security Drone would be worth about 120 Nanites.
+an enemy Detachment Security Drone would be worth about 120 Material.
 
 == Heavy Mortar	== 
 Type: 		Structure
-Construction Cost:320 Nanites
+Construction Cost: 90 Energy, 60 Material and 2 Munitions
 Build Time:	8 Actions
 Duration: 	Permanent
 Health:		1 vehicle health
@@ -982,12 +1009,12 @@ around a hit target with a 30% chance to miss. Three shell "clip" with a 2
 action reload time. 300m range with a high arc. Ignores cover penalties if the 
 shell comes straight down on top of the target. Successful hits have a 30%
 chance to daze the target. Every hit that an ally (not you) makes with a
-mortar that you placed gives you 40 Nanites. Each emplacement comes with 
-ten shells and may be refilled at a cost of 100 Nanites. 50m minimum range.
+mortar that you placed gives you 40 Energy. Each emplacement comes with 
+ten shells and may be refilled at a cost of 80 Material. 50m minimum range.
 
 == Remote ANFO	== 
 Type:				Trap
-Construction Cost:	60 Nanites
+Construction Cost:	15 Energy and 3 Munitions
 Build Time:			1 Action
 Disarm DC:			80%
 Damage:				250 points or 4 vehicle damage
@@ -997,7 +1024,7 @@ Range:				6m radius
 if shot. Even with plasma. And, boy does this sucker pack a punch. DC of 30 to 
 hack it and set it off early. Setting one gives you a remote that can easily be 
 held in an off hand, even if using a 2 handed weapon. If a teammate detonates 
-the ANFO, the engineer that set it gains 10 Nanites. Anyone within 9m radius of 
+the ANFO, the engineer that set it gains 10 Energy. Anyone within 9m radius of 
 the blast gets an "ears are ringing" status effect which gives a -90% to 
 perception checks based on sound for three turns. Remote ANFO comes in a sticky 
 bundle and will cling to any shaped hard surface. It will even cling to the 
@@ -1005,7 +1032,7 @@ wings of dropships during reentry.
 
 == Rocket Sentry	== 
 Type:			Structure
-Build Cost:		120 Nanites
+Build Cost:		80 energy, 60 Material and 2 Munitions
 Build Time:		6 Actions
 Duration:		Permanent
 Health:			2 Vehicle Health
@@ -1029,7 +1056,7 @@ hunter marks don't stack. 2 rocket hits count as an anti-vehicle hit.
 
 == Bubble Shield	== 
 Type: 		Structure
-Construction Cost:40 Nanites
+Construction Cost: 60 energy and 10 Material
 Build Time:	2 Actions
 Duration: 	30 rounds or end of encounter
 Health:		30
@@ -1039,12 +1066,12 @@ Size:		1m x 1m x 1m
 shield that nobody can shoot through, but anyone can walk through or melee
 through. The shield will stop 120 damage per turn or one vehicle damage
 before popping. Once a shield has popped, it will need to be repaired at a cost
-of 20 Nanites and 2 actions. Cannot be repaired more than twice.
+of 20 Energy and 2 actions. Cannot be repaired more than twice.
 
 
 == Entrench	== 
 Type:			Structure
-Build Cost:		50 Nanites
+Build Cost:		40 Energy and 10 Material
 Build Time:		8 Actions
 Duration:		Permanent
 Health:			4 Vehicle Health
@@ -1060,7 +1087,7 @@ of good cover for 360 degrees.
 
 == Spotter	== 
 Type:			Drone
-Build Cost:		30 Nanites
+Build Cost:		30 Energy and 20 Material
 Build Time:		2 Actions
 Duration:		Permanent
 Health:			40 Points
@@ -1084,26 +1111,26 @@ similar models, the spotter drone is quite stealthy.
 
 == Darknet Processor	== 
 Type:			Structure
-Build Cost:		20 Nanites
+Build Cost:		20 Energy and 5 Material
 Build Time:		4 Actions
 Duration:		Permanent
 Health:			80 points
 Size:			.75 x .75. .5 (base) antennae is adjustable
 
-    You didn't exactly understand what your priest was saying about what was in 
+    You didn't exactly understand what your Priest was saying about what was in 
 this thing, but you could tell he was quite excited. Something about hexadecimal 
 core processor, radio and wireless peripherals, embedded botnet, altera SHIELD 
 encryption accelerator, digital signal processor, signal triangulator and all 
-wrapped up with a web application firewall. Allows any priest within 8m of the 
+wrapped up with a web application firewall. Allows any Priest within 8m of the 
 station to make wireless hacking checks with a +20 to rolls. Gives friendly 
 drones in range a +10 to resist being hacked. Also provides four friendly 
 network nodes, all isolated by separate firewalls. The engineer who deployed 
-this gets 10 Nanites for each system disrupted and 20 Nanites for each system 
+this gets 10 Energy for each system disrupted and 20 Energy for each system 
 pwned using this antennae. 
 
 == Noisy Cricket	== 
 Type:			Disposable munition system
-Build Cost:		55 Nanites
+Build Cost:		30 Energy, 25 Material and 2 Munitions
 Build Time:		2 Actions
 Duration:		until it runs out of ammo
 Range:			60m
@@ -1119,11 +1146,11 @@ luck. If they roll over 80 (modified), all enemies who took damage have their
 shields wink out due to EMP. If they roll under 10, their shields and any nearby 
 allies within 5m of them lose their shields due to EMP. Does not effect the 
 function of drones or robots. Every enemy hit with the noisy cricket gives 30 
-Nanites to the engineer who built it.
+Energy to the engineer who built it.
 
 == Overshield Inductor	== 
 Type:			Drone
-Build Cost:		40 Nanites
+Build Cost:		40 Energy and 15 Material
 Build Time:		2 Actions
 Duration:		Permanent
 Health:			20 Points
@@ -1136,11 +1163,11 @@ heals any damage to your teammate's shields by 20 points at the end of your
 teammate's turn every turn. It's not really quiet though, so the teammate that 
 the drone is following cannot score stealth rolls above 70. For every 20 points 
 (including the first 40 of over-heal) of shield strength that the drone heals, 
-the engineer who built it gets 15 Nanites in return.
+the engineer who built it gets 15 Energy in return.
 
 == Pointer	== 
 Type: 				Drone
-Construction Cost:	50 Nanites
+Construction Cost:	40 Energy and 40 Material
 Control Point Cost: 0 points
 Build Time:			4 Actions
 Modular I/O ports: 	2 ports
@@ -1162,7 +1189,7 @@ Shotgun deals 80 dam out to 3m, 65 out to 10m, 50 out to 20m.
 
 == Medic Drone	== 
 Type:			Drone
-Build Cost:		40 Nanites
+Build Cost:		40 Energy and 40 Material
 Build Time:		2 Actions
 Duration:		Permanent
 Health:			20 Points
@@ -1175,13 +1202,13 @@ one particular medic and speeds up all Hippocratic procedures to 1 action (no
 effect if an action would be just one action or faster anyway). It also adds a 
 +15 to medical skill checks and adds a +15 to perception checks made by that 
 medic. The medic drone does not cost any control points. The engineer who 
-deployed the medic drone is able to reclaim 10 Nanites every time the medic uses 
+deployed the medic drone is able to reclaim 10 Energy every time the medic uses 
 the drone to heal something. Medic drones are not quiet and limit a medic to a 
 stealth score of 75 while active.
 
 == BFG	== 
 Type:			Disposable munition system
-Build Cost:		75 Nanites
+Build Cost:		60 Energy, 40 Material and 1 Munition
 Build Time:		2 Actions
 Duration:		until it runs out of ammo
 Range:			500m
@@ -1192,12 +1219,12 @@ Damage:			120 points, ignores armor.
     You assemble a large antimatter slug impeller on the ground and instruct 
 your weapons specialist to pick it up and use it until the cannister runs out. 
 You explain that he shouldn't drop it, but don't break his brain with the 
-physics behind it. The engineer that deploys this gets 30 Nanites per hit with 
+physics behind it. The engineer that deploys this gets 30 Energy per hit with 
 this weapon.
 
 == Cloaking Capacitor	== 
 Type:			Wearable
-Build Cost:		40 Nanites
+Build Cost:		30 Energy and 25 Material
 Build Time:		2 Actions
 Duration:		Permanent
 Health:			40 Points
@@ -1205,12 +1232,12 @@ Size:			.5m x .5m x .3m
 
     you attach a Nanite capacitor to your teammate's cloaking armor, which 
 allows it to maintain a cloak for 2 more turns. The engineer who deploys this 
-gets 50 Nanites in return. A cloaking capacitor is detectable by detect high 
+gets 50 Energy in return. A cloaking capacitor is detectable by detect high 
 tech rolls above a 1.
 
 == Defender	== 
 Type: 				Drone
-Construction Cost:	60 Nanites
+Construction Cost:	45 Energy and 45 Material
 Control Point Cost: 0 points
 Build Time:			6 Actions
 Modular I/O ports: 	3 ports
@@ -1227,6 +1254,5 @@ Pwn DC:				90
 follow the direction of one of your allies (not you). While unladen, its rotors 
 run slightly quieter than most; as long as it isn't carrying anything and its 
 ports are unused, it has a maximum stealth check of 90. It runs on a Li+ battery 
-and almost never explodes when destroyed. When a drone is reclaimed, it frees up 
-the control point cost that it occupied, but does not reimburse its controller's 
-Nanites that were used to assemble it.
+and almost never explodes when destroyed. When a drone is reclaimed, it does not 
+reimburse its controller's construction materials that were used to assemble it.

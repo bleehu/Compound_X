@@ -179,7 +179,6 @@ Armor Proficiencies:
 	Learn an extra malpractice procedure.
 ======================================
 
-
 =====   ENGINEER   =====
 	You solve problems. For instance, you know how to stop some mean 
 mutha-hubbard from tearin' you and your team a structurally superfluous new 
@@ -193,12 +192,24 @@ Starting Wealth: $2580 + 100*Luck
 passives: 
 * Gain Skill [Repair] at 10. 
 * 2 Control Points
+* 600 Maximum Energy
+* 1000 Maximum Material
+* 10 Maximum Munitions
+* Start each engagement with 3 munitions
+* Start each engagement with 85 + (2 * Int Mod) + (15 * character level) Energy
 
-	Every level, you get one Process point in each of the "repair" and "build" 
-skill trees.  At the beginning of an engagement, you start with only half of 
-your Nanites, but you may accrue up to 600 Nanites max.
+	Every level, you learn one Engineering Process from each of the "Repair" and 
+"Build" skill trees in the Class Specific Documentation Directory. On character 
+creation, you gain a multipurpose extruder tool as an item in your inventory. 
+This multipurpose tool is used to perform the Engineering Processes which are 
+unique to your Class. You also start out with 80 Material. 
 
-	At level 6, the Feat "With Friends Like These . . ." is automatically unlocked.
+	At level 6, the Feat "With Friends Like These . . ." is automatically 
+unlocked. At level 10, your maximum Engineering Materials expands to the below.
+
+* 800 Maximum Energy
+* 1250 Maximum Material
+* 12 Maximum Munitions
 
 Weapon Proficiencies: 
 * Pistols
@@ -230,8 +241,18 @@ Armor Proficiencies:
 	Overbuilt -
 	Any time you build a construction, you may spend 15 Nanites to give that 
 	construction 50 additional health points.
+	----------------------
+	Power Trip -
+	You start each engagement with an extra 40 energy
+	|
+	|
+	|
+	V
+	Cosmic Power -
+	In addition to the 40 energy from Power Trip, you start each 
+	engagement with another 30 energy and your maximum energy is
+	increased by 50.
 ======================================
-
 
 =====   PRIEST   =====
 	You've lived your life in the deepest recesses of the holonet, and have come 
