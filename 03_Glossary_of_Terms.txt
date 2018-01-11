@@ -15,8 +15,8 @@ Armor Piercing Level:
     Different sets of Armor stop different amounts of firepower depending on
 what armor plates where put in it. Armor Piercing Level (abbreviated APL) is a
 measure either of how much armor a weapon can pierce without losing damage to
-the armor, or what level of firepower an armor will completely stop. See the
-"Other Combat Details" section of Basic Rules for more information.
+the armor, or what level of weapon penetration an armor will completely stop. 
+See the "Other Combat Details" section of Basic Rules for more information.
 
 Base Stats: 
     The Base Stats of a Character are Strength, Perception, Fortitude, Charisma, 
@@ -73,9 +73,9 @@ GM:
     See Game Master.
 
 Hardpoint:
-    An Armor Hardpoint is a purpose-built universal modular slot that advanced
-armor accessories plugs into. For instance, cloaking modules go into Hardpoints.
-The more Hardpoints an armor has, the more modules you can plug into your armor.
+    An Armor Hardpoint is a purpose-built modular slot that advanced armor 
+accessories plugs into. For instance, cloaking modules go into Hardpoints. The 
+more Hardpoints an armor has, the more modules you can plug into your armor.
 See the "05_ArmourList.txt" document in Character Creation for more info.
 
 Held Actions: 
@@ -135,14 +135,14 @@ Rules "Assigning A Class To Your Character" Section, subsections "Weapon
 Proficiency" or "Armor Proficiency". For Skill Proficiency see Basic Rules 
 "RP / Using Skills" section. 
 
+    In brief, Proficiency is a sufficient aptitude such that a character can use 
+a given type of Weapon or Armor in combat. Proficiency can also be the ability 
+to use a Skill with given capability.
+
 Reactions: 
     A special action that is triggered by certain circumstances or abilities. 
 Reactions occur at the immediate moment that they are triggered. See "Reactions 
 & Held Actions" in the basic rules document.
-
-    In brief, Proficiency is a sufficient aptitude such that a character can use 
-a given type of Weapon or Armor in combat. Proficiency can also be the ability 
-to use a Skill with given capability.
 
 Saving Throw: 
     A Saving Throw is a roll of the dice to see whether your character has the 
