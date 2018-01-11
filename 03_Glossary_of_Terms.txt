@@ -11,13 +11,6 @@ it does in English. Instead, an Action is a measure of time specifically during
 a Player's turn in Combat. See "Actions" Section in the "Combat" Chapter in 
 Basic Rules.txt.
 
-Armor Piercing Level:
-    Different sets of Armor stop different amounts of firepower depending on
-what armor plates where put in it. Armor Piercing Level (abbreviated APL) is a
-measure either of how much armor a weapon can pierce without losing damage to
-the armor, or what level of firepower an armor will completely stop. See the
-"Other Combat Details" section of Basic Rules for more information.
-
 Base Stats: 
     The Base Stats of a Character are Strength, Perception, Fortitude, Charisma, 
 Intelligence, Dexterity and Luck. For more about Base Stats, see the Section 
@@ -72,21 +65,10 @@ how the NPCs behave and act.
 GM: 
     See Game Master.
 
-Hardpoint:
-    An Armor Hardpoint is a purpose-built universal modular slot that advanced
-armor accessories plugs into. For instance, cloaking modules go into Hardpoints.
-The more Hardpoints an armor has, the more modules you can plug into your armor.
-See the "05_ArmourList.txt" document in Character Creation for more info.
-
 Held Actions: 
     A type of reaction where 1 or 2 Actions can be saved from your turn to react 
 to a trigger outside of your turn. See "Reactions & Held Actions" in the basic 
 rules document.
-
-Nanite Upkeep:
-    Nanite Upkeep is the number of nanites a character must pay at the end of 
-their turn in order to stay cloaked during that round. For more information,
-see the "Cloaking" section of the "01_01_Basic_Rules.txt" Document.
 
 NPC: 
     Stands for "Non-Player Character" and is defined as any character in the 
@@ -128,6 +110,10 @@ following the procedures outlined in the CharacterCreation folder. Generally, a
 Player only controls one Character at a time; that Character is called a Player 
 Character. 
 
+    In brief, Proficiency is a sufficient aptitude such that a character can use 
+a given type of Weapon or Armor in combat. Proficiency can also be the ability 
+to use a Skill with given capability.
+
 Proficiency: 
     Compound X uses three types of Proficiencies: Weapon Proficiency, Armor 
 Proficiency, and Skill Proficiency. For Weapon or Armor Proficiency, see Basic 
@@ -140,20 +126,11 @@ Reactions:
 Reactions occur at the immediate moment that they are triggered. See "Reactions 
 & Held Actions" in the basic rules document.
 
-    In brief, Proficiency is a sufficient aptitude such that a character can use 
-a given type of Weapon or Armor in combat. Proficiency can also be the ability 
-to use a Skill with given capability.
 
 Saving Throw: 
     A Saving Throw is a roll of the dice to see whether your character has the 
 defenses to avoid something bad happening to them. See "Saving Throws" in the 
 Basic Rules.txt document for more information.
-
-Shield Strength:
-    Shield Strength is a measure of how much damage a personal shield can take
-before letting damage through to the wearer. It has a 1 to 1 point to point 
-equality with your health number. See "05_ArmourList.txt" document in Character
-Creation and "Shields" in the "Basic Rules.txt" document for more information.
 
 Stacking/Stackable: 
     When an effect or feat is Stackable, that means if applied to a character 
