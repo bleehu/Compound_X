@@ -17,15 +17,16 @@ for melee weapons are reduced by 1.
 
 ===== UNARMED FIGHTING =====
 
-==Hand-to-Hand [untrained] Free==
+== Hand-to-Hand [untrained] Free ==
 
 Damage:    5 + STR + DEX
 Range:            Adjacent (1m)
 Accuracy Modifier:  -2
 DEX Requirement:    2
 
-==Hand-to-Hand [Trained]==
-(10 skill in Melee Combat or Unarmed Combat)
+== Hand-to-Hand [Trained] ==
+
+Prerequisites: 10 skill in Melee Combat or Unarmed Combat
 Damage: 5 + STR + DEX + [Melee Combat skill] / 2
 Range: Adjacent (1m)
 Accuracy Modifier:  -1
@@ -202,7 +203,7 @@ for Misc. Thrown Weapons are reduced by 1.
 
 =====LEVEL 1 REQUIREMENT WEAPONS=====
 
-==Gurber Throwing Knife$80==
+== Gurber Throwing Knife $80 ==
 
 Damage:15 + STR + DEX + [Thrown Weapon Skill]/2 + 1xBleed
 DEX Requirement:   5
@@ -217,7 +218,7 @@ AP Level:2
 
 =====LEVEL 5 REQUIREMENT WEAPONS=====
 
-==EAL Tactical Throwing Axe$160==
+== EAL Tactical Throwing Axe $160 ==
 
 Damage: 25 + 3*STR + DEX + [Thrown Weapon Skill]/2 + 1xBleed
 STR Requirement: 5
@@ -233,7 +234,7 @@ Secondary Ammo Slot.
 
 =====LEVEL 10 REQUIREMENT WEAPONS=====
 
-==Carbide Kunai$120==
+== Carbide Kunai $120 ==
 
 Damage:25 + STR + DEX + [Thrown Weapon Skill]/2 + 1xBleed
 Ranged Miss Chance:
@@ -245,7 +246,7 @@ AP Level:4
 	For melee, 20+STR+2*DEX+1xBleed, +1 melee accuracy. 3 per Secondary Ammo Slot.
 When thrown, +30% to stealth rolls to hide the attack.
 
-==Plasma Catalyst Kunai$160==
+== Plasma Catalyst Kunai $160 ==
 
 Damage:10 + STR + DEX + [Thrown Weapon Skill]/2 + 3xPlasma Burn
 DEX Requirement:   6
@@ -276,9 +277,9 @@ beyond 1 miss chance, roll a d10 instead.
 	All grenades have a Reflex Modifier: -10
 
 
-=====LEVEL 1 REQUIREMENT WEAPONS=====
+===== LEVEL 1 REQUIREMENT WEAPONS =====
 
-==ECSC Smoke Grenade$50==
+== ECSC Smoke Grenade $50 ==
 
 Damage:D10 burn damage to exact spot of impact
 Ranged Miss Chance (to land where intended):
@@ -294,7 +295,7 @@ behind the smoke and a target is on the complete opposite side, the smoke comple
 obscures your vision, leaving you with a perception check of 120% in order to see 
 all the way through the smoke. Smoke lasts for 12 turns or 2 minutes.
 
-==ECSC CID Chemical Incapacitation Device (Gas grenade)$50==
+== ECSC CID Chemical Incapacitation Device (Gas grenade) $50 ==
 
 Damage:D10 burn damage to exact spot of impact
 Ranged Miss Chance (to land where intended):
@@ -308,7 +309,7 @@ Targets can negate all effects with a gas mask. Targets who leave the cloud
 will continue to exhibit partial blindness for 3 turns after leaving the fog, 
 and coughing for 6 turns. Gas cloud persists for 2 turns after initial detonation.
 
-==RMM Flash-Bang Distraction and Clearing Device$50==
+== RMM Flash-Bang Distraction and Clearing Device $50 ==
 Damage:D10 burn damage to exact spot of impact
 Ranged Miss Chance (to land where intended):
 6 out to 10+[DEX or STR]*2 meters
@@ -318,7 +319,7 @@ Armor Piercing Level:0
 attempt to break the blindness with a perception check at 85% (disregarding bonuses). If the grenade 
 detonates in the open, it’s blinding range is a 10m radius.
 
-==ECSC Fragmentation Grenade$90==
+== ECSC Fragmentation Grenade $90 ==
 Damage:D10 burn damage to exact spot of impact
 Ranged Miss Chance (to land where intended):
 5 out to 10+[DEX or STR]*2 meters
@@ -328,7 +329,7 @@ Armor Piercing Level:1
 Targets take full damage to the torso, legs, and arms (if armor is pierced or not present): (3*45 damage)+2xBleed within a 2.5m radius.
 Only legs and torso (2*45 damage)+1xBleed within a 5m radius. At least one hit must damage health to cause  Bleed.
 
-==ECSC C10 Plastic HE$210==
+== ECSC C10 Plastic HE $210 ==
 Damage:120 explosive damage within a 3m radius, 5m radius indoors.
 Ranged Miss Chance (to land where intended):
 n/a
@@ -342,9 +343,9 @@ resist stun for 1 turn. Can destroy a 3 meter radius of concrete or a 1m radius
 of steel. Jury-rigging can make the explosive throwable (after set-up) with a 5 
 miss chance out to 5+[DEX or STR] meters.
 
-=====LEVEL 5 REQUIREMENT WEAPONS=====
+===== LEVEL 5 REQUIREMENT WEAPONS =====
 
-==RMM Frag+ Grenade$140==
+== RMM Frag+ Grenade $140 ==
 Damage:D10 burn damage to exact spot of impact
 Ranged Miss Chance (to land where intended):
 5 out to 10+[DEX or STR]*2 meters
@@ -354,7 +355,7 @@ Armor Piercing Level:2
 Targets take full damage to the torso, legs, and arms (if armor is pierced or not present): (3*50 damage)+2xBleed within a 3m radius.
 Only legs and torso (2*50 damage)+1xBleed within a 6m radius. At least one hit must damage health to cause Bleed.
 
-==Frontier Chemical Grenade$70==
+== Frontier Chemical Grenade $70 ==
 Damage:D10 burn damage to exact spot of impact
 Ranged Miss Chance (to land where intended):
 5 out to 10+[DEX or STR]*2 meters
@@ -363,7 +364,7 @@ Armor Piercing Level:n/a
 	Creates a 7m radius cloud of burning, choking smoke. Targets take 30 Poison Damage per turn in the cloud.
 All Poison Damage is negated by use of a gas mask.
 
-==RMM HiEx Grenade$285==
+== RMM HiEx Grenade $285 ==
 Damage:D10 burn damage to exact spot of impact
 Ranged Miss Chance (to land where intended):
 5 out to 10+[DEX or STR]*2 meters
@@ -371,9 +372,9 @@ Armor Piercing Level:n/a
 
 	2x inner blast radius when indoors. 120 explosive damage within a 2m radius, 60 explosive within a 5m radius.
 
-=====LEVEL 10 REQUIREMENT WEAPONS=====
+===== LEVEL 10 REQUIREMENT WEAPONS =====
 
-==Frontier Plasma Grenade FP-G5$360==
+== Frontier Plasma Grenade FP-G5 $360 ==
 Damage:D10 burn damage to exact spot of impact
 Ranged Miss Chance (to land where intended):
 5 out to 10+[DEX or STR]*2 meters
