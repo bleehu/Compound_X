@@ -160,6 +160,7 @@ Reflex Modifier:  +20
 * 6 out to 25m
 
 == Flexcorp LL35 Laser Pistol $1742 ==
+
 Damage: 40 Laser
 Mag size:   16 charges of 5kWh. $25 per mag
 Reload DC:  30
