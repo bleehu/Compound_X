@@ -349,7 +349,7 @@ Suppression Level:	Medium
 |   115   |5 (Slug only) |    50m   |
 +---------+--------------+----------+
 
-	Slug shells do 120 damage for all range brackets
+	Slug shells do 115 damage for all range brackets
 
 Auto Miss Chance:	+2,  -1 for every 9 Strength	
 Mag Size:		3 rounds of 12-gauge. $11 per bag of 8 shells.
@@ -394,11 +394,8 @@ Suppression Level:	Medium
 +---------+--------------+----------+
 |   140   |      3       |    20m   |
 +---------+--------------+----------+
-|   110   |4 (Slug only) |    35m   |
+|   110   |      4       |    35m   |
 +---------+--------------+----------+
-
-	Damage dealt with this weapon is plasma damage. Slug shells do 120 damage 
-for all range brackets.
 
 Mag Size:		10 rounds of Argon-12, mag-fed. $15 per magazine
 Reload DC:		45
