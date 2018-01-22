@@ -85,19 +85,18 @@ the one-liner they want, or to have their moment of glory.
 
 	Either in combat or out, play usually follows this loop:
 
-1.	The GM describes the environment and the situation. Usually the DM will ask
-		"What do you want to do?"
+1.	The GM describes the environment and the situation. Usually the DM will ask "What do you want to do?"
 2.	The player describes what they want to do
-3. 	The GM checks if that's even a possible thing that can be done. (skip this
-		step if that's obvious)
-4.	The GM says what kind of roll is needed to see if the player succeeds, if 
-		any roll is necessary.
+3. 	The GM checks if that's even a possible thing that can be done. (skip this step if that's obvious)
+4.	The GM says what kind of roll is needed to see if the player succeeds, if any roll is necessary.
 5.	The player rolls the dice and adds the numbers as described below.
-6. 	The GM checks their total against the Difficulty Challenge, a number that
-		typically only the GM knows which represents how hard a typical task
-		is. Then the GM narrates how the action goes depending on if the 
-		player succeeds or fails and by how much.
+6. 	The GM checks the total against the DC and narrates what happens*
 7.	Then the next player begins their turn.
+
+*The DC stands for "the Difficulty Challenge", a number that
+typically only the GM knows which represents how hard a typical task
+is. Then the GM narrates how the action goes depending on if the 
+player succeeds or fails and by how much.
 
 ==============================
 Your Character
