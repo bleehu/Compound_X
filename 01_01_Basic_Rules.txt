@@ -984,6 +984,31 @@ Except for air, you will always hit air (unless you're in space).
 **You cannot shoot weapons at a distance of over 100m without magnifying sights 
 or over 150m without 2x+ magnification.
 
+	Aiming at an enemy requires one action but significantly increases the 
+effectiveness of your fire. Taking aim requires 
+that you select a particular target that you can either perceive directly or have a 
+high confidence in its current position. You must be able to see or otherwise percieve 
+the target clearly, but they do not have to be within your weapon's range. Against this 
+target only, ranged attacks follow the normal, non-Hip Fire rules. Characters may 
+cease aiming as a free action, for example to aim at a different target. Additionally, 
+aim is ceased automatically in any of the following circumstances: 
+
+* The target dies***.
+* The target moves a large distance unexpectedly****.
+* The aiming character hunkers.
+* The aiming character is thrown (for example, by a frag grenade).
+* The aiming character suffers impairment to his or her primary sense (such as from a flashbang).
+
+***As an optional rule, if a character's aim target dies, and the death was not 
+unexpected, then the character may shift aim to another target within 5m of the first 
+as a Free Action. DM discretion is advised for close combat situations.
+
+***Possibly by coming out of cover 5+ meters from the last known location.
+
+	Aiming is relatively simple and does not need to be treated with excessive
+formality. If a character could reasonably take or keep aim at something, then he or 
+she can.
+
 	Most weapons are Semi-Auto, meaning that each time you pull the trigger, the 
 gun fires once and chambers a new round automatically. It takes 1 Action to fire 
 a semi-auto weapon in this way. Some guns, such as Shotguns and Bolt-Action 
