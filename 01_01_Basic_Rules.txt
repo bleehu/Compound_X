@@ -985,13 +985,13 @@ Except for air, you will always hit air (unless you're in space).
 or over 150m without 2x+ magnification.
 
 	Aiming at an enemy requires one action but significantly increases the 
-effectiveness of your fire. Taking aim requires 
-that you select a particular target that you can either perceive directly or have a 
-high confidence in its current position. You must be able to see or otherwise percieve 
-the target clearly, but they do not have to be within your weapon's range. Against this 
-target only, ranged attacks follow the normal, non-Hip Fire rules. Characters may 
-cease aiming as a free action, for example to aim at a different target. Additionally, 
-aim is ceased automatically in any of the following circumstances: 
+effectiveness of your fire. Taking aim requires that you select a particular target 
+that you can either perceive directly or have a high confidence in its current 
+position. You must be able to see or otherwise percieve the target clearly, but they 
+do not have to be within your weapon's range. Against this target only, ranged attacks 
+follow the normal, non-Hip Fire rules. Characters may cease aiming as a free action, 
+for example to aim at a different target. Additionally, aim is ceased automatically 
+in any of the following circumstances: 
 
 * The target dies***.
 * The target moves a large distance unexpectedly****.
