@@ -176,7 +176,6 @@ associated with a given secondary stat determines the secondary stat's value;
 However, if you have a primary stat that is associated with more than one 
 secondary stat, you may have to choose which secondary stat to contribute to.
 These stats are as follows (secondary stat associations are indented):
-<<<<<<< HEAD
 
 Strength:
 * Carry Ability
@@ -383,7 +382,6 @@ You cannot learn any skills that use Dexterity as the contributing stat (for
 example, lockpicking).
 
 Luck (LUCK): 
-<<<<<<< HEAD
 	Some people are just lucky! A GM will often have you roll luck to see if a 
 door was left unlocked or if you just happened to duck to pick up a coin off the 
 ground right when an assassin is trying to shoot you in the head. Luck also has 
