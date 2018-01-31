@@ -485,7 +485,6 @@ the tree. Please see the Engineer Skill Tree - Build.png for dependencies.
 ===== Embedded Systems =====
 
 == Dragonfly	== 
-
 Type: 				Drone
 Construction Cost:	30 Energy, 40 material 
 Control Point Cost: 1 point
@@ -543,6 +542,7 @@ Role Playing options.
     When a drone is reclaimed, it frees up the control point cost that it 
 occupied, but does not reimburse its construction cost.
 
+
 == PD-5 Scout Bot	== 
 Type: 				Drone
 Construction Cost:	50 Energy, 60 Material
@@ -559,16 +559,15 @@ Size:				1m x .6m x .8m
 Disrupt DC:			50
 Pwn DC:				90
 
-    		This small bipedal drone comes equipped with a distributed
-computing NIC card for improved performance in large packs. The PD-5 also comes 
-standard with a biometric sharp grasping claws and a tail that adapts 
-procedurally to maintain balance at high speeds as  well as significantly more
-capacity for peripherals than its flying brethren. The Grasping claws may make 
-melee attacks at a 40% chance to miss for 40 damage ignoring armor. PD-5 bots 
-take a -20% to miss for each other friendly PD-5 within 6m due to their 
-distributed network architecture, but if one PD bot is pwned, all PD bots within
-that range are pwned as well. Disrupted PD-5 bots don't count for other's 
-accuracy bonus.
+    This small bipedal drone comes equipped with a distributed computing NIC 
+card for improved performance in large packs. The PD-5 also comes standard with 
+a biometric sharp grasping claws and a tail that adapts procedurally to maintain 
+balance at high speeds as  well as significantly more capacity for peripherals 
+than its flying brethren. The Grasping claws may make melee attacks at a 40% 
+chance to miss for 40 damage. PD-5 bots take a -20% to miss for each other 
+friendly PD-5 within 6m due to their distributed network architecture, but if 
+one PD bot is pwned, all PD bots within that range are pwned as well. Disrupted 
+PD-5 bots don't count for other's accuracy bonus.
 
     Standard PD bots make soft hydraulic sounds when moving, and so may not have 
 stealth scores over 80. This limitation may be solved with clever RP, see your
@@ -591,14 +590,14 @@ Size:				1m x .6m x .8m
 Disrupt DC:			40
 Pwn DC:				80
 
-    		The reCON Direct zero Robot is right where you need it to 
-be. Or if not, It'll be there extremely soon. While it lacks a little in armor, 
-it is the fastest drone available and carries a decent payload of peripherals.
+    The reCON Direct zero Robot is right where you need it to be. Or if not, 
+It'll be there extremely soon. While it lacks a little in armor, it is the 
+fastest drone available and carries a decent payload of peripherals. 
 Unfortunately, it's long range carrier wave makes it a little more prone to 
 cyber attacks than it's slower ilk. If the Con-D0R agile-wing drone has moved 
-at least 10m in the last turn, enemies on the ground take a +20% to miss shooting
+at least 10m in the last turn, enemies on the ground take a +2 to miss shooting
 at it. If the Con-D0R has less than half of its ports occupied, enemies on the 
-ground take an additional +10% when this effect is active.
+ground take an additional +1 when this effect is active.
 
     When a drone is reclaimed, it frees up the control point cost that it 
 occupied, but does not reimburse its construction cost.
@@ -617,18 +616,31 @@ Size:				1m x .8m x 1m
 Disrupt DC:			30
 Pwn DC:				70
 
-    		Cerberus attack drones are large, heavily armored and armed
-battlefield behemoths that move slowly but pack a nasty bite. Powered by an 
-uberfuel that tends to explode in a 3m radius when destroyed. They move slowly
-and have trouble with stairs, but their turret can quickly turn and fire. They
-come with armor that covers 80% of their systems and reduces incoming fire by 
-30 points. One anti-vehicle hit will down them however. Large enough for a 
-player to take partial cover behind. 
+    Cerberus attack drones are large, heavily armored and armed battlefield 
+behemoths that move slowly but pack a nasty bite. Powered by an uberfuel that 
+tends to explode in a 3m radius when destroyed. They move slowly and have 
+trouble with stairs, but their turret can quickly turn and fire. See the table
+below for stats on the armor of the drone when built by Engineers of different
+levels. One anti-vehicle hit will down them however. The Cerberus is large 
+enough for a player to take partial cover behind. 
 
     When a drone is reclaimed, it frees up the control point cost that it 
 occupied, but does not reimburse its construction cost.
 
-== Titan Multipurpose Drone	== 
++----------------+----------------+-----+-----+
+| Engineer Level | Armor Coverage | APL | APS |
++----------------+----------------+-----+-----+
+|       <10      |       75%      |  3  |  60 |
++----------------+----------------+-----+-----+
+|      10-14     |       80%      |  5  |  80 |
++----------------+----------------+-----+-----+
+|      15-19     |       85%      |  7  | 100 |
++----------------+----------------+-----+-----+
+|       >19      |       100%     | 10  | 200 |
++----------------+----------------+-----+-----+
+
+
+== Titan Multipurpose Drone	==
 Type: 				Drone
 Construction Cost:	270 Energy, 150 Material
 Control Point Cost: 4 points
@@ -644,9 +656,10 @@ Pwn DC:				70
 
     The titan multipurpose drone is a bipedal megalith of death
 and science. Plasma induction core explodes violently when destroyed. 
-The titan comes with a 7.62 repeater that has a 20% chance to miss and deals 55 
-damage. fed from a 150 round drum. May also make melee attacks with its offhand.
-20% chance to miss. Deals 160 damage, kinda like being punched by a backhoe.
+The titan comes with a 7.62 repeater that has a 2 chance to miss and deals 55 
+damage and has an armor piercing level of 4. Fed from a 150 round drum. May also 
+make melee attacks with its offhand with a +3 bonus. Deals 160 damage, kinda 
+like being punched by a backhoe.
 
     When a drone is reclaimed, it frees up the control point cost that it 
 occupied, but does not reimburse its construction cost.
