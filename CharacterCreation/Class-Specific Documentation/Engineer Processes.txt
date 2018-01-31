@@ -210,10 +210,10 @@ Duration: 	engagement
 Range:		Touch
 
     You fiddle with your ally's gun quickly. You tune the whosits, and
-dial the whatsits. It now has a -5% chance to miss and has half the chance of
-jamming. Normal use and wear on the gun will almost definitely unalign what 
-you've done by the end of the engagement, but hopefully your efforts will help 
-keep your ally alive until then.
+dial the whatsits. It now has a -1 chance to miss and has half the chance of
+jamming round down. Normal use and wear on the gun will almost definitely 
+unalign what you've done by the end of the engagement, but hopefully your 
+efforts will help keep your ally alive until then.
 
 == Vehicle Repair	== 
 Energy Gain:40
@@ -413,7 +413,7 @@ Range:			Touch
     	By temporarily reducing the resolution of your cybernetic 
 ally's visual sensors you radically reduce the processing power it takes to
 capture motion, letting them process more frames per microsecond. This gives
-them slightly faster reaction times, resulting in a -8% chance to miss when
+them slightly faster reaction times, resulting in a -1 chance to miss when
 attacking, but makes it much harder to see long distances. Allies with MoCap
 Augmentation active take a -40 to perception checks at ranges beyond 50m. 
 Since this is less than ideal in non-combat scenarios, you've set it to wear
@@ -563,11 +563,11 @@ Pwn DC:				90
 card for improved performance in large packs. The PD-5 also comes standard with 
 a biometric sharp grasping claws and a tail that adapts procedurally to maintain 
 balance at high speeds as  well as significantly more capacity for peripherals 
-than its flying brethren. The Grasping claws may make melee attacks at a 40% 
-chance to miss for 40 damage. PD-5 bots take a -20% to miss for each other 
-friendly PD-5 within 6m due to their distributed network architecture, but if 
-one PD bot is pwned, all PD bots within that range are pwned as well. Disrupted 
-PD-5 bots don't count for other's accuracy bonus.
+than its flying brethren. The Grasping claws may make melee attacks with a bonus
+of 4 for 40 damage. PD-5 bots take a -2 to miss for each other friendly PD-5 
+within 6m due to their distributed network architecture, but if one PD bot is 
+pwned, all PD bots within that range are pwned as well. Disrupted PD-5 bots 
+don't count for other's accuracy bonus.
 
     Standard PD bots make soft hydraulic sounds when moving, and so may not have 
 stealth scores over 80. This limitation may be solved with clever RP, see your
@@ -860,9 +860,9 @@ Size:		1m x 1m x 1m
 
     You piece together a heavy turret with a 200 round 5.56 caliber belt
 of ammo. The ballistic plate in front offers partial cover for whomever uses it.
-Each hit deals 53 damage and the gun has a 30% chance to miss. It cannot be 
+Each hit deals 53 damage and the gun has a 3 chance to miss. It cannot be 
 aimed, but it can be ripped off of its emplacement by a character that has 8 
-strength or more. When ripped off, the gun has an additional 10% chance to 
+strength or more. When ripped off, the gun has an additional +1 chance to 
 miss. If the gun is fired four times, with four consecutive actions, the
 shooter gets a free fifth shot. Every hit that an ally (not you) makes with a
 turret that you placed gives you 30 Energy. Supporting Fire weapon.
@@ -909,7 +909,7 @@ Health:		120
 Size:		1m x 1m x 2m
 
     You set up a machinegun turret that aims and fires on its own. The 
-turret has a 28% chance to miss and a range of 40m. Each hit deals 40 damage. 
+turret has a chance to miss of 3 and a range of 40m. Each hit deals 40 damage. 
 The sentry is vulnerable to firmware security breach at DC 60. The turret can 
 be affixed to any flat surface that is strong enough to support its weight. 
 
@@ -950,7 +950,7 @@ Size:		2m x 2m x 2m
     That's it. You've just had it with those ###holes behind cover over
 there taking potshots at you and your squad. This oughta teach 'em. You 
 construct a mortar tube and shell printer. Deals 65 damage in a 2m radius
-around a hit target with a 30% chance to miss. One shell "clip" takes 2 
+around a hit target with a chance to miss of 3. One shell "clip" takes 2 
 actions to reload. 130m range with a high arc. Ignores cover penalties if the 
 shell comes straight down on top of the target. Successful hits have a 30%
 chance to daze the target. Every hit that an ally (not you) makes with a
@@ -985,7 +985,7 @@ independently. Turns slowly; to change targets more than 90 degrees takes 2
 actions. Uses visible spectrum target identification.
 
 Range: 60m
-Miss: 30%
+Miss: 3
 Mags: 2 x 100 rd 5mm linked belts
 Damage: 15 per bullet
 Fire Rate: Fires five bullets per action
@@ -1018,7 +1018,7 @@ Size:		2m x 2m x 2m
     That's it. You've just had it with those ###holes behind cover over
 there taking potshots at you and your squad. This oughta teach 'em. You 
 construct a mortar tube and shell printer. Deals 80 damage in a 3m radius
-around a hit target with a 30% chance to miss. Three shell "clip" with a 2 
+around a hit target with a chance to miss of 3. Three shell "clip" with a 2 
 action reload time. 300m range with a high arc. Ignores cover penalties if the 
 shell comes straight down on top of the target. Successful hits have a 30%
 chance to daze the target. Every hit that an ally (not you) makes with a
@@ -1057,7 +1057,7 @@ Repair DC of 100 to purge a pwned sentry. Sentry comes with 20 rockets. Rocket
 turret tracks with visible spectrum unless a friendly IR is being shined. In 
 which case, the turret can only see what is designated.
 
-Accuracy:	50%
+Accuracy:	5 to miss
 Damage:		80 points
 Range:		80m
 
