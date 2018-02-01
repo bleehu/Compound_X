@@ -35,7 +35,7 @@ DEX Requirement: 3
 	Round down damage. 20% chance to disarm target unless weapon is attached via 
 sling, part of the target, etc.
 
-==Hand-to-Hand [Expert]==
+== Hand-to-Hand [Expert] ==
 
 Damage: [3*STR or 2*DEX] + [Melee Combat skill]
 Range: 2m
@@ -49,9 +49,9 @@ class passive.)
 
 ==== MELEE WEAPONS ====
 
-=====LEVEL 1 REQUIREMENT WEAPONS=====
+===== LEVEL 1 REQUIREMENT WEAPONS =====
 
-==Eliazar Plasma Torch$240==
+== Eliazar Plasma Torch $240 ==
 
 Damage:   30 + 2x Plasma Burn
 Range:        Adjacent (1m)
@@ -61,23 +61,23 @@ STR Requirement:   3
 	Plasma. Can quickly repair vehicles with welding materials, seal/cut through 
 moderate doors, and make temporary cover. -40% stealth for being quiet on stealth attacks.
 
-==Gurbur G1 Combat Knife$315==
+== Gurbur G1 Combat Knife $315 ==
 
 Damage:   40 + STR + 2*DEX + 1xBleed
 Range:        Adjacent (1m)
 Accuracy Modifier: +1
 DEX Requirement:   3
 
-==Gurber GS101 Combat Sword$680==
+== Gurber GS101 Combat Sword $680 ==
 
 Damage:   50 + 2*STR + 2*DEX + 1xBleed
 Range:        2m
 Accuracy Modifier: +2
 DEX Requirement:   4
 
-=====LEVEL 5 REQUIREMENT WEAPONS=====
+===== LEVEL 5 REQUIREMENT WEAPONS =====
 
-== Guri Grabber Knife$470==
+== Guri Grabber Knife $470 ==
 
 Damage:   30 + STR + 2*DEX + 1xBleed
 Range:        Adjacent (1m)
@@ -88,7 +88,7 @@ DEX Requirement:   5
 grappling checks. Whenever you roll a successful grappling check, you may deal 
 [3*STR or 3*DEX] damage to your opponent.
 
-==Guri Carbon Whip$560==
+== Guri Carbon Whip $560 ==
 
 Damage:   30 + 3*STR + 2*DEX
 Range:        3m
@@ -100,7 +100,7 @@ grapple) and force movement (1m for every 5 [DEX or STR]). Can disarm weapons
 from range according to Hand-to-Hand [trained] or [Expert] disarm rules (you 
 must have [Trained] or [Expert] to use their respective rules).
 
-==SPECO SP10 VAE Combat Knife$640==
+== SPECO SP10 VAE Combat Knife $640 ==
 
 Damage:   45 + STR + 2*DEX + 1xBleed
 Range:        Adjacent (1m)
@@ -109,7 +109,7 @@ DEX Requirement:   4
 
 	Voltage Aligned Edge; ignores standard armor
 
-==SPECO SPC50 VAE Circular Saw$695==
+== SPECO SPC50 VAE Circular Saw$695 ==
 
 Damage:   55 + STR + 1xBleed
 Range:        Adjacent (1m)
@@ -120,7 +120,7 @@ STR Requirement:   4
 materials. -50% on stealth rolls for being quiet during stealth attacks with 
 this weapon.
 
-==SPECO SP30 VAE Combat Sword$1245==
+== SPECO SP30 VAE Combat Sword $1245 ==
 
 Damage:   55 + 2*STR + 2*DEX + 1xBleed
 Range:        2m
@@ -129,9 +129,9 @@ DEX Requirement:   6
 
 	Voltage Aligned Edge; ignores standard armor
 
-=====LEVEL 10 REQUIREMENT WEAPONS=====
+===== LEVEL 10 REQUIREMENT WEAPONS =====
 
-==Eliazar E500 Assisted-Sledgehammer$811==
+== Eliazar E500 Assisted-Sledgehammer $811 ==
 
 Damage:   50 + 6*STR
 Range:        2m
@@ -144,7 +144,7 @@ concussive) damage. If armor roll is greater than 50%, target rolls a DC 50%
 fort save for a broken limb of your choice. -20% stealth rolls for being quiet 
 on stealth attacks. Reduces door-breaking DC by 30% per hit.
 
-==Eliazar E5500 Power Fist$880==
+== Eliazar E5500 Power Fist $880 ==
 
 Damage:   50 + 5*STR
 Range:        Adjacent (1m)
@@ -157,7 +157,7 @@ armor roll is less than 50%, target rolls a DC 50% fort save for a being stunned
 for 1 turn. -30% stealth rolls for being quiet on stealth attacks. Reduces 
 door-breaking DC by 45% per hit.
 
-==Muzashi VAE Katana$1354==
+== Muzashi VAE Katana $1354 ==
 
 Damage:   60 + STR + 3*DEX + 2xBleed
 Range:        2m
@@ -166,7 +166,7 @@ DEX Requirement:   6
 
 	Requires "Weapon Use [Exotic]". Voltage Aligned Edge; ignores standard armor.
 
-==Eliazar Plasma Sword$987==
+== Eliazar Plasma Sword $987 ==
 
 Damage:   50 + STR + 2*DEX + 3xPlasma Burn
 Range:        2m
@@ -201,7 +201,7 @@ for Misc. Thrown Weapons are reduced by 1.
 	(When dividing Thrown Weapon Skill, drop the remainder)
 
 
-=====LEVEL 1 REQUIREMENT WEAPONS=====
+===== LEVEL 1 REQUIREMENT WEAPONS =====
 
 == Gurber Throwing Knife $80 ==
 
@@ -216,7 +216,7 @@ AP Level:2
 
 	For melee, 15+STR+2*DEX+1xBleed, +1 melee accuracy. 2 per Secondary Ammo Slot.
 
-=====LEVEL 5 REQUIREMENT WEAPONS=====
+===== LEVEL 5 REQUIREMENT WEAPONS =====
 
 == EAL Tactical Throwing Axe $160 ==
 
@@ -232,16 +232,18 @@ AP Level: 3
 	For melee, 40 + 2 * STR + DEX + 1 x Bleed, +1 melee accuracy. 1 per 
 Secondary Ammo Slot.
 
-=====LEVEL 10 REQUIREMENT WEAPONS=====
+===== LEVEL 10 REQUIREMENT WEAPONS =====
 
 == Carbide Kunai $120 ==
 
 Damage:25 + STR + DEX + [Thrown Weapon Skill]/2 + 1xBleed
-Ranged Miss Chance:
-5 out to [DEX or STR/2] meters
-6 out to 5 + [DEX or STR/2] meters
 DEX Requirement:   6
 AP Level:4
+
+	Ranged Miss Chance
+
+*  5 out to [DEX or STR/2] meters
+*  6 out to 5 + [DEX or STR/2] meters
 
 	For melee, 20+STR+2*DEX+1xBleed, +1 melee accuracy. 3 per Secondary Ammo Slot.
 When thrown, +30% to stealth rolls to hide the attack.
@@ -282,8 +284,7 @@ beyond 1 miss chance, roll a d10 instead.
 == ECSC Smoke Grenade $50 ==
 
 Damage:D10 burn damage to exact spot of impact
-Ranged Miss Chance (to land where intended):
-5 out to 10+[DEX or STR]*2 meters
+Ranged Miss Chance (to land where intended): 5 out to 10+[DEX or STR]*2 meters
 Armor Piercing Level:0
 
 	Rolling higher than a 9 Miss Chance causes a direct hit. For a 
@@ -298,8 +299,7 @@ all the way through the smoke. Smoke lasts for 12 turns or 2 minutes.
 == ECSC CID Chemical Incapacitation Device (Gas grenade) $50 ==
 
 Damage:D10 burn damage to exact spot of impact
-Ranged Miss Chance (to land where intended):
-5 out to 7+[DEX or STR]*2 meters
+Ranged Miss Chance (to land where intended):5 out to 7+[DEX or STR]*2 meters
 Armor Piercing Level:0
 
 	10m radius cloud of choking chemicals. anyone caught in the circle suffers the 
@@ -310,29 +310,32 @@ will continue to exhibit partial blindness for 3 turns after leaving the fog,
 and coughing for 6 turns. Gas cloud persists for 2 turns after initial detonation.
 
 == RMM Flash-Bang Distraction and Clearing Device $50 ==
+
 Damage:D10 burn damage to exact spot of impact
-Ranged Miss Chance (to land where intended):
-6 out to 10+[DEX or STR]*2 meters
+Ranged Miss Chance (to land where intended): 6 out to 10+[DEX or STR]*2 meters
 Armor Piercing Level:0
 
 	Everyone in the room gets blinded for 2 turns. Once per turn, You can 
-attempt to break the blindness with a perception check at 85% (disregarding bonuses). If the grenade 
-detonates in the open, it’s blinding range is a 10m radius.
+attempt to break the blindness with a perception check at 85% (disregarding 
+bonuses). If the grenade detonates in the open, it’s blinding range is a 10m 
+radius.
 
 == ECSC Fragmentation Grenade $90 ==
+
 Damage:D10 burn damage to exact spot of impact
-Ranged Miss Chance (to land where intended):
-5 out to 10+[DEX or STR]*2 meters
+Ranged Miss Chance (to land where intended): 5 out to 10+[DEX or STR]*2 meters
 Armor Piercing Level:1
 
-	Each Target within the blast radius takes multiple hits. 45 damage per hit, automatically hits armor. 
-Targets take full damage to the torso, legs, and arms (if armor is pierced or not present): (3*45 damage)+2xBleed within a 2.5m radius.
-Only legs and torso (2*45 damage)+1xBleed within a 5m radius. At least one hit must damage health to cause  Bleed.
+	Each Target within the blast radius takes multiple hits. 45 damage per hit, 
+automatically hits armor. Targets take full damage to the torso, legs, and arms 
+(if armor is pierced or not present): (3*45 damage)+2xBleed within a 2.5m radius.
+Only legs and torso (2*45 damage)+1xBleed within a 5m radius. At least one hit 
+must damage health to cause Bleed.
 
 == ECSC C10 Plastic HE $210 ==
+
 Damage:120 explosive damage within a 3m radius, 5m radius indoors.
-Ranged Miss Chance (to land where intended):
-n/a
+Ranged Miss Chance (to land where intended): n/a
 Armor Piercing Level:n/a
 
 	Must be set-up before use. 1 Action, 40% DC explosives skill to set-up. On 
@@ -346,40 +349,45 @@ miss chance out to 5+[DEX or STR] meters.
 ===== LEVEL 5 REQUIREMENT WEAPONS =====
 
 == RMM Frag+ Grenade $140 ==
+
 Damage:D10 burn damage to exact spot of impact
-Ranged Miss Chance (to land where intended):
-5 out to 10+[DEX or STR]*2 meters
+Ranged Miss Chance (to land where intended): 5 out to 10+[DEX or STR]*2 meters
 Armor Piercing Level:2
 
-	Each Target within the blast radius takes multiple hits. 50 damage per hit, automatically hits armor. 
-Targets take full damage to the torso, legs, and arms (if armor is pierced or not present): (3*50 damage)+2xBleed within a 3m radius.
-Only legs and torso (2*50 damage)+1xBleed within a 6m radius. At least one hit must damage health to cause Bleed.
+	Each Target within the blast radius takes multiple hits. 50 damage per hit, 
+automatically hits armor. Targets take full damage to the torso, legs, and arms 
+(if armor is pierced or not present): (3*50 damage)+2xBleed within a 3m radius.
+Only legs and torso (2*50 damage)+1xBleed within a 6m radius. At least one hit 
+must damage health to cause Bleed.
 
 == Frontier Chemical Grenade $70 ==
+
 Damage:D10 burn damage to exact spot of impact
-Ranged Miss Chance (to land where intended):
-5 out to 10+[DEX or STR]*2 meters
+Ranged Miss Chance (to land where intended): 5 out to 10+[DEX or STR]*2 meters
 Armor Piercing Level:n/a
 
-	Creates a 7m radius cloud of burning, choking smoke. Targets take 30 Poison Damage per turn in the cloud.
-All Poison Damage is negated by use of a gas mask.
+	Creates a 7m radius cloud of burning, choking smoke. Targets take 30 Poison 
+Damage per turn in the cloud. All Poison Damage is negated by use of a gas mask.
 
 == RMM HiEx Grenade $285 ==
+
 Damage:D10 burn damage to exact spot of impact
-Ranged Miss Chance (to land where intended):
-5 out to 10+[DEX or STR]*2 meters
+Ranged Miss Chance (to land where intended): 5 out to 10+[DEX or STR]*2 meters
 Armor Piercing Level:n/a
 
-	2x inner blast radius when indoors. 120 explosive damage within a 2m radius, 60 explosive within a 5m radius.
+	2x inner blast radius when indoors. 120 explosive damage within a 2m radius,
+60 explosive within a 5m radius.
 
 ===== LEVEL 10 REQUIREMENT WEAPONS =====
 
 == Frontier Plasma Grenade FP-G5 $360 ==
+
 Damage:D10 burn damage to exact spot of impact
-Ranged Miss Chance (to land where intended):
-5 out to 10+[DEX or STR]*2 meters
+Ranged Miss Chance (to land where intended): 5 out to 10+[DEX or STR]*2 meters
 Armor Piercing Level:6
 
-	Each Target within the blast radius takes multiple hits. 60 damage per hit, automatically hits armor. 
-Targets take full damage to the torso, legs, and arms (if armor is pierced or not present): (3*60 damage)+3xPlasma Burn within a 3m radius.
-Only legs and torso (2*60 damage)+1xPlasma Burn within a 5m radius. At least one hit must damage health to cause Plasma Burn.
+	Each Target within the blast radius takes multiple hits. 60 damage per hit, 
+automatically hits armor. Targets take full damage to the torso, legs, and arms 
+(if armor is pierced or not present): (3*60 damage)+3xPlasma Burn within a 3m 
+radius. Only legs and torso (2*60 damage)+1xPlasma Burn within a 5m radius. At 
+least one hit must damage health to cause Plasma Burn.
