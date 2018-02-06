@@ -57,11 +57,10 @@ and you just roll once.
 
 Rolling the Average:
 	There are certain circumstances and feats which allow for Rolling the Average.
-This must be announced before the die are cast. Rolling the average will give you 
-the advantage of avoiding a critical fail, but also prevents you from critically 
-succeeding. This is best used in situations when massive failure is not an option. To do
-this, you roll 2d10s, add them together, and divide by 2. The resulting number is your
-roll. 
+This must be announced before the die are cast. Critical fails or Critical successes
+are ignored when Rolling the Average. This is best used in situations when massive 
+failure is not an option. To do this, roll percentile dice twice, add the two numbers
+together, and divide by 2. The resulting number is your roll. 
 
 ==============================
 Role Playing and Combat
