@@ -115,7 +115,7 @@ Roll - Advantage:
     Roll twice. Take the highest of the two rolls.* 
     
 Roll - Average:
-    Roll 2d10s. Add together and divide by 2.* 
+    Roll 2d100. Add together and divide by 2.* 
     
 Roll - Disadvantage:
     Roll twice. Take the lowest of the two rolls.*
