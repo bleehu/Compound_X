@@ -398,7 +398,7 @@ table, below.
 +-------+---------------------------------------------------------------------------------------+
 | 1-2   | Your primary weapon malfunctions/breaks and you cannot use it until DC 60 repaired    |
 +-------+---------------------------------------------------------------------------------------+
-| 3-4   | You cannot crit or critically succeed (in any form) in this encounter                 |
+| 3-4   | You cannot critically hit or critically succeed (in any form) in this encounter       |
 +-------+---------------------------------------------------------------------------------------+
 | 5-6   | You trip and hurt yourself, take 15 damage and lose three actions from your 1st turn  |
 +-------+---------------------------------------------------------------------------------------+
@@ -875,8 +875,8 @@ down, is added to your critical hit range. Which means, if you have a Luck stat
 of 8 (and thus, by the equation, +1 to your critical hit range), an attack roll 
 of 9-10 would be considered a critical hit.
 
-	Fully-Automatic weapons cannot crit (weapons that shoot more than 1 bullet 
-per Action by default).
+	Weapons with a high fire rate cannot critically hit (weapons that shoot more 
+than 1 bullet per Action by default).
 
 Armor and Getting Hit:
 	When a player is defending against a successful enemy hit, they roll 
@@ -1007,12 +1007,18 @@ as a Free Action. DM discretion is advised for close combat situations.
 formality. If a character could reasonably take or keep aim at something, then he or 
 she can.
 
+Fire Rates:
 	Most weapons are Semi-Auto, meaning that each time you pull the trigger, the 
 gun fires once and chambers a new round automatically. It takes 1 Action to fire 
 a semi-auto weapon in this way. Some guns, such as Shotguns and Bolt-Action 
 sniper rifles require 2 Actions to fire the gun, where the first Action is a 
-trigger pull, and the second Action is the rechambering of the weapon.
+trigger pull, and the second Action is the rechambering of the weapon. Some weapons
+are capable of higher rates of fire, like Assault Rifles. These weapons often have
+more than one fire mode such as Fully-Automatic (Auto) and Burst. Auto or Burst 
+mode allows the user to fire 6 or 3 shots for 1 Action, respectively (unless
+otherwise noted). 
 
+Rolling a Ranged Attack:
 	To hit a target, Players must roll a d10 that is over their weapon's miss 
 stat. When an enemy is in cover, their cover score is added to your weapon's 
 miss chance. Lets say your normal ranged miss chance is 2, and the enemy is in 
