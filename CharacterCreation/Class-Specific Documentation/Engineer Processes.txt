@@ -1,5 +1,22 @@
-    As engineers practice their craft, they learn certain processes. These are 
-listed below. 
+==============================
+Engineering Processes 
+==============================
+
+    As Engineers practice their craft, they learn certain processes. These are 
+listed below. These Processes can be performed either under fire on the 
+battlefield or between engagements under more calm circumstances. 
+
+    Processes are divided into two categories; Repair Processes and Build 
+Processes. Typically, a Repair Process is any process which heals or buffs a 
+teammate. Repair Processes typically accrue building materials like Energy and 
+Material. Build Processes typically increase an engineer's combat effectiveness 
+through the deployment of drones or mounted weapons. Build Processes typically 
+expend building materials like Energy and Materials. 
+
+    Every time an Engineer levels up, they get one new Process from each of the
+Build and Repair Process categories. Unlocking a Process requires having 
+unlocked the Process below it on the Process Tree. Please see the "Engineer 
+Process Tree - Repair.png" for dependencies.
 
 Energy:
     Most procedures that an engineer can perform in the field requires the 
@@ -32,10 +49,6 @@ process doesn't specify that it can only be used on cybernetic allies) leaves a
 the build tree, the range of the drone is taken from the nearest network mote or 
 the engineer that deployed it.
 
-    Unlocking a Process requires having unlocked the Process below it on the 
-Process Tree. Please see the "Engineer Process Tree - Repair.png" for 
-dependencies.
-
 ==============================
 Repair Tree	
 ==============================
@@ -54,32 +67,32 @@ then heal them. Not a quiet procedure; detectable within 40m by a perception
 check of 30.
 
 == Data Scrub	== 
-Energy Gain:35
-Action:		1 Action
-Duration: 	N/A
-Range:		Touch
+Energy Gain: 35
+Action:		 1 Action
+Duration: 	 N/A
+Range:		 Touch
 
     Only usable on cybernetic allies who have been hacked or dominated.
 The engineer makes a repair check opposed by half of the hacker's hack check or
-dominator's sorcery check. If the engineer wins, the ally or system is scrubbed
-and the system control returns to normal. The engineer only receives Energy 
-for successful scrubs. Be aware that engineers are not the only class that can
-scrub a hacked target.
+dominator's domination check. If the engineer wins, the ally or system is 
+scrubbed and the system control returns to normal. The engineer only receives 
+Energy for successful scrubs. Be aware that engineers are the only class with 
+this Process, but not the only class that can scrub a hacked target.
 
 == Restore Armor	== 
-Energy Gain:50
-Action: 	2 Actions
-Duration:	Almost Instant
-Range: 		Touch
+Energy Gain:   50
+Action: 	   2 Actions
+Duration:	   Almost Instant
+Range: 		   Touch
 
     You tinker with your ally's armor and mend it. Undo any Debuffs on
 your ally's armor such as sundering, battle damage, etc. 
 
 == Percussive Maintenance	== 
-Energy Gain:30
-Action:		1 Action
-Duration:	Almost Instant
-Range:		Touch
+Energy Gain:  30
+Action:		  1 Action
+Duration:	  Almost Instant
+Range:		  Touch
 
     This stupid thing is broken again! You hit it with your wrench and
 deal 10 damage to it. Roll luck modifier, with a DC of 1.5 x target's total 
@@ -106,7 +119,7 @@ Action:		1 Action
 Duration: 	engagement
 Range:		Touch
 
-    For an engagement, an ally moves 3m per action more. Ally 
+    For the duration of an engagement, an ally moves 3m per action more. Ally 
 movement has an absolute cap of 14m per action, even if some other effect
 would make it higher. A player may not be overdrived/overclocked more than 
 once per engagement. Only works on cybernetic allies.
@@ -118,9 +131,9 @@ Action:		1 Action
 Duration: 	Engagement
 Range:		Touch
 
-    A cybernetic ally gets a -8% to miss for the duration of the 
-engagement. They also get a +15 to reloading weapons quickly and a +10 to 
-perception checks. 
+    A cybernetic ally gets a -1 to miss for the duration of the engagement. They 
+also get a +15 to reloading weapons quickly and a +10 to perception checks. 
+Cannot Overclock an Ally more than once per engagement.
 
 == Network Targeting	== 
 Energy Gain:20
@@ -131,7 +144,7 @@ Range:		Touch
     You interface a visual triangulation unit with your cybernetic 
 ally's visual sensors. It cross-references targets with other friendly 
 machine's sensors to deliver a more complete image of the target. Your
-cybernetic ally gets a -3% to miss their next target for each friendly
+cybernetic ally gets a -1 to miss their next target for each friendly
 drone, robot and turret that is also looking at that target. This effect
 may be blocked with a hacking attack at DC 20. 
 
@@ -141,9 +154,9 @@ Action:		1 Action
 Duration: 	Engagement
 Range:		Touch
 
-    A cybernetic ally gets a -14% to miss for the duration of the engagement.
-They also get a +35 to reloading weapons quickly and a +10 to perception checks, but
-take 20 damage from system overheat.
+    A cybernetic ally gets a -2 to miss for the duration of the engagement.
+They also get a +35 to reloading weapons quickly and a +10 to perception checks, 
+but take 20 damage from system overheat.
 
 == Colocation Processing	== 
 Energy Gain:20
@@ -162,16 +175,16 @@ Action:		1 Action
 Duration:	8 Turns
 Range:		Touch
 
-    You temporarily disable your cybernetic ally's regression system,
+    You temporarily disable your cybernetic ally's regression process,
 the part of their personality program that slows down to triple check the 
 results of their actions. This sends them into a rage mode. They still know
 friend from foe, and they still have a jenky understanding of their higher-
 order skills like lockpicking, hacking, or social finesse, but they have no
 fear, no pain, no remorse and no hesitation for about half of a minute. Your
 ally Cannot feel shock during this duration, and cannot be repaired (they
-won't stand still). They get a bonus +15% to accuracy nearer than 41m. They
+won't stand still). They get a bonus +3 to accuracy nearer than 41m. They
 also deal an extra 20 damage with melee or fire an extra bullet with rapid-
-fire weapons. They take a penalty of 25% to skill checks, including acrobat or
+fire weapons. They take a penalty of -25% to skill checks, including acrobat or
 parkour checks (these take regression to calculate). An ally affected by 
 Regression Override may use a strength +2 bonus at any time, but each time they
 do, they take 20 damage of wear and tear. An engineer can only perform a 
@@ -183,13 +196,12 @@ Action:		2 Actions
 Duration: 	Permanent
 Range:		Touch
 
-    Can only be used on a cybernetic subject who's primary data center 
-is still intact that has "bled out" less than 8 turns ago. The Engineer makes 
-a DC 60 repair check. If successful, the subject is now "bleeding out". If the
-subject is saved, they get the feat "Refurbished". Characters with the 
-"Refurbished" feat have a permanent -1 to Intelligence and can never again be
-revived with System Restore.
-
+    Can only be used on a cybernetic subject who's primary data center is still 
+intact that has "bled out" less than 8 turns ago. The Engineer makes a DC 60 
+Repair check. If successful, the subject is now "bleeding out". If the subject 
+is saved, they get the feat "Refurbished". Characters with the "Refurbished" 
+feat have a permanent -1 to Intelligence and can never again be revived with 
+System Restore.
 
 ===== Material/Mechanic =====
 
@@ -199,9 +211,9 @@ Action:		1 Action
 Duration: 	N/A
 Range:		Touch
 
-    Ok, there was a little more to it than that. One of your targets 
-wounds are healed. This trick only works on cybernetic allies. This also works
-on non-sentient robots and machinery.
+    Ok, there was a little more to it than that. One of your targets wounds are 
+healed. This trick only works on cybernetic allies, non-sentient robots and 
+machinery.
 
 == Weapon Tuning	== 
 Energy Gain:20
@@ -233,9 +245,9 @@ Action:		1 Action
 Duration: 	N/A
 Range:		Touch
 
-    The automaton is healed by the Engineer's heal roll / n, where n is 
-the number of wounds that the automaton has. This trick only works on cybernetic 
-beings or machines.
+    The cybernetic ally is healed by the Engineer's heal roll / n, where n is 
+the number of wounds that the cybernetic ally has. This trick only works on 
+cybernetic beings or machines.
 
 == Micro Assembler	== 
 Energy Gain:50
@@ -245,10 +257,10 @@ Range:		Touch
 
     You release a spider-like micro repair bot that repairs a cybernetic
 ally for 8 turns before running out of power. The microbot is able to heal
-15 health per turn. The microbot burns up in CS burn. A Microassembler uses
-wireless cloud calculation to stay small, but on-blueprint. As such, it is
-vulnerable to hack checks at a DC of 50. A hacked micro assembler reveals its
-location and may deal 5 damage per turn.
+15 health per turn. Once spent, the microbot burns up in CS burn. A 
+Microassembler uses wireless cloud calculation to stay small, but on-blueprint. 
+As such, it is vulnerable to hack checks at a DC of 50. A hacked micro assembler 
+reveals its location and may deal 5 damage per turn.
 
 == Engine Tuning	== 
 Energy Gain:50
@@ -264,10 +276,11 @@ required to boost the effect of a vehicle, it now rewards you in Energy for
 doing so and increases your effectiveness at doing so.
 
 == Boilerplate Handiwork	== 
-Energy Gain:20
-Action:		1 Action
-Duration: 	Permanent
-Range:		Touch
+Energy Gain:   20 Energy
+Material Cost: 20 Material
+Action:		   1 Action
+Duration: 	   Permanent
+Range:		   Touch
 
     Just slam some more metal on there! You add a protective layer to
 one of your cybernetic allies. This adds 40 to their health, but slows them
@@ -296,9 +309,10 @@ Range:		Touch
     Target friendly vehicle has full health, and its engine runs at
 maximum efficiency. Full effect is up to Role Playing and GM. Additions
 include but are not limited to:
-adding a NOS tank
-adding a 1-vehicle damage shield
-adding stabilized chassis for improved accuracy when fired from 
+
+*  adding a NOS tank
+*  adding a 1-vehicle damage shield
+*  adding stabilized chassis for improved accuracy when fired from 
 
 == Ceramic Catalyst	== 
 Energy Gain:	15 Energy
@@ -306,15 +320,14 @@ Action:			2 Actions
 Duration:		10 turns or 2 hits
 Range:			Touch
 
-    	An adhesive mist of kinetic-reactive ions that cause ceramic
-armor plates to absorb hits more efficiently by powdering instead of cracking.
-Toxic, but slow-acting to most biologic life forms. Can only be used on 
-cybernetic allies with light, medium, heavy or full armor. An engineer only 
-carries four doses per engagement. Reduces the next bullet hit by 35 points of 
-damage. Looks kinda like yellow ooze. Gives an ally affected by Ceramic 
-Catalyst a -20 penalty to visual stealth rolls. An engineer cannot use ceramic
-catalyst on themselves. Ceramic Catalyst decays after exposure to elements for
-ten turns or two hits, whichever happens first. 
+    An adhesive mist of kinetic-reactive ions that cause ceramic armor plates to 
+absorb hits more efficiently by powdering instead of cracking. Toxic, but 
+slow-acting to most biologic life forms. Can only be used on cybernetic allies 
+with light, medium, heavy or full armor. Reduces the next bullet hit by 35 
+points of damage. Looks kinda like yellow ooze. Gives an ally affected by 
+Ceramic Catalyst a -20 penalty to visual stealth rolls. An engineer cannot use 
+ceramic catalyst on themselves. Ceramic Catalyst decays after exposure to 
+elements for ten turns or two hits, whichever happens first. 
 
 == Microbot Swarm	== 
 Energy Gain:40 * n
@@ -325,12 +338,13 @@ Range:		4m radius
     You release a swarm of spider-like micro repair bots that repair 
 cybernetic allies for 8 turns before running out of power. The microbots are 
 able to heal 15 health per turn. The microbots burn up if one of their subjects
-is affected by CS burn. For this, the engineer gains 40 * n Energy, where n is 
-the number of allies affected. The engineer can only perform this once per 
+is affected by plasma burn. For this, the Engineer gains 40 * n Energy, where n 
+is the number of allies affected. The Engineer can only perform this once per 
 engagement. A Microassembler uses wireless cloud calculation to stay small, 
 but on-blueprint. As such, it is vulnerable to hack checks at a DC of 50. A 
 hacked micro assembler reveals its location and may deal 5 damage per turn.
-The microbot swarm director automatically detects disobedient microbots.
+The microbot swarm director automatically detects disobedient microbots and 
+notifies the Engineer. 
 
 ===== Optronic/Cycotonic =====
 
@@ -341,7 +355,7 @@ Duration:		Immediate
 Range:			Touch
 
     	Recharges an ally's shield by 60 points. Cannot be used to
-charge an ally's shields over their max value. An engineer cannot recharge
+charge an ally's shields over their max value. An Engineer cannot recharge
 their own shields.
 
 == Sensory Fuse	== 
@@ -380,19 +394,18 @@ normalize down to their maximum after ten turns.
 
 == Refractory Spray	== 
 Energy Gain:	15 Energy
+Material Cost:  15 Material
 Action:			2 Actions
 Duration:		Immediate
 Range:			Touch
 
-    	An adhesive mist of refractive particles that absorb laser and
-plasma fire quite well. Toxic, but slow-acting to most biologic life forms. Can
-only be used on cybernetic allies or terrain. An engineer only carries four 
-doses per engagement. Reduces the next plasma/laser/CS hit by 35 points of 
-damage and prevents the first damage-over-time effect from that hit, if it has
-one. Looks kinda like sticky glitter. Gives an ally affected by Refractory 
-spray a -20 penalty to visual stealth rolls. Refractory Spray can be detected
-by metal detectors. Refractory Spray loses cohesion after ten turns or burns up
-if hit by an energy attack.
+    An adhesive mist of refractive particles that absorb laser and plasma fire 
+quite well. Reduces the next plasma/laser/VAE hit by 35 points of damage and 
+prevents the first damage-over-time effect from that hit, if it has one. Looks 
+kinda like sticky glitter. Gives an ally affected by Refractory spray a -20 
+penalty to visual stealth rolls. Refractory Spray can be detected by metal 
+detectors. Refractory Spray loses cohesion after ten turns or burns up if hit by 
+an energy attack.
 
 == Tune Laser	== 
 Energy Gain:	30 Energy
@@ -400,9 +413,9 @@ Action:			2 Actions
 Duration:		5 Turns
 Range:			Touch
 
-    	You dial in the potentiometers and realign the focusing 
-crystals. Your ally's weapon deals an extra 20 points of damage per hit
-and has a -10% to miss (To a maximum of 0% when target is in light cover). 
+    You dial in the potentiometers and realign the focusing crystals. Your 
+ally's laser weapon deals an extra 20 points of damage per hit and has a -1 to 
+miss (To a minimum to-miss of -0 when target is in light cover). 
 
 == MoCap Augmentation	== 
 Energy Gain:	20 Energy
@@ -410,14 +423,13 @@ Action:			2 Actions
 Duration:		Immediate
 Range:			Touch
 
-    	By temporarily reducing the resolution of your cybernetic 
-ally's visual sensors you radically reduce the processing power it takes to
-capture motion, letting them process more frames per microsecond. This gives
-them slightly faster reaction times, resulting in a -1 chance to miss when
-attacking, but makes it much harder to see long distances. Allies with MoCap
-Augmentation active take a -40 to perception checks at ranges beyond 50m. 
-Since this is less than ideal in non-combat scenarios, you've set it to wear
-off after ten turns.
+    By temporarily reducing the resolution of your cybernetic ally's visual 
+sensors you radically reduce the processing power it takes to capture motion, 
+letting them process more frames per microsecond. This gives them slightly 
+faster reaction times, resulting in a -1 chance to miss when attacking, but 
+makes it much harder to see long distances. Allies with MoCap Augmentation 
+active take a -40 to perception checks at ranges beyond 50m. Since this is less 
+than ideal in non-combat scenarios, you've set it to wear off after ten turns.
 
 == Repulsor Projection	== 
 Energy Gain:	10 Energy
@@ -425,9 +437,8 @@ Action:			1 Action
 Duration:		Immediate
 Range:			10m
 
-    	Recharges an ally's shield by 40 points. May not be used to
-charge a shield above it's maximum capacity. An engineer may not charge their
-own shields. 
+    Recharges an ally's shield by 40 points. May not be used to charge a shield 
+above it's maximum capacity. An engineer may not charge their own shields. 
 
 == Repulsor Hypercharge	== 
 Energy Gain:	40 Energy
@@ -435,12 +446,12 @@ Action:			2 Actions
 Duration:		Immediate
 Range:			Touch
 
-    	Recharges an ally's shield by 85 points. May be used to charge
-an ally's shields up to 60 points above their maximum. Shields will normalize
-down to their maximum by 5 points per turn at the beginning of that player's
-turn. Hypercharged shields make a distinctive crackling noise; players who's
-shields are Hypercharged take a -20 to stealth rolls. An engineer cannot
-Hypercharge their own shields.
+    Recharges an ally's shield by 85 points. May be used to charge an ally's 
+shields up to 60 points above their maximum. Shields will normalize down to 
+their maximum by 5 points per turn at the beginning of that player's turn. 
+Hypercharged shields make a distinctive crackling noise; players who's shields 
+are Hypercharged take a -20 to stealth rolls. An Engineer cannot Hypercharge 
+their own shields.
 
 == Broadcast Repulsion	== 
 Energy Gain:	15 * n Energy, where n is the number of shields affected
@@ -448,23 +459,23 @@ Action:			2 Actions
 Duration:		Immediate
 Range:			8m radius centered on engineer
 
-    	All allies with shields in the area of effect have their 
-shields recharged by 40 points. This may not charge them over their maximum. If
-more than two shields were affected and more than 60 points restored total, the
-feedback wave sets a 10 damage per turn for 4 turns to any enemies in the area
-of effect as well. A feedback wave ends the engineer's turn immediately.
+    All allies with shields in the area of effect have their shields recharged 
+by 40 points. This may not charge them over their maximum. If more than two 
+shields were affected and more than 60 points restored total, the feedback wave 
+sets a 10 damage per turn for 4 turns to any enemies in the area of effect as 
+well. A feedback wave ends the Engineer's turn immediately.
 
-== CS Lacer	== 
+== Plasma Lacer	== 
 Energy Gain:	20 Energy and 1 Munitions
 Action:			2 Actions
 Duration:		10 Shots
 Range:			Touch
 
-    	You must pass a DC 40 skill check on your ally's weapon to 
-replace their muzzle mod with a CS-Lacing capacitor. Their next ten shots 
-set a 15 damage CS burn for 4 turns. After that ten shots, the Lacer's 
-capacitor will have grounded and subsequent shots will jam the gun. Your
-ally will have to make a skill check to swap back their muzzle attachment.
+	You must pass a DC 40 skill check on your ally's weapon to replace their 
+muzzle mod with a Plasma-Lacing capacitor. Their next ten shots set a 2 tokens 
+of Plasma Burn. After that ten shots, the Lacer's capacitor will have grounded 
+and subsequent shots will jam the gun. Your ally will have to make a skill check 
+to swap back their muzzle attachment.
 
 ==============================
 Build Tree
@@ -491,7 +502,7 @@ Control Point Cost: 1 point
 Build Time:			4 Actions
 Modular I/O ports: 	1 port
 Duration: 			Permanent
-Health:				20
+Health:				20 Points
 Speed:				6m per Action
 Roaming range:		6m from deployer.
 Size:				.5m x .5m x .2m
@@ -507,7 +518,7 @@ destroyed. Due to it's not-quite-quiet rotors, limits deployer's stealth scores
 to a maximum of 75. If the deployer moves outside of its 6m service range, the
 dragonfly will passively move to the nearest point to it that is in range. Due 
 to its small size and jerky flight movement, a Dragonfly that moved on the same 
-turn that it is shot at adds a 25% chance for the attacker to miss.
+turn that it is shot at adds a +3 chance for the attacker to miss.
 
     When a drone is reclaimed, it frees up the control point cost that it 
 occupied, but does not reimburse its construction cost.
@@ -519,7 +530,7 @@ Control Point Cost: 1 point
 Build Time:			6 Actions
 Modular I/O ports: 	3 ports
 Duration: 			Permanent
-Health:				46
+Health:				46 Points
 Speed (unladen):	8m per Action. 
 Speed (laden):      6m per Action if a port contains a peripheral.
 Roaming range:		10m from network mote.
@@ -529,7 +540,7 @@ Pwn DC:				120
 
     		The KRO-W5 or "Crow" is a lightweight quad-rotor drone 
 designed for low-altitude operation. Combining agility with modularity. Its
-onboard targeting laser gives the ally nearest to it a +10 bonus to accuracy 
+onboard targeting laser gives the ally nearest to it a +2 bonus to accuracy 
 against the nearest enemy that it has line of sight to. It also has a redundant
 kernel checksum system to make hacking it more difficult. While unladen, its
 rotors run slightly quieter than most; as long as it isn't carrying anything 
@@ -550,7 +561,7 @@ Control Point Cost: 1 point
 Build Time:			6 Actions
 Modular I/O ports: 	5 ports
 Duration: 			Permanent
-Health:				86
+Health:				86 Points
 Speed:				9m per Action if unladen and health is over 80. 
 					-4m per action if health < 80. -2m per action if a 
 					peripheral has changed health total.
@@ -558,6 +569,9 @@ Roaming range:		10m from network mote.
 Size:				1m x .6m x .8m
 Disrupt DC:			50
 Pwn DC:				90
+Natural Armor coverage: 70%
+Natural APL:        3
+Natural AP Strength: 80
 
     This small bipedal drone comes equipped with a distributed computing NIC 
 card for improved performance in large packs. The PD-5 also comes standard with 
@@ -583,7 +597,7 @@ Control Point Cost: 1 point
 Build Time:			6 Actions
 Modular I/O ports: 	4 ports
 Duration: 			Permanent
-Health:				56
+Health:				56 Points
 Speed:				14 per action
 Roaming range:		30 from network mote.
 Size:				1m x .6m x .8m
@@ -593,8 +607,8 @@ Pwn DC:				80
     The reCON Direct zero Robot is right where you need it to be. Or if not, 
 It'll be there extremely soon. While it lacks a little in armor, it is the 
 fastest drone available and carries a decent payload of peripherals. 
-Unfortunately, it's long range carrier wave makes it a little more prone to 
-cyber attacks than it's slower ilk. If the Con-D0R agile-wing drone has moved 
+Unfortunately, its long range carrier wave makes it a little more prone to 
+cyber attacks than its slower ilk. If the Con-D0R agile-wing drone has moved 
 at least 10m in the last turn, enemies on the ground take a +2 to miss shooting
 at it. If the Con-D0R has less than half of its ports occupied, enemies on the 
 ground take an additional +1 when this effect is active.
@@ -609,7 +623,7 @@ Control Point Cost: 2 points
 Build Time:			8 Actions
 Modular I/O ports: 	9 ports
 Duration: 			Permanent
-Health:				216
+Health:				216 Points
 Speed:				4m per Action
 Roaming range:		8m from network mote.
 Size:				1m x .8m x 1m
@@ -618,11 +632,12 @@ Pwn DC:				70
 
     Cerberus attack drones are large, heavily armored and armed battlefield 
 behemoths that move slowly but pack a nasty bite. Powered by an uberfuel that 
-tends to explode in a 3m radius when destroyed. They move slowly and have 
-trouble with stairs, but their turret can quickly turn and fire. See the table
-below for stats on the armor of the drone when built by Engineers of different
-levels. One anti-vehicle hit will down them however. The Cerberus is large 
-enough for a player to take partial cover behind. 
+tends to explode in a 3m radius when destroyed. Any entity caught in the blast
+takes 3 burn tokens and 50 damage. They move slowly and have trouble with 
+stairs, but their turret can quickly turn and fire. See the table below for 
+stats on the armor of the drone when built by Engineers of different levels. 
+One anti-vehicle hit will down them however. The Cerberus is large enough for a 
+player to take partial cover behind. 
 
     When a drone is reclaimed, it frees up the control point cost that it 
 occupied, but does not reimburse its construction cost.
@@ -654,12 +669,13 @@ Size:				1.2m x 1.2m x 2.4m
 Disrupt DC:			30
 Pwn DC:				70
 
-    The titan multipurpose drone is a bipedal megalith of death
-and science. Plasma induction core explodes violently when destroyed. 
-The titan comes with a 7.62 repeater that has a 2 chance to miss and deals 55 
-damage and has an armor piercing level of 4. Fed from a 150 round drum. May also 
-make melee attacks with its offhand with a +3 bonus. Deals 160 damage, kinda 
-like being punched by a backhoe.
+    The titan multipurpose drone is a bipedal megalith of death and science. 
+Plasma induction core explodes violently when destroyed. The titan comes with a 
+7.62 repeater that has a 2 chance to miss and deals 55 damage and has an armor 
+piercing level of 4 and an auto fire rate of 5. The repeater is a Heavy 
+suppression weapon fed from a 150 round drum. May also make melee attacks with 
+its offhand with a +3 bonus. Deals 160 damage, kinda like being punched by a 
+backhoe.
 
     When a drone is reclaimed, it frees up the control point cost that it 
 occupied, but does not reimburse its construction cost.
@@ -672,8 +688,15 @@ Modular I/O ports:	Uses 1 port
 Ammo:				Holds 20 shots
 Accuracy:			30%
 Damage:				40 points
-Range:				30m
+APL:                2
+Suppression:        Light
 Drone Health:		+15
+
++-------+-----+-----+-----+
+| Range | 10m | 25m | 40m |
++-------+-----+-----+-----+
+|  Acc  |  2  |  4  |  5  |
++-------+-----+-----+-----+
 
     A simple 9mm repeater module bolted to the universal adapter ports on a 
 drone. Reloading takes 2 Actions, but always succeeds and never crits. Drones 
@@ -701,14 +724,21 @@ Modular I/O ports:	Uses 1 port
 Ammo:				Holds 4 shots
 Accuracy:			20%
 Damage:				20 points
-Range:				20m
+APL:                2
+Suppression:        Cannot be used to suppress
+
++-------+-----+-----+-----+
+| Range |  5m | 10m | 20m |
++-------+-----+-----+-----+
+|  Acc  |  1  |  3  |  5  |
++-------+-----+-----+-----+
 
     How does 40 kV feel? Does 7x damage to shields. Does 4x damage to drones or 
 robotic enemies. If an enemy was hit with this attack, and the drone this was
 launched with has not yet left the 20m range (i.e. the tazer wires are still
 connected) you may spend one shot that automatically hits as a free action.
 Sentient targets hit by this attack must pass a DC 80 shock check to keep from
-being paralyzed on their following turn. 
+losing 3 Actions on their following turn. 
 
 == Peripheral: Armor	== 
 Type:				Peripheral
@@ -717,9 +747,21 @@ Build Time:			2 Actions
 Modular I/O ports:	Uses 1 port
 Coverage:			+50%
 Reduction:			20 points
-Drone health:		+46 points
 Slowdown:			1m/Action
-Sometimes, you just need a drone to be able to take a hit. Occupied I/O port 
+
++-----------+-----+-----+--------------+
+| Eginr Lvl | APL | APS | Health Added |
++-----------+-----+-----+--------------+
+|   > 6     |  1  | 50  |     +46      |
++-----------+-----+-----+--------------+
+| 5 <x < 11 |  3  | 110 |     +86      |
++-----------+-----+-----+--------------+
+| 10 <x< 16 |  5  | 140 |    +110      |
++-----------+-----+-----+--------------+
+|    < 15   |  7  | 160 |    +110      |
++-----------+-----+-----+--------------+
+
+    Sometimes, you just need a drone to be able to take a hit. Occupied I/O port 
 allows armor diagnostics and triggering of reactive ballistic cells.
 
 == Peripheral: Shield Capacitor	== 
@@ -740,13 +782,20 @@ Construction Cost:	40 Energy, 40 Material
 Build Time:			4 Actions
 Modular I/O ports:	Uses 3 ports
 Ammo:				Holds 60 shots
-Accuracy:			30%
 Damage:				20 points per bullet
-Range:				60m
+APL:                1
+Suppression Level:  Heavy
 Drone Health:		+20
 
-    Fires 3 bullets per shot which are individually rolled. In order to unlock,
-engineer must have unlocked antennae and shield capacitor peripherals.
++-------+-----+-----+-----+
+| Range | 15m | 40m | 80m |
++-------+-----+-----+-----+
+|  Acc  |  3  |  6  |  5  |
++-------+-----+-----+-----+
+
+    Can only be fired automatically. Must use an Action to 'Spin Up' before 
+being fired. Fires 6 shots per action. In order to unlock, an Engineer must have 
+unlocked antennae and shield capacitor peripherals.
 
 == Peripheral: Antennae	== 
 Type:				Peripheral
@@ -765,12 +814,18 @@ Construction Cost:	60 Energy, 40 Material and 1 Munitions
 Build Time:			2 Actions
 Modular I/O ports:	Uses 3 ports
 Ammo:				Holds 8 shots
-Accuracy:			30%
 Damage:				60 points
-Range:				50m
+APL:                3
+Suppression Level:  Light
 Drone Health:		+25
 
-    A cannon that fires explosive shrapnel rounds. + 30m range and -20% to miss
++-------+-----+-----+-----+
+| Range | 10m | 30m | 50m |
++-------+-----+-----+-----+
+|  Acc  |  2  |  4  |  5  |
++-------+-----+-----+-----+
+
+    A cannon that fires explosive shrapnel rounds. + 30m range and -2 to miss
 when firing on airborne targets. 10 points of damage inflicted in a 1m radius
 from impact. Each shot into a door reduces the DC of kicking down that door by
 65. If the DC becomes 0, the door is blown open.
@@ -781,12 +836,18 @@ Construction Cost:	80 Energy, 2 Munitions and 40 Material
 Build Time:			2 Actions
 Modular I/O ports:	Uses 1 port
 Ammo:				Holds 8 shots
-Accuracy:			50%
 Damage:				80 points
-Range:				80m
+Suppression Level:  Light
+APL:                9
 Drone health:		+25
 
-    Big Badda Boom. Gets a 30% accuracy increase to target that have an IR laser 
++-------+-----+-----+-----+
+| Range | 10m | 40m | 80m |
++-------+-----+-----+-----+
+|  Acc  |  4  |  6  |  7  |
++-------+-----+-----+-----+
+
+    Big Badda Boom. Gets a +3 accuracy increase to target that have an IR laser 
 shining on it. A hunter's mark's effect on this weapon is doubled. IR marks and
 hunter marks don't stack. 2 rocket hits count as an anti-vehicle hit. At level
 7, rocket damage is 110 points per rocket.
@@ -844,28 +905,37 @@ Health:			46 health
 Size:			.5m x .5m x .1m
 
     	You set up a recoil-dampening weapon stand that grants partial
-cover and a +10% accuracy bonus to whomever sets up here. Will fit in windows,
+cover and a +1 accuracy bonus to whomever sets up here. Will fit in windows,
 off the back of a truck, etc. Adheres to a solid, flat surface. Engineer who
 built it gets 10 Energy every time an ally hits a target using their gun mount.
-does not proc for an engineer using their own mount.
+There is no energy reward for an engineer using their own mount.
 
 
 == Gun Emplacement	== 
-Type: 		Structure
-Construction Cost:40 Energy, 1 Munitions and 40 Material
-Build Time:	2 Actions
-Duration: 	Permanent
-Health:		1 vehicle health
-Size:		1m x 1m x 1m
+Type: 		        Structure
+Construction Cost:  40 Energy, 1 Munitions and 40 Material
+Build Time:	        2 Actions
+Duration: 	        Permanent
+Health:		        1 vehicle health
+Size:		        1m x 1m x 1m
+Damage:             53
+APL:                3
+Suppression Level:  High
+Auto Fire Rate:     3
+
++-------+-----+-----+-----+
+| Range | 10m | 40m | 80m |
++-------+-----+-----+-----+
+|  Acc  |  3  |  5  |  6  |
++-------+-----+-----+-----+
 
     You piece together a heavy turret with a 200 round 5.56 caliber belt
 of ammo. The ballistic plate in front offers partial cover for whomever uses it.
-Each hit deals 53 damage and the gun has a 3 chance to miss. It cannot be 
-aimed, but it can be ripped off of its emplacement by a character that has 8 
+This weapon can be ripped off of its emplacement by a character that has 8 
 strength or more. When ripped off, the gun has an additional +1 chance to 
-miss. If the gun is fired four times, with four consecutive actions, the
+miss. If the gun is fired four times, with four consecutive Actions, the
 shooter gets a free fifth shot. Every hit that an ally (not you) makes with a
-turret that you placed gives you 30 Energy. Supporting Fire weapon.
+turret that you placed gives you 30 Energy. 
 
 == Snare == 
 Type:				Trap
@@ -893,25 +963,34 @@ Duration: 			Permanent
 Health:				50
 Size:				1m x 1m x 3m
 
-    		You assemble an active countermeasure system that eliminates 
-incoming explosive ordinance. When active, this system destroys any incoming 
-grenades, missiles, rockets or thrown weapons that it has line of sight to from 
-the top of its 3m mast within a 6m radius. Any incoming munitions are destroyed 
-before they can detonate. Cannot stop incoming bullets, lasers, or plasma. Will 
-stop some hostile Nanite attacks, see GM for specifics.
+    You assemble an active countermeasure system that eliminates incoming 
+explosive ordinance. When active, this system destroys any incoming grenades, 
+missiles, rockets or thrown weapons that it has line of sight to from the top of 
+its 3m mast within a 6m radius. Any incoming munitions are destroyed before they 
+can detonate. Cannot stop incoming bullets, lasers, or plasma. Will stop some 
+hostile Nanite attacks, see GM for specifics.
 
 == Sentry	== 
 Type: 		Structure
-Construction Cost: 30 Energy, 40 Material and 1 Munitions 
-Build Time:	4 Actions
-Duration: 	Permanent
-Health:		120
-Size:		1m x 1m x 2m
+Construction Cost:  30 Energy, 40 Material and 1 Munitions 
+Build Time:	        4 Actions
+Duration: 	        Permanent
+Health:		        120
+Size:		        1m x 1m x 2m
+Damage:             40
+APL:                2
+Auto Fire Rate:     4
+Suppression Level:  Medium
 
-    You set up a machinegun turret that aims and fires on its own. The 
-turret has a chance to miss of 3 and a range of 40m. Each hit deals 40 damage. 
-The sentry is vulnerable to firmware security breach at DC 60. The turret can 
-be affixed to any flat surface that is strong enough to support its weight. 
++-------+-----+-----+-----+
+| Range | 10m | 40m | 60m |
++-------+-----+-----+-----+
+|  Acc  |  2  |  4  |  8  |
++-------+-----+-----+-----+
+
+    You set up a machinegun turret that aims and fires on its own. The sentry is 
+vulnerable to firmware security breach at DC 60. The turret can be affixed to 
+any flat surface that is strong enough to support its weight. 
 
 == Claymore	== 
 Type:				Trap
@@ -947,15 +1026,15 @@ Duration: 	Permanent
 Health:		1 vehicle health
 Size:		2m x 2m x 2m
 
-    That's it. You've just had it with those ###holes behind cover over
-there taking potshots at you and your squad. This oughta teach 'em. You 
-construct a mortar tube and shell printer. Deals 65 damage in a 2m radius
-around a hit target with a chance to miss of 3. One shell "clip" takes 2 
-actions to reload. 130m range with a high arc. Ignores cover penalties if the 
-shell comes straight down on top of the target. Successful hits have a 30%
-chance to daze the target. Every hit that an ally (not you) makes with a
-mortar that you placed gives you 40 Energy. Each emplacement comes with 
-ten shells and may be refilled at a cost of 100 Energy.
+    That's it. You've just had it with those ###holes behind cover over there 
+taking potshots at you and your squad. This oughta teach 'em. You construct a 
+mortar tube and shell printer. Deals 65 damage in a 2m radius around a hit 
+target with a chance to miss of 3. One shell "clip" takes 2 actions to reload. 
+130m range with a high arc. Ignores cover penalties if the shell comes straight 
+down on top of the target. Successful hits have a 30% chance to daze the target. 
+Every hit that an ally (not you) makes with a mortar that you placed gives you 
+40 Energy. Each emplacement comes with ten shells and may be refilled at a cost 
+of 100 Energy.
 
 == IED	== 
 Type:				Trap
@@ -965,8 +1044,8 @@ Disarm DC:			80%
 Damage:				180 points or 3 vehicle damage
 Range:				5m radius
 
-    		May be detonated by proxy or remote. Requires some 
-explosive to be made with, i.e. mortar shells, grenades, det-cord, etc.
+    May be detonated by proxy or remote. Requires some explosive to be made 
+with, i.e. mortar shells, grenades, det-cord, etc.
 
 == Chain Sentry	== 
 Type:				Structure
@@ -975,24 +1054,28 @@ Build Time:			6 actions
 Duration:			Permanent
 Health:				1 Vehicle health
 Size:				1m x 1m x 1m
+Damage:             15
+APL:                1
+Suppression Level:  High
+Auto Fire Rate:     8
+Mags: 2 x 100 rd 5mm linked belts
+
++-------+-----+-----+-----+
+| Range | 10m | 40m | 60m |
++-------+-----+-----+-----+
+|  Acc  |  3  |  6  |  8  |
++-------+-----+-----+-----+
 
     Constructs an automated sentry turret armed with dual chainguns. The turret 
-gets it's own actions, and has the same initiative as the player who built it. 
+gets its own actions, and has the same initiative as the player who built it. 
 Hacking DC of 40 to jam. Repair DC of 60 to fix a jam. Hacking DC of 90 to Pwn. 
 Repair DC of 100 to purge a pwned sentry. Chain sentries come with 200 rounds. 
-The stats below are for the combined chainguns. They may not be fired 
+The stats above are for the combined chainguns. They may not be fired 
 independently. Turns slowly; to change targets more than 90 degrees takes 2 
 actions. Uses visible spectrum target identification.
 
-Range: 60m
-Miss: 3
-Mags: 2 x 100 rd 5mm linked belts
-Damage: 15 per bullet
-Fire Rate: Fires five bullets per action
-
-    Even though Chain sentries fires 5 bullets per action, only two bullets 
-every burst proc any per-bullet effects. Chain sentries provide the Supporting 
-Fire effect.
+    Even though Chain sentries fires 8 bullets per action, only two bullets 
+every burst proc any per-bullet effects.
 
 == Reverse engineer	== 
 Type:			Action
@@ -1050,6 +1133,15 @@ Build Time:		6 Actions
 Duration:		Permanent
 Health:			2 Vehicle Health
 Size:			2m x 2m x 2m
+Damage:         80 points
+APL:            9
+Suppression Level: Light
+
++-------+-----+-----+-----+
+| Range | 10m | 30m | 80m |
++-------+-----+-----+-----+
+|  Acc  |  3  |  6  |  8  |
++-------+-----+-----+-----+
 
     You shall not pass! You set up a sentry turret armed with smart rockets. 
 Hacking DC of 40 to jam. Repair DC of 60 to fix a jam. Hacking DC of 90 to Pwn. 
@@ -1057,11 +1149,8 @@ Repair DC of 100 to purge a pwned sentry. Sentry comes with 20 rockets. Rocket
 turret tracks with visible spectrum unless a friendly IR is being shined. In 
 which case, the turret can only see what is designated.
 
-Accuracy:	5 to miss
-Damage:		80 points
-Range:		80m
 
-    Big Badda Boom. Gets a 30% accuracy increase to target that have an IR laser 
+    Big Badda Boom. Gets a +3 accuracy increase to target that have an IR laser 
 shining on it. A hunter's mark's effect on this weapon is doubled. IR marks and
 hunter marks don't stack. 2 rocket hits count as an anti-vehicle hit. 
 
@@ -1150,6 +1239,14 @@ Range:			60m
 Accuracy:		25% to miss
 Clip:			4
 Damage:			60 within 1m radius of hit.
+Suppression Level: Light
+APL:            4
+
++-------+-----+-----+-----+
+| Range | 5m  | 20m | 60m |
++-------+-----+-----+-----+
+|  Acc  |  2  |  3  |  4  |
++-------+-----+-----+-----+
 
     "I uh... haven't figured out how to fit the cartridge into a magazine 
 without it ... you know... exploding. But what's in it should work just fine." 
@@ -1192,13 +1289,20 @@ Size:				1m x .6m x .8m
 Disrupt DC:			60
 Pwn DC:				90
 
++-------+------+------+-----+
+| Range |  3m  | 10m  | 20m |
++-------+------+------+-----+ 
+| Damage|  80  |  65  |  50 |   
++-------+------+------+-----+
+| Acc   |   2  |   4  |  5  | 
++-------+------+------+-----+
+
     You construct a quadrupedal drone and upload the canine AI to it's 
 processor. You imprint your team's hunter upon it. The pointer comes 
 prefabricated with a head-mounted 12-gauge peripheral with 10 shots. It also has 
 a "point" behavior which it uses to highlight targets for its master. The hunter 
-who owns the pointer gets -15% to miss a highlighted target. A pointer cannot 
-fire while pointing. Pointers are not quiet and cap stealth scores at 80. 
-Shotgun deals 80 dam out to 3m, 65 out to 10m, 50 out to 20m.
+who owns the pointer gets -2 to miss a highlighted target. A pointer cannot 
+fire while pointing. Pointers are not quiet and cap stealth scores at 80.
 
 == Medic Drone	== 
 Type:			Drone
@@ -1224,15 +1328,19 @@ Type:			Disposable munition system
 Build Cost:		60 Energy, 40 Material and 1 Munition
 Build Time:		2 Actions
 Duration:		until it runs out of ammo
-Range:			500m
-Accuracy:		25%
 Clip:			4 Ni U Rods
 Damage:			120 points, ignores armor.
+
++-------+------+------+-----+
+| Range |  20m |  60m |100m |
++-------+------+------+-----+
+| Acc   |   2  |   4  |  6  | 
++-------+------+------+-----+
 
     You assemble a large antimatter slug impeller on the ground and instruct 
 your weapons specialist to pick it up and use it until the cannister runs out. 
 You explain that he shouldn't drop it, but don't break his brain with the 
-physics behind it. The engineer that deploys this gets 30 Energy per hit with 
+physics behind it. The Engineer that deploys this gets 30 Energy per hit with 
 this weapon.
 
 == Cloaking Capacitor	== 
