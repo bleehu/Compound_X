@@ -398,7 +398,7 @@ table, below.
 +-------+---------------------------------------------------------------------------------------+
 | 1-2   | Your primary weapon malfunctions/breaks and you cannot use it until DC 60 repaired    |
 +-------+---------------------------------------------------------------------------------------+
-| 3-4   | You cannot crit or critically succeed (in any form) in this encounter                 |
+| 3-4   | You cannot critically hit or critically succeed (in any form) in this encounter       |
 +-------+---------------------------------------------------------------------------------------+
 | 5-6   | You trip and hurt yourself, take 15 damage and lose three actions from your 1st turn  |
 +-------+---------------------------------------------------------------------------------------+
@@ -875,7 +875,7 @@ down, is added to your critical hit range. Which means, if you have a Luck stat
 of 8 (and thus, by the equation, +1 to your critical hit range), an attack roll 
 of 9-10 would be considered a critical hit.
 
-	Weapons with a high fire rate cannot crit (weapons that shoot more 
+	Weapons with a high fire rate cannot critically hit (weapons that shoot more 
 than 1 bullet per Action by default).
 
 Armor and Getting Hit:
