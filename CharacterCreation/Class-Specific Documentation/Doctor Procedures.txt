@@ -325,12 +325,11 @@ Contagion Cost: 1 Contagion
 Duration: 	almost instantaneous
 Range:		Payload (use in combination with other powers)
     A biologic target afflicted with this poison must succeed on a DC 110 FORT 
-save or the target takes 180 damage that ignores shields and armor and silences 
-the target. If the target succeeds on their save, they take 60 damage instead. A 
-silenced target is prevented from using abilities that use Nanites for 10 turns. 
-(Also prevents Engineering Processes and Doctor Procedures due to violent 
-tremors). At level 13, damage increases to 220. Does not prevent unarmed or 
-attacks with guns or melee weapons.
+save or the target takes 180 damage that ignores shields and armor and Disrupts 
+the target for up to 10 turns or a WILL save of DC 92 whichever is first. If the 
+target succeeds on their save, they take 60 damage instead. See 
+"01_02_conditions.txt" for the Disrupted Condition. At level 13, damage 
+increases to 220. Does not prevent unarmed or attacks with guns or melee weapons.
 
 ==Plague ==
 Adrenaline Cost: 250 Points
