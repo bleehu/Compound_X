@@ -18,12 +18,6 @@ Every 2 turns, the degree of the burn intensifies
     Your health has fallen below 0. See the "Death and Dying" section in the 
 Basic Rules Document.
 
-== Disrupted ==
-
-    You cannot use Nanite abilities, Doctor Procedures, Engineer Processes or 
-Hacker Exploits. Many similar abilities are also prone to Disruption. If they
-are not on this list, consult your GM. 
-
 == Frozen ==
 
     d10 damage per turn. lasts until a source of heat is applied to the wound, 
