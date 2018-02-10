@@ -343,11 +343,12 @@ Charisma (CHA):
 number of interpersonal skills like haggling and diplomacy. It also contributes 
 to how hard it is to dominate your will.
 
-	If you have 1 Charisma, you have a debilitating speech impediment. You have
-an additional malus of -24 when using Speech, Deceive, and etc. skill. Under 
-normal circumstances, you have to succeed a DC 30 CHA skill check in order to 
-communicate with a non-player character (NPC). In combat, vocal communication to 
-anything costs 1 Action.
+	If you have 1 Charisma, you are profoundly unlikable and bad at influencing
+others. Every time you buy a weapon or armor, the seller charges you 20% more.
+Yes, in fact you are so unlikeable that the AI in the vending machines try (and
+usually succeed) to upcharge you. You also can't work as a team well enough to
+receive flanking bonuses in melee combat (but other teammates can benefit from
+your flanking). 
 
 	If you have 6 or more Charisma you gain the feat "Will to Survive". The feat 
 scales depending on how many points you have in Charisma. Or, if you have 9 or 
