@@ -2,7 +2,8 @@
 RANGED WEAPONS
 ==============================
     Outside a weapon's longest range, you cannot hit your target.
-Also, weapons cannot shoot over 100m without magnifying sights, or over 150m without 2x+ magnification.
+Also, weapons cannot shoot over 100m without magnifying sights, or over 150m 
+without 2x+ magnification.
 
 ==============================
 MACHINE GUNS
@@ -10,346 +11,434 @@ MACHINE GUNS
     For sustained automatic fire, machine-guns are the first choice.
 Minimum Strength 6. Reload time is 3 Actions. Jam range 2%.
 
-- All Machine-Guns have "Suppression Level - Heavy" (unless otherwise noted).
+	All Machine-Guns have "Suppression Level - Heavy" (unless otherwise noted).
 
 ===== Level 1 Weapons =====
 
-----ECSC Mk15R2	$2197	----
-Damage:	80 Ballistic	
-Ranged Miss Chance:		
-	3 out to 15m	
-	4 out to 45m	
-	5 out to 90m	
-Auto Miss Chance:	+3,  -1 for every 6 Strength	
-Mag Size:		60 rounds of 5.00x38mm. $36 per magazine
-Reload DC:		40
-Fire Modes:		Auto
-Auto Fire Rate: 	6	
-Armor Piercing Level:	1	
-Reflex Modifier:	-15	
-Movement Speed Penalty:	-2m	
-		
-----Anvil Arms KMR4	$2854	----
-Damage:	95 Ballistic	
-Ranged Miss Chance:		
-	3 out to 15m	
-	4 out to 40m	
-	5 out to 85m	
-Auto Miss Chance:	+5,  -1 for every 3 Strength (starting at 5)	
-Mag Size:		80 rounds of 7.65x45mm. $57 per magazine
-Reload DC:		40
-Fire Modes:		Semi, Auto
-Auto Fire Rate: 	6	
-Armor Piercing Level:	2	
-Reflex Modifier:	-20	
-Movement Speed Penalty:	-2.5m	
+==ECSC Mk15R2 $2197 ==
+
+Damage: 80 Ballistic
+Auto Miss Chance: +3,  -1 for every 6 Strength
+Mag Size:  60 rounds of 5.00x38mm. $36 per magazine
+Reload DC:  40
+Fire Modes:  Auto
+Auto Fire Rate:  6
+Armor Piercing Level: 1
+Reflex Modifier: -15
+Movement Speed Penalty: -2m
+
+	Ranged Miss Chance
+
+* 3 out to 15m
+* 4 out to 45m
+* 5 out to 90m
+ 
+==Anvil Arms KMR4 $2854 ==
+
+Damage: 95 Ballistic
+Auto Miss Chance: +5,  -1 for every 3 Strength (starting at 5)
+Mag Size:  80 rounds of 7.65x45mm. $57 per magazine
+Reload DC:  40
+Fire Modes:  Semi, Auto
+Auto Fire Rate:  6
+Armor Piercing Level: 2
+Reflex Modifier: -20
+Movement Speed Penalty: -2.5m
+
+	Ranged Miss Chance
+
+* 3 out to 15m
+* 4 out to 40m
+* 5 out to 85m
 
 ===== Level 5 Weapons =====
 
-----ECSC Mk249 	$2555	----
-Damage:	85 Ballistic	
-Ranged Miss Chance:		
-	3 out to 15m	
-	4 out to 50m	
-	5 out to 90m	
-Auto Miss Chance:	+3,  -1 for every 6 Strength	
-Mag Size:		100 rounds of 5.00x45mm. $59 per magazine
-Reload DC:		40
-Fire Modes:		Auto
-Auto Fire Rate: 	7	
-Armor Piercing Level:	3	
-Reflex Modifier:	-20	
-Movement Speed Penalty:	-2m	
-		
-----Frontier LMG-P8	$3543	----
-Damage:	100 Plasma + 1x Plasma Burn
-Ranged Miss Chance:		
-	2 out to 15m	
-	4 out to 45m	
-	5 out to 80m	
-Auto Miss Chance:	+3,  -1 for every 6 Strength	
-Mag Size:		40 units of Argon-8. $40 per magazine
-Reload DC:		40
-Fire Modes:		Auto
-Auto Fire Rate: 	6	
-Armor Piercing Level:	4	
-Reflex Modifier:	-30		
-Movement Speed Penalty:	-2m
-		
-----Matthews Model 240-B 	$4450	----
-Damage:	105 Ballistic	
-Ranged Miss Chance:		
-	2 out to 15m	
-	3 out to 50m	
-	4 out to 90m	
-Auto Miss Chance:	+6,  -1 for every 3 Strength (starting at 5)	
-Mag Size:		80 rounds of 7.65x51mm. $58 per magazine
-Reload DC:		30
-Fire Modes:		Auto
-Auto Fire Rate: 	6	
-Armor Piercing Level:	4	
-Reflex Modifier:	-30	
-Movement Speed Penalty:	-2.5m
+== ECSC Mk249  $2555 ==
+
+Damage: 85 Ballistic
+Auto Miss Chance: +3,  -1 for every 6 Strength
+Mag Size:  100 rounds of 5.00x45mm. $59 per magazine
+Reload DC:  40
+Fire Modes:  Auto
+Auto Fire Rate:  7
+Armor Piercing Level: 3
+Reflex Modifier: -20
+Movement Speed Penalty: -2m
+
+	Ranged Miss Chance
+
+* 3 out to 15m
+* 4 out to 50m
+* 5 out to 90m
+ 
+== Frontier LMG-P8 $3543 ==
+
+Damage: 100 Plasma + 1x Plasma Burn
+Auto Miss Chance: +3,  -1 for every 6 Strength
+Mag Size:  40 units of Argon-8. $40 per magazine
+Reload DC:  40
+Fire Modes:  Auto
+Auto Fire Rate:  6
+Armor Piercing Level: 4
+Reflex Modifier: -30 
+Movement Speed Penalty: -2m
+
+	Ranged Miss Chance
+
+* 2 out to 15m
+* 4 out to 45m
+* 5 out to 80m
+ 
+==Matthews Model 240-B  $4450 ==
+
+Damage: 105 Ballistic
+Auto Miss Chance: +6,  -1 for every 3 Strength (starting at 5)
+Mag Size:  80 rounds of 7.65x51mm. $58 per magazine
+Reload DC:  30
+Fire Modes:  Auto
+Auto Fire Rate:  6
+Armor Piercing Level: 4
+Reflex Modifier: -30
+Movement Speed Penalty: -2.5m
+
+	Ranged Miss Chance
+
+* 2 out to 15m
+* 3 out to 50m
+* 4 out to 90m
 
 ===== Level 10 Weapons =====
 
-----Partix Laser LMA210	$5111	----
-Damage:	75 Laser	
-Ranged Miss Chance:		
-	2 out to 15m	
-	3 out to 70m	
-	3 out to 95m	
-Auto Miss Chance:	+5,  -1 for every 4 Strength	
-Mag Size:		60 charges of 50kWh. $55 per magazine
-Reload DC:		35
-Fire Modes:		Semi, Auto
-Auto Fire Rate: 	6	
-Armor Piercing Level:	n/a	
-Reflex Modifier:	-30	
-Movement Speed Penalty:	-2.5m	
-		
-----Frontier LMG-P10	$6132	----
-Damage:	120 Plasma + 1x Plasma Burn	
-Ranged Miss Chance:		
-	2 out to 15m	
-	3 out to 55m	
-	5 out to 90m	
-Auto Miss Chance:	+3,  -1 for every 6 Strength	
-Mag Size:		50 units of Argon-8. $59 per magazine
-Reload DC:		40
-Fire Modes:		Auto
-Auto Fire Rate: 	6	
-Armor Piercing Level:	5	
-Reflex Modifier:	-30		
-Movement Speed Penalty:	-3m	
+==Partix Laser LMA210 $5111 ==
 
-==============================							
+Damage: 75 Laser
+Auto Miss Chance: +5,  -1 for every 4 Strength
+Mag Size:  60 charges of 50kWh. $55 per magazine
+Reload DC:  35
+Fire Modes:  Semi, Auto
+Auto Fire Rate:  6
+Armor Piercing Level: n/a
+Reflex Modifier: -30
+Movement Speed Penalty: -2.5m
+
+	Ranged Miss Chance
+
+* 2 out to 15m
+* 3 out to 70m
+* 3 out to 95m
+ 
+==Frontier LMG-P10 $6132 ==
+
+Damage: 120 Plasma + 1x Plasma Burn
+Auto Miss Chance: +3,  -1 for every 6 Strength
+Mag Size:  50 units of Argon-8. $59 per magazine
+Reload DC:  40
+Fire Modes:  Auto
+Auto Fire Rate:  6
+Armor Piercing Level: 5
+Reflex Modifier: -30 
+Movement Speed Penalty: -3m
+
+	Ranged Miss Chance
+
+* 2 out to 15m
+* 3 out to 55m
+* 5 out to 90m
+
+==============================      
 HEAVY WEAPONS
-==============================				
-    "Michael, what are these things again? One of these has multi-spinning barrels and another							
-spits lightning like a wozerd."							
-Do you want to consume your foes in hails of expensive bullets? Well, you're in the right place.							
-(use-with-caution.-some-weapons-have-been-known-to-cause-cancer-in-the-state-of-_REDACTED_.-							
-If-you-experience-urges-to-light-people-on-fire-or-scream-maniacally-this-may-be-a-sign-of-a-							
-serious-condition-please-consult-with-your-local-space-physician)							
-Minimum Strength 6. Reload time is 3 Actions.						
-							
+==============================   
+    "Michael, what are these things again? One of these has multi-spinning 
+barrels and another spits lightning like a wozerd."
+
+	Do you want to consume your foes in hails of expensive bullets? Well, you're 
+in the right place. (use-with-caution.-some-weapons-have-been-known-to-cause-
+cancer-in-the-state-of-_REDACTED_.-If-you-experience-urges-to-light-people-on-
+fire-or-scream-maniacally-this-may-be-a-sign-of-a-serious-condition-please-
+consult-with-your-local-space-physician)      
+
+	Minimum Strength 6. Reload time is 3 Actions.     
+      
 ===== Level 1 Weapons =====
 
-----Frontier Flame Thrower FLMR	$1774	----
-Damage:	100 Special	
-Ranged Miss Chance:		
-	2 out to 10m	
-	4 out to 15m	
-	5 out to 20m	
-Mag Size:		14 units of 4 liters, Naphitic Gel. $200 per magazine
-Reload DC:		50
-Fire Modes:		Semi
-Armor Piercing Level:	n/a	
-Reflex Modifier:	-20	
-Suppression Level:	Medium*	
-Movement Speed Penalty:	-2m	
-Notes/Description:	Requires 2 shots for Medium Suppression. Catches flammable objects on fire. Not affected by armor, unless 
-target is 100% sealed. If target took damage, apply 1xBurning@ DC70% to remove. Apply 1xFear on hit. No optics or barrel attachments.	
-		
-----Anvil Arms XM-50 Microgun	$2135	----
-Damage:	40 Ballistic	
-Ranged Miss Chance:		
-	4 out to 15m	
-	5 out to 30m	
-	6 out to 70m	
-Mag Size:		200 rounds of 5.00x17mm. $140 per magazine
-Reload DC:		60
-Fire Modes:		Special
-Armor Piercing Level:	0	
-Reflex Modifier:	-20	
-Suppression Level:	Heavy	
-Movement Speed Penalty:	-2m	
-Notes/Description:	Requires 1 Action of spin-up time. Fires 20 bullets (roll once for two bullets for miss chance, but once per
-bullet on armor rolls) per Action, round down. Jam range 2%. No optics, barrel attachments or extended mags. Requires 4 strength to 
-lug around, 5 to use.	
+==Frontier Flame Thrower FLMR $1774 ==
+
+Damage: 100 Special
+Mag Size:  14 units of 4 liters, Naphitic Gel. $200 per magazine
+Reload DC:  50
+Fire Modes:  Semi
+Armor Piercing Level: n/a
+Reflex Modifier: -20
+Suppression Level: Medium*
+Movement Speed Penalty: -2m
+
+	Requires 2 shots for Medium Suppression. Catches flammable objects on fire. 
+Not affected by armor, unless target is 100% sealed. If target took damage, 
+apply 1 x Burning @ DC70% to remove. Apply 1 x Fear on hit. No optics or barrel 
+attachments.
+
+	Ranged Miss Chance
+
+* 2 out to 10m
+* 4 out to 15m
+* 5 out to 20m
+ 
+==Anvil Arms XM-50 Microgun $2135 ==
+
+Damage: 40 Ballistic
+Mag Size:  200 rounds of 5.00x17mm. $140 per magazine
+Reload DC:  60
+Fire Modes:  Special
+Armor Piercing Level: 0
+Reflex Modifier: -20
+Suppression Level: Heavy
+Movement Speed Penalty: -2m
+
+	Requires 1 Action of spin-up time. Fires 20 bullets (roll once for two 
+bullets for miss chance, but once per bullet on armor rolls) per Action, round 
+down. Jam range 2%. No optics, barrel attachments or extended mags. Requires 4 
+strength to lug around, 5 to use.
+
+	Ranged Miss Chance
+
+* 4 out to 15m
+* 5 out to 30m
+* 6 out to 70m
 
 ===== Level 5 Weapons =====
 
-----Matthews TX-6 Rotary Grenade Launcher	$2705	----
-Damage:	see notes	
-Ranged Miss Chance:		
-	3 out to 10m	
-	4 out to 30m	
-	5 out to 60m	
-Mag Size:		6 rounds of 40mm Grenades. $?? per magazine
-Reload DC:		50
-Fire Modes:		Semi
-Armor Piercing Level:	x	
-Reflex Modifier:	-15	
-Suppression Level:	n/a	
-Movement Speed Penalty:	-1m	
-Notes/Description:	Ammo cost is 1/2 the cost of the respective grenade. Considered a secondary weapon. Requires an explosives
-skill of at least 10 to use. Accuracy only increased by grenade launcher attachments, PER mod, and [explosives skill]/20. All 40mm
-grenades explode on impact (DC 100% PER or LUCK check to dodge or take reduced damage) and have a -1m max explosion radius, unless
-otherwise stated. 2 Action reload.	
-		
-----Partix LX Lightning Gun	$2693	----
-Damage:	100 Special	
-Ranged Miss Chance:		
-	2 out to 10m	
-	3 out to 25m	
-	5 out to 40m	
-Mag Size:		10 charges of 50kWh . $100 per magazine
-Reload DC:		40
-Fire Modes:		Semi
-Armor Piercing Level:	n/a	
-Reflex Modifier:	-15	
-Suppression Level:	Medium*	
-Movement Speed Penalty:	-2m	
-Notes/Description:	Requires 2 shots for Medium suppression. Roll 50% luck for the closest target within 3m of  the primary, on
-success, they take 70 electrical damage. If there are ties, only one secondary target takes damage. Destroys electronics. All 
-affected targets must make a DC 70% Fort save. On failure, stunned for 1 turn. Not affected by armor. Requires 6 STR and 6 INT 
-to use. No optics or barrel attachments. Blocked by shields	
-		
-----Shiva Light-Antimaterial Rifle SARL	$3115	----
-Damage:	200 Ballistic	
-Ranged Miss Chance:		
-	3 out to 15m	
-	4 out to 40m	
-	5 out to 100m	
-Mag Size:		1 rounds of 12.0x100mm. $80 per magazine
-Reload DC:		35
-Fire Modes:		Semi
-Armor Piercing Level:	6	
-Reflex Modifier:	-25	
-Suppression Level:	Medium*	
-Movement Speed Penalty:	-1.5m	
-Notes/Description:	Only requires 1 shot for Medium Suppression. Considered a secondary weapon. Damages vehicles and pierces
-certain kinds of light cover. If the shot does not pierce armor, inflict damage/3 explosive damage. AP bullets have +1 AP over 
-listed value when used in this gun. 2 action reload time.	
-		
-----Anvil Arms XM-500 Minigun	$4477	----
-Damage:	50 Ballistic
-Ranged Miss Chance:		
-	4 out to 15m	
-	5 out to 40m	
-	6 out to 90m	
-Mag Size:		300 rounds of 5.00x24mm. $270 per magazine
-Reload DC:		60
-Fire Modes:		Special
-Armor Piercing Level:	1	
-Reflex Modifier:	-25	
-Suppression Level:	Heavy	
-Movement Speed Penalty:	-3m	
-Notes/Description:	Requires 1 Action of spin-up time. Fires 20 bullets (roll once for two bullets for miss chance, but once per
-bullet on armor rolls) per Action, round down. Jam range 2%. No optics, barrel attachments or extended mags. Requires 5 strength to 
-lug around, 6 to use.	
+==Matthews TX-6 Rotary Grenade Launcher $2705 ==
+
+Damage: see notes
+Mag Size:  6 rounds of 40mm Grenades. $?? per magazine
+Reload DC:  50
+Fire Modes:  Semi
+Armor Piercing Level: x
+Reflex Modifier: -15
+Suppression Level: n/a
+Movement Speed Penalty: -1m
+
+	Ammo cost is 1/2 the cost of the respective grenade. Considered a secondary 
+weapon. Requires an explosives skill of at least 10 to use. Accuracy only 
+increased by grenade launcher attachments, PER mod, and [explosives skill]/20. 
+All 40mm grenades explode on impact (DC 100% PER or LUCK check to dodge or take 
+reduced damage) and have a -1m max explosion radius, unless otherwise stated. 2 
+Action reload.
+
+
+	Ranged Miss Chance 
+
+* 3 out to 10m
+* 4 out to 30m
+* 5 out to 60m
+ 
+==Partix LX Lightning Gun $2693 ==
+
+Damage: 100 Special
+Mag Size:  10 charges of 50kWh . $100 per magazine
+Reload DC:  40
+Fire Modes:  Semi
+Armor Piercing Level: n/a
+Reflex Modifier: -15
+Suppression Level: Medium*
+Movement Speed Penalty: -2m
+
+	Requires 2 shots for Medium suppression. Roll 50% luck for the closest 
+target within 3m of  the primary, on success, they take 70 electrical damage. If 
+there are ties, only one secondary target takes damage. Destroys electronics. 
+All affected targets must make a DC 70% Fort save. On failure, stunned for 1 
+turn. Not affected by armor. Requires 6 STR and 6 INT to use. No optics or 
+barrel attachments. Blocked by shields
+
+
+	Ranged Miss Chance 
+
+* 2 out to 10m
+* 3 out to 25m
+* 5 out to 40m
+
+==Shiva Light-Antimaterial Rifle SARL $3115 ==
+
+Damage: 200 Ballistic
+Mag Size:  1 rounds of 12.0x100mm. $80 per magazine
+Reload DC:  35
+Fire Modes:  Semi
+Armor Piercing Level: 6
+Reflex Modifier: -25
+Suppression Level: Medium*
+Movement Speed Penalty: -1.5m
+
+	Only requires 1 shot for Medium Suppression. Considered a secondary weapon. 
+Damages vehicles and pierces certain kinds of light cover. If the shot does not 
+pierce armor, inflict damage/3 explosive damage. AP bullets have +1 AP over 
+listed value when used in this gun. 2 action reload time.
+ 
+	Ranged Miss Chance 
+
+* 3 out to 15m
+* 4 out to 40m
+* 5 out to 100m
+
+==Anvil Arms XM-500 Minigun $4477 ==
+
+Damage: 50 Ballistic
+Mag Size:  300 rounds of 5.00x24mm. $270 per magazine
+Reload DC:  60
+Fire Modes:  Special
+Armor Piercing Level: 1
+Reflex Modifier: -25
+Suppression Level: Heavy
+Movement Speed Penalty: -3m
+
+	Requires 1 Action of spin-up time. Fires 20 bullets (roll once for two 
+bullets for miss chance, but once per bullet on armor rolls) per Action, round 
+down. Jam range 2%. No optics, barrel attachments or extended mags. Requires 5 
+strength to lug around, 6 to use.
+
+    Ranged Miss Chance
+
+* 4 out to 15m
+* 5 out to 40m
+* 6 out to 90m
 
 ===== Level 10 Weapons =====
 
-----G&W AA-29 Personal Flack Cannon	$2886	----
-Damage:	see notes	
-Ranged Miss Chance:		
-	2 out to 10m	
-	3 out to 20m	
-	4 out to 50m	
-Mag Size:		12 rounds of 35mm shells (Flechette). $50 per magazine
-Reload DC:		40
-Fire Modes:		Semi
-Armor Piercing Level:	2	
-Reflex Modifier:	-20	
-Suppression Level:	Medium*	
-Movement Speed Penalty:	-3m	
-Notes/Description:	*Requires 3 shots for Medium suppression. 60x3 dam out to 10m, 50x3 out to 20m, 37x3 out to 50m. Hits every
-hit-able part of the body (e.g.: 60 damage to chest, legs, and arms @ 5m) (automatically hits armor if present). Hits all targets 1m
-adjacent to the primary target after 10m. 2m adjacent to the primary target after 20m. No optics or barrel attachments.	
-		
-----Strudwick Arms Ultralight Autocannon UA-6C	$3896	----
-Damage:	see notes	
-Ranged Miss Chance:		
-	3 out to 15m	
-	4 out to 30m	
-	5 out to 90m	
-Mag Size:		4 rounds of 20mm vicinity detonating HE rounds. $100 per magazine
-Reload DC:		30
-Fire Modes:		Semi
-Armor Piercing Level:	n/a	
-Reflex Modifier:	-30	
-Suppression Level:	Medium*	
-Movement Speed Penalty:	-3m	
-Notes/Description:	Only requires 1 shot for Medium Suppression. 110 Explosive Damage to the primary target, 70 Explosive Damage
-to other targets in a 2m radius. Damages vehicles. Each shot into a door reduces the DC of kicking down that door by 65. If the 
-DC becomes 0, the door is blown open. No optics or barrel attachments.	
-		
-----Shiva Antimaterial Rifle SAR	$7144	----
-Damage:	300 Ballistic
-Ranged Miss Chance:		
-	3 out to 15m	
-	4 out to 50m	
-	5 out to 120m	
-Mag Size:		1 rounds of 13.0x120mm. $150 per magazine
-Reload DC:		35
-Fire Modes:		Semi
-Armor Piercing Level:	8	
-Reflex Modifier:	-25	
-Suppression Level:	Medium*	
-Movement Speed Penalty:	-3m	
-Notes/Description:	Only requires 1 shot for Medium Suppression. Considered a secondary weapon. Damages vehicles and pierces
-certain kinds of light cover. If the shot does not pierce armor, inflict damage/3 explosive damage. AP bullets have +1 AP over 
-listed value when used in this gun. 2 action reload time.	
+==G&W AA-29 Personal Flack Cannon $2886 ==
+
+Damage: see notes
+Mag Size:  12 rounds of 35mm shells (Flechette). $50 per magazine
+Reload DC:  40
+Fire Modes:  Semi
+Armor Piercing Level: 2
+Reflex Modifier: -20
+Suppression Level: Medium*
+Movement Speed Penalty: -3m
+
+    Ranged Miss Chance
+
+* 2 out to 10m
+* 3 out to 20m
+* 4 out to 50m
+
+*Requires 3 shots for Medium suppression. 60x3 dam out to 10m, 50x3 out to 
+20m, 37x3 out to 50m. Hits every hit-able part of the body (e.g.: 60 damage to 
+chest, legs, and arms @ 5m) (automatically hits armor if present). Hits all 
+targets 1m adjacent to the primary target after 10m. 2m adjacent to the primary 
+target after 20m. No optics or barrel attachments.
+ 
+==Strudwick Arms Ultralight Autocannon UA-6C $3896 ==
+
+Damage: see notes
+Mag Size:  4 rounds of 20mm vicinity detonating HE rounds. $100 per magazine
+Reload DC:  30
+Fire Modes:  Semi
+Armor Piercing Level: n/a
+Reflex Modifier: -30
+Suppression Level: Medium*
+Movement Speed Penalty: -3m
+
+    Ranged Miss Chance
+
+* 3 out to 15m
+* 4 out to 30m
+* 5 out to 90m
+
+	Only requires 1 shot for Medium Suppression. 110 Explosive Damage to the 
+primary target, 70 Explosive Damage to other targets in a 2m radius. Damages 
+vehicles. Each shot into a door reduces the DC of kicking down that door by 65. 
+If the DC becomes 0, the door is blown open. No optics or barrel attachments.
+ 
+==Shiva Antimaterial Rifle SAR $7144 ==
+
+Damage: 300 Ballistic
+Mag Size:  1 rounds of 13.0x120mm. $150 per magazine
+Reload DC:  35
+Fire Modes:  Semi
+Armor Piercing Level: 8
+Reflex Modifier: -25
+Suppression Level: Medium*
+Movement Speed Penalty: -3m
+
+	Only requires 1 shot for Medium Suppression. Considered a secondary weapon. 
+Damages vehicles and pierces certain kinds of light cover. If the shot does not 
+pierce armor, inflict damage/3 explosive damage. AP bullets have +1 AP over 
+listed value when used in this gun. 2 action reload time.
+
+    Ranged Miss Chance
+    
+* 3 out to 15m
+* 4 out to 50m
+* 5 out to 120m
 
 ==============================
 ROCKET LAUNCHERS
 ==============================
+
     One rocket takes the space of 2 secondary magazine slots. 
 Rocket Launchers are considered secondary weapons.
 Minimum Strength 6. Reload time is 3 Actions.
 
-=====	LEVEL 5 REQUIREMENT WEAPONS	=====
+===== LEVEL 5 REQUIREMENT WEAPONS =====
 
-----ECSC RPE-B7	$2308	----	
-Damage:	120 Explosive Damage
+==ECSC RPE-B7 $2308 ==
+
+Damage: 120 Explosive Damage
 Damage Radius: 5m radius
-Ranged Miss Chance:		
-	3 out to 10m	
-	4 out to 40m	
-	5 out to 80m	
-Mag Size:		1 round of 40mm Self-propelled HE Rocket. $150 per rocket
-Reload DC:		40
-Fire Modes:		Single-shot
-Armor Piercing Level:	N/a	
-Reflex Modifier:	-35	
-Suppression Level:	N/a	
-Movement Speed Penalty:	-1m	
-	
-=====	LEVEL 10 REQUIREMENT WEAPONS	=====
-	
-----ECSC RPE-CLS8	$6168	----
-Damage:	100 Explosive Damage	
+Mag Size:  1 round of 40mm Self-propelled HE Rocket. $150 per rocket
+Reload DC:  40
+Fire Modes:  Single-shot
+Armor Piercing Level: N/a
+Reflex Modifier: -35
+Suppression Level: N/a
+Movement Speed Penalty: -1m
+
+    Ranged Miss Chance
+
+* 3 out to 10m
+* 4 out to 40m
+* 5 out to 80m
+
+===== LEVEL 10 REQUIREMENT WEAPONS =====
+
+==ECSC RPE-CLS8 $6168 ==
+
+Damage: 100 Explosive Damage
 Damage Radius: 8m radius
-Ranged Miss Chance:		
-	3 out to 10m	
-	4 out to 40m	
-	5 out to 100m	
-Mag Size:		1 round of 50mm Self-propelled HE MIRV-guided missile. $300 per missile
-Reload DC:		50
-Fire Modes:		Single-shot
-Armor Piercing Level:	N/a	
-Reflex Modifier:	-35	
-Suppression Level:	N/a	
-Movement Speed Penalty:	-1m	
-Notes/Description:	All affected targets roll DC 50 shock to resist stun for 1 turn.
-		
-----Anvil Arms AT-20	$5599	----
-Damage:	150 Explosive Damage
+Mag Size:  1 round of 50mm Self-propelled HE MIRV-guided missile. $300 per missile
+Reload DC:  50
+Fire Modes:  Single-shot
+Armor Piercing Level: N/a
+Reflex Modifier: -35
+Suppression Level: N/a
+Movement Speed Penalty: -1m
+
+	All affected targets roll DC 50 shock to resist stun for 1 turn.
+ 
+    Ranged Miss Chance
+
+* 3 out to 10m
+* 4 out to 40m
+* 5 out to 100m
+
+==Anvil Arms AT-20 $5599 ==
+
+Damage: 150 Explosive Damage
 Damage Radius: 3m radius
-Ranged Miss Chance:		
-	2 out to 15m	
-	3 out to 55m	
-	4 out to 150m	
-Mag Size:		1 round of 40mm Self-propelled guided HE Missile. $200 per missile
-Reload DC:		40
-Fire Modes:		Single-shot
-Armor Piercing Level:	N/a	
-Reflex Modifier:	-35	
-Suppression Level:	N/a	
-Movement Speed Penalty:	-1m	
-Notes/Description:	On a miss, lands within 4m of the target point. All affected targets roll DC 62% 
-	Shock to resist stun for 1 turn. On a miss, roll a d10 to calculate the miss distance. 
-	Divide the number by 2 and round up; if the number is greater than 4, reduce it to 4.
+Mag Size:  1 round of 40mm Self-propelled guided HE Missile. $200 per missile
+Reload DC:  40
+Fire Modes:  Single-shot
+Armor Piercing Level: N/a
+Reflex Modifier: -35
+Suppression Level: N/a
+Movement Speed Penalty: -1m
+
+	On a miss, lands within 4m of the target point. All affected targets roll DC 
+62% Shock to resist stun for 1 turn. On a miss, roll a d10 to calculate the miss 
+distance. Divide the number by 2 and round up; if the number is greater than 4, 
+reduce it to 4.
+
+    Ranged Miss Chance
+
+* 2 out to 15m
+* 3 out to 55m
+* 4 out to 150m
