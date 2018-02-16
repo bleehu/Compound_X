@@ -1044,8 +1044,17 @@ Disarm DC:			80%
 Damage:				180 points or 3 vehicle damage
 Range:				5m radius
 
-    May be detonated by proxy or remote. Requires some explosive to be made 
-with, i.e. mortar shells, grenades, det-cord, etc.
+    May be set at the time of placement to be detonated by either proximity or 
+remote. Remote detonation can be triggered in one Action by the engineer without
+line of sight from a range of up to 120m. Remote detonation may be jammed by a 
+hacker at a DC of 70. Proximity sensitivity can be determined at the time of 
+placement to detonate on movement up to 4m away. A Stealth(DEX) check of DC 76
+can prevent proximity detonation when moving through the watched zone. 
+
+    Once placed, the IED can be defused with a Repair(INT) Check of DC 120. 
+Failure to succeed on the check detonates the IED instantly. Taking more than 
+10 fire or electric damage will detonate the IED as well. Don't forget to roll 
+Stealth(CHA) to conceal it!
 
 == Chain Sentry	== 
 Type:				Structure
