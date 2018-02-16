@@ -222,10 +222,10 @@ Duration: 	engagement
 Range:		Touch
 
     You fiddle with your ally's gun quickly. You tune the whosits, and
-dial the whatsits. It now has a -1 chance to miss and has half the chance of
-jamming round down. Normal use and wear on the gun will almost definitely 
-unalign what you've done by the end of the engagement, but hopefully your 
-efforts will help keep your ally alive until then.
+dial the whatsits. It now has a -1 Miss Chance in all range brackets and has 
+half the chance of jamming, rounded down. Normal use and wear on the gun will 
+almost definitely unalign what you've done by the end of the engagement, but 
+hopefully your efforts will help keep your ally alive until then.
 
 == Vehicle Repair	== 
 Energy Gain:40
@@ -577,11 +577,11 @@ Natural AP Strength: 80
 card for improved performance in large packs. The PD-5 also comes standard with 
 a biometric sharp grasping claws and a tail that adapts procedurally to maintain 
 balance at high speeds as  well as significantly more capacity for peripherals 
-than its flying brethren. The Grasping claws may make melee attacks with a bonus
-of 4 for 40 damage. PD-5 bots take a -2 to miss for each other friendly PD-5 
-within 6m due to their distributed network architecture, but if one PD bot is 
-pwned, all PD bots within that range are pwned as well. Disrupted PD-5 bots 
-don't count for other's accuracy bonus.
+than its flying brethren. The grasping claws may make melee attacks with a Melee 
+Miss Chance of 4 for 40 damage. PD-5 bots take a -2 Miss Chance for each other 
+friendly PD-5 within 6m due to their distributed network architecture, but if 
+one PD bot is pwned, all PD bots within that range are pwned as well. Disrupted 
+PD-5 bots don't count for other's accuracy bonus.
 
     Standard PD bots make soft hydraulic sounds when moving, and so may not have 
 stealth scores over 80. This limitation may be solved with clever RP, see your
@@ -674,8 +674,8 @@ Plasma induction core explodes violently when destroyed. The titan comes with a
 7.62 repeater that has a 2 chance to miss and deals 55 damage and has an armor 
 piercing level of 4 and an auto fire rate of 5. The repeater is a Heavy 
 suppression weapon fed from a 150 round drum. May also make melee attacks with 
-its offhand with a +3 bonus. Deals 160 damage, kinda like being punched by a 
-backhoe.
+its offhand with a Melee Miss Chance of 3. Deals 160 damage, kinda like being 
+punched by a backhoe.
 
     When a drone is reclaimed, it frees up the control point cost that it 
 occupied, but does not reimburse its construction cost.
