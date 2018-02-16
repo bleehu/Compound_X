@@ -1122,17 +1122,6 @@ unless you move outside the AOE. The only other way to stop being suppressed
 is to stop the suppressor from using a suppression action on you at the end 
 of their turn.
 
-Moving out into the open: 
-	In the context of suppression and movement, "moving out into the open" 
-includes moving into a new location while you can be hit by shots from the 
-suppressor (this excludes moving into complete concealment, such as going prone 
-behind a high concrete wall). For example, the following situations would 
-trigger a free hit by the suppressor and give you the 'suppressed' status while 
-remaining in the area (let's assume you are upright (not crouched or prone)):
-moving from partial cover to an adjacent partial cover, moving from complete 
-concealment behind a barricade to partial cover, and moving when you are caught 
-out in the open.
-
 	If the suppressor cannot physically hit you (such as being completely behind 
 an impenetrable barrier) you are not suppressed. The suppressor doesn't need to 
 see you to hit you, as in the case of suppressing a cloaked target. 
