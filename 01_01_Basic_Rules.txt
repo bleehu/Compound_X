@@ -314,9 +314,13 @@ Strength (STR):
 how hard you can punch or hit with strength melee weapons. It might also allow 
 you to solve puzzles with the brute force approach.
 
-	If you have 1 Strength, you are exceptionally weak and your max movement per
-2 actions is 2m (unless your Dex is 1) and you cannot wear armor that offers more 
-than 50% coverage.
+	If you have 1 Strength, you are exceptionally weak. You are too weak to 
+effectively guard in melee, and thus your guard DC is always 0. In addition,
+you are too weak to control muzzle climb of any full-auto or burst fire. As such
+you can only fire weapons in semi auto or single fire. You are also limited to
+carrying the smallest of weapons and the lightest of armors. Please reference
+the strength requirement of each weapon and movement impedance of each piece of
+armor.
 
 Perception (PER): 
 	Your ability to see, hear, smell and sense the world around you, as well as
