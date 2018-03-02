@@ -182,13 +182,16 @@ friend from foe, and they still have a jenky understanding of their higher-
 order skills like lockpicking, hacking, or social finesse, but they have no
 fear, no pain, no remorse and no hesitation for about half of a minute. Your
 ally Cannot feel shock during this duration, and cannot be repaired (they
-won't stand still). They get a bonus +3 to accuracy nearer than 41m. They
-also deal an extra 20 damage with melee or fire an extra bullet with rapid-
-fire weapons. They take a penalty of -25% to skill checks, including acrobat or
-parkour checks (these take regression to calculate). An ally affected by 
-Regression Override may use a strength +2 bonus at any time, but each time they
-do, they take 20 damage of wear and tear. An engineer can only perform a 
-regression override once per encounter. Regression Overrides do not stack.
+won't stand still). 
+
+    Your Cybernetic Ally gets a bonus +3 to accuracy nearer than 41m. They also 
+deal an extra 20 damage with melee hits and may aim as a free action with a 
+ranged weapon as long as they pass a REF check of DC 60. They take a penalty of 
+-25% to skill checks, including acrobat or athletics checks (these take 
+regression to calculate). An ally affected by Regression Override may use a 
+Strength +2 bonus at any time, but each time they do, they take 20 damage of 
+wear and tear. An Engineer can only perform a Regression Override once per 
+Encounter. Regression Overrides do not stack.
 
 == System Restore	== 
 Energy Gain:35
@@ -1044,8 +1047,17 @@ Disarm DC:			80%
 Damage:				180 points or 3 vehicle damage
 Range:				5m radius
 
-    May be detonated by proxy or remote. Requires some explosive to be made 
-with, i.e. mortar shells, grenades, det-cord, etc.
+    May be set at the time of placement to be detonated by either proximity or 
+remote. Remote detonation can be triggered in one Action by the engineer without
+line of sight from a range of up to 120m. Remote detonation may be jammed by a 
+hacker at a DC of 70. Proximity sensitivity can be determined at the time of 
+placement to detonate on movement up to 4m away. A Stealth(DEX) check of DC 76
+can prevent proximity detonation when moving through the watched zone. 
+
+    Once placed, the IED can be defused with a Repair(INT) Check of DC 120. 
+Failure to succeed on the check detonates the IED instantly. Taking more than 
+10 fire or electric damage will detonate the IED as well. Don't forget to roll 
+Stealth(CHA) to conceal it!
 
 == Chain Sentry	== 
 Type:				Structure
