@@ -57,144 +57,12 @@ Secondary Modules only work for the Primary Module they are designed for.
 must have the required quantity of the given skill.
 
 ==============================
-STANDARD BALLISTIC ARMOR MATERIALS
-==============================
-	Adding any Armor Materials to a Chest, Leg, or Arm Rig adds to your 
-movement speed penalties by -1m per Material added. The secondary stat,
-"Carry Strength", cancels out movement speed penalties; for more information,
-see section "Player Stats," in the Basic Rules document.
-
-=====   LEVEL 1 REQUIREMENT MATERIALS   =====
-
-----Standard L1, Kevlar ----
-Cost For Chest Armor:		500
-Cost For Arm or Leg Armor:	290
-APL (Armor Piercing Level):	1
-AS (Armor Strength):		40
-
-----Standard L2, Carbon-Steel Fiber ----
-Cost For Chest Armor:		800
-Cost For Arm or Leg Armor:	480
-APL (Armor Piercing Level):	2
-AS (Armor Strength):		50
-
-=====   LEVEL 5 REQUIREMENT MATERIALS   =====
-
-----Standard L3, Intertwined Carbon-Steel Kevlar ----
-Cost For Chest Armor:		1200
-Cost For Arm or Leg Armor:	700
-APL (Armor Piercing Level):	3
-AS (Armor Strength):		60
-
-----Standard L4, Ultra-Dense Polyethylene ----
-Cost For Chest Armor:		1600
-Cost For Arm or Leg Armor:	950
-APL (Armor Piercing Level):	4
-AS (Armor Strength):		70
-
-=====   LEVEL 10 REQUIREMENT MATERIALS   =====
-
-----Standard L5, Carbon-Ceramic Fiber ----
-Cost For Chest Armor:		2050
-Cost For Arm or Leg Armor:	1220
-APL (Armor Piercing Level):	5
-AS (Armor Strength):		80
-
-----Standard L6, Tungsten Dioxide Ceramic Plate ----
-Cost For Chest Armor:		2540
-Cost For Arm or Leg Armor:	1520
-APL (Armor Piercing Level):	6
-AS (Armor Strength):		90
-
-=====   LEVEL 15 REQUIREMENT MATERIALS   =====
-
-----Standard L7, Nano-Steel ---- 
-Cost For Chest Armor:		3060
-Cost For Arm or Leg Armor:	1830
-APL (Armor Piercing Level):	7
-AS (Armor Strength):		100
-
-----Standard L8, Nano-Steel with Ceramic Backing ----
-Cost For Chest Armor:		3620
-Cost For Arm or Leg Armor:	2170
-APL (Armor Piercing Level):	8
-AS (Armor Strength):		110
-
-=====   LEVEL 20 REQUIREMENT MATERIALS   =====
-
-----Standard L9, Ceramic Nano-Crystal ----
-Cost For Chest Armor:		4200
-Cost For Arm or Leg Armor:	2520
-APL (Armor Piercing Level):	9
-AS (Armor Strength):		120
-
-----Standard L10, High Density Ceramic Nano-Crystal ----
-Cost For Chest Armor:		4820
-Cost For Arm or Leg Armor:	2900
-APL (Armor Piercing Level):	10
-AS (Armor Strength):		130
-
-
-==============================
-EVA SUITS AND FLIGHT HELMETS
-==============================
-	Helmets may be worn with or added to Armor or Environment (EVA) suits. 
-EVA suits are air- and water-tight when combined with an EVA or flight helmet.
-EVA suits are bulky, DEX skill checks have a -10% penalty and movement
-is reduced in RP. If the suit is hit more times than its "Suit Integrity"
-rating, it will no longer be able to maintain air pressure (player health 
-has to be damaged in order for "Suit Integrity" to count a hit). Suits 
-traditionally come in white, yellow or red.
-
-=====   LEVEL 1 REQUIREMENT   =====
-	
-Basic Tactical Helmet
-Cost:	$100
-	Tactical and Combat helmets can hold NVGs, lights, radios, etc.
-Protects the head from blunt trauma (mostly RP effects).
-
-Basic Flight Helmet
-Cost:	$240
-	A simple flight helmet. does not provide full seal, but can be paired with 
-air- and space-craft external oxygen systems. Protects the head from blunt
-trauma (mostly RP effects).
-
-Environment Helmet
-Cost:	$350
-	Provides a full environmental seal. Protects the head from blunt 
-trauma (mostly RP effects).
-	
-Basic Flight-Suit
-Cost:	$800
-Suit integrity: 5 shots
-	Basic Environment Suit, offers minimal ballistic protection. When shot, 
-the suit will decompress or compress as necessary to maintain air pressure.
-Holds 1 trauma (Armor Material) plate in the front and back. 30% coverage, must purchase 
-Armor material separately (purchase a single Armor Material at Chest Armor cost).
-
-=====   LEVEL 5 REQUIREMENT   =====
-	
-Polymer-Alloy Environment Suit
-Cost:	$1200
-	Holds 1 trauma (Armor Material) plate in the front and back. 30% coverage, must 
-purchase Armor material separately (purchase a single Armor Material at Chest Armor cost).
-Suit integrity: 10 shots
-
-=====   LEVEL 10 REQUIREMENT   =====
-
-Kevlar Fiber Environment Suit
-Cost:	$2000
-Suit integrity: 20 shots
-	Holds 1 trauma (Armor Material) plate in the front and back. 30% coverage, must 
-purchase Armor Material separately (purchase a single Armor Material at Chest Armor cost).
-	
-==============================
 ARMOR RIGS
 ==============================
-	Armor rigs cannot be worn in combination with other Rigs from different types or tactical 
-vests (for example: Recon Rigs can't be worn with Light Rigs). Some of the lighter Armor Rigs cannot 
-hold Armor Materials, designated by "(*No Armor*)". Those rigs only provide more Mag Space
-or more Hard Points; they don't provide additional Armor Coverage.
+	Armor rigs cannot be worn in combination with other Rigs from different types, tactical 
+vests, or EVA suits (for example: Recon Rigs can't be worn with Light Rigs). Some of the 
+lighter Armor Rigs cannot hold Armor Materials, designated by "(*No Armor*)". Those rigs 
+only provide more Mag Space or more Hard Points; they don't provide additional Armor Coverage.
 
 =====  I RECON ARMOR RIGS   =====
 	Tactical Vest system with armor underneath. 
@@ -451,6 +319,137 @@ Cost:	$341
   Armor cost). Concealable. 
 - Conceal Rig, Waist. Pistol Holster or 2 Primary Mags, 2 Secondary Mags. 
 - Conceal Rig, Shoulder Harness. Pistol Holster, 2 Pistol Mags
+
+==============================
+EVA SUITS AND FLIGHT HELMETS
+==============================
+	Helmets may be worn with or added to Armor or Environment (EVA) suits.
+EVA suits are air- and water-tight when combined with an EVA or flight helmet.
+EVA suits are bulky and cannot be used with Armor Rigs, also, DEX skill checks
+have a -10% penalty and movement is reduced in RP. If the suit is hit more 
+times than its "Suit Integrity" rating, it will no longer be able to maintain
+air pressure (player health has to be damaged in order for "Suit Integrity" to
+count a hit). Suits traditionally come in white, yellow or red.
+
+=====   LEVEL 1 REQUIREMENT   =====
+	
+Basic Tactical Helmet
+Cost:	$100
+	Tactical and Combat helmets can hold NVGs, lights, radios, etc.
+Protects the head from blunt trauma (mostly RP effects).
+
+Basic Flight Helmet
+Cost:	$240
+	A simple flight helmet. does not provide full seal, but can be paired with 
+air- and space-craft external oxygen systems. Protects the head from blunt
+trauma (mostly RP effects).
+
+Environment Helmet
+Cost:	$350
+	Provides a full environmental seal. Protects the head from blunt 
+trauma (mostly RP effects).
+	
+Basic Flight-Suit
+Cost:	$800
+Suit integrity: 5 shots
+	Basic Environment Suit, offers minimal ballistic protection. When shot, 
+the suit will decompress or compress as necessary to maintain air pressure.
+Holds 1 trauma (Armor Material) plate in the front and back. 30% coverage, must purchase 
+Armor material separately (purchase a single Armor Material at Chest Armor cost).
+
+=====   LEVEL 5 REQUIREMENT   =====
+	
+Polymer-Alloy Environment Suit
+Cost:	$1200
+	Holds 1 trauma (Armor Material) plate in the front and back. 30% coverage, must 
+purchase Armor material separately (purchase a single Armor Material at Chest Armor cost).
+Suit integrity: 10 shots
+
+=====   LEVEL 10 REQUIREMENT   =====
+
+Kevlar Fiber Environment Suit
+Cost:	$2000
+Suit integrity: 20 shots
+	Holds 1 trauma (Armor Material) plate in the front and back. 30% coverage, must 
+purchase Armor Material separately (purchase a single Armor Material at Chest Armor cost).
+	
+==============================
+STANDARD BALLISTIC ARMOR MATERIALS
+==============================
+	Adding any Armor Materials to a Chest, Leg, or Arm Rig adds to your 
+movement speed penalties by -1m per Material added. The secondary stat,
+"Carry Strength", cancels out movement speed penalties; for more information,
+see section "Player Stats," in the Basic Rules document.
+
+=====   LEVEL 1 REQUIREMENT MATERIALS   =====
+
+----Standard L1, Kevlar ----
+Cost For Chest Armor:		500
+Cost For Arm or Leg Armor:	290
+APL (Armor Piercing Level):	1
+AS (Armor Strength):		40
+
+----Standard L2, Carbon-Steel Fiber ----
+Cost For Chest Armor:		800
+Cost For Arm or Leg Armor:	480
+APL (Armor Piercing Level):	2
+AS (Armor Strength):		50
+
+=====   LEVEL 5 REQUIREMENT MATERIALS   =====
+
+----Standard L3, Intertwined Carbon-Steel Kevlar ----
+Cost For Chest Armor:		1200
+Cost For Arm or Leg Armor:	700
+APL (Armor Piercing Level):	3
+AS (Armor Strength):		60
+
+----Standard L4, Ultra-Dense Polyethylene ----
+Cost For Chest Armor:		1600
+Cost For Arm or Leg Armor:	950
+APL (Armor Piercing Level):	4
+AS (Armor Strength):		70
+
+=====   LEVEL 10 REQUIREMENT MATERIALS   =====
+
+----Standard L5, Carbon-Ceramic Fiber ----
+Cost For Chest Armor:		2050
+Cost For Arm or Leg Armor:	1220
+APL (Armor Piercing Level):	5
+AS (Armor Strength):		80
+
+----Standard L6, Tungsten Dioxide Ceramic Plate ----
+Cost For Chest Armor:		2540
+Cost For Arm or Leg Armor:	1520
+APL (Armor Piercing Level):	6
+AS (Armor Strength):		90
+
+=====   LEVEL 15 REQUIREMENT MATERIALS   =====
+
+----Standard L7, Nano-Steel ---- 
+Cost For Chest Armor:		3060
+Cost For Arm or Leg Armor:	1830
+APL (Armor Piercing Level):	7
+AS (Armor Strength):		100
+
+----Standard L8, Nano-Steel with Ceramic Backing ----
+Cost For Chest Armor:		3620
+Cost For Arm or Leg Armor:	2170
+APL (Armor Piercing Level):	8
+AS (Armor Strength):		110
+
+=====   LEVEL 20 REQUIREMENT MATERIALS   =====
+
+----Standard L9, Ceramic Nano-Crystal ----
+Cost For Chest Armor:		4200
+Cost For Arm or Leg Armor:	2520
+APL (Armor Piercing Level):	9
+AS (Armor Strength):		120
+
+----Standard L10, High Density Ceramic Nano-Crystal ----
+Cost For Chest Armor:		4820
+Cost For Arm or Leg Armor:	2900
+APL (Armor Piercing Level):	10
+AS (Armor Strength):		130
 
 ==============================
 SHIELD GENERATORS
