@@ -182,13 +182,16 @@ friend from foe, and they still have a jenky understanding of their higher-
 order skills like lockpicking, hacking, or social finesse, but they have no
 fear, no pain, no remorse and no hesitation for about half of a minute. Your
 ally Cannot feel shock during this duration, and cannot be repaired (they
-won't stand still). They get a bonus +3 to accuracy nearer than 41m. They
-also deal an extra 20 damage with melee or fire an extra bullet with rapid-
-fire weapons. They take a penalty of -25% to skill checks, including acrobat or
-parkour checks (these take regression to calculate). An ally affected by 
-Regression Override may use a strength +2 bonus at any time, but each time they
-do, they take 20 damage of wear and tear. An engineer can only perform a 
-regression override once per encounter. Regression Overrides do not stack.
+won't stand still). 
+
+    Your Cybernetic Ally gets a bonus +3 to accuracy nearer than 41m. They also 
+deal an extra 20 damage with melee hits and may aim as a free action with a 
+ranged weapon as long as they pass a REF check of DC 60. They take a penalty of 
+-25% to skill checks, including acrobat or athletics checks (these take 
+regression to calculate). An ally affected by Regression Override may use a 
+Strength +2 bonus at any time, but each time they do, they take 20 damage of 
+wear and tear. An Engineer can only perform a Regression Override once per 
+Encounter. Regression Overrides do not stack.
 
 == System Restore	== 
 Energy Gain:35
