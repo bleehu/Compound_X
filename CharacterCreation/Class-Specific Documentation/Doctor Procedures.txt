@@ -527,8 +527,10 @@ over their maximum health.
 
 ==Mild Stim ==
 Adrenaline Reward: 15 Points
+Needle Cost: 1 Needle
 Range: Touch
 Action:	1 Action
+
     For 4 turns, the patient moves 1m more per action and gets a -1 to miss with 
 guns. As a side effect, the target suffers a +1 to miss with melee weapons. 
 Increasing the dosage does not increase the effects. This trick only works on 
