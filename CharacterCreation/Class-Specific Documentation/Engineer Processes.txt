@@ -95,12 +95,13 @@ Duration:	  Almost Instant
 Range:		  Touch
 
     This stupid thing is broken again! You hit it with your wrench and
-deal 10 damage to it. Roll luck modifier, with a DC of 1.5 x target's total 
-damage after wrench hit. Add to that DC 10 for each minor status effect and
-15 for each major status effect, at the GM's discretion. If The DC is passed,
-Fix all minor status effects, one major status effect, or heal one wound. This
-process may only be performed on cybernetic allies, turrets, vehicles or as
-an RP event. Not to be confused with the concussive maintenance feat.
+deal 10 blunt melee damage to it. Roll luck modifier, with a DC of 1.5 x 
+target's total damage after wrench hit. Add to that DC 10 for each minor status 
+effect and 15 for each major status effect, at the GM's discretion. If The DC is 
+passed, Fix all minor status effects, one major status effect, or heal one 
+wound. This process may only be performed on cybernetic allies, turrets, 
+vehicles or as an RP event. Not to be confused with the Concussive Maintenance 
+Feat.
 
 == Defrag	== 
 Energy Gain:15
@@ -156,7 +157,7 @@ Range:		Touch
 
     A cybernetic ally gets a -2 to miss for the duration of the engagement.
 They also get a +35 to reloading weapons quickly and a +10 to perception checks, 
-but take 20 damage from system overheat.
+but take 20 Internal Damage from system overheat.
 
 == Colocation Processing	== 
 Energy Gain:20
@@ -189,9 +190,9 @@ deal an extra 20 damage with melee hits and may aim as a free action with a
 ranged weapon as long as they pass a REF check of DC 60. They take a penalty of 
 -25% to skill checks, including acrobat or athletics checks (these take 
 regression to calculate). An ally affected by Regression Override may use a 
-Strength +2 bonus at any time, but each time they do, they take 20 damage of 
-wear and tear. An Engineer can only perform a Regression Override once per 
-Encounter. Regression Overrides do not stack.
+Strength +2 bonus at any time, but each time they do, they take 20 Internal 
+Damage of wear and tear. An Engineer can only perform a Regression Override 
+once per Encounter. Regression Overrides do not stack.
 
 == System Restore	== 
 Energy Gain:35
@@ -263,7 +264,7 @@ ally for 8 turns before running out of power. The microbot is able to heal
 15 health per turn. Once spent, the microbot burns up in CS burn. A 
 Microassembler uses wireless cloud calculation to stay small, but on-blueprint. 
 As such, it is vulnerable to hack checks at a DC of 50. A hacked micro assembler 
-reveals its location and may deal 5 damage per turn.
+reveals its location and may deal 5 Internal Damage per turn.
 
 == Engine Tuning	== 
 Energy Gain:50
@@ -345,9 +346,9 @@ is affected by plasma burn. For this, the Engineer gains 40 * n Energy, where n
 is the number of allies affected. The Engineer can only perform this once per 
 engagement. A Microassembler uses wireless cloud calculation to stay small, 
 but on-blueprint. As such, it is vulnerable to hack checks at a DC of 50. A 
-hacked micro assembler reveals its location and may deal 5 damage per turn.
-The microbot swarm director automatically detects disobedient microbots and 
-notifies the Engineer. 
+hacked micro assembler reveals its location and may deal 5 Internal Damage per 
+turn. The microbot swarm director automatically detects disobedient microbots 
+and notifies the Engineer. 
 
 ===== Optronic/Cycotonic =====
 
@@ -465,8 +466,8 @@ Range:			8m radius centered on engineer
     All allies with shields in the area of effect have their shields recharged 
 by 40 points. This may not charge them over their maximum. If more than two 
 shields were affected and more than 60 points restored total, the feedback wave 
-sets a 10 damage per turn for 4 turns to any enemies in the area of effect as 
-well. A feedback wave ends the Engineer's turn immediately.
+sets a 10 blunt force damage per turn for 4 turns to any enemies in the area of 
+effect as well. A feedback wave ends the Engineer's turn immediately.
 
 == Plasma Lacer	== 
 Energy Gain:	20 Energy and 1 Munitions
@@ -581,9 +582,9 @@ card for improved performance in large packs. The PD-5 also comes standard with
 a biometric sharp grasping claws and a tail that adapts procedurally to maintain 
 balance at high speeds as  well as significantly more capacity for peripherals 
 than its flying brethren. The Grasping claws may make melee attacks with a bonus
-of 4 for 40 damage. PD-5 bots take a -2 to miss for each other friendly PD-5 
-within 6m due to their distributed network architecture, but if one PD bot is 
-pwned, all PD bots within that range are pwned as well. Disrupted PD-5 bots 
+of 4 for 40 melee damage. PD-5 bots take a -2 to miss for each other friendly 
+PD-5 within 6m due to their distributed network architecture, but if one PD bot 
+is pwned, all PD bots within that range are pwned as well. Disrupted PD-5 bots 
 don't count for other's accuracy bonus.
 
     Standard PD bots make soft hydraulic sounds when moving, and so may not have 
@@ -636,7 +637,7 @@ Pwn DC:				70
     Cerberus attack drones are large, heavily armored and armed battlefield 
 behemoths that move slowly but pack a nasty bite. Powered by an uberfuel that 
 tends to explode in a 3m radius when destroyed. Any entity caught in the blast
-takes 3 burn tokens and 50 damage. They move slowly and have trouble with 
+takes 3 burn tokens and 50 fire damage. They move slowly and have trouble with 
 stairs, but their turret can quickly turn and fire. See the table below for 
 stats on the armor of the drone when built by Engineers of different levels. 
 One anti-vehicle hit will down them however. The Cerberus is large enough for a 
@@ -674,11 +675,11 @@ Pwn DC:				70
 
     The titan multipurpose drone is a bipedal megalith of death and science. 
 Plasma induction core explodes violently when destroyed. The titan comes with a 
-7.62 repeater that has a 2 chance to miss and deals 55 damage and has an armor 
-piercing level of 4 and an auto fire rate of 5. The repeater is a Heavy 
+7.62 repeater that has a 2 chance to miss and deals 55 ballistic damage and has 
+an armor piercing level of 4 and an auto fire rate of 5. The repeater is a Heavy 
 suppression weapon fed from a 150 round drum. May also make melee attacks with 
-its offhand with a +3 bonus. Deals 160 damage, kinda like being punched by a 
-backhoe.
+its offhand with a +3 bonus. Deals 160 melee damage, kinda like being punched by
+a backhoe.
 
     When a drone is reclaimed, it frees up the control point cost that it 
 occupied, but does not reimburse its construction cost.
@@ -690,7 +691,7 @@ Build Time:			2 Actions
 Modular I/O ports:	Uses 1 port
 Ammo:				Holds 20 shots
 Accuracy:			30%
-Damage:				40 points
+Damage:				40 points (ballistic)
 APL:                2
 Suppression:        Light
 Drone Health:		+15
@@ -726,7 +727,7 @@ Build Time:			2 Actions
 Modular I/O ports:	Uses 1 port
 Ammo:				Holds 4 shots
 Accuracy:			20%
-Damage:				20 points
+Damage:				20 points (Electric)
 APL:                2
 Suppression:        Cannot be used to suppress
 
@@ -785,7 +786,7 @@ Construction Cost:	40 Energy, 40 Material
 Build Time:			4 Actions
 Modular I/O ports:	Uses 3 ports
 Ammo:				Holds 60 shots
-Damage:				20 points per bullet
+Damage:				20 points per bullet (ballistic)
 APL:                1
 Suppression Level:  Heavy
 Drone Health:		+20
@@ -817,7 +818,7 @@ Construction Cost:	60 Energy, 40 Material and 1 Munitions
 Build Time:			2 Actions
 Modular I/O ports:	Uses 3 ports
 Ammo:				Holds 8 shots
-Damage:				60 points
+Damage:				60 points (explosive)
 APL:                3
 Suppression Level:  Light
 Drone Health:		+25
@@ -829,9 +830,9 @@ Drone Health:		+25
 +-------+-----+-----+-----+
 
     A cannon that fires explosive shrapnel rounds. + 30m range and -2 to miss
-when firing on airborne targets. 10 points of damage inflicted in a 1m radius
-from impact. Each shot into a door reduces the DC of kicking down that door by
-65. If the DC becomes 0, the door is blown open.
+when firing on airborne targets. 10 points of ballistic damage inflicted in a 1m 
+radius from impact. Each shot into a door reduces the DC of kicking down that 
+door by 65. If the DC becomes 0, the door is blown open.
 
 == Peripheral: Rockets	== 
 Type:				Peripheral
@@ -839,7 +840,7 @@ Construction Cost:	80 Energy, 2 Munitions and 40 Material
 Build Time:			2 Actions
 Modular I/O ports:	Uses 1 port
 Ammo:				Holds 8 shots
-Damage:				80 points
+Damage:				80 points (explosive)
 Suppression Level:  Light
 APL:                9
 Drone health:		+25
@@ -921,7 +922,7 @@ Build Time:	        2 Actions
 Duration: 	        Permanent
 Health:		        1 vehicle health
 Size:		        1m x 1m x 1m
-Damage:             53
+Damage:             53 (ballistic)
 APL:                3
 Suppression Level:  High
 Auto Fire Rate:     3
@@ -980,7 +981,7 @@ Build Time:	        4 Actions
 Duration: 	        Permanent
 Health:		        120
 Size:		        1m x 1m x 2m
-Damage:             40
+Damage:             40 (ballistic)
 APL:                2
 Auto Fire Rate:     4
 Suppression Level:  Medium
@@ -1000,7 +1001,7 @@ Type:				Trap
 Construction Cost:	10 Energy and 1 Munition
 Build Time:			1 Action
 Disarm DC:			60%
-Damage:				110 points
+Damage:				110 points (explosive)
 Range:				4m cone in the direction that the claymore is facing
 
     Detonates on proxy in the cone of effect. Will be fooled by cloaking. You 
@@ -1031,20 +1032,20 @@ Size:		2m x 2m x 2m
 
     That's it. You've just had it with those ###holes behind cover over there 
 taking potshots at you and your squad. This oughta teach 'em. You construct a 
-mortar tube and shell printer. Deals 65 damage in a 2m radius around a hit 
-target with a chance to miss of 3. One shell "clip" takes 2 actions to reload. 
-130m range with a high arc. Ignores cover penalties if the shell comes straight 
-down on top of the target. Successful hits have a 30% chance to daze the target. 
-Every hit that an ally (not you) makes with a mortar that you placed gives you 
-40 Energy. Each emplacement comes with ten shells and may be refilled at a cost 
-of 100 Energy.
+mortar tube and shell printer. Deals 65 explosive damage in a 2m radius around a 
+hit target with a chance to miss of 3. One shell "clip" takes 2 actions to 
+reload. 130m range with a high arc. Ignores cover penalties if the shell comes 
+straight down on top of the target. Successful hits have a 30% chance to daze 
+the target. Every hit that an ally (not you) makes with a mortar that you placed 
+gives you 40 Energy. Each emplacement comes with ten shells and may be refilled 
+at a cost of 100 Energy.
 
 == IED	== 
 Type:				Trap
 Construction Cost:	20 Energy, 15 Material and 1 Munition
 Build Time:			1 Action
 Disarm DC:			80%
-Damage:				180 points or 3 vehicle damage
+Damage:				180 explosive damage or 3 vehicle damage
 Range:				5m radius
 
     May be set at the time of placement to be detonated by either proximity or 
@@ -1066,7 +1067,7 @@ Build Time:			6 actions
 Duration:			Permanent
 Health:				1 Vehicle health
 Size:				1m x 1m x 1m
-Damage:             15
+Damage:             15 (ballistic)
 APL:                1
 Suppression Level:  High
 Auto Fire Rate:     8
@@ -1092,7 +1093,7 @@ every burst proc any per-bullet effects.
 == Reverse engineer	== 
 Type:			Action
 Energy Cost:	40 Energy
-Damage:			80 Damage
+Damage:			80 Melee Damage
 Scrap Time:		2 Actions
 Range:			Touch
 
@@ -1112,9 +1113,9 @@ Size:		2m x 2m x 2m
 
     That's it. You've just had it with those ###holes behind cover over
 there taking potshots at you and your squad. This oughta teach 'em. You 
-construct a mortar tube and shell printer. Deals 80 damage in a 3m radius
-around a hit target with a chance to miss of 3. Three shell "clip" with a 2 
-action reload time. 300m range with a high arc. Ignores cover penalties if the 
+construct a mortar tube and shell printer. Deals 80 explosive damage in a 3m 
+radius around a hit target with a chance to miss of 3. Three shell "clip" with a 
+2 action reload time. 300m range with a high arc. Ignores cover penalties if the 
 shell comes straight down on top of the target. Successful hits have a 30%
 chance to daze the target. Every hit that an ally (not you) makes with a
 mortar that you placed gives you 40 Energy. Each emplacement comes with 
@@ -1125,7 +1126,7 @@ Type:				Trap
 Construction Cost:	15 Energy and 3 Munitions
 Build Time:			1 Action
 Disarm DC:			80%
-Damage:				250 points or 4 vehicle damage
+Damage:				250 explosive damage or 4 vehicle damage
 Range:				6m radius
 
     "um... sir, should you be... are you cleared to have that?" Won't detonate 
@@ -1145,7 +1146,7 @@ Build Time:		6 Actions
 Duration:		Permanent
 Health:			2 Vehicle Health
 Size:			2m x 2m x 2m
-Damage:         80 points
+Damage:         80 points (explosive)
 APL:            9
 Suppression Level: Light
 
@@ -1219,9 +1220,9 @@ Marksman's perception modifier (since they are working as a team) at a bonus of
 20 points. It does not need to roll perception to detect cloaked characters 
 within 20m, since they show up like lit Christmas trees on the EM sweepers. In 
 an emergency, the spotter may move up to 12m and self-destruct on a close-range
-target, dealing 30 damage and emitting a flash similar to a flashbang. Spotters
-cannot leave their marksman, and do not occupy a control point. Unlike many 
-similar models, the spotter drone is quite stealthy.
+target, dealing 30 explosive damage and emitting a flash similar to a flashbang. 
+Spotters cannot leave their marksman, and do not occupy a control point. Unlike 
+many similar models, the spotter drone is quite stealthy.
 
 == Darknet Processor	== 
 Type:			Structure
@@ -1250,7 +1251,7 @@ Duration:		until it runs out of ammo
 Range:			60m
 Accuracy:		25% to miss
 Clip:			4
-Damage:			60 within 1m radius of hit.
+Damage:			60 plasma damage within 1m radius of hit.
 Suppression Level: Light
 APL:            4
 
@@ -1341,7 +1342,7 @@ Build Cost:		60 Energy, 40 Material and 1 Munition
 Build Time:		2 Actions
 Duration:		until it runs out of ammo
 Clip:			4 Ni U Rods
-Damage:			120 points, ignores armor.
+Damage:			120 explosive damage, ignores armor.
 
 +-------+------+------+-----+
 | Range |  20m |  60m |100m |
