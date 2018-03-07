@@ -404,12 +404,16 @@ Duration:		Immediate
 Range:			Touch
 
     An adhesive mist of refractive particles that absorb laser and plasma fire 
-quite well. Reduces the next plasma/laser/VAE hit by 35 points of damage and 
-prevents the first damage-over-time effect from that hit, if it has one. Looks 
-kinda like sticky glitter. Gives an ally affected by Refractory spray a -20 
-penalty to visual stealth rolls. Refractory Spray can be detected by metal 
-detectors. Refractory Spray loses cohesion after ten turns or burns up if hit by 
-an energy attack.
+quite well. Reduces either the next plasma/VAE hit by 65 points of damage or 
+laser hit by 45 damage. It also prevents the first damage-over-time effect from 
+that hit (such as plasma burn), if it has one. Looks kinda like sticky glitter. 
+Gives an ally affected by Refractory spray a -20 penalty to visual stealth 
+rolls. Refractory Spray can be detected by metal detectors. Refractory Spray 
+loses cohesion after ten turns or burns up if hit by an energy attack.
+
+    At level 10, you learn how to apply the spray more evenly and to apply it
+more liberally to areas that you have seen get hit more often. As such, you are
+able to stop 80 points of VAE or plasma damage or 60 points of laser damage.
 
 == Tune Laser	== 
 Energy Gain:	30 Energy
