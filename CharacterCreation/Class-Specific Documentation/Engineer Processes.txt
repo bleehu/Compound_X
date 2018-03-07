@@ -222,8 +222,8 @@ Duration: 	engagement
 Range:		Touch
 
     You fiddle with your ally's gun quickly. You tune the whosits, and
-dial the whatsits. It now has a -1 Miss Chance in all range brackets and has 
-half the chance of jamming, rounded down. Normal use and wear on the gun will 
+dial the whatsits. It now has a -1 to its Miss Chances in all range brackets and 
+has half the chance of jamming, rounded down. Normal use and wear on the gun will 
 almost definitely unalign what you've done by the end of the engagement, but 
 hopefully your efforts will help keep your ally alive until then.
 
@@ -490,6 +490,10 @@ independently, with 4 actions per turn, and they take their owner's (not
 necessarily their deployer's) initiative. A Drone can only use 4 IO ports at a 
 time unless otherwise stated. 
 
+    Some Drones are able to make melee attacks. These drones do not have a DEX
+Modifier or other melee skills; all of their bonus to hit is included in their
+Accuracy Modifier. 
+
     Unlocking a Build tree skill requires having unlocked the skill below it on 
 the tree. Please see the Engineer Skill Tree - Build.png for dependencies.
 
@@ -674,7 +678,7 @@ Plasma induction core explodes violently when destroyed. The titan comes with a
 7.62 repeater that has a 2 chance to miss and deals 55 damage and has an armor 
 piercing level of 4 and an auto fire rate of 5. The repeater is a Heavy 
 suppression weapon fed from a 150 round drum. May also make melee attacks with 
-its offhand with a Melee Miss Chance of 3. Deals 160 damage, kinda like being 
+its offhand with an Accuracy Modifier of 3. Deals 160 damage, kinda like being 
 punched by a backhoe.
 
     When a drone is reclaimed, it frees up the control point cost that it 
