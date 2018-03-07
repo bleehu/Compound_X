@@ -1204,6 +1204,38 @@ concussive damage (called blunt damage) that ignores armor but you can only deal
 1/2 damage, up to a max of 25 damage. Max of 35 damage if you are using a melee 
 weapon (like a club, sword, or even hitting them with your gun).
 
+Electric Damage:
+	Some damage is delivered to characters with a high current and voltage. This
+can lead to burns, organ failure, fried circuits and chaotic effects on the 
+nervous or control systems of a given character. This damage does not have any
+special effect on armor, but certain characters are more prone to electric 
+damage than others, while some characters are more resistant to it.
+
+Fire Damage:
+	Some damage is inflicted with conflagrations or general combustion. While
+this damage usually leaves an ongoing burning effect, this damage type does not
+imply that simply by being Fire Damage. Please read a given attack or event 
+carefully to see if you are simply burned once, or have an ongoing effect as
+well. Some characters are more resistant to fire than others. Similarly, some
+armor in the game helps mitigate fire damage more effectively than others. 
+
+Acid Damage:
+	Some damage occurs when a substance of a significantly different PH balance
+comes in contact with your player and chemically reacts in an adverse manner.
+Such cases are usually painful and smell bad. 
+	While taking acid damage doesn't always mean that you have an ongoing 
+effect, read the source of the damage carefully to see if in addition to the 
+one-time damage effect, you also have an ongoing effect to deal with as well. 
+Acid damage can affect armor adversely as well, but that is not implied simply 
+by an attack being labeled with acid damage. Such effects will be listed 
+separately in the attack, trap, etc.
+
+Internal Damage:
+	Internal damage can be sustained from things like parasites, malicious
+microbots, or simply pushing your character's physical body past its breaking
+point. Unless otherwise stated, internal damage always deals full damage and
+ignores armor. 
+
 ===== Protection Types =====
 
 Armor:
