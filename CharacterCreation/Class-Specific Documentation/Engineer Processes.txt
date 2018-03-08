@@ -675,7 +675,7 @@ Pwn DC:				70
 
     The titan multipurpose drone is a bipedal megalith of death and science. 
 Plasma induction core explodes violently when destroyed. The titan comes with a 
-7.62 repeater that has a 2 chance to miss and deals 55 damage and has an armor 
+7.62 repeater that has a Miss Chance of 2 and deals 55 damage and has an armor 
 piercing level of 4 and an auto fire rate of 5. The repeater is a Heavy 
 suppression weapon fed from a 150 round drum. May also make melee attacks with 
 its offhand with an Accuracy Modifier of 3. Deals 160 damage, kinda like being 
