@@ -161,17 +161,16 @@ Movement Speed Penalty: -3m
 
 ==============================      
 HEAVY WEAPONS
-==============================   
-    "Michael, what are these things again? One of these has multi-spinning 
-barrels and another spits lightning like a wozerd."
-
+============================== 
 	Do you want to consume your foes in hails of expensive bullets? Well, you're 
 in the right place. (use-with-caution.-some-weapons-have-been-known-to-cause-
 cancer-in-the-state-of-_REDACTED_.-If-you-experience-urges-to-light-people-on-
 fire-or-scream-maniacally-this-may-be-a-sign-of-a-serious-condition-please-
 consult-with-your-local-space-physician)      
 
-	Minimum Strength 6. Reload time is 3 Actions.     
+	Minimum Strength 6. Reload time is 3 Actions. Some Heavy Weapons have large 
+magazines that take up more than one mag slot in your armor. Please see specific 
+weapons for notes on magazine size. 
       
 ===== Level 1 Weapons =====
 
