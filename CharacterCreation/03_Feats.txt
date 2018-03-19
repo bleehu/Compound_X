@@ -171,6 +171,20 @@ Prerequisites: Skill [Melee Combat] at 20
 	You do not take a penalty when using an improvised weapon. Chair legs can be 
 used as bats, fan blades as swords, etc., etc.
 
+Juggler:
+Prerequisites: DEX 4 or Higher
+	You are used to throwing and catching things very quickly. It's a neat party
+trick and it turns out has some surprising applications in combat. You gain 10
+skill in perform(juggle) which is usually a DEX check. If you don't have another
+weapon drawn when you draw a throwing weapon, you may attempt to juggle that
+weapon. If you choose to do so, you must attempt a DC 60 juggling skill 
+challenge. On success, you may draw three of the same type of thrown weapon at
+once and use each as if you had drawn them normally. If you fail, you drop one
+of the weapon at your feet and launch the other two in random directions. You
+also get a -1 to miss with thrown weapons and a +10 to stealth checks to attack
+quietly with thrown weapons.
+
+
 Last Shot Counts: 
 Prerequisites: PER 5
 	The last shot in every mag deals is an automatic critical + 10 bonus damage,
