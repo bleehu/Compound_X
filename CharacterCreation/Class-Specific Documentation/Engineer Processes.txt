@@ -989,7 +989,7 @@ has an access point within 20m. If a hacker surpasses a DC of 120, the ASPRO-S
 can be pwned and all of the intercept charges can be used to make a single 
 ranged attack roll up to a range of 6m with a 4 chance to miss. If the attack
 hits, it deals 80 damage with an armor piercing level of 2. Firing the attack
-depletes the ASPRO-S, which doesn't have any more charges to defuse incoming
+depletes the ASPRO-S, which doesn't have any more charges to intercept incoming
 attacks.
 
 == Sentry	== 
