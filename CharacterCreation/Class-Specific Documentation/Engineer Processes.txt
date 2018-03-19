@@ -986,10 +986,10 @@ hostile Nanite attacks, see GM for specifics.
     The sensors that detect incoming explosive ordinance are rather sensitive
 and can easily be disrupted with a hacking DC check of 45 as long as the hacker
 has an access point within 20m. If a hacker surpasses a DC of 120, the ASPRO-S
-can be pwned and all of the defusing charges can be used to make a single 
+can be pwned and all of the intercept charges can be used to make a single 
 ranged attack roll up to a range of 6m with a 4 chance to miss. If the attack
-hits, it deals 80 damage with an armor piercing level of 3. Firing the attack
-depletes the ASPRO-S, which doesn't have any more charges to diffuse incoming
+hits, it deals 80 damage with an armor piercing level of 2. Firing the attack
+depletes the ASPRO-S, which doesn't have any more charges to defuse incoming
 attacks.
 
 == Sentry	== 
