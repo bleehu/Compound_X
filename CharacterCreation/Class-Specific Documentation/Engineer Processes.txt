@@ -976,7 +976,7 @@ Health:				50
 Size:				1m x 1m x 3m
 
     You assemble an active countermeasure system that eliminates incoming 
-explosive ordinance. When active, this system destroys any incoming grenades, 
+explosive ordnance. When active, this system destroys any incoming grenades, 
 missiles, rockets or thrown weapons that it has line of sight to from the top of 
 its 3m mast within a 6m radius. Any incoming munitions are destroyed before they 
 can detonate. Cannot stop incoming bullets, lasers, or plasma. Will stop some 
@@ -985,11 +985,10 @@ hostile Nanite attacks, see GM for specifics.
     The sensors that detect incoming explosive ordinance are rather sensitive
 and can easily be disrupted with a hacking DC check of 45 as long as the hacker
 has an access point within 20m. If a hacker surpasses a DC of 120, the ASPRO-S
-can be pwned and all of the intercept charges can be used to make a single 
+can be pwned and all of the ammunition can be used to make a single 
 ranged attack roll up to a range of 6m with a 4 chance to miss. If the attack
 hits, it deals 80 damage with an armor piercing level of 2. Firing the attack
-depletes the ASPRO-S, which doesn't have any more charges to defuse incoming
-attacks.
+depletes the ASPRO-S, rendering it unable to stop further ordnance.
 
 == Sentry	== 
 Type: 		Structure
