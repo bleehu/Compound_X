@@ -355,9 +355,7 @@ you socialize is happy and willing to spend time with you, you may have
 advantage on the roll. If the character does not acquiesce to socialize with you,
 they are immune to the penalty. If they do acquiesce and you fail, you both must
 pay the penalty. The penalty for failing to socialize is to feel isolated and
-Lonely. You haven't met Mazlow's Hierarchy of needs, and this affects your
-performance. While Lonely, you move 1m slower every two actions (round down)
-and take a -5 to skill rolls. 
+Lonely. Please see "Lonely" in the conditions list in "01_02_Conditions.txt"
 
 	If you have 6 or more Charisma you gain the feat "Will to Survive". The feat 
 scales depending on how many points you have in Charisma. Or, if you have 9 or 
