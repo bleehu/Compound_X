@@ -38,6 +38,14 @@ defeat fear. DC 50, Will save.
 
     No actions, except rolling to defeat fear. DC 75, Will save.
 
+== Lonely ==
+
+    Being Lonely is a condition most commonly contracted from having 1 Charisma
+and failing to successfully socialize, or by trying and failing to socialize 
+with an ally who has 1 Charisma. You haven't met Mazlow's Hierarchy of needs, 
+and this affects your performance. While Lonely, you move 1m slower every two 
+actions (round down) and take a -5 to skill rolls. 
+
 == Necrosis ==
 
     2d10 +5 damage per turn. Seek medical attention immediately. If left 
