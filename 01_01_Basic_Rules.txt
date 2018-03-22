@@ -556,7 +556,7 @@ negative effects.
 - Will: defend against a mind affect (Ex: throw off hopelessness after crashing in an escape pod)
 - Shock: maintain composure after serious damage (Ex: stay conscious after being shot by a high caliber round)
 - Reflex: quickly react to an event (Ex: dodge falling debris, fire at an enemy if they leap from one piece of cover to another)
-- Awareness: passive knowledge and understanding of surroundings (Ex: realizing someone has walked up behind you)
+- Awareness: knowledge and understanding of surroundings (Ex: realizing someone has walked up behind you)
 
 The equations are as follows:
 
