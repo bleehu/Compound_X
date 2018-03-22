@@ -97,7 +97,7 @@ Knowledge:
 * Underworld
 * Xenology
 Weapons:
-	To properly use, care for and repair a weapon
+	To properly reload, care for and repair a weapon
 * General
 * Explosive
 * Heavy
