@@ -563,13 +563,15 @@ negative effects.
 
 - Will: defend against a mind affect (Ex: throw off hopelessness after crashing in an escape pod)
 - Shock: maintain composure after serious damage (Ex: stay conscious after being shot by a high caliber round)
-- Reflex: quickly react to an event (Ex: dodge falling debris, fire at an enemy if they leap from one piece of cover to another).
+- Reflex: quickly react to an event (Ex: dodge falling debris, fire at an enemy if they leap from one piece of cover to another)
+- Awareness: knowledge and understanding of surroundings (Ex: realizing someone has walked up behind you)
 
 The equations are as follows:
 
 - Will: 2*(Cha + Int - 6) Rational: Normally wisdom would be applied, so Will in Compound X is descried as your internal voice motivating you to endure a mental hardship.
 - Shock: 2*(Fort + Int - 6) Rational: You need to recognize that you are in shock, and resist its physical effects.
 - Reflex: 2*(Per + Dex - 6) Rational: In order to react quickly to an event you need to be able to see it coming.
+- Awareness: 2*(Per + Luc - 6) Rational: Line of sight and concentration are integral parts to being able to detect anomalies in the area.  
 
 ==============================
 Medicine Saving Throws
