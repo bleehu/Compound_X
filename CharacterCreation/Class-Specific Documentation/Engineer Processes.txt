@@ -520,6 +520,9 @@ saying this is that if a Drone has 3 IO Ports, you can't build 4 Peripherals
 onto it and have the Drone turn peripherals off or on as it wants to; every
 Peripheral must have an active IO Port or it simply falls off of the Drone. 
 
+    IO Ports are a real-world Computer/Electric Engineering term which is short
+for Input/Output Ports.
+
 ===== Embedded Systems =====
 
 == Dragonfly	== 
@@ -664,7 +667,8 @@ takes 3 burn tokens and 50 fire damage. They move slowly and have trouble with
 stairs, but their turret can quickly turn and fire. See the table below for 
 stats on the armor of the drone when built by Engineers of different levels. 
 One anti-vehicle hit will down them however. The Cerberus is large enough for a 
-player to take partial cover behind. 
+player to take partial cover behind. See the table below for stats on the main
+turret.
 
     When a drone is reclaimed, it frees up the control point cost that it 
 occupied, but does not reimburse its construction cost.
@@ -680,6 +684,20 @@ occupied, but does not reimburse its construction cost.
 +----------------+----------------+-----+-----+
 |       >19      |       100%     | 10  | 200 |
 +----------------+----------------+-----+-----+
+
+Cerberus Turret specs:
+
+Damage: 90 Explosive Damage
+APL: 4
+Capacity: 1 Round
+Reload Time: 1 Action
+Reflex Modifier: -35
+
++---------+-------+------+-----+
+| Range   |   5m  |  20m | 60m |
++---------+-------+------+-----+
+| To miss |   2   |   4  |  6  |
++---------+-------+------+-----+
 
 
 == Titan Multipurpose Drone	==
