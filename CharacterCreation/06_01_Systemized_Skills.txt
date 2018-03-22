@@ -64,9 +64,9 @@ Stealth:
 	To move quietly and escape notice
 Vehicles:
 	For checks to pilot vehicles
-*General
-*Flight
-*Ground
+* General
+* Flight
+* Ground
 
 == Fortitude ==
 Intimidation:
@@ -87,26 +87,26 @@ Survival:
 	To make do far from civilization with limited technological help
 Knowledge:
 	For when a character's knowledge differs from the player's
-*General
-*Computers
-*Geography
-*High Tech
-*History
-*Nanites
-*Religion
-*Underworld
-*Xenology
+* General
+* Computers
+* Geography
+* High Tech
+* History
+* Nanites
+* Religion
+* Underworld
+* Xenology
 Weapons:
 	To properly use, care for and repair a weapon
-*General
-*Explosive
-*Heavy
-*Long Rifle
-*Melee
-*Pistol
-*Shotgun
-*SMG
-*Thrown
+* General
+* Explosive
+* Heavy
+* Long Rifle
+* Melee
+* Pistol
+* Shotgun
+* SMG
+* Thrown
 
 == Perception ==
 Investigation:
@@ -119,7 +119,7 @@ Athletics:
 	To perform a feat of strength like kicking down a door or climbing up a cliff
 
 
-== Difficulty Guidelines ==
+==== Difficulty Guidelines ====
 Example for (STRENGTH) Athletics check: 
 * 25 = Easy (Doing a pull-up)
 * 50 = Simple (Climbing a tree)
