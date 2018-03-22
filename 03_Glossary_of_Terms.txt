@@ -89,6 +89,10 @@ some Buildings which have a number of IO Ports which can have Peripherals added
 to them. See "Character Creation/Class Specific Documents/Engineering 
 Processes.txt" specifically the "IO Ports" subsection for more information.
 
+Lonely:
+    When capitalized, Lonely or Lonlieness refers to the in-game condition of
+Lonely, rather than the emotion. Please see the "01_02_Conditions.txt" list.
+
 Nanite Upkeep:
     Nanite Upkeep is the number of nanites a character must pay at the end of 
 their turn in order to stay cloaked during that round. For more information,
