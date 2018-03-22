@@ -1,68 +1,125 @@
 ==============================
-Full list of skills
+Skills
 ==============================
+	Each character learns things while going through life. Maybe your time in
+the military taught you how to navigate using the stars or maybe your time working
+at a mechanic's shop made you good at repairing things? Or maybe you're one of
+those people who is just naturally good at hacking computers.
 
-* Acrobatics
-* Athletics
-* Deception
-* Insight
-* Intimidation
-* Investigation
-* Medical
-* Navigation
-* Space
-* Geography
-* Persuasion
-* Repair
-* Sleight of Hand 
-* Spotting
-* Stealth
-* Survival
+	Whenever you roll to see if your character succeeds in a task they have 
+skill in, add both your character's points in relevant skills and the relevant
+stat modifier. Ask your GM to confirm what skills and stats apply to the roll.
 
+===== Gaining Skill Points and Skill Proficiency =====
+	Each time a character levels up, they gain a certain number of skill
+points to distribute as they choose. However, a character may only gain up to 5
+points in a skill per level, up to a maximum of 60. Some feats, backgrounds and
+class passives will give a character points in a specific skill. While these
+skill gains are not subjected to the limit on skill point gain per level, they
+do contribute to the maximum of 60 points in a skill.
+
+	Characters are considered to be proficient with certain skills. When a
+character is proficient in a skill, each skill point they spend in that skill
+upon leveling up increases that skill by two instead of one.
+
+===== Skill Checks and Critical Successes =====
+	If you roll a critical success on a skill check, add 10 to your total roll.
+For an extra critical, add 20.
+
+===== "General" Skills =====
+	Some skill groups such as Knowledge, Weapons, and Vehicles allow
+characters to learn the skill both in general and in specific cases. If the
+character does not know the specific skill in a group that applies to a situation,
+the player can instead add half of the character's general skill in that skill
+group (rounded down). For example, if a GM asks for a roll in Knowledge: History,
+but the character only has 10 skill in Knowledge: General, the player can add 5
+from Knowledge: General to the Knowledge: History roll. However, if the  GM asks
+for a roll in Knowledge: General, the player can all all 10 points from
+Knowledge: General to the roll.
+
+===== Skills in Compound X =====
+	This list of some of the most commonly-used skills in Compound X is
+arranged based on the stats that are usually associated with the skill. Your GM
+may decide that a different stat applies to any given instance. In addition,
+this is not an exhaustive list of skills, merely the skills called for most
+often. Talk to your GM if you would like your character to learn a more specific
+case of one of these skills or a skill not listed below.
+
+== Charisma ==
+Deception:
+	To tell a convincing lie
+Insight:
+	To tell truth and lies apart
+Performance:
+	"Roll for interpretive dance"
+Persuasion:
+	To tell the truth, share an opinion, or change someone's mind
+
+== Dexterity ==
+Acrobatics:
+	"PARKOUR!"
+Sleight of Hand:
+	To pick pockets, pull off card tricks, and cause other mayhem
+Stealth:
+	To move quietly and escape notice
 Vehicles:
-* GENERAL*
-* Flight
-* Ground
+	For checks to pilot vehicles
+*General
+*Flight
+*Ground
 
-Weapons:
-* GENERAL*
-* Melee
-* Long Rifle
-* SMG
-* Shotgun
-* General
-* Pistol
-* Thrown
-* Heavy
-
+== Fortitude ==
+Intimidation:
+	To strike fear into the hearts of your enemies
+	
+== Intelligence ==
+Hacking:
+	To pwn computer systems
+Medicine:
+	To repair life forms
+Repair:
+	To repair machines
+Jury-rigging:
+	To throw together a solution using the materials on hand
+Navigation:
+	For plotting routes through space or across land
+Survival:
+	To make do far from civilization with limited technological help
 Knowledge:
-* GENERAL*
-* Gravity Manipulation
-* Energy Manipulation
-* Hard Light
-* History
-* Nanites
-* Plasma
-* Computer Systems
-* Xenology
+	For when a character's knowledge differs from the player's
+*General
+*Computers
+*Geography
+*High Tech
+*History
+*Nanites
+*Religion
+*Underworld
+*Xenology
+Weapons:
+	To properly use, care for and repair a weapon
+*General
+*Explosive
+*Heavy
+*Long Rifle
+*Melee
+*Pistol
+*Shotgun
+*SMG
+*Thrown
 
-*Gives half the bonus a specific will give on a check.
+== Perception ==
+Investigation:
+	To pick useful objects or information out of the chaff
+Spotting:
+	To pick out a detail, often at a distance
 
-	Suggested that certain classes can gain skill in their proficiency 
-area twice as quickly, so every point you spend from leveling up is doubled 
-up in that skill.
+== Strength ==
+Athletics:
+	To perform a feat of strength like kicking down a door or climbing up a cliff
 
-	Suggest cap of 60. Adding Specific modifier to to skill. For 
-example, Attribute of 10 = 20 mod. This gives a max of +80 to a skill 
-check. In theory a 180 could be rolled. This is very rare.
 
-	Currently there are no rules for a critical success on skill checks 
-in the listing. I would suggest a 10 bonus for regular critical, and a 20 
-bonus for extra critical (Name change suggestion to Supreme Critical. Extra 
-sounds like it’s a bonus sauce. SUPREME makes it sound like the full 
-frigging 5 course meal). This gives us a possible maximum of 200.
-
-== More reasonable DC for things ==
+== Difficulty Guidelines ==
 Example for (STRENGTH) Athletics check: 
 * 25 = Easy (Doing a pull-up)
 * 50 = Simple (Climbing a tree)
@@ -74,44 +131,19 @@ Example for (STRENGTH) Athletics check:
 	your hands and hitting someone with it like a baseball game)
 * 200 = Impossible (Opening an airlock with your bear-hands)
 
-	Rationale, allowing certain classes to gain up to double that score 
-in certain areas. INT of (avg5)*(2)*(level10) = 100 known. Max = 200 known
-
-	For example: Soldiers can get various Weapon specializations, Berserker 
-can get Weapons - Melee (instead of unarmed expert because they do in fact have 
-a weapon in most cases) etc. See Suggested list below
-
-	Also took out the word Use from things. Added a - to specify specifi
-
-===== Class Skill Proficiency =====
+===== Class Skill Proficiencies =====
 
 Adept: Knowledge - Nanites, Weapons - General
-	New Name. I like Tech Trooper.
-	
 Assassin: Stealth, Weapons - Melee
 Berserker: Athletics, Weapons - Melee
-	Typo in class description name, need to get that first r in there
-	
 Engineer: Knowledge - [General], Repair
-Doctor: Knowledge - [Any], Medical
+Doctor: Knowledge - [Any], Medicine
 Gunslinger: Acrobatics, Weapons - Pistol
-Hacker: Knowledge - Nanites, Knowledge - Systems
-	Suggested removing nanites from this tree, it doesn’t make a ton of 
-sense to me for a hacker to use nanites to buff allies now that we have 
-removed them from the bloodstream. Perhaps they buff any tech the ally has, 
-for like giving them auto aim on a rifle or giving a bonus to any check they 
-use with technology. Honestly I think this subclass needs some rework now 
-that nanites are no longer in the bloodstream. Unless you want this to be 
-a subclass that does put nanites into thing’s blood. In the case that it 
-does get removed, recommended Knowledge - Any or a Hacking skill if that 
-is the case.
-
+Hacker: Knowledge - Computers, Hacking
 Hunter: Spotting, Survival, Weapons - Shotgun or Long Rifle
 Marksman: Spotting, Weapons - Long Rifle
 Monk: Acrobatics or Athletics, Stealth
-Paladin: Knowledge - Hard Light, Weapons - General
-	New Name. I like Spartan or Vanguard or Guardian
-	
+Paladin: Knowledge - High Tech, Weapons - General
 Pilots: Vehicles - [Flight, General, Ground. Pick 2], Weapons - General
-Soldier: Weapons - General, Weapons - Specific
+Soldier: Weapons - General, Weapons - [Any]
 Specialist: Weapons - Heavy, Weapons - Thrown
