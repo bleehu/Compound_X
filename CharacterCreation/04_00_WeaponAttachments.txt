@@ -440,7 +440,7 @@ whiz by or into targets.
     Using Baffled ammo in your weapon reduces the range of your R3 bracket by
 10m and reduces the damage of your weapon by 5 damage. Stealth rolls to hide
 silent weapons fire automatically succeed. A bullet impact can be heard if a
-character is within 5m of the impact, actively curious and makes a search check
+character is within 5m of the impact, alert and makes an Investigate(PER) check
 over DC 50.
 
 ==============================
