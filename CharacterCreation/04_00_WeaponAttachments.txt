@@ -431,6 +431,17 @@ Takes up twice the space in your magazine inventory as a standard magazine.
 Only applicable to box-fed automatic weapons [not belt-fed], SMGs, 
 Carbines, and shotguns.
 
+== Shredder Rounds ($2 x mag cost) ==
+
+    Shredder rounds contain metal fragments which splinter into hyperkinetic
+shrapnel upon impact. These fragments spread the energy out upon impact, and
+thus are not great against armor, but tear up soft tissue or fragile technology
+mercilessly.
+
+    Using Shredder Rounds reduces the APL of your weapon by 1. Deals an 
+additional 30% damage as long as your weapon has a higher APL or if it doesn't
+hit armor.
+
 ==============================
 Total Conversions
 ==============================
