@@ -431,6 +431,16 @@ Takes up twice the space in your magazine inventory as a standard magazine.
 Only applicable to box-fed automatic weapons [not belt-fed], SMGs, 
 Carbines, and shotguns.
 
+== Gluon Rounds ($2.5 x mag cost) ==
+    Gluon rounds use a web of inseparable gluon entangled particles to make a
+round that won't fragment no matter what it hits. That means that it delivers
+all of its energy to one point, which helps penetrate armor even better than
+traditional AP rounds. But it also means that it won't break up to damage soft
+tissue as effectively. 
+
+    Using gluon rounds adds 1 to your weapon's AP level. Gluon rounds ignore
+any armor hits below their total AP level, but deal 15% less damage.
+
 ==============================
 Total Conversions
 ==============================
