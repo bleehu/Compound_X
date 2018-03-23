@@ -431,7 +431,7 @@ Takes up twice the space in your magazine inventory as a standard magazine.
 Only applicable to box-fed automatic weapons [not belt-fed], SMGs, 
 Carbines, and shotguns.
 
-== Baffled Ammo ($) ==
+== Baffled Ammo ($1.5 x mag cost) ==
 
     This sabot-discarding ammo has baffled edges so that it barely makes any
 noise as it travels through the air. There is no zip or snap noise as bullets
