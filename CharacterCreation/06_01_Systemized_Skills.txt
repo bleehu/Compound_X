@@ -12,15 +12,20 @@ stat modifier. Ask your GM to confirm what skills and stats apply to the roll.
 
 ===== Gaining Skill Points and Skill Proficiency =====
 	Each time a character levels up, they gain a certain number of skill
-points to distribute as they choose. However, a character may only gain up to 5
-points in a skill per level, up to a maximum of 60. Some feats, backgrounds and
-class passives will give a character points in a specific skill. While these
-skill gains are not subjected to the limit on skill point gain per level, they
-do contribute to the maximum of 60 points in a skill.
+points to distribute as they choose. Total skill point gain per level is based on 
+a character's intelligence or charisma, as described in Basic Rules. However, a 
+character may only gain up to 5 points in a skill per level, up to a maximum of 60. 
+Some feats, backgrounds and class passives will give a character points in a 
+specific skill. While these skill gains are not subjected to the limit on skill 
+point gain per level, they do contribute to the maximum of 60 points in a skill. 
+For example, when a Pilot gains 10 skill in a Vehicles: Flight as a class passive 
+at level 1, the pilot can still gain 5 points in Vehicles: Flight by spending skill
+points they earn by leveling up from level 0.
 
-	Characters are considered to be proficient with certain skills. When a
-character is proficient in a skill, each skill point they spend in that skill
-upon leveling up increases that skill by two instead of one.
+	Characters are considered to be Proficient with certain skills, based on
+their class and background. When a character is Proficient in a skill, each skill 
+point they spend in that skill upon leveling up increases that skill by two 
+instead of one.
 
 ===== Skill Checks and Critical Successes =====
 	If you roll a critical success on a skill check, add 10 to your total roll.
@@ -34,7 +39,7 @@ the player can instead add half of the character's general skill in that skill
 group (rounded down). For example, if a GM asks for a roll in Knowledge: History,
 but the character only has 10 skill in Knowledge: General, the player can add 5
 from Knowledge: General to the Knowledge: History roll. However, if the  GM asks
-for a roll in Knowledge: General, the player can all all 10 points from
+for a roll in Knowledge: General, the player can add all 10 points from
 Knowledge: General to the roll.
 
 ===== Skills in Compound X =====
@@ -57,7 +62,8 @@ Persuasion:
 
 == Dexterity ==
 Acrobatics:
-	"PARKOUR!"
+	"PARKOUR!" To perform physical tasks that primarily require quickness
+or flexibility
 Sleight of Hand:
 	To pick pockets, pull off card tricks, and cause other mayhem
 Stealth:
@@ -97,7 +103,8 @@ Knowledge:
 * Underworld
 * Xenology
 Weapons:
-	To properly reload, care for and repair a weapon
+	To properly reload, care for and repair a weapon as well as for clearing
+jams. This skill does not affect accuracy rolls.
 * General
 * Explosive
 * Heavy
