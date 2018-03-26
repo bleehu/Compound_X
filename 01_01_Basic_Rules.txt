@@ -882,7 +882,7 @@ everyone starts with a critical hit range of "1", meaning, an attack roll of a
 10 would be considered a critical hit. But your critical range may not be "1" 
 because your Luck modifies your critical hit range: (Luck Modifier/10), round 
 down, is added to your critical hit range. Which means, if you have a Luck stat 
-of 8 (and thus, by the equation, +1 to your critical hit range), an attack roll 
+of 12 (and thus, by the equation, +1 to your critical hit range), an attack roll 
 of 9-10 would be considered a critical hit.
 
 	Weapons with a high fire rate cannot critically hit (weapons that shoot more 
