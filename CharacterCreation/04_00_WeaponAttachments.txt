@@ -443,6 +443,17 @@ silent weapons fire automatically succeed. A bullet impact can be heard if a
 character is within 5m of the impact, alert and makes an Investigate(PER) check
 over DC 50.
 
+== Shredder Rounds ($2 x mag cost) ==
+
+    Shredder rounds contain metal fragments which splinter into hyperkinetic
+shrapnel upon impact. These fragments spread the energy out upon impact, and
+thus are not great against armor, but tear up soft tissue or fragile technology
+mercilessly.
+
+    Using Shredder Rounds reduces the APL of your weapon by 1. Deals an 
+additional 30% damage as long as your weapon has a higher APL than the target's
+armor or if it doesn't hit armor.
+
 ==============================
 Total Conversions
 ==============================
