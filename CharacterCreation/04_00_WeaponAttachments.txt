@@ -431,12 +431,40 @@ Takes up twice the space in your magazine inventory as a standard magazine.
 Only applicable to box-fed automatic weapons [not belt-fed], SMGs, 
 Carbines, and shotguns.
 
-== Vorpel Ammunition ($2.5 x mag cost) ==
+== Baffled Ammo ($1.5 x mag cost) ==
 
-    Vorpel rounds deal an extra 10% of normal weapon damage on critical hit and
+    This sabot-discarding ammo has baffled edges so that it barely makes any
+noise as it travels through the air. There is no zip or snap noise as bullets
+whiz by or into targets. 
+
+    Using Baffled ammo in your weapon reduces the range of your R3 bracket by
+10m and reduces the damage of your weapon by 5 damage. Stealth rolls to hide
+silent weapons fire automatically succeed. A bullet impact can be heard if a
+character is within 5m of the impact, alert and makes an Investigate(PER) check
+over DC 50.
+
+== Shredder Rounds ($2 x mag cost) ==
+
+    Shredder rounds contain metal fragments which splinter into hyperkinetic
+shrapnel upon impact. These fragments spread the energy out upon impact, and
+thus are not great against armor, but tear up soft tissue or fragile technology
+mercilessly.
+
+    Using Shredder Rounds reduces the APL of your weapon by 1. Deals an 
+additional 30% damage as long as your weapon has a higher APL than the target's
+armor or if it doesn't hit armor.
+
+== Vorpal Ammunition ($2.5 x mag cost) ==
+    
+    Vorpal Rounds carry a small nanite payload which damage soft, vital tissue
+or circuitry. Unfortunately, the nanites are over-equipped with microweaponry,
+but under-equipped with locomotive flagella. So they only really deal the extra
+damage if you put the round where it's gonna hurt.
+
+    Vorpal rounds deal an extra 10% of normal weapon damage on critical hit and
 20% damage on extra-crits. For example, if your gun deals 80 damage normally,
-and you roll a crit when using vorpel rounds, your gun deals 80 + 10 (for crit)
-+ 8 (vorpel damage) = 98. If you scored an extra-crit with the same weapon, 
+and you roll a crit when using vorpal rounds, your gun deals 80 + 10 (for crit)
++ 8 (vorpal damage) = 98. If you scored an extra-crit with the same weapon, 
 you'd do 80 + 20 (extra crit damage) + 16 = 116 damage. 
 
 ==============================
