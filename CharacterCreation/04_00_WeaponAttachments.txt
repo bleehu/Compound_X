@@ -443,6 +443,20 @@ silent weapons fire automatically succeed. A bullet impact can be heard if a
 character is within 5m of the impact, alert and makes an Investigate(PER) check
 over DC 50.
 
+== Short Circuit Rounds ($1.5 x mag cost) ==
+    Short circuit rounds are specifically designed to damage cybernetic targets.
+They contain a hyperconductive solute that bonds with most known insulators.
+The combination of puncture wounds from the round itself and the chemical 
+electric connections from the solute have the nasty effect of routing power and
+signals where they least belong. Since the solute has less density than the 
+metal that rounds are normally made of, they typically deal less damage to 
+biologic targets and armor.
+
+    The net effect is that using Short Circuit rounds lowers the damage dealt
+by each shot by 20 points, but if the round hits the health pool of a cybernetic
+target, it deals an extra 45 damage.
+
+
 == Shredder Rounds ($2 x mag cost) ==
 
     Shredder rounds contain metal fragments which splinter into hyperkinetic
