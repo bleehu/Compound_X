@@ -218,6 +218,8 @@ back of the cheek near the ear. Impossible to see with the naked eye without
 invading the wearer's personal space. DC 140 to hack.
 
 Universal Translation Device ($160):
+    The Universal Translation Device is proprietary and fairly rare. A character
+will likely have a hard time finding them for purchase until level 10.
     A small cell-phone sized device with a small screen, camera, speaker and
 universal audio port. It can interface with any of the radio systems above or be
 used in ambient mode where it repeats anything it hears ambiently in the 
