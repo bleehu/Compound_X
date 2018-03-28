@@ -3,7 +3,7 @@ Step 0: Ask for Advice
 ==============================
 
 	No really, if you get stuck at any point or just want a second opinion, 
-other players can be tremendously helpful andare usually more than happy to 
+other players can be tremendously helpful and are usually more than happy to 
 assist new players getting their feet wet.
 
 ==============================
@@ -13,6 +13,43 @@ Step 1: Race
 ==============================
 Step 2: Class
 ==============================
+
+	Your character's class represents his or her core training and 
+competencies. It determines your options for how the character fights, 
+influences skills, and generally tells a fair bit about who the character is 
+and what he or she has done.
+
+	The various classes in Compound X are roughly equal in power, but not 
+in complexity. On the simpler side are the Soldier, Specialist, Gunslinger, 
+and Pilot. We recommend players newer to Compound X or roleplaying games in 
+general try one of these first.
+
+	The Soldier is the archetypal ... soldier. Trained and equipped for 
+cover-based gunfighting, the Soldier has unique access to Battle Rifles, the 
+most powerful class of assault rifles. It is a flexible class that can be 
+taken in many directions with different ability and skill distributions.
+
+	Specialists trade in much of the Soldier's flexibility for access to 
+Heavy Armoring, Machine Guns, and Heavy Weapons, which includes such 
+offerings as flamethrowers, miniguns, and rocket launchers. The Specialist 
+tends toward brute force solutions, highly capable of blasting through 
+obstacles, but suffers by comparison in the realms of squad utility, stealth 
+or social scenarios, and close-quarters combat.
+
+	The Gunslinger is a close-quarters gunfighting ... specialist. Though 
+lacking the use of weapons heavier than pistols, the class receives unique 
+bonuses to their use and is naturally hard to hit, making it terrifying in 
+enclosed spaces. Naturally, their capabilities on large, open battlegrounds 
+are somewhat diminished.
+
+	The Pilot trades in much of the Soldier's combat capabilities for 
+unique bonuses to activities involving the Vehicle skill family. Generally 
+restricted to short-ranged gunplay, Pilots are notorious for finding 
+creative, vehicular solutions to the tactical puzzle.
+
+	If you aren't sure what class to pick, we recommend playing a 
+Soldier. Its versatility and ability to specialize in almost any area 
+offer the most opportunity for growing a character as you play.
 
 ==============================
 Step 3: Background and Skills
