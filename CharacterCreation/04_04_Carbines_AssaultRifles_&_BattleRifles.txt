@@ -15,24 +15,24 @@ Minimum Strength 5. Reload time is 2 Actions.
 
 ===== Level 1 Weapons =====
 
-----Matthews 11-35 Carbine	$690	----
+==  Matthews 11-35 Carbine	$690	==
+
 Damage:	65 Ballistic
-Ranged Miss Chance:
-	3 out to 10m
-	4 out to 35m
-	5 out to 55m
 Mag Size:		18 rounds of 11x35mm. $7 per mag
 Reload DC:		30%
 Fire Modes:		Semi
 Armor Pierce Level:	1
 Reflex Modifier:	+5
 
-----Anvil Arms C25	$1608	----
++---------+-----+-----+-----+
+| Range   | 10m | 35m | 55m |
++---------+-----+-----+-----+
+| To Miss |  3  |  4  |  5  |
++---------+-----+-----+-----+
+
+==  Anvil Arms C25	$1608	==
+
 Damage:	80 Ballistic
-Ranged Miss Chance:
-	3 out to 15m
-	4 out to 40m
-	5 out to 60m
 Burst Accuracy Penalty:	2 - 1 at 8 STR
 Mag Size:		25 rounds of 5.45x40mm. $15 per mag
 Reload DC:		30%
@@ -40,12 +40,15 @@ Fire Modes:		Semi, Burst
 Armor Pierce Level:	2
 Reflex Modifier:	+2
 
-----RMM S-92		$1086	----
++---------+-----+-----+-----+
+| Range   | 15m | 40m | 60m |
++---------+-----+-----+-----+
+| To Miss |  3  |  4  |  5  |
++---------+-----+-----+-----+
+
+==  RMM S-92		$1086	==
+
 Damage:	75 Ballistic
-Ranged Miss Chance:
-	3 out to 10m
-	4 out to 30m
-	5 out to 55m
 Burst Accuracy Penalty: 6 - 1 per 4 STR (starting at 4)
 Mag Size:		25 rounds of 12.1x33mm. $8 per mag
 Reload DC:		30%
@@ -53,26 +56,32 @@ Fire Modes:		Semi, Burst
 Armor Pierce Level:	1
 Reflex Modifier:	+5
 
++---------+-----+-----+-----+
+| Range   | 10m | 30m | 55m |
++---------+-----+-----+-----+
+| To Miss |  3  |  4  |  5  |
++---------+-----+-----+-----+
+
 ===== Level 5 Weapons =====
 
-----RMM 577 Carbine	$1408	----
+==  RMM 577 Carbine	$1408	==
+
 Damage:	85 Ballistic
-Ranged Miss Chance:		
-	3 out to 15m	
-	4 out to 40m	
-	5 out to 65m	
 Mag Size:		30 rounds of 5.77x45mm. $15 per magazine
 Reload DC:		30
 Fire Modes:		Semi
 Armor Piercing Level:	3	
-Reflex Modifier:	+2		
-		
-----ECSC Mk28		$1690	----
+Reflex Modifier:	+2
+
++---------+-----+-----+-----+
+| Range   | 15m | 40m | 65m |
++---------+-----+-----+-----+
+| To Miss |  3  |  4  |  5  |
++---------+-----+-----+-----+	
+
+==  ECSC Mk28		$1690	==
+
 Damage:	75 Ballistic
-Ranged Miss Chance:		
-	3 out to 15m	
-	4 out to 45m	
-	5 out to 70m	
 Burst Miss Chance:	+2,  Gain a -1 @ 7 Strength	
 Mag Size:		30 rounds of 5.00x45mm. $18 per magazine
 Reload DC:		30
@@ -80,44 +89,54 @@ Fire Modes:		Semi, Burst
 Burst Fire Rate:	3	
 Armor Piercing Level:	3	
 Reflex Modifier:	+2		
-Notes/Description:	CQB rifle	
-		
-----Frontier PL5-UC	$2001	----
+
+	CQB rifle
+
++---------+-----+-----+-----+
+| Range   | 15m | 45m | 70m |
++---------+-----+-----+-----+
+| To Miss |  3  |  4  |  5  |
++---------+-----+-----+-----+
+
+==  Frontier PL5-UC	$2001	==
+
 Damage:	90 Plasma + 1x Plasma Burn
-Ranged Miss Chance:		
-	3 out to 15m	
-	4 out to 40m	
-	6 out to 55m	
 Burst Miss Chance:	+3,  Gain a -1 @ 8 Strength	
 Mag Size:		20 units of Neon-15. $19 per magazine
 Reload DC:		40
 Fire Modes:		Semi, Burst
 Burst Fire Rate:	3	
 Armor Piercing Level:	3	
-Reflex Modifier:	+5	
-		
-----Frontier Lz150 Carbine	$2111	----
-Damage:	55 Laser	
-Ranged Miss Chance:		
-	2 out to 20m	
-	3 out to 50m	
-	4 out to 70m	
+Reflex Modifier:	+5
+
++---------+-----+-----+-----+
+| Range   | 15m | 40m | 55m |
++---------+-----+-----+-----+
+| To Miss |  3  |  4  |  6  |
++---------+-----+-----+-----+
+
+==  Frontier Lz150 Carbine	$2111	==
+
+Damage:	55 Laser
 Burst Miss Chance:	+4,  -1 for every 6 Strength	
 Mag Size:		24 charges of 15kWh. $16 per magazine
 Reload DC:		35
 Fire Modes:		Semi, Burst
 Burst Fire Rate:	3	
 Armor Piercing Level:	n/a	
-Reflex Modifier:	+5	
+Reflex Modifier:	+5
+
++---------+-----+-----+-----+
+| Range   | 20m | 50m | 70m |
++---------+-----+-----+-----+
+| To Miss |  2  |  3  |  4  |
++---------+-----+-----+-----+
 
 ===== Level 10 Weapons =====
 
-----Matthews 88C	$1770	----
+==  Matthews 88C	$1770	==
+
 Damage:	90 Ballistic
-Ranged Miss Chance:		
-	3 out to 15m	
-	4 out to 35m	
-	5 out to 60m	
 Burst Miss Chance:	+4,  -1 for every 6 Strength	
 Mag Size:		20 rounds of 7.65x40mm. $15 per magazine
 Reload DC:		30
@@ -125,65 +144,80 @@ Fire Modes:		Semi, Burst
 Burst Fire Rate:	3	
 Armor Piercing Level:	3	
 Reflex Modifier:	+2		
-Notes/Description:	CQB rifle	
-		
-----Frontier PL5-C	$2875	----
+	
+	CQB rifle	
+
++---------+-----+-----+-----+
+| Range   | 15m | 35m | 60m |
++---------+-----+-----+-----+
+| To Miss |  3  |  4  |  5  |
++---------+-----+-----+-----+
+
+==  Frontier PL5-C	$2875	==
+
 Damage:	100 Plasma + 1x Plasma Burn
-Ranged Miss Chance:		
-	2 out to 20m	
-	4 out to 40m	
-	5 out to 60m	
 Burst Miss Chance:	+2,  Gain a -1 @ 6 Strength	
 Mag Size:		20 units of Neon-15. $21 per magazine
 Reload DC:		40
 Fire Modes:		Semi, Burst
 Burst Fire Rate:	3	
 Armor Piercing Level:	4	
-Reflex Modifier:	+2	
-		
-----Partix Plas-Disc Launcher MX50	$2623	----
-Damage:	95 Plasma + 1x Plasma Burn	
-Ranged Miss Chance:		
-	2 out to 20m	
-	4 out to 45m	
-	5 out to 70m	
+Reflex Modifier:	+2
+
++---------+-----+-----+-----+
+| Range   | 20m | 40m | 60m |
++---------+-----+-----+-----+
+| To Miss |  2  |  4  |  5  |
++---------+-----+-----+-----+
+
+==  Partix Plas-Disc Launcher MX50	$2623	==
+
+Damage:	95 Plasma + 1x Plasma Burn
 Mag Size:		25 units of Neon-15. $21 per magazine
 Reload DC:		40
 Fire Modes:		Semi
 Armor Piercing Level:	4	
 Reflex Modifier:	+2	
 
++---------+-----+-----+-----+
+| Range   | 20m | 45m | 70m |
++---------+-----+-----+-----+
+| To Miss |  2  |  4  |  5  |
++---------+-----+-----+-----+
+
 ==============================
 ASSAULT RIFLES
 ==============================
-    A workhorse in the military, assault rifles are automatic rifles that can be fired in semi-auto
-or burst/automatic fire.
-Minimum Strength 5. Reload time is 2 Actions. Jam range 2%.
 
-- All Assault Rifles have "Suppression Level - Medium" (unless otherwise noted).
+    A workhorse in the military, assault rifles are automatic rifles that can be 
+fired in semi-auto or burst/automatic fire. Minimum Strength 5. Reload time is 2
+Actions. Jam range 2%.
+
+	All Assault Rifles have "Suppression Level - Medium" (unless otherwise 
+noted).
 
 ===== Level 1 Weapons =====
 
-----Anvil Arms AR-74 	$1986	----
-Damage:	90 Ballistic	
-Ranged Miss Chance:		
-	3 out to 15m	
-	4 out to 40m	
-	5 out to 75m	
+==  Anvil Arms AR-74 	$1986	==
+
+Damage:	90 Ballistic
 Auto Miss Chance:	+5,  -1 for every 4 Strength	
 Mag Size:		25 rounds of 7.65x40mm. $17 per magazine
 Reload DC:		30
 Fire Modes:		Semi, Auto
 Auto Fire Rate: 	6	
 Armor Piercing Level:	2	
-Reflex Modifier:	-5	
+Reflex Modifier:	-5
 
-----ECSC Mk15	$1715	----
++---------+-----+-----+-----+
+| Range   | 15m | 40m | 75m |
++---------+-----+-----+-----+
+| To Miss |  3  |  4  |  5  |
++---------+-----+-----+-----+
+
+==  ECSC Mk15	$1715	==
+
 Damage:	75 Ballistic
-Ranged Miss Chance:		
-	3 out to 15m	
-	4 out to 50m	
-	5 out to 85m	
 Auto Miss Chance:	+3,  Gain a -1 @ 6 Strength	
 Mag Size:		25 rounds of 5.00x38mm. $14 per magazine
 Reload DC:		30
@@ -192,42 +226,51 @@ Auto Fire Rate: 	6
 Armor Piercing Level:	1	
 Reflex Modifier:	-5		
 
++---------+-----+-----+-----+
+| Range   | 15m | 50m | 85m |
++---------+-----+-----+-----+
+| To Miss |  3  |  4  |  5  |
++---------+-----+-----+-----+
+
 ===== Level 5 Weapons =====
 
-----Anvil Arms AR-68 	$1937
+==  Anvil Arms AR-68 	$1937 ==
+
 Damage:	85 Ballistic
-Ranged Miss Chance:		
-	3 out to 15m	
-	4 out to 45m	
-	5 out to 80m	
 Auto Miss Chance:	+3,  Gain a -1 @ 8 Strength	
 Mag Size:		25 rounds of 5.45x40mm. $16 per magazine
 Reload DC:		30
 Fire Modes:		Semi, Auto
 Auto Fire Rate: 	7	
 Armor Piercing Level:	3	
-Reflex Modifier:	-5	
-		
-----Frontier 240R	$1982	----
-Damage:	85 Ballistic	
-Ranged Miss Chance:		
-	3 out to 15m	
-	4 out to 35m	
-	5 out to 75m	
+Reflex Modifier:	-5
+
++---------+-----+-----+-----+
+| Range   | 15m | 45m | 80m |
++---------+-----+-----+-----+
+| To Miss |  3  |  4  |  5  |
++---------+-----+-----+-----+
+
+==  Frontier 240R	$1982	==
+
+Damage:	85 Ballistic
 Auto Miss Chance:	+4,  -1 for every 5 Strength	
 Mag Size:		40 rounds of 6.50x39mm. $26 per magazine
 Reload DC:		30
 Fire Modes:		Semi, Auto
 Auto Fire Rate: 	6	
 Armor Piercing Level:	2	
-Reflex Modifier:	-5		
-		
-----ECSC Mk16 	$2102	----
-Damage:	80 Ballistic	
-Ranged Miss Chance:		
-	3 out to 15m	
-	4 out to 50m	
-	5 out to 85m	
+Reflex Modifier:	-5
+
++---------+-----+-----+-----+
+| Range   | 15m | 35m | 75m |
++---------+-----+-----+-----+
+| To Miss |  3  |  4  |  5  |
++---------+-----+-----+-----+		
+
+==  ECSC Mk16 	$2102	==
+
+Damage:	80 Ballistic
 Burst Miss Chance:	+2,  Gain a -1 @ 6 Strength	
 Auto Miss Chance:	+3,  Gain a -1 @ 7 Strength	
 Mag Size:		30 rounds of 5.00x45mm. $19 per magazine
@@ -235,14 +278,17 @@ Reload DC:		30
 Fire Modes:		Semi, Burst, Auto
 Burst; Auto Fire Rate:	3; 6	
 Armor Piercing Level:	3	
-Reflex Modifier:	-5	
-		
-----G&W XK20	$2412	----
-Damage:	95 Ballistic + 1x Bleed	
-Ranged Miss Chance:		
-	3 out to 15m	
-	4 out to 45m	
-	5 out to 75m	
+Reflex Modifier:	-5
+
++---------+-----+-----+-----+
+| Range   | 15m | 50m | 85m |
++---------+-----+-----+-----+
+| To Miss |  3  |  4  |  5  |
++---------+-----+-----+-----+
+
+==  G&W XK20	$2412	==
+
+Damage:	95 Ballistic + 1x Bleed
 Burst Miss Chance:	+5,  -1 for every 4 Strength	
 Auto Miss Chance:	+7,  -1 for every 3 Strength (Starting at 5)	
 Mag Size:		20 rounds of 8.20x44mm. $17 per magazine
@@ -250,14 +296,17 @@ Reload DC:		30
 Fire Modes:		Semi, Burst, Auto
 Burst; Auto Fire Rate:	3; 6	
 Armor Piercing Level:	3	
-Reflex Modifier:	-5		
-		
-----Partix Laser Rifle LA105	$3094	----
+Reflex Modifier:	-5
+
++---------+-----+-----+-----+
+| Range   | 15m | 45m | 75m |
++---------+-----+-----+-----+
+| To Miss |  3  |  4  |  5  |
++---------+-----+-----+-----+
+
+==  Partix Laser Rifle LA105	$3094	==
+
 Damage:	65 Laser	
-Ranged Miss Chance:		
-	2 out to 20m	
-	3 out to 55m	
-	4 out to 90m	
 Auto Miss Chance:	+3,  Gain a -1 @ 7 Strength	
 Mag Size:		24 charges of 20kWh . $19 per magazine
 Reload DC:		35
@@ -266,9 +315,16 @@ Auto Fire Rate: 	6
 Armor Piercing Level:	n/a	
 Reflex Modifier:	-5	
 
++---------+-----+-----+-----+
+| Range   | 20m | 55m | 90m |
++---------+-----+-----+-----+
+| To Miss |  2  |  3  |  4  |
++---------+-----+-----+-----+
+
 ===== Level 10 Weapons =====
 
-----G&W XK100	$3700	----
+==  G&W XK100	$3700	==
+
 Damage:	100 Ballistic
 Ranged Miss Chance:		
 	2 out to 15m	
@@ -283,27 +339,33 @@ Burst; Auto Fire Rate:	3; 6
 Armor Piercing Level:	4	
 Reflex Modifier:	-5		
 Notes/Description:	1x Bleed	
-		
-----Frontier Plas-20	$4231	----
-Damage:	105 Plasma + 1x Plasma Burn	
-Ranged Miss Chance:		
-	2 out to 20m	
-	3 out to 55m	
-	5 out to 85m	
+
++---------+-----+-----+-----+
+| Range   | 15m | 50m | 85m |
++---------+-----+-----+-----+
+| To Miss |  2  |  3  |  4  |
++---------+-----+-----+-----+
+
+==  Frontier Plas-20	$4231	==
+
+Damage:	105 Plasma + 1x Plasma Burn
 Auto Miss Chance:	+3,  Gain a -1 @ 6 Strength	
 Mag Size:		18 units of Argon-8. $20 per magazine
 Reload DC:		40
 Fire Modes:		Semi, Auto
 Auto Fire Rate: 	6	
 Armor Piercing Level:	4	
-Reflex Modifier:	-5	
-		
-----Partix Laser Rifle LA155	$4282	----
-Damage:	75 Laser	
-Ranged Miss Chance:		
-	2 out to 20m	
-	3 out to 65m	
-	3 out to 90m	
+Reflex Modifier:	-5
+
++---------+-----+-----+-----+
+| Range   | 20m | 55m | 85m |
++---------+-----+-----+-----+
+| To Miss |  2  |  3  |  5  |
++---------+-----+-----+-----+
+
+==  Partix Laser Rifle LA155	$4282	==
+
+Damage:	75 Laser
 Auto Miss Chance:	+3,  Gain a -1 @ 6 Strength	
 Mag Size:		30 charges of 25kWh. $28 per magazine
 Reload DC:		35
@@ -312,18 +374,25 @@ Auto Fire Rate: 	6
 Armor Piercing Level:	n/a	
 Reflex Modifier:	-5	
 
++---------+-----+-----+-----+
+| Range   | 20m | 65m | 90m |
++---------+-----+-----+-----+
+| To Miss |  2  |  3  |  3  |
++---------+-----+-----+-----+
+
 ==============================
 BATTLE RIFLES
 ==============================
-    Utilizing larger calibers, Battle Rifles are more powerful than comparable Assault Rifles.
-Minimum Strength 5. Reload time is 2 Actions. Jam range 2%.
+    Utilizing larger calibers, Battle Rifles are more powerful than comparable 
+Assault Rifles. Minimum Strength 5. Reload time is 2 Actions. Jam range 2%.
 
-- All Battle Rifles have "Suppression Level - Medium" (unless otherwise noted).
+	All Battle Rifles have "Suppression Level - Medium" (unless otherwise noted).
 
 
 ===== Level 1 Weapons =====
 
-----G&W FBR-C 	$2194	----
+==  G&W FBR-C 	$2194	==
+
 Damage:	100 Ballistic
 Ranged Miss Chance:		
 	3 out to 15m	
@@ -336,46 +405,56 @@ Fire Modes:		Semi, Auto
 Auto Fire Rate: 	5	
 Armor Piercing Level:	2	
 Reflex Modifier:	0	
-Notes/Description:	CQB rifle	
-		
-----G&W FBR 	$2665	----
+
+	CQB rifle	
+
++---------+-----+-----+-----+
+| Range   | 15m | 40m | 65m |
++---------+-----+-----+-----+
+| To Miss |  3  |  4  |  5  |
++---------+-----+-----+-----+
+
+==  G&W FBR 	$2665	==
+
 Damage:	105 Ballistic
-Ranged Miss Chance:		
-	3 out to 15m	
-	4 out to 50m	
-	5 out to 80m	
 Auto Miss Chance:	+6,  -1 for every 3 Strength (starting at 4)	
 Mag Size:		25 rounds of 7.65x51mm. $20 per magazine
 Reload DC:		30
 Fire Modes:		Semi, Auto
 Auto Fire Rate: 	5	
 Armor Piercing Level:	2	
-Reflex Modifier:	-10	
+Reflex Modifier:	-10
+
++---------+-----+-----+-----+
+| Range   | 15m | 50m | 80m |
++---------+-----+-----+-----+
+| To Miss |  3  |  4  |  5  |
++---------+-----+-----+-----+
 
 ===== Level 5 Weapons =====
 
-----Matthews HK-80	$2714	----
+==  Matthews HK-80	$2714	==
+
 Damage:	100 Ballistic
-Ranged Miss Chance:		
-	3 out to 15m	
-	4 out to 55m	
-	5 out to 85m	
 Burst Miss Chance:	+3,  Gain a -1 @ 6 Strength	
 Mag Size:		30 rounds of 5.77x55mm. $23 per magazine
 Reload DC:		30
 Fire Modes:		Semi, Burst
 Burst Fire Rate:	3	
 Armor Piercing Level:	4	
-Reflex Modifier:	-8	
+Reflex Modifier:	-8
+
++---------+-----+-----+-----+
+| Range   | 15m | 55m | 85m |
++---------+-----+-----+-----+
+| To Miss |  3  |  4  |  5  |
++---------+-----+-----+-----+
 
 ===== Level 10 Weapons =====
 
-----Berren Rifles BR606	$3909	----
+==  Berren Rifles BR606	$3909	==
+
 Damage:	105 Ballistic	
-Ranged Miss Chance:		
-	2 out to 15m	
-	3 out to 55m	
-	4 out to 95m	
 Auto Miss Chance:	+5,  -1 for every 4 Strength	
 Mag Size:		25 rounds of 6.06x55mm. $20 per magazine
 Reload DC:		30
@@ -383,3 +462,9 @@ Fire Modes:		Semi, Auto
 Auto Fire Rate: 	6	
 Armor Piercing Level:	5	
 Reflex Modifier:	-8	
+
++---------+-----+-----+-----+
+| Range   | 15m | 55m | 95m |
++---------+-----+-----+-----+
+| To Miss |  2  |  3  |  4  |
++---------+-----+-----+-----+
