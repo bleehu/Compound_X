@@ -143,14 +143,14 @@ Example for (STRENGTH) Athletics check:
 Adept: Knowledge - Nanites, Weapons - General
 Assassin: Stealth, Weapons - Melee
 Berserker: Athletics, Weapons - Melee
-Engineer: Knowledge - [General], Repair
+Engineer: Knowledge - General, Repair
 Doctor: Knowledge - [Any], Medicine
 Gunslinger: Acrobatics, Weapons - Pistol
 Hacker: Knowledge - Computers, Hacking
-Hunter: Spotting, Survival, Weapons - Shotgun or Long Rifle
+Hunter: Spotting, Survival, Weapons - [Choose one]
 Marksman: Spotting, Weapons - Long Rifle
 Monk: Acrobatics or Athletics, Stealth
 Paladin: Knowledge - High Tech, Weapons - General
-Pilots: Vehicles - [Flight, General, Ground. Pick 2], Weapons - General
+Pilots: Vehicles - [Choose two], Weapons - General
 Soldier: Weapons - General, Weapons - [Any]
 Specialist: Weapons - Heavy, Weapons - Thrown
