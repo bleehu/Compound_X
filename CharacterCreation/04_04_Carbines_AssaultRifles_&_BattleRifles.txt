@@ -326,10 +326,6 @@ Reflex Modifier:	-5
 ==  G&W XK100	$3700	==
 
 Damage:	100 Ballistic
-Ranged Miss Chance:		
-	2 out to 15m	
-	3 out to 50m	
-	4 out to 85m	
 Burst Miss Chance:	+4,  -1 for every 4 Strength	
 Auto Miss Chance:	+6,  -1 for every 3 Strength (Starting at 5)	
 Mag Size:		20 rounds of 8.20x44mm. $17 per magazine
@@ -394,10 +390,6 @@ Assault Rifles. Minimum Strength 5. Reload time is 2 Actions. Jam range 2%.
 ==  G&W FBR-C 	$2194	==
 
 Damage:	100 Ballistic
-Ranged Miss Chance:		
-	3 out to 15m	
-	4 out to 40m	
-	5 out to 65m	
 Auto Miss Chance:	+7,  -1 for every 3 Strength (starting at 4)	
 Mag Size:		20 rounds of 7.65x51mm. $16 per magazine
 Reload DC:		30
