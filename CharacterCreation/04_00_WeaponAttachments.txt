@@ -451,7 +451,7 @@ traditional AP rounds. But it also means that it won't break up to damage soft
 tissue as effectively. 
 
     Using gluon rounds adds 1 to your weapon's AP level. Gluon rounds deal 
-double damage to the AS of any armor they hit, but deal 15% less damage to the 
+triple damage to the AS of any armor they hit, but deal 15% less damage to the 
 HP of any character they hit.
 
 == Short Circuit Rounds ($1.5 x mag cost) ==
