@@ -79,10 +79,6 @@ Movement Speed Penalty:	-0.5m
 		
 == ECSC PRS 	$2303	==
 Damage:	115 Ballistic
-Ranged Miss Chance:		
-	2 out to 20m	
-	3 out to 80m	
-	4 out to 140m	
 Mag Size:		7 rounds of 6.06x60mm. $16 per magazine
 Reload DC:		30
 Fire Modes:		Bolt Action
@@ -93,6 +89,12 @@ Movement Speed Penalty:	-0.5m
 	Integrated Improved Silencer. Starts with 'Basic 2x Scope attached': +10m 
 minimum range	
 		
++---------+-----+------+------+
+| Range   | 20m |  80m | 140m |
++---------+-----+------+------+
+| To Miss |  2  |   3  |   4  |
++---------+-----+------+------+
+
 == Frontier Plas-3 LR	$3135	==
 Damage:	130 Plasma + 3x Plasma Burn	
 Mag Size:		4 units of Xenon-131. $16 per magazine
@@ -114,10 +116,6 @@ Movement Speed Penalty:	-1m
 
 == Anvil Arms SR-250 	$3198	==
 Damage:	130 Ballistic
-Ranged Miss Chance:		
-	2 out to 20m	
-	3 out to 140m	
-	4 out to 230m	
 Mag Size:		5 rounds of 7.65x67mm. $11 per magazine
 Reload DC:		35
 Fire Modes:		Bolt Action
