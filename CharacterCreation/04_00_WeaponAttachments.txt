@@ -443,6 +443,17 @@ silent weapons fire automatically succeed. A bullet impact can be heard if a
 character is within 5m of the impact, alert and makes an Investigate(PER) check
 over DC 50.
 
+== Gluon Rounds ($2.5 x mag cost) ==
+    Gluon rounds use a web of inseparable gluon entangled particles to make a
+round that won't fragment no matter what it hits. That means that it delivers
+all of its energy to one point, which helps penetrate armor even better than
+traditional AP rounds. But it also means that it won't break up to damage soft
+tissue as effectively. 
+
+    Using gluon rounds adds 1 to your weapon's AP level. Gluon rounds deal 
+double damage to the AS of any armor they hit, but deal 15% less damage to the 
+HP of any character they hit.
+
 == Short Circuit Rounds ($1.5 x mag cost) ==
     Short circuit rounds are specifically designed to damage cybernetic targets.
 They contain a hyperconductive solute that bonds with most known insulators.
