@@ -555,7 +555,7 @@ You give your ally a quick shot of stuff that makes their system reject any
 foreign substances in their system. Any malicious Nanites or poisons or toxins 
 or parasites are immediately expelled as they violently puke. This cancels the 
 effect of domination, any NF variants, poison, hallucinogens, ongoing internal 
-CS burns, depressants, and paralytics other than physical impact. This procedure 
+burns, depressants, and paralytics other than physical impact. This procedure 
 only works on biologic targets.
 
 ==Mild Analgesic ==
