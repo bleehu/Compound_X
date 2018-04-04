@@ -456,7 +456,7 @@ armor or if it doesn't hit armor.
 
 == Vorpal Ammunition ($2.5 x mag cost) ==
     
-    Vorpal Rounds carry a small nanite payload which damage soft, vital tissue
+    Vorpal Rounds carry a small nanite payload which damages soft, vital tissue
 or circuitry. Unfortunately, the density of nanoweaponry precludes powerful 
 locomotive capability. So they only really deal the extra damage if you put the 
 round where it's gonna hurt.
