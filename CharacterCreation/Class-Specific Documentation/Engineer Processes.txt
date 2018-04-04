@@ -261,10 +261,10 @@ Range:		Touch
 
     You release a spider-like micro repair bot that repairs a cybernetic
 ally for 8 turns before running out of power. The microbot is able to heal
-15 health per turn. Once spent, the microbot burns up in CS burn. A 
-Microassembler uses wireless cloud calculation to stay small, but on-blueprint. 
-As such, it is vulnerable to hack checks at a DC of 50. A hacked micro assembler 
-reveals its location and may deal 5 Internal Damage per turn.
+15 health per turn. Once spent, the microbot burns itself up. A Microassembler 
+uses wireless cloud calculation to stay small, but on-blueprint. As such, it is 
+vulnerable to hack checks at a DC of 50. A hacked micro assembler reveals its 
+location and may deal 5 Internal Damage per turn.
 
 == Engine Tuning	== 
 Energy Gain:50
