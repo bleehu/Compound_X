@@ -457,14 +457,14 @@ armor or if it doesn't hit armor.
 == Vorpal Ammunition ($2.5 x mag cost) ==
     
     Vorpal Rounds carry a small nanite payload which damage soft, vital tissue
-or circuitry. Unfortunately, the nanites are over-equipped with microweaponry,
-but under-equipped with locomotive flagella. So they only really deal the extra
-damage if you put the round where it's gonna hurt.
+or circuitry. Unfortunately, the density of nanoweaponry precludes powerful 
+locomotive capability. So they only really deal the extra damage if you put the 
+round where it's gonna hurt.
 
     Vorpal rounds deal an extra 10% of normal weapon damage on critical hit and
 20% damage on extra-crits. For example, if your gun deals 80 damage normally,
-and you roll a crit when using vorpal rounds, your gun deals 80 + 10 (for crit)
-+ 8 (vorpal damage) = 98. If you scored an extra-crit with the same weapon, 
+and you roll a crit when using Vorpal rounds, your gun deals 80 + 10 (for crit)
++ 8 (Vorpal damage) = 98. If you scored an extra-crit with the same weapon, 
 you'd do 80 + 20 (extra crit damage) + 16 = 116 damage. 
 
 ==============================
