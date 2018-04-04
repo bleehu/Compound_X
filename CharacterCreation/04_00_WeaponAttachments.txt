@@ -1,335 +1,437 @@
 ==============================
-Notes on Attachments
+Weapon Attachments
 ==============================
-These add-ons are stat affected items or items that will add functionality to a 
-weapon. Most Attachments can be affixed to any weapon unless otherwise 
+    These add-ons are stat affected items or items that will add functionality 
+to a weapon. Most Attachments can be affixed to any weapon unless otherwise 
 noted. Ask a GM if you are not sure.
 
-Please note that unless otherwise specified, only one attachment of a given type may
-be used. For instance, one cannot use two red lasers to get a -4 Miss Chance, nor 
-can you use both a reflex sight and a 3.2x scope. 
+    Please note that unless otherwise specified, only one attachment of a given 
+type may be used. For instance, one cannot use two red lasers to get a -4 Miss 
+Chance, nor can you use both a reflex sight and a 3.2x scope. 
 
 ==============================
 Optics / Aiming Aids
 ==============================
-You may only have 1 scope, unless otherwise stated.
+    You may only have 1 scope, unless otherwise stated.
 
 ===== Level 1 Requirement =====
-
-Tritium Glow Iron Sights  $150 
-1x magnification, but allows for much better target acquisition. Can be mounted 
-on 45 degree mounts in addition to a scope in order to negate a minimum 
+== Tritium Glow Iron Sights  $150 ==
+    1x magnification, but allows for much better target acquisition. Can be 
+mounted on 45 degree mounts in addition to a scope in order to negate a minimum 
 engagement distance penalty.
-Range Bracket Miss Chance: -0.5
-Can be used on any conventional, nonexplosives weapon. E.G., pistols, shotguns, 
-rifles, etc.
 
-Grenade Launcher Iron Sights  $400
-1x Magnification. Allows better estimation of distances. Folds down for compatibility
-with magnified optics or dot-sites for the primary weapon. Can be used along side
-other weapon sites, but not the Tritium Glow Iron Sites (If grenade launcher is not
-an underbarrel attachment, disregard). 
-Grenade Launcher ranged miss chance: -0.5
+    Range Bracket Miss Chance: -0.5
 
-1x Dot Sight  $350
-Your basic tube-shaped dot-projection. Dot can be changed from blue-green-red 
-for various lighting situations and terrains.
-Miss Chance reduction (in all Range Brackets) by weapon type: -1 for Pistols, -0.5 other.
-R3 Range: +3m
+    Can be used on any conventional, nonexplosives weapon. E.G., pistols, 
+shotguns, rifles, etc.
 
-1x Reflex Sight  $500
-A reflectively-projected site, comprised of a light source and a single pane of 
-rectangular glass. Allows for less F.O.V. and parallax distortions. 
-Has a small cross, chevron, or dot as the indicator. 
-R3 Range bonus & Miss Chance reduction (all Range Brackets) is proportional to the weapon
-type: +6m/-1.5 Pistols, +10m/-1.0 submachine guns, +2m/-1.0 carbines, +0m/-1.0 other.
-Weapon Reflex Modifier: +2
+== Grenade Launcher Iron Sights  $400 ==
+    1x Magnification. Allows better estimation of distances. Folds down for 
+compatibility with magnified optics or dot-sites for the primary weapon. Can be 
+used along side other weapon sites, but not the Tritium Glow Iron Sites (If 
+grenade launcher is not an underbarrel attachment, disregard). 
 
-1.2x Hologramic projector  $800
-Projects a hologram target acquisition reticle, which compensates slightly 
+    Grenade Launcher ranged miss chance: -0.5
+
+== 1x Dot Sight  $350 ==
+
+    Your basic tube-shaped dot-projection. Dot can be changed from 
+blue-green-red for various lighting situations and terrains.
+
+Miss Chance reduction (in all Range Brackets) by weapon type: 
+*  -1 for Pistols
+*  -0.5 other.
+*  +3m R3 Range
+
+== 1x Reflex Sight  $500 ==
+
+    A reflectively-projected site, comprised of a light source and a single pane 
+of rectangular glass. Allows for less F.O.V. and parallax distortions. Has a 
+small cross, chevron, or dot as the indicator. 
+
+    R3 Range bonus & Miss Chance reduction (all Range Brackets) is proportional 
+to the weapon
+
+type: 
+*  +6m/-1.5 Pistols
+*  +10m/-1.0 submachine guns
+*  +2m/-1.0 carbines
+*  +0m/-1.0 other.
+
+Weapon Reflex Modifier:
+*  +2
+
+== 1.2x Hologramic projector  $800 ==
+
+    Projects a hologram target acquisition reticle, which compensates slightly 
 for windage or target movement. also artificially enhances view so as to 
 magnify by 120%.
-R3 Range bonus & Miss Chance reduction (all Range Brackets) is proportional to the weapon
-type: +8m/-2.0 Pistols, +12m/-1.5 submachine guns, +8m/-1.0 carbines, +6m/-1.0 other.
-Weapon Reflex Modifier: +5
 
-2x Magnifier for Dot Scopes  $500
-A basic magnifying optical-tube capable of increasing the effective range of a weapon. 
-Flips out of the way for 1 action.
-Must be paired with a reflex/projector/dot sight. Usable on select long barrel pistols, ask your DM. 
-Add a range bracket with Miss chance R4 = [R3's miss chance]+1 and Range R4 = R3+20m. For pistols, Range R4 = R3+15m. +5m minimum range. 
+    R3 Range bonus & Miss Chance reduction (all Range Brackets) is proportional 
+to the weapon
 
-3.2x Basic Scope  $800
-A heavy-duty tube made for heavy weapons and sustained automatic fire, but 
+type: 
+*  +8m/-2.0 Pistols
+*  +12m/-1.5 submachine guns
+*  +8m/-1.0 carbines
+*  +6m/-1.0 other.
+
+Weapon Reflex Modifier: 
+*  +5
+
+== 2x Magnifier for Dot Scopes  $500 ==
+    A basic magnifying optical-tube capable of increasing the effective range of 
+a weapon. Flips out of the way for 1 action. Must be paired with a 
+reflex/projector/dot sight. Usable on select long barrel pistols, ask your DM. 
+Add a range bracket with Miss chance R4 = [R3's miss chance]+1 and Range R4 = 
+R3+20m. For pistols, Range R4 = R3+15m. +5m minimum range. 
+
+== 3.2x Basic Scope  $800 ==
+    A heavy-duty tube made for heavy weapons and sustained automatic fire, but 
 would suit single-fire weapons just as well. Sports a black multi-chevron 
 reticle suitable for daytime bright-light use.
-Add a range bracket with Miss Chance R4 = [R3's miss chance]+1 and Range R4 = R3+35m, +10m minimum range.
-Range Bracket Miss Chance: -0.5
 
-4x Basic Scope  $1100
-Not usable on pistols, SMGs. 
-Add a range bracket with Miss Chance R4 = [R3's miss chance]+1 and Range R4 = R3+50m, +15m minimum range.
-Range Bracket Miss Chance: -0.5
+    Add a range bracket with Miss Chance R4 = [R3's miss chance]+1 and Range R4 
+= R3+35m, +10m minimum range.
 
-6x Basic Scope  $1400
-Not usable on pistols, SMGs. 
-Add a range bracket with Miss Chance R4 = [R3's miss chance]+1 and Range R4 = R3+80m, +20m minimum range.
-Range Bracket Miss Chance: -0.5
+Range Bracket Miss Chance: 
+* -0.5
 
-2-6x Scope  $2100
-Not usable on pistols, SMGs. 
-For 1 action, you can adjust the magnification on this scope in order to 
-better see your target. Once sighted to a certain range, other targets that 
-are +/- 10 meters can still be fired upon. Otherwise you must adjust your 
-magnification.
-Add a range bracket with Miss Chance R4 = [R3's miss chance]+0.5 and Range R4 = R3+80m, +10 minimum range.
-Range Bracket Miss Chance: -0.5
+== 4x Basic Scope  $1100 ==
+    Not usable on pistols, SMGs. Add a range bracket with Miss Chance R4 = [R3's 
+miss chance]+1 and Range R4 = R3+50m, +15m minimum range.
 
-7x Basic Scope  $1500
-Can only be used on Long Rifles.
-Add a range bracket with Miss Chance R4 = [R3's miss chance]+1 and Range R4 = 1.5x R3  (or +95m whichever is higher), +25m minimum range.
-Range Bracket Miss Chance: -0.5
+Range Bracket Miss Chance:
+*  -0.5
 
-8x Basic Scope  $1800
-Can only be used on Long Rifles.
-Add a range bracket with Miss Chance R4 = [R3's miss chance]+1 and Range R4 = 2x R3, +30m minimum range.
-Range Bracket Miss Chance: -0.5
+== 6x Basic Scope  $1400 ==
+    Not usable on pistols, SMGs. Add a range bracket with Miss Chance R4 = [R3's 
+miss chance]+1 and Range R4 = R3+80m, +20m minimum range.
 
-15-20x Scope  $3000
-Can only be used on Long Rifles.
-Add a range bracket with Miss Chance R4 = [R3's miss chance]+0.5 and Range R4 = 3x R3, +60m minimum range.
-Range Bracket Miss Chance: -0.5
+Range Bracket Miss Chance:
+*  -0.5
 
-Range Finder  $740
-Notifies the user of the target's range via an infrared laser beam. Useful for
-calculated bullet drop for a sniper. Negates one of the actions used to adjust 
-scope windage and elevation due to distance.
-(can be used in addition to another scope/other attachments, requires railspace to be used)
+==  2-6x Scope  $2100 ==
+    Not usable on pistols, SMGs. For 1 action, you can adjust the magnification 
+on this scope in order to better see your target. Once sighted to a certain 
+range, other targets that are +/- 10 meters can still be fired upon. Otherwise 
+you must adjust your magnification.
 
-Basic Light-Amplification Scope  $880
-Enables low-light vision out to 60m, can be used with one other scope attachment.
+    Add a range bracket with Miss Chance R4 = [R3's miss chance]+0.5 and Range 
+R4 = R3+80m, +10 minimum range.
+
+Range Bracket Miss Chance:
+*  -0.5
+
+== 7x Basic Scope  $1500 ==
+    Can only be used on Long Rifles. Add a range bracket with Miss Chance R4 = 
+[R3's miss chance]+1 and Range R4 = 1.5x R3  (or +95m whichever is higher), +25m 
+minimum range.
+
+Range Bracket Miss Chance:
+*  -0.5
+
+== 8x Basic Scope  $1800 ==
+    Can only be used on Long Rifles. Add a range bracket with Miss Chance R4 = 
+[R3's miss chance]+1 and Range R4 = 2x R3, +30m minimum range.
+
+Range Bracket Miss Chance:
+*  -0.5
+
+== 15-20x Scope  $3000 ==
+    Can only be used on Long Rifles. Add a range bracket with Miss Chance R4 = 
+[R3's miss chance]+0.5 and Range R4 = 3x R3, +60m minimum range.
+
+Range Bracket Miss Chance:
+*  -0.5
+
+== Range Finder  $740 ==
+    Notifies the user of the target's range via an infrared laser beam. Useful 
+for calculated bullet drop for a sniper. Negates one of the actions used to 
+adjust scope windage and elevation due to distance.
+
+    (can be used in addition to another scope/other attachments, requires 
+railspace to be used)
+
+== Basic Light-Amplification Scope  $880 ==
+    Enables low-light vision out to 60m, can be used with one other scope 
+attachment.
 
 ===== Level 10 Requirement =====
 
-Grenade Launcher Auto-Range Elevator  $1500
-1x Magnification. Allows automatic estimation and compensation of distances. 
+== Grenade Launcher Auto-Range Elevator  $1500 ==
+    1x Magnification. Allows automatic estimation and compensation of distances. 
 Can be used along side other weapon sites, but not the Tritium Glow Iron Sites 
 (If grenade launcher is not an underbarrel attachment, disregard). 
-Grenade Launcher ranged miss chance: -1.5
 
-2x Hologramic projector  $1200
-Projects a hologram target acquisition reticle, which compensates slightly 
+Grenade Launcher ranged miss chance:
+*  -1.5
+
+== 2x Hologramic projector  $1200 ==
+    Projects a hologram target acquisition reticle, which compensates slightly 
 for windage or target movement. Contains a crystal which changes the holographic 
 color depending on the environment. Also artificially enhances view so as to 
 magnify by 200%.
-R3 Range bonus & Miss Chance reduction (all Range Brackets) is proportional to the weapon
-type: +15m/-2.0 Pistols, +20m/-1.5 submachine guns, +15m/-1.0 carbines, +12m/-1.0 other.
+
+    R3 Range bonus & Miss Chance reduction (all Range Brackets) is proportional 
+to the weapon type as listed below. 
+*  +15m/-2.0 Pistols
+*  +20m/-1.5 submachine guns
+*  +15m/-1.0 carbines
+*  +12m/-1.0 other.
+
 Minimum Range: +1m
 Weapon Reflex Modifier: +5
 
-4x Low-Light Enhanced Sight  $2000
-Powered by tritium fiberoptics. Not usable on pistol, SMGs.
-Add a range bracket with Miss Chance R4 = [R3's miss chance]+1 and Range R4 = R3+55m, +15m minimum range.
-Range Bracket Miss Chance: -1
+== 4x Low-Light Enhanced Sight  $2000 ==
+    Powered by tritium fiberoptics. Not usable on pistol, SMGs. Add a range 
+bracket with Miss Chance R4 = [R3's miss chance]+1 and Range R4 = R3+55m, +15m 
+minimum range.
+
+Range Bracket Miss Chance:
+*  -1
 
 ==============================
 Assistance Attachments
 ==============================
-You may only have one type of laser, and maximum of two total of the following.
+
+    You may only have one type of laser, and maximum of two total of the 
+following.
 
 ===== Level 1 Requirement =====
 
-Flashlight  $60
-Its a flashlight. It lights things up.
-30m visibility in dark.
+== Flashlight  $60 ==
+    Its a flashlight. It lights things up. 30m visibility in dark.
 
-IR flashlight  $480
-Works well with IR vision. Actually, it only works with IR vision.
-30m visibility in dark with IR vision.
+== IR flashlight  $480 ==
+    Works well with IR vision. Actually, it only works with IR vision. 30m 
+visibility in dark with IR vision.
 
-Red Laser  $250
-Hip Fire Miss Chance Penalty: -2 out to 25m
+== Red Laser  $250 ==
+    Hip Fire Miss Chance Penalty: -2 out to 25m
 
-Green Laser  $350
-Hip Fire Miss Chance Penalty: -1 out to 80m
+== Green Laser  $350 ==
+    Hip Fire Miss Chance Penalty: -1 out to 80m
 
-IR Laser  $900
-Must be used with IR vision. Can also be used to paint a target for Airstrikes or Orbital Strikes out to 150m.
-Hip Fire Miss Chance Penalty: -2 out to 80m
+== IR Laser  $900 ==
+    Must be used with IR vision. Can also be used to paint a target for 
+Airstrikes or Orbital Strikes out to 150m.
+
+Hip Fire Miss Chance Penalty:
+*  -2 out to 80m
 
 ===== Level 10 Requirement =====
 
-Blue Laser  $800
-Hip Fire Miss Chance Penalty: -2 out to 90m
+== Blue Laser  $800 ==
+Hip Fire Miss Chance Penalty:
+*  -2 out to 90m
 
-Focused Heartbeat Monitor  $1500
-Range Bracket Miss Chance: -1 when firing at organic targets behind cover within 20m
+== Focused Heartbeat Monitor  $1500 ==
+Range Bracket Miss Chance:
+*  -1 when firing at organic targets behind cover within 20m
 
 ==============================
 Barrel Attachments
 ==============================
-You may only choose one barrel attachment.
+    You may only choose one barrel attachment.
 
 ===== Level 1 Requirement =====
 
-Bayonet Mount  $100
-Can affix a knife to your gun. Allows you to use your knife without having to put down your gun and draw it.
+== Bayonet Mount  $100 ==
+    Can affix a knife to your gun. Allows you to use your knife without having 
+to put down your gun and draw it.
 
-Recoil Compensator (Muzzle Brake)  $500
-Reduces Recoil from the gun, allowing for more accurate follow-up shots. Also 
-increases muzzle flash, making you easier to spot at a distance when firing.
-Auto and Burst Miss Chance: -0.5 
-Does not apply to lasers, coilguns or plasma guns.
+== Recoil Compensator (Muzzle Brake)  $500 ==
+    Reduces Recoil from the gun, allowing for more accurate follow-up shots. 
+Also increases muzzle flash, making you easier to spot at a distance when 
+firing.
 
-Flash / Sound Suppressor  $900
+    Using the recoil compensator gives an Auto and Burst Miss Chance -0.5 which 
+does not apply to lasers, coilguns or plasma guns.
+
+== Flash / Sound Suppressor  $900 ==
 Greatly reduces the muzzle flash and some of the weapon report from firing. 
 Targets are not likely to see you or hear you when not particularly looking for
 you. When alerted to your presence, they are 60% less likely to find your 
-position.
+position. Only applies to ballistic weapons. Not usable on coilguns, shotguns, 
+or Machine Guns.
+
 Auto and Burst Miss Chance: -0.5 
 R3 Range: +4m
-Only applies to ballistic weapons. Not usable on coilguns, shotguns, or Machine Guns.
 
-Improved Flash / Sound Suppressor  $1400
-Completely removes muzzle flash and the weapon report. Targets cannot locate 
-you due to firing your weapon.
+== Improved Flash / Sound Suppressor  $1400 ==
+    Completely removes muzzle flash and the weapon report. Targets cannot locate 
+you due to firing your weapon. Only applies to ballistic weapons. Not usable on 
+coilguns, shotguns, or Machine Guns.
+
 Auto and Burst Miss Chance: -0.5 
 R3 Range: +8m
-Only applies to ballistic weapons. Not usable on coilguns, shotguns, or Machine Guns.
 
 ===== Level 10 Requirement =====
 
-Heavy Recoil Compensator  $900
-Larger, and with actuating pistons, the heavy recoil compensator distributes recoil energy
-over a longer period of time.
-Auto and Burst Miss Chance: -1 
+== Heavy Recoil Compensator  $900 ==
 
-BE Meyers Spektor suppressor  $2000
-Completely removes muzzle flash and the weapon report. Targets cannot locate 
-you due to firing your weapon.
+    Larger, and with actuating pistons, the heavy recoil compensator distributes 
+recoil energy over a longer period of time.
+
+Auto and Burst Miss Chance:
+*  -1 
+
+== BE Meyers Spektor suppressor  $2000 ==
+    Completely removes muzzle flash and the weapon report. Targets cannot locate 
+you due to firing your weapon. Only applies to ballistic weapons. Not usable on 
+coilguns, shotguns, or Machine Guns.
+
 Ranged Miss Chance: -0.5 
 R3 Range: +12m
-Only applies to ballistic weapons. Not usable on coilguns, shotguns, or Machine Guns.
 
 ==============================
 Barrel Replacements
 ==============================
-You may only choose one barrel type.
+    You may only choose one barrel type.
 
 ===== Level 1 Requirement =====
+== Light Profile Barrel  $720 ==
 
-Light Profile Barrel  $720
 Ranged Miss Chance: +0.5
 Strength Requirement: -1
 Carry Strength Bonus: +0.5 (cancels out movement speed penalties)
 Weapon Reflex Modifier: +5
 
-Heavy Profile Barrel  $720
-This heavier barrel reduces recoil, increases the accuracy of follow-up shots.
+== Heavy Profile Barrel  $720 ==
+    This heavier barrel reduces recoil, increases the accuracy of follow-up shots.
+
 Ranged Miss Chance: -1 @ Range Brackets R2 & R3 (and a -1 to R4 if relevant)
 Movement Speed Penalty: -1m
 Weapon Reflex Modifier: -8
 
 ===== Level 10 Requirement =====
 
-Magnetic Accelerator Field  $1500
-Weapon Damage: +10% (Drop the remainder)
-Only applies to coilgun and plasma weapons.
+== Magnetic Accelerator Field  $1500 ==
+Weapon Damage:
+*  +10% (Drop the remainder)
 
-Improved Focal Lensing  $1500
-Weapon Damage: +10% (Drop the remainder) or +5, whichever is higher.
-Only applies to lasers.
+    Only applies to coilgun and plasma weapons.
+
+== Improved Focal Lensing  $1500 ==
+Weapon Damage:
+*  +10% (Drop the remainder) or +5, whichever is higher.
+
+    Only applies to lasers.
 
 ==============================
 Lower Rail attachments
 ==============================
-You may only choose one of these. You may not use these attachment with pistols
-or small SMGs (pistol sized). 
+    You may only choose one of these. You may not use these attachment with 
+pistols or small SMGs (pistol sized). 
 
 ===== Level 1 Requirement =====
 
-Bipod  $900
-Increases weapon stability when deployed.
-1 action is required to deploy the bipod. Free action to disengage. To Deploy, you must
-be near an object you can rest your gun on, or you must be prone. Having the bipod
-deployed does not impair use of weapon, but will make holstering the weapon or moving
-through confined spaces more difficult. After disengaging, user must still take 1 Action 
+== Bipod  $900 ==
+    Increases weapon stability when deployed. 1 Action is required to deploy the 
+bipod. Free action to disengage. To Deploy, you must be near an object you can 
+rest your gun on, or you must be prone. Having the bipod deployed does not 
+impair use of weapon, but will make holstering the weapon or moving through 
+confined spaces more difficult. After disengaging, user must still take 1 Action 
 to deploy. 
-Cannot be used with an underbarrel weapon.
+
+    Cannot be used with an underbarrel weapon.
+
 Only when deployed: -2 Auto and Burst Miss Chance.
 Only when deployed: -1 R3 & R2 Miss Chance.
 
-Vertical Foregrip $500
-Increase weapon stability.
-Auto and Burst Miss Chance: -1
+== Vertical Foregrip $500 ==
+    Increase weapon stability.
 
-Angled Foregrip $600
-Easier to grip and somehow aim the weapon better 
-for long periods of time than a vertical Foregrip. 
+Auto and Burst Miss Chance:
+*  -1
+
+== Angled Foregrip $600 ==
+    Easier to grip and somehow aim the weapon better for long periods of time 
+than a vertical Foregrip. 
+
 Auto and Burst Miss Chance: -1.5
 Weapon Reflex Modifier: +3
 
-Under-Barrel Grenade Launcher $827
-Damage:	Varies		
-Ranged Miss Chance:			
-	4 out to 10m		
-	5 out to 30m		
-	6 out to 50m		
+== Under-Barrel Grenade Launcher $827 ==
+
+Damage:	Varies by ammo type.
 Mag Size:		1 round of 40mm grenade. Ammo cost varies.
 Reload DC:		35	
 Fire Modes:		Single Shot Reload	
 Armor Piercing Level:	Varies		
 Suppression Level:	Light		
-Movement Speed Penalty:	-0.5m		
-Notes/Description:	Gun takes an additional -10 reflex modifier.
-Requires an explosives skill of at least 10 to use. Miss chance only reduced by
-grenade launcher attachments (such as a sight or a sling), Perception Combat bonus,
-and [explosives skill]/20. All 40mm grenades explode on impact (DC 100% PER or LUCK check to dodge or take reduced damage) and have a -1m max explosion radius, unless
-otherwise stated. 2 Action reload time.
-The grenade launcher takes the following 40mm ammunition:
-FRAG: See ECSC Fragmentation grenade.
-HE (High-Explosive): See RMM HiEx Grenade.
-PLAS: See Frontier Plasma Grenade.
-CHEM: See Frontier Chemical Grenade.
-SMOKE: See ECSC Smoke Grenade.
+Movement Speed Penalty:	-0.5m
 
-Under-Barrel Shotgun $520
-Damage, Ranged Miss Chance:			
-	110 damage, 2 miss chance out to 5m		
-	90 damage, 3 miss chance out to 10m		
-Mag Size:		3 rounds of 12ga Frangible. $13 for a bag of 8 shells.
++-------------+-----+-----+-----+
+| Range       | 10m | 30m | 50m |
++-------------+-----+-----+-----+
+| Miss Chance |  4  |  5  |  6  |
++-------------+-----+-----+-----+
+
+    Gun takes an additional -10 reflex modifier. Requires an explosives skill of 
+at least 10 to use. Miss chance only reduced by grenade launcher attachments 
+(such as a sight or a sling), Perception Combat bonus, and [explosives skill]/20. 
+All 40mm grenades explode on impact (DC 100% PER or LUCK check to dodge or take 
+reduced damage) and have a -1m max explosion radius, unless otherwise stated. 2 
+Action reload time.
+
+    The grenade launcher takes the following 40mm ammunition.
+
+*  FRAG: See ECSC Fragmentation grenade.
+*  HE (High-Explosive): See RMM HiEx Grenade.
+*  PLAS: See Frontier Plasma Grenade.
+*  CHEM: See Frontier Chemical Grenade.
+*  SMOKE: See ECSC Smoke Grenade.
+
+== Under-Barrel Shotgun $520 ==
+Mag Size:		3 rounds of 12ga Frangible. 
+Mag Cost:       $13 for a bag of 8 shells.
 Reload DC:		45	
 Fire Modes:		Pump Action	
 Armor Piercing Level:	1		
 Reflex Modifier:	-6
 Suppression Level:	Light	
 Movement Speed Penalty:	-0.5m
-Notes/Description:	Gun takes an additional -6 reflex modifier.
-To Breach a door, the user must pass a DC 20 hit roll a number of times
-equal to the door''s DC / 20. This style of breaching only applies to
-traditionally hinged doors, GM's discretion.
-All other rules are the same as a standard shotgun. Only usable with buckshot.
+
++-------------+-----+-----+
+| Range       |  5m | 10m |
++-------------+-----+-----+
+| Miss Chance |  2  |  3  |
++-------------+-----+-----+
+| Damage      | 110 |  90 |
++-------------+-----+-----+
+
+    Gun takes an additional -6 reflex modifier. To Breach a door, the user must 
+pass a DC 20 hit roll a number of times equal to the door''s DC / 20. This style 
+of breaching only applies to traditionally hinged doors, GM's discretion. All 
+other rules are the same as a standard shotgun. Only usable with buckshot.
 
 ===== Level 10 Requirement =====
 
-Grip-pod  $1200
-Increases held weapon stability, and contains a bipod for augmented stability.
-1 action is required to deploy the bipod. Free action to disengage. To Deploy, you must
-be near an object you can rest your gun on, or you must be prone. Having the bipod
-deployed does not impair use of weapon, but will make holstering the weapon or moving
-through confined spaces more difficult.
-Cannot be used with an underbarrel weapon.
+== Grip-pod  $1200 ==
+
+    Increases held weapon stability, and contains a bipod for augmented 
+stability. 1 Action is required to deploy the bipod. Free action to disengage. 
+To Deploy, you must be near an object you can rest your gun on, or you must be 
+prone. Having the bipod deployed does not impair use of weapon, but will make 
+holstering the weapon or moving through confined spaces more difficult.
+
+    Cannot be used with an underbarrel weapon.
+
 At all times: -2 Auto and Burst Miss Chance.
 Only when deployed: -1 R3 & R2 Miss Chance.
 
-SPECO Under-Barrel Chainsaw SPC100  	$607.77
-Enemy a little too close for comfort? Allows the user to enter melee combat 
-without needing to switch out their primary weapon for a melee weapon. (This weapon
-follows normal melee rules as stated in the basic rules).
+== SPECO Under-Barrel Chainsaw SPC100  	$607.77 ==
+    Enemy a little too close for comfort? Allows the user to enter melee combat 
+without needing to switch out their primary weapon for a melee weapon. (This 
+weapon follows normal melee rules as stated in the basic rules).
+
 Damage:		   70 + 2x Dexterity, 2x Bleed
 Range:     	   Adjacent (1m)
 Accuracy Modifier: +1
-Notes/Description: Requires "Weapon Use [Exotic]" to operate. +1 to the Weapon Strength 
+
+    Requires "Weapon Use [Exotic]" to operate. +1 to the Weapon Strength 
 Requirement of the weapon you mount the Chainsaw on.
 
 ==============================
@@ -338,181 +440,215 @@ Slings
 
 ===== Level 1 Requirement =====
 
-Pistol Lanyard  $100
-If you drop your pistol, it'll fall harmlessly to 
-your leg level instead of dropping onto the ground.
-Holstering your weapon is a free action. Drawing your
+== Pistol Lanyard  $100 ==
+    If you drop your pistol, it'll fall harmlessly to your leg level instead of 
+dropping onto the ground. Holstering your weapon is a free action. Drawing your
 pistol takes 1 extra Action next time*.
-*If you have 'Quickdraw' and/or 'Pistol Quickdraw' you only
-need to take 1 action to draw instead of 2.
 
-Two Point Sling $350
-Cannot be used with pistols.
-You can use your sling to stabilize your grip arm.
-Allows you to carry the gun on your back. 
-Range Bracket Miss Chance: -0.5
+*If you have 'Quickdraw' and/or 'Pistol Quickdraw' you only need to take 1 
+Action to draw instead of 2.
 
-One Point Sling $300
-Cannot be used with pistols.
-Due to the positioning of the weapon, you can draw your primary as
-a free action. 
-Holstering your weapon is a free action.
-Strength Requirement: -1
+== Two Point Sling $350 ==
+    Cannot be used with pistols. You can use your sling to stabilize your grip 
+arm. Allows you to carry the gun on your back. 
+
+Range Bracket Miss Chance:
+*  -0.5
+
+== One Point Sling $300 ==
+    Cannot be used with pistols. Due to the positioning of the weapon, you can 
+draw your primary as a free action. Holstering your weapon is a free action.
+
+Strength Requirement:
+*  -1
 
 ===== Level 5 Requirement =====
 
-Three Point Smart-Sling $650
-Cannot be used with pistols.
-Normally thought of as something you would cut-off your gun
-and throw away, the three point smart-sling uses electric-textile(TM)
-to manage the tension and fabric length of your sling. This allows
-three point slings to be used without getting caught on your gear.
-Due to the positioning of the weapon, you can draw your primary as
-a free action. 
-Allows you to carry the gun on your back.
-Holstering your weapon is a free action.
-Strength Requirement: -1
-Range Bracket Miss Chance: -0.5
+== Three Point Smart-Sling $650 ==
+    Cannot be used with pistols. Normally thought of as something you would 
+cut-off your gun and throw away, the three point smart-sling uses 
+electric-textile(TM) to manage the tension and fabric length of your sling. 
+This allows three point slings to be used without getting caught on your gear.
+
+    Due to the positioning of the weapon, you can draw your primary as a Free 
+Action. Allows you to carry the gun on your back. Holstering your weapon is a 
+Free Action.
+
+Strength Requirement:
+*  -1
+
+Range Bracket Miss Chance:
+*  -0.5
 
 ===== Level 10 Requirement =====
 
-Pistol Smart-Lanyard Holster System  $250
-Dropping your weapon holsters it as free action. Drawing it takes 1 Action as normal.
+== Pistol Smart-Lanyard Holster System  $250 ==
+    Dropping your weapon holsters it as free action. Drawing it takes 1 Action 
+as normal.
 
 ==============================
 Ammunition / Magazine Accessories
 ==============================
-Only extended, magpull, and Drum mags apply to unconventional weapons (weapons other
-than bullet-firing.) Total mag price should be calculated by taking multipliers for
-extended mags first, then multipliers for special effect, then magazine accessories
-like magpulls. Multipliers are multiplied together but they do not multiply the constant.
-For example, extended mag + poison bullet magazine magazine cost is
+    Only extended, magpull, and Drum mags apply to unconventional weapons 
+(weapons other than bullet-firing.) Total mag price should be calculated by 
+taking multipliers for extended mags first, then multipliers for special effect, 
+then magazine accessories like magpulls. Multipliers are multiplied together but 
+they do not multiply the constant.
+
+    For example, extended mag + poison bullet magazine magazine cost is 
 (1.3x * 2x + 50) = (2.6x+50)
 
 ===== Level 1 Requirement =====
 
-Extended Magazines  $(1.3x) Mag cost. $12 mags now cost $15, etc. Round Up.
-Adds 30% magazine capacity to magazine/clip-based weapons. Revolver systems or
-rocket launchers, for example, are excluded.
+== Extended Magazines  $(1.3x) Mag cost. ==
+     $12 mags now cost $15, etc. Round Up. Adds 30% magazine capacity to 
+magazine/clip-based weapons. Revolver systems or rocket launchers, for example, 
+are excluded.
 
-Hollow Point Magazine  $1.5x + 10 mag cost
-+30% base damage, -1 Armor Piercing Level
+== Hollow Point Magazine  $1.5x + 10 mag cost ==
+    +30% base damage, -1 Armor Piercing Level
 
-Armour Piercing Magazine  $1.5x + 10 mag cost
-+1 Armor Piercing Level, -10% base damage
+== Armor Piercing Magazine  $1.5x + 10 mag cost ==
+    +1 Armor Piercing Level, -10% base damage
 
-ED Electric Discharge Magazine  $2x + 20 magazine cost 
-1/2 the bullet's base damage is converted to electrical damage.
+== ED Electric Discharge Magazine  $2x + 20 magazine cost ==
+    1/2 the bullet's base damage is converted to electrical damage.
 
-Poison Bullet Magazine  $2x + 50 magazine cost 
-Your bullet's new damage = 0.9x bullet base damage + stackable poison 
+== Poison Bullet Magazine  $2x + 50 magazine cost ==
+    Your bullet's new damage = 0.9x bullet base damage + stackable poison 
 effect based on base bullet damage (before base damage reduction): 
 0-60 damage = lesser poison for 2 turns, 61-110 = poison for 2 turns,
-111+ = greater poison for 2 turns. Target cannot roll normal saving throws against the poison.
+111+ = greater poison for 2 turns. Target cannot roll normal saving throws
+against the poison.
 
-RMM Match (Tournament) Grade Ammo  2x mag cost
-This high quality ammunition isn't cheap, but it increases the 
-consistency of your shots. 
-Ranged Miss Chance: -0.5
+== RMM Match (Tournament) Grade Ammo  2x mag cost ==
+    This high quality ammunition isn't cheap, but it increases the consistency 
+of your shots. 
 
-High Velocity Ammunition  2.2x mag cost
-Longest Range Bracket: +10%m or +5m (whichever is higher)
-Base Damage: +10% (drop the remainder)
+Ranged Miss Chance:
+*  -0.5
 
-Magpulls  +$10 per primary magazine, +$5 per secondary magazine
-Decrease the Reload DC by 5% for any box magazines. Must be purchased
+== High Velocity Ammunition  2.2x mag cost ==
+Longest Range Bracket:
+*  +10%m or +5m (whichever is higher)
+
+Base Damage:
+*  +10% (drop the remainder)
+
+== Magpulls  +$10 per primary magazine, +$5 per secondary magazine ==
+
+    Decrease the Reload DC by 5% for any box magazines. Must be purchased
 for each individual magazine. Applies to all weapons that use box magazines.
 
 ===== Level 10 Requirement =====
 
-Drum Mag  $2.5x + 30 mag cost
-Increases the capacity of your weapon by a substantial 250% increase.
-Takes up twice the space in your magazine inventory as a standard magazine.
-Only applicable to box-fed automatic weapons [not belt-fed], SMGs, 
-Carbines, and shotguns.
+== Drum Mag  $2.5x + 30 mag cost ==
+    Increases the capacity of your weapon by a substantial 250% increase. Takes 
+up twice the space in your magazine inventory as a standard magazine.
+
+    Only applicable to box-fed automatic weapons [not belt-fed], SMGs, Carbines, 
+and shotguns.
 
 ==============================
 Total Conversions
 ==============================
-Total conversions only work with the specified weapon. 
-You may only utilize one weapon conversion at a time. HOWEVER, for conversions 
-relying on switching out a receiver, you may carry (at max) one additional 
-receiver in order to swap kits on the go. You must pass 2 Weapons use / 
-knowledge [Weapons] checks in order to successfully convert your weapon on the 
-go. DC 60. Failure on one check instantly jams the weapon on first shot. 
-Failure on both checks requires an additional check.
+    Total conversions only work with the specified weapon. You may only utilize 
+one weapon conversion at a time. HOWEVER, for conversions relying on switching 
+out a receiver, you may carry (at max) one additional receiver in order to swap 
+kits on the go. You must pass 2 Weapons use / knowledge [Weapons] checks in 
+order to successfully convert your weapon on the go. DC 60. Failure on one check 
+instantly jams the weapon on first shot. Failure on both checks requires an 
+additional check.
 
-Revolver Bottom-Cylinder Fire  $600 + 10% weapon cost
-Modifies the pistol to fire from the bottom cylinder rather than the top, 
+===== Pistol Conversions =====
+
+== Revolver Bottom-Cylinder Fire  $600 + 10% weapon cost ==
+    Modifies the pistol to fire from the bottom cylinder rather than the top, 
 decreasing the kick from firing.
-Ranged Miss Chance: -1 after the first bullet fired, for the duration of that turn.
-Weapon Reflex Modifier: +5
 
-Revolver Gas Routing System  $800 + 50% weapon cost
-Adds a gas tube or piston system which automatically cocks the hammer when a 
+Ranged Miss Chance:
+*  -1 after the first bullet fired, for the duration of that turn.
+
+Weapon Reflex Modifier:
+*  +5
+
+== Revolver Gas Routing System  $800 + 50% weapon cost ==
+
+    Adds a gas tube or piston system which automatically cocks the hammer when a 
 round is fired. Turns any revolver into a semi-automatic revolver.
 
-Pistol Hot-Load Reinforced Internals 
-	(Pistol) $1000 + 20% weapon cost
-	(Revolver) $1500 + 20% weapon cost
-These reinforced internals allow the pistol to fire heavier loads, increasing 
-damage output of the pistol. Not usable with plasma pistols. Usable in conjunction
-with other types of ammunition & accessories (multiply their magazine costs together
-as normal). 
+== Pistol Hot-Load Reinforced Internals ==
+
+Pistol cost: $1000 + 20% weapon cost
+Revolver Cost: $1500 + 20% weapon cost
 Magazine Cost increase: 1.8x
 Base Damage: +20% (drop the remainder)
 
-Pistol - Carbine kit  $1200 + 50% weapon cost
-A tactical frame bolts around the shooter's pistol, and a longer barrel is 
+    These reinforced internals allow the pistol to fire heavier loads, 
+increasing damage output of the pistol. Not usable with plasma pistols. Usable 
+in conjunction with other types of ammunition & accessories (multiply their 
+magazine costs together as normal). 
+
+== Pistol - Carbine kit  $1200 + 50% weapon cost ==
+    A tactical frame bolts around the shooter's pistol, and a longer barrel is 
 attached. Accuracy at longer range is now attainable, along with the ability 
 to mount slings, etc. Modified Pistol is still considered a CQB Weapon.
-Applies only to pistols, except revolvers. 
+
+    Applies only to pistols, except revolvers. 
+
 R3 Range Bracket: +20m
 Base Damage: +10% (drop the remainder)
 Range Bracket Miss Chance: -1
 
-Heavy Profile Receiver (& Stock)  $1000
+===== Level 1 Conversions =====
+== Heavy Profile Receiver (& Stock)  $1000 ==
+
 Auto and Burst Miss Chance: -1.5
 Range Bracket Miss Chance: -0.5
 Strength Requirement: +1
 Movement Speed Penalty: -1m
 Weapon Reflex Modifier: The larger of [-20% base-gun weapon reflex or -5 weapon reflex]
 
-Light Profile Receiver (& Stock)  $1000
+== Light Profile Receiver (& Stock)  $1000 ==
+
 Auto and Burst Miss Chance: +0.5
 Range Bracket Miss Chance: +0.5
 Strength Requirement: -1
 Carry Strength Bonus: +1 (cancels out movement speed penalties)
 Weapon Reflex Modifier: The larger of [+20% base-gun weapon reflex or +5 weapon reflex]
 
-Sawn-Off Shotgun Secondary Barrel   $250 + 10% weapon cost
-Applies only to break-action shotguns. If all relevant barrels are sawn off, 
+== Sawn-Off Shotgun Secondary Barrel   $250 + 10% weapon cost ==
+
+    Applies only to break-action shotguns. If all relevant barrels are sawn off, 
 the weapon becomes CQB, if possible.
+
 Miss Chance/Range changes: -0.5/-0m R1, -1.0/-5m R2, +0.5/-10m R3.
 Base Damage: +10% (drop the remainder) 
 
-Sawn-Off shotgun Primary Barrel  $500 + 10% weapon cost
-If all relevant barrels are sawn off, the weapon becomes CQB, if possible.
+== Sawn-Off shotgun Primary Barrel  $500 + 10% weapon cost ==
+    If all relevant barrels are sawn off, the weapon becomes CQB, if possible.
+
 Miss Chance/Range changes: -0.5/-0m R1, -1.0/-5m R2, +0.5/-10m R3.
 Base Damage: +10% (drop the remainder)
 
-Plasma Generation Chamber  $1000 + 50% weapon cost
-Turns your boring, standard munition guns into a god-killing, blue plasma 
+== Plasma Generation Chamber  $1000 + 50% weapon cost ==
+
+    Turns your boring, standard munition guns into a god-killing, blue plasma 
 belching death machine. Increase strength requirement by 1. Your 
 weapon now uses appropriate plasma packs as ammunition. Increase magazine cost 
 by 1.2x + 5 and Jam DCs are +5%.
+
 Base Damage: + 20%, gain 1x Plasma Burn (2x plasma burn if base damage is now over 110)
 Miss Chances: +1 for R3
 
-Straight Pull bolt  $1000
-Only for bolt-action long rifles.
-Allows the user a Straight-pull action to chamber a new round, increasing rate
-of fire. You can negate 1 bolt-cycles per turn; chambering a round is treated
-as a free action for that cycle.
+== Straight Pull bolt  $1000 ==
+    Only for bolt-action long rifles. Allows the user a Straight-pull action to 
+chamber a new round, increasing rate of fire. You can negate 1 bolt-cycles per 
+turn; chambering a round is treated as a free action for that cycle.
 
-Standalone Grenade Launcher  $600
-A polymer and metal frame to mount an underbarrel grenade launcher. Allows use 
-of an underbarrel grenade launcher as a secondary weapon, freeing up the 
-underside of a primary for other attachments. The SGL can make use of sights up to
-4x, aiming assistance, and slings. Takes the space of a secondary weapon, must
-purchase the under-barrel grenade launcher separately
+== Standalone Grenade Launcher  $600 ==
+    A polymer and metal frame to mount an underbarrel grenade launcher. Allows 
+use of an underbarrel grenade launcher as a secondary weapon, freeing up the 
+underside of a primary for other attachments. The SGL can make use of sights up 
+to 4x, aiming assistance, and slings. Takes the space of a secondary weapon, 
+must purchase the under-barrel grenade launcher separately
