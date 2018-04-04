@@ -574,29 +574,29 @@ The equations are as follows:
 - Awareness: 2*(Per + Luc - 6) Rational: Line of sight and concentration are integral parts to being able to detect anomalies in the area.  
 
 ==============================
-Medicine Saving Throws
+Healing Injuries
 ==============================
 
-	Ouch! you've just been shot! You'd better call for a medic or apply a med 
-kit before you bleed out! "But how do I use a med kit? Or if I'm a medic, how do
-I stabilize and heal an ally?" I''m glad you asked. The rules are as follows:
-The medicine DC is equal to the damage dealt. On a fail skill check, no healing 
-occurs. On a success, heal an amount equal to Medic skill + DC surplus.
+	Ouch! you've just been shot! You'd better call for a Doctor or apply a med 
+kit before you bleed out! "But how do I use a med kit? Or if I'm a Doctor, how 
+do I stabilize and heal an ally?" I'm glad you asked. The rules are as follows:
+The Medicine DC is equal to the damage dealt. On a fail skill check, no healing 
+occurs. On a success, heal an amount equal to Medicine skill + DC surplus.
 
-	For example, a Player Character is dealt 70 damage. Their medic has 25 skill 
-in medicine. Medic rolls an 86 (after adding the medic skill), so they heal 
-25+(86-70) for 41 health healed.
+	For example, a Player Character is dealt 70 damage. Their Doctor has 25 
+skill in medicine. Medic rolls an 86 (after adding the Medicine Skill), so they 
+heal 25+(86-70) for 41 health healed.
 
 	Individual wounds are healed individually. 3x 20-damage wounds need three 
 rolls of 21 or higher before they are fully healed.
 
-	For examble, a Player Character takes 70 damage. Medic has 25 skill. Medic 
-rolls an 86 (with medic skill), so they heal 25+(86-70) for 41 health. Now the 
-Character still has a 29 damage deficit (70-41), so the medic would need to roll 
-over a DC of 29 to heal the remaining 29 damage. (The Medic Cannot overheal a 
-wound).
+	For example, a Player Character takes 70 damage. Medic has 25 skill. Medic 
+rolls an 86 (with Medicine Skill), so they heal 25+(86-70) for 41 Health. Now 
+the Character still has a 29 damage deficit (70-41), so the medic would need to 
+roll over a DC of 29 to heal the remaining 29 damage. (The Doctor Cannot overheal 
+a wound unless otherwise stated).
 
-	Medics need not use a medic-kit so long as the have their medicine bag (or 
+	Doctors need not use a medic-kit so long as the have their medicine bag (or 
 equivalent) on their person. If they do not have their medicine bag with them 
 when they are trying to heal a teammate, they can make the attempt at a +20 DC.
 
