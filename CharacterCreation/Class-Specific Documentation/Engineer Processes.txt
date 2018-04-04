@@ -320,7 +320,7 @@ include but are not limited to:
 
 == Ceramic Catalyst	== 
 Energy Gain:	15 Energy
-Action:			1 Action
+Action:			2 Actions
 Duration:		10 turns or 2 hits
 Range:			Touch
 
@@ -331,7 +331,7 @@ with light, medium, heavy or full armor. Reduces the next bullet hit by 50
 points of damage. Looks kinda like yellow ooze. Gives an ally affected by 
 Ceramic Catalyst a -20 penalty to visual stealth rolls. An engineer cannot use 
 ceramic catalyst on themselves. Ceramic Catalyst decays after exposure to 
-elements for ten turns or two hits, whichever happens first. 
+elements for ten turns or three hits, whichever happens first. 
 
 == Microbot Swarm	== 
 Energy Gain:40 * n
