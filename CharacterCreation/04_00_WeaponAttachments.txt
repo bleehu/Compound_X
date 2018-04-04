@@ -549,6 +549,67 @@ up twice the space in your magazine inventory as a standard magazine.
     Only applicable to box-fed automatic weapons [not belt-fed], SMGs, Carbines, 
 and shotguns.
 
+== Baffled Ammo ($1.5 x mag cost) ==
+
+    This sabot-discarding ammo has baffled edges so that it barely makes any
+noise as it travels through the air. There is no zip or snap noise as bullets
+whiz by or into targets. 
+
+    Using Baffled ammo in your weapon reduces the range of your R3 bracket by
+10m and reduces the damage of your weapon by 5 damage. Stealth rolls to hide
+silent weapons fire automatically succeed. A bullet impact can be heard if a
+character is within 5m of the impact, alert and makes an Investigate(PER) check
+over DC 50.
+
+== Gluon Rounds ($2.5 x mag cost) ==
+    Gluon rounds use a web of inseparable gluon entangled particles to make a
+round that won't fragment no matter what it hits. That means that it delivers
+all of its energy to one point, which helps penetrate armor even better than
+traditional AP rounds. But it also means that it won't break up to damage soft
+tissue as effectively. 
+
+    Using gluon rounds adds 1 to your weapon's AP level. Gluon rounds deal 
+triple damage to the AS of any armor they hit, but deal 15% less damage to the 
+HP of any character they hit.
+
+== Short Circuit Rounds ($1.5 x mag cost) ==
+    Short circuit rounds are specifically designed to damage cybernetic targets.
+They contain a hyperconductive solute that bonds with most known insulators.
+The combination of puncture wounds from the round itself and the chemical 
+electric connections from the solute have the nasty effect of routing power and
+signals where they least belong. Since the solute has less density than the 
+metal that rounds are normally made of, they typically deal less damage to 
+biologic targets and armor.
+
+    The net effect is that using Short Circuit rounds lowers the damage dealt
+by each shot by 20 points, but if the round hits the health pool of a cybernetic
+target, it deals an extra 45 damage.
+
+
+== Shredder Rounds ($2 x mag cost) ==
+
+    Shredder rounds contain metal fragments which splinter into hyperkinetic
+shrapnel upon impact. These fragments spread the energy out upon impact, and
+thus are not great against armor, but tear up soft tissue or fragile technology
+mercilessly.
+
+    Using Shredder Rounds reduces the APL of your weapon by 1. Deals an 
+additional 30% damage as long as your weapon has a higher APL than the target's
+armor or if it doesn't hit armor.
+
+== Vorpal Ammunition ($2.5 x mag cost) ==
+    
+    Vorpal Rounds carry a small nanite payload which damages soft, vital tissue
+or circuitry. Unfortunately, the density of nanoweaponry precludes powerful 
+locomotive capability. So they only really deal the extra damage if you put the 
+round where it's gonna hurt.
+
+    Vorpal rounds deal an extra 10% of normal weapon damage on critical hit and
+20% damage on extra-crits. For example, if your gun deals 80 damage normally,
+and you roll a crit when using Vorpal rounds, your gun deals 80 + 10 (for crit)
++ 8 (Vorpal damage) = 98. If you scored an extra-crit with the same weapon, 
+you'd do 80 + 20 (extra crit damage) + 16 = 116 damage. 
+
 ==============================
 Total Conversions
 ==============================
