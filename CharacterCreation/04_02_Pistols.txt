@@ -1,0 +1,253 @@
+==============================
+RANGED WEAPONS
+==============================
+    Outside a weapon's longest range, you cannot hit your target.
+Also, weapons cannot shoot over 100m without magnifying sights, or over 150m 
+without 2x+ magnification.
+
+==============================
+PISTOLS
+==============================
+    Minimum Strength 2, With DEX less than 5, Single Action (SA) revolvers must 
+be cocked for an action before they are fired, every time they are fired, and 
+they have -10 weapon reflex. Dex >= 5, SA revolvers must be cocked before use, 
+once per combat turn (but they still have -10 weapon reflex). Reload time 2 
+Actions.
+
+	All pistols are considered CQB weapons and have "Suppression Level -  Light" 
+(unless otherwise noted).
+
+===== LEVEL 1 REQUIREMENT WEAPONS =====
+
+== Matthews Model 19 Snub $269 ==
+
+Damage: 50 Ballistic
+Mag size:   6 rounds of 9.3x26mm. $5 per mag
+Reload DC:  45
+Fire modes:  Semi
+AP Level:  0
+Reflex Modifier:  +25
+Notes:   Single Action Revolver
+
+    Ranged Miss Chance
+
+* 5 out to 5m
+* 6 out to 10m
+* 7 out to 15m
+
+== G&W 10mm Auto  $691 ==
+
+Damage: 50 Ballistic
+Mag size:   11 rounds of 10.0x23mm. $12 per mag
+Reload DC:  25
+Fire modes:  Semi
+AP Level:  0
+Reflex Modifier:  +20
+
+    Ranged Miss Chance
+
+* 4 out to 5m
+* 5 out to 10m
+* 6 out to 20m
+
+==  Matthews Model 25  $579 ==
+
+Damage: 60 Ballistic
+Mag size:   6 rounds of 11x35mm. $6 per mag
+Reload DC:  45
+Fire modes:  Semi
+AP Level:  1
+Reflex Modifier:  +15
+Notes:    Single Action Revolver
+
+    Ranged Miss Chance
+
+* 4 out to 5m
+* 5 out to 15m
+* 6 out to 25m
+
+== Frontier PL10  $1022 ==
+
+Damage: 55 Plasma + 1x Plasma Burn
+Mag size:   9 units of Argon-8. $16 per mag
+Reload DC:  35
+Fire modes:  Semi
+AP Level:  0
+Reflex Modifier:  +20
+
+    Ranged Miss Chance
+
+* 4 out to 5m
+* 5 out to 15m
+* 7 out to 25m
+
+===== LEVEL 5 REQUIREMENT WEAPONS =====
+
+== ECSC Mk8 Auto  $614 ==
+
+Damage: 45 Ballistic
+Mag size:   15 rounds of 8.0x20mm. $15 per mag
+Reload DC:  25
+Fire modes:  Semi
+AP Level:  1
+Reflex Modifier:  +20
+
+    Ranged Miss Chance
+
+* 4 out to 5m
+* 5 out to 10m
+* 6 out to 15m
+
+== Anvil Armament P-45 $710 ==
+
+Damage: 55 Ballistic
+Mag size:   8 rounds of 11.43x23mm. $10 per mag
+Reload DC:  25
+Fire modes:  Semi
+AP Level:  0
+Reflex Modifier:  +20
+
+    Ranged Miss Chance
+
+* 4 out to 5m
+* 5 out to 10m
+* 6 out to 20m
+
+== Anvil Armament R14 $967 ==
+
+Damage: 85 Ballistic
+Mag size:   5 rounds of 14.0x47mm. $7 per mag
+Reload DC:  45
+Fire modes:  Semi
+AP Level:  2
+Reflex Modifier:  +15
+Notes:    Single Action Revolver
+
+    Ranged Miss Chance
+
+* 4 out to 5m
+* 5 out to 20m
+* 6 out to 30m
+
+== Frontier PL30 $1427 ==
+
+Damage: 60 Plasma + 1x Plasma Burn
+Mag size:   12 units of Argon-8. $23 per mag
+Reload DC:  35
+Fire modes:  Semi
+AP Level:  0
+Reflex Modifier:  +20
+
+    Ranged Miss Chance
+
+* 4 out to 5m
+* 5 out to 20m
+* 7 out to 30m
+
+== Frontier Plas-8 $1718 ==
+
+Damage: 70 Plasma + 1x Plasma Burn
+Mag size:   8 units of Argon-8. $18 per mag
+Reload DC:  35
+Fire modes:  Semi
+AP Level:  1
+Reflex Modifier:  +20
+
+    Ranged Miss Chance
+
+* 3 out to 5m
+* 5 out to 20m
+* 6 out to 25m
+
+== Flexcorp LL35 Laser Pistol $1742 ==
+
+Damage: 40 Laser
+Mag size:   16 charges of 5kWh. $25 per mag
+Reload DC:  30
+Fire modes:  Semi
+AP Level:  n/a
+Reflex Modifier:  +20
+
+    Ranged Miss Chance
+
+* 3 out to 10m
+* 4 out to 20m
+* 5 out to 30m
+
+===== LEVEL 10 REQUIREMENT WEAPONS =====
+
+== RMM Auto 6   $1173 ==
+
+Damage: 75 Ballistic
+Mag size:   6 rounds of 13.0x33mm. $10 per mag
+Reload DC:  25
+Fire modes:  Semi
+AP Level:  1
+Reflex Modifier:  +15
+
+    Ranged Miss Chance
+
+* 4 out to 5m
+* 5 out to 20m
+* 6 out to 25m
+
+== Matthews Model 738  $1196 ==
+
+Damage: 65 Ballistic + 1x Bleed
+Mag size:   7 rounds of 7.38x50mm. $9 per mag
+Reload DC:  45
+Fire modes:  Semi
+AP Level:  3
+Reflex Modifier:  +15
+Notes:    Single Action Revolver
+
+    Ranged Miss Chance
+
+* 3 out to 5m
+* 4 out to 25m
+* 5 out to 30m
+
+== Frontier Lz50 Laser Pistol $1775 ==
+
+Damage: 50 Laser
+Mag size:   14 charges of 5kWh. $27 per mag
+Reload DC:  30
+Fire modes:  Semi
+AP Level:  n/a
+Reflex Modifier:  +20
+
+    Ranged Miss Chance
+
+* 4 out to 10m
+* 5 out to 25m
+* 5 out to 30m
+
+== Partix 50L Laser Hand-Cannon $2083 ==
+
+Damage: 70 Laser
+Mag size:   8 charges of 10kWh. $21 per mag
+Reload DC:  30
+Fire modes:  Semi
+AP Level:  n/a
+Reflex Modifier:  +15
+
+    Ranged Miss Chance
+
+* 4 out to 10m
+* 5 out to 20m
+* 6 out to 25m
+
+== Partix Plas-Disc Launcher MIX5 $2506 ==
+
+Damage: 75 Plasma + 1x Plasma Burn
+Mag size:   10 units of Neon-15. $25 per mag
+Reload DC:  35
+Fire modes:  Semi
+AP Level:  2
+Reflex Modifier:  +20
+
+    Ranged Miss Chance
+
+* 3 out to 10m
+* 5 out to 25m
+* 6 out to 30m

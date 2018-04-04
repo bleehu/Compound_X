@@ -1,34 +1,34 @@
-/*====================================================
- * Player Tactical Movement Interface and Guide
- * This document is considered an "optional" or "supplimental"
- * document. The information contained within is not necessary to be
- * successful or to have fun in Compound_X, but it will augment the
- * natural abilities of players and provide them with advantages over
- * NPCs.
- *==================================================*/
+==============================
+Player Tactical Movement Interface and Guide
+==============================
+This document is considered an "optional" or "supplemental"
+document. The information contained within is not necessary to be
+successful or to have fun in Compound_X, but it will augment the
+natural abilities of players and provide them with advantages over
+NPCs.
 
-//===================
-// Introduction
-//===================
+==============================
+Introduction
+==============================
 Moving across a battle field is an art which enables a team to perform at much 
 more optimal levels. The key thing to remember is that communication helps 
 everyone. There different ways to move a team, and different situations ins 
-which to use them. This document won''t go too in depth about scenarios and 
+which to use them. This document won't go too in depth about scenarios and 
 what movement to use in them, but will introduce the reader to key-words to 
 inform both the team and the GM of what they want to do exactly.
 
-//===================
-// Movement
-//===================
+==============================
+Movement
+==============================
 
 Possibly the most important thing to remember when in a combat scenario, or 
 when you suspect that an encounter is imminent is to stick to cover. This is 
 pretty self-explanatory, but sticking to cover makes you less likely to die. 
 Windows, doorways, crates, cars, etc. are all good examples of cover.
 
-//===================
-// Maneuvers
-//===================
+==============================
+Maneuvers
+==============================
 
 Pieing Corners
     Pieing a corner is the act of rounding a corner in such a way that you are 
@@ -51,7 +51,7 @@ Peeking Corners
     minimize the time you are exposed.
 
 Flanking
-    Flanking is the act of attacking from the opponent''s side or rear, where 
+    Flanking is the act of attacking from the opponent's side or rear, where 
     they are more blind and less able to react to a threat. In order for a 
     flank to have maximum success, those doing the flanking should take the 
     enemy by surprise. Stealth or concealment are good options here.
@@ -91,11 +91,11 @@ Changing Levels
     Think about laying down and peeking around a corner close to the ground to 
     fire, or firing underneath a car.
 
-//===================
-// Clearing Rooms
-//===================
+==============================
+Clearing Rooms
+==============================
 
 
-//===================
-// X
-//===================
+===================
+X
+===================
