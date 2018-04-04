@@ -34,6 +34,7 @@ Reflex Modifier:	+5
 
 Damage:	80 Ballistic
 Burst Accuracy Penalty:	2 - 1 at 8 STR
+Burst Fire Rate: 3 rounds
 Mag Size:		25 rounds of 5.45x40mm. $15 per mag
 Reload DC:		30%
 Fire Modes:		Semi, Burst
@@ -50,6 +51,7 @@ Reflex Modifier:	+2
 
 Damage:	75 Ballistic
 Burst Accuracy Penalty: 6 - 1 per 4 STR (starting at 4)
+Burst Fire Rate: 3 Rounds
 Mag Size:		25 rounds of 12.1x33mm. $8 per mag
 Reload DC:		30%
 Fire Modes:		Semi, Burst
@@ -86,7 +88,7 @@ Burst Miss Chance:	+2,  Gain a -1 @ 7 Strength
 Mag Size:		30 rounds of 5.00x45mm. $18 per magazine
 Reload DC:		30
 Fire Modes:		Semi, Burst
-Burst Fire Rate:	3	
+Burst Fire Rate:	3 Rounds
 Armor Piercing Level:	3	
 Reflex Modifier:	+2		
 
@@ -105,7 +107,7 @@ Burst Miss Chance:	+3,  Gain a -1 @ 8 Strength
 Mag Size:		20 units of Neon-15. $19 per magazine
 Reload DC:		40
 Fire Modes:		Semi, Burst
-Burst Fire Rate:	3	
+Burst Fire Rate:	3 Rounds
 Armor Piercing Level:	3	
 Reflex Modifier:	+5
 
@@ -122,7 +124,7 @@ Burst Miss Chance:	+4,  -1 for every 6 Strength
 Mag Size:		24 charges of 15kWh. $16 per magazine
 Reload DC:		35
 Fire Modes:		Semi, Burst
-Burst Fire Rate:	3	
+Burst Fire Rate:	3 Rounds
 Armor Piercing Level:	n/a	
 Reflex Modifier:	+5
 
@@ -141,7 +143,7 @@ Burst Miss Chance:	+4,  -1 for every 6 Strength
 Mag Size:		20 rounds of 7.65x40mm. $15 per magazine
 Reload DC:		30
 Fire Modes:		Semi, Burst
-Burst Fire Rate:	3	
+Burst Fire Rate:	3 Rounds
 Armor Piercing Level:	3	
 Reflex Modifier:	+2		
 	
@@ -160,7 +162,7 @@ Burst Miss Chance:	+2,  Gain a -1 @ 6 Strength
 Mag Size:		20 units of Neon-15. $21 per magazine
 Reload DC:		40
 Fire Modes:		Semi, Burst
-Burst Fire Rate:	3	
+Burst Fire Rate:	3 Rounds
 Armor Piercing Level:	4	
 Reflex Modifier:	+2
 
@@ -432,7 +434,7 @@ Burst Miss Chance:	+3,  Gain a -1 @ 6 Strength
 Mag Size:		30 rounds of 5.77x55mm. $23 per magazine
 Reload DC:		30
 Fire Modes:		Semi, Burst
-Burst Fire Rate:	3	
+Burst Fire Rate:	3 Rounds
 Armor Piercing Level:	4	
 Reflex Modifier:	-8
 
