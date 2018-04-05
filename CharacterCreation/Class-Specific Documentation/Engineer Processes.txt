@@ -327,11 +327,11 @@ Range:			Touch
     An adhesive mist of kinetic-reactive ions that cause ceramic armor plates to 
 absorb hits more efficiently by powdering instead of cracking. Toxic, but 
 slow-acting to most biologic life forms. Can only be used on cybernetic allies 
-with light, medium, heavy or full armor. Reduces the next bullet hit by 35 
+with light, medium, heavy or full armor. Reduces the next bullet hit by 50 
 points of damage. Looks kinda like yellow ooze. Gives an ally affected by 
 Ceramic Catalyst a -20 penalty to visual stealth rolls. An engineer cannot use 
 ceramic catalyst on themselves. Ceramic Catalyst decays after exposure to 
-elements for ten turns or two hits, whichever happens first. 
+elements for ten turns or three hits, whichever happens first. 
 
 == Microbot Swarm	== 
 Energy Gain:40 * n
