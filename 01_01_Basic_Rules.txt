@@ -1028,8 +1028,7 @@ of 7-10 would be successful.
 Gun Jams:
 	If at any time that you are firing a gun and you roll a weapon accuracy of 1,
 roll a second d10. If that second d10 roll is a 1 or 2, the weapon Jams, 
-necessitating a Weapon [X] skill check, DC 60. Your GM may allow you to add skill in
-Repair to this check.
+necessitating a Weapon [X] skill check, DC 60.
 
 Hip Firing:
 	Add 3 to a weapon's miss chance. You cannot use optical attachments in hip 
