@@ -515,11 +515,11 @@ forces a recalculation on all affected values.
 +-------+----------+-------+------------+------------+---------------+
 | 1     | Static   |       |            |            |               |
 +-------+----------+-------+------------+------------+---------------+
-| 2     | 2*int/cha| 2     |            |            | 2             |
+| 2     | 2*Skill  | 2     |            |            | 2             |
 +-------+----------+-------+------------+------------+---------------+
-| 3     | "        |       |            |            |               |
+| 3     | Point    |       |            |            |               |
 +-------+----------+-------+------------+------------+---------------+
-| 4     | "        | 3     |            |            | 4             |
+| 4     | Gain     | 3     |            |            | 4             |
 +-------+----------+-------+------------+------------+---------------+
 | 5     | "        |       | 1          | +1         |               |
 +-------+----------+-------+------------+------------+---------------+
@@ -677,13 +677,14 @@ TO SUCCEED IN A SKILL CHECK. the DC does not need to be given out by the GM, but
 a DC seems too high, you have the right to grumble (but seriously, ask your GM if 
 something seems too difficult. There is usually a reason why tying your shoe 
 takes a DC of 70% on that particular day, etc). After you have rolled, please
-apply any and all relevant skills to your result. Also add any relevant Stat Bonuses to a roll. When rolling 
-awareness, add your PER Bonus, etc.
+apply any and all relevant skills to your result. Also add any relevant Stat Bonuses
+to a roll. When rolling investigation, add your PER Bonus, etc.
 
 	At any time out of combat, you may decide to use one of your skills. If you 
 are not pressured by imminent / immediate danger, you may "take a 100%" to take your
 time with a task to roll exactly 100 on a skill check, then apply any ranks in the
-skill. When rushed by a time constraint or danger, you can "take a 50%" to take
+skill. 
+	When rushed by a time constraint or danger, you can "take a 50%" to take
 slightly more time than a 1-action, in-combat check on a task to roll exactly 50 on
 a skill check, then apply any ranks in said skill. However, some checks cannot be
 passed in this way. If you are staring at a ship's blast doors, and want to kick
