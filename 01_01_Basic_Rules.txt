@@ -432,7 +432,7 @@ penalties.
 Skill Point Gain:
 	How many skill points you gain every level. Every time you level up, you 
 gain skill points according to your "Skill Point Gain". Note about gaining skill 
-points: you have a max of 50 points in any one Skill.
+points: you have a max of 60 points in any one Skill.
 
 ===== Nanites =====
 
