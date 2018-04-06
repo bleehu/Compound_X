@@ -73,6 +73,7 @@ Vehicles:
 * General
 * Flight
 * Ground
+* Space
 
 == Fortitude ==
 Intimidation:
