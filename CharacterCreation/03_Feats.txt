@@ -33,21 +33,21 @@ Prerequisites:
 == Acquired, Battle Ready ==
 Prerequisites: 
 
-*  Pilot or Adept
+*  Pilot
 
 	Enables the use of Medium-Heavy Armor by the listed classes.
 
 == Acquired, Metal Jacket ==
 Prerequisites: 
 
-*  Soldier, Engineer, Adept, Berserker
+*  Soldier, Engineer, or Berserker
 
 	Enables the use of Heavy Armor by the listed classes.
 
 == Acquired, The Clandestine Option ==
 Prerequisites: 
 
-*  Soldier, Specialist, Pilot, Adept or Hunter
+*  Soldier, Specialist, Pilot, or Hunter
 
 	Enables the use of Concealed Armor by the listed classes.
 
@@ -527,9 +527,9 @@ fighting technique.
 == Unlocked, Boomstick ==
 Prerequisites:
 
-* Must be an Adept or Gunslinger
+* Must be a Gunslinger
 
-	Enables the use of shotguns by the listed classes.
+	Enables the use of shotguns by Gunslingers.
 Note: Gunslingers can use their class feats with shotguns.
 
 == Unlocked, Weapons Training ==
@@ -556,9 +556,9 @@ Prerequisites:
 == Unlocked, Welcome to the Front Line ==
 Prerequisites:
 
-*  Must be an Adept or Paladin
+*  Must be a Paladin
 
-	Enables the use of Automatic Rifles by the listed classes.
+	Enables the use of Automatic Rifles by the listed class.
 
 == Very Normal ==
 Prerequisites:
@@ -741,7 +741,7 @@ weapon, etc.
 == Bunker [25 Nanites] ==
 Prerequisites:
 
-*  High-Technology class (Monk, Paladin, Adept, Priest) or
+*  High-Technology class (Monk, Paladin, Hacker) or
 *  Knowledge [Nanites] at 40
 
 	Add +3 miss chance to a piece of cover for 4 turns.
