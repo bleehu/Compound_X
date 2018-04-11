@@ -377,6 +377,64 @@ Skill Proficiencies:
 ======================================
 
 
+=====   ADEPT   =====
+	Your specialized skills with technology are combined with battle training, 
+providing you an edge in combat situations.
+
+Class Primary Attribute: Strength
+Starting Wealth: $2652 + 100*Luck
+
+Passives: 
+* Gain +50 Maximum Nanites 
+* Gain a permanent Class A Electron Shield 
+
+	The Electron Shield unit is implanted in your body and has the following stats: 
+Recharge Rate/Turn: 50
+Fast Recharge Nanites: 25
+Shield Restart Time: 1 Turn
+
+Weapon Proficiencies: 
+* Pistols
+* Submachine Guns
+* Carbines.
+
+Armor Proficiencies: 
+* Concealed
+* Recon
+* Light
+* Medium
+
+Skill Proficiencies:
+* Weapons - General
+* Knowledge - Nanites
+
+== Class Feats ==
+	----------------------
+	Energy Burst [X Nanites] -
+	For 1 Action, you can emanate a short burst of Nanite induced energy. This energy can be 
+	used to: Restore 100% of the X Nanites you expend to an ally. Or deplete a target's 
+	Nanite reserve by 100% of the X Nanites you expend. OR create a nanite explosion that
+	deals 50 + 2x Lvl damage + X Nanites to the target, plus inflicts 2x Plasma Burn to anyone 
+	caught in a 5m radius, at a meter range of X/2 Nanites expended (Max 50 Nanites. 25m range 
+	at 50 Nanites).
+	----------------------
+	Hardware Upgrade -
+	You gain access to Assault Rifles.
+	----------------------
+	CS Manipulation [X Nanites] -
+	You can use your CS to create basic items [knives, Frisbees, boomerangs, 
+	anything that is relatively 2-D shaped and smaller than .25x.25m] it gets <X> 
+	health, dependant on number of Nanites used to create it [minimum 5). You can 
+	also use any CS item as a melee tool that can hit at 5*INT + Lvl damage + 1x Plasma Burn,
+	-1 melee accuracy modifier (penalty when rolling against enemy Guard DC).
+	|
+	|
+	V
+	Items can be slightly more complex, up to .5x.5x.5m. Choose one of the 
+	following: CS Melee bash is extended to 5m, or deals 7*INT + Lvl damage + 1x Plasma Burn, or 
+	+1 melee accuracy modifier (bonus when rolling against enemy Guard DC).
+======================================
+
 
 =====   HUNTER   =====
 	An expert tracker, you're the one hired when someone wants something found. 
