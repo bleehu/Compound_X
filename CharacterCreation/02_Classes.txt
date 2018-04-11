@@ -794,7 +794,7 @@ Class Primary Attribute: Strength
 Starting Wealth: $2170 + 100*Luck
 
 Passives:
-* Gain Feat Unarmed Combat - Trained
+* Gain Feat: Unarmed Combat Training
 
 Weapon Proficiencies:
 * Pistols.
