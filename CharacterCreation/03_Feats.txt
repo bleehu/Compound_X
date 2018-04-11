@@ -556,7 +556,11 @@ Prerequisites:
 * Assassin Class, OR
 * Berserker Class
 
-	Text
+	Increase base and minimum damage of Unarmed Strike by 20. 
+	
+	Additionally, Once per round after a successful melee strike, 
+if the target is not wielding a CQB weapon, you may use a reaction to 
+make a disarm attempt.
 
 == Unarmed Combat Expertise ==
 
@@ -565,7 +569,10 @@ Prerequisites:
 * Assassin Class and Level 5, OR
 * Berserker Class and Level 5
 
-	Text
+	Increase base and minimum damage of Unarmed Strike by 20.
+	
+	Disarm attempts made with Unarmed Combat Training may be made 
+against CQB guns and Two-Handed melee weapons.
 
 == Unarmed Combat Mastery ==
 
@@ -574,15 +581,24 @@ Prerequisites:
 * Assassin Class and Level 10, OR
 * Berserker Class and Level 10
 
-	Text
+	Increase base and minimum damage of Unarmed Strike by 20.
+	
+	Whenever you would make a disarm attempt with Unarmed Combat 
+Training, you may instead make a Trip, Shove, or Grapple attempt.
 
 == Unarmed Combat Grand Mastery ==
 
 Prerequisites:
-* STR 8 and DEX 8 and Level 15, AND
+* STR 7 and DEX 7 and Level 15, AND
 * Assassin Class or Berserker Class
 
-	Text
+	Increase base and minimum damage of Unarmed Strike by 20.
+
+	Whenever you succeed in a disarm attempt against a CQB weapon while 
+unarmed, you may use your next action to strike the target with his or her own 
+weapon before it falls to the ground. Disregard any proficiency requirements 
+for the weapon during this action. Hip-firing penalties apply to guns fired 
+with this feat.
 
 == Upgrade == 
 
@@ -832,7 +848,7 @@ weapon, etc.
 
 Prerequisites:
 
-*  High-Technology class (Monk, Paladin, Adept, Priest) or
+*  High-Technology class (Monk, Paladin, Hacker) or
 *  Knowledge [Nanites] at 40
 
 	Add +3 miss chance to a piece of cover for 4 turns.
