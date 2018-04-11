@@ -552,9 +552,8 @@ the die.
 == Unarmed Combat Training ==
 
 Prerequisites:
-* STR 5 and DEX 5 and Level 5, OR
-* Assassin Class, OR
-* Berserker Class
+* STR 5, DEX 5
+* Levle 5, OR Assassin Class, OR Berserker Class
 
 	Increase base and minimum damage of Unarmed Strike by 20. 
 	
@@ -565,9 +564,9 @@ make a disarm attempt.
 == Unarmed Combat Expertise ==
 
 Prerequisites:
-* STR 6 and DEX 6 and Level 10, OR
-* Assassin Class and Level 5, OR
-* Berserker Class and Level 5
+* Unarmed Combat Training
+* STR 6, DEX 6
+* Level 10, OR Assassin Class and Level 5, OR Berserker Class and level 5
 
 	Increase base and minimum damage of Unarmed Strike by 20.
 	
@@ -577,9 +576,9 @@ against CQB guns and Two-Handed melee weapons.
 == Unarmed Combat Mastery ==
 
 Prerequisites:
-* STR 7 and DEX 7 and Level 15, OR
-* Assassin Class and Level 10, OR
-* Berserker Class and Level 10
+* Unarmed Combat Expertise
+* STR 7, DEX 7, 
+* Level 15, OR Assassin Class and Level 10, OR Berserker Class and Level 10
 
 	Increase base and minimum damage of Unarmed Strike by 20.
 	
@@ -589,7 +588,9 @@ Training, you may instead make a Trip, Shove, or Grapple attempt.
 == Unarmed Combat Grand Mastery ==
 
 Prerequisites:
-* STR 7 and DEX 7 and Level 15, AND
+* Unarmed Combat Mastery
+* STR 7, DEX 7
+* Level 15
 * Assassin Class or Berserker Class
 
 	Increase base and minimum damage of Unarmed Strike by 20.
