@@ -45,7 +45,7 @@ Prerequisites:
 
 Prerequisites: 
 
-*  Soldier, Engineer, Berserker
+*  Soldier, Engineer, or Berserker
 
 	Enables the use of Heavy Armor by the listed classes.
 
@@ -629,7 +629,7 @@ Prerequisites:
 
 * Must be a Gunslinger
 
-	Enables the use of shotguns by the Gunslinger class.
+	Enables the use of shotguns by Gunslingers.
 Note: Gunslingers can use their class feats with shotguns.
 
 == Unlocked, Weapons Training ==
