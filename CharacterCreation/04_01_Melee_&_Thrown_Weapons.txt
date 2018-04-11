@@ -4,8 +4,9 @@ MELEE WEAPONS & UNARMED FIGHTING
 
 	These weapons/attacks use an 'Accuracy Modifier' instead of
 a 'Miss Chance', which is added to your combat dex modifier and
-and any relevant feat bonuses to oppose your opponent's guard DC.
-Melee weapons do not pierce armor, unless otherwise stated.
+and any relevant feat or skill bonuses to oppose your opponent's 
+Guard Class, or GC. Melee weapons do not pierce armor, unless otherwise 
+stated.
 
 ===== UNARMED FIGHTING =====
 
@@ -15,7 +16,9 @@ Damage: 20 + STR mod + DEX mod, minimum 10
 Range: Adjacent (1m)
 Accuracy Modifier: -2
 
-==== MELEE WEAPONS ====
+==============================
+MELEE WEAPONS
+==============================
 
 ===== LEVEL 1 REQUIREMENT WEAPONS =====
 
