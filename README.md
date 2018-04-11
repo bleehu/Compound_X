@@ -1,6 +1,6 @@
 # Compound_X
 
-Version Beta 0.0.5
+Version Beta 0.0.8
 
 A fun sci-fi tabletop roleplaying game.
 
