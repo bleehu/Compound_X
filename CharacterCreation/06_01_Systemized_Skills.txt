@@ -141,7 +141,6 @@ Example for (STRENGTH) Athletics check:
 
 ===== Class Skill Proficiencies =====
 
-Adept: Knowledge - Nanites, Weapons - General
 Assassin: Stealth, Weapons - Melee
 Berserker: Athletics, Weapons - Melee
 Engineer: Knowledge - General, Repair
