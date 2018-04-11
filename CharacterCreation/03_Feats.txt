@@ -527,9 +527,9 @@ fighting technique.
 == Unlocked, Boomstick ==
 Prerequisites:
 
-* Must be an Adept or Gunslinger
+* Must be a Gunslinger
 
-	Enables the use of shotguns by the listed classes.
+	Enables the use of shotguns by Gunslingers.
 Note: Gunslingers can use their class feats with shotguns.
 
 == Unlocked, Weapons Training ==
