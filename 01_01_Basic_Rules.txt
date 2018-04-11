@@ -57,11 +57,9 @@ and you just roll once.
 
 Rolling the Average:
 	There are certain circumstances and feats which allow for Rolling the Average.
-This must be announced before the die are cast. Rolling the average will give you 
-the advantage of avoiding a critical fail, but also prevents you from critically 
-succeeding. This is best used in situations when massive failure is not an option. To do
-this, you roll 2d10s, add them together, and divide by 2. The resulting number is your
-roll. 
+This must be announced before the die are cast. Critical fails or Critical successes
+are ignored when Rolling the Average. To do this, roll percentile dice twice, add
+the two numbers together, and divide by 2. The resulting number is your roll. 
 
 ==============================
 Role Playing and Combat
@@ -85,19 +83,18 @@ the one-liner they want, or to have their moment of glory.
 
 	Either in combat or out, play usually follows this loop:
 
-1.	The GM describes the environment and the situation. Usually the DM will ask
-		"What do you want to do?"
+1.	The GM describes the environment and the situation. Usually the DM will ask "What do you want to do?"
 2.	The player describes what they want to do
-3. 	The GM checks if that's even a possible thing that can be done. (skip this
-		step if that's obvious)
-4.	The GM says what kind of roll is needed to see if the player succeeds, if 
-		any roll is necessary.
+3. 	The GM checks if that's even a possible thing that can be done. (skip this step if that's obvious)
+4.	The GM says what kind of roll is needed to see if the player succeeds, if any roll is necessary.
 5.	The player rolls the dice and adds the numbers as described below.
-6. 	The GM checks their total against the Difficulty Challenge, a number that
-		typically only the GM knows which represents how hard a typical task
-		is. Then the GM narrates how the action goes depending on if the 
-		player succeeds or fails and by how much.
+6. 	The GM checks the total against the DC and narrates what happens*
 7.	Then the next player begins their turn.
+
+*The DC stands for "the Difficulty Challenge", a number that
+typically only the GM knows which represents how hard a typical task
+is. Then the GM narrates how the action goes depending on if the 
+player succeeds or fails and by how much.
 
 ==============================
 Your Character
@@ -176,7 +173,6 @@ associated with a given secondary stat determines the secondary stat's value;
 However, if you have a primary stat that is associated with more than one 
 secondary stat, you may have to choose which secondary stat to contribute to.
 These stats are as follows (secondary stat associations are indented):
-<<<<<<< HEAD
 
 Strength:
 * Carry Ability
@@ -329,7 +325,7 @@ accuracy and ability to cut through the chaos of battle to stay oriented. A high
 perception makes you harder to sneak up on. 
 
 	If you have 1 Perception, you are partially blind, only have 1 eye, or
-something similar. You cannot use the Search or Awareness skills and you have a 
+something similar. You cannot use the Investigation or Spotting skills and you have a 
 -20 malus to Speech skill rolls. 
 
 Fortitude (FORT): 
@@ -347,11 +343,19 @@ Charisma (CHA):
 number of interpersonal skills like haggling and diplomacy. It also contributes 
 to how hard it is to dominate your will.
 
-	If you have 1 Charisma, you have a debilitating speech impediment. You have
-an additional malus of -24 when using Speech, Deceive, and etc. skill. Under 
-normal circumstances, you have to succeed a DC 30 CHA skill check in order to 
-communicate with a non-player character (NPC). In combat, vocal communication to 
-anything costs 1 Action.
+	If you have 1 Charisma, you are profoundly unlikable and bad at influencing
+and working with others. You cannot assist or be assisted when making skill
+checks. 
+
+	Furthermore, despite being unlikable, you still have the same psychological 
+need that all sentient life has, to be social and to be accepted. At least once 
+between every other encounter, you must socialize with another sentient 
+character. Doing so requires a charisma check of DC 60. If the character that
+you socialize is happy and willing to spend time with you, you may have 
+advantage on the roll. If the character does not acquiesce to socialize with you,
+they are immune to the penalty. If they do acquiesce and you fail, you both must
+pay the penalty. The penalty for failing to socialize is to feel isolated and
+Lonely. Please see "Lonely" in the conditions list in "01_02_Conditions.txt"
 
 	If you have 6 or more Charisma you gain the feat "Will to Survive". The feat 
 scales depending on how many points you have in Charisma. Or, if you have 9 or 
@@ -380,10 +384,9 @@ body like climbing, jumping, or dancing.
 	If you have 1 Dexterity, you are especially clumsy or suffer from a 
 debilitating illness which affects your ability to move swiftly and precisely. 
 You cannot learn any skills that use Dexterity as the contributing stat (for 
-example, lockpicking).
+example, Slight of Hand).
 
 Luck (LUCK): 
-<<<<<<< HEAD
 	Some people are just lucky! A GM will often have you roll luck to see if a 
 door was left unlocked or if you just happened to duck to pick up a coin off the 
 ground right when an assassin is trying to shoot you in the head. Luck also has 
@@ -403,7 +406,7 @@ table, below.
 +-------+---------------------------------------------------------------------------------------+
 | 1-2   | Your primary weapon malfunctions/breaks and you cannot use it until DC 60 repaired    |
 +-------+---------------------------------------------------------------------------------------+
-| 3-4   | You cannot crit or critically succeed (in any form) in this encounter                 |
+| 3-4   | You cannot critically hit or critically succeed (in any form) in this encounter       |
 +-------+---------------------------------------------------------------------------------------+
 | 5-6   | You trip and hurt yourself, take 15 damage and lose three actions from your 1st turn  |
 +-------+---------------------------------------------------------------------------------------+
@@ -414,6 +417,7 @@ table, below.
 
 
 ===== Secondary Stat Details =====
+
 Movement Speed:
 	Your speed in meters, for every two actions. Use (Movement Speed)/2 for one 
 action (drop the remainder). For more information, see topic "Movement and 
@@ -428,10 +432,10 @@ penalties.
 Skill Point Gain:
 	How many skill points you gain every level. Every time you level up, you 
 gain skill points according to your "Skill Point Gain". Note about gaining skill 
-points: you have a max of 50 points in any one Skill. Also, you have a max of 
-17+3*[CHA] points in any one Charisma Skill.
+points: you have a max of 60 points in any one Skill.
 
 ===== Nanites =====
+
 	Although not a primary or secondary stat per se, The maximum number of 
 Nanites you can use at a given time is determined by your character class and an 
 associated primary stat. Your class may tell you its "Class Primary Attribute" 
@@ -445,6 +449,7 @@ combat at a rate of 3 Nanites per turn.
 	
 
 ===== Assigning Stats to a New Character =====
+
 	When making a new character, you'll have to assign their Base stats.
 This will tell you a lot about your character. When assigning your stats,
 no stat can be higher than a 9 before applying racial/species bonuses and
@@ -457,6 +462,7 @@ initial base stat points that you have to apply is listed with your Race or
 Species. See chapter 1: Races if you haven't yet. 
 
 ===== Assigning A Class to your Character =====
+
 	Most Characters start at level 1 so the Player will choose a Class for that 
 Character at that time. A Character will only ever have one Class at a time, and
 under normal circumstances, cannot change their class once it is picked. 
@@ -466,6 +472,7 @@ with no Class. This is usually for a tutorial mission and a Class is selected
 when the Character has completed the tutorial and leveled up to level 1. 
 
 ===== Weapon Proficiencies =====
+
 	Each Class comes with a specific list of Weapon Proficiencies. If your 
 Character has a proficiency with a type of weapon, then they can use that weapon
 in combat and can purchase weapons of that type in the world or during character
@@ -476,6 +483,7 @@ purchase or use a weapon of that type.
 weapon. For more on Skills, see the "RP / Using Skills" section of this document.
 
 ===== Armor Proficiencies =====
+
 	Just like each Class comes with a set of Weapon Proficiencies, it also comes
 with a list of Armor Proficiencies. Just like Weapon Proficiencies, if your 
 class has a Proficiency with a given armor type then they can purchase or wear
@@ -506,11 +514,11 @@ forces a recalculation on all affected values.
 +-------+----------+-------+------------+------------+---------------+
 | 1     | Static   |       |            |            |               |
 +-------+----------+-------+------------+------------+---------------+
-| 2     | 2*int    | 2     |            |            | 2             |
+| 2     | 2*Skill  | 2     |            |            | 2             |
 +-------+----------+-------+------------+------------+---------------+
-| 3     | "        |       |            |            |               |
+| 3     | Point    |       |            |            |               |
 +-------+----------+-------+------------+------------+---------------+
-| 4     | "        | 3     |            |            | 4             |
+| 4     | Gain     | 3     |            |            | 4             |
 +-------+----------+-------+------------+------------+---------------+
 | 5     | "        |       | 1          | +1         |               |
 +-------+----------+-------+------------+------------+---------------+
@@ -554,38 +562,40 @@ negative effects.
 
 - Will: defend against a mind affect (Ex: throw off hopelessness after crashing in an escape pod)
 - Shock: maintain composure after serious damage (Ex: stay conscious after being shot by a high caliber round)
-- Reflex: quickly react to an event (Ex: dodge falling debris, fire at an enemy if they leap from one piece of cover to another).
+- Reflex: quickly react to an event (Ex: dodge falling debris, fire at an enemy if they leap from one piece of cover to another)
+- Awareness: knowledge and understanding of surroundings (Ex: realizing someone has walked up behind you)
 
 The equations are as follows:
 
 - Will: 2*(Cha + Int - 6) Rational: Normally wisdom would be applied, so Will in Compound X is descried as your internal voice motivating you to endure a mental hardship.
 - Shock: 2*(Fort + Int - 6) Rational: You need to recognize that you are in shock, and resist its physical effects.
 - Reflex: 2*(Per + Dex - 6) Rational: In order to react quickly to an event you need to be able to see it coming.
+- Awareness: 2*(Per + Luc - 6) Rational: Line of sight and concentration are integral parts to being able to detect anomalies in the area.  
 
 ==============================
-Medicine Saving Throws
+Healing Injuries
 ==============================
 
-	Ouch! you've just been shot! You'd better call for a medic or apply a med 
-kit before you bleed out! "But how do I use a med kit? Or if I'm a medic, how do
-I stabilize and heal an ally?" I''m glad you asked. The rules are as follows:
-The medicine DC is equal to the damage dealt. On a fail skill check, no healing 
-occurs. On a success, heal an amount equal to Medic skill + DC surplus.
+	Ouch! you've just been shot! You'd better call for a Doctor or apply a med 
+kit before you bleed out! "But how do I use a med kit? Or if I'm a Doctor, how 
+do I stabilize and heal an ally?" I'm glad you asked. The rules are as follows:
+The Medicine DC is equal to the damage dealt. On a fail skill check, no healing 
+occurs. On a success, heal an amount equal to Medicine skill + DC surplus.
 
-	For example, a Player Character is dealt 70 damage. Their medic has 25 skill 
-in medicine. Medic rolls an 86 (after adding the medic skill), so they heal 
-25+(86-70) for 41 health healed.
+	For example, a Player Character is dealt 70 damage. Their Doctor has 25 
+skill in medicine. Medic rolls an 86 (after adding the Medicine Skill), so they 
+heal 25+(86-70) for 41 health healed.
 
 	Individual wounds are healed individually. 3x 20-damage wounds need three 
 rolls of 21 or higher before they are fully healed.
 
-	For examble, a Player Character takes 70 damage. Medic has 25 skill. Medic 
-rolls an 86 (with medic skill), so they heal 25+(86-70) for 41 health. Now the 
-Character still has a 29 damage deficit (70-41), so the medic would need to roll 
-over a DC of 29 to heal the remaining 29 damage. (The Medic Cannot overheal a 
-wound).
+	For example, a Player Character takes 70 damage. Medic has 25 skill. Medic 
+rolls an 86 (with Medicine Skill), so they heal 25+(86-70) for 41 Health. Now 
+the Character still has a 29 damage deficit (70-41), so the medic would need to 
+roll over a DC of 29 to heal the remaining 29 damage. (The Doctor Cannot overheal 
+a wound unless otherwise stated).
 
-	Medics need not use a medic-kit so long as the have their medicine bag (or 
+	Doctors need not use a medic-kit so long as the have their medicine bag (or 
 equivalent) on their person. If they do not have their medicine bag with them 
 when they are trying to heal a teammate, they can make the attempt at a +20 DC.
 
@@ -657,8 +667,8 @@ RP / Using Skills
 ==============================
 
 	The GM may ask you to roll a certain skill to see if your character can do 
-something. This may be something like, "Roll Awareness to see if you spot the 
-truck barreling towards you," or it might look like, "Roll Medicine to see if 
+something. This may be something like, "Roll Sleight of Hand to see if you can
+pick the lock on that door," or it might look like, "Roll Medicine to see if 
 you can patch up the gaping wound in your chest spewing blood." Anytime you 
 need to Pass a Skill check, there will be a DC (Difficulty Check) you have to 
 exceed in order to successfully pass the check. Again: YOU MUST ROLL *OVER* A DC 
@@ -666,33 +676,35 @@ TO SUCCEED IN A SKILL CHECK. the DC does not need to be given out by the GM, but
 a DC seems too high, you have the right to grumble (but seriously, ask your GM if 
 something seems too difficult. There is usually a reason why tying your shoe 
 takes a DC of 70% on that particular day, etc). After you have rolled, please
-apply any and all relevant skills to your result. If you are rolling to silently
-take down an opponent, the GM can either have you roll a stealth check and an 
-unarmed combat check, or double the DC, and have you roll once adding both 
-modifiers. Also add any relevant Stat Bonuses to a roll. When rolling 
-awareness, add your PER Bonus, etc.
+apply any and all relevant skills to your result. Also add any relevant Stat Bonuses
+to a roll. When rolling investigation, add your PER Bonus, etc.
 
 	At any time out of combat, you may decide to use one of your skills. If you 
-are not pressured by imminent / immediate danger, you may "take a 100%" to pass 
-a skill check, then apply any ranks in the skill. When rushed by a time 
-constraint or danger, you can "take a 50%" to pass a skill check, then apply any 
-ranks in said skill. However, some checks cannot be passed in this way. If you 
-are staring at a ship''s blast doors, and want to kick them down, you can't take
-additional time to increase your odds of success.
+are not pressured by imminent / immediate danger, you may "take a 100%" to take your
+time with a task to roll exactly 100 on a skill check, then apply any ranks in the
+skill. 
+	When rushed by a time constraint or danger, you can "take a 50%" to take
+slightly more time than a 1-action, in-combat check on a task to roll exactly 50 on
+a skill check, then apply any ranks in said skill. However, some checks cannot be
+passed in this way. If you are staring at a ship's blast doors, and want to kick
+them down, you can't take additional time to increase your odds of success.
 
 	If you want to use a skill in combat, see the "Combat: Actions" subsection.
 Skill ranks are exact percentiles to pass a skill check. If you have 50 ranks 
 in a skill, then you have a +50% chance to pass a skill check for that skill. 
-Every time you purchase a new skill for 10 Skill points, it starts as a +10% 
-skill. When leveling up you may add up to 10 points to any one skill.
+When leveling up you may add up to 5 points to any skill.
 
-	Normally a character can attempt any skill check whether or not they have 
-invested in learning the skill; however, sometimes a character will have more 
-penalties if they attempt to use a skill that they don't have "Proficiency" in. 
-A character has Proficiency in a skill when they have 10 or more skill points in 
-that skill.
+	In many cases, a character can attempt a skill check whether or not they
+have invested in learning the skill; however, your GM may decide otherwise, apply
+penalties to your roll, raise the DC, ask you to justify why your character can
+attempt the roll, or make any other judgement they deem appropriate. 
 
-	Defenders win ties for opposing rolls. If a character ties a DC they fail.
+	Characters are considered to be Proficient with certain skills, based on
+their class and background. When a character is Proficient in a skill, each skill 
+point they spend in that skill upon leveling up increases that skill by two 
+instead of one.
+
+	Defenders win ties for opposing rolls.
 
 ==============================
 Player Weapon Customization
@@ -754,16 +766,14 @@ standard Hip Firing rules apply.
 Making Melee Attacks:
 	Melee combat is relatively simple. To hit an enemy player: add your 
 dexterity combat modifier to a d10 roll plus your combat modifier from your 
-weapon/attack*, and add any relevant skill(s)**. The result must be greater than 
-the opponent's Guard DC: 
+weapon/attack*. The result must be greater than the opponent's Guard DC: 
 
-	(DEX * 4)/10 + any skill** in combat. 
+	(DEX * 4)/10  
 
 	Drop any decimal remainder. If you successfully hit your opponent, you roll 
 armor as normal (for more details, see below sections "Armor and Getting Hit" 
 and "Damage Types and Armor Types"). Your damage dealt is often based on a 
-combination of your DEX and STR. If you are wielding a weapon against an unarmed 
-opponent, they may still incur damage depending on their skill.
+combination of your DEX and STR.
 
 	NOTE: if you are fighting unarmed, you can (normally) deal full non-lethal 
 damage or half lethal damage (your choice). Non-lethal damage should be recorded 
@@ -772,10 +782,6 @@ the target becomes unconscious/incapacitated.
 
 *Modifiers from specific weapons or unarmed[x] attacks are listed in the weapons 
 document.
-
-**To determine bonus modifiers from skill, for every 5 skill points in a relevant 
-skill (such as "melee combat skill") take a bonus +0.5 when rolling against guard 
-DC. Drop any decimal remainder after adding all the modifiers.
 
 Hitting What You Intend:
 	If you roll 3+ above your miss chance (3+ above the opponent's guard DC), 
@@ -815,7 +821,7 @@ Cast a Spell: 1 Action
 Aiming Down Gun Sights: 1 Action
 Turning on a Flashlight: 1 Action
 Unholstering Pistol or Grabbing a Weapon/Item: 1 Action
-Performing a Skill Check (other than Getting Bearings/Awareness of surroundings): 1 Action
+Performing a Skill Check (other than Getting Bearings): 1 Action
 Conversing With Partners: Free Action
 Getting Your Bearings / Non Skill-Based Perception: Free Action
 
@@ -856,7 +862,7 @@ can move 1m per 2 actions, or 2m per 4 actions (a full turn). You can sprint
 instead of running, for a +1 movement bonus per action. However, firing your 
 weapon after doing so will cause you to incur a +1 miss chance penalty. The 
 penalty occurs during the actions you sprint, as well as 2 actions afterwards. 
-You can sprint for a number of subsequent Actions equal to your Fortitude. You 
+You can sprint for a number of consecutive Actions equal to your Fortitude. You 
 can jump horizontally Dex/2 meters, and add 1m if you have a 3m running start.
 You can jump vertically Str/3 meters.
 
@@ -870,15 +876,14 @@ that attack (and/or other effects, depending on your abilities). By default,
 everyone starts with a critical hit range of "1", meaning, an attack roll of a 
 10 would be considered a critical hit. But your critical range may not be "1" 
 because your Luck modifies your critical hit range: (Luck Modifier/10), round 
-down, is added to your critical hit range. Which means, if you have a Luck stat 
-of 8 (and thus, by the equation, +1 to your critical hit range), an attack roll 
-of 9-10 would be considered a critical hit.
+down, is added to your critical hit range. Therefore if you have a Luck stat 
+of 8, corresponding to a Luck Modifier of 12, then you would have +1 to your 
+critical hit range and would critically hit on rolls of 9-10.
 
-	Fully-Automatic weapons cannot crit (weapons that shoot more than 1 bullet 
-per Action by default).
+	Weapons with a high fire rate cannot critically hit (weapons that shoot more 
+than 1 bullet per Action by default).
 
 Armor and Getting Hit:
-
 	When a player is defending against a successful enemy hit, they roll 
 Percentiles under their armor in order to see if their armor blocked the bullet, 
 and from there, how much damage they receive. If the defending player has no 
@@ -941,16 +946,11 @@ other thrown weapons) have -1 miss chance to hit if 'adequate' aiming time is
 given (DM's discretion: how rushed you are, or how skilled you are at stealth, 
 etc). Ranged weapon stealth-attacks gain +20 bonus damage.
 
-	If you stealth-attack a target in melee, your target has a guard DC of 0. If 
-you have at least 10 skill in melee combat and you attack from stealth, Thrown 
-and Melee (non-explosive/non-grenade) weapons deal 2x BASE Damage*, up to 150 
-maximum damage** (critical/BONUS damage is not doubled, but added on to the 2x 
-Base Damage). If you critically hit, you ignore the opponent's armor and deal 
-full damage. Or, as normal, (see section, "melee combat") if you roll 3+ above 
-your miss chance (3+ above the opponent's guard DC), you ignore the opponent's 
-armor and deal full damage. Signifying that the target gets hit in whatever you 
-deem to be the most vulnerable; i.e., the head, neck, or the chest (over the 
-heart, etc). 
+	If you stealth-attack a target in melee, your target has a guard DC of 0. As
+normal (see section, "melee combat"), if you roll 3+ above your miss chance (3+ above
+the opponent's guard DC), you ignore the opponent's armor and deal full damage.
+This signifies that the target gets hit in whatever you deem to be the most vulnerable;
+i.e., the head, neck, or the chest (over the heart, etc). 
 
 *Base Damage is typically the damage of the weapon without any other character 
 bonuses, but Base Damage can be increased by certain classes and abilities.
@@ -967,7 +967,7 @@ from flanking.)
 	If a player or opponent is standing outside of cover and they are shot at, 
 after the first firing action (assuming they didn't die or go unconscious), 
 they immediately, 'Hit the Dirt'. When you Hit the Dirt, you dive to the ground,
-going prone, within a 2m range of where they stood (DEX movement rules apply 
+going prone, within a 2m range of where you stood (DEX movement rules apply 
 as normal). Hitting the dirt consumes the 1st action of their next turn.
 
 	To fire, you must be within the longest range limit of your gun*, i.e. be at 
@@ -982,12 +982,43 @@ Except for air, you will always hit air (unless you're in space).
 **You cannot shoot weapons at a distance of over 100m without magnifying sights 
 or over 150m without 2x+ magnification.
 
+	Aiming at an enemy requires one action but significantly increases the 
+effectiveness of your fire. Taking aim requires that you select a particular target 
+that you can either perceive directly or have a high confidence in its current 
+position. You must be able to see or otherwise percieve the target clearly, but they 
+do not have to be within your weapon's range. Against this target only, ranged attacks 
+follow the normal, non-Hip Fire rules. Characters may cease aiming as a free action, 
+for example to aim at a different target. Additionally, aim is ceased automatically 
+in any of the following circumstances: 
+
+* The target dies***.
+* The target moves a large distance unexpectedly****.
+* The aiming character hunkers.
+* The aiming character is thrown (for example, by a frag grenade).
+* The aiming character suffers impairment to his or her primary sense (such as from a flashbang).
+
+***As an optional rule, if a character's aim target dies, and the death was not 
+unexpected, then the character may shift aim to another target within 5m of the first 
+as a Free Action. DM discretion is advised for close combat situations.
+
+****Possibly by coming out of cover 5+ meters from the last known location.
+
+	Aiming is relatively simple and does not need to be treated with excessive
+formality. If a character could reasonably take or keep aim at something, then he or 
+she can.
+
+Fire Rates:
 	Most weapons are Semi-Auto, meaning that each time you pull the trigger, the 
 gun fires once and chambers a new round automatically. It takes 1 Action to fire 
 a semi-auto weapon in this way. Some guns, such as Shotguns and Bolt-Action 
 sniper rifles require 2 Actions to fire the gun, where the first Action is a 
-trigger pull, and the second Action is the rechambering of the weapon.
+trigger pull, and the second Action is the rechambering of the weapon. Some weapons
+are capable of higher rates of fire, like Assault Rifles. These weapons often have
+more than one fire mode such as Fully-Automatic (Auto) and Burst. Auto or Burst 
+mode allows the user to fire 6 or 3 shots for 1 Action, respectively (unless
+otherwise noted). 
 
+Rolling a Ranged Attack:
 	To hit a target, Players must roll a d10 that is over their weapon's miss 
 stat. When an enemy is in cover, their cover score is added to your weapon's 
 miss chance. Lets say your normal ranged miss chance is 2, and the enemy is in 
@@ -997,7 +1028,7 @@ of 7-10 would be successful.
 Gun Jams:
 	If at any time that you are firing a gun and you roll a weapon accuracy of 1,
 roll a second d10. If that second d10 roll is a 1 or 2, the weapon Jams, 
-necessitating a weapon skill check, DC 60. 
+necessitating a Weapon [X] skill check, DC 60.
 
 Hip Firing:
 	Add 3 to a weapon's miss chance. You cannot use optical attachments in hip 
@@ -1045,9 +1076,9 @@ sprint or use other movement abilities.
 
 	Going prone costs 1 Action, and standing up costs 1 Action. Lying flat down on
 your chest makes you a smaller target and helps you aim better, but also makes you
-easier to hit in melee. -1 gun miss chance while prone and +2 chance to be hit in
-melee. Being prone severely limits your movement: 1/2 movement speed while prone, 
-round-up; maximum 2 movement per action.
+easier to hit in melee. -1 gun miss chance while prone and -2 melee Guard DC. Being
+prone severely limits your movement: 1/2 movement speed while prone, round-up; maximum
+2 movement per action.
 
 	Hunkering costs 1 action, and you cannot fire your weapons except by blind-fire 
 (see Blind Firing, above). Imagine curling up in a ball, to pose the absolute smallest
@@ -1064,8 +1095,8 @@ complex weapons, such as high-precision sniper systems or exotic sub-machine
 guns might have a higher DC, maybe 40%. If the Player passes the reload, then 
 the reload time is standard. For Box-Magazine fed Semi- and Fully-Automatic 
 weapons, this is 2 Actions. Other, more complex weapons will specify their 
-reload time. On a critical reload success (effected by luck as normal, anything 
-in the 90-100 range caused by a raw roll or by adding your weapon use skill),
+reload time. On a critical reload success (affected by luck as normal, anything 
+in the 90-100 range caused by a raw roll or by adding your Weapon [X] skill),
 the reload time is halved (for Bolt-Actions it is reduced to 1 Action). On a 
 failure, the reload time takes twice as long.
 
@@ -1184,6 +1215,38 @@ concussive damage (called blunt damage) that ignores armor but you can only deal
 1/2 damage, up to a max of 25 damage. Max of 35 damage if you are using a melee 
 weapon (like a club, sword, or even hitting them with your gun).
 
+Electric Damage:
+	Some damage is delivered to characters with a high current and voltage. This
+can lead to burns, organ failure, fried circuits and chaotic effects on the 
+nervous or control systems of a given character. This damage does not have any
+special effect on armor, but certain characters are more prone to electric 
+damage than others, while some characters are more resistant to it.
+
+Fire Damage:
+	Some damage is inflicted with conflagrations or general combustion. While
+this damage usually leaves an ongoing burning effect, this damage type does not
+imply that simply by being Fire Damage. Please read a given attack or event 
+carefully to see if you are simply burned once, or have an ongoing effect as
+well. Some characters are more resistant to fire than others. Similarly, some
+armor in the game helps mitigate fire damage more effectively than others. 
+
+Acid Damage:
+	Some damage occurs when a substance of a significantly different PH balance
+comes in contact with your player and chemically reacts in an adverse manner.
+Such cases are usually painful and smell bad. 
+	While taking acid damage doesn't always mean that you have an ongoing 
+effect, read the source of the damage carefully to see if in addition to the 
+one-time damage effect, you also have an ongoing effect to deal with as well. 
+Acid damage can affect armor adversely as well, but that is not implied simply 
+by an attack being labeled with acid damage. Such effects will be listed 
+separately in the attack, trap, etc.
+
+Internal Damage:
+	Internal damage can be sustained from things like parasites, malicious
+microbots, or simply pushing your character's physical body past its breaking
+point. Unless otherwise stated, internal damage always deals full damage and
+ignores armor. 
+
 ===== Protection Types =====
 
 Armor:
@@ -1234,6 +1297,7 @@ Cloaking
 	Cloaking is available to some classes as a class feature.
  
 ===== Cloaking Modules =====
+
 	Expend the cloaking module's "Nanite Activation Cost" to begin cloaking. At 
 the ending of every turn thereafter, you have to pay a "Nanite Upkeep" cost to 
 continue cloaking.
@@ -1250,6 +1314,7 @@ Delay" (listed under the relevant cloaking module's description) before being
 able to cloak again.
 
 ===== Cloaking Detection =====
+
 	If someone/something is looking for you, they must pass a (normally, 
 perception) check at 'Detect DC' difficulty, modified by your stealth skill. 
 While moving, the detect DC is reduced (listed as 'moving detect DC' under the 
@@ -1262,7 +1327,7 @@ surrounding environment better and will stabilize.
 reduced, 'moving detect DC' as you are diverting your attention. However, once 
 you have performed a combat action, the cloak fizzes out.
 
-== CLOAKING DURATIONS AND LEVELING BONUSES ==
+===== CLOAKING DURATIONS AND LEVELING BONUSES =====
 
 +-----------+-------------+-----------+-----------------+
 | Char lv   | Cloak Turns | Detect DCs| Shadow Assn turn|

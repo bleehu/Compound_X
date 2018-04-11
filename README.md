@@ -1,12 +1,12 @@
 # Compound_X
 
-Version Beta 0.0.2
+Version Beta 0.0.5
 
-A fun sci-fi table top role playing game.
+A fun sci-fi tabletop roleplaying game.
 
 Creative Director: Reveraine
 
-Game Director: 1Source Control
+Game Director: Turtlelord
 
 Producer: Bleehu 
 
@@ -15,10 +15,10 @@ Lead Test: Wildlovelies
 ## Special Thanks to: 
 
 * Trowl223
+* 1Sourcecontrol
 * HulkingOpossum
-* 
-* TurtleLord 
-* MasterdieKillsu 
+* rosebrallier 
+* Masterdiekillsu 
 * Shrub 
 * Spinach 
 * Gnat

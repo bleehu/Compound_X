@@ -18,6 +18,12 @@ Every 2 turns, the degree of the burn intensifies
     Your health has fallen below 0. See the "Death and Dying" section in the 
 Basic Rules Document.
 
+== Disrupted ==
+
+    You cannot use Nanite abilities, Doctor Procedures, Engineer Processes or 
+Hacker Exploits. Many similar abilities are also prone to Disruption. If they
+are not on this list, consult your GM. 
+
 == Frozen ==
 
     d10 damage per turn. lasts until a source of heat is applied to the wound, 
@@ -31,6 +37,14 @@ defeat fear. DC 50, Will save.
 == Fear, Greater ==
 
     No actions, except rolling to defeat fear. DC 75, Will save.
+
+== Lonely ==
+
+    Being Lonely is a condition most commonly contracted from having 1 Charisma
+and failing to successfully socialize, or by trying and failing to socialize 
+with an ally who has 1 Charisma. You haven't met Mazlow's Hierarchy of needs, 
+and this affects your performance. While Lonely, you move 1m slower every two 
+actions (round down) and take a -5 to skill rolls. 
 
 == Necrosis ==
 
