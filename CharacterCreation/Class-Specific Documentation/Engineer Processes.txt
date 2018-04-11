@@ -505,6 +505,9 @@ Accuracy Modifier.
     Unlocking a Build tree skill requires having unlocked the skill below it on 
 the tree. Please see the Engineer Skill Tree - Build.png for dependencies.
 
+    IO Ports are a real-world Computer/Electric Engineering term which is short
+for Input/Output Ports.
+
 ===== Embedded Systems =====
 
 == Dragonfly	== 
@@ -649,7 +652,8 @@ takes 3 burn tokens and 50 fire damage. They move slowly and have trouble with
 stairs, but their turret can quickly turn and fire. See the table below for 
 stats on the armor of the drone when built by Engineers of different levels. 
 One anti-vehicle hit will down them however. The Cerberus is large enough for a 
-player to take partial cover behind. 
+player to take partial cover behind. See the table below for stats on the main
+turret.
 
     When a drone is reclaimed, it frees up the control point cost that it 
 occupied, but does not reimburse its construction cost.
@@ -665,6 +669,20 @@ occupied, but does not reimburse its construction cost.
 +----------------+----------------+-----+-----+
 |       >19      |       100%     | 10  | 200 |
 +----------------+----------------+-----+-----+
+
+Cerberus Turret specs:
+
+Damage: 90 Explosive Damage
+APL: 4
+Capacity: 1 Round
+Reload Time: 1 Action
+Reflex Modifier: -35
+
++---------+-------+------+-----+
+| Range   |   5m  |  20m | 60m |
++---------+-------+------+-----+
+| To miss |   2   |   4  |  6  |
++---------+-------+------+-----+
 
 
 == Titan Multipurpose Drone	==
@@ -808,6 +826,25 @@ Drone Health:		+20
     Can only be fired automatically. Must use an Action to 'Spin Up' before 
 being fired. Fires 6 shots per action. In order to unlock, an Engineer must have 
 unlocked antennae and shield capacitor peripherals.
+
+== Peripheral: Flamethrower ==
+Type:               Peripheral
+Construction Cost:  30 Energy, 30 Material, 1 Munitions
+Build Time:         3 Actions
+Modular I/O Ports:  Uses 2 Ports
+Ammo:               Holds 4 units of 2 Liters of Naphitic Gel.
+Damage:             75 Fire Damage
+Suppression Level:  Medium
+
++-------+-----+-----+-----+
+| Range |  5m | 10m | 20m |
++-------+-----+-----+-----+
+|  Acc  |  1  |  3  |  5  |
++-------+-----+-----+-----+
+
+    Requires 2 shots for Medium Suppression. Catches flammable objects on fire. 
+Not affected by armor, unless target is 100% sealed. If target took damage, 
+apply 1 x Burning @ DC70% to remove. Apply 1 x Fear on hit.
 
 == Peripheral: Antennae	== 
 Type:				Peripheral
