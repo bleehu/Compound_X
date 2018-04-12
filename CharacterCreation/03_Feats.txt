@@ -242,7 +242,7 @@ action by 30%, (30% better roll, +30% damage [drop the remainder], up to you.)
 
 Prerequisites:
 
-*  Pilot or 20 skill in Piloting
+*  Pilot or 20 skill in Vehicles - Ground
 
 	Tires were meant to be balded. You get a +25 to any difficult maneuver with 
 a land vehicle in which you do not catch air. This works with vehicles that have 
