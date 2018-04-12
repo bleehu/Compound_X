@@ -155,16 +155,15 @@ MISCELLANEOUS THROWN WEAPONS
 ==============================
 
 	These weapons work similarly to guns. However your range is determined by 
-your DEX or STR and your miss chance is reduced by your [Combat PER Mod] + [1 
-for every 10 Thrown Weapon Skill]. Like melee attacks, if you roll a Crit or 3+ 
-above your Miss Chance, you ignore the target's armor and deal full damage. Misc 
-thrown weapons also benefit from Stealth Attacks (see basic rules).
+your DEX or STR and your miss chance is reduced by your [Combat PER Mod]. Like 
+melee attacks, if you roll a Crit or 3+ above your Miss Chance, you ignore the 
+target's armor and deal full damage. Misc thrown weapons also benefit from Stealth 
+Attacks (see basic rules).
 
-	If you have Hand-to-Hand trained, +10 base damage for all misc thrown 
-weapons. Instead, if you have Hand-to-Hand Expert, +20 base damage for all misc 
-thrown weapons. 
+	Thrown weapons benefit from half the base damage bonuses from Unarmed Combat 
+feats.
 
-	Also, If you have melee combat skill >=20 then all DEX or STR requirements 
+	Also, If you have Weapons - Thrown skill >=20 then all DEX or STR requirements 
 for Misc. Thrown Weapons are reduced by 1.
 
 	All misc thrown weapons have a Reflex Modifier: -10
@@ -238,7 +237,7 @@ GRENADES
 ==============================
 
 	All grenades require an explosives skill of at least 10 to use.
-Targets can roll a luck or perception check at DC 60+[your explosives skill]% in 
+Targets can roll a luck or perception check at DC 60% in 
 order to dodge/attempt to jump out of the way. You can 'cook' a grenade in your 
 hand for 1 action to make it impossible for an enemy to dodge.
 
