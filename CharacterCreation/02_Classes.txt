@@ -377,7 +377,6 @@ Skill Proficiencies:
 ======================================
 
 
-
 =====   HUNTER   =====
 	An expert tracker, you're the one hired when someone wants something found. 
 Expertly trained in manipulating your Nanites to aid in pursuit of a quarry, or 
@@ -736,7 +735,7 @@ Class Primary Attribute: Strength
 Starting Wealth: $2170 + 100*Luck
 
 Passives:
-* Gain usage of melee weapon "Hand-to-Hand [Expert]" and disregard the requirement
+* Gain Feat: Unarmed Combat Training
 
 Weapon Proficiencies:
 * Pistols.
