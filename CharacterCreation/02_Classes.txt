@@ -736,7 +736,7 @@ Class Primary Attribute: Strength
 Starting Wealth: $2170 + 100*Luck
 
 Passives:
-* Gain Feat: Unarmed Combat Training
+* Gain usage of melee weapon "Hand-to-Hand [Expert]" and disregard the requirement
 
 Weapon Proficiencies:
 * Pistols.
