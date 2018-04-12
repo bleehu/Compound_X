@@ -530,14 +530,6 @@ Prerequisites:
 more than some. In addition to two primary weapons, you can carry another 
 secondary weapon.
 
-== Tele-Cast ==
-
-Prerequisites:
-
-*  Be a Paladin, Sorcerer or Mage.
-
-	You may use a melee weapon to perform touch effect spells.
-
 == Toughness ==
 
 Prerequisites:
@@ -652,14 +644,6 @@ Prerequisites:
 *  Must be a Marksman, Doctor or Hacker
 
 	Enables the use of Carbines by the listed classes.
-
-== Unlocked, Welcome to the Front Line ==
-
-Prerequisites:
-
-*  Must be a Paladin
-
-	Enables the use of Automatic Rifles by the listed class.
 
 == Very Normal ==
 
@@ -849,7 +833,7 @@ weapon, etc.
 
 Prerequisites:
 
-*  High-Technology class (Monk, Paladin, Hacker) or
+*  High-Technology class (Monk, Hacker) or
 *  Knowledge [Nanites] at 40
 
 	Add +3 miss chance to a piece of cover for 4 turns.
