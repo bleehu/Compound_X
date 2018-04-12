@@ -780,7 +780,7 @@ Nonlethal Damage:
 guns. This just means that when an attack drops a target to 0 health, they 
 enter the Bleeding Out state. However, when fighting unarmed or with a melee 
 weapon that you are proficient with, you may declare a melee attack you have 
-not yet rolled to be nonlethal. This imposes a penalty to hit, since you are 
+not yet rolled to be nonlethal. This imposes a -2 accuracy penalty, since you are 
 imposing constraints upon yourself on where you can strike, but if a nonlethal 
 attack would reduce a target to 0 health, the target instead drops to 1 health 
 and becomes Unconscious (and does not gain the Bleeding Out condition). 
