@@ -553,7 +553,7 @@ the die.
 
 Prerequisites:
 * STR 5 and DEX 5
-* Levle 5, OR Assassin Class, OR Berserker Class
+* Level 5, OR Assassin Class, OR Berserker Class
 
 	Increase base and minimum damage of Unarmed Strike by 20. 
 	
