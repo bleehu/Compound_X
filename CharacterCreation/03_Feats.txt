@@ -307,10 +307,10 @@ damages an area, Last Shot Counts does not take effect.
 Prerequisites:
 *  Pilot or 40 skill in Vehicles - Flight OR Space
 
-	You gain a +20% to Vehicles checks in either airborne or spaceborne vehicles
-(choose one), and an additional +20% to unconventional maneuvers in such as well,
-but you and your vehicle take double damage for the next three turns after using these
-bonuses. (any teammates in such a vehicle do not take double damage)
+	You gain a +20% to Vehicles checks in airborne or spaceborne vehicles, and an
+additional +20% to unconventional maneuvers in such as well, but you and your vehicle
+take double damage for the next three turns after using these bonuses. (any teammates
+in such a vehicle do not take double damage)
 
 == Lucky Blind Fire ==
 
