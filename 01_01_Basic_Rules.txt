@@ -775,13 +775,18 @@ armor as normal (for more details, see below sections "Armor and Getting Hit"
 and "Damage Types and Armor Types"). Your damage dealt is often based on a 
 combination of your DEX and STR.
 
-	NOTE: if you are fighting unarmed, you can (normally) deal full non-lethal 
-damage or half lethal damage (your choice). Non-lethal damage should be recorded 
-as a separate (duplicate) health bar. When their non-lethal health bar reaches 0, 
-the target becomes unconscious/incapacitated.
+Nonlethal Damage:
+	By default, melee attacks do lethal damage, like the vast majority of 
+guns. This just means that when an attack drops a target to 0 health, they 
+enter the Bleeding Out state. However, when fighting unarmed or with a melee 
+weapon that you are proficient with, you may declare a melee attack you have 
+not yet rolled to be nonlethal. This imposes a -2 accuracy penalty, since you are 
+imposing constraints upon yourself on where you can strike, but if a nonlethal 
+attack would reduce a target to 0 health, the target instead drops to 1 health 
+and becomes Unconscious (and does not gain the Bleeding Out condition). 
 
-*Modifiers from specific weapons or unarmed[x] attacks are listed in the weapons 
-document.
+	A target reduced to exactly 1 health by a nonlethal attack does not 
+fall Unconscious. 1 is not 0.
 
 Hitting What You Intend:
 	If you roll 3+ above your miss chance (3+ above the opponent's guard DC), 
