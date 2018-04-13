@@ -98,10 +98,10 @@ miss chance with Guns or Melee in combat.
 == Concussive Maintenance ==
 Prerequisites: 
 
-*  20 skill in repair or Engineer class. 
+*  20 skill in Repair OR Engineer class. 
 *  STR 4
 	
-	+20% to repair skill. For 1 action, you may whack something broken to try to 
+	+20% to Repair check. For 1 action, you may whack something broken to try to 
 fix it. You can use Concussive Maintenance even after you've already failed to 
 repair something. You can use concussive maintenance once per target, per 
 encounter.
@@ -111,8 +111,8 @@ Prerequisites:
 *  None
 
 	Make a stealth check to hide your chosen pistol, shotgun, or SMG on your 
-person. To succeed, you need a minimum score of 20. Roll determines DC for 
-enemy to actively search and find your hidden weapon.
+person. To succeed, you must pass a DC 19 check. Total roll determines DC for an
+enemy to actively search you and find your hidden weapon.
 
 == Desperate Crawl ==
 Prerequisites:
@@ -121,7 +121,7 @@ Prerequisites:
 	When downed instead of not being able to move you may crawl half of your 
 move speed or 3m every two actions whichever distance is shorter. You still 
 cannot speak, and you cannot take any other action. Death saving throws are 
-not actions, and must be thrown normally. You also get a +10% bonus to Death
+not actions, and must be rolled normally. You also get a +10% bonus to Death
 Saving Throws
 
 == Double Tap == 
@@ -221,7 +221,7 @@ action by 30%, (30% better roll, +30% damage [drop the remainder], up to you.)
 == Four on the Floor ==
 Prerequisites:
 
-*  Pilot or 20 skill in piloting
+*  Pilot or 20 skill in Vehicles - Ground
 
 	Tires were meant to be balded. You get a +25 to any difficult maneuver with 
 a land vehicle in which you do not catch air. This works with vehicles that have 
@@ -254,17 +254,17 @@ used as bats, fan blades as swords, etc., etc.
 
 == Juggler ==
 Prerequisites:
-*  DEX 4 or Higher
+*  DEX 4 or higher
 
 	You are used to throwing and catching things very quickly. It's a neat party
 trick and it turns out has some surprising applications in combat. You gain 10
-skill in perform(juggle) which is usually a DEX check. If you don't have another
+skill in the DEX skill Performance - Juggling. If you don't have another
 weapon drawn when you draw a throwing weapon, you may attempt to juggle that
-weapon. If you choose to do so, you must attempt a DC 60 juggling skill 
-challenge. On success, you may draw three of the same type of thrown weapon at
+weapon. If you choose to do so, you must attempt a DC 60 Juggling skill 
+check. On success, you may draw three of the same type of thrown weapon at
 once and use each as if you had drawn them normally. If you fail, you drop one
-of the weapon at your feet and launch the other two in random directions. You
-also get a -1 to miss with thrown weapons and a +10 to stealth checks to attack
+of the weapons at your feet and launch the other two in random directions. You
+also gain a -1 to miss with thrown weapons and a +10 to stealth checks to attack
 quietly with thrown weapons.
 
 == Last Shot Counts ==
@@ -278,12 +278,12 @@ damages an area, Last Shot Counts does not take effect.
 
 == Leaf on the wind ==
 Prerequisites:
-*  Pilot or 40 skill in piloting
+*  Pilot or 40 skill in Vehicles - Flight OR Space
 
-	You get a +20% to pilot skill checks in airborne or spaceborne vehicles, and
-an additional +20% to unconventional maneuvers in such as well, but you and
-your vehicle take double damage for the next three turns after using these
-bonuses. (any teammates in such a vehicle do not take double damage)
+	You gain a +20% to Vehicles checks in airborne or spaceborne vehicles, and an
+additional +20% to unconventional maneuvers in such as well, but you and your vehicle
+take double damage for the next three turns after using these bonuses. (any teammates
+in such a vehicle do not take double damage)
 
 == Lucky Blind Fire ==
 Prerequisites:
@@ -317,21 +317,21 @@ Prerequisites:
 Prerequisites:
 
 *  Level 5
-*  20 skill in Knowledge[Nanites]
+*  20 skill in Knowledge - Nanites
 
 	Allows the user to better concentrate on their expenditure of Nanites, 
 allowing them to achieve one of the following (you must choose one option when 
 you acquire the feat):
 
 * +2 turns of cloaking
-* Once per turn, +20% (or +2) to a Nanite-related-combat-action at a cost of 20 Nanites (ask GM before applying to an action.)
+* Once per turn, +20% (or +2) to a Nanite-related combat-action at a cost of 20 Nanites (ask GM before applying to an action.)
 * Once per turn, +20% to a non-combat-action at a cost of 20 Nanites (ask GM before applying to an action.)
 * Other, run any ideas by GM.
     
 == Nanite Absorption ==
 Prerequisites:
 
-*  10 skill in Knowledge[Nanites]
+*  10 skill in Knowledge - Nanites
 
 	Once per turn, if you score a critical hit on a target that has Nanites,
 the target loses up to 20 Nanites and you gain the amount lost.
@@ -406,7 +406,7 @@ malfunctioning.
 == Salty Space Dog ==
 Prerequisites:
 
-*  Pilot or 10 Piloting Skill
+*  Pilot or 10 Vehicles - Space skill
 
 	You've been up in the black more times than you can count. You get a +15% to
 maintaining your bearings during a hyperspace jump as well as a +15% to stellar
@@ -442,19 +442,20 @@ Prerequisites:
 	You have uncanny knack for reading situations and making accurate decisions 
 based off of gut feelings. Gain a skill, Uncanny Insight at 10, and apply it 
 to situations where you feel like a bit of extra insight might do you or your 
-team a world of good. This skill is maxed out at skill level 20, and only 
-upgraded by making good decisions based on this skill, rather than by 
-upgrading it with skill points.
+team a world of good. This skill is maxed out at 20 points, and is only 
+upgraded by making good decisions based on this skill, at the discretion of
+your GM.
 
 == Sleight of hand ==
 Prerequisites:
 
-*  DEX 6 or 15 Weapon Use[x] Skill
+*  DEX 6 or 15 Weapons - [x] skill
 
 	Negate the pump of a shotgun, cocking of a revolver, or cycling of a bolt 
 when performing another action besides the aforementioned (besides firing). 
-(Only applies to the weapons you have at least 15 Weapon Use[x] skill in using, 
-unless you meet the DEX requirement). Reload DCs are 5% lower.
+(Only applies to the weapons you have at least 15 Weapons - [x] skill in using, 
+unless you meet the DEX requirement). Gain +5% to reload rolls with the given
+weapon.
 
 == Snap Shot ==
 Prerequisites:
@@ -471,8 +472,8 @@ Prerequisites:
 
 *  CHA 7
 
-	Unless sneaking past / hiding from an alert enemy, use a Bluff/Deceive check 
-in place of a Stealth check.
+	"You just look like you belong here." Unless sneaking past or hiding from
+an alert enemy, roll a Deception check in place of a Stealth check.
 
 == Strong Back ==
 Prerequisites:
@@ -552,8 +553,8 @@ Prerequisites:
 *  CHA 5
 
 	Any time that someone would be suspicious of your actions, they will be less 
-likely to think twice about what you are doing. Increase your Deceive skill by 15
-and Speech skill by 10.
+likely to think twice about what you are doing. Increase your Deception skill by 15
+and Persuasion skill by 10.
 
 == Ward ==
 Prerequisites:
@@ -581,12 +582,12 @@ be taken once. Investor can be used twice, but only once every 5 levels.
 Prerequisites:
 
 *  INT 7 
-*  10 Weapon Use(x*) 
+*  10 skill in Weapons - [x] 
 
 
 	Remove 1.5 ranged miss chance from any one weapon model. If you spend 30 hours
 studying/using/practicing with a different gun (that you have at least 10 
-Weapon Use skill in using), you can change which gun you are most familiar 
+Weapons - [x] skill in using), you can change which gun you are most familiar 
 with -- which moves the bonus from the previous gun model, to the one you are
 now working with. This feat can only be taken once per weapon.
 
@@ -828,7 +829,7 @@ Maximum 4 levels.
 Prerequisites:
 
 *  Level 3
-*  Trained in SMGs or Pistols
+*  Proficient in SMGs or Pistols
 *  DEX 7
 
 	You may aim at an enemy as a free action instead of one action. Only works 
