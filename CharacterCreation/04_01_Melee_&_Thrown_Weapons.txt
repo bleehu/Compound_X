@@ -3,52 +3,22 @@ MELEE WEAPONS & UNARMED FIGHTING
 ==============================
 
 	These weapons/attacks use an 'Accuracy Modifier' instead of
-a 'Miss Chance'. This modifier is added to your combat dex modifier and
-and any relevant skill(s) to help you beat your opponent's guard DC.
-Melee weapons don't normally pierce armor, unless they state otherwise.
-
-	If you have Hand-to-Hand trained, +10 damage for all melee weapons and 
-unarmed fighting. Instead, if you have Hand-to-Hand Expert, +20 damage for all 
-melee weapons and unarmed fighting. 
-
-	Also, If you have melee combat skill >=20 then all DEX or STR requirements 
-for melee weapons are reduced by 1.
-
-	(When dividing Melee Combat Skill, drop the remainder)
+a 'Miss Chance', which is added to your combat dex modifier and
+and any relevant feat or skill bonuses to oppose your opponent's 
+Guard Class, or GC. Melee weapons do not pierce armor, unless otherwise 
+stated.
 
 ===== UNARMED FIGHTING =====
 
-== Hand-to-Hand [untrained] Free ==
+== Unarmed Strike ==
 
-Damage: 5 + STR + DEX
+Damage: 20 + STR mod + DEX mod, minimum 10
 Range: Adjacent (1m)
 Accuracy Modifier: -2
-DEX Requirement: 2
 
-== Hand-to-Hand [Trained] ==
-
-Prerequisites: 10 skill in Melee Combat or Unarmed Combat
-Damage: 5 + STR + DEX + [Melee Combat skill] / 2
-Range: Adjacent (1m)
-Accuracy Modifier:  -1
-DEX Requirement: 3
-
-	Round down damage. 20% chance to disarm target unless weapon is attached via 
-sling, part of the target, etc.
-
-== Hand-to-Hand [Expert] ==
-
-Damage: [3*STR or 2*DEX] + [Melee Combat skill]
-Range: 2m
-Accuracy Modifier: -1
-DEX Requirement:   5
-
-	50% chance to disarm target (unless weapon is part of target). Can use 
-disarm to grapple an opponent using their weapon's sling. (Requires Combat 
-Expertise [Melee] and either 20 skill in Melee Combat or Unarmed Combat, or 
-class passive.)
-
-==== MELEE WEAPONS ====
+==============================
+MELEE WEAPONS
+==============================
 
 ===== LEVEL 1 REQUIREMENT WEAPONS =====
 
@@ -185,16 +155,15 @@ MISCELLANEOUS THROWN WEAPONS
 ==============================
 
 	These weapons work similarly to guns. However your range is determined by 
-your DEX or STR and your miss chance is reduced by your [Combat PER Mod] + [1 
-for every 10 Thrown Weapon Skill]. Like melee attacks, if you roll a Crit or 3+ 
-above your Miss Chance, you ignore the target's armor and deal full damage. Misc 
-thrown weapons also benefit from Stealth Attacks (see basic rules).
+your DEX or STR and your miss chance is reduced by your [Combat PER Mod]. Like 
+melee attacks, if you roll a Crit or 3+ above your Miss Chance, you ignore the 
+target's armor and deal full damage. Misc thrown weapons also benefit from Stealth 
+Attacks (see basic rules).
 
-	If you have Hand-to-Hand trained, +10 base damage for all misc thrown 
-weapons. Instead, if you have Hand-to-Hand Expert, +20 base damage for all misc 
-thrown weapons. 
+	Thrown weapons benefit from half the base damage bonuses from Unarmed Combat 
+feats.
 
-	Also, If you have melee combat skill >=20 then all DEX or STR requirements 
+	Also, If you have Weapons - Thrown skill >=20 then all DEX or STR requirements 
 for Misc. Thrown Weapons are reduced by 1.
 
 	All misc thrown weapons have a Reflex Modifier: -10
@@ -268,7 +237,7 @@ GRENADES
 ==============================
 
 	All grenades require an explosives skill of at least 10 to use.
-Targets can roll a luck or perception check at DC 60+[your explosives skill]% in 
+Targets can roll a luck or perception check at DC 60% in 
 order to dodge/attempt to jump out of the way. You can 'cook' a grenade in your 
 hand for 1 action to make it impossible for an enemy to dodge.
 
