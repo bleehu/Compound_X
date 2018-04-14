@@ -8,7 +8,30 @@ and any relevant feat or skill bonuses to oppose your opponent's
 Guard Class, or GC. Melee weapons do not pierce armor, unless otherwise 
 stated.
 
-===== UNARMED FIGHTING =====
+	Melee weapons come in one of five size categories. The first 
+four are Light, One-handed, Two-handed, and Polearms. Characters start 
+with proficiency with some number of these based on their class. The 
+fifth category is Exotic. Acquiring proficiency with Exotic weapons does 
+not grant access to all Exotic weapons, but rather to a particular type, 
+such as whips. Exotic proficiencies may rarely be granted by Backgrounds, 
+and are more commonly acquired by feat.
+
+	When a Two-handed weapon uses a character's STR mod in its damage 
+calculation and the character's STR mod is positive, that character instead 
+uses 150% of their STR modifier to calculate damage.
+
+	Some One-handed weapons have the Hybrid size property. Characters 
+with proficiency with Two-handed melee weapons may make two-handed strikes 
+with these weapons, which allows them to add their STR modifier as if 
+the weapon was Two-handed.
+
+	Unarmed Strike is not a weapon and therefore does not have a 
+size category. All characters are considered proficient with Unarmed 
+Strike. Efficacy is an entirely separate issue.
+
+==============================
+UNARMED
+==============================
 
 == Unarmed Strike ==
 
@@ -25,6 +48,7 @@ MELEE WEAPONS
 == Eliazar Plasma Torch $240 ==
 
 Damage: 30 + 2x Plasma Burn
+Size: Light
 Range: Adjacent (1m)
 Accuracy Modifier: +1
 STR Requirement:   3
@@ -32,9 +56,10 @@ STR Requirement:   3
 	Plasma. Can quickly repair vehicles with welding materials, seal/cut through 
 moderate doors, and make temporary cover. -40% stealth for being quiet on stealth attacks.
 
-== Gurbur G1 Combat Knife $315 ==
+== Gurber G1 Combat Knife $315 ==
 
 Damage: 40 + STR + 2*DEX + 1xBleed
+Size: Light
 Range: Adjacent (1m)
 Accuracy Modifier: +1
 DEX Requirement: 3
@@ -42,6 +67,7 @@ DEX Requirement: 3
 == Gurber GS101 Combat Sword $680 ==
 
 Damage: 50 + 2*STR + 2*DEX + 1xBleed
+Size: One-handed
 Range: 2m
 Accuracy Modifier: +2
 DEX Requirement: 4
@@ -51,6 +77,7 @@ DEX Requirement: 4
 == Guri Grabber Knife $470 ==
 
 Damage: 30 + STR + 2*DEX + 1xBleed
+Size: Light
 Range: Adjacent (1m)
 Accuracy Modifier: +1
 DEX Requirement: 5
@@ -62,18 +89,19 @@ grappling checks. Whenever you roll a successful grappling check, you may deal
 == Guri Carbon Whip $560 ==
 
 Damage: 30 + 3*STR + 2*DEX
+Size: Exotic - One-handed
 Range: 3m
 Accuracy Modifier: +1
 DEX Requirement: 6
 
-	Requires "Weapon Use [Exotic]". Can grapple limbs from range (DEX based 
-grapple) and force movement (1m for every 5 [DEX or STR]). Can disarm weapons 
-from range according to Hand-to-Hand [trained] or [Expert] disarm rules (you 
-must have [Trained] or [Expert] to use their respective rules).
+	Can grapple limbs from range (DEX based grapple) and force movement 
+(1m for every 5 [DEX or STR]). Can make Disarm attempts at range. Grapple, 
+Shove, and Disarm attempts with the whip costs Actions as normal.
 
 == SPECO SP10 VAE Combat Knife $640 ==
 
 Damage: 45 + STR + 2*DEX + 1xBleed
+Size: Light
 Range:  Adjacent (1m)
 Accuracy Modifier: +1
 DEX Requirement: 4
@@ -83,6 +111,7 @@ DEX Requirement: 4
 == SPECO SPC50 VAE Circular Saw $695 ==
 
 Damage: 55 + STR + 1xBleed
+Size: Two-handed
 Range: Adjacent (1m)
 Accuracy Modifier: +1
 STR Requirement: 4
@@ -94,6 +123,7 @@ this weapon.
 == SPECO SP30 VAE Combat Sword $1245 ==
 
 Damage: 55 + 2*STR + 2*DEX + 1xBleed
+Size: One-handed
 Range: 2m
 Accuracy Modifier: +2
 DEX Requirement: 6
@@ -105,11 +135,12 @@ DEX Requirement: 6
 == Eliazar E500 Assisted-Sledgehammer $811 ==
 
 Damage: 50 + 6*STR
+Size: Two-handed
 Range: 2m
 Accuracy Modifier: +0
 STR Requirement: 6
 
-	2-handed weapon. Considered concussive (explosive) damage. Hits armor points 
+	Considered concussive (explosive) damage. Hits armor points 
 before physical damage if the target's armor has defense against explosive (i.e. 
 concussive) damage. If armor roll is greater than 50%, target rolls a DC 50% 
 fort save for a broken limb of your choice. -20% stealth rolls for being quiet 
@@ -118,6 +149,7 @@ on stealth attacks. Reduces door-breaking DC by 30% per hit.
 == Eliazar E5500 Power Fist $880 ==
 
 Damage: 50 + 5*STR
+Size: Light
 Range: Adjacent (1m)
 Accuracy Modifier: +1
 STR Requirement: 5
@@ -131,51 +163,55 @@ door-breaking DC by 45% per hit.
 == Muzashi VAE Katana $1354 ==
 
 Damage: 60 + STR + 3*DEX + 2xBleed
+Size: One-handed - Hybrid
 Range: 2m
 Accuracy Modifier: +2
 DEX Requirement: 6
 
-	Requires "Weapon Use [Exotic]". Voltage Aligned Edge; ignores standard armor.
+	Voltage Aligned Edge; ignores standard armor.
 
 == Eliazar Plasma Sword $987 ==
 
 Damage: 50 + STR + 2*DEX + 3xPlasma Burn
+Size: One-handed
 Range: 2m
 Accuracy Modifier: +2
 DEX Requirement: 4
 
-	Requires "Weapon Use [Exotic]". Plasma effect reduces armor by 1 level as 
-usual, but this effect applies during the sword hit (instead of after). If the 
-target has a standard (non-Nanite) shield, all plasma burn is canceled, the 
-shield takes 30 damage and the plasma sword passes through the shield.
+	Plasma effect reduces armor by 1 level as usual, but this effect applies 
+during the sword hit (instead of after). If the target has a standard 
+(non-Nanite) shield, all plasma burn is canceled, the shield takes 30 damage and 
+the plasma sword passes through the shield.
 
 
 ==============================
-MISCELLANEOUS THROWN WEAPONS
+THROWN WEAPONS
 ==============================
 
 	These weapons work similarly to guns. However your range is determined by 
 your DEX or STR and your miss chance is reduced by your [Combat PER Mod]. Like 
 melee attacks, if you roll a Crit or 3+ above your Miss Chance, you ignore the 
-target's armor and deal full damage. Misc thrown weapons also benefit from Stealth 
+target's armor and deal full damage. Thrown weapons also benefit from Stealth 
 Attacks (see basic rules).
 
 	Thrown weapons benefit from half the base damage bonuses from Unarmed Combat 
 feats.
 
-	Also, If you have Weapons - Thrown skill >=20 then all DEX or STR requirements 
-for Misc. Thrown Weapons are reduced by 1.
+	If you have Weapons - Thrown skill >=20 then all DEX or STR requirements 
+for Thrown Weapons are reduced by 1.
 
 	All misc thrown weapons have a Reflex Modifier: -10
-
-	(When dividing Thrown Weapon Skill, drop the remainder)
-
+	
+	Thrown weapons use the same size categories as Melee weapons for 
+determining proficiency, though a Two-handed throwing weapon would be 
+rare indeed.
 
 ===== LEVEL 1 REQUIREMENT WEAPONS =====
 
 == Gurber Throwing Knife $80 ==
 
 Damage: 15 + STR + DEX + [Thrown Weapon Skill]/2 + 1xBleed
+Size: Light
 DEX Requirement: 5
 AP Level: 2
 
@@ -191,6 +227,7 @@ AP Level: 2
 == EAL Tactical Throwing Axe $160 ==
 
 Damage: 25 + 3*STR + DEX + [Thrown Weapon Skill]/2 + 1xBleed
+Size: Light
 STR Requirement: 5
 AP Level: 3
 
@@ -207,6 +244,7 @@ Secondary Ammo Slot.
 == Carbide Kunai $120 ==
 
 Damage: 25 + STR + DEX + [Thrown Weapon Skill]/2 + 1xBleed
+Size: Light
 DEX Requirement: 6
 AP Level: 4
 
@@ -221,6 +259,7 @@ When thrown, +30% to stealth rolls to hide the attack.
 == Plasma Catalyst Kunai $160 ==
 
 Damage: 10 + STR + DEX + [Thrown Weapon Skill]/2 + 3xPlasma Burn
+Size: Light
 DEX Requirement: 6
 AP Level: 5
 
