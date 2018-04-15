@@ -399,7 +399,6 @@ Passives:
 * Gain Skill Survival at 10.
 * Gain Feat: Proficiency: Light Melee Weaponry.
 * Gain Feat: Proficiency: One-handed Melee Weaponry.
-* Gain Feat: Proficiency: Polearm Melee Weaponry.
 * Purchase your first primary cloaking module at a $1500 discount
 * Cloaking's Nanite Activation cost is reduced by 4 after level 3
 * Gain Ability "Mark Quarry" Detailed below
