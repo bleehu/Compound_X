@@ -22,7 +22,7 @@ Starting Wealth: $3770 + 100*Luck
 
 
 Passives: 
-* Gain Skill Weapon Use[X] at 10 
+* Gain Skill Weapons - [Choose one] at 10.
 * Gain a +15 to Rolls for initiative. (You go first more often).
 
 Weapon Proficiencies: 
@@ -37,6 +37,9 @@ Armor Proficiencies:
 * Light
 * Medium
 * Medium-Heavy
+
+Skill Proficiencies:
+* Weapons - [Any]
 
 == Class Feats ==
 	----------------------
@@ -85,7 +88,8 @@ Class Primary Attribute: Strength
 Starting Wealth: $4150 + 100*Luck
 
 Passives: 
-* Gain Skill [Thrown Weapons] OR [Explosives] at 10.
+* Gain Skill Weapons - Thrown OR Weapons - Explosives at 10.
+* Gain Skill Weapons - Heavy at 10.
 
 Weapon Proficiencies: 
 * Pistols
@@ -100,6 +104,11 @@ Armor Proficiencies:
 * Medium
 * Medium-Heavy
 * Heavy
+
+Skill Proficiencies:
+* Weapons - Heavy
+* Weapons - Thrown
+* Weapons - Explosive
 
 == Class Feats ==
 	----------------------
@@ -137,9 +146,9 @@ Class Primary Attribute: Dexterity
 Starting Wealth: $2670 + 100*Luck
 
 Passives:
-* Skill [Anatomy] at 5
-* Skill [Pathology] at 5
-* Skill [medicine] at 10. 
+* Gain Skill Knowledge - Xenology at 5.
+* Gain Skill Knowledge - [Choose one] at 5.
+* Gain Skill Medicine at 10. 
 
 	Every level, you gain one skill in both of the "Hippocratic" and 
 "Malpractice" skill trees. At level 1 you start with an arm mounted needle 
@@ -158,6 +167,10 @@ Armor Proficiencies:
 * Recon
 * Light
 * Medium
+
+Skill Proficiencies:
+* Knowledge - [Any]
+* Medicine
 
 == Class Feats ==
 	----------------------
@@ -190,7 +203,8 @@ Class Primary Attribute: Intelligence
 Starting Wealth: $2580 + 100*Luck
 
 passives: 
-* Gain Skill [Repair] at 10. 
+* Gain Skill Repair at 10.
+* Gain Skill Jury-rigging at 10.
 * 2 Control Points
 * 600 Maximum Energy
 * 1000 Maximum Material
@@ -221,6 +235,11 @@ Armor Proficiencies:
 * Recon
 * Light
 * Medium
+
+Skill Proficiencies:
+* Repair
+* Knowledge - General
+* Jury-rigging
 
 == Class Feats == 
 	-----------------------
@@ -254,7 +273,7 @@ Armor Proficiencies:
 	increased by 50.
 ======================================
 
-=====   PRIEST   =====
+=====   HACKER   =====
 	You've lived your life in the deepest recesses of the holonet, and have come 
 out alive and strong. You can figure out how a security system works, hack into 
 systems, or even hack your allies' Nanites to perform better.
@@ -263,7 +282,8 @@ Class Primary Attribute: Intelligence
 Starting Wealth: $2750 + 100*Luck
 
 Passives: 
-* Gain Skill [Hacking] at 10 OR Gain Skill Knowledge[NANITES] at 10
+* Gain Skill Hacking at 10.
+* Gain Skill Knowledge - Computers at 10.
 
 Weapon Proficiencies: 
 * Pistols
@@ -274,6 +294,10 @@ Armor Proficiencies:
 * Recon
 * Light
 * Medium.
+
+Skill Proficiencies:
+* Hacking
+* Knowledge - Computers
 
 == Class Feats ==
 	----------------------
@@ -291,14 +315,14 @@ Armor Proficiencies:
 	You've had some cross-training in the medical field, or maybe you just tried 
 	plugging a cord into your brain. You know how to communicate with Nanites that
 	are present in friends and enemies. Once per turn, as a free action DC 50 
-	Knowledge[Nanites] grants a +20% to an ally's next roll, or -10% to an opponent.
+	Knowledge - Nanites grants a +20% to an ally's next roll, or -10% to an opponent.
 	Touch Effect.
 	|
 	|
 	V
-	Nanites have almost become second nature to you. DC 50 Knowledge [Nanites] 
+	Nanites have almost become second nature to you. DC 50 Knowledge - Nanites 
 	grants a +30% to an ally's next roll, or -20% to an opponent. 
-	Knowledge [Nanites] / 2 meters range.
+	Knowledge - Nanites / 2 meters range.
 ======================================
 
 
@@ -310,7 +334,7 @@ Class Primary Attribute: Dexterity
 Starting Wealth: $2670 + 100*Luck
 
 Passives: 
-* Gain Skill [Piloting] at 10.
+* Gain Skill Vehicles - [Choose two] at 10.
 
 At level 6, the Feat ". . . Who Needs Nano-Technologies" is automatically unlocked.
 
@@ -324,6 +348,10 @@ Armor Proficiencies:
 * Recon
 * Light
 * Medium.
+
+Skill Proficiencies:
+* Vehicles - [Choose two]
+* Weapons - General
 
 == Class Feats ==
 	----------------------
@@ -349,60 +377,6 @@ Armor Proficiencies:
 ======================================
 
 
-=====   ADEPT   =====
-	Your specialized skills with technology are combined with battle training, 
-providing you an edge in combat situations.
-
-Class Primary Attribute: Strength
-Starting Wealth: $2652 + 100*Luck
-
-Passives: 
-* Gain +50 Maximum Nanites 
-* Gain a permanent Class A Electron Shield 
-
-	The Electron Shield unit is implanted in your body and has the following stats: 
-Recharge Rate/Turn: 50
-Fast Recharge Nanites: 25
-Shield Restart Time: 1 Turn
-
-Weapon Proficiencies: 
-* Pistols
-* Submachine Guns
-* Carbines.
-
-Armor Proficiencies: 
-* Concealed
-* Recon
-* Light
-* Medium
-
-== Class Feats ==
-	----------------------
-	Energy Burst [X Nanites] -
-	For 1 Action, you can emanate a short burst of Nanite induced energy. This energy can be 
-	used to: Restore 100% of the X Nanites you expend to an ally. Or deplete a target's 
-	Nanite reserve by 100% of the X Nanites you expend. OR create a nanite explosion that
-	deals 50 + 2x Lvl damage + X Nanites to the target, plus inflicts 2x Plasma Burn to anyone 
-	caught in a 5m radius, at a meter range of X/2 Nanites expended (Max 50 Nanites. 25m range 
-	at 50 Nanites).
-	----------------------
-	Hardware Upgrade -
-	You gain access to Assault Rifles.
-	----------------------
-	CS Manipulation [X Nanites] -
-	You can use your CS to create basic items [knives, Frisbees, boomerangs, 
-	anything that is relatively 2-D shaped and smaller than .25x.25m] it gets <X> 
-	health, dependant on number of Nanites used to create it [minimum 5). You can 
-	also use any CS item as a melee tool that can hit at 5*INT + Lvl damage + 1x Plasma Burn,
-	-1 melee accuracy modifier (penalty when rolling against enemy Guard DC).
-	|
-	|
-	V
-	Items can be slightly more complex, up to .5x.5x.5m. Choose one of the 
-	following: CS Melee bash is extended to 5m, or deals 7*INT + Lvl damage + 1x Plasma Burn, or 
-	+1 melee accuracy modifier (bonus when rolling against enemy Guard DC).
-======================================
-
 
 =====   HUNTER   =====
 	An expert tracker, you're the one hired when someone wants something found. 
@@ -413,7 +387,8 @@ Class Primary Attribute: Perception
 Starting Wealth: $3290 + 100*Luck
 
 Passives: 
-* Gain skill [Tracking] at 10
+* Gain Skill Spotting at 10.
+* Gain Skill Survival at 10.
 * Purchase your first primary cloaking module at a $1500 discount
 * Cloaking's Nanite Activation cost is reduced by 4 after level 3
 * Gain Ability "Mark Quarry" Detailed below
@@ -435,6 +410,12 @@ Armor Proficiencies:
 * Concealed
 * Recon
 * Light
+
+Skill Proficiencies:
+* Weapons - [Choose one]
+* Spotting
+* Survival
+
 
 == Class Feats ==
 	----------------------
@@ -462,67 +443,6 @@ Armor Proficiencies:
 	If your Quarry has not seen you for at least 1 turn, your next attack against them does +30 bonus damage.
 	Triggerable once per Quarry.
 	Increases to +50 bonus damage at level 10.
-======================================
-
-
-=====   PALADIN   =====
-	You are a righteous warrior, vetted and trained by one of the powerful 
-corporations or some other technologically advanced entity. You seek to uphold 
-the principals which define the group you've sworn allegiance to. Through this 
-devotion you have been granted access to high tech in order to pursue your goals 
-and missions.
-
-Class Primary Attribute: Fortitude
-Starting Wealth: $3130 + 100*Luck
-
-Passives: 
-* Add 25 + 5 per level to your maximum Nanite pool.
-* Gain Skill Knowledge[Nanites] at 10
-
-	Terms and Conditions clause compliance, access to Paladin Spell tree at 
-level 3. By adhering to the Terms and Conditions, a Paladin gains an amount of 
-Favor within their church and can unlock new paladin spells by spending Favor. 
-Starting at level 3, a Paladin gains Favor equal to their Charisma each level. 
-Favor does not have to be spent, and can be saved up to learn more potent 
-prayers and spells.
-
-Weapon Proficiencies: 
-* Pistols
-* Submachine Guns
-* Carbines
-* Assault Rifles
-* Long Rifles
-
-Armor Proficiencies:
-* Recon
-* Light
-* Medium
-* Medium-Heavy
-
-Feats:
-	----------------------
-	Portable Shield:
-	A shield/barrier with a limited health pool can be projected from your off hand. 
-	When attacked, roll a separate armor roll for your shield, which has separate stats: 
-	80% Coverage, 140 Nanite Health. Shield only protects when opponent is in front 
-	of the character. If an attack is coming from a flank or from behind, then ignore the 
-	Shield. [Projects a tangible shield, not merely a Magnetic/Electron Shield]. It takes 1 
-	action to deploy the shield, and a free action to dismiss it.
-	|
-	|
-	V
-	100% Coverage, 200 Nanite Health. Free action to deploy shield.
-	----------------------
-	Smite Enemy:
-	Once per engagement, you may deal double damage on an attack against a single 
-	target, calculated after any other bonus damage. Standard hit rules apply, but 
-	Smite Enemy is only consumed on a successful hit [multiple attempts at using 
-	Smite may be made per encounter, but once a successful double damage attack 
-	is made, Smite Enemy is consumed for the encounter].
-	|
-	|
-	V
-	You may use Smite twice per engagement.
 ======================================
 
 =====   GUNSLINGER   =====
@@ -570,6 +490,10 @@ Armor Proficiencies:
 * Recon
 * Light
 
+Skill Proficiencies
+* Weapons - Pistols
+* Acrobatics
+
 Feats:
 	----------------------
 	Heightened Alertness -
@@ -610,13 +534,12 @@ Starting Wealth: $1975 + 100*Luck
 
 Passives:
 * No penalty for engaging in Grappling maneuvers.
-* Gain Skill [Melee Combat] at 10
-* Gain Hand-to-Hand Trained. 
+* Gain Skill Weapons - Melee at 10
 * Gain bonus cloaking time when using other cloaking devices besides the Shadow Cloak.
 
 	Assassins wear a Shadow Cloak, which allows them to become a mere silhouette.
 Shadow Cloaks attempt to cloak* the assassin at all times** with a Detect DC of 
-10 + skill [Stealth] and a moving Detect DC of 0 + skill [Stealth]. When in partial 
+10 + skill Stealth and a moving Detect DC of 0 + skill Stealth. When in partial 
 darkness or darker, the Detect and Moving Detect DC increases by 10. In the darkness,
 a skilled assassin won't be seen, even when being looked at. However, in daylight,
 even the most skilled assassin can be seen if their silhouette is carelessly shown.
@@ -638,6 +561,10 @@ Armor Proficiencies:
 * Concealed
 * Recon
 * Light
+
+Skill Proficiencies:
+* Stealth
+* Weapons - Melee
 
 Feats:
 	----------------------
@@ -676,8 +603,8 @@ Class Primary Attribute: Perception
 Starting Wealth: $3190 + 100*Luck
 
 Passives:
-* Gain skill [Sniper] at 10
-* Gain skill [Spot] at 10.
+* Gain Skill Weapons - Long Rifles at 10.
+* Gain Skill Spotting at 10.
 * Gain feat "Skilled Overwatch": Held firing actions have +20 bonus damage.
 
 Weapon Proficiencies:
@@ -690,12 +617,16 @@ Armor Proficiencies:
 * Recon
 * Light
 
+Skill Profiencies:
+* Spotting
+* Weapons - Long Rifle
+
 == Class Feats ==
 	----------------------
 	Pin Target
 	If you fire at a target that is in cover, you can choose to "Pin" the target. Only 1 target may be
 	Pinned by the marksman at a time. If the target attempts to move from cover within a 180 degree field
-	of view infront of you, you may roll a DC 60 [Sniper] skill check to hit them, as a free action. You have 
+	of view infront of you, you may roll a DC 60 Spotting skill check to hit them, as a free action. You have 
 	a +1 to hit the pinned target with a firing action, for the	remainder of the encounter (even if they move
 	to a new location). If the target moves, it is still considered pinned, and if the target dies or escapes 
 	from the battlefield you may pin a new target. Pin can only be activated by a pinned target once per Marksman
@@ -752,6 +683,10 @@ Armor Proficiencies:
 * Medium
 * Medium-Heavy
 
+Skill Proficiencies:
+* Athletics
+* Weapons - Melee
+
 == Class Feats ==
 	----------------------
 	Blood Rage -
@@ -791,7 +726,6 @@ Starting Wealth: $0 (assume basic robe and communicator)
 
 Passives:
 * No penalty for engaging in Grappling maneuvers.
-* Gain Hand-to-hand Expert.
 * +20 damage to unarmed non-lethal attacks
 * +10 damage to unarmed lethal attacks. 
 
@@ -810,6 +744,10 @@ Weapon Proficiencies:
 
 Armor Proficiencies: 
 * None
+
+Skill Proficiencies:
+* Acrobatics OR Athletics
+* Stealth
 
 == Class Feats ==
 	----------------------
@@ -839,12 +777,12 @@ Armor Proficiencies:
 	----------------------
 	Shadow Strike -
 	Instead of rolling to hit based on opponent Guard DC + their Skill, you 
-	only have to pass a DC 50 Knowledge [Nanite] check.
+	only have to pass a DC 50 Knowledge - Nanites check.
 	|
 	|
 	V
 	Shadow Walk -
-	Roll a Knowledge[Nanites] check, DC 50. You may teleport up to Result-50/10 
+	Roll a Knowledge - Nanites check, DC 50. You may teleport up to Result-50/10 
 	meters. You may also roll stealth after emerging at no action cost. Movement 
 	in this manner is considered to take an action, plus another action for the 
 	skill check. Monks still receive a penalty attack for performing a skill check 

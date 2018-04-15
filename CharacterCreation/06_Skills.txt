@@ -1,138 +1,155 @@
- ==============================
- Skills List
- ==============================
-     This document lists all the skills used in Compound_X. Skills augment your
- natural ability. Anyone who is strong enough can kick in a door, but if you
- are specially trained, you can much more effectively accomplish the task.
- 
- - GENERAL NOTE: Max of 50 points in any one skill.
- - CHARISMA NOTE: Max of 17 +[CHA]*3 points in Charisma skills.
- 
-===== CHARISMA =====
-Deceive: 
-You use your silver tongue to talk your way through situations with 
-ease.
+==============================
+Skills
+==============================
+	Each character learns things while going through life. Maybe your time in
+the military taught you how to navigate using the stars or maybe your time working
+at a mechanic's shop made you good at repairing things? Or maybe you're one of
+those people who is just naturally good at hacking computers.
 
-Speech: 
-The art of outmanuevering your opponent with vocal communication or just being
-well understand.
- 
-===== DEXTERITY =====
-Acrobatics: 
-Rolling and tumbling come naturally to you. Useful for dodging, 
-jumping, balancing, and other fine body-control.
+	Whenever you roll to see if your character succeeds in a task they have 
+skill in, add both your character's points in relevant skills and the relevant
+stat modifier. Ask your GM to confirm what skills and stats apply to the roll.
 
-Hand to Hand [Expert]: 
-Experts in hand to Hand can perform feats unimaginable 
-to mere mortals. They can perform silent take downs, disarmaments, and can 
-fight against  edged weapons without a penalty. However, they have to have 
-specifically mentioned expert training in their background. Standard mechanics,
-or scientists, or farmers will not be able to use this skill. A Buddhist 
-Fighting Monk on the other hand, would get this skill for free. Talk to your 
-GM. For the most part, anyone can take H-H Expert as a skill, but they must 
-take the Melee Combat Expert Feat.
+===== Gaining Skill Points and Skill Proficiency =====
+	Each time a character levels up, they gain a certain number of skill
+points to distribute as they choose. Total skill point gain per level is based on 
+a character's intelligence or charisma, as described in Basic Rules. However, a 
+character may only gain up to 5 points in a skill per level, up to a maximum of 60. 
+Some feats, backgrounds and class passives will give a character points in a 
+specific skill. While these skill gains are not subjected to the limit on skill 
+point gain per level, they do contribute to the maximum of 60 points in a skill. 
+For example, when a Pilot gains 10 skill in a Vehicles: Flight as a class passive 
+at level 1, the pilot can still gain 5 points in Vehicles: Flight by spending skill
+points they earn by leveling up from level 0.
 
-Melee Combat Skill: 
-See damage rules under Melee Weapons listing.
+	Characters are considered to be Proficient with certain skills, based on
+their class and background. When a character is Proficient in a skill, each skill 
+point they spend in that skill upon leveling up increases that skill by two 
+instead of one.
 
-Hand-to-Hand/Unarmed Skill:
-Trained in unarmed fighting, you are more likely to hit your opponents or block their attacks.
+===== Skill Checks and Critical Successes =====
+	If you roll a critical success on a skill check, add 10 to your total roll.
+For an extra critical, add 20.
 
-Piloting: 
-You have been trained in the use and operation of many vehicles, and 
-even if you don’t recognize what it is, you can probably figure out how to use 
-it in a couple of turns.
+===== "General" Skills =====
+	Some skill groups such as Knowledge, Weapons, and Vehicles allow
+characters to learn the skill both in general and in specific cases. If the
+character does not know the specific skill in a group that applies to a situation,
+the player can instead add half of the character's general skill in that skill
+group (rounded down). For example, if a GM asks for a roll in Knowledge: History,
+but the character only has 10 skill in Knowledge: General, the player can add 5
+from Knowledge: General to the Knowledge: History roll. However, if the  GM asks
+for a roll in Knowledge: General, the player can add all 10 points from
+Knowledge: General to the roll.
 
+===== Skills in Compound X =====
+	This list of some of the most commonly-used skills in Compound X is
+arranged based on the stats that are usually associated with the skill. Your GM
+may decide that a different stat applies to any given instance. In addition,
+this is not an exhaustive list of skills, merely the skills called for most
+often. Talk to your GM if you would like your character to learn a more specific
+case of one of these skills or a skill not listed below.
+
+== Charisma ==
+Deception:
+	To tell a convincing lie
+Insight:
+	To tell truth and lies apart
+Performance:
+	"Roll for interpretive dance"
+Persuasion:
+	To tell the truth, share an opinion, or change someone's mind
+
+== Dexterity ==
+Acrobatics:
+	"PARKOUR!" To perform physical tasks that primarily require quickness
+or flexibility
+Sleight of Hand:
+	To pick pockets, pull off card tricks, and cause other mayhem
 Stealth:
-The art of stealth is a blanket over the most cloak and dagger of 
-actions. Good thing you’re in on the secret.
+	To move quietly and escape notice
+Vehicles:
+	For checks to pilot vehicles
+* General
+* Flight
+* Ground
+* Space
 
-Pickpocket: 
-Misdirection, priming, and lifting. 
+== Fortitude ==
+Intimidation:
+	To strike fear into the hearts of your enemies
+	
+== Intelligence ==
+Hacking:
+	To pwn computer systems
+Medicine:
+	To repair life forms
+Repair:
+	To repair machines
+Jury-rigging:
+	To throw together a solution using the materials on hand
+Navigation:
+	For plotting routes through space or across land
+Survival:
+	To make do far from civilization with limited technological help
+Knowledge:
+	For when a character's knowledge differs from the player's
+* General
+* Computers
+* Geography
+* High Tech
+* History
+* Nanites
+* Religion
+* Underworld
+* Xenology
+Weapons:
+	To properly reload, care for and repair a weapon as well as for clearing
+jams. This skill does not affect accuracy rolls.
+* General
+* Explosive
+* Heavy
+* Long Rifle
+* Melee
+* Pistol
+* Shotgun
+* SMG
+* Thrown
 
-Lockpicking: 
-Making physical, mechanical, magnetic, and cryptographic locks go 
-from the locked position to the unlocked position without a key. May require 
-special equipment.
+== Perception ==
+Investigation:
+	To pick useful objects or information out of the chaff
+Spotting:
+	To pick out a detail, often at a distance
 
-===== INTELLIGENCE =====
-Knowledge [X]: 
-You may have gone to college to get a degree in X, or maybe you 
-heard all about X from your local reputable information source. Either way, 
-you know a lot about X. Options:
-	Local
-	Criminal
-	Nanites
-	Sorcery
-	Technology
-	Alien
-	Military
-
-Medicine: 
-If health is over 50, DC 30. Any amount over 30 is restored to target's 
-health. Rolls under 30 deal d10 bleed damage. If health is under 50, DC 50.
-Any amount over 50 is restored to target's health. Rolls under 30 deal d10 
-bleed damage. Medicine skill checks can be performed even if untrained in 
-medicine, but the user takes a -10%. Medicine packs decrease the DC by 10, 
-increase the amount healed by 30, and negate bleed damage on a failed roll.
-
-Navigate: 
-you can read a map, congratulations. Any time you are lost, or need 
-to decide where to go, this skill will channel your inner survivorman and 
-enable you to have a better idea of where you should face.
-
-Hacking: 
-Used to gain outside access to computer based systems.
-
-Repair: 
-For normal damage (up to 50%) roll percents. Any percent under 50 + 
-skill level repairs that much. Rolls over 50 + skill level fail. Target takes 
-d10 Shock damage.
-For critical damage (50% or less) roll percents. Any percent under 30 + skill 
-level repairs that much. Rolls over 30 + skill level fail. Target takes d10 
-Shock damage.
-
-Survival: 
-Lost in the wilderness? You’re journey home will be made easier by 
-your ability to read the terrain, hunt and gather, and erect basic survival 
-structures.
-
-Weapons Use (Rifles / Pistols): 
-Pertains to clearing jams, assembling a gun, 
-reloading, etc. If it has a trigger and a barrel you can figure out how to use 
-it.
-
-Weapon Use (Blades): 
-Sword care, technique, and use are all covered here. For 
-your basic combat knives, long swords, Spears, etc.
-
-Weapon Use (Exotic): 
-Not a weapon covered above? it will fall under here. 
-Space katanas, Plasma and Coilgun weaponry, and Heavy Weapons need this skill.
-
-===== PERCEPTION =====
-Awareness: 
-your character's passive perception skill including all 6 senses. This differs from being able to look intently for something particular (Search).
-
-Search: 
-Looting things and ransacking offices is something you're quite fond of. Also helps whenever you are looking for something particular, rather than just sweeping the area for something of note (Awareness).
-
-Sniping: 
-You have a background going hunting with your dad, or maybe you went 
-to marine scout / sniper school. Who cares. If it moves, breathes or thinks, 
-you can hit it. Some weapons require this skill for use. 
-
-===== STRENGTH =====
-Door Kicking: 
-You've been trained in the subtle art of viscously and 
-unceremoniously removing a door from it's frame for rapid entry.
-
+== Strength ==
 Athletics:
-Excelling in physical ability, you are a better runner, jumper, climber, and
-swimmer than normal.
+	To perform a feat of strength like kicking down a door or climbing up a cliff
 
 
+==== Difficulty Guidelines ====
+Example for (STRENGTH) Athletics check: 
+* 25 = Easy (Doing a pull-up)
+* 50 = Simple (Climbing a tree)
+* 75 = Moderate (Kicking down a door)
+* 100 = Hard (Running through a wooden wall)
+* 125 = Difficult (Kicking down a reinforced door)
+* 150 = Improbable (Throwing a human through a reinforced door)
+* 175 = Inconceivable (Ripping a reinforced door off its hinges with 
+	your hands and hitting someone with it like a baseball game)
+* 200 = Impossible (Opening an airlock with your bear-hands)
 
-Let me know about other skills. You can look here for inspiration:
+===== Class Skill Proficiencies =====
 
-http://forum.rpg.net/showthread.php?463062-Gathered-List-Of-Skills-From-RPGS
+Assassin: Stealth, Weapons - Melee
+Berserker: Athletics, Weapons - Melee
+Engineer: Knowledge - General, Repair
+Doctor: Knowledge - [Any], Medicine
+Gunslinger: Acrobatics, Weapons - Pistol
+Hacker: Knowledge - Computers, Hacking
+Hunter: Spotting, Survival, Weapons - [Choose one]
+Marksman: Spotting, Weapons - Long Rifle
+Monk: Acrobatics or Athletics, Stealth
+Pilots: Vehicles - [Choose two], Weapons - General
+Soldier: Weapons - General, Weapons - [Any]
+Specialist: Weapons - Heavy, Weapons - Thrown
