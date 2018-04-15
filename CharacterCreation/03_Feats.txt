@@ -415,9 +415,8 @@ includes this common noun in its name. This feat may be learned multiple times.
 
 	If a particular Exotic melee weapon would require two hands to effectively 
 wield, a character must have Proficiency with two-handed melee weapons to learn this 
-feat for that weapon type. The same applies to Polearm-style, One-handed style, and 
-Light-style exotic weapons, all of which are specified in Exotic weapons' Size stat 
-as a subtype.
+feat for that weapon type. The same applies to One-handed style and Light-style 
+exotic weapons, all of which are specified in Exotic weapons' Size stat as a subtype.
 
 == Proficiency: Light Melee Weaponry ==
 
@@ -425,13 +424,6 @@ Prerequisites:
 * None
 
 	Allows a character to use Melee weapons of size Light.
-
-== Proficiency: Polearm Melee Weaponry ==
-
-Prerequisites: 
-* Proficiency: Light Melee Weaponry
-
-	Allows a character to use Melee weapons of size Polearm.
 
 == Proficiency: One-handed Melee Weaponry ==
 
