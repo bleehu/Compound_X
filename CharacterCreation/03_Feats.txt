@@ -55,7 +55,7 @@ Prerequisites:
 Prerequisites: 
 
 *  Level 3
-*  Assassin or Monk.
+*  Assassin
 
 	Any damage dealt to an unaware opponent from behind deals an additional 
 10 + (Lvl * 2) Base damage.
@@ -412,14 +412,6 @@ Prerequisites:
 maintaining your bearings during a hyperspace jump as well as a +15% to stellar
 navigation.
 
-== Shadow Sense ==
-Prerequisites: 
-
-*  Level 12 Monk with Shadow Walk or Shadow Strike.
-
-	Your Aura Shield gains a +10 DR armor bonus if you have Shadow Strike or a 
-+20 DR armor bonus if you have Shadow Walk.
-
 == Signature Move ==
 Prerequisites:
 
@@ -525,13 +517,6 @@ Prerequisites:
 
 	Enables the use of shotguns by Gunslingers.
 Note: Gunslingers can use their class feats with shotguns.
-
-== Unlocked, Weapons Training ==
-Prerequisites:
-
-*  Monk
-
-	Enables the use of melee weapons by the Monk class.
 
 == Unlocked, Spray and Pray ==
 Prerequisites:
@@ -728,8 +713,8 @@ weapon, etc.
 == Bunker [25 Nanites] ==
 Prerequisites:
 
-*  High-Technology class (Monk, Hacker) or
-*  Knowledge [Nanites] at 40
+*  Hacker or
+*  Knowledge - Nanites at 40
 
 	Add +3 miss chance to a piece of cover for 4 turns.
 
@@ -784,9 +769,7 @@ Prerequisites:
 	Whenever you land a successful melee hit against someone, you may roll for X 
 additional attacks, where X is your Nanites spent/5. Each additional attack has a 
 compounding +2 miss chance. (A 10th level character making their 3rd strike in a 
-row would be rolling at +4 miss chance). This +2 debuff applies to a Monk's 
-Shadow Strike as well, increasing the DC by 20 per strike instead of increasing 
-the strike's miss chance.
+row would be rolling at +4 miss chance).
 
 == Multi-Target [13*X Nanites] ==
 Prerequisites:
