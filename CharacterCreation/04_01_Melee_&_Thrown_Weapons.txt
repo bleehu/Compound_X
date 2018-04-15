@@ -17,9 +17,9 @@ for melee weapons are reduced by 1.
 	(When dividing Melee Combat Skill, drop the remainder)
 
 ===== UNARMED FIGHTING =====
-
+ 
 == Hand-to-Hand [untrained] Free ==
-
+ 
 Damage: 5 + STR + DEX
 Range: Adjacent (1m)
 Accuracy Modifier: -2
@@ -48,7 +48,7 @@ disarm to grapple an opponent using their weapon's sling. (Requires Combat
 Expertise [Melee] and either 20 skill in Melee Combat or Unarmed Combat, or 
 class passive.)
 
-==== MELEE WEAPONS ====
+-==== MELEE WEAPONS ====
 
 ===== LEVEL 1 REQUIREMENT WEAPONS =====
 
