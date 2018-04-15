@@ -621,12 +621,12 @@ have no prerequisites.
 
 == Submachine Gun Expertise ==
 
-0:	+5m to all range brackets
-12:	-10% reload miss chance	
-24:	+5 Gun Reflex
-36:	-0.5 miss chance @ all ranges
-48:	-0.5 miss chance when firing in fully-automatic or burst
-60:	+10% Base damage
+0:	+5m to ranges R1 & R2. If this would cause R2 to be greater than R3, also increase R3 to match the new R2.
+12:	May use Weapons - SMG in place of Intimidate for checks to intimidate a target you are suppressing with an SMG.
+24:	+10 Gun Reflex to one SMG you are wielding.
+36:	+2 to Accuracy rolls at all ranges while firing automatically (not burst).
+48:	+15, to range R3 while firing semi-automatically.
+60:	+10% Base damage. While suppressing an enemy, if you are shot at, after the first Action of fire you may spend a reaction to duck behind cover within 5m. This ends your suppression.
 
 == Shotgun Expertise  ==
 
