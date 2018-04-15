@@ -149,7 +149,6 @@ Gunslinger: Acrobatics, Weapons - Pistol
 Hacker: Knowledge - Computers, Hacking
 Hunter: Spotting, Survival, Weapons - [Choose one]
 Marksman: Spotting, Weapons - Long Rifle
-Monk: Acrobatics or Athletics, Stealth
 Pilots: Vehicles - [Choose two], Weapons - General
 Soldier: Weapons - General, Weapons - [Any]
 Specialist: Weapons - Heavy, Weapons - Thrown
