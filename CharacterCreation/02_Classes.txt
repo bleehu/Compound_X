@@ -335,6 +335,7 @@ Weapon Proficiencies: Pistols, Submachine Guns, Carbines, Assault Rifles, Long R
 Armor Proficiencies: Recon, Light, Medium, Medium-Heavy.
 Starting Wealth: $3130 + 100*Luck
 Feats:
+
 	----------------------
 	Portable Shield:
 	A shield/barrier with a limited health pool can be projected from your off hand. 
@@ -377,6 +378,7 @@ Choose two bonuses and one weakness:
 Weapon Proficiencies: Pistols.
 Armor Proficiencies: Concealed, Recon, Light.
 Starting Wealth: $1975 + 100*Luck
+
 Feats:
 	----------------------
 	Heightened Alertness -
