@@ -612,20 +612,20 @@ have no prerequisites.
 
 == Pistol Expertise ==	
 
-0:	+5m to ranges R1 & R2			
-12:	-10% reload miss chance			
-24:	+10% to Stealth checks while firing			
-36:	-0.5 miss chance @ all ranges			
-48:	+10m to range R3				
-60:	+20% Base damage
+0:	+5m to ranges R1 & R2. If this would cause R2 to be greater than R3, also increase R3 to match the new R2.
+12:	May use Weapons - Pistol in place of Stealth for checks made to prevent enemies from noticing your Pistol fire.
+24:	Reduce the Reload check penalty imposed by the Dual-Wield / Akimbo feats by 10 when dual-wielding pistols.
+36:	+1 to Accuracy rolls at all ranges.
+48:	+10m to range R3.
+60:	+10% Base damage. If you succeed on an Accuracy roll by at least 3 or extra-crit, treat the enemy's armor as having APL 0 for that attack.
 
 == Submachine Gun Expertise ==
 
-0:	+5m to all range brackets		
-12:	-10% reload miss chance			
-24:	+5 Gun Reflex		
-36:	-0.5 miss chance @ all ranges			
-48:	-0.5 miss chance when firing in fully-automatic or burst			
+0:	+5m to all range brackets
+12:	-10% reload miss chance	
+24:	+5 Gun Reflex
+36:	-0.5 miss chance @ all ranges
+48:	-0.5 miss chance when firing in fully-automatic or burst
 60:	+10% Base damage
 
 == Shotgun Expertise  ==
@@ -633,9 +633,9 @@ have no prerequisites.
 0:	+10m to range R3	
 12:	-15% reload miss chance			
 24:	+5 Gun Reflex				
-36:	Shotgun Expert. -0.5 miss chance @ all ranges			
+36:	-0.5 miss chance @ all ranges			
 48:	+10% perception checks for awareness within 25m.			
-60:	+10% Base damage		
+60:	+10% Base damage. If you hit armor with a higher APL than your shotgun, you deal half damage to its AS instead of no damage (and full damage to health if you deplete the AS).
 
 == Carbine Expertise ==
 
