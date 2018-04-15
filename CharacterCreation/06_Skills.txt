@@ -51,24 +51,24 @@ often. Talk to your GM if you would like your character to learn a more specific
 case of one of these skills or a skill not listed below.
 
 == Charisma ==
-Deception-
+Deception:
 	To tell a convincing lie
-Insight-
+Insight:
 	To tell truth and lies apart
-Performance-
+Performance:
 	"Roll for interpretive dance"
-Persuasion-
+Persuasion:
 	To tell the truth, share an opinion, or change someone's mind
 
 == Dexterity ==
-Acrobatics-
+Acrobatics:
 	"PARKOUR!" To perform physical tasks that primarily require quickness
 or flexibility
-Sleight of Hand-
+Sleight of Hand:
 	To pick pockets, pull off card tricks, and cause other mayhem
-Stealth-
+Stealth:
 	To move quietly and escape notice
-Vehicles-
+Vehicles:
 	For checks to pilot vehicles
 * General
 * Flight
@@ -76,23 +76,23 @@ Vehicles-
 * Space
 
 == Fortitude ==
-Intimidation-
+Intimidation:
 	To strike fear into the hearts of your enemies
 	
 == Intelligence ==
-Hacking-
+Hacking:
 	To pwn computer systems
-Medicine-
+Medicine:
 	To repair life forms
-Repair-
+Repair:
 	To repair machines
-Jury-rigging-
+Jury-rigging:
 	To throw together a solution using the materials on hand
-Navigation-
+Navigation:
 	For plotting routes through space or across land
-Survival-
+Survival:
 	To make do far from civilization with limited technological help
-Knowledge-
+Knowledge:
 	For when a character's knowledge differs from the player's
 * General
 * Computers
@@ -103,7 +103,7 @@ Knowledge-
 * Religion
 * Underworld
 * Xenology
-Weapons-
+Weapons:
 	To properly reload, care for and repair a weapon as well as for clearing
 jams. This skill does not affect accuracy rolls.
 * General
@@ -117,13 +117,13 @@ jams. This skill does not affect accuracy rolls.
 * Thrown
 
 == Perception ==
-Investigation-
+Investigation:
 	To pick useful objects or information out of the chaff
-Spotting-
+Spotting:
 	To pick out a detail, often at a distance
 
 == Strength ==
-Athletics-
+Athletics:
 	To perform a feat of strength like kicking down a door or climbing up a cliff
 
 
