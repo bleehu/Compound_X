@@ -313,6 +313,17 @@ Prerequisites:
 
 	Able to use full damage for lethal strikes with unarmed.
 
+== Muscle Memory ==
+Prerequisites:
+
+*  DEX 6 or 15 Weapons - [x] skill
+
+	Negate the pump of a shotgun, cocking of a revolver, or cycling of a bolt 
+when performing another action besides the aforementioned (besides firing). 
+(Only applies to the weapons you have at least 15 Weapons - [x] skill in using, 
+unless you meet the DEX requirement). Gain +5% to reload rolls with the given
+weapon.
+
 == Nanite Concentration ==
 Prerequisites:
 
@@ -437,17 +448,6 @@ to situations where you feel like a bit of extra insight might do you or your
 team a world of good. This skill is maxed out at 20 points, and is only 
 upgraded by making good decisions based on this skill, at the discretion of
 your GM.
-
-== Sleight of hand ==
-Prerequisites:
-
-*  DEX 6 or 15 Weapons - [x] skill
-
-	Negate the pump of a shotgun, cocking of a revolver, or cycling of a bolt 
-when performing another action besides the aforementioned (besides firing). 
-(Only applies to the weapons you have at least 15 Weapons - [x] skill in using, 
-unless you meet the DEX requirement). Gain +5% to reload rolls with the given
-weapon.
 
 == Snap Shot ==
 Prerequisites:
