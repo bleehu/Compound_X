@@ -790,15 +790,50 @@ and becomes Unconscious (and does not gain the Bleeding Out condition).
 	A target reduced to exactly 1 health by a nonlethal attack does not 
 fall Unconscious. 1 is not 0.
 
+== Combat Maneuvers ==
+
+	In addition to smashing an opponent directly, there are other offensive 
+actions that characters in melee combat may take. Also, some exotic weapons may 
+allow these maneuvers to be performed even outside melee: individual weapon 
+rules take precedence.
+
+	Maneuvers make use of opposed skill checks. Both the actor and defender 
+will roll a check, which does not have to be the same skill, and whoever rolls 
+a higher total wins. Defenders win ties.
+
 Grappling:
-	A character may grapple another character when they are both in melee 
-distance. Doing so provides the grappled player an Opportunity Attack on the 
-grappling player. During grappling, both sides roll opposing grapple checks to 
-see who maintains control. Once you have control you may make a grapple check 
-to subdue your opponent (by choke-out, pin, or a joint lock). You may also strike
-an opponent during grappling, but if the strike fails your opponent may attempt 
-to gain control of the grapple. Skill in grappling is different than skill in 
-unarmed combat.
+	Grappling is a maneuver where a character physically grabs another, 
+attempting to immobilize the target. To initiate a grapple, a character makes 
+a STR-based Athletics check, and the target may oppose it with either STR-Athletics 
+or DEX-Acrobatics. This set of options is referred to below as an opposed grapple 
+check for brevity. If the target wins, the grapple fails. If the grappler wins, 
+both characters gain the Grappled state, and the attacker starts with control.
+
+	While in the Grappled state, ranged attacks at range R2 or R3 (based on 
+the weapon used) against either character have a 50% chance to hit the other. Also, 
+the characters are limited in the actions they can take, can only target each 
+other, and may use only one Action per round. The character with control of the 
+grapple may make Unarmed Strikes, use other combat maneuvers, attempt to Pin, 
+or disengage. The character without control may make Unarmed Strikes, attempt to 
+disengage, or attempt to gain control. Each efforts takes one Action.
+
+	While in the Pinned state, a character may only attempt to disengage, and 
+success will return the character to the grappled state, without control, instead 
+of releasing the character from the grapple. The character grappling with a Pinned 
+target may attempt to knock out or kill the target with a further opposed grapple 
+check. Targets additionally add their Shock modifier to their roll when defending 
+against attempts to kill.
+	
+	Grappling-specific actions are described below.
+	
+Pin: 	The attacker and defender make an opposed grapple check. If the attacker 
+	wins, the defender gains the Pinned state.
+Disengage: Characters in control of a grapple may disengage without rolling. 
+	Otherwise both characters choose one of STR-Athletics or DEX-acrobatics 
+	and roll an opposed check. If the disengager wins, the grapple ends.
+Gain Control: The involved characters make an opposed grapply check as if the 
+	acting character was initiating. If successful, that character gains 
+	control of the grapple, affecting the actions available to both characters.
 
 Kicking/Shoving:
 	Instead of dealing full damage, a character can try to kick/shove a human sized
