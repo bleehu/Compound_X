@@ -30,11 +30,19 @@ with these weapons, which allows them to add their STR modifier as if
 the weapon was Two-handed (see the preceeding paragraph). Such a strike 
 must be declared to be two-handed before rolling to hit, and the character 
 doing so loses the benefits of any items that require his or her off hand to 
-function.
+function.*
 
 	Unarmed Strike is not a weapon and therefore does not have a 
 size category. All characters are considered proficient with Unarmed 
 Strike. Efficacy is an entirely separate issue.
+
+*As an example, a character with a STR mod of 8 is attacking an enemy with a 
+hammer of size One-handed - Hybrid that deals 40 + STR mod damage. Before 
+rolling the attack, the player may declare that the character is making a 
+two-handed strike, which will increase the damage from 40 + 8 = 48 to 
+40 + (8 * 1.5) = 40 + 12 = 52. If that character was holding a weapon or 
+defensive implement in his or her off-hand, that item cannot be used and 
+it provides no bonuses for one round.
 
 ==============================
 UNARMED
