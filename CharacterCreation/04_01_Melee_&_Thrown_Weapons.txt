@@ -18,12 +18,19 @@ and are more commonly acquired by feat.
 
 	When a Two-handed weapon uses a character's STR mod in its damage 
 calculation and the character's STR mod is positive, that character instead 
-uses 150% of their STR modifier to calculate damage.
+uses 150% of their STR modifier to calculate damage. For example, if some 
+two-handed weapon dealt damage equal to 40 + 2xSTR nod and the character 
+wielding it had a STR mod of -4, each strike would deal 32 = 40 + (-4 * 2) 
+damage. A character with the same weapon and a STR mod of 12 would deal 
+76 = 40 + ((12 * 1.5) * 2) = 40 + (18 * 2) damage per strike.
 
 	Some One-handed weapons have the Hybrid size property. Characters 
 with proficiency with Two-handed melee weapons may make two-handed strikes 
 with these weapons, which allows them to add their STR modifier as if 
-the weapon was Two-handed.
+the weapon was Two-handed (see the preceeding paragraph). Such a strike 
+must be declared to be two-handed before rolling to hit, and the character 
+doing so loses the benefits of any items that require his or her off hand to 
+function.
 
 	Unarmed Strike is not a weapon and therefore does not have a 
 size category. All characters are considered proficient with Unarmed 
