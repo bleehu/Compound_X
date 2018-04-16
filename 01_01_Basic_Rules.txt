@@ -770,12 +770,21 @@ than the opponent's Guard roll.
 	Defending players roll a Guard check with a d10, modified by the 
 character's Guard stat, which is calculated by [---]. If you successfully 
 hit your opponent, armor applies as normal except as detailed in the next 
-topic. (for more details, see below sections "Armor and Getting Hit" 
-and "Damage Types and Armor Types"). [Dev note: NO! Move those rules here!]
+two topics.
 
 Hitting What You Intend:
-	If you roll 3+ above your miss chance (3+ above the opponent's guard DC), 
-you ignore the opponent's armor and deal full damage. 
+	If you roll 3+ above your miss chance (3+ above the opponent's Guard), 
+you ignore the opponent's armor and deal full damage directly to health.
+
+Blunt Force:
+	Unless otherwise specified, melee weapons have an APL of 0, which 
+for most weapons would mean they do no damage if they hit armor. Instead, 
+melee attacks that hit armor still deal the STR mod portion of their damage 
+directly to the target's health. For example, a One-handed combat sword that 
+deals 20 + STR mod + DEX mod damage, wielded by a character with a STR mod 
+of 12, that hits its target's armor would deal no damage to the armor and 
+12 damage to the target's health. If the sword was a Hybrid weapon and the 
+attack was a two-handed strike, the health damage would be 18.
 
 Nonlethal Damage:
 	By default, melee attacks do lethal damage, like the vast majority of 
@@ -822,10 +831,16 @@ disengage, or attempt to gain control. Each efforts takes one Action.
 	While in the Pinned state, a character may only attempt to disengage, and 
 success will return the character to the grappled state, without control, instead 
 of releasing the character from the grapple. The character grappling with a Pinned 
-target may attempt to knock out or kill the target with a further opposed maneuver 
-check. Targets additionally add their Shock modifier to their roll when defending 
-against attempts to kill. If a character knocks out or kills a grappled target, 
-that character is still grappled with the 
+target may attempt to restrain the target with a further opposed maneuver check and 
+appropriate tool, such as zip cuffs. Success renders the target helpless (until 
+they can break the bonds, which depends on the item used, see item descriptions). 
+Pinned targets are also vulnerable to knockout and kill actions: both render the 
+target unconscious and reduce him or her to 1 health, but a successful kill action 
+also forces the target to make a death saving throw. Knockout and Kill require two 
+consecutively won opposed maneuver checks, andtargets additionally add their Shock 
+modifier to their roll when defending against attempts to kill. If a character 
+restrians, knocks out, or kills a grappled target, he or she is still grappled and 
+must spend an Action to disengage.
 	
 	Grappling-specific actions are described below.
 	
@@ -834,7 +849,8 @@ Pin: 	The attacker and defender make an opposed maneuver check. If the attacker
 Disengage: Characters in control of a grapple may disengage without rolling. 
 	Otherwise both characters choose one of STR-Athletics or DEX-Acrobatics 
 	and roll an opposed check (choices may differ). If the disengager wins, 
-	the grapple ends.
+	the grapple ends (and the active character has 3 Actions available this 
+	round).
 Gain Control: The involved characters make an opposed maneuver check as if the 
 	acting character was initiating. If successful, that character gains 
 	control of the grapple, affecting the actions available to both characters.
