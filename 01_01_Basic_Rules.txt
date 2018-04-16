@@ -799,15 +799,17 @@ rules take precedence.
 
 	Maneuvers make use of opposed skill checks. Both the actor and defender 
 will roll a check, which does not have to be the same skill, and whoever rolls 
-a higher total wins. Defenders win ties.
+a higher total wins. Defenders win ties. Most maneuvers make use of the same 
+skill opposition, where the attacker rolls STR-Athletics and the defender rolls 
+his or her choice of STR-Athletics or DEX-Acrobatics, so it is referred to below 
+as an opposed maneuver check.
 
 Grappling:
 	Grappling is a maneuver where a character physically grabs another, 
-attempting to immobilize the target. To initiate a grapple, a character makes 
-a STR-based Athletics check, and the target may oppose it with either STR-Athletics 
-or DEX-Acrobatics. This set of options is referred to below as an opposed grapple 
-check for brevity. If the target wins, the grapple fails. If the grappler wins, 
-both characters gain the Grappled state, and the attacker starts with control.
+attempting to immobilize the target. To initiate a grapple, a character initiates 
+an opposed maneuver check. If the target wins, the grapple fails and nothign happens. 
+If the grappler wins, both characters gain the Grappled state, and the attacker 
+starts with control.
 
 	While in the Grappled state, ranged attacks at range R2 or R3 (based on 
 the weapon used) against either character have a 50% chance to hit the other. Also, 
@@ -820,27 +822,51 @@ disengage, or attempt to gain control. Each efforts takes one Action.
 	While in the Pinned state, a character may only attempt to disengage, and 
 success will return the character to the grappled state, without control, instead 
 of releasing the character from the grapple. The character grappling with a Pinned 
-target may attempt to knock out or kill the target with a further opposed grapple 
+target may attempt to knock out or kill the target with a further opposed maneuver 
 check. Targets additionally add their Shock modifier to their roll when defending 
-against attempts to kill.
+against attempts to kill. If a character knocks out or kills a grappled target, 
+that character is still grappled with the 
 	
 	Grappling-specific actions are described below.
 	
-Pin: 	The attacker and defender make an opposed grapple check. If the attacker 
+Pin: 	The attacker and defender make an opposed maneuver check. If the attacker 
 	wins, the defender gains the Pinned state.
 Disengage: Characters in control of a grapple may disengage without rolling. 
-	Otherwise both characters choose one of STR-Athletics or DEX-acrobatics 
-	and roll an opposed check. If the disengager wins, the grapple ends.
-Gain Control: The involved characters make an opposed grapply check as if the 
+	Otherwise both characters choose one of STR-Athletics or DEX-Acrobatics 
+	and roll an opposed check (choices may differ). If the disengager wins, 
+	the grapple ends.
+Gain Control: The involved characters make an opposed maneuver check as if the 
 	acting character was initiating. If successful, that character gains 
 	control of the grapple, affecting the actions available to both characters.
 
-Kicking/Shoving:
-	Instead of dealing full damage, a character can try to kick/shove a human sized
-opponent to force movement by rolling for a normal unarmed/armed melee attack 
-with an additional -2 miss penalty against the opponent's Guard DC. If the attack 
-succeeds, it yields 1/2 the damage it normally would and pushes the target up to
-1m for every 5 strength you have.
+Shoving:
+	This maneuver attempts to force the target to move in a particular direction. 
+The attacker must declare the direction he or she is attempting to move the target, 
+then they roll an opposed maneuver check. If the attacker wins, both characters move 
+in the indicated direction a number of meters equal to half the attacker's Strength. 
+Shoving a grappled target does not end the grapple. Shoved targets to not provoke 
+opportunity attacks, but shoving attackers might.
+
+Kicking:
+	Or whatever appendage your species uses to launch things. Kicking is identical
+to Shoving except that only the target is moved, and that the target moves 50% farther 
+if kicked directly away from the attacker. If a grappled target is successfully kicked, 
+the grapple ends. Kicked targets do not provoke opportunity attacks,
+
+Trip:
+	This maneuver attempts to force the target to the floor. If the attacker wins 
+an opposed maneuver check, the target gains the prone state. Tripping a grappled 
+target ends the grapple.
+
+Disarm:
+	This maneuver attempts to relieve the target of a carried item or weapon. 
+The character initiating this maneuver declares a weapon or item the defending 
+character is wielding. Both attacker and defender choose between STR-Athletics 
+and DEX-Acrobatics (choices may differ) and make an opposed check. Defenders have 
+Disadvantage on the check if they do not have proficiency with the targeted item 
+(for this purpose, improvised melee weapons are treated as regular melee weapons 
+of the appropriate size). If the attacker wins, the defender is forced to drop the 
+targeted object.
 
 ===== Actions =====
 
