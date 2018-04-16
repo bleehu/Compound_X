@@ -402,6 +402,43 @@ Prerequisites:
 	Whenever you are facing someone you are aware of, and they enter into adjacency
 with you, you gain a preemptive melee strike against them.
 
+== Proficiency: Exotic Melee Weaponry ==
+
+Prerequisites:
+
+* Special, see below.
+
+	Allows a character the ability to use one particular type of Melee weapon 
+of size Exotic. Choose one common noun that is not a damage type each time you 
+learn this feat; that noun is the type. You may use any Exotic melee weapon that 
+includes this common noun in its name. This feat may be learned multiple times.
+
+	If a particular Exotic melee weapon would require two hands to effectively 
+wield, a character must have Proficiency with two-handed melee weapons to learn this 
+feat for that weapon type. The same applies to One-handed style and Light-style 
+exotic weapons, all of which are specified in Exotic weapons' Size stat as a subtype.
+
+== Proficiency: Light Melee Weaponry ==
+
+Prerequisites:
+* None
+
+	Allows a character to use Melee weapons of size Light.
+
+== Proficiency: One-handed Melee Weaponry ==
+
+Prerequisites:
+* Proficiency: Light Melee Weaponry
+
+	Allows a character to use Melee weapons of size One-handed.
+
+== Proficiency: Two-handed Melee Weaponry ==
+
+Prerequisites: 
+* Proficiency: One-handed Melee Weaponry
+
+	Allows a character to use Melee weapons of size Two-handed.
+
 == Quickdraw ==
 
 Prerequisites:
