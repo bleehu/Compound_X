@@ -36,11 +36,15 @@ For an extra critical, add 20.
 characters to learn the skill both in general and in specific cases. If the
 character does not know the specific skill in a group that applies to a situation,
 the player can instead add half of the character's general skill in that skill
-group (rounded down). For example, if a GM asks for a roll in Knowledge - History,
-but the character only has 10 skill in Knowledge - General, the player can add 5
-from Knowledge - General to the Knowledge - History roll. However, if the  GM asks
-for a roll in Knowledge - General, the player can add all 10 points from
-Knowledge - General to the roll.
+group (rounded down). For example, if a GM asks for a roll in Vehicles - Flight,
+but the character only has 10 skill in Vehicles - General, the player can add 5
+from Vehicles - General to the Vehicles - Flight roll. However, if the  GM asks
+for a roll in Vehicles - General, the player can add all 10 points from
+Vehicles - General to the roll.
+	Knowledge - General is a minor exception to this rule because Knowledge
+is an incredibly broad field. When a character learns the Knowledge - General skill,
+the player must choose four specific topics that the character has some experience
+or education in. Knowledge - General can apply to rolls related to those four topics.
 
 ===== Skills in Compound X =====
 	This list of some of the most commonly-used skills in Compound X is
