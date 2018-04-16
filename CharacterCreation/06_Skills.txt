@@ -44,8 +44,9 @@ Vehicles - General to the roll.
 	Knowledge - General is a minor exception to this rule because Knowledge
 is an incredibly broad field. When a character learns the Knowledge - General skill,
 the player must choose four specific topics that the character has some experience
-or education in. Knowledge - General can apply only to rolls related to those four
-topics, at the discretion of the GM.
+or education in (including, but not limited to the specific Knowledge skills listed
+below). Knowledge - General can apply only to rolls related to those four topics, at
+the discretion of the GM.
 
 ===== Skills in Compound X =====
 	This list of some of the most commonly-used skills in Compound X is
