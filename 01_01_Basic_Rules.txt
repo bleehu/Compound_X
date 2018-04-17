@@ -822,7 +822,7 @@ dodged by superior agility.
 Grappling:
 	Grappling is a maneuver where a character physically grabs another, 
 attempting to immobilize the target. To initiate a grapple, a character initiates 
-an opposed maneuver check. If the target wins, the grapple fails and nothign happens. 
+an opposed maneuver check. If the target wins, the grapple fails and nothing happens. 
 If the grappler wins, both characters gain the Grappled state, and the attacker 
 starts with control.
 
@@ -832,7 +832,7 @@ the characters are limited in the actions they can take, can only target each
 other, and may use only one Action per round. The character with control of the 
 grapple may make Unarmed Strikes, use other combat maneuvers, attempt to Pin, 
 or disengage. The character without control may make Unarmed Strikes, attempt to 
-disengage, or attempt to gain control. Each efforts takes one Action.
+disengage, or attempt to gain control. Each effort takes one Action.
 
 	While in the Pinned state, a character may only attempt to disengage, and 
 success will return the character to the grappled state, without control, instead 
