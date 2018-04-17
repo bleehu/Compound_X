@@ -808,10 +808,16 @@ rules take precedence.
 
 	Maneuvers make use of opposed skill checks. Both the actor and defender 
 will roll a check, which does not have to be the same skill, and whoever rolls 
-a higher total wins. Defenders win ties. Most maneuvers make use of the same 
-skill opposition, where the attacker rolls STR-Athletics and the defender rolls 
-his or her choice of STR-Athletics or DEX-Acrobatics, so it is referred to below 
-as an opposed maneuver check.
+a higher total wins. Defenders win ties. 
+
+The Opposed Maneuver Check:
+	Most maneuvers make use of the same mildly complex skill opposition, 
+called the opposed maneuver check. It does not refer to a "maneuver" skill, 
+but is short for the following instructions. The attacking or acting character 
+rolls STR-Athletics, and the defender rolls his or her choice of STR-Athletics 
+or DEX-Acrobatics. Initiating a grapple, shove, trip, etc. is mostly a matter 
+of brute strength, but such attempts may be opposed strength for strength or 
+dodged by superior agility.
 
 Grappling:
 	Grappling is a maneuver where a character physically grabs another, 
