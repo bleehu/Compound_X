@@ -741,7 +741,7 @@ space occupied, but rather both the area effectively controlled by the character
 the minimum necessary to effectively fight.
 
 	Two characters engaged in melee combat are considered to be in adjacent 1m 
-spaces, not in the same 1m space. Fights don't gemerally start face-to-face unless 
+spaces, not in the same 1m space. Fights don't generally start face-to-face unless 
 you're at a bar.
 
 	Once a character has attempted to attack another at melee range (1m), 
@@ -752,25 +752,27 @@ moving away from the melee (under the character's own power: explosion knockback
 does not count) will incur an Opportunity Attack as described below.
 	
 Opportunity Attack:
-	A free attack* that is triggered when an opponent leaves melee combat, 
+	A reactionary attack that is triggered when an opponent leaves melee combat, 
 walks past (within melee range) an alert character, performing a skill check 
 when engaged in melee combat that requires the use of the character's primary 
-manipulator limbs (So a medicine check to stabilize an ally would incur an 
+manipulator limbs (so a medicine check to stabilize an ally would incur an 
 attack, but an acrobatics check to kick away a grenade would not) or by 
 trying to shoot an opponent more than 1m away while engaged in melee combat.
 
-	The free attack can be made with a drawn CQB weapon or a melee weapon. 
-If the free attack is made with a CQB weapon, and the weapon is not already 
+	Opportunity attacks can be made with a drawn CQB weapon or a melee weapon. 
+If the free attack is made with a CQB weapon and the weapon is not already 
 aimed at the target, standard Hip Firing rules apply.
 
 Making Melee Attacks:
-	Melee accuracy checks use a d10 roll, modified by your dexterity 
-combat modifier and your weapon's accuracy modifier. The result must be greater 
-than the opponent's Guard roll.
-	Defending players roll a Guard check with a d10, modified by the 
-character's Guard stat, which is calculated by [---]. If you successfully 
-hit your opponent, armor applies as normal except as detailed in the next 
-two topics.
+	Melee attacks make accuracy rolls with a d10, increased by your 
+dexterity combat modifier and your weapon's accuracy modifier. To successfully 
+hit, the result must be greater than (not equal to) the opponent's Guard roll. 
+If you successfully hit your opponent, armor applies as normal except as 
+detailed in the next two topics.
+
+	Defending players roll Guard with a d10 as well, modified by the 
+character's Guard stat, which is calculated by [---]. A Guard roll equal to 
+or greater than an attacker's accuracy causes the attack to miss.
 
 Hitting What You Intend:
 	If you roll 3+ above your miss chance (3+ above the opponent's Guard), 
@@ -824,15 +826,26 @@ Grappling:
 attempting to immobilize the target. To initiate a grapple, a character initiates 
 an opposed maneuver check. If the target wins, the grapple fails and nothing happens. 
 If the grappler wins, both characters gain the Grappled state, and the attacker 
-starts with control.
+starts with control. 
 
-	While in the Grappled state, ranged attacks at range R2 or R3 (based on 
-the weapon used) against either character have a 50% chance to hit the other. Also, 
-the characters are limited in the actions they can take, can only target each 
-other, and may use only one Action per round. The character with control of the 
-grapple may make Unarmed Strikes, use other combat maneuvers, attempt to Pin, 
-or disengage. The character without control may make Unarmed Strikes, attempt to 
-disengage, or attempt to gain control. Each effort takes one Action.
+	Characters shooting at a target in the Grappled state may hit both or 
+either. With wide-effect weapons like flamethrowers or buckshot, the attack may 
+be made against either target but the damage is divided evenly among the grappled 
+characters. Attacks with other weapons have a 50% + the shooter's LUC mod to hit 
+the intended target, and otherwise hit the other.
+	
+	While in the Grappled state, most ranged attacks at range R2 or R3 (based 
+on the weapon used) against either character have a 50% chance to hit the other, 
+though shooters may add their LUCK mod to the 50 to hit their chosen target. Wider 
+effect weapons like flamethrowers and buckshot always evenly divide their damage 
+among the grappled characters.
+
+	While in the grappled state, the characters are limited in the actions 
+they can take, can only target each other, and may use only one Action per round. 
+The character with control of the grapple may make Unarmed Strikes, use other 
+combat maneuvers, attempt to Pin, or disengage. The character without control 
+may make Unarmed Strikes, attempt to disengage, or attempt to gain control. 
+Each effort takes one Action.
 
 	While in the Pinned state, a character may only attempt to disengage, and 
 success will return the character to the grappled state, without control, instead 
@@ -843,9 +856,9 @@ they can break the bonds, which depends on the item used, see item descriptions)
 Pinned targets are also vulnerable to knockout and kill actions: both render the 
 target unconscious and reduce him or her to 1 health, but a successful kill action 
 also forces the target to make a death saving throw. Knockout and Kill require two 
-consecutively won opposed maneuver checks, andtargets additionally add their Shock 
+consecutively won opposed maneuver checks, and targets additionally add their Shock 
 modifier to their roll when defending against attempts to kill. If a character 
-restrians, knocks out, or kills a grappled target, he or she is still grappled and 
+restrains, knocks out, or kills a grappled target, he or she is still grappled and 
 must spend an Action to disengage.
 	
 	Grappling-specific actions are described below.
