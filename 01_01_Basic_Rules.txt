@@ -736,44 +736,57 @@ push you below the minimum miss chance.
 
 ===== Melee Combat =====
 
-	A character occupies 1m of space. however, as Compound X is not played out 
-on a squares-board, usually it doesn't matter if two players are within the same 
-1m space.
+	A character of standard size occupies 1m of space. This is not the physical 
+space occupied, but rather both the area effectively controlled by the character and 
+the minimum necessary to effectively fight.
 
-	Two Players locked in melee combat are considered to be in adjacent 1m spaces, 
-not in the same 1m space. Have you ever seen a fight? you don't start face-to-face 
-unless you're at a bar.
+	Two characters engaged in melee combat are considered to be in adjacent 1m 
+spaces, not in the same 1m space. Fights don't generally start face-to-face unless 
+you're at a bar.
 
-	Generally speaking, once a character has initiated melee combat with another 
-opponent, they are both considered to be in "melee combat," and occupy spaces 
-within reach of one of the combatant's melee weapons. At this point (unless one 
-character has a CQB weapon) both characters are assumed to be using their fists 
-or other melee weapons. If a character wishes to leave melee combat, they incur 
-an "Opportunity Attack."  
+	Once a character has attempted to attack another at melee range (1m), 
+they are both considered to be in melee combat. They can make attacks against 
+each other with unarmed strikes, melee weapons (improvised or not), or CQB guns 
+as normal. Attacking a target more than 1m away, using a non-CQB weapon, or 
+moving away from the melee (under the character's own power: explosion knockback 
+does not count) will incur an Opportunity Attack as described below.
 	
 Opportunity Attack:
-	A free attack* that is triggered when an opponent leaves melee combat or 
-walks adjacent (within melee range) to a character that is aware of their 
-opponent. Characters also incur Opportunity Attacks by performing a non-combat 
-skill check when locked in melee combat (such as trying to repair their own 
-armor) or by trying to shoot a different opponent with a non-CQB weapon.
+	A reactionary attack that is triggered when an opponent leaves melee combat, 
+walks past (within melee range) an alert character, performing a skill check 
+when engaged in melee combat that requires the use of the character's primary 
+manipulator limbs (so a medicine check to stabilize an ally would incur an 
+attack, but an acrobatics check to kick away a grenade would not) or by 
+trying to shoot an opponent more than 1m away while engaged in melee combat.
 
-*The free attack can be made with a CQB weapon or a melee weapon (depending on 
-if the weapon is already equipped in the character's hands). If the free attack 
-is made with a CQB weapon, and the weapon is not already aimed at the target, 
-standard Hip Firing rules apply.
+	Opportunity attacks can be made with a drawn CQB weapon or a melee weapon. 
+If the free attack is made with a CQB weapon and the weapon is not already 
+aimed at the target, standard Hip Firing rules apply.
 
 Making Melee Attacks:
-	Melee combat is relatively simple. To hit an enemy player: add your 
-dexterity combat modifier to a d10 roll plus your combat modifier from your 
-weapon/attack*. The result must be greater than the opponent's Guard DC: 
+	Melee attacks make accuracy rolls with a d10, increased by your 
+dexterity combat modifier and your weapon's accuracy modifier. To successfully 
+hit, the result must be greater than (not equal to) the opponent's Guard roll. 
+If you successfully hit your opponent, armor applies as normal except as 
+detailed in the next two topics.
 
-	(DEX * 4)/10  
+	Defending players roll Guard with a d10 as well, modified by the 
+character's Guard stat, which is calculated by [---]. A Guard roll equal to 
+or greater than an attacker's accuracy causes the attack to miss.
 
-	Drop any decimal remainder. If you successfully hit your opponent, you roll 
-armor as normal (for more details, see below sections "Armor and Getting Hit" 
-and "Damage Types and Armor Types"). Your damage dealt is often based on a 
-combination of your DEX and STR.
+Hitting What You Intend:
+	If you roll 3+ above your miss chance (3+ above the opponent's Guard), 
+you ignore the opponent's armor and deal full damage directly to health.
+
+Blunt Force:
+	Unless otherwise specified, melee weapons have an APL of 0, which 
+for most weapons would mean they do no damage if they hit armor. Instead, 
+melee attacks that hit armor still deal the STR mod portion of their damage 
+directly to the target's health. For example, a One-handed combat sword that 
+deals 20 + STR mod + DEX mod damage, wielded by a character with a STR mod 
+of 12, that hits its target's armor would deal no damage to the armor and 
+12 damage to the target's health. If the sword was a Hybrid weapon and the 
+attack was a two-handed strike, the health damage would be 18.
 
 Nonlethal Damage:
 	By default, melee attacks do lethal damage, like the vast majority of 
@@ -788,26 +801,107 @@ and becomes Unconscious (and does not gain the Bleeding Out condition).
 	A target reduced to exactly 1 health by a nonlethal attack does not 
 fall Unconscious. 1 is not 0.
 
-Hitting What You Intend:
-	If you roll 3+ above your miss chance (3+ above the opponent's guard DC), 
-you ignore the opponent's armor and deal full damage. 
+== Combat Maneuvers ==
+
+	In addition to smashing an opponent directly, there are other offensive 
+actions that characters in melee combat may take. Also, some exotic weapons may 
+allow these maneuvers to be performed even outside melee: individual weapon 
+rules take precedence.
+
+	Maneuvers make use of opposed skill checks. Both the actor and defender 
+will roll a check, which does not have to be the same skill, and whoever rolls 
+a higher total wins. Defenders win ties. 
+
+The Opposed Maneuver Check:
+	Most maneuvers make use of the same mildly complex skill opposition, 
+called the opposed maneuver check. It does not refer to a "maneuver" skill, 
+but is short for the following instructions. The attacking or acting character 
+rolls STR-Athletics, and the defender rolls his or her choice of STR-Athletics 
+or DEX-Acrobatics. Initiating a grapple, shove, trip, etc. is mostly a matter 
+of brute strength, but such attempts may be opposed strength for strength or 
+dodged by superior agility.
 
 Grappling:
-	A character may grapple another character when they are both in melee 
-distance. Doing so provides the grappled player an Opportunity Attack on the 
-grappling player. During grappling, both sides roll opposing grapple checks to 
-see who maintains control. Once you have control you may make a grapple check 
-to subdue your opponent (by choke-out, pin, or a joint lock). You may also strike
-an opponent during grappling, but if the strike fails your opponent may attempt 
-to gain control of the grapple. Skill in grappling is different than skill in 
-unarmed combat.
+	Grappling is a maneuver where a character physically grabs another, 
+attempting to immobilize the target. To initiate a grapple, a character initiates 
+an opposed maneuver check. If the target wins, the grapple fails and nothing happens. 
+If the grappler wins, both characters gain the Grappled state, and the attacker 
+starts with control. 
 
-Kicking/Shoving:
-	Instead of dealing full damage, a character can try to kick/shove a human sized
-opponent to force movement by rolling for a normal unarmed/armed melee attack 
-with an additional -2 miss penalty against the opponent's Guard DC. If the attack 
-succeeds, it yields 1/2 the damage it normally would and pushes the target up to
-1m for every 5 strength you have.
+	Characters shooting at a target in the Grappled state may hit both or 
+either. With wide-effect weapons like flamethrowers or buckshot, the attack may 
+be made against either target but the damage is divided evenly among the grappled 
+characters. Attacks with other weapons have a 50% + the shooter's LUC mod to hit 
+the intended target, and otherwise hit the other.
+	
+	While in the Grappled state, most ranged attacks at range R2 or R3 (based 
+on the weapon used) against either character have a 50% chance to hit the other, 
+though shooters may add their LUCK mod to the 50 to hit their chosen target. Wider 
+effect weapons like flamethrowers and buckshot always evenly divide their damage 
+among the grappled characters.
+
+	While in the grappled state, the characters are limited in the actions 
+they can take, can only target each other, and may use only one Action per round. 
+The character with control of the grapple may make Unarmed Strikes, use other 
+combat maneuvers, attempt to Pin, or disengage. The character without control 
+may make Unarmed Strikes, attempt to disengage, or attempt to gain control. 
+Each effort takes one Action.
+
+	While in the Pinned state, a character may only attempt to disengage, and 
+success will return the character to the grappled state, without control, instead 
+of releasing the character from the grapple. The character grappling with a Pinned 
+target may attempt to restrain the target with a further opposed maneuver check and 
+appropriate tool, such as zip cuffs. Success renders the target helpless (until 
+they can break the bonds, which depends on the item used, see item descriptions). 
+Pinned targets are also vulnerable to knockout and kill actions: both render the 
+target unconscious and reduce him or her to 1 health, but a successful kill action 
+also forces the target to make a death saving throw. Knockout and Kill require two 
+consecutively won opposed maneuver checks, and targets additionally add their Shock 
+modifier to their roll when defending against attempts to kill. If a character 
+restrains, knocks out, or kills a grappled target, he or she is still grappled and 
+must spend an Action to disengage.
+	
+	Grappling-specific actions are described below.
+	
+Pin: 	The attacker and defender make an opposed maneuver check. If the attacker 
+	wins, the defender gains the Pinned state.
+Disengage: Characters in control of a grapple may disengage without rolling. 
+	Otherwise both characters choose one of STR-Athletics or DEX-Acrobatics 
+	and roll an opposed check (choices may differ). If the disengager wins, 
+	the grapple ends (and the active character has 3 Actions available this 
+	round).
+Gain Control: The involved characters make an opposed maneuver check as if the 
+	acting character was initiating. If successful, that character gains 
+	control of the grapple, affecting the actions available to both characters.
+
+Shoving:
+	This maneuver attempts to force the target to move in a particular direction. 
+The attacker must declare the direction he or she is attempting to move the target, 
+then they roll an opposed maneuver check. If the attacker wins, both characters move 
+in the indicated direction a number of meters equal to half the attacker's Strength. 
+Shoving a grappled target does not end the grapple. Shoved targets to not provoke 
+opportunity attacks, but shoving attackers might.
+
+Kicking:
+	Or whatever appendage your species uses to launch things. Kicking is identical
+to Shoving except that only the target is moved, and that the target moves 50% farther 
+if kicked directly away from the attacker. If a grappled target is successfully kicked, 
+the grapple ends. Kicked targets do not provoke opportunity attacks,
+
+Trip:
+	This maneuver attempts to force the target to the floor. If the attacker wins 
+an opposed maneuver check, the target gains the prone state. Tripping a grappled 
+target ends the grapple.
+
+Disarm:
+	This maneuver attempts to relieve the target of a carried item or weapon. 
+The character initiating this maneuver declares a weapon or item the defending 
+character is wielding. Both attacker and defender choose between STR-Athletics 
+and DEX-Acrobatics (choices may differ) and make an opposed check. Defenders have 
+Disadvantage on the check if they do not have proficiency with the targeted item 
+(for this purpose, improvised melee weapons are treated as regular melee weapons 
+of the appropriate size). If the attacker wins, the defender is forced to drop the 
+targeted object.
 
 ===== Actions =====
 
@@ -1210,15 +1304,7 @@ Explosives:
 	Certain grenades and devices have Explosive (concussive) damage. Explosive 
 Damage ignores armor and shields (explosive damage is essentially, a crushing 
 force). Fragmentation grenades are considered ballistic weapons, as their 
-primary damage delivery method is shrapnel. 
-
-Melee/Melee Weapons:
-	Melee damage is treated like ballistic damage unless you hit a target's 
-armor and don't pierce it. If you are fighting a being with body armor, and you 
-hit the targets armor but don't pierce it, you then deal a special kind of 
-concussive damage (called blunt damage) that ignores armor but you can only deal 
-1/2 damage, up to a max of 25 damage. Max of 35 damage if you are using a melee 
-weapon (like a club, sword, or even hitting them with your gun).
+primary damage delivery method is shrapnel.
 
 Electric Damage:
 	Some damage is delivered to characters with a high current and voltage. This
