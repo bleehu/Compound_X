@@ -447,13 +447,13 @@ Skill Proficiencies:
 
 =====   GUNSLINGER   =====
 
-	Some people hide behind their big boomsticks or fancy science tricks. But
+	Some people hide behind their big boomsticks or fancy science tricks, but
 you know that the universe doesn't separate sentients by the size of their 
 hardware or how big their brain is. No, there are only two categories that one
 falls into: the quick, or the dead. Some gunslingers are fast-talking scoundrels,
 rouges and ne'er-do-wells. Some are the soft-spoken, hard-working long arm of 
-the law. But one thing that all gunslingers have in common, they know their way
-around a pistol. 
+the law. But there is one thing that all gunslingers have in common: they know 
+their way around a pistol. 
 
 Class Primary Attribute: Perception
 Starting Wealth: $1975 + 100*Luck
