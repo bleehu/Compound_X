@@ -392,6 +392,7 @@ Passives:
 * Purchase your first primary cloaking module at a $1500 discount
 * Cloaking's Nanite Activation cost is reduced by 4 after level 3
 * Gain Ability "Mark Quarry" Detailed below
+* At Level 3, gain an Attack Dog, detailed below
 
 Gain Ability "Mark Quarry": Lvl/2+1 Uses per day - As a free action, expend 20 nanites to Mark 
 a visible target. You must be able to visibly see the target or something the target is wearing. 
@@ -415,6 +416,24 @@ Skill Proficiencies:
 * Weapons - [Choose one]
 * Spotting
 * Survival
+
+== Hunter's Dog ==
+
+    When your character ascends to level 3, you receive an attack dog. Maybe 
+you found the dog along your last mission, or maybe a dog was issued to you when
+you returned to home base (at the GM's choice). Every time you level up after
+you have your dog, your dog levels up as well and learns a new "Trick" as 
+defined in the "Class-Specific Documentation/Dog_Tricks.txt" document. For 
+simplicity, Dogs start at level 3 so that they are always the same level as 
+their owners. 
+
+    Your new dog is well-trained and responds to a variety of commands. Your dog 
+listens to you and does his best to make his or her owner happy, but is not 
+controlled by the player. Instead, the owner character commands the dog, and the
+GM controls how the dog responds. 
+
+Dog Personalities:
+
 
 
 == Class Feats ==
