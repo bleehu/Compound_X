@@ -500,6 +500,7 @@ Armor Proficiencies:
 * Medium-Heavy
 
 Feats:
+
 	----------------------
 	Portable Shield:
 	A shield/barrier with a limited health pool can be projected from your off hand. 
