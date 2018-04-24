@@ -446,7 +446,14 @@ Skill Proficiencies:
 ======================================
 
 =====   GUNSLINGER   =====
-[Insert cool tasty text about John Woo]
+
+	Some people hide behind their big boomsticks or fancy science tricks, but
+you know that the universe doesn't separate sentients by the size of their 
+hardware or how big their brain is. No, there are only two categories that one
+falls into: the quick, or the dead. Some gunslingers are fast-talking scoundrels,
+rouges and ne'er-do-wells. Some are the soft-spoken, hard-working long arm of 
+the law. But there is one thing that all gunslingers have in common: they know 
+their way around a pistol. 
 
 Class Primary Attribute: Perception
 Starting Wealth: $1975 + 100*Luck
@@ -710,81 +717,4 @@ Skill Proficiencies:
 	Enemies within [3 * CHA] meters of you when you shout must pass a DC 70 Charisma
 	check not to target you on their following turn. Instead of 60 HP, you gain a 
 	temporary (40 + 10*FORT) HPs. Beast Mode now last for 3 turns.
-======================================
-
-
-=====   MONK   =====
-	Head to any secluded Temple and you'll find many Monks studying the ancient 
-texts and learning about sacred objects. Of these holy disciples, a few are 
-trained to defend the Temple in case of attack. All Monks take an Oath to not 
-utilize "lesser" technologies [guns, armor, and even Nanite packs.], for only 
-through embracing the Higher Technologies can one Advance oneself to the planes 
-of the Great Ones.
-
-Class Primary Attribute: Dexterity
-Starting Wealth: $0 (assume basic robe and communicator)
-
-Passives:
-* No penalty for engaging in Grappling maneuvers.
-* +20 damage to unarmed non-lethal attacks
-* +10 damage to unarmed lethal attacks. 
-
-	At level 5, and again at level 15, all monks must head back to their home 
-temple or seek a wise master to learn more advanced techniques. Until this 
-training has been completed, a monk cannot proceed to the next level. 
-
-	Start with a "Monk's Aura Shield", which reduces incoming damage by 20 
-(increases to 40 at level 5), regardless of type. Cost 100 Nanites to activate 
-the shield. Activation is a free action. Each shield lasts for one encounter.
-
-	Monks mediate during short rests instead of sleeping.
-
-Weapon Proficiencies:
-* None
-
-Armor Proficiencies: 
-* None
-
-Skill Proficiencies:
-* Acrobatics OR Athletics
-* Stealth
-
-== Class Feats ==
-	----------------------
-	Elemental Strike -
-	Choose a type from the following list, and deal that type to your
-	opponent on each successful unarmed strike, with its listed effects:
-		Fire: 10 burn damage + 1x Burning.
-		Ice: 10 cold damage + 1x Frozen.
-		Plasma: 10 Plasma damage + 1x Plasma Burn.
-		Electricity: 10 electrical damage + short out a system (RP effects).
-	|
-	|
-	V
-	Elemental Strike, Advanced
-	You may either upgrade your existing element type, or take a second element 
-	type from the first list.
-		Upgrades:
-		Fire: 15 burn damage + 2x Burning, target catches fire and must put it out.
-		Ice: 15 cold damage + 2x Frozen, area hit now has minor frostbite.
-		Plasma: 10 Plasma damage + 2x Plasma Burn, stricken area is disabled.
-		Electric: 15 electrical damage and DC 70 FORT check, target paralyzed for 1 turn.
-	You may also choose to switch to one of the following types:
-		Necrotic: 15 necrotic damage + 1x Necrosis
-		Vampiric: Heal self for 10, target loses 20 Nanites.
-		Capacitive: target loses 20 Nanites and receives 2x Plasma Burn.
-		Other [Discuss any ideas you have with the GM).
-	----------------------
-	Shadow Strike -
-	Instead of rolling to hit based on opponent Guard DC + their Skill, you 
-	only have to pass a DC 50 Knowledge - Nanites check.
-	|
-	|
-	V
-	Shadow Walk -
-	Roll a Knowledge - Nanites check, DC 50. You may teleport up to Result-50/10 
-	meters. You may also roll stealth after emerging at no action cost. Movement 
-	in this manner is considered to take an action, plus another action for the 
-	skill check. Monks still receive a penalty attack for performing a skill check 
-	in melee combat.
 ======================================
