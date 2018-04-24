@@ -14,11 +14,10 @@ Lead Test: Wildlovelies
 
 ## Special Thanks to: 
 
-* Trowl223
-* HulkingOpossum
-* 
-* TurtleLord 
-* MasterdieKillsu 
-* Shrub 
-* Spinach 
-* Gnat
+*  Trowl223
+*  HulkingOpossum
+*  TurtleLord 
+*  MasterdieKillsu 
+*  Shrub 
+*  Spinach 
+*  Gnat
