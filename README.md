@@ -1,19 +1,23 @@
 # Compound_X
-Compound_X table top role playing game.
 
-Version 2.0.5
+Version Beta 0.0.3
 
-Creative Director:      Sarah Slater
-Game Director:          Alex Lindahl
-Producer:               Mike Hedges
-Lead Test:              Stephen Little
+A fun sci-fi table top role playing game.
 
-Special Thanks to:
-Taylor Rowland
-Zach Carrell
-Rose Brallier
-James Talbott
-Nathan Young
-Derek Fuchs
-Kevin Fuchs
-Natalie Fuchs
+Creative Director: Reveraine
+
+Game Director: 1Source Control
+
+Producer: Bleehu 
+
+Lead Test: Wildlovelies
+
+## Special Thanks to: 
+
+*  Trowl223
+*  HulkingOpossum
+*  TurtleLord 
+*  MasterdieKillsu 
+*  Shrub 
+*  Spinach 
+*  Gnat
