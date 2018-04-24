@@ -77,19 +77,18 @@ the one-liner they want, or to have their moment of glory.
 
 	Either in combat or out, play usually follows this loop:
 
-1.	The GM describes the environment and the situation. Usually the DM will ask
-		"What do you want to do?"
+1.	The GM describes the environment and the situation. Usually the DM will ask "What do you want to do?"
 2.	The player describes what they want to do
-3. 	The GM checks if that's even a possible thing that can be done. (skip this
-		step if that's obvious)
-4.	The GM says what kind of roll is needed to see if the player succeeds, if 
-		any roll is necessary.
+3. 	The GM checks if that's even a possible thing that can be done. (skip this step if that's obvious)
+4.	The GM says what kind of roll is needed to see if the player succeeds, if any roll is necessary.
 5.	The player rolls the dice and adds the numbers as described below.
-6. 	The GM checks their total against the Difficulty Challenge, a number that
-		typically only the GM knows which represents how hard a typical task
-		is. Then the GM narrates how the action goes depending on if the 
-		player succeeds or fails and by how much.
+6. 	The GM checks the total against the DC and narrates what happens*
 7.	Then the next player begins their turn.
+
+*The DC stands for "the Difficulty Challenge", a number that
+typically only the GM knows which represents how hard a typical task
+is. Then the GM narrates how the action goes depending on if the 
+player succeeds or fails and by how much.
 
 ==============================
 Your Character
@@ -168,7 +167,6 @@ associated with a given secondary stat determines the secondary stat's value;
 However, if you have a primary stat that is associated with more than one 
 secondary stat, you may have to choose which secondary stat to contribute to.
 These stats are as follows (secondary stat associations are indented):
-<<<<<<< HEAD
 
 Strength:
 * Carry Ability
@@ -375,7 +373,6 @@ You cannot learn any skills that use Dexterity as the contributing stat (for
 example, lockpicking).
 
 Luck (LUCK): 
-<<<<<<< HEAD
 	Some people are just lucky! A GM will often have you roll luck to see if a 
 door was left unlocked or if you just happened to duck to pick up a coin off the 
 ground right when an assassin is trying to shoot you in the head. Luck also has 
@@ -395,7 +392,7 @@ table, below.
 +-------+---------------------------------------------------------------------------------------+
 | 1-2   | Your primary weapon malfunctions/breaks and you cannot use it until DC 60 repaired    |
 +-------+---------------------------------------------------------------------------------------+
-| 3-4   | You cannot crit or critically succeed (in any form) in this encounter                 |
+| 3-4   | You cannot critically hit or critically succeed (in any form) in this encounter       |
 +-------+---------------------------------------------------------------------------------------+
 | 5-6   | You trip and hurt yourself, take 15 damage and lose three actions from your 1st turn  |
 +-------+---------------------------------------------------------------------------------------+
@@ -406,6 +403,7 @@ table, below.
 
 
 ===== Secondary Stat Details =====
+
 Movement Speed:
 	Your speed in meters, for every two actions. Use (Movement Speed)/2 for one 
 action (drop the remainder). For more information, see topic "Movement and 
@@ -424,6 +422,7 @@ points: you have a max of 50 points in any one Skill. Also, you have a max of
 17+3*[CHA] points in any one Charisma Skill.
 
 ===== Nanites =====
+
 	Although not a primary or secondary stat per se, The maximum number of 
 Nanites you can use at a given time is determined by your character class and an 
 associated primary stat. Your class may tell you its "Class Primary Attribute" 
@@ -437,6 +436,7 @@ combat at a rate of 3 Nanites per turn.
 	
 
 ===== Assigning Stats to a New Character =====
+
 	When making a new character, you'll have to assign their Base stats.
 This will tell you a lot about your character. When assigning your stats,
 no stat can be higher than a 9 before applying racial/species bonuses and
@@ -449,6 +449,7 @@ initial base stat points that you have to apply is listed with your Race or
 Species. See chapter 1: Races if you haven't yet. 
 
 ===== Assigning A Class to your Character =====
+
 	Most Characters start at level 1 so the Player will choose a Class for that 
 Character at that time. A Character will only ever have one Class at a time, and
 under normal circumstances, cannot change their class once it is picked. 
@@ -458,6 +459,7 @@ with no Class. This is usually for a tutorial mission and a Class is selected
 when the Character has completed the tutorial and leveled up to level 1. 
 
 ===== Weapon Proficiencies =====
+
 	Each Class comes with a specific list of Weapon Proficiencies. If your 
 Character has a proficiency with a type of weapon, then they can use that weapon
 in combat and can purchase weapons of that type in the world or during character
@@ -468,6 +470,7 @@ purchase or use a weapon of that type.
 weapon. For more on Skills, see the "RP / Using Skills" section of this document.
 
 ===== Armor Proficiencies =====
+
 	Just like each Class comes with a set of Weapon Proficiencies, it also comes
 with a list of Armor Proficiencies. Just like Weapon Proficiencies, if your 
 class has a Proficiency with a given armor type then they can purchase or wear
@@ -866,11 +869,10 @@ down, is added to your critical hit range. Which means, if you have a Luck stat
 of 8 (and thus, by the equation, +1 to your critical hit range), an attack roll 
 of 9-10 would be considered a critical hit.
 
-	Fully-Automatic weapons cannot crit (weapons that shoot more than 1 bullet 
-per Action by default).
+	Weapons with a high fire rate cannot critically hit (weapons that shoot more 
+than 1 bullet per Action by default).
 
 Armor and Getting Hit:
-
 	When a player is defending against a successful enemy hit, they roll 
 Percentiles under their armor in order to see if their armor blocked the bullet, 
 and from there, how much damage they receive. If the defending player has no 
@@ -974,12 +976,43 @@ Except for air, you will always hit air (unless you're in space).
 **You cannot shoot weapons at a distance of over 100m without magnifying sights 
 or over 150m without 2x+ magnification.
 
+	Aiming at an enemy requires one action but significantly increases the 
+effectiveness of your fire. Taking aim requires that you select a particular target 
+that you can either perceive directly or have a high confidence in its current 
+position. You must be able to see or otherwise percieve the target clearly, but they 
+do not have to be within your weapon's range. Against this target only, ranged attacks 
+follow the normal, non-Hip Fire rules. Characters may cease aiming as a free action, 
+for example to aim at a different target. Additionally, aim is ceased automatically 
+in any of the following circumstances: 
+
+* The target dies***.
+* The target moves a large distance unexpectedly****.
+* The aiming character hunkers.
+* The aiming character is thrown (for example, by a frag grenade).
+* The aiming character suffers impairment to his or her primary sense (such as from a flashbang).
+
+***As an optional rule, if a character's aim target dies, and the death was not 
+unexpected, then the character may shift aim to another target within 5m of the first 
+as a Free Action. DM discretion is advised for close combat situations.
+
+***Possibly by coming out of cover 5+ meters from the last known location.
+
+	Aiming is relatively simple and does not need to be treated with excessive
+formality. If a character could reasonably take or keep aim at something, then he or 
+she can.
+
+Fire Rates:
 	Most weapons are Semi-Auto, meaning that each time you pull the trigger, the 
 gun fires once and chambers a new round automatically. It takes 1 Action to fire 
 a semi-auto weapon in this way. Some guns, such as Shotguns and Bolt-Action 
 sniper rifles require 2 Actions to fire the gun, where the first Action is a 
-trigger pull, and the second Action is the rechambering of the weapon.
+trigger pull, and the second Action is the rechambering of the weapon. Some weapons
+are capable of higher rates of fire, like Assault Rifles. These weapons often have
+more than one fire mode such as Fully-Automatic (Auto) and Burst. Auto or Burst 
+mode allows the user to fire 6 or 3 shots for 1 Action, respectively (unless
+otherwise noted). 
 
+Rolling a Ranged Attack:
 	To hit a target, Players must roll a d10 that is over their weapon's miss 
 stat. When an enemy is in cover, their cover score is added to your weapon's 
 miss chance. Lets say your normal ranged miss chance is 2, and the enemy is in 
@@ -1226,6 +1259,7 @@ Cloaking
 	Cloaking is available to some classes as a class feature.
  
 ===== Cloaking Modules =====
+
 	Expend the cloaking module's "Nanite Activation Cost" to begin cloaking. At 
 the ending of every turn thereafter, you have to pay a "Nanite Upkeep" cost to 
 continue cloaking.
@@ -1242,6 +1276,7 @@ Delay" (listed under the relevant cloaking module's description) before being
 able to cloak again.
 
 ===== Cloaking Detection =====
+
 	If someone/something is looking for you, they must pass a (normally, 
 perception) check at 'Detect DC' difficulty, modified by your stealth skill. 
 While moving, the detect DC is reduced (listed as 'moving detect DC' under the 
@@ -1254,7 +1289,7 @@ surrounding environment better and will stabilize.
 reduced, 'moving detect DC' as you are diverting your attention. However, once 
 you have performed a combat action, the cloak fizzes out.
 
-== CLOAKING DURATIONS AND LEVELING BONUSES ==
+===== CLOAKING DURATIONS AND LEVELING BONUSES =====
 
 +-----------+-------------+-----------+-----------------+
 | Char lv   | Cloak Turns | Detect DCs| Shadow Assn turn|
