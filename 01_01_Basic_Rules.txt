@@ -1034,8 +1034,7 @@ complex weapons, such as high-precision sniper systems or exotic sub-machine
 guns might have a higher DC, maybe 40%. If the Player passes the reload, then 
 the reload time is standard. For Box-Magazine fed Semi- and Fully-Automatic 
 weapons, this is 2 Actions. Other, more complex weapons will specify their 
-reload time. On a critical reload success (affected by luck as normal, anything 
-in the 90-100 range caused by a raw roll or by adding your Weapon - [X] skill),
+reload time. On a critical Weapons - [X] check to reload the weapon,
 the reload time is halved (for Bolt-Actions it is reduced to 1 Action). On a 
 failure, the reload time takes twice as long.
 
