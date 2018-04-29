@@ -764,15 +764,42 @@ If the free attack is made with a CQB weapon and the weapon is not already
 aimed at the target, standard Hip Firing rules apply.
 
 Making Melee Attacks:
-	Melee attacks make accuracy rolls with a d10, increased by your 
-dexterity combat modifier and your weapon's accuracy modifier. To successfully 
+	Melee attackers make accuracy rolls with a d10, increased by strength and 
+dexterity combat modifiers and their weapon's accuracy modifier. To successfully 
 hit, the result must be greater than (not equal to) the opponent's Guard roll. 
 If you successfully hit your opponent, armor applies as normal except as 
 detailed in the next two topics.
 
-	Defending players roll Guard with a d10 as well, modified by the 
-character's Guard stat, which is calculated by [---]. A Guard roll equal to 
-or greater than an attacker's accuracy causes the attack to miss.
+	Defending players roll Guard with a d10 as well, increased by fortitude 
+and dexterity combat modifiers and their weapon's guard bonus. Guard bonuses are 
+not usually listed in individual weapon entries (some exceptions exist), but 
+instead are based on weapon type. See the table below for weapon type Guard 
+modifiers. A character must be proficient with a weapon to benefit from its 
+Guard modifier, otherwise it is treated as an improvised melee weapon of the 
+appropriate size. 
+
+	A Guard roll equal to or greater than an attacker's accuracy causes 
+the attack to miss. One may think of melee attacks as opposed contests of skill, 
+though no Skill check applies to these attacks and blocks.
+
++-----------------+-----------------------------------------+
+| Weapon Type     | Guard Modifier                          |
++-----------------+-----------------------------------------+
+| Unarmed         | 0                                       |
++-----------------+-----------------------------------------+
+| All Melee       | Equal to the weapon's Accuracy modifier |
++-----------------+-----------------------------------------+
+| Thrown          | As Improvised Melee Weapons             |
++-----------------+-----------------------------------------+
+| CQB Guns        | +1                                      |
++-----------------+-----------------------------------------+
+| Non-CQB Guns    | -1                                      |
++-----------------+-----------------------------------------+
+| Delicate Tools* | -2                                      |
++-----------------+-----------------------------------------+
+
+*Includes Doctor Field Applicator, Engineer Extruder, GravTech Projector, 
+Hacker terminal, and similar devices.
 
 Hitting What You Intend:
 	If you roll 3+ above your miss chance (3+ above the opponent's Guard), 
