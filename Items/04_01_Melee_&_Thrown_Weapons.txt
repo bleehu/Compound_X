@@ -52,7 +52,7 @@ UNARMED
 
 Damage: 20 + STR mod + DEX mod, minimum 10
 Range: Adjacent (1m)
-Accuracy Modifier: -2
+Accuracy Modifier: 0
 
 ==============================
 MELEE WEAPONS
@@ -111,7 +111,8 @@ DEX Requirement: 6
 
 	Can grapple limbs from range (DEX based grapple) and force movement 
 (1m for every 5 [DEX or STR]). Can make Disarm attempts at range. Grapple, 
-Shove, and Disarm attempts with the whip costs Actions as normal.
+Shove, and Disarm attempts with the whip costs Actions as normal. This weapon
+has a Guard modifier of 0.
 
 == SPECO SP10 VAE Combat Knife $640 ==
 
@@ -132,7 +133,7 @@ Accuracy Modifier: +1
 STR Requirement: 4
 
 	Voltage Aligned Edge; ignores standard armor; can easily cut through most 
-materials. -50% on stealth rolls for being quiet during stealth attacks with 
+materials. -50 on stealth rolls for being quiet during stealth attacks with 
 this weapon.
 
 == SPECO SP30 VAE Combat Sword $1245 ==
@@ -157,9 +158,9 @@ STR Requirement: 6
 
 	Considered concussive (explosive) damage. Hits armor points 
 before physical damage if the target's armor has defense against explosive (i.e. 
-concussive) damage. If armor roll is greater than 50%, target rolls a DC 50% 
-fort save for a broken limb of your choice. -20% stealth rolls for being quiet 
-on stealth attacks. Reduces door-breaking DC by 30% per hit.
+concussive) damage. If armor roll is greater than 50%, target rolls a DC 50 
+fort save for a broken limb of your choice. -20 stealth rolls for being quiet 
+on stealth attacks. Reduces door-breaking DC by 30 per hit.
 
 == Eliazar E5500 Power Fist $880 ==
 
@@ -173,7 +174,7 @@ STR Requirement: 5
 damage if the target has defense against explosive (i.e. concussive) damage. If 
 armor roll is less than 50%, target rolls a DC 50% fort save for a being stunned 
 for 1 turn. -30% stealth rolls for being quiet on stealth attacks. Reduces 
-door-breaking DC by 45% per hit.
+door-breaking DC by 45% per hit. This weapon has a Guard modifier of 0.
 
 == Muzashi VAE Katana $1354 ==
 
