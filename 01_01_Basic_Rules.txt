@@ -31,9 +31,11 @@ get from the dice. This represents how good or bad your particular character is
 at doing whatever it is you are attempting to do. What to add when is discussed
 in detail below. 
 
-	For now, know that Compound X uses two ten-sided dice (usually called D10s) to
-represent a d100, a percent. One of the D10s represents the number in the 10's place.
-the other represents the number in the 1's place. Most dice sets come with two
+	Now, there will be two kinds of rolls your character will be making. 
+A skill roll, and a combat roll. Skill rolls use two ten-sided die, to represent 
+a d100, which in turn represents a percentage. One die is designated as the tens 
+place, and the other die as the ones place. However, in combat, you will use one d10, 
+which is reflected in a single number system.  Most dice sets come with two
 D10s, one with a zero after the number on the face, the other without that zero.
 In that case, obviously you add the numbers on the face of the dice together to
 find out what you rolled. If your dice came from different sets, you must pick
@@ -326,7 +328,7 @@ perception makes you harder to sneak up on.
 
 	If you have 1 Perception, you are partially blind, only have 1 eye, or
 something similar. You cannot use the Investigation or Spotting skills and you have a 
--20 malus to Speech skill rolls. 
+-20 malus to Insight skill rolls. 
 
 Fortitude (FORT): 
 	How tough are you? Fortitude determines your maximum health, how hard you 
@@ -384,7 +386,7 @@ body like climbing, jumping, or dancing.
 	If you have 1 Dexterity, you are especially clumsy or suffer from a 
 debilitating illness which affects your ability to move swiftly and precisely. 
 You cannot learn any skills that use Dexterity as the contributing stat (for 
-example, Slight of Hand).
+example, Sleight of Hand).
 
 Luck (LUCK): 
 	Some people are just lucky! A GM will often have you roll luck to see if a 
@@ -430,9 +432,12 @@ Ability and 6m of movement speed penalties, you end up with no movement speed
 penalties.
 
 Skill Point Gain:
-	How many skill points you gain every level. Every time you level up, you 
-gain skill points according to your "Skill Point Gain". Note about gaining skill 
-points: you have a max of 60 points in any one Skill.
+	Determines wow many skill points you gain every level. Every time you level up, you 
+gain skill points according to your "Skill Point Gain". You may gain a maximum of
+60 skill points in a single skill. In addition, each time you level up, you may gain a
+maximum of 6 points in any one skill by using your Skill Point Gain. Skill gained from
+Feats and Class passives counts towards the maximum of 60 points per skill, but not
+towards the maximum skill increase per level.
 
 ===== Nanites =====
 
@@ -479,8 +484,9 @@ in combat and can purchase weapons of that type in the world or during character
 creation. If your Character lacks proficiency with a weapon, then they can't 
 purchase or use a weapon of that type. 
 
-	Note that Weapon Proficiency is different than having Skills with that 
-weapon. For more on Skills, see the "RP / Using Skills" section of this document.
+	Note that Weapon Proficiency is different from having Proficiency with the
+Skill Weapon - [X]. For details on Skill Proficiencies and Weapon SKills, see the
+"RP/Using Skills" section or the Skills document.
 
 ===== Armor Proficiencies =====
 
@@ -489,69 +495,6 @@ with a list of Armor Proficiencies. Just like Weapon Proficiencies, if your
 class has a Proficiency with a given armor type then they can purchase or wear
 that armor type in combat. If your character doesn't have that proficiency, then
 they can't.
-
-==============================
-Leveling Up
-==============================
-
-	When you level up, gain feats according to the table below. With 
-Intelligence 9 or higher, receive more feats. The feats listed in the table are 
-totals, not to be added together. Every 5th level, +1 Class feat.
-
-	Every level, gain 2*(Skill Point Gain) skill points.
-
-	On levels 5, 9, 15 and 20, gain a stat point. The stat increase happens 
-before any calculations, so if you had 10 int, and increased to 11, you would 
-get 22 skill points for the level. Additionally, any stat point alteration 
-forces a recalculation on all affected values.
-
-===== LEVELING-UP TABLE =====
-
-+-------+----------+-------+------------+------------+---------------+
-| Level | Skill P. | Feats | Class Feat | Stat Point | Feats (9 INT) |
-+-------+----------+-------+------------+------------+---------------+
-| 0     | Given    | 0     |            |            | 0             |
-+-------+----------+-------+------------+------------+---------------+
-| 1     | Static   |       |            |            |               |
-+-------+----------+-------+------------+------------+---------------+
-| 2     | 2*Skill  | 2     |            |            | 2             |
-+-------+----------+-------+------------+------------+---------------+
-| 3     | Point    |       |            |            |               |
-+-------+----------+-------+------------+------------+---------------+
-| 4     | Gain     | 3     |            |            | 4             |
-+-------+----------+-------+------------+------------+---------------+
-| 5     | "        |       | 1          | +1         |               |
-+-------+----------+-------+------------+------------+---------------+
-| 6     | "        | 4     |            |            | 5             |
-+-------+----------+-------+------------+------------+---------------+
-| 7     | "        |       |            |            |               |
-+-------+----------+-------+------------+------------+---------------+
-| 8     | "        | 5     |            |            | 7             |
-+-------+----------+-------+------------+------------+---------------+
-| 9     | "        |       |            | +1         |               |
-+-------+----------+-------+------------+------------+---------------+
-| 10    | "        | 6     | 2          |            | 8             |
-+-------+----------+-------+------------+------------+---------------+
-| 11    | "        |       |            |            |               |
-+-------+----------+-------+------------+------------+---------------+
-| 12    | "        | 7     |            |            | 10            |
-+-------+----------+-------+------------+------------+---------------+
-| 13    | "        |       |            |            |               |
-+-------+----------+-------+------------+------------+---------------+
-| 14    | "        | 8     |            |            | 11            |
-+-------+----------+-------+------------+------------+---------------+
-| 15    | "        |       | 3          | +1         |               | 
-+-------+----------+-------+------------+------------+---------------+
-| 16    | "        | 9     |            |            | 13            |
-+-------+----------+-------+------------+------------+---------------+
-| 17    | "        |       |            |            |               |
-+-------+----------+-------+------------+------------+---------------+
-| 18    | "        | 10    |            |            | 14            |
-+-------+----------+-------+------------+------------+---------------+
-| 19    | "        |       |            |            |               |
-+-------+----------+-------+------------+------------+---------------+
-| 20    | "        | 11    | 4          | +1         | 16            |
-+-------+----------+-------+------------+------------+---------------+
 
 ==============================
 Saving Throws
@@ -579,11 +522,11 @@ Healing Injuries
 	Ouch! you've just been shot! You'd better call for a Doctor or apply a med 
 kit before you bleed out! "But how do I use a med kit? Or if I'm a Doctor, how 
 do I stabilize and heal an ally?" I'm glad you asked. The rules are as follows:
-The Medicine DC is equal to the damage dealt. On a fail skill check, no healing 
+The Medicine DC is equal to the damage dealt. On a failed skill check, no healing 
 occurs. On a success, heal an amount equal to Medicine skill + DC surplus.
 
 	For example, a Player Character is dealt 70 damage. Their Doctor has 25 
-skill in medicine. Medic rolls an 86 (after adding the Medicine Skill), so they 
+skill in medicine. Medic rolls an 86 (after adding their Medicine Skill), so they 
 heal 25+(86-70) for 41 health healed.
 
 	Individual wounds are healed individually. 3x 20-damage wounds need three 
@@ -599,7 +542,7 @@ a wound unless otherwise stated).
 equivalent) on their person. If they do not have their medicine bag with them 
 when they are trying to heal a teammate, they can make the attempt at a +20 DC.
 
-Using a medikit:
+Using a medic-kit:
 
 	Medic-kit, non-medic user: works as if you are a medic with skill 30.
 
@@ -636,13 +579,12 @@ health. Any additional attacks you sustain will push you into negative health.
 
 Stabilize:
 	As an action, a teammate may bring you back up to 1 health point by succeeding 
-on a Medicine skill check to stabilize you. Once stabilized, you may take actions 
-and speak as normal. Don't forget that a recently stabilized character may need 
-to take an action to retrieve a dropped weapon and/or take an action to stand 
-back up if you have fallen.
+on a DC 80 Medicine skill check to stabilize you. Medicine skill, INT mod, and any
+bonuses from medical equipment such as medic-kits are added to the roll. Once stabilized,
+you may take actions  and speak as normal.
 
-	The skill DC to stabilize a fallen comrade is 80. Medicine skill, INT mod, 
-and any bonuses from medical equipment such as medpacks may be added to that roll. 
+	Don't forget that a recently stabilized character may need  to take actions to
+retrieve a dropped weapon or stand back up if they have fallen.
 
 *Some hazards can reduce you to zero health points and kill you 
 instantly. Some examples are falling several stories, lava baptisms,
@@ -671,34 +613,34 @@ something. This may be something like, "Roll Sleight of Hand to see if you can
 pick the lock on that door," or it might look like, "Roll Medicine to see if 
 you can patch up the gaping wound in your chest spewing blood." Anytime you 
 need to Pass a Skill check, there will be a DC (Difficulty Check) you have to 
-exceed in order to successfully pass the check. Again: YOU MUST ROLL *OVER* A DC 
-TO SUCCEED IN A SKILL CHECK. the DC does not need to be given out by the GM, but if
+exceed in order to successfully pass the check. You must roll over the DC to
+succeed at a check. The DC does not need to be given out by the GM, but if
 a DC seems too high, you have the right to grumble (but seriously, ask your GM if 
 something seems too difficult. There is usually a reason why tying your shoe 
 takes a DC of 70% on that particular day, etc). After you have rolled, please
-apply any and all relevant skills to your result. Also add any relevant Stat Bonuses
-to a roll. When rolling investigation, add your PER Bonus, etc.
+apply any and all relevant skills and Stat Bonuses to a roll, as instructed by your GM.
+When rolling Investigation for example, you will likely add your PER Stat Bonus.
 
 	At any time out of combat, you may decide to use one of your skills. If you 
-are not pressured by imminent / immediate danger, you may "take a 100%" to take your
-time with a task to roll exactly 100 on a skill check, then apply any ranks in the
-skill. 
-	When rushed by a time constraint or danger, you can "take a 50%" to take
+are not pressured by imminent or immediate danger, you may "take a 100%" to take as
+much time with a task as needed to roll exactly 100 on a skill check, then apply points
+from relevant skills and Stat Bonuses. Some checks cannot be passed in this way. Under
+normal circumstances for example, you will not be able to pass an Athletics check to
+kick down the blast doors of a ship, no matter how much time you take to try.
+
+When rushed by a time constraint or danger, you can "take a 50%" to take
 slightly more time than a 1-action, in-combat check on a task to roll exactly 50 on
-a skill check, then apply any ranks in said skill. However, some checks cannot be
-passed in this way. If you are staring at a ship's blast doors, and want to kick
-them down, you can't take additional time to increase your odds of success.
+a skill check, then apply any skill points and Stat Bonuses.
 
 	If you want to use a skill in combat, see the "Combat: Actions" subsection.
-Skill ranks are exact percentiles to pass a skill check. If you have 50 ranks 
-in a skill, then you have a +50% chance to pass a skill check for that skill. 
-When leveling up you may add up to 5 points to any skill.
-
+	
 	In many cases, a character can attempt a skill check whether or not they
 have invested in learning the skill; however, your GM may decide otherwise, apply
 penalties to your roll, raise the DC, ask you to justify why your character can
 attempt the roll, or make any other judgement they deem appropriate. 
 
+	When leveling up you may gain up to 6 points in any one skill.
+	
 	Characters are considered to be Proficient with certain skills, based on
 their class and background. When a character is Proficient in a skill, each skill 
 point they spend in that skill upon leveling up increases that skill by two 
@@ -1127,7 +1069,7 @@ of 7-10 would be successful.
 Gun Jams:
 	If at any time that you are firing a gun and you roll a weapon accuracy of 1,
 roll a second d10. If that second d10 roll is a 1 or 2, the weapon Jams, 
-necessitating a Weapon [X] skill check, DC 60.
+necessitating a Weapon - [X] Skill check, DC 60.
 
 Hip Firing:
 	Add 3 to a weapon's miss chance. You cannot use optical attachments in hip 
@@ -1187,15 +1129,14 @@ Reloading:
 	When a gun runs out of ammunition, the user must pause to reload. "But how 
 long do I gotta be outta the battle?" Great question!
 
-	Each gun has a "Reload DC," rated based on the skill and brevity of the 
+	Each gun has a "Reload DC," rated based on the complexity and brevity of the 
 weapon's reload. For example, an assault rifle, which has a very obvious 
 magazine release button and protruding magazine, has an average DC of 30%. More 
 complex weapons, such as high-precision sniper systems or exotic sub-machine 
 guns might have a higher DC, maybe 40%. If the Player passes the reload, then 
 the reload time is standard. For Box-Magazine fed Semi- and Fully-Automatic 
 weapons, this is 2 Actions. Other, more complex weapons will specify their 
-reload time. On a critical reload success (affected by luck as normal, anything 
-in the 90-100 range caused by a raw roll or by adding your Weapon [X] skill),
+reload time. On a critical Weapons - [X] check to reload the weapon,
 the reload time is halved (for Bolt-Actions it is reduced to 1 Action). On a 
 failure, the reload time takes twice as long.
 
@@ -1270,198 +1211,3 @@ behind a barricade to partial cover, and moving when you are caught out in the o
 	If the suppressor cannot physically hit you (such as being completely behind an 
 impenetrable barrier) you are not suppressed. The suppressor doesn't need to see 
 you, to hit you.
-
-==============================
-Damage Types and Armor Types
-==============================
-
-	There are 5 main types of damage in compound X: Ballistic (conventional 
-firearms, bows), Laser, Plasma, Explosive (concussive), and melee. Additionally, 
-some Ballistic, Laser, and melee weapons can deal non-lethal variants. These 
-damage types interact differently with the two types of protection: Armor and 
-Shields. 
-
-===== Damage Types =====
-
-Ballistic Weapons:
-	Ballistic weapons are straightforward: they are blocked by armor and ignore 
-shields. Any damage that defeats armor damages health.
-
-Plasma Weapons:
-	Plasma interacts with both armor and shields. Armor's effectiveness is 
-reduced by 1 APL when hit by plasma. Targets hit with plasma, that pierces armor, 
-take (stackable) plasma burn. For Shields, Plasma deals half damage to the 
-shielding, plus inflicts plasma burn and any remaining damage on the wearer 
-(only if their armor is pierced, of course). 
-
-Laser Weapons:
-	Lasers are completely blocked by shields, dealing all of their damage to the 
-shielding. Lasers deal full damage to armored targets; If a player wearing 
-ballistic armor is hit with a laser, they receive damage as if they weren't 
-wearing any armor.
-
-Explosives:
-	Certain grenades and devices have Explosive (concussive) damage. Explosive 
-Damage ignores armor and shields (explosive damage is essentially, a crushing 
-force). Fragmentation grenades are considered ballistic weapons, as their 
-primary damage delivery method is shrapnel.
-
-Electric Damage:
-	Some damage is delivered to characters with a high current and voltage. This
-can lead to burns, organ failure, fried circuits and chaotic effects on the 
-nervous or control systems of a given character. This damage does not have any
-special effect on armor, but certain characters are more prone to electric 
-damage than others, while some characters are more resistant to it.
-
-Fire Damage:
-	Some damage is inflicted with conflagrations or general combustion. While
-this damage usually leaves an ongoing burning effect, this damage type does not
-imply that simply by being Fire Damage. Please read a given attack or event 
-carefully to see if you are simply burned once, or have an ongoing effect as
-well. Some characters are more resistant to fire than others. Similarly, some
-armor in the game helps mitigate fire damage more effectively than others. 
-
-Acid Damage:
-	Some damage occurs when a substance of a significantly different PH balance
-comes in contact with your player and chemically reacts in an adverse manner.
-Such cases are usually painful and smell bad. 
-	While taking acid damage doesn't always mean that you have an ongoing 
-effect, read the source of the damage carefully to see if in addition to the 
-one-time damage effect, you also have an ongoing effect to deal with as well. 
-Acid damage can affect armor adversely as well, but that is not implied simply 
-by an attack being labeled with acid damage. Such effects will be listed 
-separately in the attack, trap, etc.
-
-Internal Damage:
-	Internal damage can be sustained from things like parasites, malicious
-microbots, or simply pushing your character's physical body past its breaking
-point. Unless otherwise stated, internal damage always deals full damage and
-ignores armor. 
-
-===== Protection Types =====
-
-Armor:
-	Ballistic Armors (or more simply, Armor) are the first type of protective 
-measure that you will come across. When armor is shot by a ballistic weapon, the 
-armor may reduce or fully block damage before the character's health is damaged. 
-
-Shields:
-	CS Shields (or more simply, Shields) are the second type of protective 
-measure that you will come across. Shields normally protect against Plasma and 
-Lasers but not against ballistics.  
-
-	Beyond weapon damage, there are also environmental threats to consider. An 
-important note is on fall damage. A player can fall up to their Dex/2 in 
-meters before needing to roll an acrobatics check. If the surface they are 
-landing on is somehow fouled, the GM may require the player to roll an 
-acrobatics check when landing from any height at their discretion. On a failed 
-roll, take damage equal to 2 times the height fallen. The player also incurs 
-one injury, depending on the severity of the fall. Some examples are below:
-
-* Sprained ankle(s)
-* Broken ankle(s)
-* Broken leg(s)
-* Broken arm(s) in addition to leg(s)
-* Broken everything
-
-==============================
-Casting Spells
-==============================
-
-	There are a few classes which are able to cast spells, Paladins, Mages and 
-Sorcerers. Casting spells is very similar to performing other actions. 
-Normally, a spell takes one action to cast. The performer of the spell will 
-have to pass a Skill DC in order to successfully cast the spell. This DC is 
-the number of Nanites used to cast the spell, plus an bonuses the target gains 
-from cover. For Mages and Sorcerers this is a Spellcast DC, and for Paladins 
-this is a Knowledge [Nanites] DC. Mages/Sorcerers can add any skill points 
-they have in Sorcery to their rolls, and Paladins may do the same with their 
-Knowledge [Nanites] skill. Some spells may also require the target to make a 
-saving throw in order to avoid the spell or negate its effects. Generally 
-speaking, spells have a range that is dependent on either the Charisma score 
-of the caster or the Charisma Modifier.
-
-==============================
-Cloaking
-==============================
-
-	Cloaking is available to some classes as a class feature.
- 
-===== Cloaking Modules =====
-
-	Expend the cloaking module's "Nanite Activation Cost" to begin cloaking. At 
-the ending of every turn thereafter, you have to pay a "Nanite Upkeep" cost to 
-continue cloaking.
-
-	Wearers need only expend Nanites for the "Nanite Upkeep" cost at the end 
-of a turn that they perform actions. Cloaking requires concentration so when you 
-are doing nothing but watching, you may cloak for free.
-
-	You can remain cloaked for a number of turns equal to ["Cloak Turns" + your
-cloaking module's "Cloak Turn Bonus"] or when you run out of Nanites, whichever 
-occurs sooner (see table below for "Cloak Turns") . If your cloak time runs out, 
-you stop cloaking and have to wait a number of actions equal to your "Charge 
-Delay" (listed under the relevant cloaking module's description) before being 
-able to cloak again.
-
-===== Cloaking Detection =====
-
-	If someone/something is looking for you, they must pass a (normally, 
-perception) check at 'Detect DC' difficulty, modified by your stealth skill. 
-While moving, the detect DC is reduced (listed as 'moving detect DC' under the 
-relevant cloaking module's description). There is a tell-tale shimmer in the 
-cloak, as the micro-foil has a hard time keeping up with moving environments. 
-Once the wearer has settled down, the micro-foil is able to reproduce the 
-surrounding environment better and will stabilize.
-
-	When using a skill (accessing a terminal, fixing something, etc.) use your 
-reduced, 'moving detect DC' as you are diverting your attention. However, once 
-you have performed a combat action, the cloak fizzes out.
-
-===== CLOAKING DURATIONS AND LEVELING BONUSES =====
-
-+-----------+-------------+-----------+-----------------+
-| Char lv   | Cloak Turns | Detect DCs| Shadow Assn turn|
-+-----------+-------------+-----------+-----------------+
-|     1*    |      3      |     -     |        +1       |
-+-----------+-------------+-----------+-----------------+
-|     2*    |      3      |     -     |        -        |
-+-----------+-------------+-----------+-----------------+
-|     3*    |      3      |     -     |        -        |
-+-----------+-------------+-----------+-----------------+
-|     4*    |      4      |     -     |        -        |
-+-----------+-------------+-----------+-----------------+
-|     5     |      4      |    +5%    |        -        |
-+-----------+-------------+-----------+-----------------+
-|     6     |      4      |     -     |        +2       |
-+-----------+-------------+-----------+-----------------+
-|     7     |      5      |     -     |        -        |
-+-----------+-------------+-----------+-----------------+
-|     8     |      5      |     -     |        -        |
-+-----------+-------------+-----------+-----------------+
-|     9     |      5      |     -     |        -        |
-+-----------+-------------+-----------+-----------------+
-|     10    |      6      |   +10%    |        -        |
-+-----------+-------------+-----------+-----------------+
-|     11    |      6      |     -     |        +3       |
-+-----------+-------------+-----------+-----------------+
-|     12    |      6      |     -     |        -        |
-+-----------+-------------+-----------+-----------------+
-|     13    |      7      |     -     |        -        |
-+-----------+-------------+-----------+-----------------+
-|     14    |      7      |     -     |        -        |
-+-----------+-------------+-----------+-----------------+
-|     15    |      7      |   +15%    |        -        |
-+-----------+-------------+-----------+-----------------+
-|     16    |      8      |     -     |        +4       |
-+-----------+-------------+-----------+-----------------+
-|     17    |      8      |     -     |        -        |
-+-----------+-------------+-----------+-----------------+
-|     18    |      9      |     -     |        -        |
-+-----------+-------------+-----------+-----------------+
-|     19    |      9      |     -     |        -        |
-+-----------+-------------+-----------+-----------------+
-|     20    |      10     |   +20%    |        +5       |
-+-----------+-------------+-----------+-----------------+
-The Table bonuses are not cumulative.
-*  For levels 1-4, you may only cloak once per encounter.
