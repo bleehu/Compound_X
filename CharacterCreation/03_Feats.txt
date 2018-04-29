@@ -1,8 +1,7 @@
 ==============================
 Notes
 ==============================
-
-	This document lists the feats available to characters in Compound X.
+    This document lists the feats available to characters in Compound X.
 Feats may be taken on every even level as described in the Basic
 Rules document. Passive feats are used freely with no limit
 (unless otherwise stated) while active feats require the user to
@@ -14,7 +13,6 @@ Passive Feats
 ==============================
 
 == Akimbo ==
-
 Prerequisites: 
 
 *  Dex 7
@@ -26,7 +24,6 @@ Reduce the reload penalty to 10%. You may fire at more than one target at once
 for an additional +2 miss chance penalty.
 
 == Acquired, Additional Plating ==
-
 Prerequisites: 
 
 *  Marksman or Gunslinger
@@ -34,7 +31,6 @@ Prerequisites:
 	Enables the use of Medium Armor by the listed classes.
 
 == Acquired, Battle Ready ==
-
 Prerequisites: 
 
 *  Pilot
@@ -42,7 +38,6 @@ Prerequisites:
 	Enables the use of Medium-Heavy Armor by the listed classes.
 
 == Acquired, Metal Jacket ==
-
 Prerequisites: 
 
 *  Soldier, Engineer, or Berserker
@@ -50,7 +45,6 @@ Prerequisites:
 	Enables the use of Heavy Armor by the listed classes.
 
 == Acquired, The Clandestine Option ==
-
 Prerequisites: 
 
 *  Soldier, Specialist, Pilot, or Hunter
@@ -58,17 +52,15 @@ Prerequisites:
 	Enables the use of Concealed Armor by the listed classes.
 
 == Backstab ==
-
 Prerequisites: 
 
 *  Level 3
-*  Assassin or Monk.
+*  Assassin
 
 	Any damage dealt to an unaware opponent from behind deals an additional 
 10 + (Lvl * 2) Base damage.
 
 == Bulltrue ==
-
 Prerequisites: 
 
 * Must have Shotgun training
@@ -80,7 +72,6 @@ is bloodied after the attack, they may not make a melee attack against you with
 their next action.
 
 == Combat Expertise [Guns] ==
-
 Prerequisites:
 
 *  None
@@ -88,7 +79,6 @@ Prerequisites:
 	-1 miss chance with guns. -5% penalty to Skill Checks in combat.
 
 == Combat Expertise [Melee] ==
-
 Prerequisites: 
 
 *  None
@@ -97,7 +87,6 @@ Prerequisites:
 to Skill Checks in combat.
 
 == Combat Expertise [Support] ==
-
 Prerequisites:
 
 *  None
@@ -107,39 +96,35 @@ medic, this would apply to medicine but it wouldn't apply to hacking, etc.). +1
 miss chance with Guns or Melee in combat.
 
 == Concussive Maintenance ==
-
 Prerequisites: 
 
-*  20 skill in repair or Engineer class. 
+*  20 skill in Repair OR Engineer class. 
 *  STR 4
 	
-	+20% to repair skill. For 1 action, you may whack something broken to try to 
+	+20% to Repair check. For 1 action, you may whack something broken to try to 
 fix it. You can use Concussive Maintenance even after you've already failed to 
 repair something. You can use concussive maintenance once per target, per 
 encounter.
 
 == Conceal Weapon == 
-
 Prerequisites: 
 *  None
 
 	Make a stealth check to hide your chosen pistol, shotgun, or SMG on your 
-person. To succeed, you need a minimum score of 20. Roll determines DC for 
-enemy to actively search and find your hidden weapon.
+person. To succeed, you must pass a DC 19 check. Total roll determines DC for an
+enemy to actively search you and find your hidden weapon.
 
 == Desperate Crawl ==
-
 Prerequisites:
 *  None
 
 	When downed instead of not being able to move you may crawl half of your 
 move speed or 3m every two actions whichever distance is shorter. You still 
 cannot speak, and you cannot take any other action. Death saving throws are 
-not actions, and must be thrown normally. You also get a +10% bonus to Death
+not actions, and must be rolled normally. You also get a +10% bonus to Death
 Saving Throws
 
 == Double Tap == 
-
 Prerequisites:
 
 *  None 
@@ -157,7 +142,6 @@ to 4 by the feat "Never Tell Me the Odds". If you have a crit range of less than
 3, then crit range applies as normal. 
 
 == Dual Wield ==
-
 Prerequisites:
 
 *  DEX 6
@@ -173,7 +157,6 @@ more than one target at a time. Reloading while dual wielding adds
 must be equal to or less than your strength.
 
 == Empty the Mag ==
-
 Prerequisites:
 
 *  None
@@ -190,7 +173,6 @@ Can only be used once per encounter, LVL number of times per day. At level 5
 and beyond, can be used twice per encounter.
 
 == Enhanced Neural Interface == 
-
 Prerequisites:
 
 *  INT 3
@@ -201,7 +183,6 @@ terminal, or use a monitor to perform a computer inquiry or operation.
 to be chosen at the time of taking this feat.
 
 == Fish To Water ==
-
 Prerequisites:
 
 *  Fort > 2
@@ -230,7 +211,6 @@ more times in one encounter than the number of fresh magazines you are carrying.
 If your weapon damages an area, First Shot Counts does not take effect.
 
 == Focus Energy == 
-
 Prerequisites:
 
 *  None
@@ -239,17 +219,15 @@ Prerequisites:
 action by 30%, (30% better roll, +30% damage [drop the remainder], up to you.)
 
 == Four on the Floor ==
-
 Prerequisites:
 
-*  Pilot or 20 skill in piloting
+*  Pilot or 20 skill in Vehicles - Ground
 
 	Tires were meant to be balded. You get a +25 to any difficult maneuver with 
 a land vehicle in which you do not catch air. This works with vehicles that have 
 treads or some other method of land support as well.
 
 == Novice Gunsmith ==
-
 Prerequisites:
 
 *  None
@@ -258,7 +236,6 @@ Prerequisites:
 desired conversations.
 
 == Hands of an artist ==
-
 Prerequisites:
 
 *  DEX 7
@@ -268,7 +245,6 @@ ranged weapons. In taking this feat you sacrifice the ability to use PER on
 rolls dealing with using a weapon.
 
 == Improvise Weapon ==
-
 Prerequisites:
 
 *  Skill [Melee Combat] at 20
@@ -277,23 +253,21 @@ Prerequisites:
 used as bats, fan blades as swords, etc., etc.
 
 == Juggler ==
-
 Prerequisites:
-*  DEX 4 or Higher
+*  DEX 4 or higher
 
 	You are used to throwing and catching things very quickly. It's a neat party
 trick and it turns out has some surprising applications in combat. You gain 10
-skill in perform(juggle) which is usually a DEX check. If you don't have another
+skill in the DEX skill Performance - Juggling. If you don't have another
 weapon drawn when you draw a throwing weapon, you may attempt to juggle that
-weapon. If you choose to do so, you must attempt a DC 60 juggling skill 
-challenge. On success, you may draw three of the same type of thrown weapon at
+weapon. If you choose to do so, you must attempt a DC 60 Juggling skill 
+check. On success, you may draw three of the same type of thrown weapon at
 once and use each as if you had drawn them normally. If you fail, you drop one
-of the weapon at your feet and launch the other two in random directions. You
-also get a -1 to miss with thrown weapons and a +10 to stealth checks to attack
+of the weapons at your feet and launch the other two in random directions. You
+also gain a -1 to miss with thrown weapons and a +10 to stealth checks to attack
 quietly with thrown weapons.
 
 == Last Shot Counts ==
-
 Prerequisites:
 
 *  PER 5
@@ -303,17 +277,15 @@ for a total of 30 bonus damage. If your weapon has a magazine size of 1 or
 damages an area, Last Shot Counts does not take effect.
 
 == Leaf on the wind ==
-
 Prerequisites:
-*  Pilot or 40 skill in piloting
+*  Pilot or 40 skill in Vehicles - Flight OR Space
 
-	You get a +20% to pilot skill checks in airborne or spaceborne vehicles, and
-an additional +20% to unconventional maneuvers in such as well, but you and
-your vehicle take double damage for the next three turns after using these
-bonuses. (any teammates in such a vehicle do not take double damage)
+	You gain a +20% to Vehicles checks in airborne or spaceborne vehicles, and an
+additional +20% to unconventional maneuvers in such as well, but you and your vehicle
+take double damage for the next three turns after using these bonuses. (any teammates
+in such a vehicle do not take double damage)
 
 == Lucky Blind Fire ==
-
 Prerequisites:
 
 *  LCK 7
@@ -325,7 +297,6 @@ the roll is from 6 to 10, Gain -2 miss chance for that firing action; If the
 roll is from 1 to 5, nothing happens.
 
 == Last Stand ==
-
 Prerequisites:
 
 *  Level 4
@@ -335,33 +306,48 @@ three actions on your turn to do one of the following: Draw a one-handed weapon
 such as a pistol or SMG, Aim, or fire. You can no longer take any of these 
 actions if you are below -50 health. 
 
-== Nanite Concentration ==
+== Monk ==
+Prerequisites:
 
+*  Level 7 or higher
+
+	Able to use full damage for lethal strikes with unarmed.
+
+== Muscle Memory ==
+Prerequisites:
+
+*  DEX 6 or 15 Weapons - [x] skill
+
+	Negate the pump of a shotgun, cocking of a revolver, or cycling of a bolt 
+when performing another action besides the aforementioned (besides firing). 
+(Only applies to the weapons you have at least 15 Weapons - [x] skill in using, 
+unless you meet the DEX requirement). Gain +5% to reload rolls with the given
+weapon.
+
+== Nanite Concentration ==
 Prerequisites:
 
 *  Level 5
-*  20 skill in Knowledge[Nanites]
+*  20 skill in Knowledge - Nanites
 
 	Allows the user to better concentrate on their expenditure of Nanites, 
 allowing them to achieve one of the following (you must choose one option when 
 you acquire the feat):
 
 * +2 turns of cloaking
-* Once per turn, +20% (or +2) to a Nanite-related-combat-action at a cost of 20 Nanites (ask GM before applying to an action.)
+* Once per turn, +20% (or +2) to a Nanite-related combat-action at a cost of 20 Nanites (ask GM before applying to an action.)
 * Once per turn, +20% to a non-combat-action at a cost of 20 Nanites (ask GM before applying to an action.)
 * Other, run any ideas by GM.
     
 == Nanite Absorption ==
-
 Prerequisites:
 
-*  10 skill in Knowledge[Nanites]
+*  10 skill in Knowledge - Nanites
 
 	Once per turn, if you score a critical hit on a target that has Nanites,
 the target loses up to 20 Nanites and you gain the amount lost.
 
 == Never Tell Me the Odds ==
-
 Prerequisites:
 
 *  LCK 4
@@ -369,7 +355,6 @@ Prerequisites:
 hit range (i.e., +10% Critical Hit chance).
 
 == Punch Drunk ==
-
 Prerequisites: 
 
 *  Fort > 3
@@ -382,7 +367,6 @@ bonuses only apply to melee attacks. You also get a +10% on rolls to avoid
 blacking out.  
 
 == Point-man ==
-
 Prerequisites:
 
 *  PER 6
@@ -394,7 +378,6 @@ good at what you do.
 	When clearing a room, add 20 to your reflex roll.
 
 == Preemptive Strike ==
-
 Prerequisites:
 
 *  DEX 7
@@ -440,7 +423,6 @@ Prerequisites:
 	Allows a character to use Melee weapons of size Two-handed.
 
 == Quickdraw ==
-
 Prerequisites:
 
 *  DEX 5
@@ -450,7 +432,6 @@ are holding something, you can drop it and still draw your weapon as a free
 action. However, you might not want to drop anything glass. Or any explosives.
 
 == Rainman ==
-
 Prerequisites:
 
 *  CHA <=2
@@ -462,7 +443,6 @@ skill point limit by 10. You may also ask the GM how many bullets each opponent
 has left in their weapon.
 
 == Salty Hashtables ==
-
 Prerequisites:
 
 *  Must be a mechanical race
@@ -472,26 +452,15 @@ Hacking you is 25% harder and you are aware whenever one of your senses is
 malfunctioning.
 
 == Salty Space Dog ==
-
 Prerequisites:
 
-*  Pilot or 10 Piloting Skill
+*  Pilot or 10 Vehicles - Space skill
 
 	You've been up in the black more times than you can count. You get a +15% to
 maintaining your bearings during a hyperspace jump as well as a +15% to stellar
 navigation.
 
-== Shadow Sense ==
-
-Prerequisites: 
-
-*  Level 12 Monk with Shadow Walk or Shadow Strike.
-
-	Your Aura Shield gains a +10 DR armor bonus if you have Shadow Strike or a 
-+20 DR armor bonus if you have Shadow Walk.
-
 == Signature Move ==
-
 Prerequisites:
 
 *  None
@@ -506,7 +475,6 @@ and squeezing the trigger while shouting "BOOM HEADSHOT!" Please ask for
 GM permission when using this feat.)
 
 == Sixth Sense ==
-
 Prerequisites:
 
 *  LCK 6
@@ -514,23 +482,11 @@ Prerequisites:
 	You have uncanny knack for reading situations and making accurate decisions 
 based off of gut feelings. Gain a skill, Uncanny Insight at 10, and apply it 
 to situations where you feel like a bit of extra insight might do you or your 
-team a world of good. This skill is maxed out at skill level 20, and only 
-upgraded by making good decisions based on this skill, rather than by 
-upgrading it with skill points.
-
-== Sleight of hand ==
-
-Prerequisites:
-
-*  DEX 6 or 15 Weapon Use[x] Skill
-
-	Negate the pump of a shotgun, cocking of a revolver, or cycling of a bolt 
-when performing another action besides the aforementioned (besides firing). 
-(Only applies to the weapons you have at least 15 Weapon Use[x] skill in using, 
-unless you meet the DEX requirement). Reload DCs are 5% lower.
+team a world of good. This skill is maxed out at 20 points, and is only 
+upgraded by making good decisions based on this skill, at the discretion of
+your GM.
 
 == Snap Shot ==
-
 Prerequisites:
 
 *  PER 6
@@ -541,16 +497,14 @@ second. When a target is within your weapon's R1 or R2, your miss chance is
 reduced by 1 (or 10% if relevant).
 
 == Social Ninja ==
-
 Prerequisites:
 
 *  CHA 7
 
-	Unless sneaking past / hiding from an alert enemy, use a Bluff/Deceive check 
-in place of a Stealth check.
+	"You just look like you belong here." Unless sneaking past or hiding from
+an alert enemy, roll a Deception check in place of a Stealth check.
 
 == Strong Back ==
-
 Prerequisites:
 
 *  STR 4
@@ -558,7 +512,6 @@ Prerequisites:
 	Instead of a secondary weapon, you can carry an additional primary weapon.
 
 == Pack Mule ==
-
 Prerequisites:
 *  STR 7
 *  Strong Back
@@ -567,16 +520,7 @@ Prerequisites:
 more than some. In addition to two primary weapons, you can carry another 
 secondary weapon.
 
-== Tele-Cast ==
-
-Prerequisites:
-
-*  Be a Paladin, Sorcerer or Mage.
-
-	You may use a melee weapon to perform touch effect spells.
-
 == Toughness ==
-
 Prerequisites:
 
 *  None
@@ -642,7 +586,6 @@ for the weapon during this action. Hip-firing penalties apply to guns fired
 with this feat.
 
 == Upgrade == 
-
 Prerequisites:
 
 *  None
@@ -652,7 +595,6 @@ result in extra Nanites, or take the average of the result (1d10 = 5, 2d10 = 10,
 can be taken twice). If any of your die rolls is a 1 or 2, reroll the die.
 
 == Unconventional Warfare ==
-
 Prerequisites:
 
 *  Any stat > 9, combat style must primarily use this stat.
@@ -661,7 +603,6 @@ Prerequisites:
 fighting technique.
 
 == Unlocked, Boomstick ==
-
 Prerequisites:
 
 * Must be a Gunslinger
@@ -669,16 +610,7 @@ Prerequisites:
 	Enables the use of shotguns by Gunslingers.
 Note: Gunslingers can use their class feats with shotguns.
 
-== Unlocked, Weapons Training ==
-
-Prerequisites:
-
-*  Monk
-
-	Enables the use of melee weapons by the Monk class.
-
 == Unlocked, Spray and Pray ==
-
 Prerequisites:
 
 *  Engineer
@@ -686,33 +618,22 @@ Prerequisites:
 	Enables the use of SMGs by the Engineer class.
 
 == Unlocked, Small Arms Shipment ==
-
 Prerequisites:
 
 *  Must be a Marksman, Doctor or Hacker
 
 	Enables the use of Carbines by the listed classes.
 
-== Unlocked, Welcome to the Front Line ==
-
-Prerequisites:
-
-*  Must be a Paladin
-
-	Enables the use of Automatic Rifles by the listed class.
-
 == Very Normal ==
-
 Prerequisites:
 
 *  CHA 5
 
 	Any time that someone would be suspicious of your actions, they will be less 
-likely to think twice about what you are doing. Increase your Deceive skill by 15
-and Speech skill by 10.
+likely to think twice about what you are doing. Increase your Deception skill by 15
+and Persuasion skill by 10.
 
 == Ward ==
-
 Prerequisites:
 
 *  DEX 10, or 
@@ -724,7 +645,6 @@ Prerequisites:
 with 15% coverage)
 
 == Investor == 
-
 Prerequisites: 
 
 *  Level 5
@@ -736,16 +656,15 @@ be taken once. Investor can be used twice, but only once every 5 levels.
 (Roll a d10 + Luck level) x 125. Gain this value in credits.
 
 == Weapon Familiarization ==
-
 Prerequisites:
 
 *  INT 7 
-*  10 Weapon Use(x*) 
+*  10 skill in Weapons - [x] 
 
 
 	Remove 1.5 ranged miss chance from any one weapon model. If you spend 30 hours
 studying/using/practicing with a different gun (that you have at least 10 
-Weapon Use skill in using), you can change which gun you are most familiar 
+Weapons - [x] skill in using), you can change which gun you are most familiar 
 with -- which moves the bonus from the previous gun model, to the one you are
 now working with. This feat can only be taken once per weapon.
 
@@ -865,7 +784,6 @@ Active Feats
 ==============================
 
 == Adrenaline Rush [4*X Nanites] ==
-
 Prerequisites:
 
 *  None
@@ -875,7 +793,6 @@ for that action only. This feat can only be used once per turn.
 Adrenaline Rush can be taken again to reduce the Nanite cost to 2*X.
 
 == Aimed Shot [8 Nanites] ==
-
 Prerequisites:
 
 *  PER 6
@@ -886,16 +803,14 @@ a chink in armor and aiming for it, or shooting a target's arm so they cannot us
 weapon, etc.
 
 == Bunker [25 Nanites] ==
-
 Prerequisites:
 
-*  High-Technology class (Monk, Paladin, Hacker) or
-*  Knowledge [Nanites] at 40
+*  Hacker or
+*  Knowledge - Nanites at 40
 
 	Add +3 miss chance to a piece of cover for 4 turns.
 
 == Combat Roll [30 Nanites] ==
-
 Prerequisites:
 
 *  DEX 5
@@ -908,7 +823,6 @@ this turn, its effect wraps, around to the beginning of your next turn. Cannot
 be used in concert with Run 'N' Gun.
 
 == Cover Slide [15 Nanites] ==
-
 Prerequisites:
 
 *  DEX 4
@@ -918,7 +832,6 @@ cover. You hunker or go prone behind that cover as a free action. Cannot
 be used in concert with Run 'N' Gun.
 
 == Flash Dance [10*X Nanites] ==
-
 Prerequisites:
 
 *  Level 3
@@ -930,7 +843,6 @@ that would normally apply to a standard attack still apply. (Note: Flash Dance
 can trigger Bulltrue and Preemptive Strike)
 
 == Gun Kata [30 Nanites] ==
-
 Prerequisites:
 
 *  Level 10
@@ -942,7 +854,6 @@ the 15m range, for up to 3 rounds fired. If you miss a shot or your gun runs out
 of rounds, your Gun Kata ends.
 
 == Kata [Minimum 5 Nanites] ==
-
 Prerequisites:
 
 *  Level 10
@@ -950,12 +861,9 @@ Prerequisites:
 	Whenever you land a successful melee hit against someone, you may roll for X 
 additional attacks, where X is your Nanites spent/5. Each additional attack has a 
 compounding +2 miss chance. (A 10th level character making their 3rd strike in a 
-row would be rolling at +4 miss chance). This +2 debuff applies to a Monk's 
-Shadow Strike as well, increasing the DC by 20 per strike instead of increasing 
-the strike's miss chance.
+row would be rolling at +4 miss chance).
 
 == Multi-Target [13*X Nanites] ==
-
 Prerequisites:
 
 *  DEX 6
@@ -968,7 +876,6 @@ all of these targets. If you fail the roll, then you may roll again to hit your
 first target normally.
 
 == Run 'N' Gun [10 Nanites] ==
-
 Prerequisites:
 
 *  PER 7
@@ -983,7 +890,6 @@ per-action from sprinting. The Miss Chance penalties stack for consecutive uses
 of Run 'N' Gun. 
 
 == Steady Shot [5 Nanites] ==
-
 Prerequisites:
 
 *  PER 7
@@ -995,18 +901,16 @@ rules document). You must be aiming at the target before you can use this feat.
 Maximum 4 levels.
 
 == Twitch	[7 Nanites] ==
-
 Prerequisites:
 
 *  Level 3
-*  Trained in SMGs or Pistols
+*  Proficient in SMGs or Pistols
 *  DEX 7
 
 	You may aim at an enemy as a free action instead of one action. Only works 
 with CQB weapons. +2 miss chance with the aimed weapon(s).
 
 == Blur	[11 Nanites] ==
-
 Prerequisites:
 
 *  Level 10
@@ -1018,12 +922,10 @@ works with CQB weapons. No Miss Chance penalty.
 ==============================
 Primary Stat Bonus Feats
 ==============================
-
 	These feats cannot be bought. They are granted 
 for free if you fulfill their prerequisites.
 
 == Lucky ==
-
 Prerequisites:
 
 *  Luck 6
@@ -1061,7 +963,6 @@ Your rerolls may have either a +20% or -20% bonus. You may reroll an action
 multiple times and choose which roll to keep.
 		
 == Positional Mastermind ==
-
 Prerequisites:
 
 *  Mutually Exclusive with Will to Survive
@@ -1076,7 +977,6 @@ you gets a +1 miss chance penalty when you have any kind of defense bonus from
 cover.
 
 == Will to Survive ==
-
 Prerequisites: 
 
 *  Mutually Exclusive with Positional Mastermind
