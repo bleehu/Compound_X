@@ -9,12 +9,12 @@ Guard Class, or GC. Melee weapons do not pierce armor, unless otherwise
 stated.
 
 	Melee weapons come in one of four size categories. The first 
-three are Light, One-handed, Two-handed. Characters start 
+three are Light, One-handed, and Two-handed. Characters start 
 with proficiency with some number of these based on their class. The 
 fifth category is Exotic. Acquiring proficiency with Exotic weapons does 
 not grant access to all Exotic weapons, but rather to a particular type, 
 such as whips. Exotic proficiencies may rarely be granted by Backgrounds, 
-and are more commonly acquired by feat.
+and are more commonly acquired by feats.
 
 	When a Two-handed weapon uses a character's STR mod in its damage 
 calculation and the character's STR mod is positive, that character instead 
@@ -204,11 +204,11 @@ the plasma sword passes through the shield.
 THROWN WEAPONS
 ==============================
 
-	These weapons work similarly to guns. However your range is determined by 
-your DEX or STR and your miss chance is reduced by your [Combat PER Mod]. Like 
-melee attacks, if you roll a Crit or 3+ above your Miss Chance, you ignore the 
-target's armor and deal full damage. Thrown weapons also benefit from Stealth 
-Attacks (see basic rules).
+	These weapons work similarly to guns - attackers add their combat PER 
+mod to their accuracy, however their range is determined by the attacker's DEX or 
+STR. Like melee attacks, if you roll a critical hit or 3+ above your Miss Chance, 
+you ignore the target's armor and deal full damage. Thrown weapons also benefit 
+from Stealth Attacks (see basic rules).
 
 	Thrown weapons benefit from half the base damage bonuses from Unarmed Combat 
 feats.
