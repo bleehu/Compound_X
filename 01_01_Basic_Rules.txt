@@ -31,9 +31,11 @@ get from the dice. This represents how good or bad your particular character is
 at doing whatever it is you are attempting to do. What to add when is discussed
 in detail below. 
 
-	For now, know that Compound X uses two ten-sided dice (usually called D10s) to
-represent a d100, a percent. One of the D10s represents the number in the 10's place.
-the other represents the number in the 1's place. Most dice sets come with two
+	Now, there will be two kinds of rolls your character will be making. 
+A skill roll, and a combat roll. Skill rolls use two ten-sided die, to represent 
+a d100, which in turn represents a percentage. One die is designated as the tens 
+place, and the other die as the ones place. However, in combat, you will use one d10, 
+which is reflected in a single number system.  Most dice sets come with two
 D10s, one with a zero after the number on the face, the other without that zero.
 In that case, obviously you add the numbers on the face of the dice together to
 find out what you rolled. If your dice came from different sets, you must pick
