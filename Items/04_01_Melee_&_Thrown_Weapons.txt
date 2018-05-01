@@ -5,7 +5,7 @@ MELEE WEAPONS & UNARMED FIGHTING
 	These weapons/attacks use an 'Accuracy Modifier' instead of
 a 'Miss Chance', which is added to your combat dex modifier and
 and any relevant feat or skill bonuses to oppose your opponent's 
-Guard Class, or GC. Melee weapons do not pierce armor, unless otherwise 
+Guard Roll. Melee weapons do not pierce armor unless otherwise 
 stated.
 
 	Melee weapons come in one of four size categories. The first 
