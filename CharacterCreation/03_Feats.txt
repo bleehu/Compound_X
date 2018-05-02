@@ -613,7 +613,7 @@ have no prerequisites.
 == Pistol Expertise ==	
 
 0:	+5m to ranges R1 & R2. If this would cause R2 to be greater than R3, 
-	also increase R3 to match the new R2.
+	also set R3 equal to the new R2.
 12:	May use Weapons - Pistol in place of Stealth for checks made to prevent 
 	enemies from noticing your Pistol fire.
 24:	Reduce the Reload check penalty imposed by the Dual-Wield / Akimbo feats 
@@ -626,7 +626,7 @@ have no prerequisites.
 == Submachine Gun Expertise ==
 
 0:	+5m to ranges R1 & R2. If this would cause R2 to be greater than R3, 
-	also increase R3 to match the new R2.
+	also set R3 equal to the new R2.
 12:	May use Weapons - SMG in place of Intimidate for checks to intimidate 
 	a target you are suppressing with an SMG.
 24:	+10 Gun Reflex to one SMG you are wielding.
@@ -638,12 +638,20 @@ have no prerequisites.
 
 == Shotgun Expertise  ==
 
-0:	+10m to range R3	
-12:	-15% reload miss chance			
-24:	+5 Gun Reflex				
-36:	-0.5 miss chance @ all ranges			
-48:	+10% perception checks for awareness within 25m.			
-60:	+10% Base damage. If you hit armor with a higher APL than your shotgun, you deal half damage to its AS instead of no damage (and full damage to health if you deplete the AS).
+0:	+5m to range R1. If this would cause R1 to be greater than R2, 
+	also set R2 equal to the new R1.
+12:	May use Weapons - Shotgun in place of Acrobatics for checks to execute 
+	a physical maneuver following violent entry of a room.
+24:	If you succeed a reload check by at least 20, reduce the time taken to 
+	reload by one Action, stacking with other reductions (such as from crits), 
+	to a minimum of one Action.
+36:	Negate the hip-firing Accuracy penalty against enemies within R1 while 
+	firing spreading shot.		
+48:	+10m to range R2. If this would cause R2 to be greater than R3, 
+	also set R3 equal to the new R3.
+60:	+10% Base damage. If you hit armor with a higher APL than your shotgun, 
+	you deal half damage to its AS instead of no damage (and full damage 
+	to health if you deplete the AS).
 
 == Carbine Expertise ==
 
