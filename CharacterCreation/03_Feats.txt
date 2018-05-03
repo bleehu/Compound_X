@@ -651,9 +651,9 @@ have no prerequisites.
 0:	+10m to range R2. If this would cause R2 to be greater than R3, 
 	also increase R3 to match the new R2.
 12:	May use Weapons - Carbine in place of Acrobatics on checks to maintain balance and negate 
-	combat penalties associated with a vehicle you are on board.
-24:	+25 Weapon Reflex while onboard a vehicle and for 3 rounds after disembarking. +10 Weapon 
-	reflex at other times.
+	combat penalties associated with a vehicle or mount you are on board.
+24:	+25 Weapon Reflex while onboard a vehicle or mount and for 3 rounds after disembarking. 
+	+10 Weapon Reflex at other times.
 36:	+1 Accuracy to ranges R1 and R2 while firing while benefiting from cover of any kind
 	against your target.
 48:	+10m to range R1, +5m to range R3
