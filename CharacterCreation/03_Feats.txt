@@ -665,8 +665,9 @@ have no prerequisites.
 	also increase R3 to match the new R2.
 12:	May use Weapons - Assault/Battle Rifle in place of Spotting when looking through your 
 	rifle's scope (warning, takes longer than wider field-of-view optics).
-24:	Halve the jam chance of your assault/battle rifle for the first 3 rounds of its use per 
-	combat, once per short rest (i.e. maintenance & cleaning oportunity).
+24:	Halve the jam chance (applies after additive modifiers, round down, may be zero) of your 
+	assault/battle rifle for the first 3 rounds of its use per combat, once per short rest 
+	(i.e. maintenance & cleaning oportunity).
 36:	+1 Accuracy while firing in burst mode and +2 Accuracy while firing in automatic mode 
 	while benefiting from any kind of cover against your target.
 48:	+5m to range R1, +10m to range R3.
