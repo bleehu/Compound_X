@@ -657,7 +657,12 @@ have no prerequisites.
 36:	+1 Accuracy to ranges R1 and R2 while firing while benefiting from cover of any kind
 	against your target.
 48:	+10m to range R1, +5m to range R3
-60:	+10% Base damage; When firing semi-auto mode, +1 crit range
+60:	+10% Base damage; For up to one Action per round you may fire your carbine one-handed with  
+	a -2 Accuracy penalty and double any automatic fire Accuracy penalty. Any foregrips or 
+	other attachments requiring the second hand do not provide their benefits during the 
+	Action, but your offhand is free to do something else. If you have taken aim at a target, 
+	you must succeed on a DC 100 Weapons - Carbine check to maintain that aim during and 
+	through the Action.
 
 == Assault/Battle Rifle Expertise ==
 
