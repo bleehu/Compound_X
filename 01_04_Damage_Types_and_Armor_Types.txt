@@ -27,14 +27,6 @@ Damage ignores armor and shields (explosive damage is essentially, a crushing
 force). Fragmentation grenades are considered ballistic weapons, as their 
 primary damage delivery method is shrapnel. 
 
-Melee/Melee Weapons:
-    Melee damage is treated like ballistic damage unless you hit a target's 
-armor and don't pierce it. If you are fighting a being with body armor, and you 
-hit the targets armor but don't pierce it, you then deal a special kind of 
-concussive damage (called blunt damage) that ignores armor but you can only deal 
-1/2 damage, up to a max of 25 damage. Max of 35 damage if you are using a melee 
-weapon (like a club, sword, or even hitting them with your gun).
-
 Electric Damage:
     Some damage is delivered to characters with a high current and voltage. This
 can lead to burns, organ failure, fried circuits and chaotic effects on the 
