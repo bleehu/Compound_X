@@ -655,22 +655,36 @@ have no prerequisites.
 
 == Carbine Expertise ==
 
-0:	+5m to range R1, +10m to R2 & R3		
-12:	-10% reload miss chance			
-24:	+5 Gun Reflex		
-36:	-0.5 miss chance @ all ranges			
-48:	You can choose to have +5% chance to miss armor when in single fire mode (doesn't apply to 100% coverage armor)	
-60:	+10% Base damage; When firing semi-automatically, +1 crit range
+0:	+10m to range R2. If this would cause R2 to be greater than R3, 
+	also increase R3 to match the new R2.
+12:	May use Weapons - Carbine in place of Acrobatics on checks to maintain balance and negate 
+	combat penalties associated with a vehicle or mount you are on board.
+24:	+25 Weapon Reflex while onboard a vehicle or mount and for 3 rounds after disembarking. 
+	+10 Weapon Reflex at other times.
+36:	+1 Accuracy to ranges R1 and R2 while firing while benefiting from cover of any kind
+	against your target.
+48:	+10m to range R1, +5m to range R3
+60:	+10% Base damage; For up to one Action per round you may fire your carbine one-handed with  
+	a -2 Accuracy penalty and double any automatic fire Accuracy penalty. Any foregrips or 
+	other attachments requiring the second hand do not provide their benefits during the 
+	Action, but your offhand is free to do something else. If you have taken aim at a target, 
+	you must succeed on a DC 100 Weapons - Carbine check to maintain that aim during and 
+	through the Action.
 
 == Assault/Battle Rifle Expertise ==
 
-0:	+5m to range R1, +10m to R2 & R3 
-12:	-10% reload miss chance			
-24:	Automatic Rifles no longer jam			
-36:	-0.5 miss chance @ all ranges			
-48:	-0.5 miss chance when firing in fully-automatic or burst			
-60:	+10% Base damage; May once per turn gain -2 miss chance for a fully-automatic firing action, 
-	This ability can let you bypass the minimum 1 miss chance for automatic firing
+0:	+10m to range R2. If this would cause R2 to be greater than R3, 
+	also increase R3 to match the new R2.
+12:	May use Weapons - Assault/Battle Rifle in place of Spotting when looking through your 
+	rifle's scope (warning, takes longer than wider field-of-view optics).
+24:	Halve the jam chance (applies after additive modifiers, round down, may be zero) of your 
+	assault/battle rifle for the first 3 rounds of its use per combat, once per short rest 
+	(i.e. maintenance & cleaning oportunity).
+36:	+1 Accuracy while firing in burst mode and +2 Accuracy while firing in automatic mode 
+	while benefiting from any kind of cover against your target.
+48:	+5m to range R1, +10m to range R3.
+60:	+10% Base damage; You may critically hit as normal while firing in burst mode, and may 
+	critically hit with half your normal critical range while firing in automatic mode.
 
 == Long Rifle Expertise ==
 
