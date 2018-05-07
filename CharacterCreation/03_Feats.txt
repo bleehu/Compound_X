@@ -643,8 +643,8 @@ have no prerequisites.
 12:	May use Weapons - Shotgun in place of Acrobatics for checks to execute 
 	a physical maneuver following violent entry of a room.
 24:	If you succeed a reload check by at least 20, reduce the time taken to 
-	reload by one Action, stacking with other reductions (such as from crits), 
-	to a minimum of one Action.
+	reload by one Action, stacking with other reductions (such as from 
+	critical success), to a minimum of one Action.
 36:	Negate the hip-firing Accuracy penalty against enemies within R1 while 
 	firing spreading shot.		
 48:	+10m to range R2. If this would cause R2 to be greater than R3, 
