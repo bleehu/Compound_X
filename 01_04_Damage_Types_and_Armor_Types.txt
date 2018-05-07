@@ -1,12 +1,6 @@
 ==============================
 Damage Types and Armor Types
-==============================
-
-    There are 5 main types of damage in compound X: Ballistic (conventional 
-firearms, bows), Laser, Plasma, Explosive (concussive), and melee. Additionally, 
-some Ballistic, Laser, and melee weapons can deal non-lethal variants. These 
-damage types interact differently with the two types of protection: Armor and 
-Shields. 
+============================== 
 
 ===== Damage Types =====
 
