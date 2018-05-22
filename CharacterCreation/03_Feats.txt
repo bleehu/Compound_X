@@ -863,6 +863,25 @@ additional attacks, where X is your Nanites spent/5. Each additional attack has 
 compounding +2 miss chance. (A 10th level character making their 3rd strike in a 
 row would be rolling at +4 miss chance).
 
+== Kip-up [15 Nanites] ==
+Prerequisites:
+
+* DEX 6
+* STR 5
+
+	A Kip-up is a gymnastic maneuver in which a character lying on the ground
+curls up and then kicks up and out into the air, using the resulting momentum to 
+jump from their back straight to their feet. This kick does not work well as a
+melee attack; the momentum is used to move the kicker rather than to impart 
+impact unto a target.
+
+	You may jump up from the prone to the standing position as a Free Action. 
+This action cannot be taken to go straight from prone to crouched. Further, if 
+the transition from prone to standing to crouched is taken, the normally Free
+Action of going from standing to crouched costs an Action. The kip-up cannot be
+attempted with Heavy or Full Armor on. 
+
+
 == Multi-Target [13*X Nanites] ==
 Prerequisites:
 
