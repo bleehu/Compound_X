@@ -879,7 +879,9 @@ impact unto a target.
 This action cannot be taken to go straight from prone to crouched. Further, if 
 the transition from prone to standing to crouched is taken, the normally Free
 Action of going from standing to crouched costs an Action. The kip-up cannot be
-attempted with Heavy or Full Armor on. 
+attempted with Heavy or Full Armor on. The kip-up can only be done once every
+three rounds, but doesn't cost any nanites to do. The Three-round cooldown can
+be ignored once per round by paying the nanite cost.
 
 
 == Multi-Target [13*X Nanites] ==
