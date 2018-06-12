@@ -129,17 +129,17 @@ Prerequisites:
 
 *  None 
 
-	Whenever your hit falls into crit range, with a max crit range of 3*, fire 
-another bullet as a free action, foregoing the normal bonus-damage from a crit. 
-The extra bullet automatically hits the target if your first bullet does, does 
-not trigger any other effects, and cannot be used to double tap again. Only 
-usable with Semi-Auto weapons. Not usable with Single-Action Revolvers, Bolt 
-Action, Pump-Action, Full-Auto weapons, etc.
+	Whenever your hit falls into critical hit range*, fire another bullet as a 
+free action, foregoing the normal bonus-damage from a critical hit. The extra 
+bullet automatically hits the target if your first bullet does. But the extra 
+bullet does not trigger any other effects and cannot be used to double tap 
+again. This feat only works with Semi-Auto weapons. It cannot be used with 
+Single-Action Revolvers, Bolt Action, Pump-Action, Full-Auto weapons, etc.
 
-*If you have a crit range greater than or equal to 3, only rolls of 8 or more 
-will trigger Double Tap. One exception: the max crit range of 3 can be increased 
-to 4 by the feat "Never Tell Me the Odds". If you have a crit range of less than 
-3, then crit range applies as normal. 
+*If you have a critical hit range greater than or equal to 3, only rolls of 8 or 
+more will trigger Double Tap. One exception: the max critical hit range of 3 can 
+be increased to 4 by the feat "Never Tell Me the Odds". If you have a critical 
+hit range of less than 3, then critical hit range applies normally. 
 
 == Dual Wield ==
 Prerequisites:
@@ -202,13 +202,15 @@ Prerequisites:
 *  LCK 6
 
 	When reloading, if your reload roll is higher than an 80 (including any 
-applicable skills) or if you roll inside your crit range, your first shot is an 
-automatic critical + 10 bonus damage, for a total of 30 bonus damage and other 
-possible critical effects. (Instead, if you have Double Tap, you get +10 bonus 
-damage for each Double Tap bullet). You have to reload a fresh magazine in order 
-to trigger the bonus again. In other words, you cannot use First Shot Counts 
-more times in one encounter than the number of fresh magazines you are carrying. 
-If your weapon damages an area, First Shot Counts does not take effect.
+applicable skills) or if you roll inside your critical success range, then your 
+first shot is an automatic critical hit + 10 bonus damage, for a total of 30 
+bonus damage and other possible critical effects. 
+
+    (Instead, if you have Double Tap, you get +10 bonus damage for each Double 
+Tap bullet). You have to reload a fresh magazine in order to trigger the bonus 
+again. In other words, you cannot use First Shot Counts more times in one 
+encounter than the number of fresh magazines you are carrying. If your weapon 
+damages an area, First Shot Counts does not take effect.
 
 == Focus Energy == 
 Prerequisites:
@@ -728,7 +730,7 @@ having Proficiency with the weapon type in question.
 25:	Carbine Expert. -0.5 miss chance @ all ranges			
 30:	You can choose to have +5% chance to miss armor when in single fire mode (doesn't apply to 100% coverage armor)	
 40:	Carbine Master. +10% Base damage; Gain feat "Make it count": When in single
-		fire mode, +1 crit range (+10% chance to Crit).
+		fire mode, +1 critical hit range (+10% chance to land a Critical hit).
 
 == Proficient: Automatic Rifles ==
 	Skill @		
