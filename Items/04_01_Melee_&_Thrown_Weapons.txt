@@ -205,9 +205,9 @@ THROWN WEAPONS
 
 	These weapons work similarly to guns. However your range is determined by 
 your DEX or STR and your miss chance is reduced by your [Combat PER Mod]. Like 
-melee attacks, if you roll a Crit or 3+ above your Miss Chance, you ignore the 
-target's armor and deal full damage. Thrown weapons also benefit from Stealth 
-Attacks (see basic rules).
+melee attacks, if you roll a Criticial hit or 3+ above your Miss Chance, you 
+ignore the target's armor and deal full damage. Thrown weapons also benefit from 
+Stealth Attacks (see basic rules).
 
 	Thrown weapons benefit from half the base damage bonuses from Unarmed Combat 
 feats.
