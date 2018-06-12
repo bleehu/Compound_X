@@ -300,8 +300,6 @@ throwing distance. If you fail your throw within 1 miss chance of the minimum,
 roll d4 meters for how off-target the grenade throw is. If you fail your throw 
 beyond 1 miss chance, roll a d10 instead.
 
-	All grenades have a Reflex Modifier: -10
-
 
 ===== LEVEL 1 REQUIREMENT WEAPONS =====
 
@@ -310,6 +308,8 @@ beyond 1 miss chance, roll a d10 instead.
 Damage: D10 burn damage to exact spot of impact
 Ranged Miss Chance (to land where intended): 5 out to 10+[DEX or STR]*2 meters
 Armor Piercing Level: 0
+Reflex Modifier: -10
+Reflex Save: 110
 
 	Rolling higher than a 9 Miss Chance causes a direct hit. For a 
 circle of 10m radius, all targets are now in stealth at 80%. Anyone looking in or out 
@@ -325,6 +325,8 @@ all the way through the smoke. Smoke lasts for 12 turns or 2 minutes.
 Damage: D10 burn damage to exact spot of impact
 Ranged Miss Chance (to land where intended): 5 out to 7+[DEX or STR]*2 meters
 Armor Piercing Level: 0
+Reflex Modifier: -10
+Reflex Save: 90
 
 	10m radius cloud of choking chemicals. anyone caught in the circle suffers the 
 following effects: partial blindness due to uncontrollable tears (+30% to hit), 
@@ -338,6 +340,8 @@ and coughing for 6 turns. Gas cloud persists for 2 turns after initial detonatio
 Damage: D10 burn damage to exact spot of impact
 Ranged Miss Chance (to land where intended): 6 out to 10+[DEX or STR]*2 meters
 Armor Piercing Level: 0
+Reflex Modifier: -10
+Reflex Save: 110
 
 	Everyone in the room gets blinded for 2 turns. Once per turn, You can 
 attempt to break the blindness with a perception check at 85% (disregarding 
@@ -349,6 +353,8 @@ radius.
 Damage: D10 burn damage to exact spot of impact
 Ranged Miss Chance (to land where intended): 5 out to 10+[DEX or STR]*2 meters
 Armor Piercing Level: 1
+Reflex Modifier: -10
+Reflex Save: 100
 
 	Each Target within the blast radius takes multiple hits. 45 damage per hit, 
 automatically hits armor. Targets take full damage to the torso, legs, and arms 
@@ -361,6 +367,8 @@ must damage health to cause Bleed.
 Damage: 120 explosive damage within a 3m radius, 5m radius indoors.
 Ranged Miss Chance (to land where intended): n/a
 Armor Piercing Level: n/a
+Reflex Modifier: -10
+Reflex Save: 110
 
 	Must be set-up before use. 1 Action, 40% DC explosives skill to set-up. On 
 failure, 3 actions used instead of 1. Explosives capable of sticking to surfaces. 
@@ -377,6 +385,8 @@ miss chance out to 5+[DEX or STR] meters.
 Damage: D10 burn damage to exact spot of impact
 Ranged Miss Chance (to land where intended): 5 out to 10+[DEX or STR]*2 meters
 Armor Piercing Level: 2
+Reflex Modifier: -10
+Reflex Save: 120
 
 	Each Target within the blast radius takes multiple hits. 50 damage per hit, 
 automatically hits armor. Targets take full damage to the torso, legs, and arms 
@@ -389,6 +399,8 @@ must damage health to cause Bleed.
 Damage: D10 burn damage to exact spot of impact
 Ranged Miss Chance (to land where intended): 5 out to 10+[DEX or STR]*2 meters
 Armor Piercing Level: n/a
+Reflex Modifier: -10
+Reflex Save: 120
 
 	Creates a 7m radius cloud of burning, choking smoke. Targets take 30 Poison 
 Damage per turn in the cloud. All Poison Damage is negated by use of a gas mask.
@@ -398,6 +410,8 @@ Damage per turn in the cloud. All Poison Damage is negated by use of a gas mask.
 Damage: D10 burn damage to exact spot of impact
 Ranged Miss Chance (to land where intended): 5 out to 10+[DEX or STR]*2 meters
 Armor Piercing Level: n/a
+Reflex Modifier: -10
+Reflex Save: 130
 
 	2x inner blast radius when indoors. 120 explosive damage within a 2m radius,
 60 explosive within a 5m radius.
@@ -409,6 +423,8 @@ Armor Piercing Level: n/a
 Damage: D10 burn damage to exact spot of impact
 Ranged Miss Chance (to land where intended): 5 out to 10+[DEX or STR]*2 meters
 Armor Piercing Level: 6
+Reflex Modifier: -10
+Reflex Save: 140
 
 	Each Target within the blast radius takes multiple hits. 60 damage per hit, 
 automatically hits armor. Targets take full damage to the torso, legs, and arms 
