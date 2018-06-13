@@ -442,6 +442,21 @@ points (or add 10 points to a non-Charisma skill). This skill can exceed the
 skill point limit by 10. You may also ask the GM how many bullets each opponent 
 has left in their weapon.
 
+== Return To Sender ==
+Prerequisites:
+
+*  REF > 11
+
+	If a grenade is thrown at your character and you succeed at making the 
+Reflex save, you may choose to activate this feat instead of diving out of the
+way. If you activate this feat, you attempt to kick the grenade back at the
+character that threw it. First, attempt a luck roll of DC 15. If you fail, the
+grenade goes off with you standing right next to it. If you succeed, roll a d10
+as if you had thrown the grenade yourself with a -2 penalty since you're 
+kicking, not throwing. The grenade is considered "cooked" wherever it lands 
+after being kicked. This means that the enemy characters don't get the same 
+chance to make a Reflex Save.
+
 == Salty Hashtables ==
 Prerequisites:
 
