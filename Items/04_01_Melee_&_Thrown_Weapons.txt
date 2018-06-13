@@ -5,16 +5,16 @@ MELEE WEAPONS & UNARMED FIGHTING
 	These weapons/attacks use an 'Accuracy Modifier' instead of
 a 'Miss Chance', which is added to your combat dex modifier and
 and any relevant feat or skill bonuses to oppose your opponent's 
-Guard Class, or GC. Melee weapons do not pierce armor, unless otherwise 
+Guard Roll. Melee weapons do not pierce armor, unless otherwise 
 stated.
 
 	Melee weapons come in one of four size categories. The first 
-three are Light, One-handed, Two-handed. Characters start 
+three are Light, One-handed, and Two-handed. Characters start 
 with proficiency with some number of these based on their class. The 
 fifth category is Exotic. Acquiring proficiency with Exotic weapons does 
 not grant access to all Exotic weapons, but rather to a particular type, 
 such as whips. Exotic proficiencies may rarely be granted by Backgrounds, 
-and are more commonly acquired by feat.
+and are more commonly acquired by feats.
 
 	When a Two-handed weapon uses a character's STR mod in its damage 
 calculation and the character's STR mod is positive, that character instead 
@@ -52,7 +52,7 @@ UNARMED
 
 Damage: 20 + STR mod + DEX mod, minimum 10
 Range: Adjacent (1m)
-Accuracy Modifier: -2
+Accuracy Modifier: 0
 
 ==============================
 MELEE WEAPONS
@@ -111,7 +111,8 @@ DEX Requirement: 6
 
 	Can grapple limbs from range (DEX based grapple) and force movement 
 (1m for every 5 [DEX or STR]). Can make Disarm attempts at range. Grapple, 
-Shove, and Disarm attempts with the whip costs Actions as normal.
+Shove, and Disarm attempts with the whip costs Actions as normal. This weapon
+has a Guard modifier of 0.
 
 == SPECO SP10 VAE Combat Knife $640 ==
 
@@ -132,7 +133,7 @@ Accuracy Modifier: +1
 STR Requirement: 4
 
 	Voltage Aligned Edge; ignores standard armor; can easily cut through most 
-materials. -50% on stealth rolls for being quiet during stealth attacks with 
+materials. -50 on stealth rolls for being quiet during stealth attacks with 
 this weapon.
 
 == SPECO SP30 VAE Combat Sword $1245 ==
@@ -157,9 +158,9 @@ STR Requirement: 6
 
 	Considered concussive (explosive) damage. Hits armor points 
 before physical damage if the target's armor has defense against explosive (i.e. 
-concussive) damage. If armor roll is greater than 50%, target rolls a DC 50% 
-fort save for a broken limb of your choice. -20% stealth rolls for being quiet 
-on stealth attacks. Reduces door-breaking DC by 30% per hit.
+concussive) damage. If armor roll is greater than 50, target rolls a DC 50 
+fort save for a broken limb of your choice. -20 stealth rolls for being quiet 
+on stealth attacks. Reduces door-breaking DC by 30 per hit.
 
 == Eliazar E5500 Power Fist $880 ==
 
@@ -173,7 +174,7 @@ STR Requirement: 5
 damage if the target has defense against explosive (i.e. concussive) damage. If 
 armor roll is less than 50%, target rolls a DC 50% fort save for a being stunned 
 for 1 turn. -30% stealth rolls for being quiet on stealth attacks. Reduces 
-door-breaking DC by 45% per hit.
+door-breaking DC by 45% per hit. This weapon has a Guard modifier of 0.
 
 == Muzashi VAE Katana $1354 ==
 
@@ -203,11 +204,11 @@ the plasma sword passes through the shield.
 THROWN WEAPONS
 ==============================
 
-	These weapons work similarly to guns. However your range is determined by 
-your DEX or STR and your miss chance is reduced by your [Combat PER Mod]. Like 
-melee attacks, if you roll a Critical hit or 3+ above your Miss Chance, you 
-ignore the target's armor and deal full damage. Thrown weapons also benefit from 
-Stealth Attacks (see basic rules).
+	These weapons work similarly to guns in that attackers add their combat PER 
+mod to their accuracy, however their range is determined by the attacker's DEX or 
+STR. Like melee attacks, if you roll a critical hit or 3+ above your Miss Chance, 
+you ignore the target's armor and deal full damage. Thrown weapons also benefit 
+from Stealth Attacks (see basic rules).
 
 	Thrown weapons benefit from half the base damage bonuses from Unarmed Combat 
 feats.
