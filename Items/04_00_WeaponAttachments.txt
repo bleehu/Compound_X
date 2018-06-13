@@ -521,12 +521,12 @@ that exceed the recommended voltage for compatibility with that gun. The result
 is a weapon system that imparts more damage through a higher intensity laser, at
 the cost of running the risk of overheating the emitter manifold and causing the
 weapon to "jam." Or in the worst case scenario, to overload even those safety
-measures and to cause the weapon slag, rendering the weapon inoperable and 
-potentially physically burning the user. This attachment is consumed upon use,
-and is only compatible with laser weapons.
+measures and to cause the weapon to slag, rendering the weapon inoperable and 
+potentially physically burning the user. This attachment is only usable with
+lasers.
 
 Cost: $1.5 x normal mag
-Damage: +15
+Damage: +15%
 Jam Range: + 2 on second roll
 
 == Poison Bullet Magazine  $2x + 50 magazine cost ==
