@@ -613,6 +613,6 @@ Player Weapon Customization
 other mercantile area. Ask the GM if there are weapon shops or kiosks around, 
 they should point you to one. From there you can apply upgrades and attachments.
 
-	The GM may tell you specific attachments that are available, or they may say 
+	The GM may tell you specific attachments that are available, or they may say
 you can just go about your usual customization. See the Attachments document for 
 more details on the kinds of attachments you can use, and their restrictions.
