@@ -55,7 +55,7 @@ Prerequisites:
 Prerequisites: 
 
 *  Level 3
-*  Assassin or Monk.
+*  Assassin
 
 	Any damage dealt to an unaware opponent from behind deals an additional 
 10 + (Lvl * 2) Base damage.
@@ -98,10 +98,10 @@ miss chance with Guns or Melee in combat.
 == Concussive Maintenance ==
 Prerequisites: 
 
-*  20 skill in repair or Engineer class. 
+*  20 skill in Repair OR Engineer class. 
 *  STR 4
 	
-	+20% to repair skill. For 1 action, you may whack something broken to try to 
+	+20% to Repair check. For 1 action, you may whack something broken to try to 
 fix it. You can use Concussive Maintenance even after you've already failed to 
 repair something. You can use concussive maintenance once per target, per 
 encounter.
@@ -111,8 +111,8 @@ Prerequisites:
 *  None
 
 	Make a stealth check to hide your chosen pistol, shotgun, or SMG on your 
-person. To succeed, you need a minimum score of 20. Roll determines DC for 
-enemy to actively search and find your hidden weapon.
+person. To succeed, you must pass a DC 19 check. Total roll determines DC for an
+enemy to actively search you and find your hidden weapon.
 
 == Desperate Crawl ==
 Prerequisites:
@@ -121,7 +121,7 @@ Prerequisites:
 	When downed instead of not being able to move you may crawl half of your 
 move speed or 3m every two actions whichever distance is shorter. You still 
 cannot speak, and you cannot take any other action. Death saving throws are 
-not actions, and must be thrown normally. You also get a +10% bonus to Death
+not actions, and must be rolled normally. You also get a +10% bonus to Death
 Saving Throws
 
 == Double Tap == 
@@ -129,17 +129,17 @@ Prerequisites:
 
 *  None 
 
-	Whenever your hit falls into crit range, with a max crit range of 3*, fire 
-another bullet as a free action, foregoing the normal bonus-damage from a crit. 
-The extra bullet automatically hits the target if your first bullet does, does 
-not trigger any other effects, and cannot be used to double tap again. Only 
-usable with Semi-Auto weapons. Not usable with Single-Action Revolvers, Bolt 
-Action, Pump-Action, Full-Auto weapons, etc.
+	Whenever your hit falls into critical hit range*, fire another bullet as a 
+free action, foregoing the normal bonus-damage from a critical hit. The extra 
+bullet automatically hits the target if your first bullet does. But the extra 
+bullet does not trigger any other effects and cannot be used to double tap 
+again. This feat only works with Semi-Auto weapons. It cannot be used with 
+Single-Action Revolvers, Bolt Action, Pump-Action, Full-Auto weapons, etc.
 
-*If you have a crit range greater than or equal to 3, only rolls of 8 or more 
-will trigger Double Tap. One exception: the max crit range of 3 can be increased 
-to 4 by the feat "Never Tell Me the Odds". If you have a crit range of less than 
-3, then crit range applies as normal. 
+*If you have a critical hit range greater than or equal to 3, only rolls of 8 or 
+more will trigger Double Tap. One exception: the max critical hit range of 3 can 
+be increased to 4 by the feat "Never Tell Me the Odds". If you have a critical 
+hit range of less than 3, then critical hit range applies normally. 
 
 == Dual Wield ==
 Prerequisites:
@@ -202,13 +202,15 @@ Prerequisites:
 *  LCK 6
 
 	When reloading, if your reload roll is higher than an 80 (including any 
-applicable skills) or if you roll inside your crit range, your first shot is an 
-automatic critical + 10 bonus damage, for a total of 30 bonus damage and other 
-possible critical effects. (Instead, if you have Double Tap, you get +10 bonus 
-damage for each Double Tap bullet). You have to reload a fresh magazine in order 
-to trigger the bonus again. In other words, you cannot use First Shot Counts 
-more times in one encounter than the number of fresh magazines you are carrying. 
-If your weapon damages an area, First Shot Counts does not take effect.
+applicable skills) or if you roll inside your critical success range, then your 
+first shot is an automatic critical hit + 10 bonus damage, for a total of 30 
+bonus damage and other possible critical effects. 
+
+    (Instead, if you have Double Tap, you get +10 bonus damage for each Double 
+Tap bullet). You have to reload a fresh magazine in order to trigger the bonus 
+again. In other words, you cannot use First Shot Counts more times in one 
+encounter than the number of fresh magazines you are carrying. If your weapon 
+damages an area, First Shot Counts does not take effect.
 
 == Focus Energy == 
 Prerequisites:
@@ -221,7 +223,7 @@ action by 30%, (30% better roll, +30% damage [drop the remainder], up to you.)
 == Four on the Floor ==
 Prerequisites:
 
-*  Pilot or 20 skill in piloting
+*  Pilot or 20 skill in Vehicles - Ground
 
 	Tires were meant to be balded. You get a +25 to any difficult maneuver with 
 a land vehicle in which you do not catch air. This works with vehicles that have 
@@ -254,17 +256,17 @@ used as bats, fan blades as swords, etc., etc.
 
 == Juggler ==
 Prerequisites:
-*  DEX 4 or Higher
+*  DEX 4 or higher
 
 	You are used to throwing and catching things very quickly. It's a neat party
 trick and it turns out has some surprising applications in combat. You gain 10
-skill in perform(juggle) which is usually a DEX check. If you don't have another
+skill in the DEX skill Performance - Juggling. If you don't have another
 weapon drawn when you draw a throwing weapon, you may attempt to juggle that
-weapon. If you choose to do so, you must attempt a DC 60 juggling skill 
-challenge. On success, you may draw three of the same type of thrown weapon at
+weapon. If you choose to do so, you must attempt a DC 60 Juggling skill 
+check. On success, you may draw three of the same type of thrown weapon at
 once and use each as if you had drawn them normally. If you fail, you drop one
-of the weapon at your feet and launch the other two in random directions. You
-also get a -1 to miss with thrown weapons and a +10 to stealth checks to attack
+of the weapons at your feet and launch the other two in random directions. You
+also gain a -1 to miss with thrown weapons and a +10 to stealth checks to attack
 quietly with thrown weapons.
 
 == Last Shot Counts ==
@@ -278,12 +280,12 @@ damages an area, Last Shot Counts does not take effect.
 
 == Leaf on the wind ==
 Prerequisites:
-*  Pilot or 40 skill in piloting
+*  Pilot or 40 skill in Vehicles - Flight OR Space
 
-	You get a +20% to pilot skill checks in airborne or spaceborne vehicles, and
-an additional +20% to unconventional maneuvers in such as well, but you and
-your vehicle take double damage for the next three turns after using these
-bonuses. (any teammates in such a vehicle do not take double damage)
+	You gain a +20% to Vehicles checks in airborne or spaceborne vehicles, and an
+additional +20% to unconventional maneuvers in such as well, but you and your vehicle
+take double damage for the next three turns after using these bonuses. (any teammates
+in such a vehicle do not take double damage)
 
 == Lucky Blind Fire ==
 Prerequisites:
@@ -313,25 +315,36 @@ Prerequisites:
 
 	Able to use full damage for lethal strikes with unarmed.
 
+== Muscle Memory ==
+Prerequisites:
+
+*  DEX 6 or 15 Weapons - [x] skill
+
+	Negate the pump of a shotgun, cocking of a revolver, or cycling of a bolt 
+when performing another action besides the aforementioned (besides firing). 
+(Only applies to the weapons you have at least 15 Weapons - [x] skill in using, 
+unless you meet the DEX requirement). Gain +5% to reload rolls with the given
+weapon.
+
 == Nanite Concentration ==
 Prerequisites:
 
 *  Level 5
-*  20 skill in Knowledge[Nanites]
+*  20 skill in Knowledge - Nanites
 
 	Allows the user to better concentrate on their expenditure of Nanites, 
 allowing them to achieve one of the following (you must choose one option when 
 you acquire the feat):
 
 * +2 turns of cloaking
-* Once per turn, +20% (or +2) to a Nanite-related-combat-action at a cost of 20 Nanites (ask GM before applying to an action.)
+* Once per turn, +20% (or +2) to a Nanite-related combat-action at a cost of 20 Nanites (ask GM before applying to an action.)
 * Once per turn, +20% to a non-combat-action at a cost of 20 Nanites (ask GM before applying to an action.)
 * Other, run any ideas by GM.
     
 == Nanite Absorption ==
 Prerequisites:
 
-*  10 skill in Knowledge[Nanites]
+*  10 skill in Knowledge - Nanites
 
 	Once per turn, if you score a critical hit on a target that has Nanites,
 the target loses up to 20 Nanites and you gain the amount lost.
@@ -374,6 +387,43 @@ Prerequisites:
 	Whenever you are facing someone you are aware of, and they enter into adjacency
 with you, you gain a preemptive melee strike against them.
 
+== Proficiency: Exotic Melee Weaponry ==
+
+Prerequisites:
+
+* Special, see below.
+
+	Allows a character the ability to use one particular type of Melee weapon 
+of size Exotic. Choose one common noun that is not a damage type each time you 
+learn this feat; that noun is the type. You may use any Exotic melee weapon that 
+includes this common noun in its name. This feat may be learned multiple times.
+
+	If a particular Exotic melee weapon would require two hands to effectively 
+wield, a character must have Proficiency with two-handed melee weapons to learn this 
+feat for that weapon type. The same applies to One-handed style and Light-style 
+exotic weapons, all of which are specified in Exotic weapons' Size stat as a subtype.
+
+== Proficiency: Light Melee Weaponry ==
+
+Prerequisites:
+* None
+
+	Allows a character to use Melee weapons of size Light.
+
+== Proficiency: One-handed Melee Weaponry ==
+
+Prerequisites:
+* Proficiency: Light Melee Weaponry
+
+	Allows a character to use Melee weapons of size One-handed.
+
+== Proficiency: Two-handed Melee Weaponry ==
+
+Prerequisites: 
+* Proficiency: One-handed Melee Weaponry
+
+	Allows a character to use Melee weapons of size Two-handed.
+
 == Quickdraw ==
 Prerequisites:
 
@@ -394,6 +444,21 @@ points (or add 10 points to a non-Charisma skill). This skill can exceed the
 skill point limit by 10. You may also ask the GM how many bullets each opponent 
 has left in their weapon.
 
+== Return To Sender ==
+Prerequisites:
+
+*  REF > 11
+
+	If a grenade is thrown at your character and you succeed at making the 
+Reflex save, you may choose to activate this feat instead of diving out of the
+way. If you activate this feat, you attempt to kick the grenade back at the
+character that threw it. First, attempt a luck roll of DC 15. If you fail, the
+grenade goes off with you standing right next to it. If you succeed, roll a d10
+as if you had thrown the grenade yourself with a -2 penalty since you're 
+kicking, not throwing. The grenade is considered "cooked" wherever it lands 
+after being kicked. This means that the enemy characters don't get the same 
+chance to make a Reflex Save.
+
 == Salty Hashtables ==
 Prerequisites:
 
@@ -406,19 +471,11 @@ malfunctioning.
 == Salty Space Dog ==
 Prerequisites:
 
-*  Pilot or 10 Piloting Skill
+*  Pilot or 10 Vehicles - Space skill
 
 	You've been up in the black more times than you can count. You get a +15% to
 maintaining your bearings during a hyperspace jump as well as a +15% to stellar
 navigation.
-
-== Shadow Sense ==
-Prerequisites: 
-
-*  Level 12 Monk with Shadow Walk or Shadow Strike.
-
-	Your Aura Shield gains a +10 DR armor bonus if you have Shadow Strike or a 
-+20 DR armor bonus if you have Shadow Walk.
 
 == Signature Move ==
 Prerequisites:
@@ -442,19 +499,9 @@ Prerequisites:
 	You have uncanny knack for reading situations and making accurate decisions 
 based off of gut feelings. Gain a skill, Uncanny Insight at 10, and apply it 
 to situations where you feel like a bit of extra insight might do you or your 
-team a world of good. This skill is maxed out at skill level 20, and only 
-upgraded by making good decisions based on this skill, rather than by 
-upgrading it with skill points.
-
-== Sleight of hand ==
-Prerequisites:
-
-*  DEX 6 or 15 Weapon Use[x] Skill
-
-	Negate the pump of a shotgun, cocking of a revolver, or cycling of a bolt 
-when performing another action besides the aforementioned (besides firing). 
-(Only applies to the weapons you have at least 15 Weapon Use[x] skill in using, 
-unless you meet the DEX requirement). Reload DCs are 5% lower.
+team a world of good. This skill is maxed out at 20 points, and is only 
+upgraded by making good decisions based on this skill, at the discretion of
+your GM.
 
 == Snap Shot ==
 Prerequisites:
@@ -471,8 +518,8 @@ Prerequisites:
 
 *  CHA 7
 
-	Unless sneaking past / hiding from an alert enemy, use a Bluff/Deceive check 
-in place of a Stealth check.
+	"You just look like you belong here." Unless sneaking past or hiding from
+an alert enemy, roll a Deception check in place of a Stealth check.
 
 == Strong Back ==
 Prerequisites:
@@ -490,13 +537,6 @@ Prerequisites:
 more than some. In addition to two primary weapons, you can carry another 
 secondary weapon.
 
-== Tele-Cast ==
-Prerequisites:
-
-*  Be a Paladin, Sorcerer or Mage.
-
-	You may use a melee weapon to perform touch effect spells.
-
 == Toughness ==
 Prerequisites:
 
@@ -506,6 +546,61 @@ Prerequisites:
 result in extra hit points, or take the average of the result (1d10 = 5, 
 2d10 = 10, can be taken twice). If any of your die rolls is a 1 or 2, reroll
 the die.
+
+== Unarmed Combat Training ==
+
+Prerequisites:
+* STR 5 and DEX 5
+* Level 5, OR Assassin Class, OR Berserker Class
+
+	Increase base and minimum damage of Unarmed Strike by 20. 
+	
+	Additionally, once per round after a successful melee strike, 
+if the target is not wielding a CQB weapon, you may use a reaction to 
+make a Disarm attempt. Disarm is described under Maneuvers in the Melee 
+Combat section of the Basic Rules.
+
+== Unarmed Combat Expertise ==
+
+Prerequisites:
+* Unarmed Combat Training
+* STR 6 and DEX 6
+* Level 10, OR Assassin Class and Level 5, OR Berserker Class and level 5
+
+	Increase base and minimum damage of Unarmed Strike by an additional 20.
+	
+	Disarm attempts made with Unarmed Combat Training may be made 
+against CQB guns and Two-Handed melee weapons.
+
+== Unarmed Combat Mastery ==
+
+Prerequisites:
+* Unarmed Combat Expertise
+* STR 7 and DEX 7 
+* Level 15, OR Assassin Class and Level 10, OR Berserker Class and Level 10
+
+	Increase base and minimum damage of Unarmed Strike by an additional 20.
+	
+	Whenever you would make a Disarm attempt with Unarmed Combat 
+Training, you may instead make a Trip, Shove, or Grapple attempt. (These 
+are also described under Maneuvers in the Melee Combat section of the 
+Basic Rules).
+
+== Unarmed Combat Grand Mastery ==
+
+Prerequisites:
+* Unarmed Combat Mastery
+* STR 7 and DEX 7
+* Level 15
+* Assassin Class or Berserker Class
+
+	Increase base and minimum damage of Unarmed Strike by an additional 20.
+
+	Whenever you succeed in a disarm attempt against a CQB weapon while 
+unarmed, you may use your next action to strike the target with his or her own 
+weapon before it falls to the ground. Disregard any proficiency requirements 
+for the weapon during this action. Hip-firing penalties apply to guns fired 
+with this feat.
 
 == Upgrade == 
 Prerequisites:
@@ -532,13 +627,6 @@ Prerequisites:
 	Enables the use of shotguns by Gunslingers.
 Note: Gunslingers can use their class feats with shotguns.
 
-== Unlocked, Weapons Training ==
-Prerequisites:
-
-*  Monk
-
-	Enables the use of melee weapons by the Monk class.
-
 == Unlocked, Spray and Pray ==
 Prerequisites:
 
@@ -553,21 +641,14 @@ Prerequisites:
 
 	Enables the use of Carbines by the listed classes.
 
-== Unlocked, Welcome to the Front Line ==
-Prerequisites:
-
-*  Must be a Paladin
-
-	Enables the use of Automatic Rifles by the listed class.
-
 == Very Normal ==
 Prerequisites:
 
 *  CHA 5
 
 	Any time that someone would be suspicious of your actions, they will be less 
-likely to think twice about what you are doing. Increase your Deceive skill by 15
-and Speech skill by 10.
+likely to think twice about what you are doing. Increase your Deception skill by 15
+and Persuasion skill by 10.
 
 == Ward ==
 Prerequisites:
@@ -595,12 +676,12 @@ be taken once. Investor can be used twice, but only once every 5 levels.
 Prerequisites:
 
 *  INT 7 
-*  10 Weapon Use(x*) 
+*  10 skill in Weapons - [x] 
 
 
 	Remove 1.5 ranged miss chance from any one weapon model. If you spend 30 hours
 studying/using/practicing with a different gun (that you have at least 10 
-Weapon Use skill in using), you can change which gun you are most familiar 
+Weapons - [x] skill in using), you can change which gun you are most familiar 
 with -- which moves the bonus from the previous gun model, to the one you are
 now working with. This feat can only be taken once per weapon.
 
@@ -664,7 +745,7 @@ having Proficiency with the weapon type in question.
 25:	Carbine Expert. -0.5 miss chance @ all ranges			
 30:	You can choose to have +5% chance to miss armor when in single fire mode (doesn't apply to 100% coverage armor)	
 40:	Carbine Master. +10% Base damage; Gain feat "Make it count": When in single
-		fire mode, +1 crit range (+10% chance to Crit).
+		fire mode, +1 critical hit range (+10% chance to land a Critical hit).
 
 == Proficient: Automatic Rifles ==
 	Skill @		
@@ -741,8 +822,8 @@ weapon, etc.
 == Bunker [25 Nanites] ==
 Prerequisites:
 
-*  High-Technology class (Monk, Paladin, Hacker) or
-*  Knowledge [Nanites] at 40
+*  Hacker or
+*  Knowledge - Nanites at 40
 
 	Add +3 miss chance to a piece of cover for 4 turns.
 
@@ -797,9 +878,28 @@ Prerequisites:
 	Whenever you land a successful melee hit against someone, you may roll for X 
 additional attacks, where X is your Nanites spent/5. Each additional attack has a 
 compounding +2 miss chance. (A 10th level character making their 3rd strike in a 
-row would be rolling at +4 miss chance). This +2 debuff applies to a Monk's 
-Shadow Strike as well, increasing the DC by 20 per strike instead of increasing 
-the strike's miss chance.
+row would be rolling at +4 miss chance).
+
+== Kip-up [15 Nanites] ==
+Prerequisites:
+
+* DEX 6
+* STR 5
+
+	A Kip-up is a gymnastic maneuver in which a character lying on the ground
+curls up and then kicks up and out into the air, using the resulting momentum to 
+jump from their back straight to their feet. This kick does not work well as a
+melee attack; the momentum is used to move the kicker rather than to impart 
+impact unto a target.
+
+	You may jump up from the prone to the standing position as a Free Action. 
+This action cannot be taken to go straight from prone to crouched. Further, if 
+the transition from prone to standing to crouched is taken, the normally Free
+Action of going from standing to crouched costs an Action. The kip-up cannot be
+attempted with Heavy or Full Armor on. The kip-up can only be done once every
+three rounds, but doesn't cost any nanites to do. The Three-round cooldown can
+be ignored once per round by paying the nanite cost.
+
 
 == Multi-Target [13*X Nanites] ==
 Prerequisites:
@@ -842,7 +942,7 @@ Maximum 4 levels.
 Prerequisites:
 
 *  Level 3
-*  Trained in SMGs or Pistols
+*  Proficient in SMGs or Pistols
 *  DEX 7
 
 	You may aim at an enemy as a free action instead of one action. Only works 

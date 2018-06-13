@@ -23,7 +23,9 @@ Starting Wealth: $3770 + 100*Luck
 
 Passives: 
 * Gain Skill Weapons - [Choose one] at 10.
-* Gain a +15 to Rolls for initiative. (You go first more often).
+* Gain a +15 to Rolls for initiative (You go first more often).
+* Gain Feat: Proficiency: Light Melee Weaponry.
+* Gain Feat: Proficiency: One-handed Melee Weaponry.
 
 Weapon Proficiencies: 
 * Pistols 
@@ -90,6 +92,7 @@ Starting Wealth: $4150 + 100*Luck
 Passives: 
 * Gain Skill Weapons - Thrown OR Weapons - Explosives at 10.
 * Gain Skill Weapons - Heavy at 10.
+* Gain Feat: Proficiency: Light Melee Weaponry.
 
 Weapon Proficiencies: 
 * Pistols
@@ -114,11 +117,12 @@ Skill Proficiencies:
 	----------------------
 	Needs More Dakka [15 Nanites] -
 	Sometimes, a situation just calls for more bullets. You're good at that. 
-	Make a regular firing action. If firing a weapon semi-automatically, you may fire 
-	an extra shot with a +1 miss chance. Or, if firing a weapon automatically, you may 
-	fire two extra shots with a +1 and +2 miss chance respectively. When using this 
-	ability, you cannot crit. This ability cannot be used with grenade launchers, 
-	rocket launchers, or autocannons.
+	Make a regular firing action. If firing a weapon semi-automatically, you may 
+	fire an extra shot with a +1 miss chance. Or, if firing a weapon 
+	automatically, you may fire two extra shots with a +1 and +2 miss chance 
+	respectively. When using this ability, you cannot score critical hits. This 
+	ability cannot be used with grenade launchers, rocket launchers, or 
+	autocannons.
 	|
 	|
 	V
@@ -149,6 +153,7 @@ Passives:
 * Gain Skill Knowledge - Xenology at 5.
 * Gain Skill Knowledge - [Choose one] at 5.
 * Gain Skill Medicine at 10. 
+* Gain Feat: Proficiency: Light Melee Weaponry.
 
 	Every level, you gain one skill in both of the "Hippocratic" and 
 "Malpractice" skill trees. At level 1 you start with an arm mounted needle 
@@ -205,6 +210,7 @@ Starting Wealth: $2580 + 100*Luck
 passives: 
 * Gain Skill Repair at 10.
 * Gain Skill Jury-rigging at 10.
+* Gain Feat: Proficiency: Light Melee Weaponry.
 * 2 Control Points
 * 600 Maximum Energy
 * 1000 Maximum Material
@@ -284,6 +290,7 @@ Starting Wealth: $2750 + 100*Luck
 Passives: 
 * Gain Skill Hacking at 10.
 * Gain Skill Knowledge - Computers at 10.
+* Gain Feat: Proficiency: Light Melee Weaponry.
 
 Weapon Proficiencies: 
 * Pistols
@@ -334,7 +341,9 @@ Class Primary Attribute: Dexterity
 Starting Wealth: $2670 + 100*Luck
 
 Passives: 
-* Gain Skill Vehicles - [Choose two] at 10.
+* Gain Skill Vehicles - [Choose one] at 10.
+* Gain Skill Vehicles - [Choose another] at 10.
+* Gain Feat: Proficiency: Light Melee Weaponry.
 
 At level 6, the Feat ". . . Who Needs Nano-Technologies" is automatically unlocked.
 
@@ -350,7 +359,8 @@ Armor Proficiencies:
 * Medium.
 
 Skill Proficiencies:
-* Vehicles - [Choose two]
+* Vehicles - [Choose one]
+* Vehicles - [Choose another]
 * Weapons - General
 
 == Class Feats ==
@@ -377,7 +387,6 @@ Skill Proficiencies:
 ======================================
 
 
-
 =====   HUNTER   =====
 	An expert tracker, you're the one hired when someone wants something found. 
 Expertly trained in manipulating your Nanites to aid in pursuit of a quarry, or 
@@ -389,6 +398,8 @@ Starting Wealth: $3290 + 100*Luck
 Passives: 
 * Gain Skill Spotting at 10.
 * Gain Skill Survival at 10.
+* Gain Feat: Proficiency: Light Melee Weaponry.
+* Gain Feat: Proficiency: One-handed Melee Weaponry.
 * Purchase your first primary cloaking module at a $1500 discount
 * Cloaking's Nanite Activation cost is reduced by 4 after level 3
 * Gain Ability "Mark Quarry" Detailed below
@@ -445,78 +456,23 @@ Skill Proficiencies:
 	Increases to +50 bonus damage at level 10.
 ======================================
 
-
-=====   PALADIN   =====
-	You are a righteous warrior, vetted and trained by one of the powerful 
-corporations or some other technologically advanced entity. You seek to uphold 
-the principals which define the group you've sworn allegiance to. Through this 
-devotion you have been granted access to high tech in order to pursue your goals 
-and missions.
-
-Class Primary Attribute: Fortitude
-Starting Wealth: $3130 + 100*Luck
-
-Passives: 
-* Add 25 + 5 per level to your maximum Nanite pool.
-* Gain Skill Knowledge - High Tech at 10.
-
-	Terms and Conditions clause compliance, access to Paladin Spell tree at 
-level 3. By adhering to the Terms and Conditions, a Paladin gains an amount of 
-Favor within their church and can unlock new paladin spells by spending Favor. 
-Starting at level 3, a Paladin gains Favor equal to their Charisma each level. 
-Favor does not have to be spent, and can be saved up to learn more potent 
-prayers and spells.
-
-Weapon Proficiencies: 
-* Pistols
-* Submachine Guns
-* Carbines
-* Assault Rifles
-* Long Rifles
-
-Armor Proficiencies:
-* Recon
-* Light
-* Medium
-* Medium-Heavy
-
-Skill Proficiencies
-* Knowledge - High Tech
-* Weapons - General
-
-Feats:
-	----------------------
-	Portable Shield:
-	A shield/barrier with a limited health pool can be projected from your off hand. 
-	When attacked, roll a separate armor roll for your shield, which has separate stats: 
-	80% Coverage, 140 Nanite Health. Shield only protects when opponent is in front 
-	of the character. If an attack is coming from a flank or from behind, then ignore the 
-	Shield. [Projects a tangible shield, not merely a Magnetic/Electron Shield]. It takes 1 
-	action to deploy the shield, and a free action to dismiss it.
-	|
-	|
-	V
-	100% Coverage, 200 Nanite Health. Free action to deploy shield.
-	----------------------
-	Smite Enemy:
-	Once per engagement, you may deal double damage on an attack against a single 
-	target, calculated after any other bonus damage. Standard hit rules apply, but 
-	Smite Enemy is only consumed on a successful hit [multiple attempts at using 
-	Smite may be made per encounter, but once a successful double damage attack 
-	is made, Smite Enemy is consumed for the encounter].
-	|
-	|
-	V
-	You may use Smite twice per engagement.
-======================================
-
 =====   GUNSLINGER   =====
-[Insert cool tasty text about John Woo]
+
+	Some people hide behind their big boomsticks or fancy science tricks, but
+you know that the universe doesn't separate sentients by the size of their 
+hardware or how big their brain is. No, there are only two categories that one
+falls into: the quick, or the dead. Some gunslingers are fast-talking scoundrels,
+rouges and ne'er-do-wells. Some are the soft-spoken, hard-working long arm of 
+the law. But there is one thing that all gunslingers have in common: they know 
+their way around a pistol. 
 
 Class Primary Attribute: Perception
 Starting Wealth: $1975 + 100*Luck
 
 Passives: 
+* Gain Skill Acrobatics at 10
+* Gain Skill Weapons - Pistol at 10
+* Gain Feat: Proficiency: Light Melee Weaponry
 * Gain Feat: Predictive Gun-fighting
 * Gain 2 Pistol Bonuses
 * Gain 1 Pistol Weakness
@@ -586,6 +542,7 @@ Feats:
 	reduced to a max of 30m. If you run out of rounds, you may reload mid-kata 
 	by passing a DC 75 DEX check. If a target dies by one of your attacks,
 	gain +1 additional attack.
+
 ======================================
 
 =====   ASSASSIN   =====
@@ -600,6 +557,9 @@ Starting Wealth: $1975 + 100*Luck
 Passives:
 * No penalty for engaging in Grappling maneuvers.
 * Gain Skill Weapons - Melee at 10
+* Gain Skill Stealth at 10
+* Gain Feat: Proficiency: Light Melee Weaponry.
+* Gain Feat: Proficiency: One-handed Melee Weaponry.
 * Gain bonus cloaking time when using other cloaking devices besides the Shadow Cloak.
 
 	Assassins wear a Shadow Cloak, which allows them to become a mere silhouette.
@@ -670,6 +630,7 @@ Starting Wealth: $3190 + 100*Luck
 Passives:
 * Gain Skill Weapons - Long Rifles at 10.
 * Gain Skill Spotting at 10.
+* Gain Feat: Proficiency: Light Melee Weaponry.
 * Gain feat "Skilled Overwatch": Held firing actions have +20 bonus damage.
 
 Weapon Proficiencies:
@@ -722,11 +683,11 @@ Skill Profiencies:
 		Node round: Extend the range of a friendly Engineer's drone control to the hit enemy, extends hacking range,
 			or allows remote access by a friendly Priest.
 		Drain round: Half of the damage dealt to health is dealt to the target's Nanite pool.
-		Seeker round: Increase your crit range by 1.
+		Seeker round: Increase your critical hit range by 1.
 		Denial of Service: Does not deal damage. Half of your standard damage may be used as a bonus% to a friendly Priest's hack 
 ======================================
 
-=====   BESERKER   =====
+=====   BERSERKER   =====
 	As an aficionado of the combat arts, you understand how important tactile 
 feedback is. Guns simply don't offer the appropriate amount, which is why you 
 prefer to BEAT YOUR ENEMIES TO DEATH USING YOUR BARE HANDS WHENEVER 
@@ -736,7 +697,12 @@ Class Primary Attribute: Strength
 Starting Wealth: $2170 + 100*Luck
 
 Passives:
-* Gain usage of melee weapon "Hand-to-Hand [Expert]" and disregard the requirement
+* Gain Skill Weapons - Melee at 10.
+* Gain Skill Athletics at 10.
+* Gain Feat Unarmed Combat Training.
+* Gain Feat: Proficiency: Light Melee Weaponry.
+* Gain Feat: Proficiency: One-handed Melee Weaponry.
+* Gain Feat: Proficiency: Two-handed Melee Weaponry.
 
 Weapon Proficiencies:
 * Pistols.
@@ -775,81 +741,4 @@ Skill Proficiencies:
 	Enemies within [3 * CHA] meters of you when you shout must pass a DC 70 Charisma
 	check not to target you on their following turn. Instead of 60 HP, you gain a 
 	temporary (40 + 10*FORT) HPs. Beast Mode now last for 3 turns.
-======================================
-
-
-=====   MONK   =====
-	Head to any secluded Temple and you'll find many Monks studying the ancient 
-texts and learning about sacred objects. Of these holy disciples, a few are 
-trained to defend the Temple in case of attack. All Monks take an Oath to not 
-utilize "lesser" technologies [guns, armor, and even Nanite packs.], for only 
-through embracing the Higher Technologies can one Advance oneself to the planes 
-of the Great Ones.
-
-Class Primary Attribute: Dexterity
-Starting Wealth: $0 (assume basic robe and communicator)
-
-Passives:
-* No penalty for engaging in Grappling maneuvers.
-* +20 damage to unarmed non-lethal attacks
-* +10 damage to unarmed lethal attacks. 
-
-	At level 5, and again at level 15, all monks must head back to their home 
-temple or seek a wise master to learn more advanced techniques. Until this 
-training has been completed, a monk cannot proceed to the next level. 
-
-	Start with a "Monk's Aura Shield", which reduces incoming damage by 20 
-(increases to 40 at level 5), regardless of type. Cost 100 Nanites to activate 
-the shield. Activation is a free action. Each shield lasts for one encounter.
-
-	Monks mediate during short rests instead of sleeping.
-
-Weapon Proficiencies:
-* None
-
-Armor Proficiencies: 
-* None
-
-Skill Proficiencies:
-* Acrobatics OR Athletics
-* Stealth
-
-== Class Feats ==
-	----------------------
-	Elemental Strike -
-	Choose a type from the following list, and deal that type to your
-	opponent on each successful unarmed strike, with its listed effects:
-		Fire: 10 burn damage + 1x Burning.
-		Ice: 10 cold damage + 1x Frozen.
-		Plasma: 10 Plasma damage + 1x Plasma Burn.
-		Electricity: 10 electrical damage + short out a system (RP effects).
-	|
-	|
-	V
-	Elemental Strike, Advanced
-	You may either upgrade your existing element type, or take a second element 
-	type from the first list.
-		Upgrades:
-		Fire: 15 burn damage + 2x Burning, target catches fire and must put it out.
-		Ice: 15 cold damage + 2x Frozen, area hit now has minor frostbite.
-		Plasma: 10 Plasma damage + 2x Plasma Burn, stricken area is disabled.
-		Electric: 15 electrical damage and DC 70 FORT check, target paralyzed for 1 turn.
-	You may also choose to switch to one of the following types:
-		Necrotic: 15 necrotic damage + 1x Necrosis
-		Vampiric: Heal self for 10, target loses 20 Nanites.
-		Capacitive: target loses 20 Nanites and receives 2x Plasma Burn.
-		Other [Discuss any ideas you have with the GM).
-	----------------------
-	Shadow Strike -
-	Instead of rolling to hit based on opponent Guard DC + their Skill, you 
-	only have to pass a DC 50 Knowledge - Nanites check.
-	|
-	|
-	V
-	Shadow Walk -
-	Roll a Knowledge - Nanites check, DC 50. You may teleport up to Result-50/10 
-	meters. You may also roll stealth after emerging at no action cost. Movement 
-	in this manner is considered to take an action, plus another action for the 
-	skill check. Monks still receive a penalty attack for performing a skill check 
-	in melee combat.
 ======================================
