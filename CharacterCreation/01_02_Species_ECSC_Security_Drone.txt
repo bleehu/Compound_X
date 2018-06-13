@@ -67,3 +67,12 @@ your nanite pool, which you can direct and discharge when the situation demands
 it. Any time you make a Strength or Athletics(STR) check, you may pay 10 nanites 
 before you roll to give yourself a +10 bonus to the roll.
     
+Refractory Dermal Layer:
+    Some Drones are built with a special polycrystalline dermal armor under 
+layer that refracts and disperses high intensities of light energy through the
+thin, bendable material. This dermal layer appears semi-translucent and kind of
+shiny, similar to looking at a thin layer of quartz. 
+
+    As long as this character has more than half their health, they take 15 less
+damage from laser weapons. This character gets a -10 to stealth rolls in the 
+dark, as the dermal layer tends to refract light out of it as much as into it.
