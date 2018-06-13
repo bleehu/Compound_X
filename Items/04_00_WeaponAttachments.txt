@@ -606,9 +606,9 @@ round where it's gonna hurt.
 
     Vorpal rounds deal an extra 10% of normal weapon damage on critical hit and
 20% damage on extra-crits. For example, if your gun deals 80 damage normally,
-and you roll a crit when using Vorpal rounds, your gun deals 80 + 10 (for crit)
-+ 8 (Vorpal damage) = 98. If you scored an extra-crit with the same weapon, 
-you'd do 80 + 20 (extra crit damage) + 16 = 116 damage. 
+and you roll a critical hit when using Vorpal rounds, your gun deals 80 + 10 
+(for crit) + 8 (Vorpal damage) = 98. If you scored an extra-crit with the same 
+weapon, you'd do 80 + 20 (extra crit damage) + 16 = 116 damage. 
 
 ==============================
 Total Conversions
