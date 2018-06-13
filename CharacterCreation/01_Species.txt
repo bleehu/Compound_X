@@ -139,22 +139,20 @@ Multipurpose Drone
 
 ===== Society ===== 
 
-    Multipurpose drones were first constructed by Humans, and later
-made by both Humans and other Multipurpose Drones. There are a 
-variety of opinions defining race relations between Humans and
-MultiPDs. Some Drones feel they are superior to Humans because
-they don't age and don't need to sleep. Many see themselves as
-downtrodden and beholden to their creators. Still others work
-and recreate with Humans productively and peacefully. 
+    Multipurpose drones were first constructed by Humans, and later made by both 
+Humans and other Multipurpose Drones. There are a variety of opinions defining 
+race relations between Humans and MultiPDs. Some Drones feel they are superior 
+to Humans because they don't age and don't need to sleep. Many see themselves as
+downtrodden and beholden to their creators. Still others work and recreate with 
+Humans productively and peacefully. 
 
 ===== Anatomy =====
 
-    The cognitive matrix of a MultiPD works as its brain and
-comes with an empathic multiplexer for emotions and the dynamic
-learning compositor for sentient learning. Despite the range of
-emotional development a Drone can achieve, their lack of a face
-has given them a reputation among some organics as being cold and
-calculated.
+    The cognitive matrix of a MultiPD works as its brain and comes with an 
+empathic multiplexer for emotions and the dynamic learning compositor for 
+sentient learning. Despite the range of emotional development a Drone can 
+achieve, their lack of a face has given them a reputation among some organics as 
+being cold and calculated.
 
 Type:       Cybernetic
 Size:       Medium
