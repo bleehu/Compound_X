@@ -326,7 +326,6 @@ make a Reflex Save of DC 110. If they succeed, they may dive prone at the
 outside of the edge of Smoke Grenade's radius of effect. Choosing to do so comes
 at the cost of one action on their next turn.
 
-
 == ECSC CID Chemical Incapacitation Device (Gas grenade) $50 ==
 
 Damage: D10 burn damage to exact spot of impact
