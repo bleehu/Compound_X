@@ -514,6 +514,21 @@ are excluded.
 == ED Electric Discharge Magazine  $2x + 20 magazine cost ==
     1/2 the bullet's base damage is converted to electrical damage.
 
+== Overcharge Laser Capacitors $(1.5 x mag cost) ==
+
+    Most common laser weapons have after-market ammunition batteries available
+that exceed the recommended voltage for compatibility with that gun. The result
+is a weapon system that imparts more damage through a higher intensity laser, at
+the cost of running the risk of overheating the emitter manifold and causing the
+weapon to "jam." Or in the worst case scenario, to overload even those safety
+measures and to cause the weapon to slag, rendering the weapon inoperable and 
+potentially physically burning the user. This attachment is only usable with
+lasers.
+
+Cost: $1.5 x normal mag
+Damage: +15%
+Jam Range: + 2 on second roll
+
 == Poison Bullet Magazine  $2x + 50 magazine cost ==
     Your bullet's new damage = 0.9x bullet base damage + stackable poison 
 effect based on base bullet damage (before base damage reduction): 
