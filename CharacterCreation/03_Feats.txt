@@ -664,7 +664,7 @@ have no prerequisites.
 36:	+1 Accuracy to ranges R1 and R2 while firing while benefiting from cover of any kind
 	against your target.
 48:	+10m to range R1, +5m to range R3
-60:	+10% Base damage; For up to one Action per round you may fire your carbine one-handed with  
+60:	+10% Base damage. For up to one Action per round you may fire your carbine one-handed with  
 	a -2 Accuracy penalty and double any automatic fire Accuracy penalty. Any foregrips or 
 	other attachments requiring the second hand do not provide their benefits during the 
 	Action, but your offhand is free to do something else. If you have taken aim at a target, 
@@ -683,7 +683,7 @@ have no prerequisites.
 36:	+1 Accuracy while firing in burst mode and +2 Accuracy while firing in automatic mode 
 	while benefiting from any kind of cover against your target.
 48:	+5m to range R1, +10m to range R3.
-60:	+10% Base damage; You may critically hit as normal while firing in burst mode, and may 
+60:	+10% Base damage. You may critically hit as normal while firing in burst mode, and may 
 	critically hit with half your normal critical range while firing in automatic mode.
 
 == Long Rifle Expertise ==
@@ -697,8 +697,8 @@ have no prerequisites.
 	single target without losing line of sight to it.
 48:	Halve any minimum range associated with your long rifle and attachments, to a max reduction 
 	of 5m.
-60:	Increase by 50% any numerical benefits of specialty ammunition you fire (does not affect 
-	Marksman Tech Rounds feats).
+60:	+10% Base damage.Increase by 50% any numerical benefits of specialty ammunition you fire 
+	(does not affect Marksman Tech Rounds feats).
 	
 == Heavy Weapon Expertise ==
 
