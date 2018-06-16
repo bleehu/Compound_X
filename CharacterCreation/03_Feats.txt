@@ -697,7 +697,7 @@ have no prerequisites.
 	single target without losing line of sight to it.
 48:	Halve any minimum range associated with your long rifle and attachments, to a max reduction 
 	of 5m.
-60:	+10% Base damage.Increase by 50% any numerical benefits of specialty ammunition you fire 
+60:	+10% Base damage. Increase by 50% any numerical benefits of specialty ammunition you fire 
 	(does not affect Marksman Tech Rounds feats).
 	
 == Heavy Weapon Expertise ==
