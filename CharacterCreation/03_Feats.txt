@@ -703,14 +703,14 @@ have no prerequisites.
 	
 == Heavy Weapon Expertise ==
 
-	Special: Does not include Grenade Launchers or Rocket Launchers.
+	Heavy Weapon Expertise does not include Grenade Launchers or Rocket Launchers.
 
 0:	+5m to range R2. If this would cause R2 to be greater than R3, 
 	also increase R3 to match the new R2.
 12:	May use Weapons - Heavy (Cha) in place of Intimidate when out 
 	of combat whie brandishing a bigger weapon than the target.
 24:	Heavy weapons no longer recieve the Accuracy penalty associated 
-	with being improvisedmelee weapons while being used as melee weapons.
+	with being improvised melee weapons while being used as melee weapons.
 36:	+1 Accuracy against targets that are within 2m of at least one 
 	other enemy.
 48:	+10m to Range R3.
@@ -723,8 +723,9 @@ have no prerequisites.
 
 == Explosives Expertise ==
 
-	Applies to hand grenades, emplaced explosives, grenade launchers, rocket launchers, and artillery,
-but not to explosive ammo of other weapons or class abilities. Does apply to Engineer mortars.
+	Explosives Expertise applies to hand grenades, emplaced explosives, 
+grenade launchers, rocket launchers, and artillery, but not to explosive ammo of 
+other weapons or class abilities. Does apply to Engineer mortars.
 
 0:	+1 Accuracy with thrown explosives			
 12:	-10% reload miss chance (grenade launchers, rocket launchers, etc.)			
