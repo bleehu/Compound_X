@@ -657,12 +657,13 @@ have no prerequisites.
 
 0:	+10m to range R2. If this would cause R2 to be greater than R3, 
 	also increase R3 to match the new R2.
-12:	May use Weapons - Carbine in place of Acrobatics on checks to maintain balance and negate 
-	combat penalties associated with a vehicle or mount you are on board.
-24:	+25 Weapon Reflex while onboard a vehicle or mount and for 3 rounds after disembarking. 
-	+10 Weapon Reflex at other times.
-36:	+1 Accuracy to ranges R1 and R2 while firing while benefiting from cover of any kind
-	against your target.
+12:	May use Weapons - Carbine in place of Acrobatics on checks to maintain 
+	balance and negate combat penalties associated with a vehicle or mount 
+	you are on board.
+24:	+25 Weapon Reflex while onboard a vehicle or mount and for 3 rounds 
+	after disembarking. +10 Weapon Reflex at other times.
+36:	+1 Accuracy to ranges R1 and R2 while firing while benefiting from cover 
+	of any kind against your target.
 48:	+10m to range R1, +5m to range R3
 60:	+10% Base damage; For up to one Action per round you may fire your carbine one-handed with  
 	a -2 Accuracy penalty and double any automatic fire Accuracy penalty. Any foregrips or 
@@ -675,16 +676,20 @@ have no prerequisites.
 
 0:	+10m to range R2. If this would cause R2 to be greater than R3, 
 	also increase R3 to match the new R2.
-12:	May use Weapons - Assault/Battle Rifle in place of Spotting when looking through your 
-	rifle's scope (warning, takes longer than wider field-of-view optics).
-24:	Halve the jam chance (applies after additive modifiers, round down, may be zero) of your 
-	assault/battle rifle for the first 3 rounds of its use per combat, once per short rest 
-	(i.e. maintenance & cleaning oportunity).
-36:	+1 Accuracy while firing in burst mode and +2 Accuracy while firing in automatic mode 
-	while benefiting from any kind of cover against your target.
+12:	May use Weapons - Assault/Battle Rifle in place of Spotting when 
+	looking through your rifle's scope (warning, takes longer than 
+	wider field-of-view optics).
+24:	Halve the jam chance (applies after additive modifiers, round 
+	down, may be zero) of your assault/battle rifle for the first 3 
+	rounds of its use per combat, once per short rest (i.e. maintenance 
+	& cleaning oportunity).
+36:	+1 Accuracy while firing in burst mode and +2 Accuracy while 
+	firing in automatic mode while benefiting from any kind of cover 
+	against your target.
 48:	+5m to range R1, +10m to range R3.
-60:	+10% Base damage; You may critically hit as normal while firing in burst mode, and may 
-	critically hit with half your normal critical range while firing in automatic mode.
+60:	+10% Base damage; You may critically hit as normal while firing in 
+	burst mode, and may critically hit with half your normal critical 
+	range while firing in automatic mode.
 
 == Long Rifle Expertise ==
 
@@ -698,15 +703,29 @@ have no prerequisites.
 	
 == Heavy Weapon Expertise ==
 
-0:	+5m to range R2 & R3	
-12:	-10% reload miss chance			
-24:	+1m radius to your Suppression Area of Effect			
-36:	-0.5 miss chance @ all ranges			
-48:	Heavy Weapons no longer jam			
-60:	+10% Base damage; When a target becomes suppressed by your heavy weapon, they must make a DC 62% 
-	Shock save. On failure, they lose two actions at the start of their next turn
+	Heavy Weapon Expertise does not include Grenade Launchers or Rocket Launchers.
+
+0:	+5m to range R2. If this would cause R2 to be greater than R3, 
+	also increase R3 to match the new R2.
+12:	May use Weapons - Heavy (Cha) in place of Intimidate when out 
+	of combat whie brandishing a bigger weapon than the target.
+24:	Heavy weapons no longer recieve the Accuracy penalty associated 
+	with being improvised melee weapons while being used as melee weapons.
+36:	+1 Accuracy against targets that are within 2m of at least one 
+	other enemy.
+48:	+10m to Range R3.
+60:	Machine Guns when autofiring, Flamethrowers, Lightning Guns, Antimaterial 
+	Guns firing explosive shot, etc. can be fired at 1m radius areas instead 
+	of a particular target, hitting all characters in the area automatically 
+	unless they succeed on a Reflex save with DC equal to your weapon accuracy 
+	minus applicable cover bonuses, multiplied by 10. Autofire weapons can only 
+	hit as many targets as they fire bullets.
 
 == Explosives Expertise ==
+
+	Explosives Expertise applies to hand grenades, emplaced explosives, 
+grenade launchers, rocket launchers, and artillery, but not to explosive ammo of 
+other weapons or class abilities. Does apply to Engineer mortars.
 
 0:	+1 Accuracy with thrown explosives			
 12:	-10% reload miss chance (grenade launchers, rocket launchers, etc.)			
