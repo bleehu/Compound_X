@@ -619,11 +619,12 @@ or circuitry. Unfortunately, the density of nanoweaponry precludes powerful
 locomotive capability. So they only really deal the extra damage if you put the 
 round where it's gonna hurt.
 
-    Vorpal rounds deal an extra 10% of normal weapon damage on critical hit and
-20% damage on extra-crits. For example, if your gun deals 80 damage normally,
-and you roll a critical hit when using Vorpal rounds, your gun deals 80 + 10 
-(for crit) + 8 (Vorpal damage) = 98. If you scored an extra-crit with the same 
-weapon, you'd do 80 + 20 (extra crit damage) + 16 = 116 damage. 
+    Vorpal rounds deal an extra 10% of normal weapon damage on Critical Hit and
+an extra 30% for Extra Critical Hits. For
+example, if your gun deals 80 damage normally, and you roll a critical hit when 
+using Vorpal rounds, your gun deals 80 + 20 (for Critical) + 8 (Vorpal damage) = 108.
+If your roll an Extra Critical Hit, you would deal 80 +  30(for Extra Critical) 
++ 24 (Vorpal Damage) = 134 damage.
 
 ==============================
 Total Conversions
