@@ -79,15 +79,6 @@ Provides no benefit to non-Opaleites.
     Because of the streamlined profile, wearing the visor does not preclude 
 wearing any helmets or other sizeable headgear.
 
-Antifogging Opaleite Water Visor ($280):
-    A water visor that uses microwire-inlaid lenses to prevent fogging. 
-When filled with water, an Opaleite wearing the visor no longer 
-suffers from racial Perception penalties from being out of water. 
-Provides no benefit to non-Opaleites.
-
-    Because of the streamlined profile, wearing the visor does not preclude 
-wearing any helmets or other sizeable headgear.
-
 ==============================
 Consumables
 ==============================
