@@ -742,8 +742,8 @@ other weapons or class abilities. Does apply to Engineer mortars.
 36:	Reduce Accuracy penalties for indirect fire by 2.
 48:	+5m to range R1. If this would cause R1 to be greater than R2, 
 	also set R2 equal to the new R1.
-60:	+10% Base damage. Shock, Reflex, and Will saves made by other characters 
-	associated with your explosives have +50 DC.
+60:	+10% Base damage. Other characters make Shock, Reflex, and Will saves associated 
+	with your explosives with Disadvantage.
 		
 ==============================
 Active Feats
