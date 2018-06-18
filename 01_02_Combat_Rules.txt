@@ -212,7 +212,87 @@ Disadvantage on the check if they do not have proficiency with the targeted item
 of the appropriate size). If the attacker wins, the defender is forced to drop the 
 targeted object.
 
-===== Actions =====
+===== MELEE WEAPONS & UNARMED FIGHTING =====
+
+	These weapons/attacks use an 'Accuracy Modifier' instead of
+a 'Miss Chance', which is added to your combat dex modifier and
+and any relevant feat or skill bonuses to oppose your opponent's 
+Guard Roll. Melee weapons do not pierce armor, unless otherwise 
+stated.
+
+	Melee weapons come in one of four size categories. The first 
+three are Light, One-handed, and Two-handed. Characters start 
+with proficiency with some number of these based on their class. The 
+fifth category is Exotic. Acquiring proficiency with Exotic weapons does 
+not grant access to all Exotic weapons, but rather to a particular type, 
+such as whips. Exotic proficiencies may rarely be granted by Backgrounds, 
+and are more commonly acquired by feats.
+
+	When a Two-handed weapon uses a character's STR mod in its damage 
+calculation and the character's STR mod is positive, that character instead 
+uses 150% of their STR modifier to calculate damage. For example, if some 
+two-handed weapon dealt damage equal to 40 + 2xSTR nod and the character 
+wielding it had a STR mod of -4, each strike would deal 32 = 40 + (-4 * 2) 
+damage. A character with the same weapon and a STR mod of 12 would deal 
+76 = 40 + ((12 * 1.5) * 2) = 40 + (18 * 2) damage per strike.
+
+	Some One-handed weapons have the Hybrid size property. Characters 
+with proficiency with Two-handed melee weapons may make two-handed strikes 
+with these weapons, which allows them to add their STR modifier as if 
+the weapon was Two-handed (see the preceeding paragraph). Such a strike 
+must be declared to be two-handed before rolling to hit, and the character 
+doing so loses the benefits of any items that require his or her off hand to 
+function.*
+
+	Unarmed Strike is not a weapon and therefore does not have a 
+size category. All characters are considered proficient with Unarmed 
+Strike. Efficacy is an entirely separate issue.
+
+*As an example, a character with a STR mod of 8 is attacking an enemy with a 
+hammer of size One-handed - Hybrid that deals 40 + STR mod damage. Before 
+rolling the attack, the player may declare that the character is making a 
+two-handed strike, which will increase the damage from 40 + 8 = 48 to 
+40 + (8 * 1.5) = 40 + 12 = 52. If that character was holding a weapon or 
+defensive implement in his or her off-hand, that item cannot be used and 
+it provides no bonuses for one round.
+
+===== Thrown Weapons =====
+
+	These weapons work similarly to guns in that attackers add their combat PER 
+mod to their accuracy, however their range is determined by the attacker's DEX or 
+STR. Like melee attacks, if you roll a critical hit or 3+ above your Miss Chance, 
+you ignore the target's armor and deal full damage. Thrown weapons also benefit 
+from Stealth Attacks (see basic rules).
+
+	Thrown weapons benefit from half the base damage bonuses from Unarmed Combat 
+feats.
+
+	If you have Weapons - Thrown skill >=20 then all DEX or STR requirements 
+for Thrown Weapons are reduced by 1.
+
+	All misc thrown weapons have a Reflex Modifier: -10
+	
+	Thrown weapons use the same size categories as Melee weapons for 
+determining proficiency, though a Two-handed throwing weapon would be 
+rare indeed.
+
+===== Grenades =====
+
+	All grenades require an explosives skill of at least 10 to use.
+Targets can roll a luck or perception check at DC 60% in 
+order to dodge/attempt to jump out of the way. You can 'cook' a grenade in your 
+hand for 1 action to make it impossible for an enemy to dodge.
+
+	Gain -2 miss chance if you are throwing under half of your grenade's max 
+throwing distance. If you fail your throw within 1 miss chance of the minimum, 
+roll d4 meters for how off-target the grenade throw is. If you fail your throw 
+beyond 1 miss chance, roll a d10 instead.
+
+	All grenades have a Reflex Modifier: -10
+
+==============================
+Actions
+==============================
 
     During combat, your character has 4 Actions. Actions are used for fighting, 
 movement, items, whimpering, etc. Here is a list of common tasks and their
@@ -423,7 +503,8 @@ as a Free Action. DM discretion is advised for close combat situations.
 formality. If a character could reasonably take or keep aim at something, then he or 
 she can.
 
-Fire Rates:
+== Fire Rates ==
+
 	Most weapons are Semi-Auto, meaning that each time you pull the trigger, the 
 gun fires once and chambers a new round automatically. It takes 1 Action to fire 
 a semi-auto weapon in this way. Some guns, such as Shotguns and Bolt-Action 
@@ -434,19 +515,21 @@ more than one fire mode such as Fully-Automatic (Auto) and Burst. Auto or Burst
 mode allows the user to fire 6 or 3 shots for 1 Action, respectively (unless
 otherwise noted). 
 
-Rolling a Ranged Attack:
+== Rolling a Ranged Attack ==
+
 	To hit a target, Players must roll a d10 that is over their weapon's miss 
 stat. When an enemy is in cover, their cover score is added to your weapon's 
 miss chance. Lets say your normal ranged miss chance is 2, and the enemy is in 
 full cover, your miss chance is increased by 4, for a final DC of 6. So a roll 
 of 7-10 would be successful.
 
-Gun Jams:
+== Gun Jams ==
 	If at any time that you are firing a gun and you roll a weapon accuracy of 1,
 roll a second d10. If that second d10 roll is a 1 or 2, the weapon Jams, 
 necessitating a Weapon - [X] Skill check, DC 60.
 
-Hip Firing:
+== Hip Firing ==
+
 	Add 3 to a weapon's miss chance. You cannot use optical attachments in hip 
 firing unless otherwise noted. It is much smarter to takes one action to Aim, 
 and spend the rest of your shots firing. It's also a great idea to take an 
@@ -455,7 +538,8 @@ action at the end of your turn to "hunker," and gain a +2 cover advantage.
 	If your weapon has a minimum distance (usually because of a high-powered
 scope), and you fire inside that distance, you are forced to hip fire.
 
-Blind Firing:
+== Blind Firing ==
+
 	Add 6 to a ranged weapon's miss chances. Blind firing allows you to shoot 
 around cover without looking or putting yourself at risk. You can blind fire 
 while hunkered. Your blind fire miss chance is affected by your base weapon miss 
@@ -464,7 +548,8 @@ stat combat bonus (as usual), and reduced by LUCK stat combat bonus. It's
 recommended to calculate this separate miss chance and write it down before 
 combat.
 
-Using Cover/Stances:
+== Using Cover/Stances ==
+
 	Chances are, if an enemy can see you in Compound X, they can hit you. Using 
 cover will make you harder to be hit. You will encounter many types of cover 
 while adventuring throughout the galaxy. Many small objects provide only partial 
@@ -500,7 +585,8 @@ prone severely limits your movement: 1/2 movement speed while prone, round-up; m
 (see Blind Firing, above). Imagine curling up in a ball, to pose the absolute smallest
 target possible. Its a free action to un-hunker.
 
-Reloading:
+===== Reloading =====
+
 	When a gun runs out of ammunition, the user must pause to reload. "But how 
 long do I gotta be outta the battle?" Great question!
 
@@ -515,7 +601,7 @@ reload time. On a critical Weapons - [X] check to reload the weapon,
 the reload time is halved (for Bolt-Actions it is reduced to 1 Action). On a 
 failure, the reload time takes twice as long.
 
-== Suppression == 
+===== Suppression ===== 
 
 	Every player with a ranged weapon gets the option to Suppress as the last 
 action of their turn. Suppression, also known as, "laying down fire", 
@@ -556,7 +642,8 @@ out in the open.
 an impenetrable barrier) you are not suppressed. The suppressor doesn't need to 
 see you to hit you, as in the case of suppressing a cloaked target. 
 
-Light Suppression:
+== Light Suppression ==
+
 	As the last action of your turn, aim at a target and fire 3 rounds (or the 
 rest of your magazine, at least 1 round has to be fired) to suppress 1m radius 
 AOE around the target. The target takes a +1 miss chance malus until the start 
@@ -564,12 +651,14 @@ of your next turn, and if the target moves out into the open**, then roll an
 immediate reaction to hit the target with a (non-automatic fire) accuracy roll. 
 Immediate reactions are stackable on a per-weapon basis.
 
-Medium/Moderate Suppression:
+== Medium/Moderate Suppression ==
+
 	Identical to light suppression with the following exceptions, you must fire 
 6 rounds from the current magazine to achieve 'moderate', and you don't have to 
 roll to hit -- you automatically hit and roll armor.
 
-Heavy Suppression:
+== Heavy Suppression ==
+
 	Identical to light suppression with the following exceptions: you must fire 
 10 rounds from the current magazine to achieve 'heavy', you don't have to roll 
 to hit -- you automatically hit x2 and roll for armor. You suppress all targets 
