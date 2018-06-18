@@ -277,18 +277,25 @@ You can jump vertically Str/3 meters.
 ===== Other Combat Details =====
 
 Critical Hits:
-	Critical hits are accuracy rolls that land inside your critical hit range 
-(aka. crit chance). If you roll a critical hit, your weapon does +20 damage for 
-that attack (and/or other effects, depending on your abilities). By default, 
-everyone starts with a critical hit range of "1", meaning, an attack roll of a 
-10 would be considered a critical hit. But your critical range may not be "1" 
-because your Luck modifies your critical hit range: (Luck Modifier/10), round 
+	Critical Hits are accuracy rolls that land inside your Critical Hit range 
+(aka. critical chance). The base critical hit range is 1, meaning an Accuracy roll of 
+10 is a critical hit. Luck modifies your critical hit range: (Luck Modifier/10), round 
 down, is added to your critical hit range. Therefore if you have a Luck stat 
 of 8, corresponding to a Luck Modifier of 12, then you would have +1 to your 
-critical hit range and would critically hit on rolls of 9-10.
+critical hit range and would critically hit on rolls of 9-10. Negative Luck modifiers 
+do not reduce Critical Hit range.
 
-	Weapons with a high fire rate cannot critically hit (weapons that shoot more 
-than 1 bullet per Action by default).
+	When your Accuracy roll lands in the upper half of your Critical Hit range,
+it is referred to as an Extra-Critical Hit. When the range is odd, it may be necessary 
+to roll a confirmation D10 to determine which kind of crit you score. Example: If you 
+have a Critical range of 1 and roll a 10, you would roll another D10 and score a 
+Critical hit on 1-5 or an Extra-Critical on 6-10.
+
+	Regular Critical Hits deal +20 damage, while Extra-Criticals deal +30 damage. 
+Some abilities or feats have additional effects that trigger when you score Criticals 
+or Extra-Criticals.
+
+	You cannot score Critical Hits while firing a gun in burst or automatic mode.
 
 Armor and Getting Hit:
 	When a player is defending against a successful enemy hit, they roll 
