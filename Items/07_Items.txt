@@ -61,6 +61,24 @@ infection. For example, provides immunity from tear gas, The Doctor's
 Contaminate Area Procedure, etc. The suit provides no armor coverage and if the
 wearer takes damage the suit ruptures and no longer provides immunity.
 
+Opaleite Water Visor ($50):
+    A set of watertight goggles with a low-power filtration system and 
+rechargeable battery. When filled with water, an Opaleite wearing 
+the visor no longer suffers from racial Perception penalties from 
+being out of water. Provides no benefit to non-Opaleites.
+
+    Due to its bulk, wearing the visor precludes wearing any helmets or 
+other sizeable headgear.
+
+Military Opaleite Water Visor ($150):
+    A compacted water visor with a streamlined filtration system.
+When filled with water, an Opaleite wearing the visor no longer 
+suffers from racial Perception penalties from being out of water. 
+Provides no benefit to non-Opaleites.
+
+    Because of the streamlined profile, wearing the visor does not preclude 
+wearing any helmets or other sizeable headgear.
+
 ==============================
 Consumables
 ==============================
