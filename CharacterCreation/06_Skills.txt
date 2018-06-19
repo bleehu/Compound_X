@@ -14,7 +14,6 @@ stat modifier. Ask your GM to confirm what skills and stats apply to the roll.
 	Each time a character levels up, they gain a certain number of skill
 points to distribute as they choose. Total skill point gain per level is based on 
 a character's intelligence or charisma, as described in Basic Rules. However, a 
-
 character may only gain up to 6 points in a skill per level, up to a maximum of 60. 
 Some feats, backgrounds and class passives will give a character points in a 
 specific skill. While these skill gains are not subjected to the limit on skill 
