@@ -351,7 +351,7 @@ Contagion Cost: 1 Contagions
 Duration: 1 Action
 Range: Applies to the Doc only
     For 3 turns, the doc gets a -3 to miss with guns, grenades, spells, and 
-melee weapons. They also get a +30 to reload and a +1 chance to crit.
+melee weapons. They also get a +30 to reload and a +1 chance to critical hit.
 
 ==Free Running ==
 Adrenaline Cost: 60 Points
@@ -386,7 +386,7 @@ Contagion Cost: 1 Contagion
 Duration: 	1 Action
 Range:		Applies to the Doc only
     For 3 turns, the doc gets a -4 to miss with guns, grenades, spells, and 
-melee weapons. They also get a +60 to reload and a +1 chance to crit.
+melee weapons. They also get a +60 to reload and a +1 chance to critical hit.
 
 ==Dex-11 ==
 Adrenaline Cost: 80 Point

@@ -1,48 +1,9 @@
 ==============================
-MELEE WEAPONS & UNARMED FIGHTING
+MELEE & THROWN WEAPONS
 ==============================
 
-	These weapons/attacks use an 'Accuracy Modifier' instead of
-a 'Miss Chance', which is added to your combat dex modifier and
-and any relevant feat or skill bonuses to oppose your opponent's 
-Guard Roll. Melee weapons do not pierce armor, unless otherwise 
-stated.
-
-	Melee weapons come in one of four size categories. The first 
-three are Light, One-handed, and Two-handed. Characters start 
-with proficiency with some number of these based on their class. The 
-fifth category is Exotic. Acquiring proficiency with Exotic weapons does 
-not grant access to all Exotic weapons, but rather to a particular type, 
-such as whips. Exotic proficiencies may rarely be granted by Backgrounds, 
-and are more commonly acquired by feats.
-
-	When a Two-handed weapon uses a character's STR mod in its damage 
-calculation and the character's STR mod is positive, that character instead 
-uses 150% of their STR modifier to calculate damage. For example, if some 
-two-handed weapon dealt damage equal to 40 + 2xSTR nod and the character 
-wielding it had a STR mod of -4, each strike would deal 32 = 40 + (-4 * 2) 
-damage. A character with the same weapon and a STR mod of 12 would deal 
-76 = 40 + ((12 * 1.5) * 2) = 40 + (18 * 2) damage per strike.
-
-	Some One-handed weapons have the Hybrid size property. Characters 
-with proficiency with Two-handed melee weapons may make two-handed strikes 
-with these weapons, which allows them to add their STR modifier as if 
-the weapon was Two-handed (see the preceeding paragraph). Such a strike 
-must be declared to be two-handed before rolling to hit, and the character 
-doing so loses the benefits of any items that require his or her off hand to 
-function.*
-
-	Unarmed Strike is not a weapon and therefore does not have a 
-size category. All characters are considered proficient with Unarmed 
-Strike. Efficacy is an entirely separate issue.
-
-*As an example, a character with a STR mod of 8 is attacking an enemy with a 
-hammer of size One-handed - Hybrid that deals 40 + STR mod damage. Before 
-rolling the attack, the player may declare that the character is making a 
-two-handed strike, which will increase the damage from 40 + 8 = 48 to 
-40 + (8 * 1.5) = 40 + 12 = 52. If that character was holding a weapon or 
-defensive implement in his or her off-hand, that item cannot be used and 
-it provides no bonuses for one round.
+	These are the melee and throwing weapons available for sale around most of
+the galaxy.
 
 ==============================
 UNARMED
@@ -204,24 +165,6 @@ the plasma sword passes through the shield.
 THROWN WEAPONS
 ==============================
 
-	These weapons work similarly to guns in that attackers add their combat PER 
-mod to their accuracy, however their range is determined by the attacker's DEX or 
-STR. Like melee attacks, if you roll a critical hit or 3+ above your Miss Chance, 
-you ignore the target's armor and deal full damage. Thrown weapons also benefit 
-from Stealth Attacks (see basic rules).
-
-	Thrown weapons benefit from half the base damage bonuses from Unarmed Combat 
-feats.
-
-	If you have Weapons - Thrown skill >=20 then all DEX or STR requirements 
-for Thrown Weapons are reduced by 1.
-
-	All misc thrown weapons have a Reflex Modifier: -10
-	
-	Thrown weapons use the same size categories as Melee weapons for 
-determining proficiency, though a Two-handed throwing weapon would be 
-rare indeed.
-
 ===== LEVEL 1 REQUIREMENT WEAPONS =====
 
 == Gurber Throwing Knife $80 ==
@@ -290,17 +233,6 @@ Ammo Slot.
 ==============================
 GRENADES
 ==============================
-
-	All grenades require an explosives skill of at least 10 to use.
-Targets can roll a luck or perception check at DC 60% in 
-order to dodge/attempt to jump out of the way. You can 'cook' a grenade in your 
-hand for 1 action to make it impossible for an enemy to dodge.
-
-	Gain -2 miss chance if you are throwing under half of your grenade's max 
-throwing distance. If you fail your throw within 1 miss chance of the minimum, 
-roll d4 meters for how off-target the grenade throw is. If you fail your throw 
-beyond 1 miss chance, roll a d10 instead.
-
 
 ===== LEVEL 1 REQUIREMENT WEAPONS =====
 
