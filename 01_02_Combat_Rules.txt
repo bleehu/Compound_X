@@ -677,6 +677,97 @@ impenetrable barrier) you are not suppressed. The suppressor doesn't need to see
 you, to hit you.
 
 ==============================
+Armor
+==============================
+
+	Please note that armor can have different types. We'll cover this later in
+more depth in the 01_04_Damage_Types_and_Armor_Types.txt document.
+
+===== ARMOR SYSTEMS =====
+	Armor Systems are composed of an Armor Rig and a protective Armor Material. 
+Having lots of armor may slow you down, but armor will prevent you from 
+being easy prey. Armor Rigs can be broken down into 4 pieces: helmets,
+chest rigs, arm rigs, and leg rigs. 
+
+	Helmets mostly help for RP effects or holding night vision goggles.
+The other 3 riggings provide ammunition space and (most rigs) provide
+space for installing an Armor Material. Armor Materials must be purchased 
+separately than Armor Rigs. Also, Armor systems do not include any protection
+without an Armor Material. If you purchase more than one Material* to cover 
+your whole body (installing in the Arm, Leg, and Chest Rigs, for example) it 
+improves the Armor Coverage (% of Armor protection), but not the quantity of 
+the Armor Strength (AS) or the Armor Piercing Level (APL). 
+
+	For example: if you purchase a Chest Rig from the Medium Armor Systems
+category and a Standard L1 Material, you'll have 40% coverage, 40 AS, and an 
+APL of 1. Now, in addition, if you purchase the Leg Rig from the Medium Armor 
+Systems and a Standard L1 Material, you'd have 55% coverage, 40 AS, and an
+APL of 1.
+
+*Note: you cannot mix-and-match Materials or Rig categories. Only one
+kind of Material can be used for the one category of Rigging you are wearing.
+
+===== WHERE IS MY AMMO STORAGE? =====
+
+	If you are wearing any Armor Rigging, you have a certain amount of 
+"Mag Space". When you are loading up your guns before a mission, you can decide 
+how to arrange your Mag Space to suit your needs. "Mag Space" translates 1 to 1
+into Primary Magazines, and 2 to 3 (or 1 to 1) into Secondary Magazines.
+
+	For example, if I have a Chest Rig from the Recon Armor Systems category, I 
+would have 5 Mag Space. I can turn that Mag Space into 3 Primary Magazine and 3
+Secondary Magazine spaces, 5 Primary Magazine spaces, or any feasible combination. 
+
+===== WHAT IS AN 'ADVANCED RIG'? =====
+
+	Advanced (adv.) Rigs typically provide less Armor Coverage and Mag Space 
+than their regular counterparts, but they allow you to attach Shield Generators,
+Hard Point Equipment, and/or Cloaking Equipment. Advanced Rigs allow you to do
+this by providing 'Hard Points'. Hard Points are special joints and fittings that
+make it easy to attach equipment. When you purchase equipment, it will list how
+many Hard Points it consumes. You can't attach more equipment than you have available
+Hard Points.
+
+	Hard Point Equipment/Shields/Cloaking often come in two sizes, "Primary Modules" and 
+"Secondary Modules". After you purchase and install a Primary Module, you can also purchase
+and install a Secondary Module(s) that augment the benefits of the Primary Module. The 
+benefits are listed in the description of a given module. They do not mix and match;
+Secondary Modules only work for the Primary Module they are designed for.
+	Some modules have a "____ Skill Requirement". In order to operate the module, you
+must have the required quantity of the given skill.
+
+===== ARMOR RIGS =====
+
+	Armor rigs cannot be worn in combination with other Rigs from different types, tactical 
+vests, or EVA suits (for example: Recon Rigs can't be worn with Light Rigs). Some of the 
+lighter Armor Rigs cannot hold Armor Materials, designated by "(*No Armor*)". Those rigs 
+only provide more Mag Space or more Hard Points; they don't provide additional Armor Coverage.
+
+===== EVA SUITS AND FLIGHT HELMETS =====
+
+	Helmets may be worn with or added to Armor or Environment (EVA) suits.
+EVA suits are air- and water-tight when combined with an EVA or flight helmet.
+EVA suits are bulky and cannot be used with Armor Rigs, also, DEX skill checks
+have a -10% penalty and movement is reduced in RP. If the suit is hit more 
+times than its "Suit Integrity" rating, it will no longer be able to maintain
+air pressure (player health has to be damaged in order for "Suit Integrity" to
+count a hit). Suits traditionally come in white, yellow or red.
+
+===== SHIELD GENERATORS =====
+
+	Shields cover the wearer with a transparent field which blocks 
+100% of incoming Laser damage, and 50% of Plasma weapon damage, 
+as long as the Shield isn't drained of its "Shield Strength".
+Traditionally, a Shield unit consists of a generator pack which 
+is generally the size of a small backpack, and some field
+stabilizers that extend the field over the body. Once the
+Shield's capacitor units are exhausted, the Shield breaks and
+needs a while to recharge. If the user maintains their Shield 
+without letting it break, they can avoid the costly recharge time.
+For more information, please see section "Shields" in the 
+Basic Rules document.
+
+==============================
 Death, Dying, and Downed
 ==============================
 
