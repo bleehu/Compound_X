@@ -54,6 +54,40 @@ Passives:
 *  Immune to Intoxication.
 *  Weakness to Electrical: Electrical damage deals an additional 50% damage.
 
+===== Names =====
+
+    While all Security Drones have serial number designations that denote when
+they where they were constructed and what the heritage of their AI core is, they
+very rarely use their numbers as names. Instead, most Security Drones have 
+names that are used in conversation. Since most Drones speak Terran common, most
+Drone names are typically Terran single first names; since for drones the unique 
+identifier of their serial number works for the full name. 
+
+== Security Drone Name Examples ==
+
+Male Personality AI:
+
+*  Cadmus (common name for the first in a batch)
+*  Danaus
+*  Fubini
+*  Vivikananda
+*  Anhur
+
+Female Personality AI:
+*  Ino (common name for the first in a batch)
+*  Ocelea
+*  Ilka
+*  Sarasvati
+*  Muat
+
+No Gender Personalit AI:
+
+*  Semaphore
+*  Affine
+*  Symplex
+*  Belur
+*  Duat
+
 ===== Available Traits ===== 
 
 Built-in armor:
