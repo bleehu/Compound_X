@@ -255,8 +255,8 @@ smoke completely obscures your vision, leaving you with a perception check of
 2 minutes.
 
 	Each character in the radius of a Smoke Grenade's range when it goes off may
-make a Reflex Save of DC 110. If they succeed, they may dive prone at the 
-outside of the edge of Smoke Grenade's radius of effect. Choosing to do so comes
+make a Reflex Save of DC 110. If they succeed, they may dive prone up to their
+speed for one action in the direction of their choice. Choosing to do so comes
 at the cost of one action on their next turn.
 
 == ECSC CID Chemical Incapacitation Device (Gas grenade) $50 ==
@@ -276,8 +276,8 @@ fog, and coughing for 6 turns. Gas cloud persists for 2 turns after initial
 detonation.
 
 	Each character in the radius of a CID Grenade's range when it goes off may
-make a Reflex Save of DC 90. If they succeed, they may dive prone at the 
-outside of the edge of CID Grenade's radius of effect. Choosing to do so comes
+make a Reflex Save of DC 90. If they succeed, they may dive prone up to their
+speed for one action in the direction of their choice. Choosing to do so comes
 at the cost of one action on their next turn.
 
 == RMM Flash-Bang Distraction and Clearing Device $50 ==
@@ -314,8 +314,8 @@ Only legs and torso (2*45 damage)+1xBleed within a 5m radius. At least one hit
 must damage health to cause Bleed.
 
 	Each character in the radius of a Frag Grenade's range when it goes off may
-make a Reflex Save of DC 100. If they succeed, they may dive prone at the 
-outside of the edge of the grenade's radius of effect. Choosing to do so comes
+make a Reflex Save of DC 100. If they succeed, they may dive prone up to their
+speed for one action in the direction of their choice. Choosing to do so comes
 at the cost of one action on their next turn.
 
 == ECSC C10 Plastic HE $210 ==
@@ -335,8 +335,8 @@ of steel. Jury-rigging can make the explosive throwable (after set-up) with a 5
 miss chance out to 5+[DEX or STR] meters.
 
 	Each character in the radius of an HE Grenade's range when it goes off may
-make a Reflex Save of DC 110. If they succeed, they may dive prone at the 
-outside of the edge of the grenade's radius of effect. Choosing to do so comes
+make a Reflex Save of DC 110. If they succeed, they may dive prone up to their
+speed for one action in the direction of their choice. Choosing to do so comes
 at the cost of one action on their next turn.
 
 ===== LEVEL 5 REQUIREMENT WEAPONS =====
@@ -356,8 +356,8 @@ Only legs and torso (2*50 damage)+1xBleed within a 6m radius. At least one hit
 must damage health to cause Bleed.
 
 	Each character in the radius of a Frag Grenade's range when it goes off may
-make a Reflex Save of DC 110. If they succeed, they may dive prone at the 
-outside of the edge of Smoke Grenade's radius of effect. Choosing to do so comes
+make a Reflex Save of DC 110. If they succeed, they may dive prone up to their
+speed for one action in the direction of their choice. Choosing to do so comes
 at the cost of one action on their next turn.
 
 == Frontier Chemical Grenade $70 ==
@@ -372,8 +372,8 @@ Reflex Save: 120
 Damage per turn in the cloud. All Poison Damage is negated by use of a gas mask.
 
 	Each character in the radius of a Chemical Grenade's range when it goes off 
-may make a Reflex Save of DC 120. If they succeed, they may dive prone at the 
-outside of the edge of the grenade's radius of effect. Choosing to do so comes
+may make a Reflex Save of DC 120. If they succeed, they may dive prone up to their
+speed for one action in the direction of their choice. Choosing to do so comes
 at the cost of one action on their next turn.
 
 == RMM HiEx Grenade $285 ==
@@ -388,8 +388,8 @@ Reflex Save: 130
 60 explosive within a 5m radius.
 
 	Each character in the radius of a HiEx Grenade's range when it goes off may
-make a Reflex Save of DC 130. If they succeed, they may dive prone at the 
-outside of the edge of the grenade's radius of effect. Choosing to do so comes
+make a Reflex Save of DC 130. If they succeed, they may dive prone up to their
+speed for one action in the direction of their choice. Choosing to do so comes
 at the cost of one action on their next turn.
 
 ===== LEVEL 10 REQUIREMENT WEAPONS =====
@@ -409,6 +409,6 @@ radius. Only legs and torso (2*60 damage)+1xPlasma Burn within a 5m radius. At
 least one hit must damage health to cause Plasma Burn.
 
 	Each character in the radius of a Plasma Grenade's range when it goes off 
-may make a Reflex Save of DC 110. If they succeed, they may dive prone at the 
-outside of the edge of the grenade's radius of effect. Choosing to do so comes
+may make a Reflex Save of DC 110. If they succeed, they may dive prone up to their
+speed for one action in the direction of their choice. Choosing to do so comes
 at the cost of one action on their next turn.
