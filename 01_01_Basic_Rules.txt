@@ -57,12 +57,6 @@ roll. Advantage and Disadvantage do not stack with themselves. If you would have
 both Advantage and Disadvantage on the same roll, then they cancel each other, 
 and you just roll once.
 
-Rolling the Average:
-	There are certain circumstances and feats which allow for Rolling the Average.
-This must be announced before the die are cast. Critical fails or Critical successes
-are ignored when Rolling the Average. To do this, roll percentile dice twice, add
-the two numbers together, and divide by 2. The resulting number is your roll. 
-
 ==============================
 Role Playing and Combat
 ==============================

@@ -489,30 +489,30 @@ have a MAX of 5 Miss Chance Defense from this feat.
 to Pistols. 
 
 Pistol Bonuses: 
-* +10 Dam
-* +8m R3 Range Bracket
-* -1 Miss Chance
-* +1 rds in mag
-* +2 mags carried;
+*  +10 Dam
+*  +8m R3 Range Bracket
+*  -1 Miss Chance
+*  +1 rds in mag
+*  +2 mags carried;
 
 Pistol Weaknesses:
-* -10 Dam
-* -8m R3 Range Bracket
-* +1 Miss Chance
-* -1 rds in mag
-* -2 mags carried
+*  -10 Dam
+*  -8m R3 Range Bracket
+*  +1 Miss Chance
+*  -1 rds in mag
+*  -2 mags carried
 
 Weapon Proficiencies:
 * Pistols
 
 Armor Proficiencies:
-* Concealed
-* Recon
-* Light
+*  Concealed
+*  Recon
+*  Light
 
-Skill Proficiencies
-* Weapons - Pistols
-* Acrobatics
+Skill Proficiencies:
+*  Weapons - Pistols
+*  Acrobatics
 
 Feats:
 	----------------------

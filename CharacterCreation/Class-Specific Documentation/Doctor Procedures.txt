@@ -409,43 +409,6 @@ personal biochemistry. The effect lasts for 8 turns. You gain:
 * an additional temporary 40 hp
 * an additional 2m move speed per action. 
 
-== Whateverectomy ==
-Adrendaline Cost: 140
-Needle Cost: 3 Needles
-Duration 2 Actions
-Range: 5m
-    Oh, that looks infected. It's probably gonna have to come out. You can sign
-the consent forms afterwards. Well, then again, maybe you can't. The target
-Makes a DC 100 Reflex Save. On success, the target moves up to 2m in the 
-direction of their choosing and is prone. On fail, the target rolls a D10  and 
-divide the roll by 2 to see what they lose. 
-1. Their Arm. 
-2. Their Leg
-3. Their Eye
-4. Their spleen
-5. Their Lymph Node
-
-    Their Arm: The target loses an arm. Using a two handed weapon gives them a 
--4 to hit. Damage with melee weapons is halved. You gain 3 Contagions. They take
-50 damage and have 3 stacks of Bleeding. See the "Conditions" section of Basic
-Rules.
-
-    Their Leg: The target loses a leg. Their move speed is halved round down and
-getting up after being crouched or prone takes an extra action. They take 60
-damage and receive 3 stacks of Bleeding. See the "Conditions" section of Basic
-Rules. You gain 3 Contagions. 
-
-    Their Eye: The target loses one of their eyes. They take a permanent -2 to
-their Perception and receive 60 damage. Their to hit score is reduced by 2. 
-You gain 1 Contagion.
-
-    Their Spleen: The target loses their spleen. They take 60 damage and their
-Fortitude is permanently reduced by 2. You gain 2 Contagions.
-
-    Their Lymph Node: The target loses their lymph node. They lose 40 health and
-up to 120 Nanites. This ability will not drop a target's nanite count below 0. 
-You gain 2 Contagions.
-
 ==============================
 Hippocratic Tree
 ==============================

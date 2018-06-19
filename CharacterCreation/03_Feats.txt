@@ -661,7 +661,6 @@ Prerequisites:
 *  INT 7 
 *  10 skill in Weapons - [x] 
 
-
 	Remove 1.5 ranged miss chance from any one weapon model. If you spend 30 hours
 studying/using/practicing with a different gun (that you have at least 10 
 Weapons - [x] skill in using), you can change which gun you are most familiar 
