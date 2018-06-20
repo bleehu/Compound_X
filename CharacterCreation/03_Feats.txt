@@ -709,7 +709,8 @@ them all. The feats are formatted as a list of "X: Benefit", where X is the numb
 points required in the corresponding Weapon skill to gain the benefit.
 	
 	Weapon Expertise feats require proficiency with the weapon type, but otherwise 
-have no prerequisites.
+have no prerequisites. Note that as all characters are proficient with Unarmed Strike, 
+Melee Expertise effectively has no prerequisite.
 
 == Pistol Expertise ==	
 
@@ -854,15 +855,22 @@ you are wielding an appropriate weapon.
 
 0:	+1 Move Speed while using the Charge action with intent to engage an enemy in 
 	Melee Combat.
-12:	May use Weapons - Melee (Int) in place of Medicine on skill checks related to 
-	triaging and healing wounds inflicted by melee weapons, nonexplosive throwing 
-	weapons, or environmental damage that approximates a melee strike.
-24:	When defending against a disarm attempt, roll maneuver checks with Advantage.
+12:	May use Weapons - Melee (Str/Dex) in place of Acrobatics or Athletics on 
+	maneuver checks to avoid, gain control of, or escape a Grapple; defend against 
+	Disarm attempts; or defend against Trip attempts.
+24:	While wielding a Light or One-handed non-Hybrid weapon, whenever an enemy attacks 
+	you in Melee Combat and ties your Guard, you may make a melee attack against that 
+	enemy as a Reaction. 
+	While wielding a Hybrid or Two-handed weapon, you may choose to gain +2 to melee 
+	Accuracy checks for one round, but if you do then until the start of your next 
+	turn you take -2 to Guard checks.
+	If dual-wielding a Hybrid and Light or One-handed weapon, you may only use one 
+	of these effects per round, but may choose which.
 36:	+1 Accuracy when engaging a target wielding a melee weapon (unarmed counts).
 48:	+1 Guard when engaging a target wielding a melee weapon (unarmed counts).
-60:	+10% Base damage. Gain +0.5 Critical Hit range whenever you hit a target but
+60:	+10% Base damage. Gain +0.5 Critical Hit range whenever you hit an enemy but
 	do not score a Critical Hit. This bonus resets if you score a Critical Hit, 
-	attack a different target, are stunned, or leave Melee Combat with that target.
+	are stunned, or spend 1 round out of Melee Combat.
 
 ==============================
 Active Feats
