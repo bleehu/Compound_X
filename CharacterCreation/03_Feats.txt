@@ -246,6 +246,13 @@ Prerequisites:
 ranged weapons. In taking this feat you sacrifice the ability to use PER on 
 rolls dealing with using a weapon.
 
+== Improvisational Brawler ==
+Prerequisites:
+*  Melee Expertise
+
+	The benefits of the Melee Expertise feat now also apply to Improvised Melee 
+Weapons.
+
 == Improvise Weapon ==
 Prerequisites:
 
@@ -838,7 +845,25 @@ other weapons or class abilities. Does apply to Engineer mortars.
 	also set R2 equal to the new R1.
 60:	+10% Base damage. Other characters make Shock, Reflex, and Will saves associated 
 	with your explosives with Disadvantage.
-		
+
+== Melee Expertise ==
+
+	Applies to Melee Weapons that the user has Proficiency with and Unarmed Strike. 
+Does not apply to Improvised weapons. Reminder: these bonuses are only in effect while 
+you are wielding an appropriate weapon.
+
+0:	+1 Move Speed while using the Charge action with intent to engage an enemy in 
+	Melee Combat.
+12:	May use Weapons - Melee (Int) in place of Medicine on skill checks related to 
+	triaging and healing wounds inflicted by melee weapons, nonexplosive throwing 
+	weapons, or environmental damage that approximates a melee strike.
+24:	When defending against a disarm attempt, roll maneuver checks with Advantage.
+36:	+1 Accuracy when engaging a target wielding a melee weapon (unarmed counts).
+48:	+1 Guard when engaging a target wielding a melee weapon (unarmed counts).
+60:	+10% Base damage. Gain +0.5 Critical Hit range whenever you hit a target but
+	do not score a Critical Hit. This bonus resets if you score a Critical Hit, 
+	attack a different target, are stunned, or leave Melee Combat with that target.
+
 ==============================
 Active Feats
 ==============================
