@@ -548,6 +548,15 @@ stat combat bonus (as usual), and reduced by LUCK stat combat bonus. It's
 recommended to calculate this separate miss chance and write it down before 
 combat.
 
+== Firing into Melee Combat ==
+
+	When firing at a character engaged in Melee Combat, you aren't guaranteed 
+to hit the target you intended. Before rolling accuracy, roll a DC 50 Luck check. 
+You may add 10 to your roll if you are aimed at your target. On success, you hit 
+your intended target. On failure, you hit a randomly chosen character engaged in 
+Melee Combat with your intended target. In either case your attack them proceeds 
+as normal. This Luck check cannot Critically succeed or fail.
+
 == Using Cover/Stances ==
 
 	Chances are, if an enemy can see you in Compound X, they can hit you. Using 
