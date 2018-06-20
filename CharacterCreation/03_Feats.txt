@@ -246,6 +246,13 @@ Prerequisites:
 ranged weapons. In taking this feat you sacrifice the ability to use PER on 
 rolls dealing with using a weapon.
 
+== Improvisational Brawler ==
+Prerequisites:
+*  Melee Expertise
+
+	The benefits of the Melee Expertise feat now also apply to Improvised Melee 
+Weapons.
+
 == Improvise Weapon ==
 Prerequisites:
 
@@ -702,7 +709,8 @@ them all. The feats are formatted as a list of "X: Benefit", where X is the numb
 points required in the corresponding Weapon skill to gain the benefit.
 	
 	Weapon Expertise feats require proficiency with the weapon type, but otherwise 
-have no prerequisites.
+have no prerequisites. Note that as all characters are proficient with Unarmed Strike, 
+Melee Expertise effectively has no prerequisite.
 
 == Pistol Expertise ==	
 
@@ -838,7 +846,32 @@ other weapons or class abilities. Does apply to Engineer mortars.
 	also set R2 equal to the new R1.
 60:	+10% Base damage. Other characters make Shock, Reflex, and Will saves associated 
 	with your explosives with Disadvantage.
-		
+
+== Melee Expertise ==
+
+	Applies to Melee Weapons that the user has Proficiency with and Unarmed Strike. 
+Does not apply to Improvised weapons. Reminder: these bonuses are only in effect while 
+you are wielding an appropriate weapon.
+
+0:	+1 Move Speed while using the Charge action with intent to engage an enemy in 
+	Melee Combat.
+12:	May use Weapons - Melee (Str/Dex) in place of Acrobatics or Athletics on 
+	maneuver checks to avoid, gain control of, or escape a Grapple; defend against 
+	Disarm attempts; or defend against Trip attempts.
+24:	While wielding a Light or One-handed non-Hybrid weapon, whenever an enemy attacks 
+	you in Melee Combat and ties your Guard, you may make a melee attack against that 
+	enemy as a Reaction. 
+	While wielding a Hybrid or Two-handed weapon, you may choose to gain +2 to melee 
+	Accuracy checks for one round, but if you do then until the start of your next 
+	turn you take -2 to Guard checks.
+	If dual-wielding a Hybrid and Light or One-handed weapon, you may only use one 
+	of these effects per round, but may choose which.
+36:	+1 Accuracy when engaging a target wielding a melee weapon (unarmed counts).
+48:	+1 Guard when engaging a target wielding a melee weapon (unarmed counts).
+60:	+10% Base damage. Gain +0.5 Critical Hit range whenever you hit an enemy but
+	do not score a Critical Hit. This bonus resets if you score a Critical Hit, 
+	are stunned, or spend 1 round out of Melee Combat.
+
 ==============================
 Active Feats
 ==============================
