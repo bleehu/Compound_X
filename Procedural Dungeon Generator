@@ -1,4 +1,6 @@
-    This will act as a step-by-step checklist to help people build unique maps.
+    This will act as a step-by-step list of guidelines to help people build fun, functioning 
+maps. It may be a good idea to have a few pages of notes detailing any special rules 
+for your map, as well as the inventories, gear, and personalities of your characters.
 
 
 ==============================
@@ -6,16 +8,28 @@ The Base Map
 ==============================
     
         Firstly, determine the planet or region this map will take place in, as 
-well as any area-specific rules that may apply. Some examples include the map 
-being on a water world with most or all of the environment underwater, in space 
-with no air or gravity, in a snowstorm with very limited visibility but also the 
-ability to track people based on their footprints, on a volcanic planet where 
-staying outside too long without a mask can injure or blind the players, etc. 
-If no specific rules exist for the map you want to make, it will be up to you to 
-create them. In general, map-specific rules should not be a major hinderance to 
-the players, but should make the experience more interesting and challenging. If 
-traversing the map is harder than fighting the enemies, then it might not be a fun game
-for anybody. It's entirely up to the GM's discretion.
+well as any area-specific rules that may apply. 
+
+    Some examples include:
+    * The map being on a water world with most or all of the environment underwater. The 
+characters would either have to use underwater breathing gear, or the map-builder would 
+have to write their own breath-holding rules.
+    * In space with no air or gravity. There are rules in place dealing with movement in 
+microgravity, as well as EVA suits that the players could use. 
+    * In a snowstorm with very limited visibility but also the ability to track people based on 
+their footprints. The hunter class might be very useful in a situation such as this, because 
+their awareness might be the reason that the players get to surprise an enemy patrol, instead 
+of the other way around.
+    * On a volcanic planet where staying outside too long without a mask can injure or blind 
+the players. Robots and humanoids with environment helmets would probably be fine here, while 
+anybody else might be forced to stay inside or be hindered by the air quality outside.
+    
+    If no specific rules exist for the map you want to make, it will be up to you to create 
+them. In general, map-specific rules should not be a major hinderance to the players, but 
+should make the experience more interesting and challenging. If traversing the map is harder
+than fighting the enemies, then it might not be a fun game for anybody. It's entirely up to 
+the GM's discretion, however. The map should be as difficult as it needs to be to keep the 
+players interested the whole time, without getting every one of them killed.
         
 ==============================
 Map Layout
@@ -23,7 +37,7 @@ Map Layout
     
         Create the general layout of the map. Before actually drawing up any part of 
 the map, it's best to have an idea of what it will look like beforehand. Is it mostly 
-indoors or outdoors? How many buildings are there? If there are buildings, how tall 
+indoors or outdoors? How many buildings are there? If there are buildings, how large 
 are they? Will there be any space for vehicles? How large is each space on the board? 
 Many indoor maps use 1x1 meter squares, while outdoor maps can be much larger, 
 depending on the context. If the map is intended to be mostly vehicle combat on a massive 
@@ -69,9 +83,10 @@ Add NPCs and Hostiles
 ==============================
     
         Lastly, your dungeon should have non-playable characters in it. For the sake of interesting 
-story, it's usually a good idea for  your characters to have some kind of backstory, whether it's 
+story, it's usually a good idea for your characters to have some kind of backstory, whether it's 
 as simple as the organization they work for, or as complicated as the entire detailed story of their 
-life. Combat personnel should be given weapons and armor based off of their levels. Exactly what 
+life. Combat personnel should be given weapons and armor based off of their levels, and depending on
+the character, you can also give them other skills and feats to go along with their class. Exactly what
 kind of gear they are given is very much up to you and how you want to run your dungeon, but as a 
 rule of thumb, it's a good idea to make combat fast-paced, tactical, and enjoyable for everybody. 
 
@@ -79,4 +94,3 @@ rule of thumb, it's a good idea to make combat fast-paced, tactical, and enjoyab
 
 
 
-        It may be a good idea to have a few pages of notes detailing any special rules for your map, as well as the inventories, gear, and personalities of your characters.
