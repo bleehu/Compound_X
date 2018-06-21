@@ -164,3 +164,50 @@ However, these systems are not well-calibrated for extreme cold. Long exposure
 can lead to material embrittlement and coolant viscosity fluctuation. A Flame
 Retardant Drone takes 25% more damage from cryo weaponry, environmental 
 hazards on ice planets or similar effects. 
+
+===== Series 0x0b "Cryo" =====
+
+    The success of the Series Ten Cinder Drones led to a similar expansion of a
+series designed to function well on worlds farther from a heat source than would
+be normally habitable by most organics and standard series Drones. These Drones
+range from the stalwart soldiers and workers who defend and move the heavy 
+machinery needed to convert ice into usable water to the light and slim covert
+operators that infiltrate distant bases on snowy planets. Most Series Eleven
+Drones have patterns of white, blue, black and purple exo plates. They also have
+a distinct kind of synthetic fur that slowly grows along their joints to help
+slow their rate of cooling.
+
+Size: Medium
+Favored Terrain: Subzero Mountains and Tundra
+
+== Available Traits ==
+
+UV Optical Module:
+    The Cryo Series quickly found that the typical IR optical upgrades were less
+helpful on their favored icey worlds than they were for their other brethren; on
+an ice world, almost everything just looks cold. Instead, the Drones developed
+and replaced the IR modules with an Ultra-violet alternative. While less helpful
+for seeing through smoke or seeing in the dark, the forensic capabilities of the
+new modules were quite advantageous. Being able to see sources of UV light such
+as suns and stars is also very helpful for navigation. 
+    
+    This Trait cannot be taken with the IR Optical Sensor. A Drone with the UV 
+Optical Module can switch between regular spectrum and UV sight once per turn as 
+a Free Action. While in UV mode, they get a +20 to Investigate skill checks and 
+a +10 to Navigation and Piloting(Space) skill checks. They can see the sun even 
+through heavy clouds, but not monsoons or bad storms. Enemy Lasers, plasma 
+weapons, and shields appear to glow while looking through UV vision and can be 
+seen through smoke or in no-light conditions. But enemies without lasers, 
+shields, or plasma weapons will be hidden by darkness or smoke. 
+
+Cold Never Bothered Me:
+    Being able to retain heat and stay insulated makes Cryo Series Drones able
+to withstand insane cold almost indefinitely. Unfortunately, this means that
+the Cryo Series has a hard time radiating heat away, and also the insulating
+artificial fur doesn't do well when submerged in water. 
+
+    Drones unfettered by cold are immune to damage from cold and similar 
+environmental conditions. The insulations also help to dampen sound and obscure
+the Drone's silhouette, giving a +10 to stealth skill checks. They have a -20 to 
+skill checks involving Swim. Cryo Drones with this trait only reduce plasma burn 
+tokens every 3 turns instead of every other turn. 
