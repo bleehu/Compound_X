@@ -233,16 +233,16 @@ Adhesive Foam ($45):
 solution in either an area or a thin line. As the solution dries, 
 it expands and hardens to accomodate the space given. Can be used
 to insulate an area, temporarily patch up a damaged wall, 
-seal ducts, etc. One can has 20 cubic meter's worth of foam.
+seal ducts, etc. One can has 1 cubic meter's worth of foam.
 
 Solvent ($45):
 	A spray can with a nozzle on the end that sprays a chemical
 solution in an area. When this solution comes into contact with
 adhesive foam or similar substances, they will dissolve into a vapor.
-One can has 20 cubic meter's worth of solvent.
+One can has 1 cubic meter's worth of solvent.
 
 Basic Storage Crate ($125):
-	A 1mx0.5mx0.5m metal crate secured with an electronic keypad. 
+	A 1mx1mx1m metal crate secured with an electronic keypad. 
 Can hold up to 150lbs. The keypad can be opened with either the correct 
 numeric password, a DC 85 Strength skill check or with a DC 75 hacking 
 skill check.
@@ -267,17 +267,20 @@ like a small animal. The drone is equipped with a camera that the
 operator can see out of with a display set into the controller.
 The controller can transmit its signal to the drone over a 
 maximum range of 600m before the signal is lost. A DC 70 
-spotting skill check can identify it for what it truly is.
+spotting skill check can identify it for what it truly is.The drone
+can be hijacked with a DC 85 hacking skill check, and can be made to
+move regardless of controller input as well as showing the visual
+feed to the hacker.
 
-Shovel ($90):
+Shovel ($70):
 	A hand tool with a broad blade typically used for digging, 
 lifting and moving bulk material such as soil, ore, snow and sand.
 
-Vibroshovel ($140):
+Vibroshovel ($130):
 	A shovel built with a compacted ultrasonic oscillation
 generator in the handle. When activated, the generator causes the
 blade of the shovel to vibrate at a fast speed. This decreases
-the time it can take to excavate material by half the normal rate. 
+the time it can take to excavate material to half the normal rate.
 
 Comfy Bed Roll ($55):
     An insulated and padded bedroll. Great for missions which last more than a
