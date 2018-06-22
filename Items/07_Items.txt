@@ -205,15 +205,15 @@ Road Flare ($15):
 light for 5m in every direction for about an hour. Burns in rain, mud, even 
 burns underwater. Don't touch the end or you'll take 10 fire damage.
 
-Datapad (130$):
+Datapad ($130):
 	A handheld device with a screen and keypad. Used to record
 information up to 1TB. 
 
-Binoculars (90$):
+Binoculars ($90):
 	A bifocal optical instrument with a lens for each eye, 
 used for viewing distant objects up to 2km. 
 
-Industrial Paint (35$):
+Industrial Paint ($35):
 	A metal canister of wear-resistant paint. Can be used 
 with a brush or similar implement to cover up to 20 square meters of
 flooring, wall or other surface. Paint comes in the following colors:
@@ -228,40 +228,40 @@ flooring, wall or other surface. Paint comes in the following colors:
 * Purple
 * Brown
 
-Adhesive Foam (45$):
+Adhesive Foam ($45):
 	A spray can with a nozzle on the end that sprays a chemical
 solution in either an area or a thin line. As the solution dries, 
 it expands and hardens to accomodate the space given. Can be used
 to insulate an area, temporarily patch up a damaged wall, 
 seal ducts, etc. One can has 20 cubic meter's worth of foam.
 
-Solvent (45$):
+Solvent ($45):
 	A spray can with a nozzle on the end that sprays a chemical
 solution in an area. When this solution comes into contact with
 adhesive foam or similar substances, they will dissolve into a vapor.
 One can has 20 cubic meter's worth of solvent.
 
-Basic Storage Crate (125$):
+Basic Storage Crate ($125):
 	A 1mx0.5mx0.5m metal crate secured with an electronic keypad. 
 Can hold up to 150lbs. The keypad can be opened with either the correct 
 numeric password, a DC 85 Strength skill check or with a DC 75 hacking 
 skill check.
 
-Large Storage Crate (600$):
+Large Storage Crate ($600):
 	A 2mx1.5mx1.5m reinforced storage crate designed to carry heavy 
 cargo. Can hold up to 600lbs. The keypad can be opened with either the 
 correct numeric password, a DC 105 Strength skill check or with a DC 95 
 hacking skill check.
 
-Canteen (40$):
+Canteen ($40):
 	A metal canteen with a twist cap attached by a small chain.
 Comes with a detachable clip to hang it off a belt or harness.
 
-Firestarter Kit (95$):
+Firestarter Kit ($95):
 	A set of flint, steel, matches and sealed hexamine fuel
 tablets in a waterproof container. Can be used to light a fire.
 
-False Fauna (230$):
+False Fauna ($230):
 	A remote-controlled drone designed to appear and sound 
 like a small animal. The drone is equipped with a camera that the 
 operator can see out of with a display set into the controller.
@@ -269,11 +269,11 @@ The controller can transmit its signal to the drone over a
 maximum range of 600m before the signal is lost. A DC 70 
 spotting skill check can identify it for what it truly is.
 
-Shovel (90$):
+Shovel ($90):
 	A hand tool with a broad blade typically used for digging, 
 lifting and moving bulk material such as soil, ore, snow and sand.
 
-Vibroshovel (140$):
+Vibroshovel ($140):
 	A shovel built with a compacted ultrasonic oscillation
 generator in the handle. When activated, the generator causes the
 blade of the shovel to vibrate at a fast speed. This decreases
