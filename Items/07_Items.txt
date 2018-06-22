@@ -216,7 +216,7 @@ used for viewing distant objects up to 2km.
 Industrial Paint (35$):
 	A metal canister of wear-resistant paint. Can be used 
 with a brush or similar implement to cover up to 20 square meters of
-flooring, wall or other surface. Paint comes in the following colors.
+flooring, wall or other surface. Paint comes in the following colors:
 
 * Black
 * White
@@ -233,25 +233,25 @@ Adhesive Foam (45$):
 solution in either an area or a thin line. As the solution dries, 
 it expands and hardens to accomodate the space given. Can be used
 to insulate an area, temporarily patch up a damaged wall, 
-seal ducts, etc. One can has 20 square meter's worth of usage.
+seal ducts, etc. One can has 20 cubic meter's worth of foam.
 
 Solvent (45$):
 	A spray can with a nozzle on the end that sprays a chemical
 solution in an area. When this solution comes into contact with
 adhesive foam or similar substances, they will dissolve into a vapor.
-One can has 20 square meter's worth of usage.
+One can has 20 cubic meter's worth of solvent.
 
 Basic Storage Crate (125$):
-	A metal crate secured with an electronic keypad. Can hold
-up to 150lbs. The keypad can be opened with either the correct numeric
-password, a DC 85 Strength skill check or with a DC 75 hacking 
+	A 1mx0.5mx0.5m metal crate secured with an electronic keypad. 
+Can hold up to 150lbs. The keypad can be opened with either the correct 
+numeric password, a DC 85 Strength skill check or with a DC 75 hacking 
 skill check.
 
 Large Storage Crate (600$):
-	A reinforced storage crate designed to carry heavy cargo. Can
-hold up to 600lbs. The keypad can be opened with either the correct 
-numeric password, a DC 105 Strength skill check or with a DC 95 hacking 
-skill check.
+	A 2mx1.5mx1.5m reinforced storage crate designed to carry heavy 
+cargo. Can hold up to 600lbs. The keypad can be opened with either the 
+correct numeric password, a DC 105 Strength skill check or with a DC 95 
+hacking skill check.
 
 Canteen (40$):
 	A metal canteen with a twist cap attached by a small chain.
@@ -276,8 +276,8 @@ lifting and moving bulk material such as soil, ore, snow and sand.
 Vibroshovel (140$):
 	A shovel built with a compacted ultrasonic oscillation
 generator in the handle. When activated, the generator causes the
-blade of the shovel to vibrate at a fast speed. This increases
-the rate it can excavate material by a considerable degree. 
+blade of the shovel to vibrate at a fast speed. This decreases
+the time it can take to excavate material by half the normal rate. 
 
 Comfy Bed Roll ($55):
     An insulated and padded bedroll. Great for missions which last more than a
