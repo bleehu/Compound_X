@@ -11,10 +11,10 @@ attack. Each "Player turn" lasts 4-6 seconds, and consists of 4 "Actions"
 
 
 	At any time when using a melee or ranged weapon, you have a minimum of -2 
-weapon miss chance, and a minimum of 1 Auto or Burst miss chance (if relevant). 
-These minimums apply after all PER/DEX/STR/Attachment modifiers, at all ranges, 
-and before cover and any other environmental effects. Using an ability could 
-push you below the minimum miss chance.
+weapon miss chance, and a minimum of +1 miss chance modifier from automatic or 
+burst fire modes (if relevant). These minimums apply after all PER/DEX/STR/Attachment 
+modifiers, at all ranges, and before cover and any other environmental effects. 
+Using an ability could push you below the minimum miss chance.
 
 ===== Melee Combat =====
 
