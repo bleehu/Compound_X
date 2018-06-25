@@ -267,10 +267,10 @@ like a small animal. The drone is equipped with a camera that the
 operator can see out of with a display set into the controller.
 The controller can transmit its signal to the drone over a 
 maximum range of 600m before the signal is lost. A DC 70 
-spotting skill check can identify it for what it truly is.The drone
-can be hijacked with a DC 85 hacking skill check, and can be made to
-move regardless of controller input as well as showing the visual
-feed to the hacker.
+spotting skill check can identify it for what it truly is. A
+DC 70 hacking skill check can relay the visual feed to the 
+hacker's display while a DC 90 hacking skill check will hijack
+the device entirely.
 
 Shovel ($70):
 	A hand tool with a broad blade typically used for digging, 
