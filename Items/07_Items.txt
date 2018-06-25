@@ -268,7 +268,7 @@ operator can see out of with a display set into the controller.
 The controller can transmit its signal to the drone over a 
 maximum range of 600m before the signal is lost. A DC 70 
 spotting skill check can identify it for what it truly is. A
-DC 70 hacking skill check can relay the visual feed to the 
+DC 60 hacking skill check can relay the visual feed to the 
 hacker's display while a DC 90 hacking skill check will hijack
 the device entirely.
 
