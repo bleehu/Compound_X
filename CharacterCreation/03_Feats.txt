@@ -722,8 +722,8 @@ Melee Expertise effectively has no prerequisite.
 	by 10 when dual-wielding pistols.
 36:	+1 to Accuracy rolls at all ranges.
 48:	+10m to range R3.
-60:	+10% Base damage. If you succeed on an Accuracy roll by at least 3 or 
-	extra-crit, treat the enemy's armor as having APL 0 for that attack.
+60:	+10% Base damage. If you succeed on an Accuracy roll by at least 3 or score 
+	an Extra-Critical, treat the enemy's armor as having APL 0 for that attack.
 
 == Submachine Gun Expertise ==
 
@@ -759,17 +759,16 @@ Melee Expertise effectively has no prerequisite.
 
 0:	+10m to range R2. If this would cause R2 to be greater than R3, 
 	also increase R3 to match the new R2.
-
 12:	May use Weapons - Carbine (Dex) in place of Acrobatics on checks to maintain 
-	balance and negate combat penalties associated with a vehicle or mount 
-	you are on board.
-24:	+25 Weapon Reflex while onboard a vehicle or mount and for 3 rounds 
+	balance and negate combat penalties associated with a moving vehicle or mount 
+	that you are on board.
+24:	+25 Weapon Reflex while onboard a moving vehicle or mount and for 3 rounds 
 	after disembarking. +10 Weapon Reflex at other times.
 36:	+1 Accuracy to ranges R1 and R2 while firing while benefiting from cover 
 	of any kind against your target.
 48:	+10m to range R1, +5m to range R3
 60:	+10% Base damage. For up to one Action per round you may fire your carbine one-handed with  
-	a -2 Accuracy penalty and double any automatic fire Accuracy penalty. Any foregrips or 
+	a -2 Accuracy penalty and double any burst or automatic fire Accuracy penalty. Any foregrips or 
 	other attachments requiring the second hand do not provide their benefits during the 
 	Action, but your offhand is free to do something else. If you have taken aim at a target, 
 	you must succeed on a DC 100 Weapons - Carbine check to maintain that aim during and 
@@ -786,9 +785,8 @@ Melee Expertise effectively has no prerequisite.
 	down, may be zero) of your assault/battle rifle for the first 3 
 	rounds of its use per combat, once per short rest (i.e. maintenance 
 	& cleaning oportunity).
-36:	+1 Accuracy while firing in burst mode and +2 Accuracy while 
-	firing in automatic mode while benefiting from any kind of cover 
-	against your target.
+36:	+1 Accuracy while both you and your target are benefiting from 
+	cover bonuses against each other.
 48:	+5m to range R1, +10m to range R3.
 60:	+10% Base damage; You may critically hit as normal while firing in 
 	burst mode, and may critically hit with half your normal critical 
@@ -815,15 +813,16 @@ Melee Expertise effectively has no prerequisite.
 0:	+5m to range R2. If this would cause R2 to be greater than R3, 
 	also increase R3 to match the new R2.
 12:	May use Weapons - Heavy (Cha) in place of Intimidate when out 
-	of combat whie brandishing a bigger weapon than the target.
+	of combat while brandishing a bigger weapon than the target.
 24:	Heavy weapons no longer recieve the Accuracy penalty associated 
-	with being improvised melee weapons while being used as melee weapons.
-36:	+1 Accuracy against targets that are within 2m of at least one 
-	other enemy.
+	with being improvised melee weapons while being used as melee weapons
+	(They still receive a Guard penalty).
+36:	+1 Accuracy against targets when your weapon's APL is at least 1 greater 
+	than the target's armor's APL.
 48:	+10m to Range R3.
 60:	Machine Guns when autofiring, Flamethrowers, Lightning Guns, Antimaterial 
 	Guns firing explosive shot, etc. can be fired at 1m radius areas instead 
-	of a particular target, hitting all characters in the area automatically 
+	of a particular target, hitting every possible target in the area automatically 
 	unless they succeed on a Reflex save with DC equal to your weapon accuracy 
 	minus applicable cover bonuses, multiplied by 10. Autofire weapons can only 
 	hit as many targets as they fire bullets.
@@ -840,7 +839,7 @@ other weapons or class abilities. Does apply to Engineer mortars.
 	structural integrity/weaknesses of mechanical systems, such as structures, 
 	vehicles, or robots.
 24:	Reduce the critical failure chance for cooking hand grenades and setting 
-	anti-tamper explosives addons to 2%.
+	anti-tamper explosives add-ons to 2%.
 36:	Reduce Accuracy penalties for indirect fire by 2.
 48:	+5m to range R1. If this would cause R1 to be greater than R2, 
 	also set R2 equal to the new R1.
@@ -849,25 +848,25 @@ other weapons or class abilities. Does apply to Engineer mortars.
 
 == Melee Expertise ==
 
-	Applies to Melee Weapons that the user has Proficiency with and Unarmed Strike. 
+	Applies to Melee Weapons that the user has Proficiency with and to Unarmed Strike. 
 Does not apply to Improvised weapons. Reminder: these bonuses are only in effect while 
 you are wielding an appropriate weapon.
 
 0:	+1 Move Speed while using the Charge action with intent to engage an enemy in 
 	Melee Combat.
 12:	May use Weapons - Melee (Str/Dex) in place of Acrobatics or Athletics on 
-	maneuver checks to avoid, gain control of, or escape a Grapple; defend against 
-	Disarm attempts; or defend against Trip attempts.
+	maneuver checks to defend against Grapple, Disarm, or Trip attempts, or to gain 
+	control of or escape an ongoing Grappled state.
 24:	While wielding a Light or One-handed non-Hybrid weapon, whenever an enemy attacks 
 	you in Melee Combat and ties your Guard, you may make a melee attack against that 
 	enemy as a Reaction. 
-	While wielding a Hybrid or Two-handed weapon, you may choose to gain +2 to melee 
-	Accuracy checks for one round, but if you do then until the start of your next 
-	turn you take -2 to Guard checks.
-	If dual-wielding a Hybrid and Light or One-handed weapon, you may only use one 
-	of these effects per round, but may choose which.
-36:	+1 Accuracy when engaging a target wielding a melee weapon (unarmed counts).
-48:	+1 Guard when engaging a target wielding a melee weapon (unarmed counts).
+	While wielding a Hybrid or Two-handed weapon, at the start of each of your turns 
+	you may choose to gain +2 to melee Accuracy checks and take -2 to Guard checks 
+	until the start of your next turn. 
+	If dual-wielding a Hybrid weapon and a Light or One-handed weapon, you may only 
+	use one of these effects in a given round, but may choose which.
+36:	+1 Accuracy while engaging a target wielding a melee weapon (including unarmed targets).
+48:	+1 Guard while engaging a target wielding a melee weapon (including unarmed targets).
 60:	+10% Base damage. Gain +0.5 Critical Hit range whenever you hit an enemy but
 	do not score a Critical Hit. This bonus resets if you score a Critical Hit, 
 	are stunned, or spend 1 round out of Melee Combat.
