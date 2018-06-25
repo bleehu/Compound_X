@@ -154,9 +154,9 @@ though no Skill check applies to these attacks and blocks.
 Hacker terminal, and similar devices.
 
 Hitting What You Intend:
-	If you roll 3+ above your miss chance (3+ above the opponent's Guard), 
-you ignore the opponent's armor and deal full damage directly to health.
-
+	If you roll 3 or more above your target's Guard, you may ignore any 
+armor worn by the target and damage health directly.
+	
 Blunt Force:
 	Unless otherwise specified, melee weapons have an APL of 0, which 
 for most weapons would mean they do no damage if they hit armor. Instead, 
