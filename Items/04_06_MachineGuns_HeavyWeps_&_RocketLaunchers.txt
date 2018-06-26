@@ -239,8 +239,8 @@ Movement Speed Penalty: -1m
 
 	Ammo cost is 1/2 the cost of the respective grenade. Considered a secondary 
 weapon. Requires an Explosives skill of at least 12 to use. All 40mm grenades
-explode on impact (DC 100% PER or LUCK check to dodge or take reduced damage) and
-have a -1m max explosion radius, unless otherwise stated. 2 Action reload.
+explode on impact and have a -1m max explosion radius, unless otherwise stated. 2
+Action reload.
 
 	Ranged Miss Chance 
 
