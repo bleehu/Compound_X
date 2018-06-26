@@ -22,10 +22,10 @@ ballistic armor is hit with a laser, they receive damage as if they weren't
 wearing any armor.
 
 Explosives:
-    Certain grenades and devices have Explosive (concussive) damage. Explosive 
-Damage ignores armor and shields (explosive damage is essentially, a crushing 
-force). Fragmentation grenades are considered ballistic weapons, as their 
-primary damage delivery method is shrapnel. 
+    Certain grenades and devices have Explosive damage, which ignores armor and 
+shields (explosive damage is essentially a crushing force). Though they may seem 
+like explosive weapons, fragmentation grenades deal ballistic damage because their 
+primary damage delivery method is shrapnel.
 
 Electric Damage:
     Some damage is delivered to characters with a high current and voltage. This
