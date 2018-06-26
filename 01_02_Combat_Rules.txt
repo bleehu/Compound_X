@@ -6,8 +6,8 @@ Combat
 	Combat starts when either you or an enemy decides they would like to make an 
 attack (or as the GM decrees). At that point, all involved characters roll 
 Initiative to determine the order in which they take turns. Initiative is a d100 roll 
-that is modified only by Soldier class passive abilities. The section "Actions", 
-below, has more detail on turns in combat.
+that is modified only by Soldier class passive abilities, and higher numbers go 
+first. The section "Actions", below, has more detail on turns in combat.
 
 ===== Combat Stat Modifiers for Ranged and Melee Accuracy =====
 
@@ -385,20 +385,32 @@ Performing a Skill Check (other than Getting Bearings): 1 Action
 Conversing With Partners: Free Action
 Getting Your Bearings / Non Skill-Based Perception: Free Action
 
+Free Actions:
+	Free Actions refer to tasks that take miniscule amounts of time, even
+in pitched combat, like looking around, speaking briefly, or reflexively 
+shutting your eyes after being treated to a flash-bang. Aside from your 
+GM's patience and willingness to believe your character can do everything you 
+want in a negligible timescale, there is no limit to the number of Free Actions 
+a character may take, and they may be used at any time.
+
 ===== Reactions & Held Actions =====
 
-	Certain abilities or circumstances will allow you to take a special action 
-in response to a triggering event. A reaction occurs at the immediate moment 
-that it is triggered, whether it is your turn or not. The most common reaction 
-you will encounter will be from Suppression (described in "Ranged Combat", 
-below) or Opportunity Attacks (described in "Melee Combat", above). After the 
-reaction occurs, play continues as normal (if it is an opponents turn, they 
-continue their turn). 
+Reactions:
+	Certain abilities or circumstances will allow you do something 
+in response to a triggering event. Doing so requires using a special kind 
+of Action called a Reaction. Reactions occur at the immediate moment 
+that they are triggered, regardless of whose turn it is. Common uses of 
+Reactions include Opportunity Attacks (described in "Melee Combat", above) 
+and Held Actions, below. After the Reaction occurs, play continues as normal. 
+If it was an opponent's turn, they continue their turn. 
+
+	A character may only use one Reaction per turn, regardless of how 
+many viable trigger circumstances occur.
 
 Held Actions:
-	A type of reaction. A player may choose to forgo using up to 2 actions at 
+	A type of Reaction. A player may choose to forgo using up to 2 actions at 
 the end of their turn. The player must declare to their DM what those actions 
-are to be triggered by then play continues as normal. If the trigger occurs 
+are to be triggered by, and then play continues as normal. If the trigger occurs 
 before the player's next turn, the player gets to immediately use their 1 or 2 
 actions. If the trigger does not occur before the player's turn, they lose their
 held action(s) and start their turn as normal. 
