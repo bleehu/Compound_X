@@ -361,12 +361,8 @@ Ability and 6m of movement speed penalties, you end up with no movement speed
 penalties.
 
 Skill Point Gain:
-	Determines wow many skill points you gain every level. Every time you level up, you 
-gain skill points according to your "Skill Point Gain". You may gain a maximum of
-60 skill points in a single skill. In addition, each time you level up, you may gain a
-maximum of 6 points in any one skill by using your Skill Point Gain. Skill gained from
-Feats and Class passives counts towards the maximum of 60 points per skill, but not
-towards the maximum skill increase per level.
+	Determines how many skill points you gain every level. Every time you level up, you 
+gain skill points equal to double your "Skill Point Gain".
 
 ===== Nanites =====
 
@@ -424,6 +420,19 @@ with a list of Armor Proficiencies. Just like Weapon Proficiencies, if your
 class has a Proficiency with a given armor type then they can purchase or wear
 that armor type in combat. If your character doesn't have that proficiency, then
 they can't.
+
+===== Assigning Skills to a Character =====
+
+	Characters gain points in a wide variety of skills to represent their experience
+and expertise in different fields and activities. Every time your character levels up,
+they gain skill points equal to double your Skill Point Gain. Assign each skill point to
+a skill as you see fit; see CharacterCreation/06_Skills for details about skills and for
+a list of commonly-used skills in Compound X. At level 1, your character will have two
+times their Skill Point Gain to assign at will. You may gain a maximum of 60 skill
+points in a single skill. In addition, each time you level up, you may gain a maximum of
+6 points in any one skill by using your Skill Point Gain. Skill gained from Feats, Class
+passives, Species traits and Background bonuses counts towards the maximum of 60 points
+per skill, but not towards the maximum skill increase per level.
 
 ==============================
 Saving Throws
