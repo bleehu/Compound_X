@@ -117,11 +117,9 @@ Range: 2m
 Accuracy Modifier: +0
 STR Requirement: 6
 
-	Considered concussive (explosive) damage. Hits armor points 
-before physical damage if the target's armor has defense against explosive (i.e. 
-concussive) damage. If armor roll is greater than 50, target rolls a DC 50 
+	If armor roll is greater than 50, target rolls a DC 50 
 fort save for a broken limb of your choice. -20 stealth rolls for being quiet 
-on stealth attacks. Reduces door-breaking DC by 30 per hit.
+on stealth attacks. Reduces break DCs of doors by 30 per hit.
 
 == Eliazar E5500 Power Fist $880 ==
 
@@ -131,11 +129,10 @@ Range: Adjacent (1m)
 Accuracy Modifier: +1
 STR Requirement: 5
 
-	Considered concussive (explosive) damage. Hits armor points before physical 
-damage if the target has defense against explosive (i.e. concussive) damage. If 
-armor roll is less than 50%, target rolls a DC 50% fort save for a being stunned 
-for 1 turn. -30% stealth rolls for being quiet on stealth attacks. Reduces 
-door-breaking DC by 45% per hit. This weapon has a Guard modifier of 0.
+	If armor roll is less than 50, target must pass a DC 50 fort save 
+or be stunned for 1 turn. -30 stealth rolls for being quiet on stealth 
+attacks. Reduces door-breaking DC by 45 per hit. This weapon has a 
+Guard modifier of 0.
 
 == Muzashi VAE Katana $1354 ==
 
@@ -169,7 +166,7 @@ THROWN WEAPONS
 
 == Gurber Throwing Knife $80 ==
 
-Damage: 15 + STR + DEX + [Thrown Weapon Skill]/2 + 1xBleed
+Damage: 15 + STR + DEX + 1xBleed
 Size: Light
 DEX Requirement: 5
 AP Level: 2
@@ -185,7 +182,7 @@ AP Level: 2
 
 == EAL Tactical Throwing Axe $160 ==
 
-Damage: 25 + 3*STR + DEX + [Thrown Weapon Skill]/2 + 1xBleed
+Damage: 25 + 3*STR + DEX + 1xBleed
 Size: Light
 STR Requirement: 5
 AP Level: 3
@@ -202,7 +199,7 @@ Secondary Ammo Slot.
 
 == Carbide Kunai $120 ==
 
-Damage: 25 + STR + DEX + [Thrown Weapon Skill]/2 + 1xBleed
+Damage: 25 + STR + DEX + 1xBleed
 Size: Light
 DEX Requirement: 6
 AP Level: 4
@@ -217,7 +214,7 @@ When thrown, +30% to stealth rolls to hide the attack.
 
 == Plasma Catalyst Kunai $160 ==
 
-Damage: 10 + STR + DEX + [Thrown Weapon Skill]/2 + 3xPlasma Burn
+Damage: 10 + STR + DEX + 3xPlasma Burn
 Size: Light
 DEX Requirement: 6
 AP Level: 5
