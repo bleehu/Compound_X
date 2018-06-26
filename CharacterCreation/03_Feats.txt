@@ -246,6 +246,13 @@ Prerequisites:
 ranged weapons. In taking this feat you sacrifice the ability to use PER on 
 rolls dealing with using a weapon.
 
+== Improvisational Brawler ==
+Prerequisites:
+*  Melee Expertise
+
+	The benefits of the Melee Expertise feat now also apply to Improvised Melee 
+Weapons.
+
 == Improvise Weapon ==
 Prerequisites:
 
@@ -689,113 +696,183 @@ now working with. This feat can only be taken once per weapon.
 
 
 ==============================
-Weapon Skill Trees:					
+Weapon Expertise Feats:					
 ==============================
 		
-	All Weapon Skill Tree Feats require 1 Feat to unlock the specific 
-proficiency skill @ 10, then apply skill points to unlock the rest of the 
-bonuses. Max skill is 40. Bonuses ONLY APPLY to weapons in their respective 
-weapon class. All Weapon Skill Tree Feats do not have a prerequisite other than
-having Proficiency with the weapon type in question.
-
-== Proficient: Pistols ==
-	Skill @	
-
-10:	Pistol Proficient. +5m to ranges R1 & R2			
-15:	-10% reload miss chance			
-20:	+10% stealth when firing pistols			
-25:	Pistol Expert. -0.5 miss chance @ all ranges			
-30:	+10m to range R3				
-40:	Pistol Master. +20% Base damage; Gain feat "Pistol Quickdraw"
-		(which is feat "Quickdraw"  that is only usable with pistols)			
-		*If you have feat "Quickdraw" in addition to "Pistol Quickdraw",
-		negate the action to aim when drawing your pistol(s). When holstering
-		your pistols after drawing, you must use an action to holster.
-
-== Proficient: Submachine Guns ==
-	Skill @			
-
-10:	SMG Proficient. +5m to all range brackets		
-15:	-10% reload miss chance			
-20:	+5 Gun Reflex		
-25:	SMG Expert. -0.5 miss chance @ all ranges			
-30:	-0.5 miss chance when firing in fully-automatic or burst			
-40:	SMG Master. +10% Base damage; Gain feat "The Split": when firing automatic 
-		or burst, you can choose to pay 5 Nanites and fire half your bullets
-		at two different targets in front of you, within 10m of each other.
-
-== Proficient: Shotguns	==
-	Skill @			
-
-10:	Shotgun Proficient. +10m to range R3	
-15:	-15% reload miss chance			
-20:	+5 Gun Reflex				
-25:	Shotgun Expert. -0.5 miss chance @ all ranges			
-30:	+10% perception checks for awareness within 25m.			
-40:	Shotgun Master. +10% Base damage; Gain Active feat "I'm Used to Close Range": If you 
-		hit an enemy with buckshot, you can pay 10 Nanites for that attack action to miss
-		or hit armor (your choice) if the target has less than 100% armor coverage.			
-
-== Proficient: Carbines	==
-	Skill @			
-
-10:	Carbine Proficient. +5m to range R1, +10m to R2 & R3		
-15:	-10% reload miss chance			
-20:	+5 Gun Reflex		
-25:	Carbine Expert. -0.5 miss chance @ all ranges			
-30:	You can choose to have +5% chance to miss armor when in single fire mode (doesn't apply to 100% coverage armor)	
-40:	Carbine Master. +10% Base damage; Gain feat "Make it count": When in single
-		fire mode, +1 critical hit range (+10% chance to land a Critical hit).
-
-== Proficient: Automatic Rifles ==
-	Skill @		
-
-10:	Automatic Rifle Proficient. +5m to range R1, +10m to R2 & R3 
-15:	-10% reload miss chance			
-20:	Automatic Rifles no longer jam			
-25:	Automatic Rifle Expert. -0.5 miss chance @ all ranges			
-30:	-0.5 miss chance when firing in fully-automatic or burst			
-40:	Automatic Rifle Master. +10% Base damage; Gain feat "Offensive Expert": Spend
-		10 Nanites to gain -2 miss chance for a fully-automatic firing action, 
-		usable once per turn. This ability can let you exceed the minimum 1 miss
-		chance for automatic firing.
-
-== Proficient: Long Rifles ==
-	Skill @		
-
-10:	Long Rifle Proficient. -5m to minimum range, +10% meters to R2 & R3		
-15:	-10% reload miss chance			
-20:	+10% to perception checks to spot enemies beyond your long rifle's R2 range			
-25:	Long Rifle Expert. -0.5 miss chance @ all ranges			
-30:	Gain feat "Beware the Wrath of a Patient Man": shots fired as a held reaction have a -1 miss chance.			
-40:	Long Rifle Master. +10% Base damage; Gain feat "Practiced Precision": DC 75% dexterity or sniper skill
-		check to negate the action for changing your aim from one target to another in front of you 
-		(1 successful negation per turn).			
+	These feats represent dedicated training with a particular class of weapon, 
+and offer bonuses based on the relevant Weapons skill (Weapon skills are listed 
+in "06_Skills.txt"). Each feat offers a set of bonuses related to using that type of 
+weapon (and only that type of weapon), and each bonus requires the character to have 
+a number of points in the relevant Weapon skill. A character with 0 points in 
+Weapons - Pistols would gain only one benefit, while 60 points would benefit from 
+them all. The feats are formatted as a list of "X: Benefit", where X is the number of 
+points required in the corresponding Weapon skill to gain the benefit.
 	
-== Proficient: Heavy Weapons ==
-	Skill @
+	Weapon Expertise feats require proficiency with the weapon type, but otherwise 
+have no prerequisites. Note that as all characters are proficient with Unarmed Strike, 
+Melee Expertise effectively has no prerequisite.
 
-10:	Heavy Weapon Proficient. +5m to range R2 & R3	
-15:	-10% reload miss chance			
-20:	+1m radius to your Suppression Area of Effect			
-25:	Heavy Weapon Expert. -0.5 miss chance @ all ranges			
-30:	Heavy Weapons no longer jam			
-40:	Heavy Weapon Master. +10% Base damage; Gain feat "Effective Fire": when a
-		target is suppressed by your heavy weapon, they must make a DC 62% 
-		Shock save. On failure, they lose two actions at the start of their 
-		next turn.			
+== Pistol Expertise ==	
 
-== Proficient: Explosives ==
-	Skill @	
+0:	+5m to ranges R1 & R2. If this would cause R2 to be greater than R3, 
+	also set R3 equal to the new R2.
+12:	May use Weapons - Pistol (Int) in place of Stealth for checks made to prevent 
+	enemies from noticing your Pistol fire.
+24:	Reduce the Reload check penalty imposed by the Dual-Wield / Akimbo feats 
+	by 10 when dual-wielding pistols.
+36:	+1 to Accuracy rolls at all ranges.
+48:	+10m to range R3.
+60:	+10% Base damage. If you succeed on an Accuracy roll by at least 3 or score 
+	an Extra-Critical, treat the enemy's armor as having APL 0 for that attack.
 
-10:	Explosives Proficient. +10% explosives use			
-15:	-10% reload miss chance (grenade launchers, rocket launchers, etc.)			
-20:	+5m to all range brackets for explosive launchers (grenade launchers, etc.)			
-25:	Explosives Expert. -0.5 miss chance @ all ranges (grenades, rocket launchers, etc.)			
-30:	+10% to charisma rolls for intimidation when holding any explosive/launcher			
-40:	Explosives Master. +15% Base damage, Gain feat "Get Down!": Allies in blast radius 
-		may make a DC 60 Reflex save to take half damage (before armor) from friendly fire.			
-		
+== Submachine Gun Expertise ==
+
+0:	+5m to ranges R1 & R2. If this would cause R2 to be greater than R3, 
+	also set R3 equal to the new R2.
+12:	May use Weapons - SMG (Cha) in place of Intimidate for checks to intimidate 
+	a target you are suppressing with an SMG.
+24:	+10 Gun Reflex to one SMG you are wielding.
+36:	+2 to Accuracy rolls at all ranges while firing automatically (not burst).
+48:	+15m to range R3 while firing semi-automatically.
+60:	+10% Base damage. While suppressing an enemy, if you are shot at, after 
+	the first Action of fire you may spend a reaction to duck behind cover 
+	within 5m. This ends your suppression.
+
+== Shotgun Expertise  ==
+
+0:	+5m to range R1. If this would cause R1 to be greater than R2, 
+	also set R2 equal to the new R1.
+12:	May use Weapons - Shotgun (Dex) in place of Acrobatics for checks to execute 
+	a physical maneuver following violent entry of a room.
+24:	If you succeed a reload check by at least 20, reduce the time taken to 
+	reload by one Action, stacking with other reductions (such as from 
+	critical success), to a minimum of one Action.
+36:	Negate the hip-firing Accuracy penalty against enemies within R1 while 
+	firing spreading shot.		
+48:	+10m to range R2. If this would cause R2 to be greater than R3, 
+	also set R3 equal to the new R3.
+60:	+10% Base damage. If you hit armor with a higher APL than your shotgun, 
+	you deal half damage to its AS instead of no damage (and full damage 
+	to health if you deplete the AS).
+
+== Carbine Expertise ==
+
+0:	+10m to range R2. If this would cause R2 to be greater than R3, 
+	also increase R3 to match the new R2.
+12:	May use Weapons - Carbine (Dex) in place of Acrobatics on checks to maintain 
+	balance and negate combat penalties associated with being on board a moving 
+	vehicle or mount.
+24:	+25 Weapon Reflex while onboard a moving vehicle or mount and for 3 rounds 
+	after disembarking. +10 Weapon Reflex at other times.
+36:	+1 Accuracy to ranges R1 and R2 while firing while benefiting from cover 
+	of any kind against your target.
+48:	+10m to range R1, +5m to range R3
+60:	+10% Base damage. For up to one Action per round you may fire your carbine one-handed with  
+	a -2 Accuracy penalty and double any burst or automatic fire Accuracy penalty. Any foregrips or 
+	other attachments requiring the second hand do not provide their benefits during the 
+	Action, but your offhand is free to do something else. If you have taken aim at a target, 
+	you must succeed on a DC 100 Weapons - Carbine check to maintain that aim during and 
+	through the Action.
+
+== Assault/Battle Rifle Expertise ==
+
+0:	+10m to range R2. If this would cause R2 to be greater than R3, 
+	also increase R3 to match the new R2.
+12:	May use Weapons - Assault/Battle Rifle in place of Spotting when 
+	looking through your rifle's scope (warning, takes longer than 
+	wider field-of-view optics).
+24:	Halve the jam chance (applies after additive modifiers, round 
+	down, may be zero) of your assault/battle rifle for the first 3 
+	rounds of its use per combat, once per short rest (i.e. maintenance 
+	& cleaning oportunity).
+36:	+1 Accuracy while both you and your target are benefiting from 
+	cover bonuses against each other.
+48:	+5m to range R1, +10m to range R3.
+60:	+10% Base damage; You may critically hit as normal while firing in 
+	burst mode, and may critically hit with half your normal critical 
+	range while firing in automatic mode.
+
+== Long Rifle Expertise ==
+
+0:	+10% to range R3.
+12:	May use Weapons - Long Rifle (STR) in place of Athletics in order to get to hard-to-reach
+	places, like towers or treetops, that can serve as sniper nests.
+24:	While prone, benefiting from at least light cover, and able to see at least one enemy, 
+	gain an additional +1 cover bonus.
+36:	Gain a stacking +0.5 Accuracy each time you consecutively spend an action shooting a 
+	single target without losing line of sight to it.
+48:	Halve any minimum range associated with your long rifle and attachments, to a max reduction 
+	of 5m.
+60:	+10% Base damage. Increase by 50% any numerical benefits of specialty ammunition you fire 
+	(does not affect Marksman Tech Rounds feats).
+	
+== Heavy Weapon Expertise ==
+
+	Heavy Weapon Expertise does not include Grenade Launchers or Rocket Launchers.
+
+0:	+5m to range R2. If this would cause R2 to be greater than R3, 
+	also increase R3 to match the new R2.
+12:	May use Weapons - Heavy (Cha) in place of Intimidate when out 
+	of combat while brandishing a bigger weapon than the target.
+24:	Heavy weapons no longer recieve the Accuracy penalty associated 
+	with being improvised melee weapons while being used as melee weapons
+	(They still receive a Guard penalty).
+36:	+1 Accuracy against targets when your weapon's APL is at least 1 greater 
+	than the target's armor's APL.
+48:	+10m to Range R3.
+60:	Machine Guns when autofiring, Flamethrowers, Lightning Guns, Antimaterial 
+	Guns firing explosive shot, etc. can be fired at 1m radius areas instead 
+	of a particular target, hitting every possible target in the area automatically 
+	unless they succeed on a Reflex save with DC equal to your weapon accuracy 
+	minus applicable cover bonuses, multiplied by 10. Autofire weapons can only 
+	hit as many targets as they fire bullets.
+
+== Explosives Expertise ==
+
+	Explosives Expertise applies to hand grenades, emplaced explosives, 
+grenade launchers, rocket launchers, and artillery, but not to explosive ammo of 
+other weapons or class abilities. Does apply to Engineer mortars.
+
+0:	+10m to range R2. If this would cause R2 to be greater than R3, 
+	also increase R3 to match the new R2.
+12:	May use Weapons - Explosives (Int) in place of Knowledge checks when analyzing 
+	structural integrity/weaknesses of mechanical systems, such as structures, 
+	vehicles, or robots.
+24:	Reduce the critical failure chance for cooking hand grenades and setting 
+	anti-tamper explosives add-ons to 2%.
+36:	Reduce Accuracy penalties for indirect fire by 2.
+48:	+5m to range R1. If this would cause R1 to be greater than R2, 
+	also set R2 equal to the new R1.
+60:	+10% Base damage. Other characters make Shock, Reflex, and Will saves associated 
+	with your explosives with Disadvantage.
+
+== Melee Expertise ==
+
+	Applies to Melee Weapons that the user has Proficiency with and to Unarmed Strike. 
+Does not apply to Improvised weapons. Reminder: these bonuses are only in effect while 
+you are wielding an appropriate weapon.
+
+0:	+1 Move Speed while using the Charge action with intent to engage an enemy in 
+	Melee Combat.
+12:	May use Weapons - Melee (Str/Dex) in place of Acrobatics or Athletics on 
+	maneuver checks to defend against Grapple, Disarm, or Trip attempts, or to gain 
+	control of or escape an ongoing Grappled state.
+24:	While wielding a Light or One-handed non-Hybrid weapon, whenever an enemy attacks 
+	you in Melee Combat and ties your Guard, you may make a melee attack against that 
+	enemy as a Reaction. 
+	While wielding a Hybrid or Two-handed weapon, at the start of each of your turns 
+	you may choose to gain +2 to melee Accuracy checks and take -2 to Guard checks 
+	until the start of your next turn. 
+	If dual-wielding a Hybrid weapon and a Light or One-handed weapon, you may only 
+	use one of these effects in a given round, but may choose which.
+36:	+1 Accuracy while engaged with a target wielding a melee weapon (including 
+	unarmed targets).
+48:	+1 Guard while engaged with a target wielding a melee weapon (including 
+	unarmed targets).
+60:	+10% Base damage. Gain +0.5 Critical Hit range whenever you hit an enemy but
+	do not score a Critical Hit. This bonus resets if you score a Critical Hit, 
+	are stunned, or spend 1 round out of Melee Combat.
+
 ==============================
 Active Feats
 ==============================
