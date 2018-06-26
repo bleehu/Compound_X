@@ -238,11 +238,9 @@ Suppression Level: n/a
 Movement Speed Penalty: -1m
 
 	Ammo cost is 1/2 the cost of the respective grenade. Considered a secondary 
-weapon. Requires an explosives skill of at least 10 to use. Accuracy only 
-increased by grenade launcher attachments, PER mod, and [explosives skill]/20. 
-All 40mm grenades explode on impact (DC 100% PER or LUCK check to dodge or take 
-reduced damage) and have a -1m max explosion radius, unless otherwise stated. 2 
-Action reload.
+weapon. Requires an Explosives skill of at least 12 to use. All 40mm grenades
+explode on impact (DC 100% PER or LUCK check to dodge or take reduced damage) and
+have a -1m max explosion radius, unless otherwise stated. 2 Action reload.
 
 	Ranged Miss Chance 
 
@@ -367,7 +365,7 @@ Movement Speed Penalty: -3m
 
 	Only requires 1 shot for Medium Suppression. 110 Explosive Damage to the 
 primary target, 70 Explosive Damage to other targets in a 2m radius. Damages 
-vehicles. Each shot into a door reduces the DC of kicking down that door by 65. 
+vehicles. Each shot into a door reduces the Athletics DC of kicking down that door by 65. 
 If the DC becomes 0, the door is blown open. No optics or barrel attachments.
 Autocannon shells are very large compared to bullets and their magazines each
 take up 2 magazine slots in your armor.  
@@ -436,7 +434,7 @@ Reflex Modifier: -35
 Suppression Level: N/a
 Movement Speed Penalty: -1m
 
-	All affected targets roll DC 50 shock to resist stun for 1 turn.
+	All affected targets roll DC 50 Shock save to resist stun for 1 turn.
  
     Ranged Miss Chance
 
