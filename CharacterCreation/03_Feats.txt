@@ -760,8 +760,8 @@ Melee Expertise effectively has no prerequisite.
 0:	+10m to range R2. If this would cause R2 to be greater than R3, 
 	also increase R3 to match the new R2.
 12:	May use Weapons - Carbine (Dex) in place of Acrobatics on checks to maintain 
-	balance and negate combat penalties associated with a moving vehicle or mount 
-	that you are on board.
+	balance and negate combat penalties associated with being on board a moving 
+	vehicle or mount.
 24:	+25 Weapon Reflex while onboard a moving vehicle or mount and for 3 rounds 
 	after disembarking. +10 Weapon Reflex at other times.
 36:	+1 Accuracy to ranges R1 and R2 while firing while benefiting from cover 
@@ -865,8 +865,10 @@ you are wielding an appropriate weapon.
 	until the start of your next turn. 
 	If dual-wielding a Hybrid weapon and a Light or One-handed weapon, you may only 
 	use one of these effects in a given round, but may choose which.
-36:	+1 Accuracy while engaging a target wielding a melee weapon (including unarmed targets).
-48:	+1 Guard while engaging a target wielding a melee weapon (including unarmed targets).
+36:	+1 Accuracy while engaged with a target wielding a melee weapon (including 
+	unarmed targets).
+48:	+1 Guard while engaged with a target wielding a melee weapon (including 
+	unarmed targets).
 60:	+10% Base damage. Gain +0.5 Critical Hit range whenever you hit an enemy but
 	do not score a Critical Hit. This bonus resets if you score a Critical Hit, 
 	are stunned, or spend 1 round out of Melee Combat.
