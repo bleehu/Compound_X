@@ -4,8 +4,10 @@ Combat
 
 
 	Combat starts when either you or an enemy decides they would like to make an 
-attack. Each "Player turn" lasts 4-6 seconds, and consists of 4 "Actions" 
-(described below).
+attack (or as the GM decrees). At that point, all involved characters roll 
+Initiative to determine the order in which they take turns. Initiative is a d100 roll 
+that is modified only by Soldier class passive abilities. The section "Actions", 
+below, has more detail on turns in combat.
 
 ===== Combat Stat Modifiers for Ranged and Melee Accuracy =====
 
