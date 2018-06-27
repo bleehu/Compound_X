@@ -514,6 +514,21 @@ are excluded.
 == ED Electric Discharge Magazine  $2x + 20 magazine cost ==
     1/2 the bullet's base damage is converted to electrical damage.
 
+== Overcharge Laser Capacitors $(1.5 x mag cost) ==
+
+    Most common laser weapons have after-market ammunition batteries available
+that exceed the recommended voltage for compatibility with that gun. The result
+is a weapon system that imparts more damage through a higher intensity laser, at
+the cost of running the risk of overheating the emitter manifold and causing the
+weapon to "jam." Or in the worst case scenario, to overload even those safety
+measures and to cause the weapon to slag, rendering the weapon inoperable and 
+potentially physically burning the user. This attachment is only usable with
+lasers.
+
+Cost: $1.5 x normal mag
+Damage: +15%
+Jam Range: + 2 on second roll
+
 == Poison Bullet Magazine  $2x + 50 magazine cost ==
     Your bullet's new damage = 0.9x bullet base damage + stackable poison 
 effect based on base bullet damage (before base damage reduction): 
@@ -604,11 +619,12 @@ or circuitry. Unfortunately, the density of nanoweaponry precludes powerful
 locomotive capability. So they only really deal the extra damage if you put the 
 round where it's gonna hurt.
 
-    Vorpal rounds deal an extra 10% of normal weapon damage on critical hit and
-20% damage on extra-crits. For example, if your gun deals 80 damage normally,
-and you roll a crit when using Vorpal rounds, your gun deals 80 + 10 (for crit)
-+ 8 (Vorpal damage) = 98. If you scored an extra-crit with the same weapon, 
-you'd do 80 + 20 (extra crit damage) + 16 = 116 damage. 
+    Vorpal rounds deal an extra 10% of normal weapon damage on Critical Hit and
+an extra 30% for Extra Critical Hits. For
+example, if your gun deals 80 damage normally, and you roll a critical hit when 
+using Vorpal rounds, your gun deals 80 + 20 (for Critical) + 8 (Vorpal damage) = 108.
+If your roll an Extra Critical Hit, you would deal 80 +  30(for Extra Critical) 
++ 24 (Vorpal Damage) = 134 damage.
 
 ==============================
 Total Conversions
