@@ -1,0 +1,220 @@
+==============================
+RANGED WEAPONS
+==============================
+    Outside a weapon's longest range, you cannot hit your target. Also, weapons 
+cannot shoot over 100m without magnifying sights, or over 150m without 2x+
+magnification.
+
+
+==============================
+LONG RIFLES and DESIGNATED MARSKMAN RIFLES (DMRs)
+==============================
+    The kings of rifles, long rifles are the longest ranged and hardest hitting 
+rifles available. On all engagements farther than 200m, you must take 2 Actions 
+to adjust your scope for windage and elevation between targets of differing 
+distance.							
+
+	Minimum 5 Strength. Bolt Action: take 1 action to fire, 1 action to chamber 
+a new round. Reload time 3 Actions.		
+
+	All Long Rifles/DMRs have "Suppression Level - light" (unless otherwise 
+noted).
+
+=====	LEVEL 1 REQUIREMENT WEAPONS	=====
+
+== Anvil Arms SR-150	$1559	==
+Damage:	115 Ballistic
+Mag Size:		5 rounds of 7.65x54mm. $10 per magazine
+Reload DC:		35
+Fire Modes:		Bolt Action
+Armor Piercing Level:	3	
+Reflex Modifier:	-25	
+Movement Speed Penalty:	-1m	
+
+	Starts with 'Basic 2x Scope attached': +10m minimum range
+
++---------+-----+------+------+
+| Range   | 20m | 100m | 170m |
++---------+-----+------+------+
+| To Miss |  3  |   4  |   5  |
++---------+-----+------+------+
+		
+== ECSC Mk12 Mod 0 	$2159	==
+Damage:	105 Ballistic
+Mag Size:		20 rounds of 5.77x55mm. $53 per magazine
+Reload DC:		29
+Fire Modes:		Semi
+Armor Piercing Level:	2	
+Reflex Modifier:	-15	
+Suppression Level:	Medium	
+Movement Speed Penalty:	-0.5m	
+
+	Starts with 'Basic 2x Scope attached': +10m minimum range
+
++---------+-----+------+------+
+| Range   | 20m |  65m | 110m |
++---------+-----+------+------+
+| To Miss |  3  |   4  |   5  |
++---------+-----+------+------+
+
+=====	LEVEL 5 REQUIREMENT WEAPONS	=====
+
+== ECSC Mk25 DMR	$2877	==
+Damage:	110 Ballistic
+Mag Size:		10 rounds of 7.65x51mm. $28 per magazine
+Reload DC:		29
+Fire Modes:		Semi
+Armor Piercing Level:	3	
+Reflex Modifier:	-20	
+Suppression Level:	Medium	
+Movement Speed Penalty:	-0.5m	
+
+	Starts with 'Basic 2x Scope attached': +10m minimum range	
+
++---------+-----+------+------+
+| Range   | 20m |  75m | 130m |
++---------+-----+------+------+
+| To Miss |  2  |   3  |   4  |
++---------+-----+------+------+
+		
+== ECSC PRS 	$2303	==
+Damage:	115 Ballistic
+Mag Size:		7 rounds of 6.06x60mm. $16 per magazine
+Reload DC:		30
+Fire Modes:		Bolt Action
+Armor Piercing Level:	4	
+Reflex Modifier:	-20	
+Movement Speed Penalty:	-0.5m	
+
+	Integrated Improved Silencer. Starts with 'Basic 2x Scope attached': +10m 
+minimum range	
+		
++---------+-----+------+------+
+| Range   | 20m |  80m | 140m |
++---------+-----+------+------+
+| To Miss |  2  |   3  |   4  |
++---------+-----+------+------+
+
+== Frontier Plas-3 LR	$3135	==
+Damage:	130 Plasma + 3x Plasma Burn	
+Mag Size:		4 units of Xenon-131. $16 per magazine
+Reload DC:		40
+Fire Modes:		Bolt Action
+Armor Piercing Level:	4	
+Reflex Modifier:	-30	
+Movement Speed Penalty:	-1m	
+
+	Starts with 'Basic 2x Scope attached': +10m minimum range	
+
++---------+-----+------+------+
+| Range   | 20m |  90m | 160m |
++---------+-----+------+------+
+| To Miss |  2  |   3  |   5  |
++---------+-----+------+------+
+
+=====	LEVEL 10 REQUIREMENT WEAPONS	=====
+
+== Anvil Arms SR-250 	$3198	==
+Damage:	130 Ballistic
+Mag Size:		5 rounds of 7.65x67mm. $11 per magazine
+Reload DC:		35
+Fire Modes:		Bolt Action
+Armor Piercing Level:	6	
+Reflex Modifier:	-25	
+Movement Speed Penalty:	-1m	
+
+	Starts with 'Basic 2x Scope attached': +10m minimum range	
+
++---------+-----+------+------+
+| Range   | 20m | 140m | 230m |
++---------+-----+------+------+
+| To Miss |  2  |   3  |   4  |
++---------+-----+------+------+
+
+== NFA N505	$4431	==
+Damage:	150 Ballistic
+Mag Size:		5 rounds of 8.60x70mm. $13 per magazine
+Reload DC:		35
+Fire Modes:		Bolt Action
+Armor Piercing Level:	6	
+Reflex Modifier:	-30		
+Movement Speed Penalty:	-1.5m	
+
+	Starts with 'Basic 2x Scope attached': +10m minimum range
+
++---------+-----+------+------+
+| Range   | 20m | 155m | 260m |
++---------+-----+------+------+
+| To Miss |  2  |   3  |   4  |
++---------+-----+------+------+
+		
+== Matthews BA780	$5720	==
+Damage:	140 Ballistic
+Mag Size:		3 rounds of 7.80x74mm, streamlined. $16 per magazine
+Reload DC:		35
+Fire Modes:		Bolt Action
+Armor Piercing Level:	7	
+Reflex Modifier:	-30		
+Movement Speed Penalty:	-1.5m	
+
+	Starts with 'Basic 2x Scope attached': +10m minimum range	
+
++---------+-----+------+------+
+| Range   | 20m | 210m | 400m |
++---------+-----+------+------+
+| To Miss |  1  |   2  |   3  |
++---------+-----+------+------+
+
+== Partix 10X Laser Rifle 	$5877	==
+Damage:	110 Laser
+Mag Size:		7 charges of 35kWh. $29 per magazine
+Reload DC:		35
+Fire Modes:		Bolt Action
+Armor Piercing Level:	n/a	
+Reflex Modifier:	-30		
+Movement Speed Penalty:	-1m	
+
+	Starts with 'Basic 2x Scope attached': +10m minimum range	
+
++---------+-----+------+------+
+| Range   | 20m | 150m | 200m |
++---------+-----+------+------+
+| To Miss |  2  |   3  |   3  |
++---------+-----+------+------+
+
+== Frontier Plas-5 LR	$6975	==
+Damage:	160 Plasma + 3x Plasma Burn
+Mag Size:		8 units of Xenon-131. $38 per magazine
+Reload DC:		40
+Fire Modes:		Bolt Action
+Armor Piercing Level:	6	
+Reflex Modifier:	-30		
+Movement Speed Penalty:	-1m	
+
+	Starts with 'Basic 2x Scope attached': +10m minimum range	
+
++---------+-----+------+------+
+| Range   | 20m | 110m | 200m |
++---------+-----+------+------+
+| To Miss |  2  |   3  |   5  |
++---------+-----+------+------+
+
+=====	LEVEL 15 REQUIREMENT WEAPONS	=====
+
+== Partix 40X HiBeam Rifle 	$11503	==
+Damage:	130 Laser
+Mag Size:		5 charges of 40kWh. $29 per magazine
+Reload DC:		35
+Fire Modes:		Semi
+Armor Piercing Level:	n/a	
+Reflex Modifier:	-30	
+Suppression Level:	Medium	
+Movement Speed Penalty:	-1m	
+
+	Starts with 'Basic 2x Scope attached': +10m minimum range
+
++---------+-----+------+------+
+| Range   | 20m | 180m | 250m |
++---------+-----+------+------+
+| To Miss |  1  |   2  |   3  |
++---------+-----+------+------+
