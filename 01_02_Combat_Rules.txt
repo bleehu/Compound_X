@@ -404,7 +404,7 @@ Reactions include Opportunity Attacks (described in "Melee Combat", above)
 and Held Actions, below. After the Reaction occurs, play continues as normal. 
 If it was an opponent's turn, they continue their turn. 
 
-	A character may only use one Reaction per round, regardless of how 
+	A character may use up to three Reaction per round, regardless of how 
 many viable trigger circumstances occur.
 
 Held Actions:
