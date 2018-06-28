@@ -43,6 +43,12 @@ from multiple angles to capture the whole object. Up to 20m^3 of space.
 Wearables
 ==============================
 
+Dog Collar ($45):
+    This 30cm wide collar comes with up to 18 characters of monogram and a micro
+chip that helps you find your dog if it runs away. The collar itself is 
+lightweight and a little bit stretchy to prevent irritating the wearer. Also
+comes with a 3m leash. 
+
 Night Vision Goggles ($300):
     IR visibility for low light conditions. Resolution clouds after 100m.
 
