@@ -1,0 +1,57 @@
+==============================
+Hunter's Dog Rules and Stats
+==============================
+
+
+===== Dog Rules =====
+
+    The Dog cannot use weapons, armor nor non-food items. 
+
+    The Dog is smaller than most combatants and moves very quickly. If the Dog 
+moved at least 8m on their last turn, they are considered to be in partial cover
+from all angles. 
+
+    The Dog has no guard in melee. Instead, up to four times per round the dog 
+may roll a reflex save of DC 70 to dodge a melee attack.
+
+===== Dog Stats =====
+
+Health:     80
+Strength:   4
+Perception: 12
+Fortitude:  3
+Charisma:   8
+Intelligence: 2
+Dexterity:  12
+Luck:       5
+Will:       10
+Reflex:     36
+Shock:      -2
+Move Speed Per Action: 6
+Death Saving Throws: 3
+Nanites:    0
+
+    The Dog has a +(level x 5) bonus to investigate and awareness checks that 
+they can use their sense of smell to help with. 
+
+    The Dog can use tricks like "lay down," "shake," "fetch," or "chase your 
+tail" to charm or distract characters in the area. When they do, the target must
+succeed on a Will save opposed by the dog's Charisma (+12) performance roll.
+
+    The Dog's primary weapon is their bite. Their melee roll is 
+6 + (level/4) + roll. On a successful hit, the target is grappled with the Dog
+in control. Every time the Dog makes a melee attack while it is in control of a
+grapple, it deals 60 damage. 
+
+===== Notes on Role-Playing A Dog =====
+
+== Projecting ==
+
+In testing, we have found that players who love animals (sometimes beloved 
+animals who have passed on) sometimes play a hunter in order to project complex
+feelings onto their pretend pet as catharsis. This may lead to unforeseen hurt
+feelings if the pretend pet is damaged, killed or is interacted with in an way
+that the player didn't expect during role play. It is left as a choice between
+the DM and the player if this kind of play is encouraged or discouraged. We do
+however strongly recommend having a discussion between the DM and that player 
+about cognitive projection prior to playing a Hunter with a dog.
