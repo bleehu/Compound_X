@@ -350,12 +350,11 @@ rare indeed.
 
 ===== Grenades =====
 
-	All grenades require an explosives skill of at least 10 to use.
-Targets can roll a luck or perception check at DC 60% in 
-order to dodge/attempt to jump out of the way. You can 'cook' a grenade in your 
-hand for 1 action to make it impossible for an enemy to dodge.
+	All grenades require an explosives skill of at least 6 to use.
+You can 'cook' a grenade in your hand for 1 action to make it impossible for an
+enemy to dodge.
 
-	Gain -2 miss chance if you are throwing under half of your grenade's max 
+	Gain +2 Accuracy if you are throwing under half of your grenade's max 
 throwing distance. If you fail your throw within 1 miss chance of the minimum, 
 roll d4 meters for how off-target the grenade throw is. If you fail your throw 
 beyond 1 miss chance, roll a d10 instead.
@@ -463,7 +462,6 @@ or Extra-Criticals.
 
 Armor and Getting Hit:
 	When a player is defending against a successful enemy hit, they roll 
-
 Percentiles under their armor in order to see if their armor blocked the bullet, 
 and from there, how much damage they receive. If the defending player has no 
 armor, they armor roll for a target 50 Percentile. If the armor roll is 50% or 
