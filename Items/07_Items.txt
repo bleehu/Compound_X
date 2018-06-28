@@ -9,8 +9,8 @@ turns. A basic 2-inch thick chain link would take 3 turns to cut through. To
 open a man-sized hole in 1 inch thick steel would take 10 full turns.
 
 Door Ram ($300): 
-    Add 50 to a roll when attempting to kick open a door. Must have STR 8 to 
-carry or use.
+    When using this ram, add 50 to Athletics checks to kick open doors. Must
+have STR 8 to carry or use.
 
 Bolt Cutters ($80):
     Used to cut through chain links, locks, cables, etc.
@@ -60,6 +60,24 @@ checks. Wearing the suit correctly provides immunity to airborne gas attack or
 infection. For example, provides immunity from tear gas, The Doctor's 
 Contaminate Area Procedure, etc. The suit provides no armor coverage and if the
 wearer takes damage the suit ruptures and no longer provides immunity.
+
+Opaleite Water Visor ($50):
+    A set of watertight goggles with a low-power filtration system and 
+rechargeable battery. When filled with water, an Opaleite wearing 
+the visor no longer suffers from racial Perception penalties from 
+being out of water. Provides no benefit to non-Opaleites.
+
+    Due to its bulk, wearing the visor precludes wearing any helmets or 
+other sizeable headgear.
+
+Military Opaleite Water Visor ($150):
+    A compacted water visor with a streamlined filtration system.
+When filled with water, an Opaleite wearing the visor no longer 
+suffers from racial Perception penalties from being out of water. 
+Provides no benefit to non-Opaleites.
+
+    Because of the streamlined profile, wearing the visor does not preclude 
+wearing any helmets or other sizeable headgear.
 
 ==============================
 Consumables
@@ -120,8 +138,8 @@ pass, repair 30. If you have Skill in Repair, see the skill sheet for separate
 instructions.
 
 Security Spike ($100):
-    +20 to a hack check on a door with a physical access panel. DC 30 to place. 
-Once hacked the door can be controlled remotely.
+    +20 to a Hacking check on a door with a physical access panel. DC 30 Hacking
+check to place. Once hacked the door can be controlled remotely.
 
 Zip-Cuffs ($25):
     Pack of 5 nilon fiber woven standard zip-tie cuffs. Strength DC 70 or INT 80 
@@ -150,7 +168,7 @@ Det Cord ($230 per 2m of cord):
     Used to remove doors from hinges, act as ignition sources, enhance another 
 explosive, etc. Use 2 meters per door to be removed. One half meter to wrap 
 around a door handle. 1 meter to wrap around a grenade. 4 meters to create a 
-wall breaching pad (Explosives 50 DC).
+wall breaching pad (requires a DC 50 Explosives check).
 
 ==============================
 Miscellaneous Items
@@ -179,13 +197,89 @@ Smart Phone	($180):
     A touch screen, microphone and speaker in a plastic case. Reception may vary 
 by location.
 
-DC to hack with skill points in hacking: 30
-DC to hack without skill points: 80
+To hack, pass a DC 80 Hacking check.
 
 Road Flare ($15):
     A phosphorus red stick with a strike pad at the end. Will put off soft red 
 light for 5m in every direction for about an hour. Burns in rain, mud, even 
 burns underwater. Don't touch the end or you'll take 10 fire damage.
+
+Datapad ($130):
+	A handheld device with a screen and keypad. Used to record
+information up to 1TB. 
+
+Binoculars ($90):
+	A bifocal optical instrument with a lens for each eye, 
+used for viewing distant objects up to 2km. 
+
+Industrial Paint ($35):
+	A metal canister of wear-resistant paint. Can be used 
+with a brush or similar implement to cover up to 20 square meters of
+flooring, wall or other surface. Paint comes in the following colors:
+
+* Black
+* White
+* Red
+* Blue
+* Green
+* Yellow
+* Orange
+* Purple
+* Brown
+
+Adhesive Foam ($45):
+	A spray can with a nozzle on the end that sprays a chemical
+solution in either an area or a thin line. As the solution dries, 
+it expands and hardens to accomodate the space given. Can be used
+to insulate an area, temporarily patch up a damaged wall, 
+seal ducts, etc. One can has 1 cubic meter's worth of foam.
+
+Solvent ($45):
+	A spray can with a nozzle on the end that sprays a chemical
+solution in an area. When this solution comes into contact with
+adhesive foam or similar substances, they will dissolve into a vapor.
+One can has 1 cubic meter's worth of solvent.
+
+Basic Storage Crate ($125):
+	A 1mx1mx1m metal crate secured with an electronic keypad. 
+Can hold up to 150lbs. The keypad can be opened with either the correct 
+numeric password, a DC 85 Athletics skill check or with a DC 75 Hacking 
+skill check.
+
+Large Storage Crate ($600):
+	A 2mx1.5mx1.5m reinforced storage crate designed to carry heavy 
+cargo. Can hold up to 600lbs. The keypad can be opened with either the 
+correct numeric password, a DC 105 Athletics skill check or with a DC 95 
+Hacking skill check.
+
+Canteen ($40):
+	A metal canteen with a twist cap attached by a small chain.
+Comes with a detachable clip to hang it off a belt or harness.
+
+Firestarter Kit ($95):
+	A set of flint, steel, matches and sealed hexamine fuel
+tablets in a waterproof container. Can be used to light a fire.
+
+False Fauna ($230):
+	A remote-controlled drone designed to appear and sound 
+like a small animal. The drone is equipped with a camera that the 
+operator can see out of with a display set into the controller.
+The controller can transmit its signal to the drone over a 
+maximum range of 600m before the signal is lost. A DC 70 
+Spotting skill check can identify it for what it truly is. A
+DC 60 Hacking skill check can relay the visual feed to the 
+hacker's display while a DC 90 Hacking skill check will hijack
+the device entirely.
+
+Shovel ($70):
+	A hand tool with a broad blade typically used for digging, 
+lifting and moving bulk material such as soil, ore, snow and sand.
+
+Vibroshovel ($130):
+	A shovel built with a compacted ultrasonic oscillation
+generator in the handle. When activated, the generator causes the
+blade of the shovel to vibrate at a fast speed. This decreases
+the time it can take to excavate material to half the normal rate.
 
 Comfy Bed Roll ($55):
     An insulated and padded bedroll. Great for missions which last more than a
@@ -194,19 +288,19 @@ couple of days. Not rated for temperatures above 43 degrees C or below -5 C.
 Walkie-Talkie ($45):
     A simple 30 channel push to talk hand held radio. Has a 2km range. Comes 
 with a handy clip to attach to a belt or combat harness. Simple encryption can
-be broken with a DC 45 hacking skill check.
+be broken with a DC 45 Hacking skill check.
 
 Radio Headset ($65):
     A slightly more sophistocated communication system. Fits well under most 
 combat helmets and is available in different sizes for most races or species.
 Uses passive filtering to reduce background noise. Capable of broadcasting
-while receiving. Better encryption means it takes a hacking check of DC 64
-to listen in. A DC check of 78 to make a call on an enemy line. Range of 3km.
+while receiving. Better encryption means it takes a DC 64 Hacking check
+to listen in. DC 78 Hacking check of to make a call on an enemy line. Range of 3km.
 
 Integrated Remote Verbal Communication Module ($80):
     Cybernetic customers such as cyborgs or Security Droids may purchase and
 install an integrated radio broadcasting module. These have a range of 2km
-and a DC of 82 to hack into, since they can use the host's own encryption 
+and a Hacking DC of 82, since they can use the host's own encryption 
 hardware.
 
 Subdermal Mic ($230):
@@ -215,7 +309,7 @@ microphone is actually injected under the users' skin and rests next to the
 combatant's jaw bone. It uses the vibration of the jaw to send clear voice
 sounds even over cacophanous gunfire. A similar speaker is injected in the
 back of the cheek near the ear. Impossible to see with the naked eye without 
-invading the wearer's personal space. DC 140 to hack.
+invading the wearer's personal space. Hacking DC of 140.
 
 Universal Translation Device ($160):
     The Universal Translation Device is proprietary and fairly rare. A character
@@ -225,7 +319,7 @@ universal audio port. It can interface with any of the radio systems above or be
 used in ambient mode where it repeats anything it hears ambiently in the 
 language that it is set to. In synch mode, the translator listens to both its 
 mic and the coms that it is tied into and pipes the translated voices to the 
-com's speaker. Which means that the translations piped to a subdermal mic can
+com's speaker. This means that the translations piped to a subdermal mic can
 only be heard by the person using it but the translations piped to a 
 walkie-talkie might be overheard.
     A given universal translator can only hold 10 languages at a time while 
@@ -233,6 +327,6 @@ offline from the net cortex, and can slowly learn a language as it hears it, but
 will have a very hard time translating a previously unknown language.
     Hacking the device requires physical access unless it is attached to a pwned 
 device. In either the case of physical access or connection to a pwned device, 
-the disruption DC is 50 and the pwn DC is 90. A Disrupted translator will only 
+the Hacking DC to disrupt is 50 and to pwn is 90. A Disrupted translator will only 
 broadcast static in place of foreign languages, a pwned translator will spoof 
-words that the hacker wishes it to. 
+words that the hacker has programmed. 
