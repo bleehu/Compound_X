@@ -388,9 +388,15 @@ Skill Proficiencies:
 
 
 =====   HUNTER   =====
-	An expert tracker, you're the one hired when someone wants something found. 
-Expertly trained in manipulating your Nanites to aid in pursuit of a quarry, or 
-in marking enemies for execution.
+
+	Unlike many of your compatriots who prefer the cold comforts of technology,
+you have an affinity for the frontier. The great outdoors. Be they the 
+wind-swept plains of frontier farms, the thick jungles of Tundaar or the swamps
+of Trioch you love it all. You are much more likely to know which plants won't 
+kill you to eat if you get hungry, and you can make a fire by breaking the flint
+rocks of Kalimba against each other. You may not be much for book learnin', but
+you know that a keen eye and a choice blast from your shotgun wins the kind of
+arguments you're most like to have out on the rim. 
 
 Class Primary Attribute: Perception
 Starting Wealth: $3290 + 100*Luck
