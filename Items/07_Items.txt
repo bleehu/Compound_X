@@ -83,6 +83,10 @@ wearing any helmets or other sizeable headgear.
 Consumables
 ==============================
 
+Dog Food ($18):
+    A can of preserved wet dog food with easy-open tab. High in protein and 
+vitamins for a healthy growing pup. One can will feed a dog for a day. 
+
 Door Brute-Forcer ($120):
     Hacks through the encryption on a door (up to 75 DC) and opens it. Single 
 use device.
