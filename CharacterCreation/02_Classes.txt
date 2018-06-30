@@ -433,10 +433,12 @@ Skill Proficiencies:
     When your character ascends to level 3, you receive an attack dog. Maybe 
 you found the dog along your last mission, or maybe a dog was issued to you when
 you returned to home base (at the GM's choice). Every time you level up after
-you have your dog, your dog levels up as well and learns a new "Trick" as 
-defined in the "Class-Specific Documentation/Dog_Tricks.txt" document. For 
-simplicity, Dogs start at level 3 so that they are always the same level as 
-their owners. 
+you have your dog, your dog levels up as well as defined in the 
+"Class-Specific Documentation/Hunter's_Dog.txt" document. For simplicity, Dogs 
+start at level 3 so that they are always the same level as their owners. If your
+dog is killed in action, you do not get to roll another one. If you and your dog
+are separated and level up separately, your dog immediately levels up to match 
+your level when you are reunited. 
 
     Your new dog is well-trained and responds to a variety of commands. Your dog 
 listens to you and does his best to make his or her owner happy, but is not 
