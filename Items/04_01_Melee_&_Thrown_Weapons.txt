@@ -289,7 +289,7 @@ Reflex Modifier: -10
 Reflex Save: 110
 
 	Everyone in the room gets blinded for 2 turns. Once per turn, You can 
-attempt to break the blindness with a perception check at 85% (disregarding 
+attempt to break the blindness with a DC 85 check (disregarding 
 bonuses). If the grenade detonates in the open, it’s blinding range is a 10m 
 radius.
 
@@ -326,7 +326,7 @@ Armor Piercing Level: n/a
 Reflex Modifier: -10
 Reflex Save: 110
 
-	Must be set-up before use. 1 Action, 40% DC explosives skill to set-up. On 
+	Must be set-up before use. 1 Action, DC 40 Weapons - Explosive to set-up. On 
 failure, 3 actions used instead of 1. Explosives capable of sticking to surfaces. 
 Comes with a remote detonator that is functional to 50m. 120 explosive damage 
 within a 3m radius, 5m radius indoors. All affected targets roll DC 70% shock to 
@@ -368,8 +368,9 @@ Armor Piercing Level: n/a
 Reflex Modifier: -10
 Reflex Save: 120
 
-	Creates a 7m radius cloud of burning, choking smoke. Targets take 30 Internal 
-Damage per turn in the cloud. All Internal Damage is negated by use of a gas mask.
+	Creates a 7m radius cloud of burning, choking smoke. Primarily organic 
+targets take 30 internal damage per turn in the cloud. This internal damage 
+may be negated by use of a gas mask.
 
 	Each character in the radius of a Chemical Grenade's range when it goes off 
 may make a Reflex Save of DC 120. If they succeed, they may dive prone up to their
@@ -402,11 +403,11 @@ Armor Piercing Level: 6
 Reflex Modifier: -10
 Reflex Save: 140
 
-	Each Target within the blast radius takes multiple hits. 60 Plasma 
+	Each Target within the blast radius takes multiple hits. 60 plasma 
 damage per hit, automatically hits armor. Targets take full damage to the torso, 
-legs, and arms (if armor is pierced or not present): (3*60 damage)+3xPlasma 
-Burn within a 3m radius. Only legs and torso (2*60 damage)+1xPlasma Burn within 
-a 5m radius. At least one hit must damage health to cause Plasma Burn.
+legs, and arms (if armor is pierced or not present): (3*60 damage)+3x plasma 
+burn within a 3m radius. Only legs and torso (2*60 damage)+1x plasma burn within 
+a 5m radius. At least one hit must damage health to cause plasma burn.
 
 	Each character in the radius of a Plasma Grenade's range when it goes off 
 may make a Reflex Save of DC 110. If they succeed, they may dive prone up to their
