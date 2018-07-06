@@ -326,13 +326,13 @@ Armor Piercing Level: n/a
 Reflex Modifier: -10
 Reflex Save: 110
 
-	Must be set-up before use. 1 Action, DC 40 Weapons - Explosive to set-up. On 
-failure, 3 actions used instead of 1. Explosives capable of sticking to surfaces. 
+	Must be set-up before use. 1 Action, DC 40 Weapons - Explosives check to set-up.
+On failure, 3 actions used instead of 1. Explosives capable of sticking to surfaces. 
 Comes with a remote detonator that is functional to 50m. 120 explosive damage 
 within a 3m radius, 5m radius indoors. All affected targets roll DC 70% shock to 
 resist stun for 1 turn. Can destroy a 3 meter radius of concrete or a 1m radius 
-of steel. Jury-rigging can make the explosive throwable (after set-up) with a 5 
-miss chance out to 5+[DEX or STR] meters.
+of steel. Success on a DC 50 Jury-rigging check can make the explosive throwable
+(after set-up) with a 5 miss chance out to 5+[DEX or STR] meters.
 
 	Each character in the radius of a C10's range when it goes off may
 make a Reflex Save of DC 110. If they succeed, they may dive prone up to their
