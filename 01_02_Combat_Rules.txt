@@ -888,10 +888,16 @@ above. Even if you had 5 health and took 80 damage, when you go down you go to 0
 health. Any additional attacks you sustain will push you into negative health. 
 
 Stabilize:
-	As an action, a teammate may bring you back up to 1 health point by succeeding 
-on a DC 80 Medicine skill check to stabilize you. Medicine skill, INT mod, and any
-bonuses from medical equipment such as medic-kits are added to the roll. Once stabilized,
-you may take actions  and speak as normal.
+	As an action, a character may choose an adjacent, Downed character and 
+attempt to Stabilize them. If successful on a DC 80 Medicine (Dex usually) check, 
+the character now has 1 HP, is no longer Downed, and may take Actions as normal 
+within the initiative order. Note that most persistent damage effects, like 
+bleed or burn tokens, fall off of characters when they are Downed.
+
+	Up to one character may assist with a stabilization check. Either involved 
+character may expend one Medkit (for primarily organic targets) or one Repair Kit 
+(for primarily mechanical targets) to grant +20 to the Medicine check. Feel free 
+to scavenge one from the target, they probably won't make a fuss.
 
 	Don't forget that a recently stabilized character may need  to take actions to
 retrieve a dropped weapon or stand back up if they have fallen.
