@@ -889,17 +889,30 @@ health. Any additional attacks you sustain will push you into negative health.
 
 Stabilize:
 	As an action, a character may choose an adjacent, Downed character and 
-attempt to Stabilize them. If successful on a DC 80 Medicine (Dex usually) check, 
-the character now has 1 HP, is no longer Downed, and may take Actions as normal 
-within the initiative order. Note that most persistent damage effects, like 
-bleed or burn tokens, fall off of characters when they are Downed.
+attempt to Stabilize them. That character makes DC 80 Dex-based skill check: 
+Medicine for primarily organic targets, or Repair for primarily mechanical targets.
+If successful, the target is revived and now has 1 HP, is no longer Downed, and 
+may take Actions as normal within the initiative order. A character may be revived 
+in a single encounter a number of times equal to half their Fort, minimum two. Past 
+this limit, stabilized characters are unconscious in addition to the other effects 
+of Stabilization. Note that most persistent damage effects, like bleeds or burns, 
+fall off of characters when they are Downed.
+
+	If a character fails a stabilization check, nothing happens. It's just 
+taking longer to stem the bleeding. On critical success (91-100 before modifiers), 
+your excellent care allows you to choose whether the target counts this revival 
+against their revivals per encounter limit. On critical failure (01-05 before 
+modifiers), the bleeding (or equivalent) gets worse: the target must immediately 
+roll an additional Death Save. If the total check is then still high enough to 
+succeed and the target is still alive, they are then Stabilized as normal.
 
 	Up to one character may assist with a stabilization check. Either involved 
 character may expend one Medkit (for primarily organic targets) or one Repair Kit 
 (for primarily mechanical targets) to grant +20 to the Medicine check. Feel free 
-to scavenge one from the target, they probably won't make a fuss.
+to scavenge one from the target, they probably won't make a fuss. One kit provides 
+a bonus to all Stabilization attempts made on the same target in one round.
 
-	Don't forget that a recently stabilized character may need  to take actions to
+	Don't forget that a recently stabilized character may need to take actions to
 retrieve a dropped weapon or stand back up if they have fallen.
 
 *Some hazards can reduce you to zero health points and kill you 
