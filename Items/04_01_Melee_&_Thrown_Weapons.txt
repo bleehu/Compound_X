@@ -117,9 +117,9 @@ Range: 2m
 Accuracy Modifier: +0
 STR Requirement: 6
 
-	If armor roll is greater than 50, target rolls a DC 50 
-fort save for a broken limb of your choice. -20 stealth rolls for being quiet 
-on stealth attacks. Reduces break DCs of doors by 30 per hit.
+	If armor roll is greater than 50, target rolls a DC 50 Fort save 
+for a broken limb of your choice. -20 to stealth rolls for being quiet 
+on stealth attacks. Reduces the DC to break down a door by 30 per hit.
 
 == Eliazar E5500 Power Fist $880 ==
 
