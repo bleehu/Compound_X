@@ -899,7 +899,7 @@ of Stabilization. Note that most persistent damage effects, like bleeds or burns
 fall off of characters when they are Downed.
 
 	If a character fails a stabilization check, nothing happens. It's just 
-taking longer to stem the bleeding. On critical success (91-100 before modifiers), 
+taking longer to stem the bleeding. On critical success (base Critical range 10), 
 your excellent care allows you to choose whether the target counts this revival 
 against their revivals per encounter limit. On critical failure (01-05 before 
 modifiers), the bleeding (or equivalent) gets worse: the target must immediately 
