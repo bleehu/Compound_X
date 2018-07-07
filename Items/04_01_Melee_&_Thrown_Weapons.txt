@@ -269,7 +269,7 @@ Reflex Save: 90
 
 	10m radius cloud of choking chemicals. anyone caught in the circle suffers 
 the following effects: partial blindness due to uncontrollable tears (+30% to 
-hit), coughing fits (-50% stealth), and take 10 Internal damage per round spent in 
+hit), coughing fits (-50% stealth), and take 10 internal damage per round spent in 
 the cloud. Targets can negate all effects with a gas mask. Targets who leave the 
 cloud will continue to exhibit partial blindness for 3 turns after leaving the 
 fog, and coughing for 6 turns. Gas cloud persists for 2 turns after initial 
