@@ -533,7 +533,7 @@ trigger additional effects when you roll a Critical.
 
 	If you roll a 1, you Critically fail a skill check, meaning that you cannot
 succeed at the check, regardless of your total roll after adding skills and Stat
-Modifiers.
+Modifiers. Your GM may also choose to enact additional penalties to the failed check.
 	
 	At any time out of combat, you may decide to use one of your skills. If you 
 are not pressured by imminent or immediate danger, you may "take a 100%" to take as
