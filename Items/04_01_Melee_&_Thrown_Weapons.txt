@@ -288,16 +288,16 @@ Armor Piercing Level: 0
 Reflex Modifier: -10
 Reflex Save: 110
 
-	Everyone in the room gets blinded for 2 turns. Once per turn, You can 
-attempt to break the blindness with a DC 85 check (disregarding 
-bonuses). If the grenade detonates in the open, it’s blinding range is a 10m 
-radius.
+	All characters who sense light in the same room as the detonation or 
+within 10m of it, whichever is shorter, must succeed on a DC 85 Awareness save 
+or gain the blind condition for two rounds. Each round that the character remains 
+blind, they may retry the save once per round at the end of their turn.
 
 	Each character in the radius of a flash-bang's range when it goes off may
 make a Reflex Save of DC 110. If they succeed, they are able to shield their
 eyes or optical sensors sufficiently to avoid being totally stunned. Instead of
 being blinded, they simply suffer a -20% penalty to perception, spotting, or
-investigation checks. 
+investigation checks.
 
 == ECSC Fragmentation Grenade $90 ==
 
