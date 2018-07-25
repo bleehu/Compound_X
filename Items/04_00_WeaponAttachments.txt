@@ -532,9 +532,10 @@ Jam Range: + 2 on second roll
 == Poison Bullet Magazine  $2x + 50 magazine cost ==
     Your bullet's new damage = 0.9x bullet base damage + stackable poison 
 effect based on base bullet damage (before base damage reduction): 
-0-60 damage = lesser poison for 2 turns, 61-110 = poison for 2 turns,
-111+ = greater poison for 2 turns. Target cannot roll normal saving throws
-against the poison.
+0-60 damage = lesser poison for 2 Rounds, 61-110 = poison for 2 Rounds,
+111+ = greater poison for 2 Rounds. Target cannot roll normal saving throws
+against the poison. Poison damage is taken at the end of the turn of the 
+afflicted character.
 
 == RMM Match (Tournament) Grade Ammo  2x mag cost ==
     This high quality ammunition isn't cheap, but it increases the consistency 

@@ -251,7 +251,7 @@ through smoke. Targets that are adjacent need not abide by this rule (including
 one target outside the circle adjacent to a target inside the circle). If you 
 are fully behind the smoke and a target is on the complete opposite side, the 
 smoke completely obscures your vision, leaving you with a perception check of 
-120% in order to see all the way through the smoke. Smoke lasts for 12 turns or 
+120% in order to see all the way through the smoke. Smoke lasts for 12 Rounds or 
 2 minutes.
 
 	Each character in the radius of a Smoke Grenade's range when it goes off may
@@ -271,8 +271,8 @@ Reflex Save: 90
 the following effects: partial blindness due to uncontrollable tears (+30% to 
 hit), coughing fits (-50% stealth), and take 10 internal damage per round spent in 
 the cloud. Targets can negate all effects with a gas mask. Targets who leave the 
-cloud will continue to exhibit partial blindness for 3 turns after leaving the 
-fog, and coughing for 6 turns. Gas cloud persists for 2 turns after initial 
+cloud will continue to exhibit partial blindness for 3 Rounds after leaving the 
+fog, and coughing for 6 Rounds. Gas cloud persists for 2 Rounds after initial 
 detonation.
 
 	Each character in the radius of a CID Grenade's range when it goes off may
