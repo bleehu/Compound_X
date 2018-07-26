@@ -161,7 +161,7 @@ to use.
 
 	While wielding two guns, you may fire both at the same time at the same target 
 with a +3 miss chance for each weapon. You may not target more than one target at 
-a time. Reloading while dual wielding adds 20% to the difficulty of the reload.
+a time. Reloading while dual wielding adds 20 to the difficulty of the reload.
 
 	While dual wielding two melee weapons you may make a melee attack with each
 as normal in the same Action, with a -2 to your melee accuracy for each. If you 
