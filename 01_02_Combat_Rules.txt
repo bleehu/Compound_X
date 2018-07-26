@@ -88,6 +88,10 @@ burst fire modes (if relevant). These minimums apply after all PER/DEX/STR/Attac
 modifiers, at all ranges, and before cover and any other environmental effects. 
 Using an ability could push you below the minimum miss chance.
 
+    Outside a weapon's longest range, you cannot hit your target.
+Also, weapons cannot shoot over 100m without magnifying sights, or over 150m 
+without 2x+ magnification.
+
 ===== Melee Combat =====
 
 	A character of standard size occupies 1m of space. This is not the physical 
