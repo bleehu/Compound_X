@@ -416,7 +416,6 @@ Weapon Proficiencies:
 * Pistols
 * Shotguns
 * Carbines
-* Long Rifles
 
 Armor Proficiencies:
 * Cloaking
@@ -449,6 +448,13 @@ GM controls how the dog responds.
 Dog Personalities:
 
 
+
+*  Loyal
+*  Playful
+*  Mischevious
+*  Protective
+*  Curious
+*  Aggressive
 
 == Class Feats ==
 

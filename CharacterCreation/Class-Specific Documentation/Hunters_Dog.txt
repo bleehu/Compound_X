@@ -31,7 +31,7 @@ Move Speed Per Action: 6
 Death Saving Throws: 3
 Nanites:    0
 
-    The Dog has a +(level x 5) bonus to investigate and awareness checks that 
+    The Dog has a +(level x 4) bonus to investigate and awareness checks that 
 they can use their sense of smell to help with. 
 
     The Dog can use tricks like "lay down," "shake," "fetch," or "chase your 
