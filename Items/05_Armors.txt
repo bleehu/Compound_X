@@ -469,13 +469,13 @@ Detect DC:		75
 Moving Detect DC:   	50
 Cloak Turn Bonus:	+0
 Charge Delay:    	3 Actions
-Nanite Activation Cost:	7
-Nanite Upkeep:   	7
+Energy Activation Cost:	7
+Energy Upkeep:   	7
 
 Secondary Module Cost:	800
 Sec Module Hard Pts:	1
 Secondary Module Benefit: Provides +1 Cloak Turn
-Bonus, -1 Nanite Upkeep, per secondary module
+Bonus, -1 Energy Upkeep, per secondary module
 
 =====   LEVEL 5 REQUIREMENT   =====
 	
@@ -487,13 +487,13 @@ Detect DC:		25
 Moving Detect DC:   	0
 Cloak Turn Bonus:	+Infinite
 Charge Delay:    	0 Actions; Attempts to passively camouflage you, at all times, while active.
-Nanite Activation Cost:	7
-Nanite Upkeep:   	5
+Energy Activation Cost:	7
+Energy Upkeep:   	5
 
 Secondary Module Cost:	1000
 Sec Module Hard Pts:	1
 Secondary Module Benefit: Max of 2 secondary modules.
-+5 Detect DCs, -1 Nanite Activation Cost, -1 Nanite Upkeep, 
++5 Detect DCs, -1 Energy Activation Cost, -1 Energy Upkeep, 
 per secondary module.
 
 - Unlike most Cloaking modules, the Passive
@@ -508,14 +508,14 @@ Detect DC:		100
 Moving Detect DC:   	75
 Cloak Turn Bonus:	+0
 Charge Delay:    	3 Actions
-Nanite Activation Cost:	13
-Nanite Upkeep:   	8
+Energy Activation Cost:	13
+Energy Upkeep:   	8
 
 Secondary Module Cost:	1100
 Sec Module Hard Pts:	1
 Secondary Module Benefit: Provides -3 Detect DCs,
--1 Charge Delay Actions, -3 Nanite Activation Cost, 
--1 Nanite Upkeep, per secondary module.
+-1 Charge Delay Actions, -3 Energy Activation Cost, 
+-1 Energy Upkeep, per secondary module.
 	
 =====   LEVEL 10 REQUIREMENT   =====
 	
@@ -527,12 +527,12 @@ Detect DC:		100
 Moving Detect DC:   	75
 Cloak Turn Bonus:	+4
 Charge Delay:    	3 Actions
-Nanite Activation Cost:	35
-Nanite Upkeep:   	3
+Energy Activation Cost:	35
+Energy Upkeep:   	3
 
 Secondary Module Cost:	1408
 Sec Module Hard Pts:	1
-Secondary Module Benefit: -12 Nanite Activation Cost,
+Secondary Module Benefit: -12 Energy Activation Cost,
 -1 Charge Delay Actions, per secondary module.
 	
 ==============================
