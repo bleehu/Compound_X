@@ -6,16 +6,13 @@ Cloaking
  
 ===== Cloaking Modules =====
 
-    Expend the cloaking module's "Nanite Activation Cost" to begin cloaking. At 
-the ending of every turn thereafter, you have to pay a "Nanite Upkeep" cost to 
-continue cloaking.
-
-    Wearers need only expend Nanites for the "Nanite Upkeep" cost at the end 
-of a turn that they perform actions. Cloaking requires concentration so when you 
-are doing nothing but watching, you may cloak for free.
+    Expend the cloaking module's "Energy Activation Cost" to begin cloaking. At 
+the ending of every turn thereafter, you have to pay an "Energy Upkeep" cost to 
+continue cloaking. If a character performs no Action except passive observation 
+and quiet communication, their upkeep for the turn is halved.
 
     You can remain cloaked for a number of turns equal to ["Cloak Turns" + your
-cloaking module's "Cloak Turn Bonus"] or when you run out of Nanites, whichever 
+cloaking module's "Cloak Turn Bonus"] or when you run out of Energy, whichever 
 occurs sooner (see table below for "Cloak Turns") . If your cloak time runs out, 
 you stop cloaking and have to wait a number of actions equal to your "Charge 
 Delay" (listed under the relevant cloaking module's description) before being 
@@ -23,8 +20,8 @@ able to cloak again.
 
 ===== Cloaking Detection =====
 
-    If someone/something is looking for you, they must pass a (normally, 
-perception) check at 'Detect DC' difficulty, modified by your Stealth skill. 
+    If someone/something is looking for you, they must pass a Spotting - PER 
+check at 'Detect DC' difficulty, modified by your Stealth skill. 
 While moving, the Detect DC is reduced (listed as 'moving Detect DC' under the 
 relevant cloaking module's description). There is a tell-tale shimmer in the 
 cloak, as the micro-foil has a hard time keeping up with moving environments. 
