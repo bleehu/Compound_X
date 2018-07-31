@@ -149,12 +149,31 @@ Prerequisites:
 	Maybe you've got a bigger corpus collosum and your right brain and left brain
 are in higher sync than most people; or maybe you've seen too many John Woo
 holomovies. Either way, you've managed to effectively fight using a weapon
-in each hand. The weapons must be of the same type, either two pistols, two
-smgs, etc. While wielding dual weapons, you may fire both at the same time
-at the same target with a +3 miss chance for each weapon. You may not target 
-more than one target at a time. Reloading while dual wielding adds
-20% to the difficulty. Additionally the sum of the strength requirements 
-must be equal to or less than your strength.
+in each hand. 
+
+	The weapons must be of the same type, either two pistols, two smgs, two light
+or one-handed melee weapons, etc. Additionally the sum of the strength requirements 
+must be equal to or less than your Carry Strength. While Dual Weilding, you cannot 
+take the grapple Action nor the Disarm Action. Any time you would attack with a 
+reaction or if an ability of yours or an ally's would give you a free attack, you
+may only attack with one of your dual wielded weapons, but you may pick which one
+to use. 
+
+	While wielding two guns, you may fire both at the same time at the same target 
+with a +3 miss chance for each weapon. You may not target more than one target at 
+a time. Reloading while dual wielding adds 20 to the difficulty of the reload.
+
+	While dual wielding two melee weapons you may make a melee attack with each
+as normal in the same Action, with a -2 to your melee accuracy for each. If you 
+are attacked with a melee attack, you may only use one of your melee weapon's 
+accuracies as a bonus to your defense. You do get to pick which weapon you would
+like to use to defend though. 
+
+	In addition, this feat lets you take the 'Dual Guard' Action as the last 
+Action of your turn so long as you are weilding two melee weapons. If you do so, 
+you spend a whole turn "putting up your dukes" and preparing to block attacks 
+with both weapons. Mechanically, this gives you the guard bonus from both weapons
+as well as an extra +2 to your guard DC for having two weapons to block with. 
 
 == Empty the Mag ==
 Prerequisites:

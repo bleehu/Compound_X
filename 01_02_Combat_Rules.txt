@@ -4,8 +4,10 @@ Combat
 
 
 	Combat starts when either you or an enemy decides they would like to make an 
-attack. Each "Player turn" lasts 4-6 seconds, and consists of 4 "Actions" 
-(described below).
+attack (or as the GM decrees). At that point, all involved characters roll 
+Initiative to determine the order in which they take turns. Initiative is a d100 roll 
+that is modified only by Soldier class passive abilities, and higher numbers go 
+first. The section "Actions", below, has more detail on turns in combat.
 
 ===== Combat Stat Modifiers for Ranged and Melee Accuracy =====
 
@@ -85,6 +87,10 @@ weapon miss chance, and a minimum of +1 miss chance modifier from automatic or
 burst fire modes (if relevant). These minimums apply after all PER/DEX/STR/Attachment 
 modifiers, at all ranges, and before cover and any other environmental effects. 
 Using an ability could push you below the minimum miss chance.
+
+    Outside a weapon's longest range, you cannot hit your target.
+Also, weapons cannot shoot over 100m without magnifying sights, or over 150m 
+without 2x+ magnification.
 
 ===== Melee Combat =====
 
@@ -348,12 +354,11 @@ rare indeed.
 
 ===== Grenades =====
 
-	All grenades require an explosives skill of at least 10 to use.
-Targets can roll a luck or perception check at DC 60% in 
-order to dodge/attempt to jump out of the way. You can 'cook' a grenade in your 
-hand for 1 action to make it impossible for an enemy to dodge.
+	All grenades require an explosives skill of at least 6 to use.
+You can 'cook' a grenade in your hand for 1 action to make it impossible for an
+enemy to dodge.
 
-	Gain -2 miss chance if you are throwing under half of your grenade's max 
+	Gain +2 Accuracy if you are throwing under half of your grenade's max 
 throwing distance. If you fail your throw within 1 miss chance of the minimum, 
 roll d4 meters for how off-target the grenade throw is. If you fail your throw 
 beyond 1 miss chance, roll a d10 instead.
@@ -383,20 +388,32 @@ Performing a Skill Check (other than Getting Bearings): 1 Action
 Conversing With Partners: Free Action
 Getting Your Bearings / Non Skill-Based Perception: Free Action
 
+Free Actions:
+	Free Actions refer to tasks that take miniscule amounts of time, even
+in pitched combat, like looking around, speaking briefly, or reflexively 
+shutting your eyes after being treated to a flash-bang. Aside from your 
+GM's patience and willingness to believe your character can do everything you 
+want in a negligible timescale, there is no limit to the number of Free Actions 
+a character may take, and they may be used at any time.
+
 ===== Reactions & Held Actions =====
 
-	Certain abilities or circumstances will allow you to take a special action 
-in response to a triggering event. A reaction occurs at the immediate moment 
-that it is triggered, whether it is your turn or not. The most common reaction 
-you will encounter will be from Suppression (described in "Ranged Combat", 
-below) or Opportunity Attacks (described in "Melee Combat", above). After the 
-reaction occurs, play continues as normal (if it is an opponents turn, they 
-continue their turn). 
+Reactions:
+	Certain abilities or circumstances will allow you do something 
+in response to a triggering event. Doing so requires using a special kind 
+of Action called a Reaction. Reactions occur at the immediate moment 
+that they are triggered, regardless of whose turn it is. Common uses of 
+Reactions include Opportunity Attacks (described in "Melee Combat", above) 
+and Held Actions, below. After the Reaction occurs, play continues as normal. 
+If it was an opponent's turn, they continue their turn. 
+
+	A character may use up to three Reaction per round, regardless of how 
+many viable trigger circumstances occur.
 
 Held Actions:
-	A type of reaction. A player may choose to forgo using up to 2 actions at 
+	A type of Reaction. A player may choose to forgo using up to 2 actions at 
 the end of their turn. The player must declare to their DM what those actions 
-are to be triggered by then play continues as normal. If the trigger occurs 
+are to be triggered by, and then play continues as normal. If the trigger occurs 
 before the player's next turn, the player gets to immediately use their 1 or 2 
 actions. If the trigger does not occur before the player's turn, they lose their
 held action(s) and start their turn as normal. 
@@ -449,7 +466,6 @@ or Extra-Criticals.
 
 Armor and Getting Hit:
 	When a player is defending against a successful enemy hit, they roll 
-
 Percentiles under their armor in order to see if their armor blocked the bullet, 
 and from there, how much damage they receive. If the defending player has no 
 armor, they armor roll for a target 50 Percentile. If the armor roll is 50% or 
@@ -876,12 +892,31 @@ above. Even if you had 5 health and took 80 damage, when you go down you go to 0
 health. Any additional attacks you sustain will push you into negative health. 
 
 Stabilize:
-	As an action, a teammate may bring you back up to 1 health point by succeeding 
-on a DC 80 Medicine skill check to stabilize you. Medicine skill, INT mod, and any
-bonuses from medical equipment such as medic-kits are added to the roll. Once stabilized,
-you may take actions  and speak as normal.
+	As an action, a character may choose an adjacent, Downed character and 
+attempt to Stabilize them. That character makes DC 80 Dex-based skill check: 
+Medicine for primarily organic targets, or Repair for primarily mechanical targets.
+If successful, the target is revived and now has 1 HP, is no longer Downed, and 
+may take Actions as normal within the initiative order. A character may be revived 
+in a single encounter a number of times equal to half their Fort, minimum two. Past 
+this limit, stabilized characters are unconscious in addition to the other effects 
+of Stabilization. Note that most persistent damage effects, like bleeds or burns, 
+fall off of characters when they are Downed.
 
-	Don't forget that a recently stabilized character may need  to take actions to
+	If a character fails a stabilization check, nothing happens. It's just 
+taking longer to stem the bleeding. On critical success (base Critical range 10), 
+your excellent care allows you to choose whether the target counts this revival 
+against their revivals per encounter limit. On critical failure (01-05 before 
+modifiers), the bleeding (or equivalent) gets worse: the target must immediately 
+roll an additional Death Save. If the total check is then still high enough to 
+succeed and the target is still alive, they are then Stabilized as normal.
+
+	Up to one character may assist with a stabilization check. Either involved 
+character may expend one Medkit (for primarily organic targets) or one Repair Kit 
+(for primarily mechanical targets) to grant +20 to the Medicine check. Feel free 
+to scavenge one from the target, they probably won't make a fuss. One kit provides 
+a bonus to all Stabilization attempts made on the same target in one round.
+
+	Don't forget that a recently stabilized character may need to take actions to
 retrieve a dropped weapon or stand back up if they have fallen.
 
 *Some hazards can reduce you to zero health points and kill you 
