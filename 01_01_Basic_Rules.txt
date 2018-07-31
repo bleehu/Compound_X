@@ -136,15 +136,28 @@ Or are you a pilot who can thread a needle with your starfighter? Or maybe
 you're a veteran soldier, who's seen it all. Classes define what armor and 
 weapons your character can use in combat, as well as certain special abilities 
 which might help solve puzzles or get you better discounts at stores. Your class 
-also determines how much money you start with to buy equipment and how many 
-Nanites you can use at once.
+also determines how much money you start with to buy equipment.
 
 Nanites:
-	The evolution of technology brought about the ability to design and control 
-microscopic machines. Such a powerful advancement assists in all forms of life 
-in the Compound X universe. Nanites are used to activate powerful abilities such 
-as sprinting extremely fast, aiming incredibly well, infusing bullets with 
-electrical energy, and more.
+	Advancements in precision construction and artificial intelligence ability 
+to design and control micro- and even nanoscopic machines. Such a powerful 
+advancement assists in all forms of life in the Compound X universe. Medical 
+nanites protect their hosts from pathogens and toxins, and can be pushed to 
+briefly enable what would once have been considered superhuman abilities, 
+like running 40 meters or putting 12 bullets from two revolvers into 12 
+bullseyes ... in about six seconds. Other types of nanites are used industrially for 
+precise construction, or covertly for infiltration.
+
+	Medical nanites are acquired by characters by the unit, either through 
+purchase or background. They must be specifically tailored to a character's 
+body to avoid rejection. See their item entries in 07_Items.txt or the rules for 
+Active Feats below.
+
+Energy:
+	Continued evolution of battery technology has allowed the use of extremely 
+power-hungry equipment by individual combatants and technicians, such as particle 
+shields and cloaking armor modules. Some oft he more technical classes have built-in 
+Energy storage, others may acquire it by purchasing Battery Pack items.
 
 Skills: 
 	Each character learns things while going through life. Maybe your time in 
@@ -161,7 +174,7 @@ and you'll earn more money as you go about your adventures.
 Feats: 
 	Your character will gain special perks as you level up. This could range 
 from reloading really fast, to having more health to being able to do a fast 
-combat roll under fire. Tackle these when your character advances to level 3.
+combat roll under fire. Tackle these when your character advances to level 2.
 
 ==============================
 Base Stats
@@ -364,20 +377,6 @@ Skill Point Gain:
 	Determines how many skill points you gain every level. Every time you level up, you 
 gain skill points equal to double your "Skill Point Gain".
 
-===== Nanites =====
-
-	Although not a primary or secondary stat per se, The maximum number of 
-Nanites you can use at a given time is determined by your character class and an 
-associated primary stat. Your class may tell you its "Class Primary Attribute" 
-is Strength. In that case, Strength * 10 is your maximum Nanites. 
-
-More generally:
-	Your Maximum Nanites = (Your Class's Primary Attribute) * 10
-Some class feats and other abilities can increase the number of Nanites you can 
-hold and use at a given time. Also, Unlike Health, Nanites regenerate during 
-combat at a rate of 3 Nanites per turn. 
-	
-
 ===== Assigning Stats to a New Character =====
 
 	When making a new character, you'll have to assign their Base stats.
@@ -491,13 +490,12 @@ Resting
 ==============================
 
 Short Rest:
-	Taking about an hour, characters can take a Short Rest to rest and recoup 
-which will restore all the character's Nanites.
+	Taking about an hour, characters can take a Short Rest to rest.
 
 Long Rest:
 	Taking about eight hours, characters need to rest after a long day of 
 adventuring. If you choose to stay up all night, you won't be at your best for 
-the next day. Restores all of a character's Nanites.
+the next day.
 
 ==============================
 RP / Using Skills
