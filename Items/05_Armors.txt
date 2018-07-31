@@ -390,13 +390,13 @@ SHIELD GENERATORS
 
 =====   LEVEL 1 REQUIREMENT   =====
 	
----- A-Class Electron Shield ----
+---- A-Class Proton Shield ----
 Primary Module Cost:	2310
 Prim Module Hard Pts: 	1
 Shield Strength:	120
 Shield Restart Time:	1 Turn
 Recharge Rate / Turn:	50
-Fast Recharge Nanites:	14
+Fast Recharge Energy:	14
 
 Secondary Module Cost:	810
 Sec Module Hard Pts:	1	
@@ -406,26 +406,26 @@ Decided on purchase.
 
 =====   LEVEL 5 REQUIREMENT   =====
 	
----- HiCap A-Class Electron Shield ----
+---- HiCap A-Class Proton Shield ----
 Primary Module Cost:	2410
 Prim Module Hard Pts: 	2
 Shield Strength:	180
 Shield Restart Time:	1 Turn
 Recharge Rate / Turn:	30
-Fast Recharge Nanites:	36
+Fast Recharge Energy:	36
 
 Secondary Module Cost:	840
 Sec Module Hard Pts:	1
 Secondary Module Benefit: Provides +70 Shield Strength 
 and +10 Recharge Rate, +4 Fast Recharge cost per secondary.
 
----- B-Class Magnetic Shield ----
+---- B-Class Electron Shield ----
 Primary Module Cost:	3600
 Prim Module Hard Pts: 	1
 Shield Strength:	100
 Shield Restart Time:	n/a; restarts at the start of every turn if depleted
 Recharge Rate / Turn:	50
-Fast Recharge Nanites:	n/a; cannot fast recharge
+Fast Recharge Energy:	n/a; cannot fast recharge
 
 Secondary Module Cost:	1320
 Sec Module Hard Pts:	1
@@ -434,21 +434,19 @@ or +50 Recharge Rate. Decided on purchase.
 	
 =====   LEVEL 10 REQUIREMENT   =====
 	
----- C-Class Self Sustained Nanite (SSN) Shield ----
+---- HiCap B-Class Electron Shield ----
 Primary Module Cost:	4210
 Prim Module Hard Pts: 	2
-Shield Strength:	100
-Shield Restart Time:	1 Turn
-Recharge Rate / Turn:	50
-Fast Recharge Nanites:	32
+Shield Strength:	150
+Shield Restart Time:	n/a; restarts at the start of every turn if depleted
+Recharge Rate / Turn:	30
+Fast Recharge Energy:	25
 
 Secondary Module Cost:	1470
 Sec Module Hard Pts:	1
 Secondary Module Benefit: Either provides +50 Shield Strength 
 or +50 Recharge Rate, +4 Fast Recharge cost per secondary. 
 Decided on purchase.
-
-- Nanite Shields block all forms of damage.
 
 =====================================
 CLOAKING EQUIPMENT
@@ -572,7 +570,7 @@ Sec Module Hard Pts:	n/a
 Primary Module Cost:	1500
 Electronics Skill Req:	10
 Prim Module Hard Pts: 	1
-Nanite Activation Cost:	10
+Energy Activation Cost:	10
 Description:     	40% chance to hit, as an immediate reaction
 to a fast-moving enemy explosive that comes within your line-of-sight
 and within a 5 meter radius of you, you can roll to eliminate one 
@@ -581,4 +579,4 @@ grenade, once per (your) turn.
 Secondary Module Cost:	1125
 Sec Module Hard Pts:	1
 Secondary Module Benefit: +60% chance to hit (max 100%),
-+3 meter radius, +5 Nanite Active cost, per secondary module.
++3 meter radius, +5 Energy Activation cost, per secondary module.
