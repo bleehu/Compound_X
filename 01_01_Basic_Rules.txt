@@ -57,12 +57,6 @@ roll. Advantage and Disadvantage do not stack with themselves. If you would have
 both Advantage and Disadvantage on the same roll, then they cancel each other, 
 and you just roll once.
 
-Rolling the Average:
-	There are certain circumstances and feats which allow for Rolling the Average.
-This must be announced before the die are cast. Critical fails or Critical successes
-are ignored when Rolling the Average. To do this, roll percentile dice twice, add
-the two numbers together, and divide by 2. The resulting number is your roll. 
-
 ==============================
 Role Playing and Combat
 ==============================
@@ -570,6 +564,6 @@ Player Weapon Customization
 other mercantile area. Ask the GM if there are weapon shops or kiosks around, 
 they should point you to one. From there you can apply upgrades and attachments.
 
-	The GM may tell you specific attachments that are available, or they may say 
-you can just go about your usual customization. See the Attachments document
-for more details on the kinds of attachments you can use, and their restrictions.
+	The GM may tell you specific attachments that are available, or they may say
+you can just go about your usual customization. See the Attachments document for 
+more details on the kinds of attachments you can use, and their restrictions.
