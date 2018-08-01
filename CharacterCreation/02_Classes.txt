@@ -513,7 +513,7 @@ Your bonus for shooting at an enemy suppressed by your party member now includes
 a +5% chance to critically hit. The bonus for melee for both you and your 
 teammates increases to +3. 
 
-Matador:
+Bushwhacker:
 	You've had enough toothy critters jump out of the brush and try to bite your
 head off to be pretty good with shooting things at close range. You get 
 advantage on shooting targets that have melee weapons with your primary weapon 
