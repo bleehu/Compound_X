@@ -229,3 +229,12 @@ drones, to deal with the constant heavyweight lifting that is required of them.
     
 Size: Large
 Favored Terrain: Urban
+
+Bulky Frame:
+    The Constructor Series is built more ruggedly than other drone types. While this
+gives greater lifting power, it also hinders the drone's movement. +1 STR, +1 FOR and 
+-2 DEX. Due to its more solid build, the constructor drone is more difficult to push 
+around. Gains +20 to any skill check related to planting itself against something,
+such as an airlock breaching or being tackled by a large creature. This drone gets 
+a -10 to stealth rolls due to its obvious silhouette and heavy footsteps.
+    
