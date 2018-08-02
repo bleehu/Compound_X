@@ -601,6 +601,23 @@ biologic targets and armor.
 by each shot by 20 points, but if the round hits the health pool of a cybernetic
 target, it deals an extra 45 damage.
 
+== Flechette Shells ($2.5 x mag cost) ==
+
+	Flechette (Fla-ch-ette) shells are a shotgun only ammo type, which contain 
+many flight sustaining, small, deadly, sharp pointed bits of a titanium alloy. 
+They are quite effective at rendering flesh and circuitry to a greater weakened state,
+and can pierce through materials to ensure the target is reached. These particular type
+of pointed bits are great at travelling greater distances, even while inside a target,
+having greater chance to hit something vital, causing great pain/malfunctions. 
+
+When using Flechette shells, increase damage 40% when shots pierce or miss armor. APL 
+of all guns ammo is used in is increased by 1. All range brackets gain a 5m increase,
+except R1, which gains a 10m increase. Upon doing damage greater than 80, the target
+must pass a shock save of DC60 to not letthe severe pain effect them. Upon failing
+the save, target is inflicted with severe pain/ circuit damage and takes a -1 to all
+accuracy rolls. This lasts untilwound is healed or they are dead. If the shot fails 
+to pierce armor but hits it, reduce damage dealt by 50%, then reduce further by
+(5* (the difference in APL+1)).
 
 == Shredder Rounds ($2 x mag cost) ==
 
