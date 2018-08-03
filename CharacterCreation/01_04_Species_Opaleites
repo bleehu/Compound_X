@@ -25,6 +25,13 @@ sounds. Keeping the second set closed does hurt an Opaleite's speed while
 swimming. They are also used to drain the lungs when making the switch from 
 water to air.
 
+They have two sets of eyes, one set of highly-developed, forward-facing eyes, 
+particularly well suited for seeing underwater, and the other is a set placed
+above and behind the first that face in the general upward direction. They are 
+simple, compound eyes that only see contrasting shapes. They are alike in 
+appearence to the opal gemstone, which is where this species gets their 
+Galactic Common name.
+
 Male and female differences are less obvious than their mammalian counterparts. 
 Male Opaleites have larger fins than their female counterparts. Female fins
 are fairly evenly ridged, while males have a long spine on the end of each
@@ -72,5 +79,88 @@ Other
 
 Rathna 
 
+==== Passives ====
+
+* Waterbreathing
+    As amphibians, Opaleites can breath both above and beneath the water. The 
+    complexity necessary to acheive this in a species their size does have a few 
+    drawbacks, however. 
+    [Can breath underwater. -10 to save rolls involviving smoke or gaseous attacks]
+   
+* Compound Eyes
+   While Opaleites have two sets of eyes, their visual aquity above water is
+   not as good as a species that lives above water full time. On the other hand,
+   it is very hard to sneak up on an Opaleite in any decent light.
+   [-10 to general perception rolls above water, can detect movement from above
+   and sides without turning head]
+
+* Start with 40 STAT points
+
+===== Available Traits =====
 
 
+
+==============================
+Opaleite Sub-Species
+==============================
+
+
+===== Mendars =====
+
+Size: Medium
+Home System: Trioch IV
+
+Stats: +2 CHA
+
+Appearance: 
+   Thin and brightly colored, these Opaleites sport a variety of colors
+   and patterns. 
+   
+== Available Traits ==
+
+Colorful
+   People like you, they naturally flock toward your brilliant scales.
+   You are the perfect disraction, bringing in the attention of those
+   in the area. 
+   [Gain advantage on a Performance[CHA] check while attempting to distract
+   a group(or single) of individuals. Mechanical species and blind/eyeless
+   individuals are immune to this effect.]
+
+
+===== Condrichs =====
+
+Size: Large
+Home System: Trioch IV
+
+Stats: +1 STR, +1 FOR
+
+Appearance:
+   Thick, cartilaginous scales cover 
+
+
+== Available Traits ==
+
+Tough Skinned
+    
+    [+1 to armor range while being attacked by a melee weapon]
+    
+    
+===== Sea Devils =====
+    
+Size: Medium
+Home System: Trioch IV
+
+Stats: +2 DEX
+
+Appearance:
+
+== Available Traits ==
+
+Bioluminesce
+
+   [
+   
+Deep Glow
+
+   [Light a 10m area around you with a dim light. +1 to enemies
+   trying to hit you]
