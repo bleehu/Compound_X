@@ -4,6 +4,8 @@ Damage Types and Armor Types
 
 ===== Damage Types =====
 
+== Weapon Types ==
+
 Ballistic Weapons:
     Ballistic weapons are straightforward: they are blocked by armor and ignore 
 shields. Any damage that defeats armor damages health.
@@ -20,6 +22,24 @@ Laser Weapons:
 shielding. Lasers deal full damage to armored targets; If a player wearing 
 ballistic armor is hit with a laser, they receive damage as if they weren't 
 wearing any armor.
+
+== Fall Damage ==
+
+    Beyond weapon damage, there are also environmental threats to consider. An 
+important note is on fall damage. A player can fall up to their Dex/2 in 
+meters before needing to roll an acrobatics check. If the surface they are 
+landing on is somehow fouled, the GM may require the player to roll an 
+acrobatics check when landing from any height at their discretion. On a failed 
+roll, take damage equal to 2 times the height fallen. The player also incurs 
+one injury, depending on the severity of the fall. Some examples are below:
+
+* Sprained ankle(s)
+* Broken ankle(s)
+* Broken leg(s)
+* Broken arm(s) in addition to leg(s)
+* Broken everything
+
+== Other Damage Types ==
 
 Explosives:
     Certain grenades and devices have Explosive (concussive) damage. Explosive 
@@ -46,6 +66,7 @@ Acid Damage:
     Some damage occurs when a substance of a significantly different PH balance
 comes in contact with your player and chemically reacts in an adverse manner.
 Such cases are usually painful and smell bad. 
+
     While taking acid damage doesn't always mean that you have an ongoing 
 effect, read the source of the damage carefully to see if in addition to the 
 one-time damage effect, you also have an ongoing effect to deal with as well. 
@@ -64,23 +85,12 @@ ignores armor.
 Armor:
     Ballistic Armors (or more simply, Armor) are the first type of protective 
 measure that you will come across. When armor is shot by a ballistic weapon, the 
-armor may reduce or fully block damage before the character's health is damaged. 
+armor may reduce or fully block damage before the character's health is damaged.
+Balistic armor also does not conduct electricity, and an electric weapon that
+hits armor usually does not deliver the electric portion of its damage. For 
+examples of armor that you can buy, see the /items/Armor section.
 
 Shields:
     CS Shields (or more simply, Shields) are the second type of protective 
 measure that you will come across. Shields normally protect against Plasma and 
 Lasers but not against ballistics.  
-
-    Beyond weapon damage, there are also environmental threats to consider. An 
-important note is on fall damage. A player can fall up to their Dex/2 in 
-meters before needing to roll an acrobatics check. If the surface they are 
-landing on is somehow fouled, the GM may require the player to roll an 
-acrobatics check when landing from any height at their discretion. On a failed 
-roll, take damage equal to 2 times the height fallen. The player also incurs 
-one injury, depending on the severity of the fall. Some examples are below:
-
-* Sprained ankle(s)
-* Broken ankle(s)
-* Broken leg(s)
-* Broken arm(s) in addition to leg(s)
-* Broken everything
