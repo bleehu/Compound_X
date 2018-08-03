@@ -49,7 +49,7 @@ DEX Requirement: 3
 
 Damage: 54 Ballistic + 2*STR mod + 1*DEX mod + 1xBleed
 Size: One-handed
-Range: 2m
+Range: Adjacent (1m)
 Accuracy Modifier: +2
 DEX Requirement: 4
 
@@ -118,7 +118,7 @@ materials. -50 on stealth checks while using.
 
 Damage: 56 Ballistic + 2*STR + 1*DEX + 1xBleed
 Size: One-handed
-Range: 2m
+Range: Adjacent (1m)
 Accuracy Modifier: +2
 DEX Requirement: 6
 
@@ -130,7 +130,7 @@ DEX Requirement: 6
 
 Damage: 32 Ballistic + 6*STR mod
 Size: Two-handed
-Range: 2m
+Range: Adjacent (1m)
 Accuracy Modifier: +0
 STR Requirement: 6
 
@@ -155,7 +155,7 @@ Guard modifier of 0.
 
 Damage: 56 Ballistic + 2*STR mod + DEX mod + 2xBleed
 Size: One-handed - Hybrid
-Range: 2m
+Range: Adjacent (1m)
 Accuracy Modifier: +2
 DEX Requirement: 6
 
@@ -165,7 +165,7 @@ DEX Requirement: 6
 
 Damage: 56 Plasma + 2*STR mod + DEX mod + 3xPlasma Burn
 Size: One-handed
-Range: 2m
+Range: Adjacent (1m)
 Accuracy Modifier: +2
 DEX Requirement: 4
 
