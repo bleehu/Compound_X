@@ -21,16 +21,18 @@ MELEE WEAPONS
 
 ===== LEVEL 1 REQUIREMENT WEAPONS =====
 
-== Eliazar Plasma Torch $240 ==
+== Eliazar General-Purpose Welding Torch $170 ==
 
-Damage: 30 + 2x Plasma Burn
+Damage: 30 Fire + 2x Burn
 Size: Light
 Range: Adjacent (1m)
 Accuracy Modifier: +1
 STR Requirement:   3
 
-	Plasma. Can quickly repair vehicles with welding materials, seal/cut through 
-moderate doors, and make temporary cover. -40% stealth for being quiet on stealth attacks.
+	A vital tool for structural repairs - good for sealing or cutting  
+metal surfaces or slagging mechanisms like locks. Takes about 1 hour to 
+cut a median person-sized opening through half-inch steel plate. -40 on 
+Stealth rolls while using.
 
 == Gurber G1 Combat Knife $315 ==
 
@@ -49,6 +51,19 @@ Accuracy Modifier: +2
 DEX Requirement: 4
 
 ===== LEVEL 5 REQUIREMENT WEAPONS =====
+
+== Eliazar Plasma Torch $240 ==
+
+Damage: 30 Plasma + 2x Plasma Burn
+Size: Light
+Range: Adjacent (1m)
+Accuracy Modifier: +1
+STR Requirement:   3
+
+	A vital tool for structural repairs - good for sealing or cutting  
+metal surfaces or slagging mechanisms like locks. Takes about 40 minutes to 
+cut a median person-sized opening through half-inch steel plate. -40 on 
+Stealth rolls while using.
 
 == Guri Grabber Knife $470 ==
 
