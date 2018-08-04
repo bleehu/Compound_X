@@ -18,6 +18,9 @@ you stop cloaking and have to wait a number of actions equal to your "Charge
 Delay" (listed under the relevant cloaking module's description) before being 
 able to cloak again.
 
+    Cloaking modules have a built-in Energy supply, the size of which is given 
+in the statblocks. This Energy recharges fully each Long Rest.
+
 ===== Cloaking Detection =====
 
     If someone/something is looking for you, they must pass a Spotting - PER 
