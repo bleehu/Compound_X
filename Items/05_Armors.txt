@@ -1,10 +1,12 @@
 ==============================
 Armor Rigs, Armor Plates and Advanced Armor
 ==============================
+
 	This document lists the Armor and Rig equipment 
 available to characters in standard campaigns.
 
 =====  I RECON ARMOR RIGS   =====
+
 	Tactical Vest system with armor underneath. 
 
 == STANDARD RIGS ==
@@ -445,14 +447,15 @@ Fast Recharge Energy:	25
 Secondary Module Cost:	1470
 Sec Module Hard Pts:	1
 Secondary Module Benefit: Either provides +50 Shield Strength 
-or +50 Recharge Rate, +4 Fast Recharge cost per secondary. 
+or +30 Recharge Rate, +5 Fast Recharge cost per secondary. 
 Decided on purchase.
 
 =====================================
 CLOAKING EQUIPMENT
 =====================================
-	Ever wanted to be invisible? Please see section
-"Cloaking" at the bottom of the Basic Rules document.
+
+	Ever wanted to be invisible? Please see the 
+Cloaking Rules document for details of use.
 You must have proficiency with Stealth Armor, and 
 you cannot use more than 1 Cloaking primary module at 
 one time.
@@ -461,7 +464,6 @@ one time.
 	
 ---- Mk1 Microfoil Cloaker ----
 Primary Module Cost:	2000
-Stealth Skill Required:	10
 Prim Module Hard Pts: 	1
 Detect DC:		75
 Moving Detect DC:   	50
@@ -469,6 +471,7 @@ Cloak Turn Bonus:	+0
 Charge Delay:    	3 Actions
 Energy Activation Cost:	7
 Energy Upkeep:   	7
+Built-in Energy:	50
 
 Secondary Module Cost:	800
 Sec Module Hard Pts:	1
@@ -479,7 +482,6 @@ Bonus, -1 Energy Upkeep, per secondary module
 	
 ---- Mk1 Passive Camouflage Module ----
 Primary Module Cost:	2500
-Stealth Skill Required:	10
 Prim Module Hard Pts: 	1
 Detect DC:		25
 Moving Detect DC:   	0
@@ -487,6 +489,7 @@ Cloak Turn Bonus:	+Infinite
 Charge Delay:    	0 Actions; Attempts to passively camouflage you, at all times, while active.
 Energy Activation Cost:	7
 Energy Upkeep:   	5
+Built-in Energy:	45
 
 Secondary Module Cost:	1000
 Sec Module Hard Pts:	1
@@ -500,7 +503,6 @@ per secondary module.
 
 ---- Mk2 Advanced Microfoil Cloaker ----
 Primary Module Cost:	2750
-Stealth Skill Required:	15
 Prim Module Hard Pts: 	2
 Detect DC:		100
 Moving Detect DC:   	75
@@ -508,6 +510,7 @@ Cloak Turn Bonus:	+0
 Charge Delay:    	3 Actions
 Energy Activation Cost:	13
 Energy Upkeep:   	8
+Built-in Energy:	60
 
 Secondary Module Cost:	1100
 Sec Module Hard Pts:	1
@@ -519,7 +522,6 @@ Secondary Module Benefit: Provides -3 Detect DCs,
 	
 ---- Mk3 Experimental Body Cloaker ----
 Primary Module Cost:	3520
-Stealth Skill Required:	25
 Prim Module Hard Pts: 	2
 Detect DC:		100
 Moving Detect DC:   	75
@@ -527,6 +529,7 @@ Cloak Turn Bonus:	+4
 Charge Delay:    	3 Actions
 Energy Activation Cost:	35
 Energy Upkeep:   	3
+Built-in Energy:	55
 
 Secondary Module Cost:	1408
 Sec Module Hard Pts:	1
@@ -571,6 +574,7 @@ Primary Module Cost:	1500
 Electronics Skill Req:	10
 Prim Module Hard Pts: 	1
 Energy Activation Cost:	10
+Built-in Energy:	40
 Description:     	40% chance to hit, as an immediate reaction
 to a fast-moving enemy explosive that comes within your line-of-sight
 and within a 5 meter radius of you, you can roll to eliminate one 
