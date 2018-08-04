@@ -580,3 +580,35 @@ Secondary Module Cost:	1125
 Sec Module Hard Pts:	1
 Secondary Module Benefit: +60% chance to hit (max 100%),
 +3 meter radius, +5 Energy Activation cost, per secondary module.
+
+==============================
+Battery Packs
+==============================
+
+===== LEVEL 1 REQUIREMENT =====
+
+Basic Personal Battery Pack ($400):
+	An external Energy storage device. May be tapped to power other equipment.
+
+Hard Points Required: 	1
+Maximum Energy: 	20
+Short Rest Recharge:  	0
+Long Rest Recharge: 	20
+
+Basic Military-grade Battery Pack ($650):
+	An external Energy storage device. May be tapped to power other equipment.
+
+Hard Points Required: 	1
+Maximum Energy: 	35
+Short Rest Recharge: 	0
+Long Rest Recharge: 	30
+	
+===== LEVEL 5 REQUIREMENT =====
+
+Basic Military-grade Specialist Battery Pack ($850):
+	An external energy storage device. May be tapped to power other equipment.
+
+Hard Points Required: 	1
+Maximum Energy: 	35
+Short Rest Recharge: 	15
+Long Rest Recharge: 	35
