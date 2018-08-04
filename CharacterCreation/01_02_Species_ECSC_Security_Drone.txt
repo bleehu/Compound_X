@@ -214,3 +214,18 @@ in space and in zero gravity. Cryo Drones get a +20 to Reflex saves to move in
 zero gravity and +20 to Acrobatics checks to maneuver in zero gravity as well. 
 They have a -20 to skill checks involving Swim. Cryo Drones with this trait only 
 reduce plasma burn tokens every 3 turns instead of every other turn. 
+
+===== Series 0x0c "Constructor" =====
+
+    During the mid 2400s, the ECSC had many varieties of purpose-built construction 
+drones in service. The Series Twelve Constructor Drone was the response by the ECSC 
+to replace them all with an all-purpose unit that could be easily utilized on most 
+inhabited worlds. The Constructor Drone is now a common sight throughout ECSC space 
+where there is work to be done. Series Twelve Drones are usually black, gray, or 
+white, though it is common for military units to be repainted to fit with the 
+uniforms of everyone else. Constructor Drones also come with an optional high 
+visiblity yellow pattern package. The Series Twelve has a bulkier frame than other
+drones, to deal with the constant heavyweight lifting that is required of them.
+    
+Size: Large
+Favored Terrain: Urban
