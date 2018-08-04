@@ -156,8 +156,9 @@ Active Feats below.
 Energy:
 	Continued evolution of battery technology has allowed the use of extremely 
 power-hungry equipment by individual combatants and technicians, such as particle 
-shields and cloaking armor modules. Some oft he more technical classes have built-in 
-Energy storage, others may acquire it by purchasing Battery Pack items.
+shields and cloaking armor modules. Most devices that consume Energy come with a 
+built-in supply that can be used only to power the device itself. An exception, 
+battery packs, can be used to power any device.
 
 Skills: 
 	Each character learns things while going through life. Maybe your time in 
