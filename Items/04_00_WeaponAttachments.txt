@@ -1,21 +1,19 @@
 ==============================
 Weapon Attachments
 ==============================
-    These add-ons are stat affected items or items that will add functionality 
-to a weapon. Most Attachments can be affixed to any weapon unless otherwise 
-noted. Ask a GM if you are not sure.
 
-    Please note that unless otherwise specified, only one attachment of a given 
-type may be used. For instance, one cannot use two red lasers to get a -4 Miss 
-Chance, nor can you use both a reflex sight and a 3.2x scope. 
+    These add-ons are stat affected items or items that will add functionality 
+to a weapon. For more information on weapon attachments, see the "Weapon 
+Customization" section of the Basic Rules.
 
 ==============================
 Optics / Aiming Aids
 ==============================
-    You may only have 1 scope, unless otherwise stated.
 
 ===== Level 1 Requirement =====
+
 == Tritium Glow Iron Sights  $150 ==
+
     1x magnification, but allows for much better target acquisition. Can be 
 mounted on 45 degree mounts in addition to a scope in order to negate a minimum 
 engagement distance penalty.
@@ -26,6 +24,7 @@ engagement distance penalty.
 shotguns, rifles, etc.
 
 == Grenade Launcher Iron Sights  $400 ==
+
     1x Magnification. Allows better estimation of distances. Folds down for 
 compatibility with magnified optics or dot-sites for the primary weapon. Can be 
 used along side other weapon sites, but not the Tritium Glow Iron Sites (If 
@@ -68,18 +67,17 @@ for windage or target movement. also artificially enhances view so as to
 magnify by 120%.
 
     R3 Range bonus & Miss Chance reduction (all Range Brackets) is proportional 
-to the weapon
+to the weapon type as listed below.
 
-type: 
 *  +8m/-2.0 Pistols
 *  +12m/-1.5 submachine guns
 *  +8m/-1.0 carbines
 *  +6m/-1.0 other.
 
-Weapon Reflex Modifier: 
-*  +5
+Weapon Reflex Modifier:  +5
 
 == 2x Magnifier for Dot Scopes  $500 ==
+
     A basic magnifying optical-tube capable of increasing the effective range of 
 a weapon. Flips out of the way for 1 action. Must be paired with a 
 reflex/projector/dot sight. Usable on select long barrel pistols, ask your DM. 
@@ -94,22 +92,20 @@ reticle suitable for daytime bright-light use.
     Add a range bracket with Miss Chance R4 = [R3's miss chance]+1 and Range R4 
 = R3+35m, +10m minimum range.
 
-Range Bracket Miss Chance: 
-* -0.5
+Range Bracket Miss Chance: -0.5
 
 == 4x Basic Scope  $1100 ==
+
     Not usable on pistols, SMGs. Add a range bracket with Miss Chance R4 = [R3's 
 miss chance]+1 and Range R4 = R3+50m, +15m minimum range.
 
-Range Bracket Miss Chance:
-*  -0.5
+Range Bracket Miss Chance:  -0.5
 
 == 6x Basic Scope  $1400 ==
     Not usable on pistols, SMGs. Add a range bracket with Miss Chance R4 = [R3's 
 miss chance]+1 and Range R4 = R3+80m, +20m minimum range.
 
-Range Bracket Miss Chance:
-*  -0.5
+Range Bracket Miss Chance:  -0.5
 
 ==  2-6x Scope  $2100 ==
     Not usable on pistols, SMGs. For 1 action, you can adjust the magnification 
@@ -231,9 +227,8 @@ Range Bracket Miss Chance:
 *  -1 when firing at organic targets behind cover within 20m
 
 ==============================
-Barrel Attachments
+Muzzel Attachments
 ==============================
-    You may only choose one barrel attachment.
 
 ===== Level 1 Requirement =====
 
@@ -288,7 +283,6 @@ R3 Range: +12m
 ==============================
 Barrel Replacements
 ==============================
-    You may only choose one barrel type.
 
 ===== Level 1 Requirement =====
 == Light Profile Barrel  $720 ==
@@ -322,8 +316,6 @@ Weapon Damage:
 ==============================
 Lower Rail attachments
 ==============================
-    You may only choose one of these. You may not use these attachment with 
-pistols or small SMGs (pistol sized). 
 
 ===== Level 1 Requirement =====
 
