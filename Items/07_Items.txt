@@ -25,7 +25,7 @@ Fire Extinguisher ($115):
 one for a pressurized fire suppressing agent and one for a pressurized 
 propellant. Can be used to put out sources of fire and has a range of 
 4m. Requires both hands to operate. Not recommended for use on anything 
-other than a fire.
+other than a fire. Comes with one Extinguisher Magazine set already loaded.
 
 Extinguisher Magazine Set ($40):
 	A set of two magazines for the Fire Extinguisher; one
