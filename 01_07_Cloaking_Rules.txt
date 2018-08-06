@@ -6,8 +6,8 @@ Cloaking
  
 ===== Cloaking Modules =====
 
-	To activate a cloaking module, you must expend an amount of Energy, 
-from the cloak module's built-in power or an external battery, the cloaking 
+	To activate a cloaking module, you must expend an amount of Energy, from 
+the cloak module's built-in power or an external battery, equal to the cloaking 
 module's Energy Activation Cost. Whenever you end a turn cloaked, you must pay 
 the module's Energy Upkeep cost or the cloak immediately deactivates. If you 
 performed no Actions, the Upkeep cost is halved for that turn.
