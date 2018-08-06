@@ -836,7 +836,7 @@ Melee Expertise effectively has no prerequisite.
 	with being improvised melee weapons while being used as melee weapons
 	(They still receive a Guard penalty).
 36:	+1 Accuracy to consecutive firing Actions after the first (non-stacking) and 
-	to attacks triggered by suppression Actions.
+	to attacks triggered by Suppression Actions.
 48:	+10m to Range R3.
 60:	Machine Guns when autofiring, Flamethrowers, Lightning Guns, Antimaterial 
 	Guns firing explosive shot, etc. can be fired at 1m radius areas instead 
