@@ -467,15 +467,15 @@ Stealth Skill Required:	10
 Prim Module Hard Pts: 	1
 Detect DC:		75
 Moving Detect DC:   	50
-Cloak Turn Bonus:	+0
-Charge Delay:    	3 Actions
+Overheat:		3 Rounds
+Charge Delay:    	Encounter
 Nanite Activation Cost:	7
 Nanite Upkeep:   	7
 
 Secondary Module Cost:	800
 Sec Module Hard Pts:	1
-Secondary Module Benefit: Provides +1 Cloak Turn
-Bonus, -1 Nanite Upkeep, per secondary module
+Secondary Module Benefit: Provides +1 Overheat,
+-1 Nanite Upkeep, per secondary module
 
 =====   LEVEL 5 REQUIREMENT   =====
 	
@@ -485,7 +485,7 @@ Stealth Skill Required:	10
 Prim Module Hard Pts: 	1
 Detect DC:		25
 Moving Detect DC:   	0
-Cloak Turn Bonus:	+Infinite
+Overheat:		None
 Charge Delay:    	0 Actions; Attempts to passively camouflage you, at all times, while active.
 Nanite Activation Cost:	7
 Nanite Upkeep:   	5
@@ -506,8 +506,8 @@ Stealth Skill Required:	15
 Prim Module Hard Pts: 	2
 Detect DC:		100
 Moving Detect DC:   	75
-Cloak Turn Bonus:	+0
-Charge Delay:    	3 Actions
+Overheat:		5 Rounds
+Charge Delay:    	2 Rounds
 Nanite Activation Cost:	13
 Nanite Upkeep:   	8
 
@@ -525,8 +525,8 @@ Stealth Skill Required:	25
 Prim Module Hard Pts: 	2
 Detect DC:		100
 Moving Detect DC:   	75
-Cloak Turn Bonus:	+4
-Charge Delay:    	3 Actions
+Overheat:		10 Rounds
+Charge Delay:    	1 Round
 Nanite Activation Cost:	35
 Nanite Upkeep:   	3
 
