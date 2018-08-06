@@ -835,8 +835,8 @@ Melee Expertise effectively has no prerequisite.
 24:	Heavy weapons no longer recieve the Accuracy penalty associated 
 	with being improvised melee weapons while being used as melee weapons
 	(They still receive a Guard penalty).
-36:	+1 Accuracy against targets when your weapon's APL is at least 1 greater 
-	than the target's armor's APL.
+36:	+1 Accuracy to consecutive firing Actions after the first (non-stacking) and 
+	to attacks triggered by suppression Actions.
 48:	+10m to Range R3.
 60:	Machine Guns when autofiring, Flamethrowers, Lightning Guns, Antimaterial 
 	Guns firing explosive shot, etc. can be fired at 1m radius areas instead 
