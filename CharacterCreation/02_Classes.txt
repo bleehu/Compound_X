@@ -465,14 +465,14 @@ you, either by being on comms with you (see the headset and similar items in
 the "Items/07_Items.txt" document) or that are within 5m of you. Party Members
 (including yourself) that shoot at an indicated target get a +1 to accuracy 
 rolls to hit that target. A target remains indicated until they move, or for
-two Rounds, whichever comes first. You also get 6 skill points in Investigate
+two Rounds, whichever comes first. You also get 6 skill points in Investigation
 when you take this Class Feat. 
 
 Spotter:
-	Requires that your character be level 10 and that you have the "Tracker"
-class feat. The first time each turn that you track an enemy that you already
-tracked this encounter, you may do so as a Free Action instead of an Action.
-	For example, let's say a Hunter was fighting an enemy robot and an enemy 
+	Requires that your character be level 10 and have the "Tracker" class feat. 
+The first time each turn that you track an enemy that you have already tracked 
+this encounter, you may do so as a Free Action instead of an Action.
+	For example, let's say a Hunter is fighting an enemy robot and an enemy 
 soldier. The first turn, the Hunter spends one Action to track the robot. The
 second turn, the Hunter spends an Action to track the soldier. The third turn 
 the Hunter tracks the robot again, but this time it is a Free Action, so the 
@@ -515,9 +515,10 @@ teammates increases to +3.
 
 Bushwhacker:
 	You've had enough toothy critters jump out of the brush and try to bite your
-head off to be pretty good with shooting things at close range. You get 
-advantage on shooting targets that are weilding a melee weapon with your primary 
-weapon within your weapon's R1 range bracket. You also get advantage on 
+head off to be pretty good with shooting things at close range. You gain 
+advantage on shooting targets with your primary weapon within your weapon's R1 
+range bracket. This target must also either be wielding a melee weapon or be a
+non-sentient enemy that has melee attack abilities. You also get advantage on 
 Perception rolls to spot cloaked or sneaking characters.
 
 =====   GUNSLINGER   =====
