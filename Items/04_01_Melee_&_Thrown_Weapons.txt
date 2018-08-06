@@ -34,7 +34,7 @@ STR Requirement:   3
 
 	A vital tool for structural repairs - good for sealing or cutting  
 metal surfaces or slagging mechanisms like locks. Takes about 1 hour to 
-cut a median person-sized opening through half-inch steel plate. -40 on 
+cut an average person-sized opening through half-inch steel plate. -40 on 
 Stealth rolls while using. This weapon has an APL of 10.
 
 == Gurber G1 Combat Knife $315 ==
@@ -65,7 +65,7 @@ STR Requirement:   3
 
 	A vital tool for structural repairs - good for sealing or cutting  
 metal surfaces or slagging mechanisms like locks. Takes about 40 minutes to 
-cut a median person-sized opening through half-inch steel plate. -40 on 
+cut an average person-sized opening through half-inch steel plate. -40 on 
 Stealth rolls while using. This weapon has an APL of 10.
 
 == Guri Grabber Knife $470 ==
@@ -186,6 +186,7 @@ THROWN WEAPONS
 Damage: 34 Ballistic + 2*DEX mod + 1xBleed
 Size: Light
 DEX Requirement: 5
+Armor Piercing Level: 2
 
 	Ranged Miss Chance
 
@@ -202,6 +203,7 @@ Can carry 2 per Secondary Ammo Slot.
 Damage: 44 Ballistic + STR mod + DEX mod + 1xBleed
 Size: Light
 STR Requirement: 5
+Armor Piercing Level: 3
 
 	Ranged Miss Chance
 
@@ -218,6 +220,7 @@ Can carry 1 per Secondary Ammo Slot.
 Damage: 34 Ballistic + 2*DEX mod + 1xBleed
 Size: Light
 DEX Requirement: 6
+Armor Piercing Level: 4
 
 	Ranged Miss Chance
 
@@ -233,7 +236,7 @@ checks to hide the attack.
 Damage: 34 Plasma + 2*DEX mod + 3xPlasma Burn
 Size: Light
 DEX Requirement: 6
-AP Level: 5
+Armor Piercing Level: 5
 
 	Ranged Miss Chance
 
