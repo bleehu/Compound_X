@@ -640,7 +640,7 @@ combat.
 to hit the target you intended. Before rolling accuracy, roll a DC 50 Luck check. 
 You may add 10 to your roll if you are aimed at your target. On success, you hit 
 your intended target. On failure, you hit a randomly chosen character engaged in 
-Melee Combat with your intended target. In either case your attack them proceeds 
+Melee Combat with your intended target. In either case your attack then proceeds 
 as normal. This Luck check cannot Critically succeed or fail.
 
 == Using Cover/Stances ==
