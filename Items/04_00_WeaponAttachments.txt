@@ -527,7 +527,7 @@ lasers.
 
 Cost: $1.5 x normal mag
 Damage: +15%
-Jam Range: + 2 on second roll
+Jam Range: + 2 on second roll after rolling a 1
 
 == Poison Bullet Magazine  $2x + 50 magazine cost ==
     Your bullet's new damage = 0.9x bullet base damage + stackable poison 
