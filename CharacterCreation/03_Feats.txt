@@ -943,6 +943,19 @@ Prerequisites:
 cover. You hunker or go prone behind that cover as a free action. Cannot 
 be used in concert with Run 'N' Gun.
 
+== Duck, Bob and Weave [20 Nanites] ==
+Prerequisites:
+
+* Dex 4
+
+	As the last Action on your turn, you may move half of your Move Speed 
+bouncing erratically along your path. When you do so, you are considered to be 
+in light cover from all sides, owing to the difficulty that the enemy has in 
+attempting to keep you in their sights. This light cover does not stack with 
+other cover. When using Duck, Bob and Weave, your character must end their turn 
+at least their Move Speed from where they started their turn. You cannot Duck, 
+Bob and Weave if your movement is constrained by a condition or other effect. 
+
 == Flash Dance [10*X Nanites] ==
 Prerequisites:
 
