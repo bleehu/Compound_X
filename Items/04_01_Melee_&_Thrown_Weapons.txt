@@ -11,7 +11,7 @@ UNARMED
 
 == Unarmed Strike ==
 
-Damage: 20 Ballistic + STR mod + DEX mod, minimum 10
+Damage: 20 + STR mod + DEX mod Ballistic, minimum 10
 Range: Adjacent (1m)
 Accuracy Modifier: 0
 
@@ -39,7 +39,7 @@ Stealth rolls while using. This weapon has an APL of 10.
 
 == Gurber G1 Combat Knife $315 ==
 
-Damage: 34 Ballistic + 2*DEX mod + 1xBleed
+Damage: 34 + 2*DEX mod Ballistic + 1xBleed
 Size: Light
 Range: Adjacent (1m)
 Accuracy Modifier: +1
@@ -47,7 +47,7 @@ DEX Requirement: 3
 
 == Gurber GS101 Combat Sword $680 ==
 
-Damage: 54 Ballistic + 2*STR mod + 1*DEX mod + 1xBleed
+Damage: 54 + 2*STR mod + 1*DEX mod Ballistic + 1xBleed
 Size: One-handed
 Range: Adjacent (1m)
 Accuracy Modifier: +2
@@ -70,7 +70,7 @@ Stealth rolls while using. This weapon has an APL of 10.
 
 == Guri Grabber Knife $470 ==
 
-Damage: 24 Ballistic + 2*DEX mod + 1xBleed
+Damage: 24 + 2*DEX mod Ballistic + 1xBleed
 Size: Light
 Range: Adjacent (1m)
 Accuracy Modifier: +1
@@ -82,7 +82,7 @@ action as long as you are in control, without having to Pin the target first.
 
 == Guri Carbon Whip $560 ==
 
-Damage: 50 Ballistic + 2*DEX mod
+Damage: 50 + 2*DEX mod Ballistic
 Size: Exotic - One-handed
 Range: 3m
 Accuracy Modifier: +1
@@ -95,7 +95,7 @@ has a Guard modifier of 0.
 
 == SPECO SP10 VAE Combat Knife $640 ==
 
-Damage: 34 Ballistic + 2*DEX mod + 1xBleed
+Damage: 34 + 2*DEX mod Ballistic + 1xBleed
 Size: Light
 Range:  Adjacent (1m)
 Accuracy Modifier: +1
@@ -116,7 +116,7 @@ materials. -50 on stealth checks while using.
 
 == SPECO SP30 VAE Combat Sword $1245 ==
 
-Damage: 56 Ballistic + 2*STR + 1*DEX + 1xBleed
+Damage: 56 + 2*STR + 1*DEX Ballistic + 1xBleed
 Size: One-handed
 Range: Adjacent (1m)
 Accuracy Modifier: +2
@@ -128,7 +128,7 @@ DEX Requirement: 6
 
 == Eliazar E500 Assisted-Sledgehammer $811 ==
 
-Damage: 32 Ballistic + 6*STR mod
+Damage: 32 + 6*STR mod Ballistic, minimum 20
 Size: Two-handed
 Range: Adjacent (1m)
 Accuracy Modifier: +0
@@ -140,7 +140,7 @@ on stealth attacks. Reduces the DC to break down a door by 30 per hit.
 
 == Eliazar E5500 Power Fist $880 ==
 
-Damage: 10 Ballistic + 5*STR mod
+Damage: 10 + 5*STR mod Ballistic, minimum 20
 Size: Light
 Range: Adjacent (1m)
 Accuracy Modifier: +1
@@ -153,7 +153,7 @@ Guard modifier of 0.
 
 == Muzashi VAE Katana $1354 ==
 
-Damage: 56 Ballistic + 2*STR mod + DEX mod + 2xBleed
+Damage: 56 + 2*STR mod + DEX mod Ballistic + 2xBleed
 Size: One-handed - Hybrid
 Range: Adjacent (1m)
 Accuracy Modifier: +2
@@ -163,7 +163,7 @@ DEX Requirement: 6
 
 == Eliazar Plasma Sword $987 ==
 
-Damage: 56 Plasma + 2*STR mod + DEX mod + 3xPlasma Burn
+Damage: 56 + 2*STR mod + DEX mod Plasma + 2xPlasma Burn
 Size: One-handed
 Range: Adjacent (1m)
 Accuracy Modifier: +2
@@ -183,7 +183,7 @@ THROWN WEAPONS
 
 == Gurber Throwing Knife $80 ==
 
-Damage: 34 Ballistic + 2*DEX mod + 1xBleed
+Damage: 34 + 2*DEX mod Ballistic + 1xBleed
 Size: Light
 DEX Requirement: 5
 Armor Piercing Level: 2
@@ -200,7 +200,7 @@ Can carry 2 per Secondary Ammo Slot.
 
 == EAL Tactical Throwing Axe $160 ==
 
-Damage: 44 Ballistic + STR mod + DEX mod + 1xBleed
+Damage: 44 + STR mod + DEX mod Ballistic + 1xBleed
 Size: Light
 STR Requirement: 5
 Armor Piercing Level: 3
@@ -217,7 +217,7 @@ Can carry 1 per Secondary Ammo Slot.
 
 == Carbide Kunai $120 ==
 
-Damage: 34 Ballistic + 2*DEX mod + 1xBleed
+Damage: 34 + 2*DEX mod Ballistic + 1xBleed
 Size: Light
 DEX Requirement: 6
 Armor Piercing Level: 4
@@ -233,7 +233,7 @@ checks to hide the attack.
 
 == Plasma Catalyst Kunai $160 ==
 
-Damage: 34 Plasma + 2*DEX mod + 3xPlasma Burn
+Damage: 34 + 2*DEX mod Plasma + 3xPlasma Burn
 Size: Light
 DEX Requirement: 6
 Armor Piercing Level: 5
