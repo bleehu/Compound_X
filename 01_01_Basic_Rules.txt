@@ -596,3 +596,23 @@ specific class or type of gun. Their descriptions indicate which they go on.
 * Ammo
 * Total Conversions
 
+== Ammo ==
+
+    Only extended, magpull, and Drum mags apply to unconventional weapons 
+(weapons other than bullet-firing.) Total mag price should be calculated by 
+taking multipliers for extended mags first, then multipliers for special effect, 
+then magazine accessories like magpulls. Multipliers are multiplied together but 
+they do not multiply the constant.
+
+    For example, extended mag + poison bullet magazine magazine cost is 
+(1.3x * 2x + 50) = (2.6x+50)
+
+== Total Conversions ==
+
+    Total conversions only work with the specified weapon. You may only utilize 
+one weapon conversion at a time. HOWEVER, for conversions relying on switching 
+out a receiver, you may carry (at max) one additional receiver in order to swap 
+kits on the go. You must pass 2 Weapons use / knowledge [Weapons] checks in 
+order to successfully convert your weapon on the go. DC 60. Failure on one check 
+instantly jams the weapon on first shot. Failure on both checks requires an 
+additional check.
