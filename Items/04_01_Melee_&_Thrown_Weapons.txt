@@ -88,7 +88,7 @@ Range: 3m
 Accuracy Modifier: +1
 DEX Requirement: 6
 
-	Can grapple limbs from range (Acrobatics based grapple) and force movement 
+	Can grapple limbs from range (Acrobatics-based grapple) and force movement 
 (1m for every 5 [DEX or STR]). Can make Disarm attempts at range. Grapple, 
 Shove, and Disarm attempts with the whip costs Actions as normal. This weapon
 has a Guard modifier of 0.
