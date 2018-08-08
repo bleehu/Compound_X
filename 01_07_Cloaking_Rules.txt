@@ -13,15 +13,19 @@ the module's Energy Upkeep cost or the cloak immediately deactivates. If you
 performed no Actions, the Upkeep cost is halved for that turn.
 
 	You may remain cloaked for a number of turns equal to your cloak module's 
-Overheat stat or when you run out of Energy, whichever occurs sooner. hen you 
+Overheat stat or when you run out of Energy, whichever occurs sooner. When you 
 decloak, for whatever reason, you must wait a number of actions equal to the 
 module's "Charge Delay" (listed under the relevant cloaking module's description) 
 before being able to cloak again.
 
+    Cloaking modules have a built-in Energy supply, the size of which is given 
+in the statblocks. This Energy recharges fully each Long Rest.
+
 ===== Cloaking Detection =====
 
-	If someone/something is looking for you, they must pass a (normally, 
-perception) check at 'Detect DC' difficulty, modified by your Stealth skill. 
+    If someone/something is looking for you, they must pass a Spotting - PER 
+check at 'Detect DC' difficulty, modified by your Stealth skill. 
+
 While moving, the Detect DC is reduced (listed as 'moving Detect DC' under the 
 relevant cloaking module's description). There is a tell-tale shimmer in the 
 cloak, as the micro-foil has a hard time keeping up with moving environments. 
