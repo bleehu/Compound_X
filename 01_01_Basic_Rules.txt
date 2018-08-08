@@ -566,7 +566,7 @@ instead of one.
 Player Weapon Customization
 ==============================
 
-	Almost all weapons come with peices that can be added or swapped out for 
+	Almost all weapons come with pieces that can be added or swapped out for 
 more specialized or more expensive pieces that make the weapon more effective.
 These special parts are called "Weapon Attachments." You can purchase weapon
 attachments at the start of the game when building your characater, or in most

@@ -2,9 +2,9 @@
 Weapon Attachments
 ==============================
 
-    These add-ons are stat affected items or items that will add functionality 
-to a weapon. For more information on weapon attachments, see the "Weapon 
-Customization" section of the Basic Rules.
+    These weapon accessories either increase the performance of your weapon, or
+add more functionality to it. For more information on weapon attachments, see 
+the "Weapon Customization" section of the Basic Rules.
 
 ==============================
 Optics / Aiming Aids
@@ -19,11 +19,11 @@ the trigger.
 == Tritium Glow Iron Sights  $150 ==
 
     A metalic notch on the rear of the rail with a small metal post toward the
-muzzle which are a simple way of lining up your shots. The metal sights have a
-streak of tritium paint on them so they glow softly like the marks on an old 
-watch. 1x magnification, but allows for much better target acquisition. Can be 
-mounted on 45 degree mounts in addition to a scope in order to negate a minimum 
-engagement distance penalty.
+muzzle, that serve as a simple way of lining up your shots. These particular 
+metal sights have a streak of tritium paint on them so they glow softly like the 
+marks on an old watch. 1x magnification, but allows for much better target 
+acquisition. Can be mounted on 45 degree mounts in addition to a scope in order 
+to negate a minimum engagement distance penalty.
 
     Range Bracket Miss Chance: -0.5
 
@@ -535,7 +535,7 @@ are excluded.
     Hollow point ammunition are bullets that have either a hollow tip or a tip
 with water inside. This makes the bullet fragment more dramatically on impact,
 which means that it penetrates armor less effectively. However, if it hits 
-something squishy like fruit, a person's body or the delecate silicone and boron
+something squishy like fruit, a person's body or the delicate silicone and boron
 of a security drone, it shreds it much more effectively.
 
 Base damage: +30%
@@ -558,7 +558,7 @@ Base Damage: -10%
 chaff. When the round hits, it shocks whatever it hits. But this chaff does 
 little to fragment the way that conventional bullets do. 
 
-Base Damage: -50%
+Balistic Damage: -50% of base damage
 Electric Damage: +50% of base damage
 
 == Overcharge Laser Capacitors $(1.5 x mag cost) ==
@@ -594,7 +594,7 @@ of your shots.
 == High Velocity Ammunition  2.2x mag cost ==
 
     High Velocity Ammo uses slightly more dense metal and extra propellant to
-make bullets that jut go faster. This helps the ammo fly straighter and impart
+make bullets that just go faster. This helps the ammo fly straighter and impart
 more energy to what it collides with.
 
 Longest Range Bracket:  +10%m or +5m (whichever is higher)
