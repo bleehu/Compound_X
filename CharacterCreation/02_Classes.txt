@@ -733,12 +733,12 @@ Skill Proficiencies:
 	----------------------
 	Beast Mode
 	Once per engagement, you give a mighty shout and rush to engage your foes. For
-	2 turns, your move speed increases by 1m per Action, you gain +30 bonus melee damage
+	2 Rounds, your move speed increases by 1m per Action, you gain +30 bonus melee damage
 	and you gain 60 temporary HPs which lasts until the end of this effect. 
 	|
 	|
 	V
 	Enemies within [3 * CHA] meters of you when you shout must pass a DC 70 Charisma
 	check not to target you on their following turn. Instead of 60 HP, you gain a 
-	temporary (40 + 10*FORT) HPs. Beast Mode now last for 3 turns.
+	temporary (40 + 10*FORT) HPs. Beast Mode now last for 3 Rounds.
 ======================================

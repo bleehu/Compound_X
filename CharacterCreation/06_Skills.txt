@@ -10,7 +10,8 @@ those people who is just naturally good at hacking computers.
 skill in, add both your character's points in relevant skills and the relevant
 stat modifier. Ask your GM to confirm what skills and stats apply to the roll.
 
-===== Gaining Skill Points and Skill Proficiency =====
+===== Gaining Skill Points =====
+
 	Each time a character levels up, they gain a certain number of skill
 points to distribute as they choose. Total skill point gain per level is based on 
 a character's intelligence or charisma, as described in Basic Rules. However, a 
@@ -22,33 +23,41 @@ For example, when a Pilot gains 10 skill in a Vehicles - Flight as a class passi
 at level 1, the pilot can still gain 6 points in Vehicles - Flight by spending skill
 points they earn by leveling up from level 0.
 
+===== Skill Proficiency =====
+
 	Characters are considered to be Proficient with certain skills, based on
 their class and background. When a character is Proficient in a skill, each skill 
 point they spend in that skill upon leveling up increases that skill by two 
 instead of one.
 
 ===== Skill Checks and Critical Successes =====
+
 	If you roll a critical success on a skill check, add 10 to your total roll.
 For an extra critical, add 20.
 
 ===== "General" Skills =====
+
 	Some skill groups such as Knowledge, Weapons, and Vehicles allow
 characters to learn the skill both in general and in specific cases. If the
 character does not know the specific skill in a group that applies to a situation,
 the player can instead add half of the character's general skill in that skill
-group (rounded down). For example, if a GM asks for a roll in Vehicles - Flight,
-but the character only has 10 skill in Vehicles - General, the player can add 5
-from Vehicles - General to the Vehicles - Flight roll. However, if the  GM asks
-for a roll in Vehicles - General, the player can add all 10 points from
-Vehicles - General to the roll.
-	Knowledge - General is a minor exception to this rule because Knowledge
-is an incredibly broad field. When a character learns the Knowledge - General skill,
+group (rounded down). 
+
+	For example, if a GM asks for a roll in Vehicles - Flight, but the character 
+only has 10 skill in Vehicles - General, the player can add 5 from Vehicles - 
+General to the Vehicles - Flight roll. However, if the  GM asks for a roll in 
+Vehicles - General, the player can add all 10 points from Vehicles - General to 
+the roll.
+
+	Knowledge - General is a minor exception to this rule because Knowledge is 
+an incredibly broad field. When a character learns the Knowledge - General skill,
 the player must choose four specific topics that the character has some experience
 or education in (including, but not limited to the specific Knowledge skills listed
 below). Knowledge - General can apply only to rolls related to those four topics, at
 the discretion of the GM.
 
 ===== Skills in Compound X =====
+
 	This list of some of the most commonly-used skills in Compound X is
 arranged based on the stats that are usually associated with the skill. Your GM
 may decide that a different stat applies to any given instance. In addition,
@@ -57,83 +66,82 @@ often. Talk to your GM if you would like your character to learn a more specific
 case of one of these skills or a skill not listed below.
 
 == Charisma ==
-Deception:
-	To tell a convincing lie
-Insight:
-	To tell truth and lies apart
-Performance:
-	"Roll for interpretive dance"
-Persuasion:
-	To tell the truth, share an opinion, or change someone's mind
+Deception:	To tell a convincing lie
+Insight:	To tell truth and lies apart
+Performance:	"Roll for interpretive dance"
+Persuasion:	To tell the truth, share an opinion, or change someone's mind
 
 == Dexterity ==
-Acrobatics:
-	"PARKOUR!" To perform physical tasks that primarily require quickness
-or flexibility
-Sleight of Hand:
-	To pick pockets, pull off card tricks, and cause other mayhem
-Stealth:
-	To move quietly and escape notice
-Vehicles:
-	For checks to pilot vehicles
+Acrobatics:	"PARKOUR!" To perform physical tasks that primarily require quickness or flexibility
+Sleight of Hand:	To pick pockets, pull off card tricks, and cause other mayhem
+Stealth:	To move quietly and escape notice
+Vehicles:	For checks to pilot vehicles
+
+	There are four different vehicle skills that your character can learn. They
+are listed below.
+
 * General
 * Flight
 * Ground
 * Space
 
 == Fortitude ==
-Intimidation:
-	To strike fear into the hearts of your enemies
+
+Intimidation:	To strike fear into the hearts of your enemies
 	
 == Intelligence ==
-Hacking:
-	To pwn computer systems
-Medicine:
-	To repair life forms
-Repair:
-	To repair machines
-Jury-rigging:
-	To throw together a solution using the materials on hand
-Navigation:
-	For plotting routes through space or across land
-Survival:
-	To make do far from civilization with limited technological help
-Knowledge:
-	For when a character's knowledge differs from the player's
+Hacking:	To pwn computer systems
+Medicine:	To repair life forms
+Repair:	To repair machines
+Jury-rigging:	To throw together a solution using the materials on hand
+Navigation:	For plotting routes through space or across land
+Survival:	To make do far from civilization with limited technological help
+Knowledge:	For when a character's knowledge differs from the player's
+Weapons: weapons knowledge is listed below.
+
+	There are several different knowledge areas that your character might be up
+to speed on. They are listed below.
+
 * General
 * Computers
+* Corporate
 * Geography
 * High Tech
 * History
+* Military
 * Nanites
 * Religion
 * Underworld
 * Xenology
-Weapons:
-	To properly reload, care for and repair a weapon as well as for clearing
-jams. This skill does not affect accuracy rolls.
+
+	Weapons skill is the knowledge of how to properly reload, care for and 
+repair a weapon. It also helps when rolling to clear jams. This skill provides 
+bonuses for corresponding Weapon Expertise Feats (see feats section in character 
+creation), but does not otherwise affect accuracy rolls. Weapon skill comes in
+the areas listed below.
+
 * General
-* Explosive
+* Assault/Battle Rifle
+* Carbine
+* Explosives
 * Heavy
 * Long Rifle
 * Melee
 * Pistol
 * Shotgun
-* SMG
+* Submachine Gun
 * Thrown
 
 == Perception ==
-Investigation:
-	To pick useful objects or information out of the chaff
-Spotting:
-	To pick out a detail, often at a distance
+Investigation:	To pick useful objects or information out of the chaff
+Spotting:	To pick out a detail, often at a distance
 
 == Strength ==
-Athletics:
-	To perform a feat of strength like kicking down a door or climbing up a cliff
+Athletics:	To perform a feat of strength like kicking down a door or climbing up a cliff
 
 
 ==== Difficulty Guidelines ====
+
 Example for (STRENGTH) Athletics check: 
 * 25 = Easy (Doing a pull-up)
 * 50 = Simple (Climbing a tree)
@@ -141,8 +149,7 @@ Example for (STRENGTH) Athletics check:
 * 100 = Hard (Running through a wooden wall)
 * 125 = Difficult (Kicking down a reinforced door)
 * 150 = Improbable (Throwing a human through a reinforced door)
-* 175 = Inconceivable (Ripping a reinforced door off its hinges with 
-	your hands and hitting someone with it like a baseball game)
+* 175 = Inconceivable (Ripping a reinforced door off its hinges with your hands and hitting someone with it like a baseball bat)
 * 200 = Impossible (Opening an airlock with your bear-hands)
 
 ===== Class Skill Proficiencies =====
