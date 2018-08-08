@@ -1,12 +1,8 @@
 ==============================
-Notes
+Feats
 ==============================
+
     This document lists the feats available to characters in Compound X.
-Feats may be taken on every even level as described in the Basic
-Rules document. Passive feats are used freely with no limit
-(unless otherwise stated) while active feats require the user to
-spend some Nanites, which is specified next to the feat's name.
-Unless otherwise specified, you cannot take a feat more than once.
 
 ==============================
 Passive Feats
@@ -716,19 +712,6 @@ now working with. This feat can only be taken once per weapon.
 ==============================
 Weapon Expertise Feats:					
 ==============================
-		
-	These feats represent dedicated training with a particular class of weapon, 
-and offer bonuses based on the relevant Weapons skill (Weapon skills are listed 
-in "06_Skills.txt"). Each feat offers a set of bonuses related to using that type of 
-weapon (and only that type of weapon), and each bonus requires the character to have 
-a number of points in the relevant Weapon skill. A character with 0 points in 
-Weapons - Pistols would gain only one benefit, while 60 points would benefit from 
-them all. The feats are formatted as a list of "X: Benefit", where X is the number of 
-points required in the corresponding Weapon skill to gain the benefit.
-	
-	Weapon Expertise feats require proficiency with the weapon type, but otherwise 
-have no prerequisites. Note that as all characters are proficient with Unarmed Strike, 
-Melee Expertise effectively has no prerequisite.
 
 == Pistol Expertise ==	
 
