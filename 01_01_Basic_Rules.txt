@@ -634,10 +634,53 @@ instead of one.
 Player Weapon Customization
 ==============================
 
-	Weapon customization can be done anytime you are in a town, space station, or 
-other mercantile area. Ask the GM if there are weapon shops or kiosks around, 
-they should point you to one. From there you can apply upgrades and attachments.
+	Almost all weapons come with pieces that can be added or swapped out for 
+more specialized or more expensive pieces that make the weapon more effective.
+These special parts are called "Weapon Attachments." You can purchase weapon
+attachments at the start of the game when building your characater, or in most
+of the trade stations and gun shops in large towns. When you buy an attachment
+from a shop, they can put the attachment on for no extra cost. While at a gun
+shop or kiosk, you can apply upgrades and attachments yourself as well. When 
+applying upgrades or customizations at a kiosk or shop, no roll is required.
 
-	The GM may tell you specific attachments that are available, or they may say 
-you can just go about your usual customization. See the Attachments document
-for more details on the kinds of attachments you can use, and their restrictions.
+	Alternatively, you can attempt to add or remove a weapon attachment in the
+field. Doing so will require a skill check of DC 60 with the weapon skill that
+matches your weapon type. If you succeed, you manage to make the adjustment
+in just Two Actions. Otherwise it takes Four Actions. 
+
+	There are 8 types of attachments. They are listed below. Unless otherwise
+specified, Your weapon cannot hold more than one of each. There are some weapons
+that specify that they can't take certain attachments. Any weapon that doesn't
+specify as much is assumed to be able to receive any of the listed attachements
+except for Total Conversions. Total Conversions are usually only for one 
+specific class or type of gun. Their descriptions indicate which they go on.
+
+* Optics
+* Lights
+* Lower Rails
+* Barrels
+* Muzzles
+* Slings
+* Ammo
+* Total Conversions
+
+== Ammo ==
+
+    Only extended, magpull, and Drum mags apply to unconventional weapons 
+(weapons other than bullet-firing.) Total mag price should be calculated by 
+taking multipliers for extended mags first, then multipliers for special effect, 
+then magazine accessories like magpulls. Multipliers are multiplied together but 
+they do not multiply the constant.
+
+    For example, extended mag + poison bullet magazine magazine cost is 
+(1.3x * 2x + 50) = (2.6x+50)
+
+== Total Conversions ==
+
+    Total conversions only work with the specified weapon. You may only utilize 
+one weapon conversion at a time. HOWEVER, for conversions relying on switching 
+out a receiver, you may carry (at max) one additional receiver in order to swap 
+kits on the go. You must pass 2 Weapons use / knowledge [Weapons] checks in 
+order to successfully convert your weapon on the go. DC 60. Failure on one check 
+instantly jams the weapon on first shot. Failure on both checks requires an 
+additional check.
