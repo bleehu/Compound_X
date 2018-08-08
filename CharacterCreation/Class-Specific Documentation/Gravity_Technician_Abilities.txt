@@ -1,0 +1,211 @@
+==============================
+Gravity Technician Abilities
+==============================
+
+A Note on Terminology:
+	In this document, the word "massive" is not meant to imply 
+largeness or heaviness. It means only that the referenced object 
+has mass, and is thus affected by gravity.
+
+== Gravity Technique Ranges ==
+
+	Standard range is given on the table below. When using a 
+Technique with Standard range, the Technician may set the maximum range 
+of effect any distance equal or lesser than the given value. Any effects 
+that take place at fractional range are determined based on the range used, 
+not the maximum range available.
+
+	Some techniques have Personal range, which means that they only 
+apply effects within the user's square except as otherwise stated.
+
++-------+---------------+---------+
+| Level | Maximum Range | Save DC |
++-------+---------------+---------+
+| 1     | 20m           | 42      |
++-------+---------------+---------+
+| 2     | 25m           | 44      |
++-------+---------------+---------+
+| 3     | 30m           | 46      |
++-------+---------------+---------+
+| 4     | 33m           | 48      |
++-------+---------------+---------+
+| 5     | 36m           | 50      |
++-------+---------------+---------+
+| 6     | 39m           | 52      |
++-------+---------------+---------+
+| 7     | 42m           | 54      |
++-------+---------------+---------+
+| 8     | 45m           | 56      |
++-------+---------------+---------+
+| 9     | 48m           | 58      |
++-------+---------------+---------+
+| 10    | 51m           | 60      |
++-------+---------------+---------+
+| 11    | 54m           | 62      |
++-------+---------------+---------+
+| 12    | 57m           | 64      |
++-------+---------------+---------+
+| 13    | 60m           | 66      |
++-------+---------------+---------+
+| 14    | 63m           | 68      |
++-------+---------------+---------+
+| 15    | 66m           | 70      |
++-------+---------------+---------+
+| 16    | 69m           | 72      |
++-------+---------------+---------+
+| 17    | 72m           | 74      |
++-------+---------------+---------+
+| 18    | 75m           | 76      |
++-------+---------------+---------+
+| 19    | 78m           | 78      |
++-------+---------------+---------+
+| 20    | 81m           | 80      |
++-------+---------------+---------+
+
+===== Gravity Techniques =====
+
+== Impeller Field ==
+
+Graviton Cost: 20
+Duration: Channel - 10 Gravitons/Round
+Range: Standard
+Save: None
+Field Shapes: Sphere, Hemisphere, Cone, Ring, Sector
+
+	Creates a field of steady gravity, increasing the move speed 
+of objects or characters moving toward the source and decreasing the move 
+speed of objects or characters moving away from the source. Does not 
+affect movement that is neither toward or away from the source. Reevaluate 
+effects on moving objects or characters each Action. Unwilling subjects 
+	
+Within one quarter range: ± 2 Move Speed
+Within one half range: ± 1 Move Speed
+Within full range: ± 1/2 Move Speed
+
+== Pull ==
+
+Graviton Cost: 15
+Duration: Channel - 5 Gravitons/Round
+Range: Standard
+Save: Shock
+Field Shapes: Beam, Cone
+
+	By focusing gravity on a massive target, the technician forces it to 
+move towards the gravity source. A successful save negates the effect. Failure 
+forces movement according to the list below and prevents other unassisted 
+movement. Subjects must roll the save each Round, at the start of their turn.
+
+Within one quarter range: 4m/Round
+Within one half range: 2m/Round
+Within full range: 1m/Round
+
+== Tidal Shear ==
+
+Graviton Cost: 35
+Duration: 1 Action
+Range: Standard
+Save: See below
+Field Shapes: Beam, Ring, Sector
+
+	The emission of rapidly changing gravity in a flat shape subjects those 
+in its area to a damaging shear effect. Affected characters take 70 Internal 
+damage. This attack bypasses normal armor entirely. A successful Shock save or a 
+successful Reflex save at half DC halves the damage.
+
+== Catch Field ==
+
+Graviton Cost: 25
+Duration: Channel - 10 Gravitons/Round
+Range: Personal
+Save: Reflex
+Field Shapes: Sphere
+
+	The technician projects a short-range but powerful gravity field capable 
+of catching small projectiles (eg. bullets, plasma bottles, or throwing knives, 
+but nothing heavier) and holding them in an orbit. This Catch Field will capture 
+any such projectile that passes through the source's space without dealing damage 
+to the source or its wielder (including those shot by allies). Users should track 
+the number of projectiles captured by the field. At the beginning of the 
+Technician's turn, if a loaded catch field is adjacent to an enemy, the field 
+loses one projectile and deals 40 damage to up to three enemies. A successful 
+save halves the damage.
+
+== Gravity Sling ==
+
+Graviton Cost: 25
+Duration: 1 Action
+Range: Standard
+Save: Reflex
+Field Shapes: Sphere
+
+	The technician uses a powerful but personal-range field to fling a small, 
+massive object. Using this technique, a technician may launch an object as heavy 
+or lighter than a hand grenade up to standard range (must still roll Accuracy as 
+normal).
+
+	Alternatively, this technique may be used while the source is emitting a 
+loaded Catch Field. This terminates the Catch Field to launch all of the orbiting 
+projectiles at a single target within standard range. This attack does 20 Ballistic 
+damage per captured projectile, damaging armor if applicable. A successful save 
+halves the damage.
+
+== Pull Pulse ==
+
+Graviton Cost: 45 Gravitons
+Duration: 1 Action
+Range: Standard
+Save: Shock
+Field Shapes: Sphere, Hemisphere, Cone, Ring, Sector
+
+	The technician uses a short pulse of intense but steady gravity in a 
+wide shape, forcing movement toward the source and applying the Prone state. 
+A successful save negates these effects.
+
+Within one quarter range: 20m
+Within one half range: 10m
+Within full range: 5m
+
+== Gravity Spike ==
+
+Graviton Cost: 35
+Duration: 1 Action
+Range: Standard
+Save: See below
+Field Shapes: Beam
+
+	A very short pulse of instense gravity causes disarrangement of the 
+target's internals. Affected characters take 70 Internal damage. This attack 
+bypasses normal armor entirely. A successful Reflex save or a successful Shock 
+save at half DC halves the damage.
+
+== Disorientation ==
+
+Graviton Cost: 25
+Duration: Channel - 20 Gravitons/Round
+Range: Standard
+Save: Shock
+Field Shapes: Sphere, Hemisphere, Ring
+
+	The technician creates an unsteady field of light gravity, disorienting 
+those within. Characters within range suffer -1 to all Accuracy rolls and have 
+Disadvantage on Reflex Saves. A successful save negates this effect. Affected 
+characters must roll the save every Round, at the beginning of their turns.
+
+== Rappel ==
+
+Graviton Cost: 25
+Duration: Channel - 15 Gravitons/Round
+Range: Standard
+Save: N/A
+Field Shapes: Beam
+
+	Fine manipulation of a steady gravity stream allows the Technician to 
+gravitivally anchor themselves to a stable surface within range, allowing 
+climbing and rappelling along surfaces. The technician moves at their normal 
+Move Speed while using this technique and makes Knowledge - High Tech (Int) 
+checks in place of Athletics checks where appropriate.
+
+===== Field Shapes =====
+
+== Sphere ==
+
