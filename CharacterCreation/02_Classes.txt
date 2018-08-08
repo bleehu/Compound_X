@@ -480,23 +480,25 @@ Hunter still has 4 Actions left on his turn. Continuing his third turn, the
 Hunter also tracks soldier. Even though the Hunter already tracked the soldier 
 before, the hunter has used up his one Free Tracking Action this turn, and 
 tracking the soldier again costs one Action.
-	In addition, teammates now get a bonus to critically hit on tracked enemies 
-that they hit in accordance to their range and weapon type. This is accomplished 
-by you calling out weak spots that you see on the target and describing shooting 
-conditions such as the bullet drop due to humidity, wind speed and direction, 
-and the coriollis effect making the bullet swerve. The bonus to critically hit 
-is listed below. Note that if the chance to critically hit exceeds the chance to 
-hit, it does not increase the chance to hit; it only garuntees that a hit will 
-be a critical hit.
+	In addition, teammates now get a bonus to the range of rolls which 
+critically hit on tracked enemies that they hit in accordance to their range and 
+weapon type. This is accomplished by you calling out weak spots that you see on 
+the target and describing shooting conditions such as the bullet drop due to 
+humidity, wind speed and direction, and the coriollis effect making the bullet 
+swerve. The bonus to critically hit is listed below. Note that if the chance to 
+critically hit exceeds the chance to hit, it does not increase the chance to 
+hit; it only garuntees that a hit will be a critical hit. If the increase in
+crit range is higher than 10, that means that your teammate may crit on a roll
+of 8 or 9, not just a roll of 10. 
 
 +-------+------------+-----------------------------+
 | Range | Crit bonus | Crit bonus with Long Rifles |
 +-------+------------+-----------------------------+
-|   R1  |     5%     |             10%             |
+|   R1  |      5     |              10             |
 +-------+------------+-----------------------------+
-|   R2  |    10%     |             25%             |
+|   R2  |     10     |              25             |
 +-------+------------+-----------------------------+
-|   R3  |    20%     |            100%             |
+|   R3  |     20     |             100             |
 +-------+------------+-----------------------------+
 
 Pack Hunter (I):
