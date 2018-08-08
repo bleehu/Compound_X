@@ -750,14 +750,15 @@ Immediate reactions are stackable on a per-weapon basis.
 
 	Identical to light suppression with the following exceptions, you must fire 
 6 rounds from the current magazine to achieve 'moderate', and you don't have to 
-roll to hit -- you automatically hit and roll armor.
+roll to hit -- you automatically hit with one attack. Medium suppression always 
+hits armor if applicable.
 
 == Heavy Suppression ==
 
 	Identical to light suppression with the following exceptions: you must fire 
 10 rounds from the current magazine to achieve 'heavy', you don't have to roll 
-to hit -- you automatically hit x2 and roll for armor. You suppress all targets 
-within a 2m radius AOE around the primary target.
+to hit -- you automatically hit with two attacks. Heavy suppression always hits 
+armor. You also suppress all targets within a 2m radius AOE around the primary target.
 
 **"Moving out into the open" includes moving into a new location while you can
 be hit by shots from the suppressor (this excludes moving into complete concealment,
