@@ -504,7 +504,7 @@ and any Save DC from the used Technique is increased by 50%.
 
 == (Adv) Triple Ring ==
 
-Prerequisite: Double Ring
+Prerequisite: Double Ring, Level 16
 
 	This advanced shape projects three perpendicular rings. Anything caught in a 
 suqare where two Rings intersect takes 50% more damage from a damaging technique, 
