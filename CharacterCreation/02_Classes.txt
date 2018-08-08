@@ -745,7 +745,12 @@ Skill Proficiencies:
 
 ===== Gravity Technician =====
 
-	Flavor Text
+	A specialist in the recently-developed handheld gravity generator, the Gravity 
+Technician manipulates the battlefield to their squad's advantage or simply tears the 
+enemy apart. This technology is exceedingly rare and proprietary, thus each Gravity 
+Technician must have some patron furnishing the basic equipment, and who probably 
+wants something in return. The variable knowledge skills gained below mirror the type 
+of patron the Technician has.
 
 Starting Wealth: $[???] + 100*Luck
 
