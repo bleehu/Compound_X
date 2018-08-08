@@ -256,7 +256,7 @@ techniques like phase shift analysis and parallax effect detection.
 within 20m
 
 ==============================
-Muzzel Attachments
+Muzzle Attachments
 ==============================
 
 ===== Level 1 Requirement =====
@@ -559,7 +559,7 @@ chaff. When the round hits, it shocks whatever it hits. But this chaff does
 little to fragment the way that conventional bullets do. 
 
 Base Damage: -50%
-Electric Damage: +50%
+Electric Damage: +50% of base damage
 
 == Overcharge Laser Capacitors $(1.5 x mag cost) ==
 

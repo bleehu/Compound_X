@@ -577,7 +577,7 @@ applying upgrades or customizations at a kiosk or shop, no roll is required.
 
 	Alternatively, you can attempt to add or remove a weapon attachment in the
 field. Doing so will require a skill check of DC 60 with the weapon skill that
-matches your weapon type. If you succeed, you manage to make the adjustement
+matches your weapon type. If you succeed, you manage to make the adjustment
 in just Two Actions. Otherwise it takes Four Actions. 
 
 	There are 8 types of attachments. They are listed below. Unless otherwise
