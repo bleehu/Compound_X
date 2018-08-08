@@ -71,7 +71,7 @@ Prerequisites: None
 Graviton Cost: 20
 Duration: Channel - 10 Gravitons/Round
 Range: Standard
-Save: None
+Save: Shock
 Field Shapes: Sphere, Hemisphere, Cone, Ring, Sector
 
 	Creates a field of steady gravity, increasing the move speed 
@@ -79,10 +79,23 @@ of objects or characters moving toward the source and decreasing the move
 speed of objects or characters moving away from the source. Does not 
 affect movement that is neither toward or away from the source. Reevaluate 
 effects on moving objects or characters each Action. Unwilling subjects 
+that pass the save are unaffected for 10 Rounds, or 1 minute.
 	
 Within one quarter range: ± 2 Move Speed
 Within one half range: ± 1 Move Speed
 Within full range: ± 1/2 Move Speed
+
+== Accelerator Field ==
+
+Prerequisites: Impeller Field
+
+Graviton Coat: 40
+Duration: Channel - 15 Gravitons / Round
+Range: Standard
+Save: Shock
+Field Shapes: Sphere, Hemisphere, Cone, Ring, Sector
+
+	Description
 
 == Pull ==
 
@@ -102,6 +115,21 @@ movement. Subjects must roll the save each Round, at the start of their turn.
 Within one quarter range: 4m/Round
 Within one half range: 2m/Round
 Within full range: 1m/Round
+
+== Pluck ==
+
+Prerequisites: Pull
+
+Graviton Coat: 30
+Duration: 1 Action
+Range: Standard
+Save: Reflex
+Field Shapes: Beam
+
+	Fine control of the Pull Technique allows a technician to target 
+carried items. Using this Technique initiates a Disarm attempt in which 
+the Technician uses their Knowledge - High Tech (Dex) skill instead of 
+a Maneuver Check.
 
 == Tidal Shear ==
 
@@ -159,6 +187,18 @@ projectiles at a single target within standard range. This attack does 20 Ballis
 damage per captured projectile, damaging armor if applicable. A successful save 
 halves the damage.
 
+== Driving Field ==
+
+Prerequisites: Accelerator Field, Level 6
+
+Graviton Coat: 
+Duration: Channel - 
+Range: Standard
+Save: Shock
+Field Shapes: Sphere, Hemisphere, Cone, Ring, Sector
+
+	Description
+
 == Pull Pulse ==
 
 Prerequisites: Level 6
@@ -177,6 +217,18 @@ Within one quarter range: 20m
 Within one half range: 10m
 Within full range: 5m
 
+== Pull Pulse II ==
+
+Prerequisites: Pull Pulse
+
+Graviton Coat: 
+Duration: 1 Action
+Range: Standard
+Save: Shock
+Field Shapes: Sphere, Hemisphere, Cone, Ring, Sector
+
+	Description
+
 == Gravity Spike ==
 
 Prerequisites: Level 6
@@ -191,6 +243,69 @@ Field Shapes: Beam
 target's internals. Affected characters take 70 Internal damage. This attack 
 bypasses normal armor entirely. A successful Reflex save or a successful Shock 
 save at half DC halves the damage.
+
+== Absorption Field ==
+
+Prerequisites: Catch Field, Level 6
+
+Graviton Coat: 
+Duration: Channel - 
+Range: Personal
+Save: Reflex
+Field Shapes: Sphere
+
+	Description
+
+== Extended Absorption ==
+
+Prerequisites: Absorption Field
+
+	Extends the projectile catching range of Catch Field and Absorption Field 
+to 1 meter.
+
+== Gravity Launch ==
+
+Prerequisites: Gravity Sling, Level 6
+
+Graviton Coat: 
+Duration: 1 Action
+Range: Standard
+Save: Reflex
+Field Shapes: Sphere
+
+	Description
+
+== Sequential Launch ==
+
+Prerequisites: Gravity Launch
+
+	Allows projectiles launched by Gravity Sling or Gravity Launch to use other 
+controlled gravity wells to execute gravity slingshot maneuvers as long as their 
+trajectory is deflected by at leat 90 degrees.
+
+== Gravity Bolt ==
+
+Prerequisites: Gravity Spike, Level 11
+
+Graviton Coat: 
+Duration: 1 Action
+Range: Standard
+Save: See below
+Field Shapes: Beam
+
+	Description
+
+== Tidal Tear ==
+
+Prerequisites: Tidal Shear, Level 11
+
+Graviton Coat: 
+Duration: 1 Action
+Range: Standard
+Save: See below
+Field Shapes: Beam, Ring, Sector
+
+	Description
 
 == Disorientation ==
 
@@ -207,6 +322,13 @@ those within. Characters within range suffer -1 to all Accuracy rolls and have
 Disadvantage on Reflex Saves. A successful save negates this effect. Affected 
 characters must roll the save every Round, at the beginning of their turns.
 
+== Resonance ==
+
+Prerequisites: Disorientation
+
+	Penalties from Disorientation and Vertigo stack on targets for each 
+overlapping generator field.
+
 == Rappel ==
 
 Prerequisites: Level 11
@@ -222,6 +344,89 @@ gravitivally anchor themselves to a stable surface within range, allowing
 climbing and rappelling along surfaces. The technician moves at their normal 
 Move Speed while using this technique and makes Knowledge - High Tech (Int) 
 checks in place of Athletics checks where appropriate.
+
+== Gravitic Jump ==
+
+Prerequisites: Rappel
+
+Graviton Coat: 
+Duration: Channel - 
+Range: Standard
+Save: N/A
+Field Shapes: Beam
+
+	Description
+
+== Pull Pulse III ==
+
+Prerequisites: Pull Pulse II, Level 16
+
+Graviton Coat: 
+Duration: 
+Range: Standard
+Save: Shock
+Field Shapes: Sphere, Hemisphere, Cone, Ring, Sector
+
+	Description
+
+== Stasis ==
+
+Prerequisites: Pluck, Level 16
+
+	Targets caught in at least three Pull techniques from different 
+generators you control, and which have failed at least three Saves, become 
+unable to move and are considered Helpless unless they succeed on an 
+additional Shock save. If a target succeeds this Save they cannot be 
+subjected to Stasis for 1 day. The generators must describe an arc of at 
+least 180 degrees to attempt Stasis.
+
+== Gravity Lance ==
+
+Prerequisites: Gravity Bolt, Level 16
+
+Graviton Coat: 
+Duration: 1 Action
+Range: Standard
+Save: See below
+Field Shapes: Beam
+
+	Description
+
+== Disintegrate ==
+
+Prerequisites: Tidal Tear, Level 16
+
+Graviton Coat: 
+Duration: 1 Action
+Range: Standard
+Save: See below
+Field Shapes: Beam, Ring, Sector
+
+	Description
+
+== Vertigo ==
+
+Prerequisites: Resonance, Level 16
+
+Graviton Coat: 
+Duration: Channel - 
+Range: Standard
+Save: Shock
+Field Shapes: Sphere, Hemisphere, Ring
+
+	Description
+
+== Gravitic Charge ==
+
+Prerequisites: Gravitic Jump, Level 16
+
+Graviton Coat: 
+Duration: Channel - 
+Range: Standard
+Save: N/A
+Field Shapes: Beam
+
+	Description
 
 ===== Field Shapes =====
 
