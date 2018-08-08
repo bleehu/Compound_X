@@ -299,7 +299,7 @@ stated.
 	Melee weapons come in one of four size categories. The first 
 three are Light, One-handed, and Two-handed. Characters start 
 with proficiency with some number of these based on their class. The 
-fifth category is Exotic. Acquiring proficiency with Exotic weapons does 
+fourth category is Exotic. Acquiring proficiency with Exotic weapons does 
 not grant access to all Exotic weapons, but rather to a particular type, 
 such as whips. Exotic proficiencies may rarely be granted by Backgrounds, 
 and are more commonly acquired by feats.
