@@ -66,6 +66,8 @@ apply effects within the user's square except as otherwise stated.
 
 == Impeller Field ==
 
+Prerequisites: None
+
 Graviton Cost: 20
 Duration: Channel - 10 Gravitons/Round
 Range: Standard
@@ -84,6 +86,8 @@ Within full range: ± 1/2 Move Speed
 
 == Pull ==
 
+Prerequisites: None
+
 Graviton Cost: 15
 Duration: Channel - 5 Gravitons/Round
 Range: Standard
@@ -101,6 +105,8 @@ Within full range: 1m/Round
 
 == Tidal Shear ==
 
+Prerequisites: None
+
 Graviton Cost: 35
 Duration: 1 Action
 Range: Standard
@@ -113,6 +119,8 @@ damage. This attack bypasses normal armor entirely. A successful Shock save or a
 successful Reflex save at half DC halves the damage.
 
 == Catch Field ==
+
+Prerequisites: None
 
 Graviton Cost: 25
 Duration: Channel - 10 Gravitons/Round
@@ -131,6 +139,8 @@ loses one projectile and deals 40 damage to up to three enemies. A successful
 save halves the damage.
 
 == Gravity Sling ==
+
+Prerequisites: None
 
 Graviton Cost: 25
 Duration: 1 Action
@@ -151,6 +161,8 @@ halves the damage.
 
 == Pull Pulse ==
 
+Prerequisites: Level 6
+
 Graviton Cost: 45 Gravitons
 Duration: 1 Action
 Range: Standard
@@ -167,6 +179,8 @@ Within full range: 5m
 
 == Gravity Spike ==
 
+Prerequisites: Level 6
+
 Graviton Cost: 35
 Duration: 1 Action
 Range: Standard
@@ -180,6 +194,8 @@ save at half DC halves the damage.
 
 == Disorientation ==
 
+Prerequisites: Level 11
+
 Graviton Cost: 25
 Duration: Channel - 20 Gravitons/Round
 Range: Standard
@@ -192,6 +208,8 @@ Disadvantage on Reflex Saves. A successful save negates this effect. Affected
 characters must roll the save every Round, at the beginning of their turns.
 
 == Rappel ==
+
+Prerequisites: Level 11
 
 Graviton Cost: 25
 Duration: Channel - 15 Gravitons/Round
