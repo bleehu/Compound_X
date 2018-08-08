@@ -213,10 +213,14 @@ to be that shape for this purpose.
 
 == Sphere ==
 
+Prerequisite: None
+
 	The sphere shape affects all massive objects within range in every 
 direction.
 
 == Hemisphere ==
+
+Prerequisite: Sphere
 
 	The hemisphere shape affects all massive objects within range that are 
 within 90 degrees of the declared direction.
