@@ -227,6 +227,8 @@ within 90 degrees of the declared direction.
 
 == Beam ==
 
+Prerequisite: Sphere
+
 	The beam shape affects all massive objects in a line up to the 
 Technique's range in length. If the line passes through opposite sides 
 of a square, it affects objects in that square.
@@ -239,6 +241,8 @@ Prerequisite: Hemisphere
 45 degrees of the declared direction.
 
 == Ring ==
+
+Prerequisites: Sphere
 
 	The ring shape affects all massive objects within range that occupy the 
 same plane.
