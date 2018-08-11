@@ -384,7 +384,7 @@ Skill Proficiencies:
 	Unlike many of your compatriots who prefer the cold comforts of technology,
 you have an affinity for the frontier. The great outdoors. Be they the 
 wind-swept plains of frontier farms, the thick jungles of Tundaar or the swamps
-of Trioch you love it all. You are much more likely to know which plants won't 
+of Trioch, you love it all. You are much more likely to know which plants won't 
 kill you to eat if you get hungry, and you can make a fire by breaking the flint
 rocks of Kalimba against each other. You may not be much for book learnin', but
 you know that a keen eye and a choice blast from your shotgun wins the kind of
@@ -423,12 +423,12 @@ Skill Proficiencies:
     When your character ascends to level 3, you receive an attack dog. Maybe 
 you found the dog along your last mission, or maybe a dog was issued to you when
 you returned to home base (at the GM's choice). Every time you level up after
-you have your dog, your dog levels up as well as defined in the 
+you have your dog, your dog levels up as well. For more detail, see the 
 "Class-Specific Documentation/Hunter's_Dog.txt" document. For simplicity, Dogs 
 start at level 3 so that they are always the same level as their owners. If your
-dog is killed in action, you do not get to roll another one. If you and your dog
-are separated and level up separately, your dog immediately levels up to match 
-your level when you are reunited. 
+dog is killed in action, you do not automatically get to roll another one. If 
+you and your dog are separated and level up separately, your dog immediately 
+levels up to match your level when you are reunited. 
 
     Your new dog is well-trained and responds to a variety of commands. Your dog 
 listens to you and does his best to make his or her owner happy, but is not 
