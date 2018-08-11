@@ -1,12 +1,20 @@
 ==============================
+Basic Rules
+==============================
+	
+	Welcome to Compound X! The game of squad tactics, space exploration and 
+exciting role playing! On behalf of the develpment team, thanks for playing and
+have fun!
+
+==============================
 Premise
 ==============================
 
-	Welcome to Compound X! The specific time and place that your adventure takes
-place is up to your Game Master (often called a GM for short), but all of them
-take place far in the future where humans have left earth on their faster-than-light
-spaceships to explore dangerous new worlds fraught with friend and foe of all
-manner of robots and aliens! 
+	The specific time and place of your adventures is up to your Game Master 
+(often called a GM for short), but all of them take place far in the future 
+where humans have left earth on their faster-than-light spaceships to explore 
+dangerous new worlds fraught with friends and foes and all manner of robots and 
+aliens! 
 
 	Will you be the dashing hero? Or perhaps the evil villain plotting galactic 
 domination? Or maybe a mercenary who's somewhere in between? The choice is
@@ -56,12 +64,6 @@ Advantage you take the better roll, while with Disadvantage you take the worse
 roll. Advantage and Disadvantage do not stack with themselves. If you would have 
 both Advantage and Disadvantage on the same roll, then they cancel each other, 
 and you just roll once.
-
-Rolling the Average:
-	There are certain circumstances and feats which allow for Rolling the Average.
-This must be announced before the die are cast. Critical fails or Critical successes
-are ignored when Rolling the Average. To do this, roll percentile dice twice, add
-the two numbers together, and divide by 2. The resulting number is your roll. 
 
 ==============================
 Role Playing and Combat
@@ -118,11 +120,21 @@ see the 00_New_Player_Walkthrough.txt document in CharacterCreation. Following
 its steps will give you a customized, relatively low-complexity character that 
 will help you learn to play the rest of Compound X.
 
-Base Stats:
+Primary Stats:
 	These decide what raw characteristics make up your character, and are 
 factored into most other decisions you make both in game and for the rest of 
 character creation. Choosing your stats is a very good way to start making a 
 character.
+
+Secondary Stats:
+	These stats are derived from your primary stats and determine things like
+how fast your character moves and how quickly they learn new skills. When making
+a new character, you'll calculate these after picking Primary Stats.
+
+Stat and Combat Modifiers:
+	These numbers are calculated from your stats, and are often added to dice
+rolls to show how your character's physical and mental abilities affect how well 
+they perform different tasks.
 
 Species/Race:
 	Is your character a robot? What about a human? Or maybe the catlike aliens 
@@ -164,81 +176,10 @@ from reloading really fast, to having more health to being able to do a fast
 combat roll under fire. Tackle these when your character advances to level 3.
 
 ==============================
-Base Stats
+Primary Stats and Secondary Stats
 ==============================
 
-	Each player has what are called Base Stats. An average person has a '5' for
-each stat, but an average player has a '6'. Base Stats are split into Primary
-and Secondary stats. Primary stats are determined by your Base Stat points.
-Secondary stats are derived from primary stats. The largest primary stat
-associated with a given secondary stat determines the secondary stat's value; 
-However, if you have a primary stat that is associated with more than one 
-secondary stat, you may have to choose which secondary stat to contribute to.
-These stats are as follows (secondary stat associations are indented):
-
-Strength:
-* Carry Ability
-* Movement Speed
-Perception:
-* None
-Fortitude:
-* Carry Ability
-Charisma:
-* Skill Point Gain
-Intelligence:
-* Skill Point Gain
-Dexterity:
-* Movement Speed
-Luck:
-* None
-
-Secondary Stat Assignment Examples: 
-	Charisma and Intelligence are associated with Skill Point Gain. If you have 
-5 Charisma and 6 Intelligence, you would have 6 Skill Point Gain.
-
-	Let's now assume you have 6 Strength, 3 Dexterity, and 4 Fortitude. You would 
-have 3 Movement Speed (from your Dexterity) and 4 Carry Ability (from your Fortitude). 
-Now, Strength is much higher than both of those, but Strength can't determine both 
-Movement Speed and Carry Ability so you have to decide whether you want:
-
-* 3 Movement Speed and 6 Carry Ability, or 
-* 6 Movement Speed and 4 Carry Ability 
-
-	Strength determining Movement Speed is likely to be the better choice, as 
-Carry Ability doesn't contribute as much to your character (see Secondary Stat 
-Details, below)and you have a total of 6 + 4 = 10 points in secondary stats 
-instead of 3 + 6 = 9. 
-
-	Usually you can tell a lot about a character just by their base stats. For 
-instance, a character with 9 strength and 3 intelligence is usually either a 
-brutish bully or a tough but lovable teddy bear of a person. Where a character 
-with 10 intelligence and 2 charisma is probably a brilliant nerd who might be 
-shy or just have a terrible stutter.
-
-	But your raw base stat is rarely used in calculations during the game. To
-get the math to work out better, we usually us what is called a 'Stat Bonus'.
-Stat bonuses are used very often. They are calculated by one of the two equivalent 
-equations below (use whichever looks easier to you):
-
-* Stat Bonus = (4 * Stat) - 20 
-* Stat Bonus = (Stat - 5) * 4
-
-	For instance, if you were trying to lift something heavy, your GM may tell 
-you to roll a 'Strength Check' and add your 'Strength Bonus'. To do this, you 
-would roll two 10-sided dice as explained in the Primary Game Mechanic above, 
-and add your Strength Bonus to that. Let's say that you rolled a 71, and your 
-Strength Base Stat is a very beefy 8. Then your Strength bonus would be:
-
-	(8 - 5) * 4 = 3 * 4 = 12
-
-	and the score of your roll would be 
-
-	71 + 12 = 83
-
-	That's a really high roll! But that may or may not be enough to lift the 
-object depending on how heavy it is!
-
-===== Primary Stat Details =====	
+===== Primary Stats =====
 
 Strength (STR):
 	How strong are you? This stat determines how big of a gun you can carry and
@@ -346,23 +287,77 @@ table, below.
 | 9-10  | Nothing bad happens... this time                                                      |
 +-------+---------------------------------------------------------------------------------------+
 
+===== Secondary Stats =====	
 
-===== Secondary Stat Details =====
+	Your Character's Secondary stats are each equal to one of your Primary 
+Stats, but no single Primary Stat can be used for two of your Secondary Stats.
 
 Movement Speed:
-	Your speed in meters, for every two actions. Use (Movement Speed)/2 for one 
-action (drop the remainder). For more information, see topic "Movement and 
-Sprinting", below.
+	Your Movement Speed is how fast your character can move every two Actions in
+combat, measured in meters. Use (Movement Speed)/2 for one Action and drop the 
+remainder. For more detail on movement in combat, see the "Movement and 
+Sprinting" topic in the Combat Rules. Your Movment Speed is either equal to your
+Strength or your Dexterity.
 
 Carry Ability:
-	Cancels out movement speed penalties. Carry Ability allows you to carry 
-heavier weapons or heavier armor without slowing you down. If you have 6 Carry 
-Ability and 6m of movement speed penalties, you end up with no movement speed 
-penalties.
+	Your Character's Carry Ability is how much heavy equipment they can lug
+around before it starts to slow them down. Each point in Carry Ability negates
+1 meter per Action of movement penalty from weapons, armor or other items. If 
+you have 6 Carry Ability and 6m of movement speed penalties, you end up with no 
+movement speed penalties and can move your full Movement Speed for every Two
+Actions. Your Carry Ability is either equal to your Strength or your Fortitude.
 
 Skill Point Gain:
-	Determines how many skill points you gain every level. Every time you level up, you 
-gain skill points equal to double your "Skill Point Gain".
+	Your Character's Skill Point Gain determines how many skill points you gain 
+every level. Every time you level up, you gain skill points equal to double your 
+"Skill Point Gain". Your Skill Point Gain should be equal to either your 
+Intelligence or your Charisma.
+
+== Secondary Stat Assignment Examples ==
+	Charisma and Intelligence are associated with Skill Point Gain. If you have 
+5 Charisma and 6 Intelligence, you would have 6 Skill Point Gain.
+
+	Let's now assume you have 6 Strength, 3 Dexterity, and 4 Fortitude. You 
+could have 3 Movement Speed (from your Dexterity) and 4 Carry Ability (from your 
+Fortitude). Now, Strength is much higher than both of those, but Strength can't 
+determine both Movement Speed and Carry Ability so you have to decide whether 
+you want:
+
+* 3 Movement Speed and 6 Carry Ability, or 
+* 6 Movement Speed and 4 Carry Ability 
+
+===== Stat Modifiers =====
+
+	Usually you can tell a lot about a character just by their Primary Stats. 
+For instance, a character with 9 strength and 3 intelligence is usually either a 
+brutish bully or a tough but lovable teddy bear of a person. Where a character 
+with 10 intelligence and 2 charisma is probably a brilliant nerd who might be 
+shy or just have a terrible stutter.
+
+	But your raw Primary Stat is rarely used in calculations during the game. To
+get the math to work out better, we usually use what is called a 'Stat Modifier'.
+Stat Modifiers are used very often. They are calculated by one of the two 
+equivalent equations below (use whichever looks easier to you):
+
+* Stat Modifier = (4 * Stat) - 20 
+* Stat Modifier = (Stat - 5) * 4
+
+	For instance, if you were trying to lift something heavy, your GM may tell 
+you to roll a 'Strength Check' and add your 'Strength Modifier'. To do this, you 
+would roll two 10-sided dice as explained in the Primary Game Mechanic above, 
+and add your Strength Modifier to that. Let's say that you rolled a 71, and your 
+Strength Primary Stat is a very beefy 8. Then your Strength Modifier would be:
+
+	(8 - 5) * 4 = 3 * 4 = 12
+
+	and the score of your roll would be 
+
+	71 + 12 = 83
+
+	That's a really high roll! But that may or may not be enough to lift the 
+object depending on how heavy it is.
+
+
 
 ===== Nanites =====
 
@@ -377,21 +372,22 @@ Some class feats and other abilities can increase the number of Nanites you can
 hold and use at a given time. Also, Unlike Health, Nanites regenerate during 
 combat at a rate of 3 Nanites per turn. 
 	
+==============================
+Creating a New Character
+==============================
 
-===== Assigning Stats to a New Character =====
-
-	When making a new character, you'll have to assign their Base stats.
+	When making a new character, you'll have to assign their Primary Stats.
 This will tell you a lot about your character. When assigning your stats,
 no stat can be higher than a 9 before applying racial/species bonuses and
 no stat can be lower than a 1 after applying racial/species bonuses. 
 
-	Additionally, even after race/species bonuses, feats, equipment, and base stat 
-bonuses from leveling, no stat can ever be over 15 until your character is 
+	Additionally, even after race/species bonuses, feats, equipment, and Primary
+Stat bonuses from leveling, no stat can ever be over 15 until your character is 
 level 15. After level 15, the limit for stat points is 20. The number of 
 initial base stat points that you have to apply is listed with your Race or 
 Species. See chapter 1: Races if you haven't yet. 
 
-===== Assigning A Class to your Character =====
+===== Assigning a Class to your Character =====
 
 	Most Characters start at level 1 so the Player will choose a Class for that 
 Character at that time. A Character will only ever have one Class at a time, and
@@ -438,20 +434,86 @@ increase per level.
 Saving Throws
 ==============================
 
-	Saving throws are used in dire or critical situations to defend against very 
+	Saving Throws are used in dire or critical situations to defend against very 
 negative effects.
 
 - Will: defend against a mind affect (Ex: throw off hopelessness after crashing in an escape pod)
 - Shock: maintain composure after serious damage (Ex: stay conscious after being shot by a high caliber round)
-- Reflex: quickly react to an event (Ex: dodge falling debris, fire at an enemy if they leap from one piece of cover to another)
-- Awareness: knowledge and understanding of surroundings (Ex: realizing someone has walked up behind you)
+- Reflex: React quickly to an event (Ex: dodge falling debris, fire at an enemy if they leap from one piece of cover to another)
+- Awareness: Keep apprised of your surroundings (Ex: realizing someone has walked up behind you)
 
-The equations are as follows:
+The equations to calculate your bonuses to Saving Throws are as follows:
 
 - Will: 2*(Cha + Int - 6) Rational: Normally wisdom would be applied, so Will in Compound X is descried as your internal voice motivating you to endure a mental hardship.
 - Shock: 2*(Fort + Int - 6) Rational: You need to recognize that you are in shock, and resist its physical effects.
 - Reflex: 2*(Per + Dex - 6) Rational: In order to react quickly to an event you need to be able to see it coming.
 - Awareness: 2*(Per + Luc - 6) Rational: Line of sight and concentration are integral parts to being able to detect anomalies in the area.  
+
+==============================
+Feats
+==============================
+
+	As your character levels up and gets better at what they do, they develop
+certain talents and abilities that help them differentiate themselves from their
+peers. These special tallents and abilities are called "Feats". See the 
+"Leveling Up Rules" table to see how many feats you get at which levels. Unless 
+otherwise specified, you cannot take a feat more than once.
+
+	There are five kinds of feats, detailed below;
+
+* Passive Feats
+* Active Feats
+* Weapon Expertise Feats
+* Stat Feats
+* Class Feats
+
+Passive Feats:
+
+	When you take a feat, you may take a passive feat. Passive Feats are used 
+freely with no limit unless otherwise stated. They often give bonuses to skills
+or to rolls for certain actions.
+
+Active Feats:
+
+	When you take a feat, you may decide to take an Active Feat. An Active Feat
+gives your character the option of taking certain actions that they otherwise
+couldn't, usually in combat. Active feats cost a certain amount of Nanites to
+execute, and if your character doesn't have enough nanites, then they can't take
+that action until they get some more. 
+
+Weapon Expertise Feats:
+	
+	When you take a feat, you may decide to take a Weapon Expertise Feat. Weapon
+Expertise Feats are a special kind of passive feat, that get better as you 
+increase your skill with a particular kind of weapon group. 
+
+	These feats represent dedicated training with a particular class of weapon, 
+and offer bonuses based on the relevant Weapons skill (Weapon skills are listed 
+in "06_Skills.txt"). Each feat offers a set of bonuses related to using that type of 
+weapon (and only that type of weapon), and each bonus requires the character to have 
+a number of points in the relevant Weapon skill. A character with 0 points in 
+Weapons - Pistols would gain only one benefit, while a character with 60 points 
+would benefit from them all. The feats are formatted as a list of "X: Benefit", 
+where X is the number of points required in the corresponding Weapon skill to 
+gain the benefit.
+	
+	Weapon Expertise feats require proficiency with the weapon type, but otherwise 
+have no prerequisites. Note that as all characters are proficient with Unarmed 
+Strike, Melee Expertise effectively has no prerequisite.
+
+Primary Stat Feats:
+	
+	Stat Feats are special and cannot be taken when you get a feat like Active,
+Passive, or Weapon Expertise Feats. Instead, they are immediately unlocked when 
+you fulfill their stat requirement. 
+
+Class Feats:
+
+	On certain levels, you will unlock a Class Feat instead of a Regular Feat.
+You cannot take a Class Feat when you get a regular Feat, nor can you forego 
+your Class Feat in favor of an Active or Passive feat. You can only unlock one
+Class Feat at a time. Class Feats are listed in the Classes document under the
+appropriate class. 
 
 ==============================
 Healing Injuries
@@ -513,9 +575,28 @@ succeed at a check. The DC does not need to be given out by the GM, but if
 a DC seems too high, you have the right to grumble (but seriously, ask your GM if 
 something seems too difficult. There is usually a reason why tying your shoe 
 takes a DC of 70% on that particular day, etc). After you have rolled, please
-apply any and all relevant skills and Stat Bonuses to a roll, as instructed by your GM.
+apply any and all relevant skills and Stat Modifiers to a roll, as instructed by your GM.
 When rolling Investigation for example, you will likely add your PER Stat Bonus.
 
+	Critical successes occur when your roll on a skill check lands inside your
+Critical range (aka your critical chance). For skill checks, the base critical range
+is 10, meaning that a roll greater than 90 is a Critical success. Your Luck modifier is
+added to your Critical range, increasing or decreasing your critical chance. For example,
+if you have a Luck modifier of 12, your Critical range would be 22, and rolls greater
+than 78 would result in a Critical success. Rolls that land in the upper half of your
+Critical range result in an Extra-Critical success; with a Luck modifier of 12, rolls
+greater than 89 would result in an Extra-Critical success. If your Luck modifier is
+less than -8, you cannot roll Extra-Critical successes, but rolls of exactly 100 result
+in Critical successes.
+
+	In general, if you roll a Critical success on a skill check, add 10 to your
+total roll. For an Extra-Critical, add 20. In addition, some abilities and feats may
+trigger additional effects when you roll a Critical.
+
+	If you roll a 1, you Critically fail a skill check, meaning that you cannot
+succeed at the check, regardless of your total roll after adding skills and Stat
+Modifiers. Your GM may also choose to enact additional penalties to the failed check.
+	
 	At any time out of combat, you may decide to use one of your skills. If you 
 are not pressured by imminent or immediate danger, you may "take a 100%" to take as
 much time with a task as needed to roll exactly 100 on a skill check, then apply points
@@ -547,10 +628,53 @@ instead of one.
 Player Weapon Customization
 ==============================
 
-	Weapon customization can be done anytime you are in a town, space station, or 
-other mercantile area. Ask the GM if there are weapon shops or kiosks around, 
-they should point you to one. From there you can apply upgrades and attachments.
+	Almost all weapons come with pieces that can be added or swapped out for 
+more specialized or more expensive pieces that make the weapon more effective.
+These special parts are called "Weapon Attachments." You can purchase weapon
+attachments at the start of the game when building your characater, or in most
+of the trade stations and gun shops in large towns. When you buy an attachment
+from a shop, they can put the attachment on for no extra cost. While at a gun
+shop or kiosk, you can apply upgrades and attachments yourself as well. When 
+applying upgrades or customizations at a kiosk or shop, no roll is required.
 
-	The GM may tell you specific attachments that are available, or they may say 
-you can just go about your usual customization. See the Attachments document
-for more details on the kinds of attachments you can use, and their restrictions.
+	Alternatively, you can attempt to add or remove a weapon attachment in the
+field. Doing so will require a skill check of DC 60 with the weapon skill that
+matches your weapon type. If you succeed, you manage to make the adjustment
+in just Two Actions. Otherwise it takes Four Actions. 
+
+	There are 8 types of attachments. They are listed below. Unless otherwise
+specified, Your weapon cannot hold more than one of each. There are some weapons
+that specify that they can't take certain attachments. Any weapon that doesn't
+specify as much is assumed to be able to receive any of the listed attachements
+except for Total Conversions. Total Conversions are usually only for one 
+specific class or type of gun. Their descriptions indicate which they go on.
+
+* Optics
+* Lights
+* Lower Rails
+* Barrels
+* Muzzles
+* Slings
+* Ammo
+* Total Conversions
+
+== Ammo ==
+
+    Only extended, magpull, and Drum mags apply to unconventional weapons 
+(weapons other than bullet-firing.) Total mag price should be calculated by 
+taking multipliers for extended mags first, then multipliers for special effect, 
+then magazine accessories like magpulls. Multipliers are multiplied together but 
+they do not multiply the constant.
+
+    For example, extended mag + poison bullet magazine magazine cost is 
+(1.3x * 2x + 50) = (2.6x+50)
+
+== Total Conversions ==
+
+    Total conversions only work with the specified weapon. You may only utilize 
+one weapon conversion at a time. HOWEVER, for conversions relying on switching 
+out a receiver, you may carry (at max) one additional receiver in order to swap 
+kits on the go. You must pass 2 Weapons use / knowledge [Weapons] checks in 
+order to successfully convert your weapon on the go. DC 60. Failure on one check 
+instantly jams the weapon on first shot. Failure on both checks requires an 
+additional check.

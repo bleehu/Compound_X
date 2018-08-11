@@ -24,6 +24,18 @@ Fishing Pole ($120):
 sharp hook. Bait not included. An expert angler could potentially cast this out
 to 6 meters.  
 
+Fire Extinguisher ($115):
+	A handheld cylindrical trigger-based vessel with two mag slots, 
+one for a pressurized fire suppressing agent and one for a pressurized 
+propellant. Can be used to put out sources of fire and has a range of 
+4m. Requires both hands to operate. Not recommended for use on anything 
+other than a fire. Comes with one Extinguisher Magazine set already loaded.
+
+Extinguisher Magazine Set ($40):
+	A set of two magazines for the Fire Extinguisher; one
+of fire suppressant and one of propellant. One set can cover 15m total 
+when used in the extunguisher.
+
 Pneumatic Door Press ($700):
     Opens sliding, pneumatically controlled doors up to Militarized Level 
 (airlock specific doors exluded)
@@ -344,3 +356,4 @@ device. In either the case of physical access or connection to a pwned device,
 the Hacking DC to disrupt is 50 and to pwn is 90. A Disrupted translator will only 
 broadcast static in place of foreign languages, a pwned translator will spoof 
 words that the hacker has programmed. 
+

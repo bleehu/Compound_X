@@ -88,6 +88,10 @@ burst fire modes (if relevant). These minimums apply after all PER/DEX/STR/Attac
 modifiers, at all ranges, and before cover and any other environmental effects. 
 Using an ability could push you below the minimum miss chance.
 
+    Outside a weapon's longest range, you cannot hit your target.
+Also, weapons cannot shoot over 100m without magnifying sights, or over 150m 
+without 2x+ magnification.
+
 ===== Melee Combat =====
 
 	A character of standard size occupies 1m of space. This is not the physical 
@@ -295,7 +299,7 @@ stated.
 	Melee weapons come in one of four size categories. The first 
 three are Light, One-handed, and Two-handed. Characters start 
 with proficiency with some number of these based on their class. The 
-fifth category is Exotic. Acquiring proficiency with Exotic weapons does 
+fourth category is Exotic. Acquiring proficiency with Exotic weapons does 
 not grant access to all Exotic weapons, but rather to a particular type, 
 such as whips. Exotic proficiencies may rarely be granted by Backgrounds, 
 and are more commonly acquired by feats.
@@ -636,7 +640,7 @@ combat.
 to hit the target you intended. Before rolling accuracy, roll a DC 50 Luck check. 
 You may add 10 to your roll if you are aimed at your target. On success, you hit 
 your intended target. On failure, you hit a randomly chosen character engaged in 
-Melee Combat with your intended target. In either case your attack them proceeds 
+Melee Combat with your intended target. In either case your attack then proceeds 
 as normal. This Luck check cannot Critically succeed or fail.
 
 == Using Cover/Stances ==
@@ -746,14 +750,15 @@ Immediate reactions are stackable on a per-weapon basis.
 
 	Identical to light suppression with the following exceptions, you must fire 
 6 rounds from the current magazine to achieve 'moderate', and you don't have to 
-roll to hit -- you automatically hit and roll armor.
+roll to hit -- you automatically hit with one attack. Medium suppression always 
+hits armor if applicable.
 
 == Heavy Suppression ==
 
 	Identical to light suppression with the following exceptions: you must fire 
 10 rounds from the current magazine to achieve 'heavy', you don't have to roll 
-to hit -- you automatically hit x2 and roll for armor. You suppress all targets 
-within a 2m radius AOE around the primary target.
+to hit -- you automatically hit with two attacks. Heavy suppression always hits 
+armor. You also suppress all targets within a 2m radius AOE around the primary target.
 
 **"Moving out into the open" includes moving into a new location while you can
 be hit by shots from the suppressor (this excludes moving into complete concealment,
@@ -888,12 +893,31 @@ above. Even if you had 5 health and took 80 damage, when you go down you go to 0
 health. Any additional attacks you sustain will push you into negative health. 
 
 Stabilize:
-	As an action, a teammate may bring you back up to 1 health point by succeeding 
-on a DC 80 Medicine skill check to stabilize you. Medicine skill, INT mod, and any
-bonuses from medical equipment such as medic-kits are added to the roll. Once stabilized,
-you may take actions  and speak as normal.
+	As an action, a character may choose an adjacent, Downed character and 
+attempt to Stabilize them. That character makes DC 80 Dex-based skill check: 
+Medicine for primarily organic targets, or Repair for primarily mechanical targets.
+If successful, the target is revived and now has 1 HP, is no longer Downed, and 
+may take Actions as normal within the initiative order. A character may be revived 
+in a single encounter a number of times equal to half their Fort, minimum two. Past 
+this limit, stabilized characters are unconscious in addition to the other effects 
+of Stabilization. Note that most persistent damage effects, like bleeds or burns, 
+fall off of characters when they are Downed.
 
-	Don't forget that a recently stabilized character may need  to take actions to
+	If a character fails a stabilization check, nothing happens. It's just 
+taking longer to stem the bleeding. On critical success (base Critical range 10), 
+your excellent care allows you to choose whether the target counts this revival 
+against their revivals per encounter limit. On critical failure (01-05 before 
+modifiers), the bleeding (or equivalent) gets worse: the target must immediately 
+roll an additional Death Save. If the total check is then still high enough to 
+succeed and the target is still alive, they are then Stabilized as normal.
+
+	Up to one character may assist with a stabilization check. Either involved 
+character may expend one Medkit (for primarily organic targets) or one Repair Kit 
+(for primarily mechanical targets) to grant +20 to the Medicine check. Feel free 
+to scavenge one from the target, they probably won't make a fuss. One kit provides 
+a bonus to all Stabilization attempts made on the same target in one round.
+
+	Don't forget that a recently stabilized character may need to take actions to
 retrieve a dropped weapon or stand back up if they have fallen.
 
 *Some hazards can reduce you to zero health points and kill you 
