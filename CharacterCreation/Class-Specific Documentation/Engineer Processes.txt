@@ -522,7 +522,7 @@ left, then you cannot add another Peripheral to that Drone. Drones cannot
 dynamically allocate IO ports between more than their capacity. Another way of
 saying this is that if a Drone has 3 IO Ports, you can't build 4 Peripherals
 onto it and have the Drone turn peripherals off or on as it wants to; every
-Peripheral must have an active IO Port or it simply falls off of the Drone. 
+Peripheral must have an active IO Port or it simply falls off of the Drone.
 
     IO Ports are a real-world Computer/Electric Engineering term which is short
 for Input/Output Ports.
@@ -725,7 +725,6 @@ an armor piercing level of 4 and an auto fire rate of 5. The repeater is a Heavy
 suppression weapon fed from a 150 round drum. May also make melee attacks with 
 its offhand with an Accuracy Modifier of 3. Deals 160 damage, kinda like being 
 punched by a backhoe.
-
 
     When a drone is reclaimed, it frees up the control point cost that it 
 occupied, but does not reimburse its construction cost.

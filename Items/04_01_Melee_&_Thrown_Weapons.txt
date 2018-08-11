@@ -5,11 +5,12 @@ MELEE & THROWN WEAPONS
 	These are the melee and throwing weapons available for sale around most of
 the galaxy.
 
-==============================
-UNARMED
-==============================
+	If you have Hand-to-Hand trained, +10 damage for all melee weapons and 
+unarmed fighting. Instead, if you have Hand-to-Hand Expert, +20 damage for all 
+melee weapons and unarmed fighting. 
 
-== Unarmed Strike ==
+	Also, If you have melee combat skill >=20 then all DEX or STR requirements 
+for melee weapons are reduced by 1.
 
 Damage: 20 + STR mod + DEX mod Ballistic, minimum 10
 Range: Adjacent (1m)
@@ -21,6 +22,39 @@ like Electric or Internal, on their Unarmed Strikes. DM discretion applies.
 ==============================
 MELEE WEAPONS
 ==============================
+	(When dividing Melee Combat Skill, drop the remainder)
+
+===== UNARMED FIGHTING =====
+ 
+== Hand-to-Hand [untrained] Free ==
+ 
+Damage: 5 + STR + DEX
+Range: Adjacent (1m)
+Accuracy Modifier: 0
+
+== Hand-to-Hand [Trained] ==
+
+Prerequisites: 10 skill in Melee Combat or Unarmed Combat
+Damage: 5 + STR + DEX + [Melee Combat skill] / 2
+Range: Adjacent (1m)
+Accuracy Modifier:  -1
+DEX Requirement: 3
+
+	Round down damage. 20% chance to disarm target unless weapon is attached via 
+sling, part of the target, etc.
+
+== Hand-to-Hand [Expert] ==
+
+Damage: [3*STR or 2*DEX] + [Melee Combat skill]
+Range: 2m
+Accuracy Modifier: -1
+DEX Requirement:   5
+
+	50% chance to disarm target (unless weapon is part of target). Can use 
+disarm to grapple an opponent using their weapon's sling. (Requires Combat 
+Expertise [Melee] and either 20 skill in Melee Combat or Unarmed Combat, or 
+class passive.)
+
 
 ===== LEVEL 1 REQUIREMENT WEAPONS =====
 
@@ -37,10 +71,11 @@ metal surfaces or slagging mechanisms like locks. Takes about 1 hour to
 cut an average person-sized opening through half-inch steel plate. -40 on 
 Stealth rolls while using. This weapon has an APL of 10.
 
-== Gurber G1 Combat Knife $315 ==
+== Gurbur G1 Combat Knife $315 ==
 
 Damage: 34 + 2*DEX mod Ballistic + 1xBleed
 Size: Light
+
 Range: Adjacent (1m)
 Accuracy Modifier: +1
 DEX Requirement: 3
@@ -159,7 +194,7 @@ Range: Adjacent (1m)
 Accuracy Modifier: +2
 DEX Requirement: 6
 
-	Voltage Aligned Edge; ignores standard armor.
+	Requires "Weapon Use [Exotic]". Voltage Aligned Edge; ignores standard armor.
 
 == Eliazar Plasma Sword $987 ==
 
@@ -176,7 +211,7 @@ the plasma sword passes through the shield.
 
 
 ==============================
-THROWN WEAPONS
+MISCELLANEOUS THROWN WEAPONS
 ==============================
 
 ===== LEVEL 1 REQUIREMENT WEAPONS =====
