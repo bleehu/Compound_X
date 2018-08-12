@@ -23,7 +23,9 @@ Starting Wealth: $3770 + 100*Luck
 
 Passives: 
 * Gain Skill Weapons - [Choose one] at 10.
-* Gain a +15 to Rolls for initiative. (You go first more often).
+* Gain a +15 to Rolls for initiative (You go first more often).
+* Gain Feat: Proficiency: Light Melee Weaponry.
+* Gain Feat: Proficiency: One-handed Melee Weaponry.
 
 Weapon Proficiencies: 
 * Pistols 
@@ -90,6 +92,7 @@ Starting Wealth: $4150 + 100*Luck
 Passives: 
 * Gain Skill Weapons - Thrown OR Weapons - Explosives at 10.
 * Gain Skill Weapons - Heavy at 10.
+* Gain Feat: Proficiency: Light Melee Weaponry.
 
 Weapon Proficiencies: 
 * Pistols
@@ -150,6 +153,7 @@ Passives:
 * Gain Skill Knowledge - Xenology at 5.
 * Gain Skill Knowledge - [Choose one] at 5.
 * Gain Skill Medicine at 10. 
+* Gain Feat: Proficiency: Light Melee Weaponry.
 
 	Every level, you gain one skill in both of the "Hippocratic" and 
 "Malpractice" skill trees. At level 1 you start with an arm mounted needle 
@@ -206,6 +210,7 @@ Starting Wealth: $2580 + 100*Luck
 passives: 
 * Gain Skill Repair at 10.
 * Gain Skill Jury-rigging at 10.
+* Gain Feat: Proficiency: Light Melee Weaponry.
 * 2 Control Points
 * 600 Maximum Energy
 * 1000 Maximum Material
@@ -285,6 +290,7 @@ Starting Wealth: $2750 + 100*Luck
 Passives: 
 * Gain Skill Hacking at 10.
 * Gain Skill Knowledge - Computers at 10.
+* Gain Feat: Proficiency: Light Melee Weaponry.
 
 Weapon Proficiencies: 
 * Pistols
@@ -335,7 +341,9 @@ Class Primary Attribute: Dexterity
 Starting Wealth: $2670 + 100*Luck
 
 Passives: 
-* Gain Skill Vehicles - [Choose two] at 10.
+* Gain Skill Vehicles - [Choose one] at 10.
+* Gain Skill Vehicles - [Choose another] at 10.
+* Gain Feat: Proficiency: Light Melee Weaponry.
 
 At level 6, the Feat ". . . Who Needs Nano-Technologies" is automatically unlocked.
 
@@ -351,7 +359,8 @@ Armor Proficiencies:
 * Medium.
 
 Skill Proficiencies:
-* Vehicles - [Choose two]
+* Vehicles - [Choose one]
+* Vehicles - [Choose another]
 * Weapons - General
 
 == Class Feats ==
@@ -378,7 +387,6 @@ Skill Proficiencies:
 ======================================
 
 
-
 =====   HUNTER   =====
 	An expert tracker, you're the one hired when someone wants something found. 
 Expertly trained in manipulating your Nanites to aid in pursuit of a quarry, or 
@@ -390,6 +398,8 @@ Starting Wealth: $3290 + 100*Luck
 Passives: 
 * Gain Skill Spotting at 10.
 * Gain Skill Survival at 10.
+* Gain Feat: Proficiency: Light Melee Weaponry.
+* Gain Feat: Proficiency: One-handed Melee Weaponry.
 * Purchase your first primary cloaking module at a $1500 discount
 * Cloaking's Nanite Activation cost is reduced by 4 after level 3
 * Gain Ability "Mark Quarry" Detailed below
@@ -460,6 +470,9 @@ Class Primary Attribute: Perception
 Starting Wealth: $1975 + 100*Luck
 
 Passives: 
+* Gain Skill Acrobatics at 10
+* Gain Skill Weapons - Pistol at 10
+* Gain Feat: Proficiency: Light Melee Weaponry
 * Gain Feat: Predictive Gun-fighting
 * Gain 2 Pistol Bonuses
 * Gain 1 Pistol Weakness
@@ -477,30 +490,30 @@ have a MAX of 5 Miss Chance Defense from this feat.
 to Pistols. 
 
 Pistol Bonuses: 
-*  +10 Dam
-*  +8m R3 Range Bracket
-*  -1 Miss Chance
-*  +1 rds in mag
-*  +2 mags carried;
+* +10 Dam
+* +8m R3 Range Bracket
+* -1 Miss Chance
+* +1 rds in mag
+* +2 mags carried;
 
 Pistol Weaknesses:
-*  -10 Dam
-*  -8m R3 Range Bracket
-*  +1 Miss Chance
-*  -1 rds in mag
-*  -2 mags carried
+* -10 Dam
+* -8m R3 Range Bracket
+* +1 Miss Chance
+* -1 rds in mag
+* -2 mags carried
 
 Weapon Proficiencies:
 * Pistols
 
 Armor Proficiencies:
-*  Concealed
-*  Recon
-*  Light
+* Concealed
+* Recon
+* Light
 
-Skill Proficiencies:
-*  Weapons - Pistols
-*  Acrobatics
+Skill Proficiencies
+* Weapons - Pistols
+* Acrobatics
 
 Feats:
 	----------------------
@@ -529,6 +542,7 @@ Feats:
 	reduced to a max of 30m. If you run out of rounds, you may reload mid-kata 
 	by passing a DC 75 DEX check. If a target dies by one of your attacks,
 	gain +1 additional attack.
+
 ======================================
 
 =====   ASSASSIN   =====
@@ -543,6 +557,9 @@ Starting Wealth: $1975 + 100*Luck
 Passives:
 * No penalty for engaging in Grappling maneuvers.
 * Gain Skill Weapons - Melee at 10
+* Gain Skill Stealth at 10
+* Gain Feat: Proficiency: Light Melee Weaponry.
+* Gain Feat: Proficiency: One-handed Melee Weaponry.
 * Gain bonus cloaking time when using other cloaking devices besides the Shadow Cloak.
 
 	Assassins wear a Shadow Cloak, which allows them to become a mere silhouette.
@@ -613,6 +630,7 @@ Starting Wealth: $3190 + 100*Luck
 Passives:
 * Gain Skill Weapons - Long Rifles at 10.
 * Gain Skill Spotting at 10.
+* Gain Feat: Proficiency: Light Melee Weaponry.
 * Gain feat "Skilled Overwatch": Held firing actions have +20 bonus damage.
 
 Weapon Proficiencies:
@@ -669,7 +687,7 @@ Skill Profiencies:
 		Denial of Service: Does not deal damage. Half of your standard damage may be used as a bonus% to a friendly Priest's hack 
 ======================================
 
-=====   BESERKER   =====
+=====   BERSERKER   =====
 	As an aficionado of the combat arts, you understand how important tactile 
 feedback is. Guns simply don't offer the appropriate amount, which is why you 
 prefer to BEAT YOUR ENEMIES TO DEATH USING YOUR BARE HANDS WHENEVER 
@@ -679,7 +697,12 @@ Class Primary Attribute: Strength
 Starting Wealth: $2170 + 100*Luck
 
 Passives:
-* Gain usage of melee weapon "Hand-to-Hand [Expert]" and disregard the requirement
+* Gain Skill Weapons - Melee at 10.
+* Gain Skill Athletics at 10.
+* Gain Feat Unarmed Combat Training.
+* Gain Feat: Proficiency: Light Melee Weaponry.
+* Gain Feat: Proficiency: One-handed Melee Weaponry.
+* Gain Feat: Proficiency: Two-handed Melee Weaponry.
 
 Weapon Proficiencies:
 * Pistols.

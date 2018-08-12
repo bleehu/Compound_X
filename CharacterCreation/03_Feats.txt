@@ -292,6 +292,7 @@ quietly with thrown weapons.
 
 == Last Shot Counts ==
 Prerequisites:
+
 *  PER 5
 
 	The last shot in every mag deals is an automatic critical + 10 bonus damage,
@@ -406,6 +407,43 @@ Prerequisites:
 
 	Whenever you are facing someone you are aware of, and they enter into adjacency
 with you, you gain a preemptive melee strike against them.
+
+== Proficiency: Exotic Melee Weaponry ==
+
+Prerequisites:
+
+* Special, see below.
+
+	Allows a character the ability to use one particular type of Melee weapon 
+of size Exotic. Choose one common noun that is not a damage type each time you 
+learn this feat; that noun is the type. You may use any Exotic melee weapon that 
+includes this common noun in its name. This feat may be learned multiple times.
+
+	If a particular Exotic melee weapon would require two hands to effectively 
+wield, a character must have Proficiency with two-handed melee weapons to learn this 
+feat for that weapon type. The same applies to One-handed style and Light-style 
+exotic weapons, all of which are specified in Exotic weapons' Size stat as a subtype.
+
+== Proficiency: Light Melee Weaponry ==
+
+Prerequisites:
+* None
+
+	Allows a character to use Melee weapons of size Light.
+
+== Proficiency: One-handed Melee Weaponry ==
+
+Prerequisites:
+* Proficiency: Light Melee Weaponry
+
+	Allows a character to use Melee weapons of size One-handed.
+
+== Proficiency: Two-handed Melee Weaponry ==
+
+Prerequisites: 
+* Proficiency: One-handed Melee Weaponry
+
+	Allows a character to use Melee weapons of size Two-handed.
 
 == Quickdraw ==
 Prerequisites:
@@ -530,6 +568,61 @@ result in extra hit points, or take the average of the result (1d10 = 5,
 2d10 = 10, can be taken twice). If any of your die rolls is a 1 or 2, reroll
 the die.
 
+== Unarmed Combat Training ==
+
+Prerequisites:
+* STR 5 and DEX 5
+* Level 5, OR Assassin Class, OR Berserker Class
+
+	Increase base and minimum damage of Unarmed Strike by 20. 
+	
+	Additionally, once per round after a successful melee strike, 
+if the target is not wielding a CQB weapon, you may use a reaction to 
+make a Disarm attempt. Disarm is described under Maneuvers in the Melee 
+Combat section of the Basic Rules.
+
+== Unarmed Combat Expertise ==
+
+Prerequisites:
+* Unarmed Combat Training
+* STR 6 and DEX 6
+* Level 10, OR Assassin Class and Level 5, OR Berserker Class and level 5
+
+	Increase base and minimum damage of Unarmed Strike by an additional 20.
+	
+	Disarm attempts made with Unarmed Combat Training may be made 
+against CQB guns and Two-Handed melee weapons.
+
+== Unarmed Combat Mastery ==
+
+Prerequisites:
+* Unarmed Combat Expertise
+* STR 7 and DEX 7 
+* Level 15, OR Assassin Class and Level 10, OR Berserker Class and Level 10
+
+	Increase base and minimum damage of Unarmed Strike by an additional 20.
+	
+	Whenever you would make a Disarm attempt with Unarmed Combat 
+Training, you may instead make a Trip, Shove, or Grapple attempt. (These 
+are also described under Maneuvers in the Melee Combat section of the 
+Basic Rules).
+
+== Unarmed Combat Grand Mastery ==
+
+Prerequisites:
+* Unarmed Combat Mastery
+* STR 7 and DEX 7
+* Level 15
+* Assassin Class or Berserker Class
+
+	Increase base and minimum damage of Unarmed Strike by an additional 20.
+
+	Whenever you succeed in a disarm attempt against a CQB weapon while 
+unarmed, you may use your next action to strike the target with his or her own 
+weapon before it falls to the ground. Disregard any proficiency requirements 
+for the weapon during this action. Hip-firing penalties apply to guns fired 
+with this feat.
+
 == Upgrade == 
 Prerequisites:
 
@@ -605,6 +698,7 @@ Prerequisites:
 
 *  INT 7 
 *  10 skill in Weapons - [x] 
+
 
 	Gain 1.5 accuracy from any one weapon model. If you spend 30 hours
 studying/using/practicing with a different gun (that you have at least 10 
