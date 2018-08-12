@@ -116,7 +116,7 @@ materials. -50 on stealth checks while using.
 
 == SPECO SP30 VAE Combat Sword $1245 ==
 
-Damage: 56 + 2*STR + 1*DEX Ballistic + 1xBleed
+Damage: 56 + 2*STR mod + 1*DEX mod Ballistic + 1xBleed
 Size: One-handed
 Range: Adjacent (1m)
 Accuracy Modifier: +2
