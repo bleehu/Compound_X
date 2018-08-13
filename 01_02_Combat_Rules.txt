@@ -299,7 +299,7 @@ stated.
 	Melee weapons come in one of four size categories. The first 
 three are Light, One-handed, and Two-handed. Characters start 
 with proficiency with some number of these based on their class. The 
-fifth category is Exotic. Acquiring proficiency with Exotic weapons does 
+fourth category is Exotic. Acquiring proficiency with Exotic weapons does 
 not grant access to all Exotic weapons, but rather to a particular type, 
 such as whips. Exotic proficiencies may rarely be granted by Backgrounds, 
 and are more commonly acquired by feats.
@@ -640,7 +640,7 @@ combat.
 to hit the target you intended. Before rolling accuracy, roll a DC 50 Luck check. 
 You may add 10 to your roll if you are aimed at your target. On success, you hit 
 your intended target. On failure, you hit a randomly chosen character engaged in 
-Melee Combat with your intended target. In either case your attack them proceeds 
+Melee Combat with your intended target. In either case your attack then proceeds 
 as normal. This Luck check cannot Critically succeed or fail.
 
 == Using Cover/Stances ==
@@ -750,14 +750,15 @@ Immediate reactions are stackable on a per-weapon basis.
 
 	Identical to light suppression with the following exceptions, you must fire 
 6 rounds from the current magazine to achieve 'moderate', and you don't have to 
-roll to hit -- you automatically hit and roll armor.
+roll to hit -- you automatically hit with one attack. Medium suppression always 
+hits armor if applicable.
 
 == Heavy Suppression ==
 
 	Identical to light suppression with the following exceptions: you must fire 
 10 rounds from the current magazine to achieve 'heavy', you don't have to roll 
-to hit -- you automatically hit x2 and roll for armor. You suppress all targets 
-within a 2m radius AOE around the primary target.
+to hit -- you automatically hit with two attacks. Heavy suppression always hits 
+armor. You also suppress all targets within a 2m radius AOE around the primary target.
 
 **"Moving out into the open" includes moving into a new location while you can
 be hit by shots from the suppressor (this excludes moving into complete concealment,

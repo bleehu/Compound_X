@@ -19,11 +19,6 @@ measure either of how much armor a weapon can pierce without losing damage to
 the armor, or what level of weapon penetration an armor will completely stop. 
 See the "Other Combat Details" section of Basic Rules for more information.
 
-== Base Stats ==
-    The Base Stats of a Character are Strength, Perception, Fortitude, Charisma, 
-Intelligence, Dexterity and Luck. For more about Base Stats, see the Section 
-"Base Stats" in Basic Rules.txt.
-
 == Compound X ==
     The name of the game! It is also the name of a prison planet in the first 
 campaign run back in 2015 by the game's creator, Taylor Rowland. 
@@ -116,6 +111,11 @@ rules.
 Characters and might play in more than one game. Usually one Player plays one 
 Player Character at a time. 
 
+== Primary Stats ==
+    The Primary Stats of a Character are Strength, Perception, Fortitude, 
+Charisma, Intelligence, Dexterity and Luck. For more about Primary Stats, see 
+the Section "Primary Stats" in Basic Rules.
+
 == RPG ==
     Role-Playing Game, such as Dungeons and Dragons or Compound X!
 
@@ -165,6 +165,11 @@ Reactions occur at the immediate moment that they are triggered. See "Reactions
     A Saving Throw is a roll of the dice to see whether your character has the 
 defenses to avoid something bad happening to them. See "Saving Throws" in the 
 Basic Rules.txt document for more information.
+
+== Secondary Stats ==
+    Secondary Stats are Carry Ability, Movement Speed and Skill Point Gain. 
+These stats are determined by your Primary Stats. For more information on 
+Secondary Stats, see the "Secondary Stats" section of the Basic Rules.
 
 == Shield Strength ==
     Shield Strength is a measure of how much damage a personal shield can take
