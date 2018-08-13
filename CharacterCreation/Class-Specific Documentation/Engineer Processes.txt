@@ -191,7 +191,7 @@ Range:		Touch
     You temporarily disable your cybernetic ally's regression process,
 the part of their personality program that slows down to triple check the 
 results of their actions. This sends them into a rage mode. They still know
-friend from foe, and they still have a jerky understanding of their higher-
+friend from foe, and they still have a janky understanding of their higher-
 order skills like lockpicking, hacking, or social finesse, but they have no
 fear, no pain, no remorse and no hesitation for about half of a minute. Your
 ally Cannot feel shock during this duration, and cannot be repaired (they
