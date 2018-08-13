@@ -388,9 +388,15 @@ Skill Proficiencies:
 
 
 =====   HUNTER   =====
-	An expert tracker, you're the one hired when someone wants something found. 
-Expertly trained in manipulating your Nanites to aid in pursuit of a quarry, or 
-in marking enemies for execution.
+
+	Unlike many of your compatriots who prefer the cold comforts of technology,
+you have an affinity for the frontier. The great outdoors. Be they the 
+wind-swept plains of frontier farms, the thick jungles of Tundaar or the swamps
+of Trioch, you love it all. You are much more likely to know which plants won't 
+kill you to eat if you get hungry, and you can make a fire by breaking the flint
+rocks of Kalimba against each other. You may not be much for book learnin', but
+you know that a keen eye and a choice blast from your shotgun wins the kind of
+arguments you're most like to have out on the rim. 
 
 Class Primary Attribute: Perception
 Starting Wealth: $3290 + 100*Luck
@@ -402,19 +408,14 @@ Passives:
 * Gain Feat: Proficiency: One-handed Melee Weaponry.
 * Purchase your first primary cloaking module at a $1500 discount
 * Cloaking's Nanite Activation cost is reduced by 4 after level 3
-* Gain Ability "Mark Quarry" Detailed below
+* At Level 3, gain an Attack Dog, detailed below
 
-Gain Ability "Mark Quarry": Lvl/2+1 Uses per day - As a free action, expend 20 nanites to Mark 
-a visible target. You must be able to visibly see the target or something the target is wearing. 
-The target leaves a trail that you can see and is 10% easier to track for the next hour.
-At level 5, leaves a trail for the next 24 hours.
 NOTICE: SEE SECTION "CLOAKING" IN THE "BASIC RULES" DOCUMENT FOR MORE INFORMATION ON CLOAKING.
 
 Weapon Proficiencies: 
 * Pistols
 * Shotguns
 * Carbines
-* Long Rifles
 
 Armor Proficiencies:
 * Cloaking
@@ -427,34 +428,100 @@ Skill Proficiencies:
 * Spotting
 * Survival
 
+== Hunter's Dog ==
+
+    When your character ascends to level 3, you receive an attack dog. Maybe 
+you found the dog along your last mission, or maybe a dog was issued to you when
+you returned to home base (at the GM's choice). Every time you level up after
+you have your dog, your dog levels up as well. For more detail, see the 
+"Class-Specific Documentation/Hunter's_Dog.txt" document. For simplicity, Dogs 
+start at level 3 so that they are always the same level as their owners. If your
+dog is killed in action, you do not automatically get to roll another one. If 
+you and your dog are separated and level up separately, your dog immediately 
+levels up to match your level when you are reunited. 
+
+    Your new dog is well-trained and responds to a variety of commands. Your dog 
+listens to you and does his best to make his or her owner happy, but is not 
+controlled by the player. Instead, the owner character commands the dog, and the
+GM controls how the dog responds. 
+
+Dog Personalities:
+
+
+
+*  Loyal
+*  Playful
+*  Mischevious
+*  Protective
+*  Curious
+*  Aggressive
 
 == Class Feats ==
-	----------------------
-	Hunter Vision - Lvl/2 uses per day
-	Your breathing calms, as time appears to slow down. Your vision turns into 
-	myriad shades of grey. You see a faint path of color representing the trail of 
-	your quarry. +20% to a tracking check, Or take 3 turns to pass the check. 
-	Passively, gain the ability to sense where your Marked Quarry is, within
-	10 meters of you.
-	|
-	|
-	V
-	The Trail becomes bright against a monochrome background of edged shades of 
-	grey. You can see marks and paths that others simply cannot. +50% to a tracking 
-	check, or maximum 2 turns to pass. Passively, gain the ability to sense where your
-	Marked Quarry is, within 20 meters of you.
-	----------------------
-	Highlight Quarry - 
-	If your Quarry is marked, for 1 action, you can activate a Marked Quarry's nanites to make them 
-	more visible. All damage dealt to this target is increased by 10. Two uses per encounter, one use
-	per Quarry. Maximum of Lvl number uses per day. Lasts for the duration of the encounter.
-	At level 10, all damage dealt to this target is increased by 20 (instead of 10).
-	----------------------
-	They Never Saw it Coming -
-	If your Quarry has not seen you for at least 1 turn, your next attack against them does +30 bonus damage.
-	Triggerable once per Quarry.
-	Increases to +50 bonus damage at level 10.
-======================================
+
+Tracker:
+	As an Action, you can study the position and disposition of a target that
+you can see, and indicate it to your Party Members that can communicate with 
+you, either by being on comms with you (see the headset and similar items in
+the "Items/07_Items.txt" document) or that are within 5m of you. Party Members
+(including yourself) that shoot at an indicated target get a +1 to accuracy 
+rolls to hit that target. A target remains indicated until they move, or for
+two Rounds, whichever comes first. You also get 6 skill points in Investigation
+when you take this Class Feat. 
+
+Spotter:
+	Requires that your character be level 10 and have the "Tracker" class feat. 
+The first time each turn that you track an enemy that you have already tracked 
+this encounter, you may do so as a Free Action instead of an Action.
+	For example, let's say a Hunter is fighting an enemy robot and an enemy 
+soldier. The first turn, the Hunter spends one Action to track the robot. The
+second turn, the Hunter spends an Action to track the soldier. The third turn 
+the Hunter tracks the robot again, but this time it is a Free Action, so the 
+Hunter still has 4 Actions left on his turn. Continuing his third turn, the 
+Hunter also tracks soldier. Even though the Hunter already tracked the soldier 
+before, the hunter has used up his one Free Tracking Action this turn, and 
+tracking the soldier again costs one Action.
+	In addition, teammates now get a bonus to the range of rolls which 
+critically hit on tracked enemies that they hit in accordance to their range and 
+weapon type. This is accomplished by you calling out weak spots that you see on 
+the target and describing shooting conditions such as the bullet drop due to 
+humidity, wind speed and direction, and the coriollis effect making the bullet 
+swerve. The bonus to critically hit is listed below. Note that if the chance to 
+critically hit exceeds the chance to hit, it does not increase the chance to 
+hit; it only garuntees that a hit will be a critical hit. If the increase in
+crit range is higher than 10, that means that your teammate may crit on a roll
+of 8 or 9, not just a roll of 10. 
+
++-------+------------+-----------------------------+
+| Range | Crit bonus | Crit bonus with Long Rifles |
++-------+------------+-----------------------------+
+|   R1  |      5     |              10             |
++-------+------------+-----------------------------+
+|   R2  |     10     |              25             |
++-------+------------+-----------------------------+
+|   R3  |     20     |             100             |
++-------+------------+-----------------------------+
+
+Pack Hunter (I):
+	You get a +2 to accuracy rolls shooting at an enemy that is being suppressed 
+by one of your party members. You also get +2 to melee attack rolls against an 
+enemy who is adjacent to one of your party members. Teammates who make a melee
+attack against an enemy that is adjacent to you also get a +2 to their melee 
+attack roll. A party member is a character that is controlled by a player other
+than a DM who has played more than one encounter with your character. 
+
+Pack Hunter (II):
+	Requires that your character be level 10 and that you have Pack Hunter (I).
+Your bonus for shooting at an enemy suppressed by your party member now includes
+a +5% chance to critically hit. The bonus for melee for both you and your 
+teammates increases to +3. 
+
+Bushwhacker:
+	You've had enough toothy critters jump out of the brush and try to bite your
+head off to be pretty good with shooting things at close range. You gain 
+advantage on shooting targets with your primary weapon within your weapon's R1 
+range bracket. This target must also either be wielding a melee weapon or be a
+non-sentient enemy that has melee attack abilities. You also get advantage on 
+Perception rolls to spot cloaked or sneaking characters.
 
 =====   GUNSLINGER   =====
 

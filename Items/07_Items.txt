@@ -2,6 +2,10 @@
 Tools
 ==============================
 
+Dog Toy ($20):
+    This brightly colored rubber ball is available in both the squeaking and 
+not-squeaking varieties. Very Bouncy and great for tricks like fetch.
+
 Plasma cutter / Blow Torch ($450):
     Cut through steel, aluminum, etc unless it is specifically a hardened 
 object. Cut through up to 1 inch of steel in 2 full turns, 2 inches in 3 full 
@@ -55,6 +59,12 @@ from multiple angles to capture the whole object. Up to 20m^3 of space.
 Wearables
 ==============================
 
+Dog Harness ($45):
+    This harness comes with up to 18 characters of monogram and a micro
+chip that helps you find your dog if it runs away. The harness itself is 
+lightweight and a little bit stretchy to prevent irritating the wearer. Also
+comes with a 3m leash. 
+
 Night Vision Goggles ($300):
     IR visibility for low light conditions. Resolution clouds after 100m.
 
@@ -94,6 +104,10 @@ wearing any helmets or other sizeable headgear.
 ==============================
 Consumables
 ==============================
+
+Dog Food ($18):
+    A can of preserved wet dog food with easy-open tab. High in protein and 
+vitamins for a healthy growing pup. One can will feed a dog for a day. 
 
 Door Brute-Forcer ($120):
     Hacks through the encryption on a door (up to 75 DC) and opens it. Single 
