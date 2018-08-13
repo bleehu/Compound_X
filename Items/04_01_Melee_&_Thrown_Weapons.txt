@@ -5,53 +5,26 @@ MELEE & THROWN WEAPONS
 	These are the melee and throwing weapons available for sale around most of
 the galaxy.
 
-	If you have Hand-to-Hand trained, +10 damage for all melee weapons and 
-unarmed fighting. Instead, if you have Hand-to-Hand Expert, +20 damage for all 
-melee weapons and unarmed fighting. 
+==============================
+UNARMED
+==============================
 
-	Also, If you have melee combat skill >=20 then all DEX or STR requirements 
-for melee weapons are reduced by 1.
+== Unarmed Strike ==
 
-	(When dividing Melee Combat Skill, drop the remainder)
-
-===== UNARMED FIGHTING =====
- 
-== Hand-to-Hand [untrained] Free ==
- 
-Damage: 5 + STR + DEX
+Damage: 20 + STR mod + DEX mod, minimum 10
 Range: Adjacent (1m)
 Accuracy Modifier: 0
 
-== Hand-to-Hand [Trained] ==
-
-Prerequisites: 10 skill in Melee Combat or Unarmed Combat
-Damage: 5 + STR + DEX + [Melee Combat skill] / 2
-Range: Adjacent (1m)
-Accuracy Modifier:  -1
-DEX Requirement: 3
-
-	Round down damage. 20% chance to disarm target unless weapon is attached via 
-sling, part of the target, etc.
-
-== Hand-to-Hand [Expert] ==
-
-Damage: [3*STR or 2*DEX] + [Melee Combat skill]
-Range: 2m
-Accuracy Modifier: -1
-DEX Requirement:   5
-
-	50% chance to disarm target (unless weapon is part of target). Can use 
-disarm to grapple an opponent using their weapon's sling. (Requires Combat 
-Expertise [Melee] and either 20 skill in Melee Combat or Unarmed Combat, or 
-class passive.)
-
--==== MELEE WEAPONS ====
+==============================
+MELEE WEAPONS
+==============================
 
 ===== LEVEL 1 REQUIREMENT WEAPONS =====
 
 == Eliazar Plasma Torch $240 ==
 
 Damage: 30 + 2x Plasma Burn
+Size: Light
 Range: Adjacent (1m)
 Accuracy Modifier: +1
 STR Requirement:   3
@@ -59,9 +32,10 @@ STR Requirement:   3
 	Plasma. Can quickly repair vehicles with welding materials, seal/cut through 
 moderate doors, and make temporary cover. -40% stealth for being quiet on stealth attacks.
 
-== Gurbur G1 Combat Knife $315 ==
+== Gurber G1 Combat Knife $315 ==
 
 Damage: 40 + STR + 2*DEX + 1xBleed
+Size: Light
 Range: Adjacent (1m)
 Accuracy Modifier: +1
 DEX Requirement: 3
@@ -69,6 +43,7 @@ DEX Requirement: 3
 == Gurber GS101 Combat Sword $680 ==
 
 Damage: 50 + 2*STR + 2*DEX + 1xBleed
+Size: One-handed
 Range: 2m
 Accuracy Modifier: +2
 DEX Requirement: 4
@@ -78,6 +53,7 @@ DEX Requirement: 4
 == Guri Grabber Knife $470 ==
 
 Damage: 30 + STR + 2*DEX + 1xBleed
+Size: Light
 Range: Adjacent (1m)
 Accuracy Modifier: +1
 DEX Requirement: 5
@@ -89,6 +65,7 @@ grappling checks. Whenever you roll a successful grappling check, you may deal
 == Guri Carbon Whip $560 ==
 
 Damage: 30 + 3*STR + 2*DEX
+Size: Exotic - One-handed
 Range: 3m
 Accuracy Modifier: +1
 DEX Requirement: 6
@@ -101,6 +78,7 @@ has a Guard modifier of 0.
 == SPECO SP10 VAE Combat Knife $640 ==
 
 Damage: 45 + STR + 2*DEX + 1xBleed
+Size: Light
 Range:  Adjacent (1m)
 Accuracy Modifier: +1
 DEX Requirement: 4
@@ -110,6 +88,7 @@ DEX Requirement: 4
 == SPECO SPC50 VAE Circular Saw $695 ==
 
 Damage: 55 + STR + 1xBleed
+Size: Two-handed
 Range: Adjacent (1m)
 Accuracy Modifier: +1
 STR Requirement: 4
@@ -121,6 +100,7 @@ this weapon.
 == SPECO SP30 VAE Combat Sword $1245 ==
 
 Damage: 55 + 2*STR + 2*DEX + 1xBleed
+Size: One-handed
 Range: 2m
 Accuracy Modifier: +2
 DEX Requirement: 6
@@ -132,11 +112,12 @@ DEX Requirement: 6
 == Eliazar E500 Assisted-Sledgehammer $811 ==
 
 Damage: 50 + 6*STR
+Size: Two-handed
 Range: 2m
 Accuracy Modifier: +0
 STR Requirement: 6
 
-	2-handed weapon. Considered concussive (explosive) damage. Hits armor points 
+	Considered concussive (explosive) damage. Hits armor points 
 before physical damage if the target's armor has defense against explosive (i.e. 
 concussive) damage. If armor roll is greater than 50, target rolls a DC 50 
 fort save for a broken limb of your choice. -20 stealth rolls for being quiet 
@@ -145,6 +126,7 @@ on stealth attacks. Reduces door-breaking DC by 30 per hit.
 == Eliazar E5500 Power Fist $880 ==
 
 Damage: 50 + 5*STR
+Size: Light
 Range: Adjacent (1m)
 Accuracy Modifier: +1
 STR Requirement: 5
@@ -158,27 +140,29 @@ door-breaking DC by 45% per hit. This weapon has a Guard modifier of 0.
 == Muzashi VAE Katana $1354 ==
 
 Damage: 60 + STR + 3*DEX + 2xBleed
+Size: One-handed - Hybrid
 Range: 2m
 Accuracy Modifier: +2
 DEX Requirement: 6
 
-	Requires "Weapon Use [Exotic]". Voltage Aligned Edge; ignores standard armor.
+	Voltage Aligned Edge; ignores standard armor.
 
 == Eliazar Plasma Sword $987 ==
 
 Damage: 50 + STR + 2*DEX + 3xPlasma Burn
+Size: One-handed
 Range: 2m
 Accuracy Modifier: +2
 DEX Requirement: 4
 
-	Requires "Weapon Use [Exotic]". Plasma effect reduces armor by 1 level as 
-usual, but this effect applies during the sword hit (instead of after). If the 
-target has a standard (non-Nanite) shield, all plasma burn is canceled, the 
-shield takes 30 damage and the plasma sword passes through the shield.
+	Plasma effect reduces armor by 1 level as usual, but this effect applies 
+during the sword hit (instead of after). If the target has a standard 
+(non-Nanite) shield, all plasma burn is canceled, the shield takes 30 damage and 
+the plasma sword passes through the shield.
 
 
 ==============================
-MISCELLANEOUS THROWN WEAPONS
+THROWN WEAPONS
 ==============================
 
 ===== LEVEL 1 REQUIREMENT WEAPONS =====
@@ -186,6 +170,7 @@ MISCELLANEOUS THROWN WEAPONS
 == Gurber Throwing Knife $80 ==
 
 Damage: 15 + STR + DEX + [Thrown Weapon Skill]/2 + 1xBleed
+Size: Light
 DEX Requirement: 5
 AP Level: 2
 
@@ -201,6 +186,7 @@ AP Level: 2
 == EAL Tactical Throwing Axe $160 ==
 
 Damage: 25 + 3*STR + DEX + [Thrown Weapon Skill]/2 + 1xBleed
+Size: Light
 STR Requirement: 5
 AP Level: 3
 
@@ -217,6 +203,7 @@ Secondary Ammo Slot.
 == Carbide Kunai $120 ==
 
 Damage: 25 + STR + DEX + [Thrown Weapon Skill]/2 + 1xBleed
+Size: Light
 DEX Requirement: 6
 AP Level: 4
 
@@ -231,6 +218,7 @@ When thrown, +30% to stealth rolls to hide the attack.
 == Plasma Catalyst Kunai $160 ==
 
 Damage: 10 + STR + DEX + [Thrown Weapon Skill]/2 + 3xPlasma Burn
+Size: Light
 DEX Requirement: 6
 AP Level: 5
 

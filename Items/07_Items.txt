@@ -330,4 +330,3 @@ device. In either the case of physical access or connection to a pwned device,
 the Hacking DC to disrupt is 50 and to pwn is 90. A Disrupted translator will only 
 broadcast static in place of foreign languages, a pwned translator will spoof 
 words that the hacker has programmed. 
-
