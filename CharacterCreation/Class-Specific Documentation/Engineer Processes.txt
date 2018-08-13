@@ -251,7 +251,7 @@ Range:		Touch
 
     You pull out your tools and quickly repair the damage to a friendly
 vehicle. It gains 1 vehicle health. While this power is not required to repair
-vehicles, it does add a nanite reward for doing so. It also increases the 
+vehicles, it does add a Potential reward for doing so. It also increases the 
 effect and may reduce the time taken to repair. 
 
 
