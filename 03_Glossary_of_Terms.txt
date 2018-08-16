@@ -19,13 +19,6 @@ measure either of how much armor a weapon can pierce without losing damage to
 the armor, or what level of weapon penetration an armor will completely stop. 
 See the "Other Combat Details" section of Basic Rules for more information.
 
-== Armor Strength ==
-    Armor Strength is the amount of damage that a character's armor can take before
-being ineffective at blocking anything, measured in Armor Points (AP). AP is used 
-instead of health when the player is hit, and gets degraded as the player takes 
-damage. AP is reset to max at the start of the wearer's turn. For more information, 
-see the section titled "Armor and Getting Hit" in "01_02_Combat_Rules"
-
 == Compound X ==
     The name of the game! It is also the name of a prison planet in the first 
 campaign run back in 2015 by the game's creator, Taylor Rowland. 
