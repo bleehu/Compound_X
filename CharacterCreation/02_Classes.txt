@@ -212,11 +212,11 @@ passives:
 * Gain Skill Jury-rigging at 10.
 * Gain Feat: Proficiency: Light Melee Weaponry.
 * 2 Control Points
-* 600 Maximum Energy
+* 600 Maximum Potential
 * 1000 Maximum Material
 * 10 Maximum Munitions
 * Start each engagement with 3 munitions
-* Start each engagement with 85 + (2 * Int Mod) + (15 * character level) Energy
+* Start each engagement with 85 + (2 * Int Mod) + (15 * character level) Potential
 
 	Every level, you learn one Engineering Process from each of the "Repair" and 
 "Build" skill trees in the Class Specific Documentation Directory. On character 
@@ -227,7 +227,7 @@ unique to your Class. You also start out with 80 Material.
 	At level 6, the Feat "With Friends Like These . . ." is automatically 
 unlocked. At level 10, your maximum Engineering Materials expands to the below.
 
-* 800 Maximum Energy
+* 800 Maximum Potential
 * 1250 Maximum Material
 * 12 Maximum Munitions
 
@@ -264,18 +264,18 @@ Skill Proficiencies:
 	|
 	V
 	Overbuilt -
-	Any time you build a construction, you may spend 15 Nanites to give that 
-	construction 50 additional health points.
+	Any time you build a construct, you may spend 15 Potential to give that 
+	construct 50 additional health points.
 	----------------------
 	Power Trip -
-	You start each engagement with an extra 40 energy
+	You start each engagement with an extra 40 Potential
 	|
 	|
 	|
 	V
 	Cosmic Power -
-	In addition to the 40 energy from Power Trip, you start each 
-	engagement with another 30 energy and your maximum energy is
+	In addition to the 40 Potential from Power Trip, you start each 
+	engagement with another 30 Potential and your maximum Potential is
 	increased by 50.
 ======================================
 
