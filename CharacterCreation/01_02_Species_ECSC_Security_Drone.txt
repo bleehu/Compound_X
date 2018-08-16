@@ -231,9 +231,7 @@ Size: Large
 Favored Terrain: Urban
 
 Engineering-Minded:
-    The Series Twelve Drone is programmed to better understand structural stability and 
-weaknesses. Knowledge is powerful, and Constructor Series Drones know exactly where to 
-apply force to do the most damage. Gain +20 when trying to weaken or demolish structures 
-such as walls or doors. Constructor Drones are built to be very resourceful when it comes
-to building. Gain Jury-Rigging at 15 if you take it as a level 1 skill, or at 20 if you 
-are playing with the engineer class.
+    The Series Twelve Drone is programmed to be better at building things than other 
+drones. Because of this, Constructor Drones are very resourceful when it comes to 
+solving problems, and are able to build makeshift items and tools effortlessly. Gain
+advantage on Jury-Rigging rolls.
