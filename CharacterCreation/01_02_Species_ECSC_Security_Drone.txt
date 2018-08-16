@@ -231,10 +231,10 @@ uniforms of everyone else. Constructor Drones also come with an optional high
 visiblity yellow pattern package. The Series Twelve has a bulkier frame than other
 drones, to deal with the constant heavyweight lifting that is required of them. 
     
-== Available Traits ==
-
 Size: Large
 Favored Terrain: Urban
+
+== Available Traits ==
 
 Bulky Frame:
     The Constructor Series is built more ruggedly than other drone types. While this
