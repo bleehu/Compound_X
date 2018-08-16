@@ -609,6 +609,15 @@ miss chance. Lets say your normal ranged miss chance is 2, and the enemy is in
 full cover, your miss chance is increased by 4, for a final DC of 6. So a roll 
 of 7-10 would be successful.
 
+== Automatic Firing ==
+
+	When rolling for automatic fire, players must roll one d10 for each bullet 
+fired unless otherwise noted. All dice are rolled at the same time, to keep the game
+moving quickly. The dice are read from left to right, and the player cannot switch
+the order that the dice fell in. For any roll that has the potential to be a jam, 
+roll the second d10 for it before rolling the next automatic-fire d10. If the roll 
+causes a jam, the rest of the automatic-fire d10s are not used. 
+
 == Gun Jams ==
 	If at any time that you are firing a gun and you roll a weapon accuracy of 1,
 roll a second d10. If that second d10 roll is a 1 or 2, the weapon Jams, 
