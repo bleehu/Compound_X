@@ -294,7 +294,8 @@ Ability: Colorful!
     People like you, they naturally flock toward your brilliant scales. You have 
 the ability to either wow or calm a crowd. You are the perfect distraction; 
 bring in the attention of those in the area. Victims must roll a will-save of 
-40+Siren Points. Droids are immune to this effect.
+40+Siren Points. Failing the will-save makes targets feel/act in the way that 
+you want. Droids are immune to this effect. Effect only lasts for an instant.
 
 == Tetra ==
 
