@@ -234,6 +234,8 @@ drones, to deal with the constant heavyweight lifting that is required of them.
 Size: Large
 Favored Terrain: Urban
 
+== Available Traits ==
+
 Bulky Frame:
     The Constructor Series is built more ruggedly than other drone types. While this
 gives greater lifting power, it also hinders the drone's movement. Due to its more 
