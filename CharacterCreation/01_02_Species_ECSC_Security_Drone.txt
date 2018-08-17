@@ -244,3 +244,8 @@ with any skill check related to planting itself against something, such as an ai
 breaching or being tackled by a large creature. This drone gets a -10 to stealth 
 rolls due to its obvious silhouette and heavy footsteps.
     
+Engineering-Minded:
+    The Series Twelve Drone is programmed to be better at building things than other 
+drones. Because of this, Constructor Drones are very resourceful when it comes to 
+solving problems, and are able to build makeshift items and tools effortlessly. Gain
+advantage on Jury-Rigging rolls.
