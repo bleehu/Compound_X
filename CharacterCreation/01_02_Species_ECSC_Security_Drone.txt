@@ -217,6 +217,10 @@ reduce plasma burn tokens every 3 turns instead of every other turn.
 
 ===== Series 0x0c "Constructor" =====
 
+* +1 STR
+* +1 FOR
+* -2 DEX
+
     During the mid 2400s, the ECSC had many varieties of purpose-built construction 
 drones in service. The Series Twelve Constructor Drone was the response by the ECSC 
 to replace them all with an all-purpose unit that could be easily utilized on most 
@@ -225,7 +229,23 @@ where there is work to be done. Series Twelve Drones are usually black, gray, or
 white, though it is common for military units to be repainted to fit with the 
 uniforms of everyone else. Constructor Drones also come with an optional high 
 visiblity yellow pattern package. The Series Twelve has a bulkier frame than other
-drones, to deal with the constant heavyweight lifting that is required of them.
+drones, to deal with the constant heavyweight lifting that is required of them. 
     
 Size: Large
 Favored Terrain: Urban
+
+== Available Traits ==
+
+Bulky Frame:
+    The Constructor Series is built more ruggedly than other drone types. While this
+gives greater lifting power, it also hinders the drone's movement. Due to its more 
+solid build, the constructor drone is more difficult to push around. Gains advantage
+with any skill check related to planting itself against something, such as an airlock
+breaching or being tackled by a large creature. This drone gets a -10 to stealth 
+rolls due to its obvious silhouette and heavy footsteps.
+    
+Engineering-Minded:
+    The Series Twelve Drone is programmed to be better at building things than other 
+drones. Because of this, Constructor Drones are very resourceful when it comes to 
+solving problems, and are able to build makeshift items and tools effortlessly. Gain
+advantage on Jury-Rigging rolls.
