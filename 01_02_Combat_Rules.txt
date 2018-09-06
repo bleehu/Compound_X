@@ -528,9 +528,9 @@ other thrown weapons) have -1 miss chance to hit if 'adequate' aiming time is
 given (DM's discretion: how rushed you are, or how skilled you are at stealth, 
 etc). Ranged weapon stealth-attacks gain +20 bonus damage.
 
-	If you stealth-attack a target in melee, your target has a guard DC of 0. As
-normal (see section, "melee combat"), if you roll 3+ above your miss chance (3+ above
-the opponent's guard DC), you ignore the opponent's armor and deal full damage.
+	If you stealth-attack a target in melee, your target has a Guard of 0. As
+normal (see section, "melee combat"), if you roll 3+ above
+the opponent's Guard, you ignore the opponent's armor and deal full damage.
 This signifies that the target gets hit in whatever you deem to be the most vulnerable;
 i.e., the head, neck, or the chest (over the heart, etc). 
 
@@ -540,9 +540,8 @@ bonuses, but Base Damage can be increased by certain classes and abilities.
 **Increases to 200 max damage at level 10.
 
 Flanking:
-	If you are behind a target, aka flanking, your melee attacks gain +2 bonus 
-accuracy against their Guard DC. (Ranged attacks don't gain a specific bonus 
-from flanking.)
+	If you are behind a target, aka flanking, your melee Accuracy rolls gain a +2 
+bonus. Ranged attacks don't gain a specific bonus from flanking.
 
 ===== Ranged Combat =====
 
