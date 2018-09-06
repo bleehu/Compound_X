@@ -619,9 +619,13 @@ roll the second d10 for it before rolling the next automatic-fire d10. If the ro
 causes a jam, the rest of the automatic-fire d10s are not used. 
 
 == Gun Jams ==
-	If at any time that you are firing a gun and you roll a weapon accuracy of 1,
-roll a second d10. If that second d10 roll is a 1 or 2, the weapon Jams, 
-necessitating a Weapon - [X] Skill check, DC 60.
+	If at any time that you are firing a gun and you roll 1 on an accuracy roll,
+roll a second d10. If that second d10 roll equal to or less than the weapon's Jam 
+Range, the weapon jams, necessitating a Weapon - [X] Skill check, DC 60 that takes 
+one Action beofre the weapon can be fired again.
+
+	Melee weapons do not jam unless otherwise specified in their descriptions. 
+Rolling a 1 has no special meaning for attacks with such weapons.
 
 == Hip Firing ==
 
