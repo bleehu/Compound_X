@@ -186,6 +186,13 @@ and becomes Unconscious (and does not gain the Bleeding Out condition).
 	A target reduced to exactly 1 health by a nonlethal attack does not 
 fall Unconscious. 1 is not 0.
 
+Melee Accuracy and Guard Critical Hits:
+	See "Critical Hits" below for general Critical information. As normal, 
+a Critical Accuracy roll gives its attack +20 damage, or +30 on an Extra-critical. 
+Critical Guard rolls block all damage from any non-Extra-critical melee attack. 
+Extra-critical Guard rolls block all damage from the incoming attack. Neither 
+melee Accuracy nor Guard rolls can Critically fail.
+
 == Combat Maneuvers ==
 
 	In addition to smashing an opponent directly, there are other offensive 
