@@ -604,14 +604,18 @@ target, it deals an extra 45 damage.
 == Flechette Shells ($2.5 x mag cost) ==
 
 	Flechette (Fle - shet) shells are a shotgun only spreading shot, which contains 
-flight sustaining, titanium alloy shrapnel. They are quite effective at rendering flesh
-and circuitry to a greater weakened state, and can pierce through materials to ensure 
-the target is reached. These particular type of pointed bits are great at travelling short 
-distances, but looses trajectory the greater the distance. 
+flight sustaining, titanium alloy darts. They are quite effective at weakening flesh
+and circuitry, and can pierce through materials to reach its target. These particular 
+type of pointed bits are great at travelling short distances, but lose trajectory 
+the greater the distance. 
 
 When using Flechette shells, increase damage 40% when shots pierce or miss armor. 
 When in use, the APL of weapon is increased by 1. Gain +10m to R1, -5m to R2, and a -10m to R3. 
-If the shot fails to pierce armor but hits it, reduce damage dealt by 50%.
+All damage dealt to armor with these rounds deal 50% damage. Because of the range modifiers, R1 
+holds priority over the other brakets. For example, if R1 becomes 20m, and R2 becomes 15m, then 
+R1 is what will be used, and R2 will be disrarded entirely. If R3 does this as well, then R1 or 
+R2 will be used in its place, depending on which range R3 overlaps with. If any of the range 
+brackets are the same, the lowest bracket will be used. Ex: R1 instead of R2/R3, R2 instead of R3.
 
 == Shredder Rounds ($2 x mag cost) ==
 
