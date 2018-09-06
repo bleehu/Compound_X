@@ -684,7 +684,7 @@ sprint or use other movement abilities.
 
 	Going prone costs 1 Action, and standing up costs 1 Action. Lying flat down on
 your chest makes you a smaller target and helps you aim better, but also makes you
-easier to hit in melee. -1 gun miss chance while prone and -2 melee Guard DC. Being
+easier to hit in melee. -1 gun miss chance while prone and -2 melee Guard. Being
 prone severely limits your movement: 1/2 movement speed while prone, round-up; maximum
 2 movement per action.
 
