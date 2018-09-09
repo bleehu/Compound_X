@@ -173,7 +173,7 @@ they get a +15 to it.
 == Regression Override	== 
 Energy Gain:60
 Action:		1 Action
-Duration:	8 Turns
+Duration:	8 Rounds
 Range:		Touch
 
     You temporarily disable your cybernetic ally's regression process,
@@ -201,7 +201,7 @@ Duration: 	Permanent
 Range:		Touch
 
     Can only be used on a cybernetic subject who's primary data center is still 
-intact that has "bled out" less than 8 turns ago. The Engineer makes a DC 60 
+intact that has "bled out" less than 8 Rounds ago. The Engineer makes a DC 60 
 Repair check. If successful, the subject is now "bleeding out". If the subject 
 is saved, they get the feat "Refurbished". Characters with the "Refurbished" 
 feat have a permanent -1 to Intelligence and can never again be revived with 
@@ -256,15 +256,16 @@ cybernetic beings or machines.
 == Micro Assembler	== 
 Energy Gain:50
 Action:		1 Action
-Duration: 	8 turns
+Duration: 	8 Rounds
 Range:		Touch
 
     You release a spider-like micro repair bot that repairs a cybernetic
-ally for 8 turns before running out of power. The microbot is able to heal
+ally for 8 Rounds before running out of power. The microbot is able to heal
 15 health per turn. Once spent, the microbot burns itself up. A Microassembler 
 uses wireless cloud calculation to stay small, but on-blueprint. As such, it is 
 vulnerable to hack checks at a DC of 50. A hacked micro assembler reveals its 
-location and may deal 5 Internal Damage per turn.
+location and may deal 5 Internal Damage per Round at the end of the hacker's 
+turn.
 
 == Engine Tuning	== 
 Energy Gain:50
@@ -307,7 +308,7 @@ weapon more than once at a time.
 == Sup it Up	== 
 Energy Gain:80
 Action:		12 Actions
-Duration: 	8 turns
+Duration: 	Permanent
 Range:		Touch
 
     Target friendly vehicle has full health, and its engine runs at
@@ -321,7 +322,7 @@ include but are not limited to:
 == Ceramic Catalyst	== 
 Energy Gain:	15 Energy
 Action:			2 Actions
-Duration:		10 turns or 2 hits
+Duration:		10 Rounds or 2 hits
 Range:			Touch
 
     An adhesive mist of kinetic-reactive ions that cause ceramic armor plates to 
@@ -331,24 +332,25 @@ with light, medium, heavy or full armor. Reduces the next bullet hit by 50
 points of damage. Looks kinda like yellow ooze. Gives an ally affected by 
 Ceramic Catalyst a -20 penalty to visual stealth rolls. An engineer cannot use 
 ceramic catalyst on themselves. Ceramic Catalyst decays after exposure to 
-elements for ten turns or three hits, whichever happens first. 
+elements for ten Rounds or three hits, whichever happens first. 
 
 == Microbot Swarm	== 
 Energy Gain:40 * n
 Action:		1 Action
-Duration: 	8 turns
+Duration: 	8 Rounds
 Range:		4m radius
 
     You release a swarm of spider-like micro repair bots that repair 
-cybernetic allies for 8 turns before running out of power. The microbots are 
-able to heal 15 health per turn. The microbots burn up if one of their subjects
-is affected by plasma burn. For this, the Engineer gains 40 * n Energy, where n 
-is the number of allies affected. The Engineer can only perform this once per 
-engagement. A Microassembler uses wireless cloud calculation to stay small, 
-but on-blueprint. As such, it is vulnerable to hack checks at a DC of 50. A 
-hacked micro assembler reveals its location and may deal 5 Internal Damage per 
+cybernetic allies for 8 Rounds before running out of power. The microbots are 
+able to heal 15 health per Round at the end of the ally's Turn. The microbots 
+burn up if one of their subjects is affected by plasma burn. For this, the 
+Engineer gains 40 * n Energy, where n is the number of allies affected. The 
+Engineer can only perform this once per engagement. A Microassembler uses 
+wireless cloud calculation to stay small, but on-blueprint. As such, it is 
+vulnerable to hack checks at a DC of 50. A hacked micro assembler reveals its 
+location and may deal 5 Internal Damage per Round at the end of the hacker's 
 turn. The microbot swarm director automatically detects disobedient microbots 
-and notifies the Engineer. 
+and notifies the Engineer, but cannot stop the damage from happening. 
 
 ===== Optronic/Cycotonic =====
 
@@ -394,7 +396,7 @@ Range:			Touch
 
     	Recharges an ally's shield by 60 points. May be used to charge
 an ally's shields to up to 30 points above their maximum. Shields will 
-normalize down to their maximum after ten turns. 
+normalize down to their maximum after ten Rounds. 
 
 == Refractory Spray	== 
 Energy Gain:	15 Energy
@@ -409,7 +411,7 @@ laser hit by 45 damage. It also prevents the first damage-over-time effect from
 that hit (such as plasma burn), if it has one. Looks kinda like sticky glitter. 
 Gives an ally affected by Refractory spray a -20 penalty to visual stealth 
 rolls. Refractory Spray can be detected by metal detectors. Refractory Spray 
-loses cohesion after ten turns or burns up if hit by an energy attack.
+loses cohesion after ten Rounds or burns up if hit by an energy attack.
 
     At level 10, you learn how to apply the spray more evenly and to apply it
 more liberally to areas that you have seen get hit more often. As such, you are
@@ -418,12 +420,14 @@ able to stop 80 points of VAE or plasma damage or 60 points of laser damage.
 == Tune Laser	== 
 Energy Gain:	30 Energy
 Action:			2 Actions
-Duration:		5 Turns
+Duration:		5 Rounds
 Range:			Touch
 
     You dial in the potentiometers and realign the focusing crystals. Your 
 ally's laser weapon deals an extra 20 points of damage per hit and has a -1 to 
-miss (To a minimum to-miss of -0 when target is in light cover). 
+miss (To a minimum to-miss of -0 when target is in light cover). These 
+adjustments will likely lose precesion after 5 Rounds of combat, and the weapon
+will return to the state it was in before tuning.
 
 == MoCap Augmentation	== 
 Energy Gain:	20 Energy
@@ -437,7 +441,7 @@ letting them process more frames per microsecond. This gives them slightly
 faster reaction times, resulting in a -1 chance to miss when attacking, but 
 makes it much harder to see long distances. Allies with MoCap Augmentation 
 active take a -40 to perception checks at ranges beyond 50m. Since this is less 
-than ideal in non-combat scenarios, you've set it to wear off after ten turns.
+than ideal in non-combat scenarios, you've set it to wear off after ten Rounds.
 
 == Repulsor Projection	== 
 Energy Gain:	10 Energy
@@ -456,7 +460,7 @@ Range:			Touch
 
     Recharges an ally's shield by 85 points. May be used to charge an ally's 
 shields up to 60 points above their maximum. Shields will normalize down to 
-their maximum by 5 points per turn at the beginning of that player's turn. 
+their maximum by 5 points per Round at the beginning of that player's turn. 
 Hypercharged shields make a distinctive crackling noise; players who's shields 
 are Hypercharged take a -20 to stealth rolls. An Engineer cannot Hypercharge 
 their own shields.
@@ -470,7 +474,7 @@ Range:			8m radius centered on engineer
     All allies with shields in the area of effect have their shields recharged 
 by 40 points. This may not charge them over their maximum. If more than two 
 shields were affected and more than 60 points restored total, the feedback wave 
-sets a 10 blunt force damage per turn for 4 turns to any enemies in the area of 
+sets a 10 blunt force damage per Round for 4 turns to any enemies in the area of 
 effect as well. A feedback wave ends the Engineer's turn immediately.
 
 == Plasma Lacer	== 
@@ -518,7 +522,7 @@ left, then you cannot add another Peripheral to that Drone. Drones cannot
 dynamically allocate IO ports between more than their capacity. Another way of
 saying this is that if a Drone has 3 IO Ports, you can't build 4 Peripherals
 onto it and have the Drone turn peripherals off or on as it wants to; every
-Peripheral must have an active IO Port or it simply falls off of the Drone.
+Peripheral must have an active IO Port or it simply falls off of the Drone. 
 
     IO Ports are a real-world Computer/Electric Engineering term which is short
 for Input/Output Ports.
@@ -547,8 +551,8 @@ less than 8kg. Powered by a Li+ battery, will almost never explode when
 destroyed. Due to it's not-quite-quiet rotors, limits deployer's stealth scores
 to a maximum of 75. If the deployer moves outside of its 6m service range, the
 dragonfly will passively move to the nearest point to it that is in range. Due 
-to its small size and jerky flight movement, a Dragonfly that moved on the same 
-turn that it is shot at adds a +3 chance for the attacker to miss.
+to its small size and jerky flight movement, a Dragonfly that moved in the same 
+Round that it is shot at adds a +3 chance for the attacker to miss.
 
     When a drone is reclaimed, it frees up the control point cost that it 
 occupied, but does not reimburse its construction cost.
@@ -722,6 +726,7 @@ suppression weapon fed from a 150 round drum. May also make melee attacks with
 its offhand with an Accuracy Modifier of 3. Deals 160 damage, kinda like being 
 punched by a backhoe.
 
+
     When a drone is reclaimed, it frees up the control point cost that it 
 occupied, but does not reimburse its construction cost.
 
@@ -815,7 +820,7 @@ Construction Cost:	35 Energy, 10 Material
 Build Time:			2 Actions
 Modular I/O ports:	Uses 2 ports
 Capacity:			80 points
-Recharge:			20 points/turn after 3 turns without hit
+Recharge:			20 points/turn after 3 Rounds without hit
 Slowdown:			1m/Action
 
     Both I/O ports tapped for power. Primary port runs diagnostic info and CS
@@ -1203,7 +1208,7 @@ hack it and set it off early. Setting one gives you a remote that can easily be
 held in an off hand, even if using a 2 handed weapon. If a teammate detonates 
 the ANFO, the engineer that set it gains 10 Energy. Anyone within 9m radius of 
 the blast gets an "ears are ringing" status effect which gives a -90% to 
-perception checks based on sound for three turns. Remote ANFO comes in a sticky 
+perception checks based on sound for three Rounds. Remote ANFO comes in a sticky 
 bundle and will cling to any shaped hard surface. It will even cling to the 
 wings of dropships during reentry.
 
@@ -1247,7 +1252,7 @@ Size:		1m x 1m x 1m
 
     You set up a local shield generator that creates a 4m radius dome
 shield that nobody can shoot through, but anyone can walk through or melee
-through. The shield will stop 120 damage per turn or one vehicle damage
+through. The shield will stop 120 damage per Round or one vehicle damage
 before popping. Once a shield has popped, it will need to be repaired at a cost
 of 20 Energy and 2 actions. Cannot be repaired more than twice.
 
@@ -1351,7 +1356,7 @@ Size:			.5m x .5m x .3m
 The drone carries an adaptive resonator and Nanite shield inductor that 
 overcharges your teammate's shields to 40 points above their usual max. It also 
 heals any damage to your teammate's shields by 20 points at the end of your 
-teammate's turn every turn. It's not really quiet though, so the teammate that 
+teammate's turn every Round. It's not really quiet though, so the teammate that 
 the drone is following cannot score stealth rolls above 70. For every 20 points 
 (including the first 40 of over-heal) of shield strength that the drone heals, 
 the engineer who built it gets 15 Energy in return.
@@ -1433,7 +1438,7 @@ Health:			40 Points
 Size:			.5m x .5m x .3m
 
     you attach a Nanite capacitor to your teammate's cloaking armor, which 
-allows it to maintain a cloak for 2 more turns. The engineer who deploys this 
+allows it to maintain a cloak for 2 more Rounds. The engineer who deploys this 
 gets 50 Energy in return. A cloaking capacitor is detectable by detect high 
 tech rolls above a 1.
 

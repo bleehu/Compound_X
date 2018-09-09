@@ -1,8 +1,8 @@
 # Compound_X
 
-Version Beta 0.1.3
+Version Beta 0.1.6
 
-A fun sci-fi table top role playing game.
+A fun sci-fi tabletop roleplaying game.
 
 Creative Director: Reveraine
 
