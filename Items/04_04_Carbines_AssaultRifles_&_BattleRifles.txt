@@ -1,6 +1,8 @@
 ==============================
-Carbines, Assault Rifles and Battle Rifles
+RANGED WEAPONS
 ==============================
+    Outside a weapon's longest range, you cannot hit your target.
+Also, weapons cannot shoot over 100m without magnifying sights, or over 150m without 2x+ magnification.
 
 ==============================
 CARBINES
