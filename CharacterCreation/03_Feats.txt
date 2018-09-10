@@ -286,7 +286,7 @@ weapon drawn when you draw a throwing weapon, you may attempt to juggle that
 weapon. If you choose to do so, you must attempt a DC 60 Juggling skill 
 check. On success, you may draw three of the same type of thrown weapon at
 once and use each as if you had drawn them normally. If you fail, you drop one
-of the weapons at your feet and launch the other two in random directions. You
+of the weapons at your feet and launch the other two in random directions. You 
 also gain a +1 to accuracy with thrown weapons and a +10 to stealth checks to attack
 quietly with thrown weapons.
 
@@ -699,15 +699,13 @@ Prerequisites:
 *  INT 7 
 *  10 skill in Weapons - [x] 
 
-
-	Gain 1.5 accuracy from any one weapon model. If you spend 30 hours
+	Gain 1.5 accuracy with any one weapon model. If you spend 30 hours
 studying/using/practicing with a different gun (that you have at least 10 
 Weapons - [x] skill in using), you can change which gun you are most familiar 
 with -- which moves the bonus from the previous gun model, to the one you are
 now working with. This feat can only be taken once per weapon.
 
 *where x is the weapon type that the weapon falls under.
-
 
 ==============================
 Weapon Expertise Feats:					
