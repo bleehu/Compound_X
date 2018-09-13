@@ -190,8 +190,21 @@ Melee Accuracy and Guard Critical Hits:
 	See "Critical Hits" below for general Critical information. As normal, 
 a Critical Accuracy roll gives its attack +20 damage, or +30 on an Extra-critical. 
 Critical Guard rolls block all damage from any non-Extra-critical melee attack. 
-Extra-critical Guard rolls block all damage from the incoming attack. Neither 
-melee Accuracy nor Guard rolls can Critically fail.
+Extra-critical Guard rolls block all damage from the incoming attack. 
+
+	Melee Accuracy rolls may Critically fail in the same way as firearms. 
+Unless otherwise specified, melee weapons have a Jam range of 2. Should your 
+melee weapon "jam", it catches on something in the environment at the DM's 
+discretion, if applicable, and is stuck. Unsticking the weapon requires a 
+Weapons - Melee check as a firearm would, except that if you pass the DC by 
+at least 30 you do not provoke an Opportunity Attack. Should nothing be 
+available for the weapon to get stuck in, it is instead dropped, but the 
+skill check may still be used to attempt to avoid an Opportunity Attack for 
+picking it up (you will always succeed in picking it up if it's still within 
+reach).
+
+	Guard rolls can never Critically fail. Rolling a 1 on a Guard check 
+has no special meaning.
 
 == Combat Maneuvers ==
 
@@ -629,9 +642,6 @@ causes a jam, the rest of the automatic-fire d10s are not used.
 roll a second d10. If that second d10 roll equal to or less than the weapon's Jam 
 Range, the weapon jams, necessitating a Weapon - [X] Skill check, DC 60 that takes 
 one Action beofre the weapon can be fired again.
-
-	Melee weapons do not jam unless otherwise specified in their descriptions. 
-Rolling a 1 has no special meaning for attacks with such weapons.
 
 == Hip Firing ==
 
