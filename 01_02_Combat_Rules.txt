@@ -151,7 +151,7 @@ though no Skill check applies to these attacks and blocks.
 +-----------------+-----------------------------------------+
 | CQB Guns        | +1                                      |
 +-----------------+-----------------------------------------+
-| Non-CQB Guns    | -1                                      |
+| Non-CQB Guns    | As Improvised Melee Weapons             |
 +-----------------+-----------------------------------------+
 | Delicate Tools* | -2                                      |
 +-----------------+-----------------------------------------+
@@ -205,6 +205,22 @@ reach).
 
 	Guard rolls can never Critically fail. Rolling a 1 on a Guard check 
 has no special meaning.
+
+== Improvised Melee Weapons ==
+
+	Sometimes you just need to smack somebody with whatever is 
+available. When using an object not intended as a melee weapon to make a 
+melee attack, use the stats from the improvised melee weapon of the most 
+appropriate size: light, one-handed, or two-handed.
+
+	Generally speaking, objects that fit in one hand, like pistols, beer 
+mugs, improvised knuckles, and objects of similar size, are considered Light. 
+SMGs, table legs, lengths of cable, and the like would be One-handed. Heavier 
+objects like every other class of firearm, chairs, or 2x4s are Two-handed.
+
+	Improvised Light or One-handed weapons may be thrown up to 5 meters, and 
+Two-handed ones may be thrown up to 3, though both suffer an additional -2 
+Accuracy. Their damage when thrown is the same as when used for melee strikes.
 
 == Combat Maneuvers ==
 
