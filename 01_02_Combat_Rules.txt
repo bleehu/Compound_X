@@ -222,6 +222,15 @@ objects like every other class of firearm, chairs, or 2x4s are Two-handed.
 Two-handed ones may be thrown up to 3, though both suffer an additional -2 
 Accuracy. Their damage when thrown is the same as when used for melee strikes.
 
+	When using a firearm as an improvised weapon, if you Critically fail an 
+accuracy check and the weapon is loaded (and cocked, if a single-shot pistol or 
+bolt-action rifle), then instead of the usual effects the weapon discharges. 
+Roll 1d10. On a 3-10, the shot travels in a random direction, striking the first 
+valid target in its path within its range. The target may avoid taking damage by 
+succeeding on a DC 110 Reflex Save. On a 1-2, the bullet strikes you, hitting armor 
+if applicable. Additionally, you must pass a DC 40 Reflex save to avoid dropping 
+the firearm. This DC increases to 80 if you took damage from the accidental discharge.
+
 == Combat Maneuvers ==
 
 	In addition to smashing an opponent directly, there are other offensive 
