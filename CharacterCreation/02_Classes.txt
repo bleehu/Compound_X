@@ -81,6 +81,7 @@ Skill Proficiencies:
 
 
 =====   SPECIALIST   =====
+
 	There is always a need for the type of person willing and able to bring the 
 heaviest of fire down upon their enemies. The Specialist will be there when the 
 odds are stacked highest against the forces for good, and he'll be prepared to 
@@ -114,33 +115,30 @@ Skill Proficiencies:
 * Weapons - Explosive
 
 == Class Feats ==
-	----------------------
-	Needs More Dakka [15 Nanites] -
-	Sometimes, a situation just calls for more bullets. You're good at that. 
-	Make a regular firing action. If firing a weapon semi-automatically, you may 
-	fire an extra shot with a +1 miss chance. Or, if firing a weapon 
-	automatically, you may fire two extra shots with a +1 and +2 miss chance 
-	respectively. When using this ability, you cannot score critical hits. This 
-	ability cannot be used with grenade launchers, rocket launchers, or 
-	autocannons.
-	|
-	|
-	V
-	Your ferocity knows no bounds. Targets fired upon with Needs More Dakka
-	must make a DC 60 + (Charisma * 8) Shock check. On failure, target is 
-	Pinned Down (see section "Conditions" in the basic rules document).
-	----------------------
-	Heavier Ordinance Not Required [25 Nanites] -
-	Your expertise with heavy weapons is sufficient for the task at hand. 
-	Gain -2 Miss Chance and a bonus +25 damage for an attack with any Heavy Weapon.
-	|
-	|
-	V
-	Your expertise with heavy weapons is overkill for the task at hand. 
-	Gain -3 Miss Chance and a bonus +35 damage for an attack with any Heavy Weapon.
-	(This miss chance bonus can exceed the minimum -2 ranged miss chance)
-======================================
 
+Blanket Fire:
+
+    You gleefully provide cover fire over a larger area, using tools that are
+best suited for such a task. When you take a suppressive fire action with a 
+fully automatic Heavy Weapon, you have a wider area of effect than normal. 
+Instead of supressing an area of 1 to 3 meters, you suppress an area of 2 to 5
+meters. 
+
+Fire For Effect:
+    
+    When you lay down Heavy Suppression, you may choose to fire 14 shots instead
+of 10. If you do, you are said to have "Fired For Effect." An enemy that moves
+into the open of your Fire For Effect takes 4 automatic hits instead of 2. This
+Class Feat cannot be taken unless your character is level 10 and has the 
+"Blanket Fire" Class Feat already.
+
+Tender Love and Care:
+    
+    You have an almost pathalogical affection for your large weapon of choice.
+You keep it immaculately clean and tuned as well as you can.
+
+    When firing an automatic weapon, The first time each Round that you would
+roll a jam you instead only miss.
 
 =====   DOCTOR   =====
 You know how or why something works [most likely humans / humanoid bodies), 
