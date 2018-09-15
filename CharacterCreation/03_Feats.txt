@@ -264,8 +264,8 @@ rolls dealing with using a weapon.
 Prerequisites:
 *  Melee Expertise
 
-	The benefits of the Melee Expertise feat now also apply to Improvised Melee 
-Weapons.
+	The benefits of the Melee Expertise and Thrown Expertise feats now also 
+apply to Improvised Melee and Thrown Weapons, respectively.
 
 == Improvise Weapon ==
 Prerequisites:
@@ -849,9 +849,9 @@ other weapons or class abilities. Does apply to Engineer mortars.
 
 == Melee Expertise ==
 
-	Applies to Melee Weapons that the user has Proficiency with and to Unarmed Strike. 
-Does not apply to Improvised weapons. Reminder: these bonuses are only in effect while 
-you are wielding an appropriate weapon.
+	Applies to melee weapons that the user has Proficiency with and to Unarmed Strike. 
+Does not apply to Improvised weapons. Reminder: combat-related bonuses are only in effect 
+while you are wielding an appropriate weapon.
 
 0:	+1 Move Speed while using the Charge action with intent to engage an enemy in 
 	Melee Combat.
@@ -872,7 +872,32 @@ you are wielding an appropriate weapon.
 	unarmed targets).
 60:	+10% Base damage. Gain +0.5 Critical Hit range whenever you hit an enemy but
 	do not score a Critical Hit. This bonus resets if you score a Critical Hit, 
-	are stunned, or spend 1 round out of Melee Combat.
+	are stunned or knocked prone, or spend 1 round out of Melee Combat.
+
+== Thrown Expertise ==
+
+	Applies to throwing weapons and large-projectile weapons like bows, javelins, 
+and harpoon launchers that the user has proficiency with. Does not apply to Improvised 
+throwing weapons.
+
+0:	+5m to ranges R1 and R2.
+12:	May use Weapons - Melee in place of Perform (Dex) when making displays of 
+	juggling or other performances that involve throwing as an important component.
+24:	When attacking with thrown weapons, before rolling Accuracy, you may declare the 
+	attack to be Disabling. Such attacks deal one third damage, but if they damage 
+	health then the projectile lodges in the target's armor or person. Characters 
+	take 2d10 damage of the weapon's damage type for each lodged projectile whenever 
+	they spend more than 2 Actions moving (including crouching/standing, but not 
+	attacking) in a single turn. Up to two lodged projectiles may be removed as an 
+	Action.
+36:	When attacking an armored target at range, their armor has 10 less coverage 
+	against your attacks.
+	/* When attacking an armored target at range, their armor coverage range is 
+	reduced by 1 {Static Armor} */
+48:	+10m to thrown weapons' farthest range bracket.
+60:	+10% Base damage. If you spend at least 2 Actions making ranged attacks with 
+	a throwing weapon in a single turn, you may make an additional attack with 
+	that weapon as a Reaction.
 
 ==============================
 Active Feats
