@@ -250,36 +250,36 @@ Skill Proficiencies:
 * Jury-rigging
 
 == Class Feats == 
-	-----------------------
-	A little Controlling - 
+
+A little Controlling: 
+
 	You gain an additional permanent control point
-	|
-	|
-	V
-	Control Phreak -
-	You gain an additional permanent control point [max of 5 permanent points]
-	----------------------
-	Repairman -
+
+Control Phreak:
+
+    You gain an additional permanent control point. You have an absolute max of 
+5 permanent points.
+
+Repairman:
+
 	you gain a 10% chance to stabilize a crashing robotic ally and a +10% to 
-	repair checks.
-	|
-	|
-	V
-	Overbuilt -
+repair checks.
+
+Overbuilt:
+
 	Any time you build a construction, you may spend 15 Nanites to give that 
-	construction 50 additional health points.
-	----------------------
-	Power Trip -
-	You start each engagement with an extra 40 energy
-	|
-	|
-	|
-	V
-	Cosmic Power -
-	In addition to the 40 energy from Power Trip, you start each 
-	engagement with another 30 energy and your maximum energy is
-	increased by 50.
-======================================
+construction 50 additional health points.
+
+Power Trip:
+
+	You start each engagement with an extra 40 energy.
+
+Cosmic Power:
+
+	In addition to the 40 energy from Power Trip, you start each engagement with 
+another 30 energy and your maximum energy is increased by 50. This Class Feat
+requires that a Character be level 10 and have taken "Power Trip" Class Feat.
+
 
 =====   HACKER   =====
 	You've lived your life in the deepest recesses of the holonet, and have come 
