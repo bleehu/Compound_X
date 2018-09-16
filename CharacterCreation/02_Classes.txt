@@ -141,8 +141,12 @@ You keep it immaculately clean and tuned as well as you can.
 roll a jam you instead only miss.
 
 =====   DOCTOR   =====
-You know how or why something works [most likely humans / humanoid bodies), 
-and put that knowledge to good use by supporting your team.
+
+    You know the secrets of life and death. The very continued existence of 
+those around you depends on whether you strike the right balance between heal 
+and harm. One errant twitch of your hands could mean the difference between 
+saving the day or losing a friend. This is what you've been training for for 
+years. 
 
 Class Primary Attribute: Dexterity
 Starting Wealth: $2670 + 100*Luck
@@ -178,26 +182,28 @@ Skill Proficiencies:
 * Medicine
 
 == Class Feats ==
-	----------------------
-	Adrenaline Junkie - 
+
+	Adrenaline Junkie:
+
 	You thrive on the stress of being shot at while trying to save someone's life.
-	You know that every breath you take could be your last, and one errant twitch
-	could mean the difference between sending your brother in arms to see his 
-	friends and family or his ancestors. You love it. Your maximum adrenaline is 
-	600 and you start each encounter with 240 adrenaline points instead of 200.
-	|
-	|
-	V
-	Adrenaline Addict - 
-	"Nothing in life is so exhilarating as to be shot at without result" ~ Winston Churchill
-	Any time an enemy shoots at you and misses, gain 10 Adrenaline Points. 
-	-----------------------
-	The Harmacist - 
-	Prerequisite: Level 10
-	Learn an extra malpractice procedure.
-======================================
+You know that every breath you take could be your last, and each frantic motion
+could mean the difference between sending your brother in arms to see his 
+friends and family or his ancestors. You love it. Your maximum adrenaline is 
+600 and you start each encounter with 240 adrenaline points instead of 200.
+
+	Adrenaline Addict:
+
+	"Nothing in life is so exhilarating as to be shot at without result" ~ 
+Winston Churchill. Any time an enemy shoots at you and misses, gain 10 
+Adrenaline Points. Requires the "Adrenaline Junkie" Doctor Class Feat.
+
+	The Harmacist:
+
+	Learn an extra malpractice procedure. This Class Feat can only be taken by
+a level 10 Character.
 
 =====   ENGINEER   =====
+
 	You solve problems. For instance, you know how to stop some mean 
 mutha-hubbard from tearin' you and your team a structurally superfluous new 
 behind. You know how to fix engines, machines, circuits, you name it. And when 
