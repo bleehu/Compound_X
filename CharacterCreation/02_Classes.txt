@@ -378,7 +378,7 @@ most.
     Any enemy that targets the vehicle that you are piloting, the passengers in
 the vehicle that you are piloting or you whilst you are piloting takes a -2 to
 accuracy rolls to hit as long as the vehicle has moved for at least 2 Actions
-on your last turn. Furthermore you get a +12 to stealth(Dex) rolls made to lose 
+on your last turn. Furthermore you get a +12 to Stealth (Dex) rolls made to lose 
 a tail or Piloting(Dex) rolls to make maneuvers in retreating.
 
 Wheelman:
@@ -403,7 +403,7 @@ Boostin' Buggies:
 ignitions. 
 
     You gain a +16 to skill checks with Slight of Hand(Dex), Hacking(Int), or
-Jerry Rig(Dex) to start and control a vehicle that didn't have the keys in it
+Jury Rig(Dex) to start and control a vehicle that didn't have the keys in it
 or you're otherwise not authorized to start. Vehicles that you steal won't 
 trigger car alarms or other security measures.
 
