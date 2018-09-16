@@ -737,44 +737,59 @@ Skill Profiencies:
 * Weapons - Long Rifle
 
 == Class Feats ==
-	----------------------
-	Pin Target
-	If you fire at a target that is in cover, you can choose to "Pin" the target. Only 1 target may be
-	Pinned by the marksman at a time. If the target attempts to move from cover within a 180 degree field
-	of view infront of you, you may roll a DC 60 Spotting skill check to hit them, as a free action. You have 
-	a +1 to hit the pinned target with a firing action, for the	remainder of the encounter (even if they move
-	to a new location). If the target moves, it is still considered pinned, and if the target dies or escapes 
-	from the battlefield you may pin a new target. Pin can only be activated by a pinned target once per Marksman
-	player's turn. Only usable with long-rifles.
-	|
-	|
-	V
-	Multi-Pin
-	You can now Pin a maximum of PER/2 (round down) targets at  time (you still have to fire at a 
-	target to pin it). +2 to hit a Pinned target (instead of +1). The Multi-Pin ability can be 
-	activated by a pinned target once, per target, per Marksman player's turn. (I.e., 3 Pinned targets can 
-	trigger Multi-Pin once each for a maximum total of 3 triggers before a marksman player's next turn).
-	----------------------
-	Tech Rounds
-	Spend 7 Nanites. Choose from the following list of effects, activated on a successful hit:
-		Gas round: Releases a cloud of gas 3m across centered on the target. Any enemies 
-			inside this cloud take a +1 Miss Chance debuff for their next turn, and 10 Poison damage.
-		Flash round: A blinding light emanates from the target. All players within a 5m radius 
-			of the target are stunned for 1 turn.
-		Shock round: Electrifies the target, dealing an additional 10 electrical damage
-			(paralyzes cybernetics or robotics, DC 60 FORT check to forfeit the first 2 Actions of their turn).
-	|
-	|
-	V
-	Tech Rounds II
-	Spend 7 nanites. Choose from the following list of effects, activated on a successful hit:
-		Thermate round: Target takes 10 burning damage, and 10% off of their Armor Coverage (DC 50 Repair to fix).
-		Node round: Extend the range of a friendly Engineer's drone control to the hit enemy, extends hacking range,
-			or allows remote access by a friendly Priest.
-		Drain round: Half of the damage dealt to health is dealt to the target's Nanite pool.
-		Seeker round: Increase your critical hit range by 1.
-		Denial of Service: Does not deal damage. Half of your standard damage may be used as a bonus% to a friendly Priest's hack 
-======================================
+
+Pin Target:
+
+	If you fire at a target that is in cover, you can choose to "Pin" the target. 
+Only 1 target may be Pinned by the Marksman at a time. If the target attempts to 
+move from cover within a 180 degree field of view infront of you, you may roll a 
+DC 60 Spotting skill check to hit them, as a Free Action. You have a +1 to hit 
+the pinned target with a firing action, for the	remainder of the encounter (even 
+if they move to a new location). If the target moves, it is still considered 
+pinned, and if the target dies or escapes from the battlefield you may pin a new
+target. Pin can only be activated by a pinned target once per Marksman player's 
+turn. Only usable with long-rifles. See the "Pinned" Condition in the 
+"Conditions" document.
+
+Multi-Pin:
+
+	You can now Pin a maximum of half of your Perception (round down) targets at 
+a time (you still have to fire at a target to pin it). +2 to hit a Pinned target 
+(instead of +1). The Multi-Pin ability can be activated by a pinned target only 
+once per target per Round. 
+
+    For example, 3 Pinned targets can trigger Multi-Pin once each for a maximum 
+total of 3 triggers before a marksman player's next turn). Multipin requires 
+that a Character be at least level 10 and have taken the Pin Class Feat before
+taking it.
+
+Shoot to Wound:
+    Instead of hitting the target in their center of mass, you aim for something
+that's likely to squirt their vital fluids all over the place. While this will
+be much less likely to down the target immediately, it increases their chance
+of bleeding out over time.
+
+    At any time before you fire a long rifle, you may declare your intent to
+"Shoot to Wound." If you do, you must pass a DC 35 Weapons - Long Rifle(PER)
+skill check. If you fail, you fire a regular shot. If you succeed, then your 
+attack deals 20 less damage and applies 3 Bleed tokens to the target. See 
+"Bleeding" in the "Conditions" document for more on Bleeding.
+
+Disrupting Shot:
+    Instead of hitting the target in their center of mass, you aim for the 
+equipment that they're using or the stinger of the alien that you're fighting.
+It's not as lethal as hitting them where it hurts, but it'll make it harder for
+them to do their job. 
+
+    At any time before you fire a long rifle, you may declare your intent to
+"Fire to Disrupt." If you do, you must pass a DC 45 Weapons - Long Rifles(PER)
+skill check. If you fail, you fire a regular shot. If you succeed, you hit the
+target where it would disrupt their operations most. The target gains the 
+"Disrupted" condition until they succeed on a Shock Save of DC 80 or for 3 
+Rounds, whichever is first. Then they are able to retrieve or remodulate 
+whatever you blasted. If you critically succeed, there is a chance that you will
+permanently destroy their hardware and they will be disrupted for the remainder
+of the encounter, depending on DM discretion.
 
 =====   BERSERKER   =====
 
