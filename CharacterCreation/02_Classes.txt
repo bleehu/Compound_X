@@ -282,9 +282,12 @@ Skill Proficiencies:
 ======================================
 
 =====   HACKER   =====
-	You've lived your life in the deepest recesses of the holonet, and have come 
-out alive and strong. You can figure out how a security system works, hack into 
-systems, or even hack your allies' Nanites to perform better.
+	
+    No system is safe. No lock is secure. No encryption is unbreakable. And
+you're the reason why they're not. You're quick-thinking, curious and you have
+a habit of getting into places that you shouldn't be and uncovering the secrets
+that you shouldn't have seen. You have a mischievous talent for disrupting your
+enemy's technology and sometimes even turning it against them. 
 
 Class Primary Attribute: Intelligence
 Starting Wealth: $2750 + 100*Luck
@@ -293,6 +296,11 @@ Passives:
 * Gain Skill Hacking at 10.
 * Gain Skill Knowledge - Computers at 10.
 * Gain Feat: Proficiency: Light Melee Weaponry.
+
+    At level 1, gain a laptop and a smart watch. You can use these to activate
+your Exploits. You also gain the Disrupt Exploit at Level 1. You gain the RAT
+Exploit at level 2. See the "Character Specific/Hacker Exploits.txt" document
+for more information on Hacker Exploits.
 
 Weapon Proficiencies: 
 * Pistols
@@ -309,31 +317,18 @@ Skill Proficiencies:
 * Knowledge - Computers
 
 == Class Feats ==
-	----------------------
-	Exploit weakness -
-	You have a basic understanding of networks and computers, and can hack your 
-	way into a system with ease, and have accrued many basic hacks onto your thumb
-	drive belt. +20% against Firewalls.
-	|
-	|
-	V
-	Your skill and library have grown substantially. +30% against Firewalls, +15% 
-	against Info Nodes and Interaction Nodes.
-	----------------------
-	Nanite Boosting/Hacking -
-	You've had some cross-training in the medical field, or maybe you just tried 
-	plugging a cord into your brain. You know how to communicate with Nanites that
-	are present in friends and enemies. Once per turn, as a free action DC 50 
-	Knowledge - Nanites grants a +20% to an ally's next roll, or -10% to an opponent.
-	Touch Effect.
-	|
-	|
-	V
-	Nanites have almost become second nature to you. DC 50 Knowledge - Nanites 
-	grants a +30% to an ally's next roll, or -20% to an opponent. 
-	Knowledge - Nanites / 2 meters range.
-======================================
 
+Polymorphic Sideshow:
+
+    Your scripts and malware have the ability to mutate their cryptographic
+signature. Breaking out of one of your exploits no longer gives a target 
+immunity to it.
+
+Blue Team:
+    
+    You've broken enough systems to get good at keeping other bad actors out.
+Systems that have your scripts, malware or programs in them get a +20 to either
+Will Saves or Hacking(INT) rolls to prevent someone else from breaking into them.
 
 =====   PILOT   =====
 	You have a yearning to test the limits of the vehicles you operate. The 
