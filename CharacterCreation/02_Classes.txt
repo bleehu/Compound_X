@@ -119,7 +119,7 @@ Skill Proficiencies:
 Blanket Fire:
 
     You gleefully provide cover fire over a larger area, using tools that are
-best suited for such a task. When you take a suppressive fire action with a 
+best suited for such a task. When you take an Action to suppress with a 
 fully automatic Heavy Weapon, you have a wider area of effect than normal. 
 Instead of supressing an area of 1 to 3 meters, you suppress an area of 2 to 5
 meters. 
@@ -134,10 +134,10 @@ Class Feat cannot be taken unless your character is level 10 and has the
 
 Tender Love and Care:
     
-    You have an almost pathalogical affection for your large weapon of choice.
+    You have an almost pathological affection for your large weapon of choice.
 You keep it immaculately clean and tuned as well as you can.
 
-    When firing an automatic weapon, The first time each Round that you would
+    When firing an automatic weapon, the first time each Round that you would
 roll a jam you instead only miss.
 
 =====   DOCTOR   =====
