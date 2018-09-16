@@ -238,6 +238,77 @@ Strength Base Stat is a very beefy 8. Then your Strength bonus would be:
 	That's a really high roll! But that may or may not be enough to lift the 
 object depending on how heavy it is!
 
+===== Combat Stat Bonus for Ranged and Melee Accuracy =====
+
+	These bonuses use a table instead of the above Stat Bonus equation, as 
+combat accuracy rolls are played out on a d10, not a d100 scale. The two 
+most-used base stats for accuracy rolls are Perception and Dexterity. The 
+Perception stat affects a ranged weapon's range bracket miss chance, and the 
+Dexterity stat affects melee miss chance.
+
+== COMBAT MISS CHANCE BONUSES TABLE ==
+
++--------+-------------+
+| Stat   | Stat Bonus  |
++--------+-------------+		
+| 1      | -1.5	       |
++--------+-------------+
+| 2      | -1	       |
++--------+-------------+
+| 3-4    | -0.5	       |
++--------+-------------+	
+| 5      |  0	       |	
++--------+-------------+	
+| 6-7    |  0.5	       |	
++--------+-------------+	
+| 8-9    |  1	       |	
++--------+-------------+	
+| 10-11  |  1.5	       |	
++--------+-------------+	
+| 12-13  |  2	       |	
++--------+-------------+	
+| 14     |  2.5	       |		
++--------+-------------+
+| 15     |  3	       |		
++--------+-------------+
+
+	Drop any remaining decimal (0.5 or -0.5 becomes 0) -in other words- only use 
+integers when you are writing down the final miss chances of your weapon(s). For 
+example, let's say you have a basic SMG with miss chance brackets of 4, 5, and 6. 
+Assuming you have 6 Perception,your PER bonus is 0.5 and thus, your gun's range 
+miss chance brackets are:
+
+	(4 - 0.5), (5 - 0.5), (6 - 0.5)  =  3.5, 4.5, 5.5
+
+	If these are your final miss chances, you would have to drop the remainder 
+and your slightly-above-average perception wouldn't make enough of a difference 
+to affect your miss chances!
+
+	But let's say you also have a Dot Sight that you can put on your SMG. The 
+Dot Sight gives a bonus -0.5 range bracket miss chance (among other benefits). 
+This means you now have the following range brackets:
+
+	(4 - 0.5 - 0.5), (5 - 0.5 - 0.5), (6 - 0.5 - 0.5)  =  3, 4, 5
+
+	Perfect! Now your Perception and Dot Sight bonuses, together, reduce your 
+range bracket miss chances by 1 point. If you don't have any other bonuses (from 
+other attachments, feats, or abilities) then you would write down 3, 4, 5 as 
+your range bracket miss chances.
+
+	If your gun has automatic and/or burst fire, you'd add its associated miss 
+chances to your range bracket miss chances and separately write down those 
+numbers (after all bonuses to range bracket miss chance and bonuses to automatic 
+or burst fire). In other words, if you have a ranged weapon with semi-auto, 
+burst, and automatic fire modes, then you should write down 3 sets of 3 miss
+chances; one set for each of the 3 fire modes. For example, let's now assume 
+your gun has a burst fire miss chance of 1 and an automatic fire miss
+chance of 3, your ranged bracket miss chances should look something like this...
+
+0-10m, 11-20m, 21-40m	range brackets
+  3,     4,      5    	semi-auto miss chances
+  4,     5,      6	burst fire miss chances
+  6,     7,      8	automatic fire miss chances
+
 ===== Primary Stat Details =====	
 
 Strength (STR):
@@ -361,8 +432,12 @@ Ability and 6m of movement speed penalties, you end up with no movement speed
 penalties.
 
 Skill Point Gain:
-	Determines how many skill points you gain every level. Every time you level up, you 
-gain skill points equal to double your "Skill Point Gain".
+	Determines wow many skill points you gain every level. Every time you level up, you 
+gain skill points according to your "Skill Point Gain". You may gain a maximum of
+60 skill points in a single skill. In addition, each time you level up, you may gain a
+maximum of 6 points in any one skill by using your Skill Point Gain. Skill gained from
+Feats and Class passives counts towards the maximum of 60 points per skill, but not
+towards the maximum skill increase per level.
 
 ===== Nanites =====
 
@@ -420,19 +495,6 @@ with a list of Armor Proficiencies. Just like Weapon Proficiencies, if your
 class has a Proficiency with a given armor type then they can purchase or wear
 that armor type in combat. If your character doesn't have that proficiency, then
 they can't.
-
-===== Assigning Skills to a Character =====
-
-	Characters gain points in a wide variety of skills to represent their experience
-and expertise in different fields and activities. Every time your character levels up,
-they gain skill points equal to double your Skill Point Gain. Assign each skill point to
-a skill; see CharacterCreation/06_Skills for details about skills and for a list of
-commonly-used skills in Compound X. At level 1, your character will have two times their
-Skill Point Gain to assign at will. You may gain a maximum of 60 skill points in a single
-skill. In addition, each time you level up, you may gain a maximum of 6 points in any one
-skill. Skill gained from Feats, Class passives, Species traits and Background bonuses
-counts towards the maximum of 60 points per skill, but not towards the maximum skill
-increase per level.
 
 ==============================
 Saving Throws
@@ -513,28 +575,9 @@ succeed at a check. The DC does not need to be given out by the GM, but if
 a DC seems too high, you have the right to grumble (but seriously, ask your GM if 
 something seems too difficult. There is usually a reason why tying your shoe 
 takes a DC of 70% on that particular day, etc). After you have rolled, please
-apply any and all relevant skills and Stat Modifiers to a roll, as instructed by your GM.
+apply any and all relevant skills and Stat Bonuses to a roll, as instructed by your GM.
 When rolling Investigation for example, you will likely add your PER Stat Bonus.
 
-	Critical successes occur when your roll on a skill check lands inside your
-Critical range (aka your critical chance). For skill checks, the base critical range
-is 10, meaning that a roll greater than 90 is a Critical success. Your Luck modifier is
-added to your Critical range, increasing or decreasing your critical chance. For example,
-if you have a Luck modifier of 12, your Critical range would be 22, and rolls greater
-than 78 would result in a Critical success. Rolls that land in the upper half of your
-Critical range result in an Extra-Critical success; with a Luck modifier of 12, rolls
-greater than 89 would result in an Extra-Critical success. If your Luck modifier is
-less than -8, you cannot roll Extra-Critical successes, but rolls of exactly 100 result
-in Critical successes.
-
-	In general, if you roll a Critical success on a skill check, add 10 to your
-total roll. For an Extra-Critical, add 20. In addition, some abilities and feats may
-trigger additional effects when you roll a Critical.
-
-	If you roll a 1, you Critically fail a skill check, meaning that you cannot
-succeed at the check, regardless of your total roll after adding skills and Stat
-Modifiers. Your GM may also choose to enact additional penalties to the failed check.
-	
 	At any time out of combat, you may decide to use one of your skills. If you 
 are not pressured by imminent or immediate danger, you may "take a 100%" to take as
 much time with a task as needed to roll exactly 100 on a skill check, then apply points

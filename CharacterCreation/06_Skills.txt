@@ -102,29 +102,24 @@ Knowledge:
 	For when a character's knowledge differs from the player's
 * General
 * Computers
-* Corporate
 * Geography
 * High Tech
 * History
-* Military
 * Nanites
 * Religion
 * Underworld
 * Xenology
 Weapons:
 	To properly reload, care for and repair a weapon as well as for clearing
-jams. This skill provides bonuses for corresponding Weapon Expertise Feats, but
-does not otherwise affect accuracy rolls.
+jams. This skill does not affect accuracy rolls.
 * General
-* Assault/Battle Rifle
-* Carbine
-* Explosives
+* Explosive
 * Heavy
 * Long Rifle
 * Melee
 * Pistol
 * Shotgun
-* Submachine Gun
+* SMG
 * Thrown
 
 == Perception ==
