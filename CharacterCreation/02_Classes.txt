@@ -49,8 +49,8 @@ Battle Hardened:
 
     Your body and mind are used to the constant strain of combat. You no longer
 recoil quite so much from the horrors of war like a greenhorn and it takes more
-to shock you. Your pain tolerance has grown and you are more concious of your
-surroundings. You get the following:
+to shock you. Your pain tolerance has grown and you are more conscious of your
+surroundings. You gain the following:
 
 * + 8 to your Will Save
 * + 8 to your Shock Save
@@ -63,32 +63,33 @@ Grizzled Veteran:
     You thrive on gunfighting. You love the smell of napalm in the morning. 
 You've had so much shrappnel in your body that it's gotten homeostatically used
 to it. This Feat cannot be taken unless you have "Battle Hardened" and are level 
-10. You gain the following.
+10. You gain the following:
 
 * An additional +20 to your maximum health
 * If you would fail a reload roll, you succeed instead    
 
 Raise Morale:
 
-	You roar to incite courage in your allies. 1 Action. 50% + (CHA mod) chance 
-to give allied Characters a +20 on their next skill roll or +2 on their next
+	You roar to incite courage in your allies. The roar takes 1 Action to 
+complete and requires you to pass a DC 50 Charisma check. If you succeed, you 
+give allied Characters a +20 on their next skill roll or +2 on their next
 attack roll. This includes your next roll. Allies must be able to hear and 
 understand you to get the bonus. Max 1 successful use per encounter.
 
 Battle Cry:
 
 	You give a violent yell that spurs you and your teammates on, giving them
-the sense that victory is possible. DC 25 - CHA mod to be successful. If 
-successful, your Battle Cry gives you and your teammates a +30 on their next 
-skill roll or +3 added to their next attack roll. A Character must be level 10 
-and have the "Raise Morale" Class Feat in order to take this feat. This ability
-takes 1 Action andcan only be used once per encounter. This ability replaces 
-Raise Morale.
+the sense that victory is possible. In order for your cry to work, you must pass
+a DC 25 Charisma check. If successful, your Battle Cry gives you and your 
+teammates a +30 on their next skill roll or +3 added to their next attack roll. A 
+Character must be level 10 and have the "Raise Morale" Class Feat in order to 
+take this feat. This ability takes 1 Action and can only be used once per 
+encounter. This ability replaces Raise Morale.
 
 Fight Fiercely First:
 
-	You get an additional +10 to initiative rolls. In addition, you get a -3 
-miss chance against enemies who have not taken a turn yet in combat or whom you
+	You gain an additional +10 to initiative rolls. In addition, you get a +3 to
+accuracy against enemies who have not taken a turn yet in combat or whom you
 have beaten in the reflex roll when room clearing until that character takes a 
 turn.
 
