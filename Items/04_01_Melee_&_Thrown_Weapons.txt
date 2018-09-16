@@ -1,12 +1,5 @@
 ==============================
-MELEE & THROWN WEAPONS
-==============================
-
-	These are the melee and throwing weapons available for sale around most of
-the galaxy.
-
-==============================
-UNARMED
+Unarmed Strike
 ==============================
 
 == Unarmed Strike ==
@@ -19,10 +12,41 @@ Accuracy Modifier: 0
 like Electric or Internal, on their Unarmed Strikes. DM discretion applies.
 
 ==============================
-MELEE WEAPONS
+Improvised Weapons
 ==============================
 
-===== LEVEL 1 REQUIREMENT WEAPONS =====
+== Improvised Light Weapon ==
+
+Damage: 30 + STR mod + DEX mod Ballistic, minimum 10
+Range: Adjacent (1m)
+Accuracy Modifier: 0
+
+	Some improvised weapons may have alternate damage types, at the DM's 
+discretion.
+
+== Improvised One-handed Weapon ==
+
+Damage: 50 + STR mod Ballistic
+Range: Adjacent (1m)
+Accuracy Modifier: 1
+
+	Some improvised weapons may have alternate damage types, at the DM's 
+discretion.
+
+== Improvised Two-handed Weapon ==
+
+Damage: 50 + 2*STR mod Ballistic
+Range: Adjacent (1m)
+Accuracy Modifier: -1
+
+	Some improvised weapons may have alternate damage types, at the DM's 
+discretion. This weapon has a Guard modifier of +1.
+
+==============================
+Melee Weapons
+==============================
+
+===== Level 1 Requirement Weapons =====
 
 == Eliazar General-Purpose Welding Torch $170 ==
 
@@ -30,7 +54,7 @@ Damage: 30 Fire + 2x Burn
 Size: Light
 Range: Adjacent (1m)
 Accuracy Modifier: +1
-STR Requirement:   3
+STR Requirement: 3
 
 	A vital tool for structural repairs - good for sealing or cutting  
 metal surfaces or slagging mechanisms like locks. Takes about 1 hour to 
@@ -53,7 +77,7 @@ Range: Adjacent (1m)
 Accuracy Modifier: +2
 DEX Requirement: 4
 
-===== LEVEL 5 REQUIREMENT WEAPONS =====
+===== Level 5 Requirement Weapons =====
 
 == Eliazar Plasma Torch $240 ==
 
@@ -124,7 +148,7 @@ DEX Requirement: 6
 
 	Voltage Aligned Edge; ignores standard armor
 
-===== LEVEL 10 REQUIREMENT WEAPONS =====
+===== Level 10 Requirement Weapons =====
 
 == Eliazar E500 Assisted-Sledgehammer $811 ==
 
@@ -176,10 +200,10 @@ the plasma sword passes through the shield.
 
 
 ==============================
-THROWN WEAPONS
+Throwing Weapons
 ==============================
 
-===== LEVEL 1 REQUIREMENT WEAPONS =====
+===== Level 1 Requirement Weapons =====
 
 == Gurber Throwing Knife $80 ==
 
@@ -196,7 +220,7 @@ Armor Piercing Level: 2
 	May be used for melee strikes with a -1 Accuracy penalty. 
 Can carry 2 per Secondary Ammo Slot.
 
-===== LEVEL 5 REQUIREMENT WEAPONS =====
+===== Level 5 Requirement Weapons =====
 
 == EAL Tactical Throwing Axe $160 ==
 
@@ -213,7 +237,7 @@ Armor Piercing Level: 3
 	May be used for melee strikes with a -1 Accuracy penalty. 
 Can carry 1 per Secondary Ammo Slot.
 
-===== LEVEL 10 REQUIREMENT WEAPONS =====
+===== Level 10 Requirement Weapons =====
 
 == Carbide Kunai $120 ==
 
@@ -247,10 +271,10 @@ Armor Piercing Level: 5
 Can carry 3 per Secondary Ammo Slot.
 
 ==============================
-GRENADES
+Grenades
 ==============================
 
-===== LEVEL 1 REQUIREMENT WEAPONS =====
+===== Level 1 Requirement Weapons =====
 
 == ECSC Smoke Grenade $50 ==
 
@@ -355,7 +379,7 @@ make a Reflex Save of DC 110. If they succeed, they may dive prone up to their
 speed for one action in the direction of their choice. Choosing to do so comes
 at the cost of one action on their next turn.
 
-===== LEVEL 5 REQUIREMENT WEAPONS =====
+===== Level 5 Requirement Weapons =====
 
 == RMM Frag+ Grenade $140 ==
 
@@ -409,7 +433,7 @@ make a Reflex Save of DC 130. If they succeed, they may dive prone up to their
 speed for one action in the direction of their choice. Choosing to do so comes
 at the cost of one action on their next turn.
 
-===== LEVEL 10 REQUIREMENT WEAPONS =====
+===== Level 10 Requirement Weapons =====
 
 == Frontier Plasma Grenade FP-G5 $360 ==
 

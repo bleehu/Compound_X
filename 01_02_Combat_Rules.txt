@@ -151,7 +151,7 @@ though no Skill check applies to these attacks and blocks.
 +-----------------+-----------------------------------------+
 | CQB Guns        | +1                                      |
 +-----------------+-----------------------------------------+
-| Non-CQB Guns    | -1                                      |
+| Non-CQB Guns    | As Improvised Melee Weapons             |
 +-----------------+-----------------------------------------+
 | Delicate Tools* | -2                                      |
 +-----------------+-----------------------------------------+
@@ -205,6 +205,33 @@ Opportunity Attack while doing so.
 
 	Guard rolls can never Critically fail. Rolling a 1 on a Guard check 
 has no special meaning.
+
+== Improvised Melee Weapons ==
+
+	Sometimes you just need to smack somebody with whatever is 
+available. When using an object not intended as a melee weapon to make a 
+melee attack, use the stats from the improvised melee weapon of the most 
+appropriate size: light, one-handed, or two-handed.
+
+	Generally speaking, objects that fit in one hand, like pistols, beer 
+mugs, improvised knuckles, and objects of similar size, are considered Light. 
+SMGs, table legs, lengths of cable, most kitchenware, and the like would be 
+One-handed. Heavier objects like every other class of firearm, chairs, or 2x4s 
+are Two-handed.
+
+	Improvised Light or One-handed weapons may be thrown up to 5 meters, and 
+Two-handed ones may be thrown up to 3, though both suffer an additional -2 
+Accuracy. Their damage when thrown is the same as when used for melee strikes.
+
+	When using a firearm as an improvised weapon, if you Critically fail an 
+accuracy check and the weapon is loaded (and cocked, if a single-shot pistol or 
+bolt-action rifle), then instead of becoming stuck or dropped the weapon 
+accidentally discharges. Roll 1d10. On a 3-10, the shot travels in a random 
+direction, striking the first valid target in its path within its range. The 
+target may avoid taking damage by succeeding on a DC 110 Reflex Save. On a 1-2, 
+the bullet strikes you, hitting armor if applicable. In either case, you must 
+pass a DC 40 Reflex save to avoid dropping the firearm. This DC increases to 80 
+if you took damage from the accidental discharge.
 
 == Combat Maneuvers ==
 
