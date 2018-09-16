@@ -59,8 +59,8 @@ encounter is one puzzle, one battle, or one plot-progressing social engagement
 with one or more NPCs. 
 
     When measuring a battle encounter, the encounter is the time from making 
-first stealth attack or rolling iniative to the time that play is no longer done
-in iniative order. 
+first stealth attack or rolling initiative to the time that play is no longer
+in initiative order. 
 
 == DM ==
     Dungeon Master. See Game Master. 
