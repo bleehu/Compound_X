@@ -530,10 +530,10 @@ Perception rolls to spot cloaked or sneaking characters.
 	Some people hide behind their big boomsticks or fancy science tricks, but
 you know that the universe doesn't separate sentients by the size of their 
 hardware or how big their brain is. No, there are only two categories that one
-falls into: the quick, or the dead. Some gunslingers are fast-talking scoundrels,
-rouges and ne'er-do-wells. Some are the soft-spoken, hard-working long arm of 
-the law. But there is one thing that all gunslingers have in common: they know 
-their way around a pistol. 
+falls into: the quick, and the dead. Some gunslingers are fast-talking 
+scoundrels, rogues and ne'er-do-wells. Some are the soft-spoken, hard-working 
+long arm of the law. But there is one thing that all gunslingers have in common: 
+they know their way around a pistol. 
 
 Class Primary Attribute: Perception
 Starting Wealth: $1975 + 100*Luck
@@ -585,34 +585,39 @@ Skill Proficiencies
 * Acrobatics
 
 Feats:
-	----------------------
-	Heightened Alertness -
-	Being alert comes with your level of training. Gain 10 Reflex. You cannot be caught 
-	flat-footed (you cannot be penalized for being surprised), but opponents can still 
-	get surprise rounds against you.
-	----------------------
-	Protective Awareness - Requires a minimum Reflex of 24
-	Assiduously observant, you stay aware of any attacks made against you or allies. 
-	Whenever an enemy (that you can see) attempts to make an OPPORTUNITY attack on you
-	or any allies, within your guns maximum range, you first gain an attack on them.
-	The first time this ability is triggered on a given turn, it uses your next action.
-	(But the ability only uses 1 action, even if triggered multiple times -before or during- one of your turns).
-	----------------------
-	Enhanced Gun-Kata [12 Nanites] -
-	You are a disciple of the art of close-range gun fighting. For 1 Action, reduce 
-	weapon range to 15m, and negate actions needed for the Aiming, Pumping, and Cocking 
-	of a gun. Treat	your gun as if it was a CQB weapon and make 2 separate attacks 
-	with it. If your gun runs out of rounds before your two attacks are done, your
-	Enhanced Gun Kata ends.
-	|
-	|
-	V
-	You are a master of close-range gun fighting. Instead of 15m, gun range is 
-	reduced to a max of 30m. If you run out of rounds, you may reload mid-kata 
-	by passing a DC 75 DEX check. If a target dies by one of your attacks,
-	gain +1 additional attack.
 
-======================================
+Heightened Alertness:
+	Being alert comes with your level of training. Gain 10 Reflex. You cannot be 
+caught flat-footed (you cannot be penalized for being surprised), but opponents 
+can still get surprise rounds against you.
+
+Protective Awareness: 
+    
+    Requires a minimum Reflex of 24
+	
+    Assiduously observant, you stay aware of any attacks made against you or 
+allies. Whenever an enemy (that you can see) attempts to make an OPPORTUNITY 
+attack on you or any allies, within your guns maximum range, you first gain an 
+attack on them. The first time this ability is triggered on a given turn, it 
+uses your next action. (But the ability only uses 1 Action, even if triggered 
+multiple times -before or during- one of your turns).
+
+Enhanced Gun-Kata:
+
+	You are a disciple of the art of close-range gun fighting. For 1 Turn, 
+reduce weapon range to 15m, and negate actions needed for the Aiming, Pumping, 
+and Cocking of a gun. Treat	your gun as if it was a CQB weapon and make 2 
+attacks per Action with it. If your gun runs out of rounds before your turn is 
+done, your Enhanced Gun Kata ends. This ability can only be used once per 
+encounter.
+
+Gun Kata Master:
+
+	You are a master of close-range gun fighting. Instead of 15m, gun range is 
+reduced to a max of 30m. If you run out of rounds, you may reload mid-kata by 
+passing a DC 75 DEX check. If a target dies by one of your attacks, gain +1 
+additional attack this turn.
+
 
 =====   ASSASSIN   =====
 	The galaxy is a dangerous place for those who would believe their power or 
