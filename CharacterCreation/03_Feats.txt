@@ -881,9 +881,9 @@ and harpoon launchers that the user has proficiency with. Does not apply to Impr
 throwing weapons.
 
 0:	+5m to ranges R1 and R2.
-12:	May use Weapons - Melee in place of Perform (Dex) when making displays of 
+12:	May use Weapons - Thrown in place of Perform (Dex) when making displays of 
 	juggling or other performances that involve throwing as an important component.
-24:	When attacking with thrown weapons, before rolling Accuracy, you may declare the 
+24:	When attacking with throwing weapons, before rolling Accuracy, you may declare the 
 	attack to be Disabling. Such attacks deal one third damage, but if they damage 
 	health then the projectile lodges in the target's armor or person. Characters 
 	take 2d10 damage of the weapon's damage type for each lodged projectile whenever 
@@ -894,10 +894,10 @@ throwing weapons.
 	against your attacks.
 	/* When attacking an armored target at range, their armor coverage range is 
 	reduced by 1 {Static Armor} */
-48:	+10m to thrown weapons' farthest range bracket.
+48:	+10m to throwing weapons' farthest range bracket.
 60:	+10% Base damage. If you spend at least 2 Actions making ranged attacks with 
 	a throwing weapon in a single turn, you may make an additional attack with 
-	that weapon as a Reaction.
+	a similar throwing weapon as a Reaction.
 
 ==============================
 Active Feats
