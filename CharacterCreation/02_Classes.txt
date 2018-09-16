@@ -530,10 +530,10 @@ Perception rolls to spot cloaked or sneaking characters.
 	Some people hide behind their big boomsticks or fancy science tricks, but
 you know that the universe doesn't separate sentients by the size of their 
 hardware or how big their brain is. No, there are only two categories that one
-falls into: the quick, or the dead. Some gunslingers are fast-talking scoundrels,
-rouges and ne'er-do-wells. Some are the soft-spoken, hard-working long arm of 
-the law. But there is one thing that all gunslingers have in common: they know 
-their way around a pistol. 
+falls into: the quick, and the dead. Some gunslingers are fast-talking 
+scoundrels, rogues and ne'er-do-wells. Some are the soft-spoken, hard-working 
+long arm of the law. But there is one thing that all gunslingers have in common: 
+they know their way around a pistol. 
 
 Class Primary Attribute: Perception
 Starting Wealth: $1975 + 100*Luck
@@ -585,34 +585,39 @@ Skill Proficiencies
 * Acrobatics
 
 Feats:
-	----------------------
-	Heightened Alertness -
-	Being alert comes with your level of training. Gain 10 Reflex. You cannot be caught 
-	flat-footed (you cannot be penalized for being surprised), but opponents can still 
-	get surprise rounds against you.
-	----------------------
-	Protective Awareness - Requires a minimum Reflex of 24
-	Assiduously observant, you stay aware of any attacks made against you or allies. 
-	Whenever an enemy (that you can see) attempts to make an OPPORTUNITY attack on you
-	or any allies, within your guns maximum range, you first gain an attack on them.
-	The first time this ability is triggered on a given turn, it uses your next action.
-	(But the ability only uses 1 action, even if triggered multiple times -before or during- one of your turns).
-	----------------------
-	Enhanced Gun-Kata [12 Nanites] -
-	You are a disciple of the art of close-range gun fighting. For 1 Action, reduce 
-	weapon range to 15m, and negate actions needed for the Aiming, Pumping, and Cocking 
-	of a gun. Treat	your gun as if it was a CQB weapon and make 2 separate attacks 
-	with it. If your gun runs out of rounds before your two attacks are done, your
-	Enhanced Gun Kata ends.
-	|
-	|
-	V
-	You are a master of close-range gun fighting. Instead of 15m, gun range is 
-	reduced to a max of 30m. If you run out of rounds, you may reload mid-kata 
-	by passing a DC 75 DEX check. If a target dies by one of your attacks,
-	gain +1 additional attack.
 
-======================================
+Heightened Alertness:
+	Being alert comes with your level of training. Gain 10 Reflex. You cannot be 
+caught flat-footed (you cannot be penalized for being surprised), but opponents 
+can still get surprise rounds against you.
+
+Protective Awareness: 
+    
+    Requires a minimum Reflex of 24
+	
+    Assiduously observant, you stay aware of any attacks made against you or 
+allies. Whenever an enemy (that you can see) attempts to make an OPPORTUNITY 
+attack on you or any allies, within your guns maximum range, you first gain an 
+attack on them. The first time this ability is triggered on a given turn, it 
+uses your next action. (But the ability only uses 1 Action, even if triggered 
+multiple times -before or during- one of your turns).
+
+Enhanced Gun-Kata:
+
+	You are a disciple of the art of close-range gun fighting. For 1 Turn, 
+reduce weapon range to 15m, and negate actions needed for the Aiming, Pumping, 
+and Cocking of a gun. Treat	your gun as if it was a CQB weapon and make 2 
+attacks per Action with it. If your gun runs out of rounds before your turn is 
+done, your Enhanced Gun Kata ends. This ability can only be used once per 
+encounter.
+
+Gun Kata Master:
+
+	You are a master of close-range gun fighting. Instead of 15m, gun range is 
+reduced to a max of 30m. If you run out of rounds, you may reload mid-kata by 
+passing a DC 75 DEX check. If a target dies by one of your attacks, gain +1 
+additional attack this turn.
+
 
 =====   ASSASSIN   =====
 	The galaxy is a dangerous place for those who would believe their power or 
@@ -631,18 +636,22 @@ Passives:
 * Gain Feat: Proficiency: One-handed Melee Weaponry.
 * Gain bonus cloaking time when using other cloaking devices besides the Shadow Cloak.
 
-	Assassins wear a Shadow Cloak, which allows them to become a mere silhouette.
-Shadow Cloaks attempt to cloak* the assassin at all times** with a Detect DC of 
-10 + skill Stealth and a moving Detect DC of 0 + skill Stealth. When in partial 
-darkness or darker, the Detect and Moving Detect DC increases by 10. In the darkness,
-a skilled assassin won't be seen, even when being looked at. However, in daylight,
-even the most skilled assassin can be seen if their silhouette is carelessly shown.
+	Assassins wear a "Shadow Cloak", which allows them to become a mere 
+silhouette. Shadow Cloaks attempt to cloak* the assassin at all times. While
+hidden with the Shadow Cloak, an enemy must pass an Awareness save of DC 10 + 
+Stealth(Dex)  to see the Assassin while the Assassin is still. While the 
+Assassin is moving, the DC drops to 0 + skill Stealth. The Cloak cannot provide
+concealment that keeps up with the swift motions of an Assassin's attacks, and
+thus fails until the the start of the Assassin's next turn after the Assassin
+attacks. When in partial darkness or darker, the Detect and Moving Detect DC 
+both increas by 10. In the darkness, a skilled assassin won't be seen, even when 
+being looked at. In daylight however, even the most skilled assassin can be seen 
+if their silhouette is carelessly shown.
+
 *The Shadow Cloak does not follow typical cloaking rules, it doesn't make you as 
-invisible as a more powerful cloaking device, but it does allow you to hide in 
-plain sight. There is no Nanite Activation Cost, Nanite upkeep, or Cloak Turns 
-as the Shadow Cloak is special item. 
-**Except when attacking: you must wait until the start of the following turn 
-before the cloak resumes. 
+invisible like the more powerful advanced armor cloaking devices, but it does 
+allow you to hide in plain sight. There is no Nanite Activation Cost, Nanite 
+upkeep, or Cloak Turns for the Shadow Cloak, as the Shadow Cloak is special item. 
 
 	NOTE: For more information on Cloaking and Cloaking modules, see section, 
 "Cloaking" in the basic rules.
@@ -661,33 +670,44 @@ Skill Proficiencies:
 * Weapons - Melee
 
 Feats:
-	----------------------
-	Shadowy Assassin -
-	Your Cloak DCs increase by 10. Melee attacks made while in cloaking do not break 
-	your cloaking unless you are observed making the attack. Gain +20 base damage while
-	you are in cloaking and undetected by your target.
-	|
-	|
-	V
-	Melee attacks made while in cloaking do not break your cloaking. If you are 
-	observed making the attack, the observer must pass your Moving Cloak DC in order 
-	to observe the attack. +50 maximum damage for stealth attacking. (For more 
-	information, see section "Stealth Attacks" in the Basic Rules document.)
-	----------------------
-	Azure-Assassin -
-	At the cost of 15 Nanites, you can summon Nanite-crystal blades. These blades 
-	are as tough as carbide steel, have properties of a VAE knife, but break after 
-	a single use. They can be thrown* or used manually. Blades appear at the users 
-	hand, as if pulling them from nowhere.
-	*When thrown, use the stats for thrown weapon, 'Carbide Kunai' but still ignore 
-	armor like a VAE weapon.
-	|
-	|
-	V
-	At the cost of 10 Nanites, your Nanite-Crystal Blades can be summoned. Blades have
-	+20 base damage, in addition to the properties of a VAE knife. Blades appear at the 
-	users hand, wrist, etc. Blades can also appear with some momentum for RP purposes.
-======================================
+
+Shadowy Assassin:
+
+	Your Cloak DCs increase by 10. Melee attacks made while in cloaking do not 
+break your cloaking unless you are observed making the attack. Gain +20 base 
+damage while you are in cloaking and undetected by your target.
+
+Grapple Gremlin:
+    
+    While in a grapple that you control, you may use One-Handed melee weapons
+or pistols normally. While in a grapple that you control, you get two Actions
+instead of only one. Using a pistol to attack your grappled target uses hip fire
+rules. When stealthily attacking an enemy in a grapple that you control, you get
+a + 24 to Stealth(dex) rolls to keep the attack quiet.
+
+Grapple Ghost:
+
+    When you succeed on a grapple check against an enemy that wasn't aware of
+you, you may make a Grappling Specific Action such as Shoving, Kicking, Disarm,
+etc with advantage as a reaction. Victims in a grapple that you control must
+pass a DC 80 Shock Save in order to make enough noise for your grapple to be
+detected. So long as you control the grapple, you may make up to Three Actions
+per turn, but at least one of them cannot be attacking the victim that you are
+grappling. 
+
+    Grapple Ghost requires that a Character be level 10 and have taken Grapple
+Gremlin before taking it.
+
+Et Tu Brute:
+    You may make a melee attack with a One-Handed or Throwing weapon as a 
+Reaction at any time as long as the following is true.
+
+* you have the weapon already drawn
+* the target is prone within melee range
+* you have not already taken more than one Reaction this Round
+
+    The attack automatically hits. This Class Feat requires that a character be
+level 10 in order to take it.
 
 =====   MARKSMAN   =====
 	Your expert knowledge of bullet ballistics, feel for physics and keen eyes 
