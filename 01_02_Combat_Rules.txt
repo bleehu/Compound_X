@@ -196,12 +196,12 @@ the incoming attack.
 Unless otherwise specified, melee weapons have a Jam range of 2. Should your 
 melee weapon "jam", it catches on something in the environment at the DM's 
 discretion, if applicable, and is stuck. Unsticking the weapon requires a 
-Weapons - Melee check as a firearm would, except that if you pass the DC by 
-at least 30 you do not provoke an Opportunity Attack. Should nothing be 
-available for the weapon to get stuck in, it is instead dropped, but the 
-skill check may still be used to attempt to avoid an Opportunity Attack for 
-picking it up (you will always succeed in picking it up if it's still within 
-reach).
+Weapons - Melee check, as a firearm would require the appropriate 
+Weapons - [X] check. If you pass the DC by at least 30 you do not provoke an 
+Opportunity Attack. If nothing is available for the weapon to get stuck in, 
+it is instead dropped. You will always succeed in picking up a dropped weapon 
+if it is within reach, may still use the skill check to attempt to avoid an 
+Opportunity Attack while doing so.
 
 	Guard rolls can never Critically fail. Rolling a 1 on a Guard check 
 has no special meaning.
@@ -549,10 +549,10 @@ given (DM's discretion: how rushed you are, or how skilled you are at stealth,
 etc). Ranged weapon stealth-attacks gain +20 bonus damage.
 
 	If you stealth-attack a target in melee, your target has a Guard of 0. As
-normal (see section, "melee combat"), if you roll 3+ above
-the opponent's Guard, you ignore the opponent's armor and deal full damage.
-This signifies that the target gets hit in whatever you deem to be the most vulnerable;
-i.e., the head, neck, or the chest (over the heart, etc). 
+normal (see section, "Melee Combat"), if you roll 3+ above the opponent's Guard, 
+you ignore the opponent's armor and deal full damage. This signifies that the 
+target gets hit in whatever you deem to be the most vulnerable; i.e., the head, 
+neck, or the chest (over the heart, etc). 
 
 *Base Damage is typically the damage of the weapon without any other character 
 bonuses, but Base Damage can be increased by certain classes and abilities.
@@ -639,7 +639,7 @@ causes a jam, the rest of the automatic-fire d10s are not used.
 
 == Gun Jams ==
 	If at any time that you are firing a gun and you roll 1 on an accuracy roll,
-roll a second d10. If that second d10 roll equal to or less than the weapon's Jam 
+roll a second d10. If that second d10 roll is equal to or less than the weapon's Jam 
 Range, the weapon jams, necessitating a Weapon - [X] Skill check, DC 60 that takes 
 one Action before the weapon can be fired again.
 
@@ -701,9 +701,9 @@ sprint or use other movement abilities.
 
 	Going prone costs 1 Action, and standing up costs 1 Action. Lying flat down on
 your chest makes you a smaller target and helps you aim better, but also makes you
-easier to hit in melee. -1 gun miss chance while prone and -2 melee Guard. Being
-prone severely limits your movement: 1/2 movement speed while prone, round-up; maximum
-2 movement per action.
+easier to hit in melee. You gain +1 Accuracy with firearms while prone but suffer -2 to 
+Guard checks. Being prone severely limits your movement: 1/2 movement speed while prone, 
+round-up; maximum 2 movement per action.
 
 	Hunkering costs 1 action, and you cannot fire your weapons except by blind-fire 
 (see Blind Firing, above). Imagine curling up in a ball, to pose the absolute smallest
