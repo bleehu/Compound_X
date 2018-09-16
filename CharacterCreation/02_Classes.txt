@@ -144,10 +144,11 @@ Skill Proficiencies:
 
 =====   DOCTOR   =====
 
-    You know the secrets of life and death. The very continued existance of 
-those around you depend on you striking the right balance between heal and harm. 
-One errant twitch of your hands could mean the difference between saving the day 
-or losing a friend. This is what you've been training for for years. 
+    You know the secrets of life and death. The very continued existence of 
+those around you depends on whether you strike the right balance between heal 
+and harm. One errant twitch of your hands could mean the difference between 
+saving the day or losing a friend. This is what you've been training for for 
+years. 
 
 Class Primary Attribute: Dexterity
 Starting Wealth: $2670 + 100*Luck
@@ -187,7 +188,7 @@ Skill Proficiencies:
 	Adrenaline Junkie:
 
 	You thrive on the stress of being shot at while trying to save someone's life.
-You know that every breath you take could be your last, and one errant twitch
+You know that every breath you take could be your last, and each frantic motion
 could mean the difference between sending your brother in arms to see his 
 friends and family or his ancestors. You love it. Your maximum adrenaline is 
 600 and you start each encounter with 240 adrenaline points instead of 200.
