@@ -757,6 +757,7 @@ Skill Profiencies:
 ======================================
 
 =====   BERSERKER   =====
+
 	As an aficionado of the combat arts, you understand how important tactile 
 feedback is. Guns simply don't offer the appropriate amount, which is why you 
 prefer to BEAT YOUR ENEMIES TO DEATH USING YOUR BARE HANDS WHENEVER 
@@ -788,26 +789,28 @@ Skill Proficiencies:
 * Weapons - Melee
 
 == Class Feats ==
-	----------------------
-	Blood Rage -
-	You gain a permanent 30 health. In addition, you deal an extra point of melee 
-	damage for each health point you are missing. If more than a third of your 
-	health is missing, your move speed is 1m per action farther.
-	|
-	|
-	V
-	You gain an additional, permanent, 30 health. If you are missing more than half 
-	of your health, you gain a +2 accuracy bonus with melee weapons (affects rolling
-	over the opponents Guard DC).
-	----------------------
-	Beast Mode
-	Once per engagement, you give a mighty shout and rush to engage your foes. For
-	2 Rounds, your move speed increases by 1m per Action, you gain +30 bonus melee damage
-	and you gain 60 temporary HPs which lasts until the end of this effect. 
-	|
-	|
-	V
-	Enemies within [3 * CHA] meters of you when you shout must pass a DC 70 Charisma
-	check not to target you on their following turn. Instead of 60 HP, you gain a 
-	temporary (40 + 10*FORT) HPs. Beast Mode now last for 3 Rounds.
-======================================
+Blood Rage:
+	You gain a permanent 30 health. In addition, you deal an extra point of 
+melee damage for each health point you are missing. If more than a third of your 
+health is missing, your move speed is 1m per action farther.
+
+Blood Rage II:
+	You gain an additional, permanent, 30 health. If you are missing more than 
+half of your health, you gain a +2 accuracy bonus with melee weapons (affects 
+rolling over the opponents Guard DC). Blood Rage II requires that a Character 
+be level 10 and have taken the "Blood Rage" Class Feat before taking it.
+
+Beast Mode:
+
+	Once per engagement, you give a mighty shout and rush to engage your foes. 
+For 2 Rounds, your move speed increases by 1m per Action, you gain +30 bonus 
+melee damage and you gain 60 temporary HPs which lasts until the end of this 
+effect. Temporary hit points are lost at the end of the encounter.
+
+Beast Unleashed:
+
+	Enemies within [3 * CHA] meters of you when you shout must pass a DC 70 
+Charisma check not to target you on their following turn. Instead of 60 HP, you 
+gain a temporary (40 + 10*FORT) HPs. Beast Mode now last for 3 Rounds. Temporary
+hit points are lost at the end of the encounter. A Character must be level 10 
+and have taken Beast Mode before taking Beast Unleashed.
