@@ -6,13 +6,13 @@ Conditions
 
     Bleeding is when a character has sustained damage to the systems of their
 anatomy that contian liquids vital to their survival. This can happen to both
-biologic targets, who usually leak blood. But this can happen to cybernetic 
-characters as well who can leak coolant and lubricant.
+biologic targets, who usually leak blood, and to cybernetic targets, who can 
+leak coolant and lubricant.
 
     A Character that is bleeding takes d10/2+1 (drop the remainder) stackable 
-damage once per round at the beggening of their turn. Broken with Medicine Skill 
-check. The Save DC to stop varies; the cause of the bleed effect should list it 
-in the effect description.
+damage once per round at the beggining of their turn. The bleeding can be 
+staunched with Medicine Skill check. The Medicine (Dex) DC to stop varies; the
+cause of the bleed effect should list it in the effect description.
 
 == Burning ==
 
@@ -20,7 +20,7 @@ in the effect description.
 phosphorous) is burning. Burning is different than a Plasma Burn. For Plasma
 Burns, see the "Plasma Burn" Condition further below.
 
-    A Burning character takes 2d10 damage per round at the beggeining of their 
+    A Burning character takes 2d10 damage per round at the beggining of their 
 turn. Most burning can be extinguished by dousing a character in a non-flamable
 liquid, or by that character dropping and rolling. One Action to drop, One 
 Action to Roll around and put out the fire. Rolling has a Dex(Athletics) DC 40
@@ -58,9 +58,9 @@ their cells solidify into sharp ice in a process known as "Frostbite."
 Cybernetic targets on the other hand tend to have their moving parts contract
 and wear down while their electrolytic fluid hardens. 
 
-    A Character that is Fronzen takes d10 damage per round at the beggining of 
+    A Character that is Frozen takes d10 damage per round at the beggining of 
 their turn. The Condition lasts until a source of heat is applied to the wound, 
-or with Dexterity(Medicine) Skill check, DC 50.
+or with Medicine (Dex) Skill check, DC 50.
 
 == Fear ==
 
@@ -69,8 +69,8 @@ self-preservation. This usually happens when presented with the appearance of
 certain, agonizing death. Though there are certainly other scary things in the
 universe.
 
-    A Character that has the Fear Condition may take no actions, except running 
-away form the source of fear, or taking an action to roll to defeat fear. DC 50, 
+    A Character that has the Fear Condition may take no actions, except moving 
+away from the source of fear, or taking an action to roll to defeat fear. DC 50, 
 Will Save.
 
 == Fear, Greater ==
@@ -90,7 +90,7 @@ and failing to successfully socialize, or by trying and failing to socialize
 with an ally who has 1 Charisma. A Lonely Character hasn't met Mazlow's 
 Hierarchy of needs, and this affects their performance. 
 
-    While Lonely, they move 1m slower every two actions (round down) and take a 
+    A Lonely Character moves 1m slower every two Actions (round down) and take a 
 -5 to skill rolls. 
 
 == Necrosis ==
@@ -100,10 +100,11 @@ usually caused by gangrene or biological weapons. Typically, any hair, fur or
 scales fall off of the affected area and the flesh underneath turns black and
 dies.
 
-    A Character aflicted with Necrosis takes 2d10 +5 damage per turn. If left 
-unhealed for more than a day, the infection spreads 1 foot per day. Medicine DC 
-75, must be rolled to cure it, usually by surgically removing the dead tissue
-and generously applying healing biofoam.
+    A Character aflicted with Necrosis takes 2d10 +5 damage per Round at the 
+beggining of their turn. If left unhealed for more than a day, the infection
+spreads 1 foot per day. A Medicine check of DC 75 must be rolled to cure it, 
+usually by surgically removing the dead tissue and generously applying healing 
+biofoam.
 
 == Pinned Down ==
 
@@ -112,7 +113,7 @@ fire or a continuous stream of bullets must overcome the psychological instinct
 to stay put and not get shot.
 
     A target that is pinned is hunkered and cannot move for 2 full Rounds or 
-until they pass a Will saving throw at DC of 70, whichever is quicker.
+until they pass a DC 70 Will Save, whichever is quicker.
 
 == Plasma Burn ==
 
@@ -121,13 +122,13 @@ have the tendancy to stick to a target and their armor, continuing to do damage
 even after the initial impact of the projectile.
 
     A Character that has a Plasma Burn takes 1d10 + 1 Plasma Damage per Plasma
-Burn Token per round at the beggening of their turn. Each "token" lasts for 2 
+Burn Token per round at the beggining of their turn. Each "token" lasts for 2 
 turns if the target's armor was pierced or missed. 
 
-    If the targets armor is hit/pierced, the armor's AP Level is reduced by 1, 
-permanently (repairable, DC 60% Repair check). While the damage from burn tokens
-is addative, any given set of armor cannot have its APL reduced by more than
-one regardless of how many plasma shots it has taken.
+    If the targets armor is hit/pierced, the armor's Armor Piercing Level is
+reduced by 1, permanently (repairable, DC 60% Repair check). While the damage 
+from burn tokens is addative, any given set of armor cannot have its APL reduced 
+by more than one regardless of how many plasma shots it has taken.
 
 == Poisoned ==
 
@@ -146,19 +147,20 @@ Round at the beggining of their turn.
 these drinks, the effect should list a FORT save to avoid increasing your level 
 of intoxication. The first level of intoxication is Buzzed. 
 
-    While buzzed, a Character gains a +1 to miss with any attack and a temporary 
--1 to Perception. At the same time, the Character gets a +1 to charisma and luck. 
-You also take a -20 to skill checks involving driving, flying or operating heavy 
-machinery. If the Character fails a Fort save to prevent increasing their 
-intoxication level while Buzzed, they lose the Buzzed Condition and instead are 
-aflicted with the Hammered Condition (See below). As long as they don't become 
-Hammered, being Buzzed will wear off in two hours.
+    While buzzed, a Character gains a -1 to accuracy with any attack and a 
+temporary -1 to Perception. At the same time, the Character gets a +1 to 
+Charisma and Luck. You also take a penalty of -20 to skill checks involving 
+driving, flying or operating heavy machinery. If the Character fails a Fort save
+to prevent increasing their intoxication level while Buzzed, they lose the 
+Buzzed Condition and instead are aflicted with the Hammered Condition (See 
+below). As long as they don't become Hammered, being Buzzed will wear off in two
+hours.
 
 == Hammered (drunk) ==
 
     While Hammered, a Character takes a -3 to accuracy rolls when attacking and 
 a -50 to skill checks involving driving, flying or operating heavy machinery. 
-The Character takes a temporary -2 to dex, perception and charisma. If the 
+The Character takes a temporary -2 to Dexterity, Perception and Charisma. If the 
 Character's level of intoxication increases while you are Hammered, that 
 Character blacks out and is now Downed, but not Bleeding Out. As long as a 
 Character doesn't black out, being Hammered will turn into being Buzzed after 
@@ -166,6 +168,6 @@ two hours.
 
 == Stunned/Paralyzed ==
 
-    A Stunned or Paralyzed target cannot take actions for the duration of their
+    A Stunned or Paralyzed target cannot take actions for the duration of the
 Condition. The DC of the Saving Throw to end the Condition should be listed on
 the source of the stun or paralysis.
