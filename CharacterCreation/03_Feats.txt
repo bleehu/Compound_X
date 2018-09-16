@@ -265,13 +265,6 @@ Prerequisites:
 ranged weapons. In taking this feat you sacrifice the ability to use PER on 
 rolls dealing with using a weapon.
 
-== Improvisational Brawler ==
-Prerequisites:
-*  Melee Expertise
-
-	The benefits of the Melee Expertise feat now also apply to Improvised Melee 
-Weapons.
-
 == Improvise Weapon ==
 Prerequisites:
 
@@ -469,21 +462,6 @@ Prerequisites:
 points (or add 10 points to a non-Charisma skill). This skill can exceed the 
 skill point limit by 10. You may also ask the GM how many bullets each opponent 
 has left in their weapon.
-
-== Return To Sender ==
-Prerequisites:
-
-*  REF > 11
-
-	If a grenade is thrown at your character and you succeed at making the 
-Reflex save, you may choose to activate this feat instead of diving out of the
-way. If you activate this feat, you attempt to kick the grenade back at the
-character that threw it. First, attempt a luck roll of DC 15. If you fail, the
-grenade goes off with you standing right next to it. If you succeed, roll a d10
-as if you had thrown the grenade yourself with a -2 penalty since you're 
-kicking, not throwing. The grenade is considered "cooked" wherever it lands 
-after being kicked. This means that the enemy characters don't get the same 
-chance to make a Reflex Save.
 
 == Salty Hashtables ==
 Prerequisites:
@@ -975,27 +953,6 @@ Prerequisites:
 additional attacks, where X is your Nanites spent/5. Each additional attack has a 
 compounding +2 miss chance. (A 10th level character making their 3rd strike in a 
 row would be rolling at +4 miss chance).
-
-== Kip-up [15 Nanites] ==
-Prerequisites:
-
-* DEX 6
-* STR 5
-
-	A Kip-up is a gymnastic maneuver in which a character lying on the ground
-curls up and then kicks up and out into the air, using the resulting momentum to 
-jump from their back straight to their feet. This kick does not work well as a
-melee attack; the momentum is used to move the kicker rather than to impart 
-impact unto a target.
-
-	You may jump up from the prone to the standing position as a Free Action. 
-This action cannot be taken to go straight from prone to crouched. Further, if 
-the transition from prone to standing to crouched is taken, the normally Free
-Action of going from standing to crouched costs an Action. The kip-up cannot be
-attempted with Heavy or Full Armor on. The kip-up can only be done once every
-three rounds, but doesn't cost any nanites to do. The Three-round cooldown can
-be ignored once per round by paying the nanite cost.
-
 
 == Multi-Target [13*X Nanites] ==
 Prerequisites:

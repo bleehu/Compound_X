@@ -61,23 +61,6 @@ infection. For example, provides immunity from tear gas, The Doctor's
 Contaminate Area Procedure, etc. The suit provides no armor coverage and if the
 wearer takes damage the suit ruptures and no longer provides immunity.
 
-Opaleite Water Visor ($50):
-    A set of watertight goggles with a low-power filtration system and 
-rechargeable battery. When filled with water, an Opaleite wearing 
-the visor no longer suffers from racial Perception penalties from 
-being out of water. Provides no benefit to non-Opaleites.
-
-    Due to its bulk, wearing the visor precludes wearing any helmets or 
-other sizeable headgear.
-
-Military Opaleite Water Visor ($150):
-    A compacted water visor with a streamlined filtration system.
-When filled with water, an Opaleite wearing the visor no longer 
-suffers from racial Perception penalties from being out of water. 
-Provides no benefit to non-Opaleites.
-
-    Because of the streamlined profile, wearing the visor does not preclude 
-wearing any helmets or other sizeable headgear.
 
 ==============================
 Consumables
@@ -311,22 +294,3 @@ sounds even over cacophanous gunfire. A similar speaker is injected in the
 back of the cheek near the ear. Impossible to see with the naked eye without 
 invading the wearer's personal space. Hacking DC of 140.
 
-Universal Translation Device ($160):
-    The Universal Translation Device is proprietary and fairly rare. A character
-will likely have a hard time finding them for purchase until level 10.
-    A small cell-phone sized device with a small screen, camera, speaker and
-universal audio port. It can interface with any of the radio systems above or be
-used in ambient mode where it repeats anything it hears ambiently in the 
-language that it is set to. In synch mode, the translator listens to both its 
-mic and the coms that it is tied into and pipes the translated voices to the 
-com's speaker. This means that the translations piped to a subdermal mic can
-only be heard by the person using it but the translations piped to a 
-walkie-talkie might be overheard.
-    A given universal translator can only hold 10 languages at a time while 
-offline from the net cortex, and can slowly learn a language as it hears it, but
-will have a very hard time translating a previously unknown language.
-    Hacking the device requires physical access unless it is attached to a pwned 
-device. In either the case of physical access or connection to a pwned device, 
-the Hacking DC to disrupt is 50 and to pwn is 90. A Disrupted translator will only 
-broadcast static in place of foreign languages, a pwned translator will spoof 
-words that the hacker has programmed. 
