@@ -61,6 +61,10 @@ infection. For example, provides immunity from tear gas, The Doctor's
 Contaminate Area Procedure, etc. The suit provides no armor coverage and if the
 wearer takes damage the suit ruptures and no longer provides immunity.
 
+<<<<<<< HEAD
+
+=======
+>>>>>>> 4ed94ace121f8ec2e2e7f5c797895524001284ea
 ==============================
 Consumables
 ==============================
@@ -215,4 +219,5 @@ microphone is actually injected under the users' skin and rests next to the
 combatant's jaw bone. It uses the vibration of the jaw to send clear voice
 sounds even over cacophanous gunfire. A similar speaker is injected in the
 back of the cheek near the ear. Impossible to see with the naked eye without 
-invading the wearer's personal space. DC 140 to hack.
+invading the wearer's personal space. Hacking DC of 140.
+
