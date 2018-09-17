@@ -450,12 +450,12 @@ automatic mode), you may roll high enough to use your Critical Hit Chance.
 Critical Hit Chance is based on your Luck Stat, but can also be modified by 
 abilities, weapons, attachments, etc. 
 	If your Accuracy Roll is high enough, you activate your Critical Hit Chance.
-When this happens, you roll a second d10 to determine if you have performed a Critical 
+When this happens, you roll a second d10 to determine if you have landed a Critical 
 Hit, an Extra-Critical Hit, or, if you have less than average Luck, merely hit your enemy. 
 
-	A Critical Hit deals +20 damage, while an Extra-Critical Hit deals +30 damage. 
+	A Critical Hit deals +20 damage and an Extra-Critical Hit deals +30 damage. 
 
-	Some abilities or feats have additional effects that trigger when you score 
+	Some abilities or feats have additional effects that trigger when you land
 Critical or Extra-Critical Hits. 
 
 
