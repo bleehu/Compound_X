@@ -94,6 +94,32 @@ Movement Speed Penalty: -2m
 * 4 out to 45m
 * 5 out to 80m
 
+==Frontier Flame Thrower FLMR-B $3880 ==
+
+Damage: 80 Special
+Mag Size:  8 units of 6 liters, Naphitic Gel. $320 per magazine
+Reload DC:  50
+Fire Modes:  Semi
+Armor Piercing Level: n/a
+Reflex Modifier: -20
+Suppression Level: Medium
+Movement Speed Penalty: -2m
+
+	This flame thrower fires a wide spread of flaming gel, hitting the target 
+space as well as each adjacent space visible to the wielder.
+	Catches flammable objects on fire. Not affected by armor, unless target is 
+100% sealed. Any targets that took damage apply 1 x Burning @ DC70% to remove. Apply 1 x
+Fear on hit. No optics or barrel attachments.
+
+	Ranged Miss Chance
+
+* 2 out to 10m
+* 5 out to 15m
+* 6 out to 20m
+
+    The Frontier Flame Thrower FLMR-B has large magazines that take up 2 magazine 
+slots.
+ 
 ==Matthews Model 240-B  $4450 ==
 
 Damage: 105 Ballistic
