@@ -596,8 +596,8 @@ Protective Awareness:
     Requires a minimum Reflex of 24
 	
     Assiduously observant, you stay aware of any attacks made against you or 
-allies. Whenever an enemy (that you can see) attempts to make an OPPORTUNITY 
-attack on you or any allies, within your guns maximum range, you first gain an 
+allies. Whenever an enemy (that you can see) attempts to make an Opportunity 
+Attack on you or any allies, within your guns maximum range, you first gain an 
 attack on them. The first time this ability is triggered on a given turn, it 
 uses your next action. (But the ability only uses 1 Action, even if triggered 
 multiple times -before or during- one of your turns).
@@ -605,18 +605,18 @@ multiple times -before or during- one of your turns).
 Enhanced Gun-Kata:
 
 	You are a disciple of the art of close-range gun fighting. For 1 Turn, 
-reduce weapon range to 15m, and negate actions needed for the Aiming, Pumping, 
-and Cocking of a gun. Treat	your gun as if it was a CQB weapon and make 2 
-attacks per Action with it. If your gun runs out of rounds before your turn is 
+reduce maximum weapon range to 15m, and negate actions needed for the Aiming, 
+Pumping, and Cocking of a gun. Treat your gun as if it was a CQB weapon and make 
+2 attacks per Action with it. If your gun runs out of rounds before your turn is 
 done, your Enhanced Gun Kata ends. This ability can only be used once per 
 encounter.
 
 Gun Kata Master:
 
-	You are a master of close-range gun fighting. Instead of 15m, gun range is 
-reduced to a max of 30m. If you run out of rounds, you may reload mid-kata by 
-passing a DC 75 DEX check. If a target dies by one of your attacks, gain +1 
-additional attack this turn.
+	You are a master of close-range gun fighting. Instead of 15m, your maximum 
+gun range is reduced to a max of 30m. If you run out of rounds, you may reload 
+mid-kata by passing a DC 75 DEX check. If a target is downed by one of your 
+attacks, gain +1 additional attack this turn.
 
 
 =====   ASSASSIN   =====
@@ -644,9 +644,9 @@ Assassin is moving, the DC drops to 0 + skill Stealth. The Cloak cannot provide
 concealment that keeps up with the swift motions of an Assassin's attacks, and
 thus fails until the the start of the Assassin's next turn after the Assassin
 attacks. When in partial darkness or darker, the Detect and Moving Detect DC 
-both increas by 10. In the darkness, a skilled assassin won't be seen, even when 
-being looked at. In daylight however, even the most skilled assassin can be seen 
-if their silhouette is carelessly shown.
+both increas by 10. Skilled assassin won't be seen in darkness, even when 
+being looked at. Even the most skilled assassin will be seen in broad daylight 
+with direct line of sight.
 
 *The Shadow Cloak does not follow typical cloaking rules, it doesn't make you as 
 invisible like the more powerful advanced armor cloaking devices, but it does 
