@@ -333,6 +333,7 @@ Adrenaline Cost: 80 Points
 Contagion Cost: 1 Contagion
 Duration: 	20 Rounds
 Range:		Payload (use in combination with other powers)
+
     The biologic agent eats away at the target's flesh and biologic parts at an 
 astonishing rate. The target takes 3d10 damage per Round on their turn for the 
 duration of their affliction. They can be cured by decontamination devices or 
@@ -340,6 +341,27 @@ specially trained doctors. Targets that are wearing a gas mask, but have any
 exposed biology are affected by this even if a deployment method says they 
 wouldn't. Use of biologic weapons are severely frowned upon in most civilized 
 regions of space.
+
+
+== Neural Afibrillator ==
+
+Adrenaline Cost: 50 Points
+Needle Cost: 1 Needle
+Duration: 2 Actions
+Range: 40 m
+Miss Chance: 2
+APL: 3
+Damage on hit: 30
+
+    The Neural Afibrillator is a small module that fits into a needle to deliver
+electric shocks. Its indended purpose is for nerual-electric muscle stimulation,
+used in electrotherapy for physical therapy. But after you've tweaked it to 
+shock in a pseudo-random pattern and direction, it mostly just hurts a bit and
+causes unpredictable muscle spasms and radically confuses medical nanites.
+
+    Enemies that lose health points to this attack must attempt a DC 90 Shock 
+Save. On failure, they recieve 40 electric damage and have the Disrupted 
+Condition for 4 Rounds. On success, they take 20 Electric damage.
 
 ==Biopsy ==
 Adrenaline Cost: 40 Points
