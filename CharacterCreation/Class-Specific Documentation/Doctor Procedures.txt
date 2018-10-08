@@ -343,7 +343,7 @@ wouldn't. Use of biologic weapons are severely frowned upon in most civilized
 regions of space.
 
 
-== Neural Afibulator ==
+== Neural Afibrillator ==
 
 Adrenaline Cost: 50 Points
 Needle Cost: 1 Needle
@@ -353,7 +353,7 @@ Miss Chance: 2
 APL: 3
 Damage on hit: 30
 
-    The Neural Afibulator is a small module that fits into a needle to deliver
+    The Neural Afibrillator is a small module that fits into a needle to deliver
 electric shocks. Its indended purpose is for nerual-electric muscle stimulation,
 used in electrotherapy for physical therapy. But after you've tweaked it to 
 shock in a pseudo-random pattern and direction, it mostly just hurts a bit and
