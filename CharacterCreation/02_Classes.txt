@@ -154,13 +154,15 @@ Passives:
 * Gain Skill Knowledge - [Choose one] at 5.
 * Gain Skill Medicine at 10. 
 * Gain Feat: Proficiency: Light Melee Weaponry.
+* Gain Hippocratic Procedure: Patch 'em Up
+* Gain Malpractice Procedure: Harmacist Spike
 
-	Every level, you gain one skill in both of the "Hippocratic" and 
-"Malpractice" skill trees. At level 1 you start with an arm mounted needle 
-launcher, hand held pathogen synthesizer, field dressing applicator and a package 
-of ten needles. You start each encounter with 200 adrenaline points and will 
-need to keep track of adrenaline points, needles and contagion points during a 
-combat scenario. 
+	Every time a Doctor levels up, they gain one skill in both of the 
+"Hippocratic" and "Malpractice" skill trees. At level 1 you start with an arm 
+mounted needle launcher, hand held pathogen synthesizer, field dressing 
+applicator and a package of ten needles. You start each encounter with 200 
+adrenaline points and will need to keep track of adrenaline points, needles and 
+contagion points during a combat scenario. 
 
 Weapon Proficiencies: 
 * Pistols
