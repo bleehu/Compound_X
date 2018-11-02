@@ -15,8 +15,9 @@ mechanical systems.
 bypasses shields.
 
 Plasma Damage:
-	Plasma damage is dealt by energy transfer to the target from a high-energy 
-plasma projectile and/or spray. 
+	Plasma damage is dealt by the impact of a hot and highly charged plasma 
+projectile and/or spray. It tends to cause large burns to targets' exterior surfaces 
+and electrical shock throughout.
 
 	Plasma damage is dealt first to shields, then to armor, and then to health, 
 but shields and armor can only absorb up to half of each plasma attack's damage 
@@ -31,9 +32,10 @@ after the encounter.
 
 Laser Damage:
 	Laser damage is a burn or explosive energy release delivered by a high-
-intensity stream of photons, or light.
+intensity stream of photons, or light. The burns are more localized than those of 
+Plasma projectiles.
 	
-	Laser damage is dealth first to shields, and then to health. It 
+	Laser damage is dealt first to shields, and then to health. It 
 bypasses armor.
 
 == Miscellaneous Damage Types ==
