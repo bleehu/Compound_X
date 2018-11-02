@@ -41,9 +41,9 @@ bypasses armor.
 == Miscellaneous Damage Types ==
 
 Explosive Damage:
-	Certain grenades and devices deal Explosive damage, which is a shockwave 
-transmitted through any liquid or gaseous medium. Though they may seem 
-like explosive weapons, fragmentation grenades deal ballistic damage because their 
+	Certain grenades and devices deal explosive damage, which is a shockwave 
+transmitted through any liquid or gaseous medium. Though fragmentation grenades 
+may seem like explosive weapons, they deal ballistic damage because their 
 primary damage delivery method is shrapnel.
 
 	Explosive damage is dealt directly to health, bypassing armor and shields.
