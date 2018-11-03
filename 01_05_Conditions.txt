@@ -90,8 +90,8 @@ and failing to successfully socialize, or by trying and failing to socialize
 with an ally who has 1 Charisma. A Lonely Character hasn't met Mazlow's 
 Hierarchy of needs, and this affects their performance. 
 
-    A Lonely Character moves 1m slower every two Actions (round down) and take a 
--5 to skill rolls. 
+    A Lonely Character moves 1m slower every two Actions (round down) and takes 
+a -5 to skill rolls. 
 
 == Necrosis ==
 
@@ -101,7 +101,7 @@ scales fall off of the affected area and the flesh underneath turns black and
 dies.
 
     A Character aflicted with Necrosis takes 2d10 +5 damage per Round at the 
-beggining of their turn. If left unhealed for more than a day, the infection
+begining of their turn. If left unhealed for more than a day, the infection
 spreads 1 foot per day. A Medicine check of DC 75 must be rolled to cure it, 
 usually by surgically removing the dead tissue and generously applying healing 
 biofoam.
@@ -127,7 +127,7 @@ turns if the target's armor was pierced or missed.
 
     If the targets armor is hit/pierced, the armor's Armor Piercing Level is
 reduced by 1, permanently (repairable, DC 60% Repair check). While the damage 
-from burn tokens is addative, any given set of armor cannot have its APL reduced 
+from burn tokens is additive, any given set of armor cannot have its APL reduced 
 by more than one regardless of how many plasma shots it has taken.
 
 == Poisoned ==
