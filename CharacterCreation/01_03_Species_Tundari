@@ -16,7 +16,7 @@ mane or scruff-like quality about it.
 
 	As many cultures mark themselves with tattoos, the Tundari also have their own method
 of skin-marking. Some outliers will dye their fur, but that is generally frowned upon 
-by much of Tundari society. The traditional method of marking is called Aranga, 
+by the traditinalists of Tundari society. The traditional method of marking is called Aranga, 
 though many ranchers will would recognize the method as very similar to the freeze-
 branding they mark livestock with. Aranga, however, is far more intricate that simple 
 freeze-branding.
@@ -54,8 +54,8 @@ subsequent rolls regarding complications or recovery.
 ===== Language: Tuunra ===== 
 
 	While different clans have their own unique dialects, they are similar enough that 
-they can be understood well by all. Tuunra features drawn-out vowels, soft consonants,
-and sounds such as clicks, chirps, trills, and a low rumbling that is nearly inaudible 
+they can be understood by all. Tuunra features drawn-out vowels, soft consonants, and 
+sounds such as clicks, chirps, trills, and a low rumbling that is nearly inaudible 
 to humans. There is another integral part of Tuunra that many species do not pick up
 on, and that is an intricate system of body language that involves both tail and ears.
 A Tundari that has lost their tail may have great difficulty getting their point across
@@ -65,13 +65,38 @@ to others of their species.
 
 ===== Names ===== 
 
+	Names in Tuunra are important; they not only designate clan, but to some degree, 
+that clan's social status. More recently, many of these meanings have been obscured or 
+become obsolete. Despite this, others have stuck around and remain titles that can be lost 
+or gained.
+	Titles may be given to individuals, clans as a whole, or part of a clan may branch 
+off to be designated with a seperate title. For instance, the Chi clan were primarily fishers
+of the Merkhe river, giving them the title of 'Mer; when a small portion of the clan moved to
+the practice of what Terrans call aquaponics, that branch gained the new title of 'Krou.
+
+	Notable Titles:
+	'Mau is an indication of a clan's status. It is generally bestowed upon large or 
+influential clans that make a large impact on their society as a whole.
+	'Khe is a term given to an individual rather than a clan. It is a degredation 
+indicating exile or disgrace. Unless the individual abides closely to Tundari societial 
+rules, they may not introduce themselves as such to outsiders, as it is often a source of shame. 
+	'Mer generally refers to those clans who gain their living or live on the Merkhe river, a 
+large body of water that flows down the through the continent of Senrima.
+	'Krou is a combination of the Tuunra words kyr(fish) and rou'en(medicinal herbs). It 
+was taken by those who took up aquaponics to raise both fish for consumtion and herbs. While
+these herbs are traditionally medicinal, it may not be the prefered crop for a group with this
+title. 
+	'En is a title given to healers and doctors trained on Tundaar. 
+
 	First names range very much as humans, as far as origin. Often having some significance 
 with the family, first names are fairly arbitrary in much of Tundari society. Tribe and 
 clan names are held the most important, and as such, are always listed first.
 Some Tundari have been exiled, lost their clan names, or adopted their own. Others have 
 adopted names from the other cultures they now live in. 
 
-== Tuunra Name Examples ==
+== Tuunra Name Examples =
+
+Name structure follows as such: [Clan Name]'[Clan Title] [First or Familiar Name]
 
 * Rra’Igri Chi’ro
 * Sang’Aal Meari
@@ -82,8 +107,8 @@ adopted names from the other cultures they now live in.
 ===== Available Traits =====
 
 Clawed:
-	Already equipped with built-in weapons, the large claws on your forelimbs give you an 
-advantage in hand-to-hand combat. 
+	Already equipped with built-in weapons, you are practiced at using the large claws
+on your forelimbs to give you an advantage in hand-to-hand combat. 
 [Increased Damage for Hand-to-Hand]
 
 Soft-footed:
@@ -102,7 +127,7 @@ onto items, use it to aid in climbing, or even hang from it.
 Toothed: 
 	As a predatory species, you have the customary long teeth that frighten many. 
 To you, they are commonplace, but to many others, they are far from ordinary. 
-[Gain Advantage on Intimidation Rolls toward and against Biological beings]
+[Gain Advantage on initial Intimidation Rolls toward and against Biological beings]
 
 ==============================
 Tundari Clans
@@ -114,7 +139,7 @@ Size: Medium/Large
 Favored Terrain: Plains
 
 Appearance: 
-	These clans tend to have coats that range from tawny to sorrel. They are 
+	This clan tends to have coats that range from tawny to sorrel. They are 
 leaner than the Sang’mau, as a whole.
 
 Tribe: 
@@ -127,13 +152,14 @@ merely figure-head the process to outsiders.
 
 Hind-Claws:
 	Digging into the ground with the large claws present on your hind-limbs spurs your 
-ability to run much faster than your peers. [Round movement speed calculations up]
+ability to run much faster than your peers. 
+[Round movement speed calculations up]
 
 
 Wide-faced:
 	Many species seem to be drawn to your large eyes. You aren’t certain why, but it gives 
 you an advantage when attempting to persuade or charm members of other biological species. 
-[Persuade at Advantage once per individual]
+[Persuade at Advantage once per biological individual]
 
 
 
@@ -173,15 +199,17 @@ Favored Terrain: Urban/Rocky
 
 Appearance: 
 	Coats range from a red-tawny to grey and black. These Tundari are the smallest 
-in both size and number of the large clans. They are more solitary than either of the larger
-clans. 
+in both size and number of the large clans. 
 
-Swimmer: 
-	You are an expert at swimming. A thick coat of fur protects you from the chill of 
-the water, and you can hold your breath for quite some time.
+Tribe:
+	In contrast to the two other largest clans, the Chi'mau focus more on the nuclear
+family than on a larger society as a whole. This is likely more due to geography than 
+an inclination to keep to themselves. Traditionally living in mountainous river valleys 
+with steep cliff walls and fish being their main source of sustinance, the idea that each
+family has a larger territory has stuck through several centuries.
+
 
 == Available Traits ==
- 
 
 Climbing: 
 	A long tail and a lack of fear for heights allows climbing to come very naturally to you. 
@@ -191,3 +219,7 @@ Survivalist:
 	Being out by yourself often requires quick ingenuity and hardiness. 
 [Gain Proficiency in Jury-Rigging]
 
+Swimmer: 
+	You are an expert at swimming. A thick coat of fur protects you from the chill of 
+the water, and you can hold your breath for quite some time.
+[Gain Advantage on rolls related to Swimming. Can hold breath up to 5 minutes]
