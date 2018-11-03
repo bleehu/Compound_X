@@ -44,43 +44,65 @@ Skill Proficiencies:
 * Weapons - [Any]
 
 == Class Feats ==
-	----------------------
-	Battle Adrenaline [25 Nanites] -
-	Significant past training or combat experience has given you honed battle reactions, 
-	adrenaline simply aids your ability to understand and react to the task at hand. 
-	+1 non-attacking action, this turn only. Activate as a free action 
-	during your turn, limit one use per turn and a max of 3 activations per encounter.
-	|
-	|
-	V
-	Maximum of 6 activations per encounter; costs [20 Nanites] to use.
-	----------------------
-	Battle Cry / Raise Morale -
-	You roar to incite courage in your allies. 1 Action. 50% + (CHA mod) chance to 
-	raise allied effectiveness 20% (or +2 if relevant) on each of their next rolls 
-	[including your next roll]. 
-	Allies must be able to hear and understand you to get the bonus. Max 1 successful 
-	use per encounter.
-	|
-	|
-	V
-	75% + (CHA mod) success and 30% (or +3) added to next allied rolls.
-	----------------------
-	Fight Fiercely First -
-	The Soldier gets an additional +10 to initiative rolls. 
-	In addition, the soldier with this class feat gets a -3 miss chance against enemies
-	who have not taken a turn yet in combat or whom the soldier has beaten in 
-	reflex roll when room clearing until that character takes a turn after losing the 
-	reflex roll.
-	|
-	|
-	V
-	The soldier's accuracy bonus effect works on any enemy with a lower initiative until
-	that enemy has finished their 3rd turn.
-======================================
+
+Battle Hardened:
+
+    Your body and mind are used to the constant strain of combat. You no longer
+recoil quite so much from the horrors of war like a greenhorn and it takes more
+to shock you. Your pain tolerance has grown and you are more conscious of your
+surroundings. You gain the following:
+
+* + 8 to your Will Save
+* + 8 to your Shock Save
+* + 8 to your Reflex Save
+* + 8 to your Awareness Save
+* + 30 to your maximum health
+
+Grizzled Veteran:
+
+    You thrive on gunfighting. You love the smell of napalm in the morning. 
+You've had so much shrappnel in your body that it's gotten homeostatically used
+to it. This Feat cannot be taken unless you have "Battle Hardened" and are level 
+10. You gain the following:
+
+* An additional +20 to your maximum health
+* If you would fail a reload roll, you succeed instead as long as you didn't critically fail    
+
+Raise Morale:
+
+	You roar to incite courage in your allies. The roar takes 1 Action to 
+complete and requires you to pass a DC 50 Charisma check. If you succeed, you 
+give allied Characters a +20 on their next skill roll or +2 on their next
+attack roll. This includes your next roll. Allies must be able to hear and 
+understand you to get the bonus. Max 1 successful use per encounter.
+
+Battle Cry:
+
+	You give a violent yell that spurs you and your teammates on, giving them
+the sense that victory is possible. In order for your cry to work, you must pass
+a DC 25 Charisma check. If successful, your Battle Cry gives you and your 
+teammates a +30 on their next skill roll or +3 added to their next attack roll. A 
+Character must be level 10 and have the "Raise Morale" Class Feat in order to 
+take this feat. This ability takes 1 Action and can only be used once per 
+encounter. This ability replaces Raise Morale.
+
+Fight Fiercely First:
+
+	You gain an additional +10 to initiative rolls. In addition, you get a +3 to
+accuracy against enemies who have not taken a turn yet in combat or whom you
+have beaten in the reflex roll when room clearing until that character takes a 
+turn.
+
+Surpise and Violence of Action:
+
+	The soldier's accuracy bonus effect works on any enemy with a lower 
+initiative until that enemy has finished their 3rd turn. A Character cannot take
+this Class Feat unless they are level 10 and have the "Fight Fiercely First"
+Class Feat as well.
 
 
 =====   SPECIALIST   =====
+
 	There is always a need for the type of person willing and able to bring the 
 heaviest of fire down upon their enemies. The Specialist will be there when the 
 odds are stacked highest against the forces for good, and he'll be prepared to 
@@ -114,37 +136,38 @@ Skill Proficiencies:
 * Weapons - Explosive
 
 == Class Feats ==
-	----------------------
-	Needs More Dakka [15 Nanites] -
-	Sometimes, a situation just calls for more bullets. You're good at that. 
-	Make a regular firing action. If firing a weapon semi-automatically, you may 
-	fire an extra shot with a +1 miss chance. Or, if firing a weapon 
-	automatically, you may fire two extra shots with a +1 and +2 miss chance 
-	respectively. When using this ability, you cannot score critical hits. This 
-	ability cannot be used with grenade launchers, rocket launchers, or 
-	autocannons.
-	|
-	|
-	V
-	Your ferocity knows no bounds. Targets fired upon with Needs More Dakka
-	must make a DC 60 + (Charisma * 8) Shock check. On failure, target is 
-	Pinned Down (see section "Conditions" in the basic rules document).
-	----------------------
-	Heavier Ordinance Not Required [25 Nanites] -
-	Your expertise with heavy weapons is sufficient for the task at hand. 
-	Gain -2 Miss Chance and a bonus +25 damage for an attack with any Heavy Weapon.
-	|
-	|
-	V
-	Your expertise with heavy weapons is overkill for the task at hand. 
-	Gain -3 Miss Chance and a bonus +35 damage for an attack with any Heavy Weapon.
-	(This miss chance bonus can exceed the minimum -2 ranged miss chance)
-======================================
 
+Blanket Fire:
+
+    You gleefully provide cover fire over a larger area, using tools that are
+best suited for such a task. When you take an Action to suppress with a 
+fully automatic Heavy Weapon, you have a wider area of effect than normal. 
+Instead of supressing an area of 1 to 3 meters, you suppress an area of 2 to 5
+meters. 
+
+Fire For Effect:
+    
+    When you lay down Heavy Suppression, you may choose to fire 14 shots instead
+of 10. If you do, you are said to have "Fired For Effect." An enemy that moves
+into the open of your Fire For Effect takes 4 automatic hits instead of 2. This
+Class Feat cannot be taken unless your character is level 10 and has the 
+"Blanket Fire" Class Feat already.
+
+Tender Love and Care:
+    
+    You have an almost pathological affection for your large weapon of choice.
+You keep it immaculately clean and tuned as well as you can.
+
+    When firing an automatic weapon, the first time each Round that you would
+roll a jam you instead only miss.
 
 =====   DOCTOR   =====
-You know how or why something works [most likely humans / humanoid bodies), 
-and put that knowledge to good use by supporting your team.
+
+    You know the secrets of life and death. The very continued existence of 
+those around you depends on whether you strike the right balance between heal 
+and harm. One errant twitch of your hands could mean the difference between 
+saving the day or losing a friend. This is what you've been training for for 
+years. 
 
 Class Primary Attribute: Dexterity
 Starting Wealth: $2670 + 100*Luck
@@ -180,26 +203,28 @@ Skill Proficiencies:
 * Medicine
 
 == Class Feats ==
-	----------------------
-	Adrenaline Junkie - 
+
+	Adrenaline Junkie:
+
 	You thrive on the stress of being shot at while trying to save someone's life.
-	You know that every breath you take could be your last, and one errant twitch
-	could mean the difference between sending your brother in arms to see his 
-	friends and family or his ancestors. You love it. Your maximum adrenaline is 
-	600 and you start each encounter with 240 adrenaline points instead of 200.
-	|
-	|
-	V
-	Adrenaline Addict - 
-	"Nothing in life is so exhilarating as to be shot at without result" ~ Winston Churchill
-	Any time an enemy shoots at you and misses, gain 10 Adrenaline Points. 
-	-----------------------
-	The Harmacist - 
-	Prerequisite: Level 10
-	Learn an extra malpractice procedure.
-======================================
+You know that every breath you take could be your last, and each frantic motion
+could mean the difference between sending your brother in arms to see his 
+friends and family or his ancestors. You love it. Your maximum adrenaline is 
+600 and you start each encounter with 240 adrenaline points instead of 200.
+
+	Adrenaline Addict:
+
+	"Nothing in life is so exhilarating as to be shot at without result" ~ 
+Winston Churchill. Any time an enemy shoots at you and misses, gain 10 
+Adrenaline Points. Requires the "Adrenaline Junkie" Doctor Class Feat.
+
+	The Harmacist:
+
+	Learn an extra malpractice procedure. This Class Feat can only be taken by
+a level 10 Character.
 
 =====   ENGINEER   =====
+
 	You solve problems. For instance, you know how to stop some mean 
 mutha-hubbard from tearin' you and your team a structurally superfluous new 
 behind. You know how to fix engines, machines, circuits, you name it. And when 
@@ -250,41 +275,44 @@ Skill Proficiencies:
 * Jury-rigging
 
 == Class Feats == 
-	-----------------------
-	A little Controlling - 
+
+A little Controlling: 
+
 	You gain an additional permanent control point
-	|
-	|
-	V
-	Control Phreak -
-	You gain an additional permanent control point [max of 5 permanent points]
-	----------------------
-	Repairman -
+
+Control Phreak:
+
+    You gain an additional permanent control point. You have an absolute max of 
+5 permanent points.
+
+Repairman:
+
 	you gain a 10% chance to stabilize a crashing robotic ally and a +10% to 
-	repair checks.
-	|
-	|
-	V
-	Overbuilt -
+repair checks.
+
+Overbuilt:
+
 	Any time you build a construction, you may spend 15 Nanites to give that 
-	construction 50 additional health points.
-	----------------------
-	Power Trip -
-	You start each engagement with an extra 40 energy
-	|
-	|
-	|
-	V
-	Cosmic Power -
-	In addition to the 40 energy from Power Trip, you start each 
-	engagement with another 30 energy and your maximum energy is
-	increased by 50.
-======================================
+construction 50 additional health points.
+
+Power Trip:
+
+	You start each engagement with an extra 40 energy.
+
+Cosmic Power:
+
+	In addition to the 40 energy from Power Trip, you start each engagement with 
+another 30 energy and your maximum energy is increased by 50. This Class Feat
+requires that a Character be level 10 and have taken "Power Trip" Class Feat.
+
 
 =====   HACKER   =====
-	You've lived your life in the deepest recesses of the holonet, and have come 
-out alive and strong. You can figure out how a security system works, hack into 
-systems, or even hack your allies' Nanites to perform better.
+	
+    No system is safe. No lock is secure. No encryption is unbreakable. And
+you're the reason why they're not. You're quick-thinking, curious and you have
+a habit of getting into places that you shouldn't be and uncovering the secrets
+that you shouldn't have seen. You have a mischievous talent for disrupting your
+enemy's technology and sometimes even turning it against them. 
 
 Class Primary Attribute: Intelligence
 Starting Wealth: $2750 + 100*Luck
@@ -293,6 +321,11 @@ Passives:
 * Gain Skill Hacking at 10.
 * Gain Skill Knowledge - Computers at 10.
 * Gain Feat: Proficiency: Light Melee Weaponry.
+
+    At level 1, gain a laptop and a smart watch. You can use these to activate
+your Exploits. You also gain the Disrupt Exploit at Level 1. You gain the RAT
+Exploit at level 2. See the "Character Specific/Hacker Exploits.txt" document
+for more information on Hacker Exploits.
 
 Weapon Proficiencies: 
 * Pistols
@@ -309,33 +342,21 @@ Skill Proficiencies:
 * Knowledge - Computers
 
 == Class Feats ==
-	----------------------
-	Exploit weakness -
-	You have a basic understanding of networks and computers, and can hack your 
-	way into a system with ease, and have accrued many basic hacks onto your thumb
-	drive belt. +20% against Firewalls.
-	|
-	|
-	V
-	Your skill and library have grown substantially. +30% against Firewalls, +15% 
-	against Info Nodes and Interaction Nodes.
-	----------------------
-	Nanite Boosting/Hacking -
-	You've had some cross-training in the medical field, or maybe you just tried 
-	plugging a cord into your brain. You know how to communicate with Nanites that
-	are present in friends and enemies. Once per turn, as a free action DC 50 
-	Knowledge - Nanites grants a +20% to an ally's next roll, or -10% to an opponent.
-	Touch Effect.
-	|
-	|
-	V
-	Nanites have almost become second nature to you. DC 50 Knowledge - Nanites 
-	grants a +30% to an ally's next roll, or -20% to an opponent. 
-	Knowledge - Nanites / 2 meters range.
-======================================
 
+Polymorphic Sideshow:
+
+    Your scripts and malware have the ability to mutate their cryptographic
+signature. Breaking out of one of your exploits no longer gives a target 
+immunity to it.
+
+Blue Team:
+    
+    You've broken enough systems to get good at keeping other bad actors out.
+Systems that have your scripts, malware or programs in them get a +20 to either
+Will Saves or Hacking(INT) rolls to prevent someone else from breaking into them.
 
 =====   PILOT   =====
+
 	You have a yearning to test the limits of the vehicles you operate. The 
 boundaries of speed and maneuvering were meant to be broken - by you.
 
@@ -366,27 +387,83 @@ Skill Proficiencies:
 * Weapons - General
 
 == Class Feats ==
-	----------------------
-	Planes, Trains, Automobiles -
-	This is sorta familiar to something you once saw, or rode on. Maybe? 
-	Unfamiliar vehicles can be operated [albeit pretty poorly] after you pass 
-	a DC 50 Luck check, or take up to 3 actions examining.
-	|
-	|
-	V
-	You have flown, operated and driven just about everything there is. Except 
-	that. Make a DC 50 Piloting OR Luck check, or take up to 2 actions examining.
-	----------------------
-	Extensive training <Vehicle> -
+
+Getaway Driver:
+
+    You have an intuitive understanding of the flow of traffic and the lines of
+sight between your vehicle and those you'd rather avoid. Maybe you had a 
+criminal career in the past, or maybe you just see the road differently then
+most. 
+
+    Any enemy that targets the vehicle that you are piloting, the passengers in
+the vehicle that you are piloting or you whilst you are piloting takes a -2 to
+accuracy rolls to hit as long as the vehicle has moved for at least 2 Actions
+on your last turn. Furthermore you get a +12 to Stealth (Dex) rolls made to lose 
+a tail or Piloting (Dex) rolls to make maneuvers in retreating.
+
+Wheelman:
+    
+    You have mastered the zen of the flow of vehicle combat. You don't just know
+when to break line of sight to avoid harm, but when to hold her steady so your
+teammates can light 'em up. You also have a concerning talent for ending enemy
+lives with the blunt force of your bumper.
+
+    Teammates firing from a vehicle that you are piloting get a +1 to accuracy
+rolls and negate any existing penalties from chaotic vehicle movement. If you
+attempt to make an attack by ramming, crashing, scraping or splattering, you 
+gain a +2 to hit with the attack roll and any damage to your vehicle from your
+attacks is reduced to three quarters. 
+
+    This Class Feat requires a Character to be level 10 and to have taken 
+Getaway Driver before they can take it.
+
+Boostin' Buggies:
+    
+    You have a deep familiarity with a variety of vehicle security systems and
+ignitions. 
+
+    You gain a +16 to skill checks with Slight of Hand(Dex), Hacking(Int), or
+Jury Rig (Dex) to start and control a vehicle that didn't have the keys in it
+or you're otherwise not authorized to start. Vehicles that you steal won't 
+trigger car alarms or other security measures.
+
+Drive it Like You Stole it:
+
+    You have the habit of disabling the governer along with the car alarm every
+time you steal a vehicle. Pushing the vehicle to its limits is really hard on it,
+but you're sure insurance will cover it, whomever it belongs to. 
+
+    When piloting a vehicle that you've rolled a skill check to start, you have
+the option to "Push It". Every time you Push It, the vehicle takes a small 
+amount of damage at your DM's discretion. Pushing It can have the following 
+effects.
+
+* move 15%-20% faster than max speed (round to the most convinient whole number)
+* add +16 to a piloting check to maneuver
+* deal an extra 25% - 30% damage during a ramming, crashing, scraping or splattering attack (round to most convinient whole number)
+
+    To take this feat, a Character must be level 10 and have taken the "Boostin' 
+Buggies" Class Feat.
+
+Extensive training <Vehicle>:
+
 	Your complete knowledge of <Vehicle> makes your operation of it seem easy. 
-	Add	25 to any check concerning your operation, knowledge, or maintenance of the 
-	vehicle.
-	|
-	|
-	V
-	You are THE guru across the holonets for <Vehicle>. Add 50 onto a pertinent 
-	roll about the vehicle.
-======================================
+Add	25 to any check concerning your operation, knowledge, or maintenance of the 
+vehicle. A suggested list of vehicles to chose from is below, but it is not
+exhaustive.
+
+* car/van/truck
+* tank
+* small boat
+* large watercraft
+* helicopter
+* starfighter
+* warship
+
+<Vehicle> Mastery:
+
+	You are THE guru across the galaxy for <Vehicles>. Add 50 onto a pertinent 
+roll about the vehicle.
 
 
 =====   HUNTER   =====
@@ -530,10 +607,10 @@ Perception rolls to spot cloaked or sneaking characters.
 	Some people hide behind their big boomsticks or fancy science tricks, but
 you know that the universe doesn't separate sentients by the size of their 
 hardware or how big their brain is. No, there are only two categories that one
-falls into: the quick, or the dead. Some gunslingers are fast-talking scoundrels,
-rouges and ne'er-do-wells. Some are the soft-spoken, hard-working long arm of 
-the law. But there is one thing that all gunslingers have in common: they know 
-their way around a pistol. 
+falls into: the quick, and the dead. Some gunslingers are fast-talking 
+scoundrels, rogues and ne'er-do-wells. Some are the soft-spoken, hard-working 
+long arm of the law. But there is one thing that all gunslingers have in common: 
+they know their way around a pistol. 
 
 Class Primary Attribute: Perception
 Starting Wealth: $1975 + 100*Luck
@@ -585,34 +662,39 @@ Skill Proficiencies
 * Acrobatics
 
 Feats:
-	----------------------
-	Heightened Alertness -
-	Being alert comes with your level of training. Gain 10 Reflex. You cannot be caught 
-	flat-footed (you cannot be penalized for being surprised), but opponents can still 
-	get surprise rounds against you.
-	----------------------
-	Protective Awareness - Requires a minimum Reflex of 24
-	Assiduously observant, you stay aware of any attacks made against you or allies. 
-	Whenever an enemy (that you can see) attempts to make an OPPORTUNITY attack on you
-	or any allies, within your guns maximum range, you first gain an attack on them.
-	The first time this ability is triggered on a given turn, it uses your next action.
-	(But the ability only uses 1 action, even if triggered multiple times -before or during- one of your turns).
-	----------------------
-	Enhanced Gun-Kata [12 Nanites] -
-	You are a disciple of the art of close-range gun fighting. For 1 Action, reduce 
-	weapon range to 15m, and negate actions needed for the Aiming, Pumping, and Cocking 
-	of a gun. Treat	your gun as if it was a CQB weapon and make 2 separate attacks 
-	with it. If your gun runs out of rounds before your two attacks are done, your
-	Enhanced Gun Kata ends.
-	|
-	|
-	V
-	You are a master of close-range gun fighting. Instead of 15m, gun range is 
-	reduced to a max of 30m. If you run out of rounds, you may reload mid-kata 
-	by passing a DC 75 DEX check. If a target dies by one of your attacks,
-	gain +1 additional attack.
 
-======================================
+Heightened Alertness:
+	Being alert comes with your level of training. Gain 10 Reflex. You cannot be 
+caught flat-footed (you cannot be penalized for being surprised), but opponents 
+can still get surprise rounds against you.
+
+Protective Awareness: 
+    
+    Requires a minimum Reflex of 24
+	
+    Assiduously observant, you stay aware of any attacks made against you or 
+allies. Whenever an enemy (that you can see) attempts to make an Opportunity 
+Attack on you or any allies, within your guns maximum range, you first gain an 
+attack on them. The first time this ability is triggered on a given turn, it 
+uses your next action. (But the ability only uses 1 Action, even if triggered 
+multiple times -before or during- one of your turns).
+
+Enhanced Gun-Kata:
+
+	You are a disciple of the art of close-range gun fighting. For 1 Turn, 
+reduce maximum weapon range to 15m, and negate actions needed for the Aiming, 
+Pumping, and Cocking of a gun. Treat your gun as if it was a CQB weapon and make 
+2 attacks per Action with it. If your gun runs out of rounds before your turn is 
+done, your Enhanced Gun Kata ends. This ability can only be used once per 
+encounter.
+
+Gun Kata Master:
+
+	You are a master of close-range gun fighting. Instead of 15m, your maximum 
+gun range is reduced to a max of 30m. If you run out of rounds, you may reload 
+mid-kata by passing a DC 75 DEX check. If a target is downed by one of your 
+attacks, gain +1 additional attack this turn.
+
 
 =====   ASSASSIN   =====
 	The galaxy is a dangerous place for those who would believe their power or 
@@ -631,18 +713,22 @@ Passives:
 * Gain Feat: Proficiency: One-handed Melee Weaponry.
 * Gain bonus cloaking time when using other cloaking devices besides the Shadow Cloak.
 
-	Assassins wear a Shadow Cloak, which allows them to become a mere silhouette.
-Shadow Cloaks attempt to cloak* the assassin at all times** with a Detect DC of 
-10 + skill Stealth and a moving Detect DC of 0 + skill Stealth. When in partial 
-darkness or darker, the Detect and Moving Detect DC increases by 10. In the darkness,
-a skilled assassin won't be seen, even when being looked at. However, in daylight,
-even the most skilled assassin can be seen if their silhouette is carelessly shown.
+	Assassins wear a "Shadow Cloak", which allows them to become a mere 
+silhouette. Shadow Cloaks attempt to cloak* the assassin at all times. While
+hidden with the Shadow Cloak, an enemy must pass an Awareness save of DC 10 + 
+Stealth(Dex)  to see the Assassin while the Assassin is still. While the 
+Assassin is moving, the DC drops to 0 + skill Stealth. The Cloak cannot provide
+concealment that keeps up with the swift motions of an Assassin's attacks, and
+thus fails until the the start of the Assassin's next turn after the Assassin
+attacks. When in partial darkness or darker, the Detect and Moving Detect DC 
+both increas by 10. Skilled assassin won't be seen in darkness, even when 
+being looked at. Even the most skilled assassin will be seen in broad daylight 
+with direct line of sight.
+
 *The Shadow Cloak does not follow typical cloaking rules, it doesn't make you as 
-invisible as a more powerful cloaking device, but it does allow you to hide in 
-plain sight. There is no Nanite Activation Cost, Nanite upkeep, or Cloak Turns 
-as the Shadow Cloak is special item. 
-**Except when attacking: you must wait until the start of the following turn 
-before the cloak resumes. 
+invisible like the more powerful advanced armor cloaking devices, but it does 
+allow you to hide in plain sight. There is no Nanite Activation Cost, Nanite 
+upkeep, or Cloak Turns for the Shadow Cloak, as the Shadow Cloak is special item. 
 
 	NOTE: For more information on Cloaking and Cloaking modules, see section, 
 "Cloaking" in the basic rules.
@@ -661,33 +747,44 @@ Skill Proficiencies:
 * Weapons - Melee
 
 Feats:
-	----------------------
-	Shadowy Assassin -
-	Your Cloak DCs increase by 10. Melee attacks made while in cloaking do not break 
-	your cloaking unless you are observed making the attack. Gain +20 base damage while
-	you are in cloaking and undetected by your target.
-	|
-	|
-	V
-	Melee attacks made while in cloaking do not break your cloaking. If you are 
-	observed making the attack, the observer must pass your Moving Cloak DC in order 
-	to observe the attack. +50 maximum damage for stealth attacking. (For more 
-	information, see section "Stealth Attacks" in the Basic Rules document.)
-	----------------------
-	Azure-Assassin -
-	At the cost of 15 Nanites, you can summon Nanite-crystal blades. These blades 
-	are as tough as carbide steel, have properties of a VAE knife, but break after 
-	a single use. They can be thrown* or used manually. Blades appear at the users 
-	hand, as if pulling them from nowhere.
-	*When thrown, use the stats for thrown weapon, 'Carbide Kunai' but still ignore 
-	armor like a VAE weapon.
-	|
-	|
-	V
-	At the cost of 10 Nanites, your Nanite-Crystal Blades can be summoned. Blades have
-	+20 base damage, in addition to the properties of a VAE knife. Blades appear at the 
-	users hand, wrist, etc. Blades can also appear with some momentum for RP purposes.
-======================================
+
+Shadowy Assassin:
+
+	Your Cloak DCs increase by 10. Melee attacks made while in cloaking do not 
+break your cloaking unless you are observed making the attack. Gain +20 base 
+damage while you are in cloaking and undetected by your target.
+
+Grapple Gremlin:
+    
+    While in a grapple that you control, you may use One-Handed melee weapons
+or pistols normally. While in a grapple that you control, you get two Actions
+instead of only one. Using a pistol to attack your grappled target uses hip fire
+rules. When stealthily attacking an enemy in a grapple that you control, you get
+a + 24 to Stealth(dex) rolls to keep the attack quiet.
+
+Grapple Ghost:
+
+    When you succeed on a grapple check against an enemy that wasn't aware of
+you, you may make a Grappling Specific Action such as Shoving, Kicking, Disarm,
+etc with advantage as a reaction. Victims in a grapple that you control must
+pass a DC 80 Shock Save in order to make enough noise for your grapple to be
+detected. So long as you control the grapple, you may make up to Three Actions
+per turn, but at least one of them cannot be attacking the victim that you are
+grappling. 
+
+    Grapple Ghost requires that a Character be level 10 and have taken Grapple
+Gremlin before taking it.
+
+Et Tu Brute:
+    You may make a melee attack with a One-Handed or Throwing weapon as a 
+Reaction at any time as long as the following is true.
+
+* you have the weapon already drawn
+* the target is prone within melee range
+* you have not already taken more than one Reaction this Round
+
+    The attack automatically hits. This Class Feat requires that a character be
+level 10 in order to take it.
 
 =====   MARKSMAN   =====
 	Your expert knowledge of bullet ballistics, feel for physics and keen eyes 
@@ -717,46 +814,62 @@ Skill Profiencies:
 * Weapons - Long Rifle
 
 == Class Feats ==
-	----------------------
-	Pin Target
-	If you fire at a target that is in cover, you can choose to "Pin" the target. Only 1 target may be
-	Pinned by the marksman at a time. If the target attempts to move from cover within a 180 degree field
-	of view infront of you, you may roll a DC 60 Spotting skill check to hit them, as a free action. You have 
-	a +1 to hit the pinned target with a firing action, for the	remainder of the encounter (even if they move
-	to a new location). If the target moves, it is still considered pinned, and if the target dies or escapes 
-	from the battlefield you may pin a new target. Pin can only be activated by a pinned target once per Marksman
-	player's turn. Only usable with long-rifles.
-	|
-	|
-	V
-	Multi-Pin
-	You can now Pin a maximum of PER/2 (round down) targets at  time (you still have to fire at a 
-	target to pin it). +2 to hit a Pinned target (instead of +1). The Multi-Pin ability can be 
-	activated by a pinned target once, per target, per Marksman player's turn. (I.e., 3 Pinned targets can 
-	trigger Multi-Pin once each for a maximum total of 3 triggers before a marksman player's next turn).
-	----------------------
-	Tech Rounds
-	Spend 7 Nanites. Choose from the following list of effects, activated on a successful hit:
-		Gas round: Releases a cloud of gas 3m across centered on the target. Any enemies 
-			inside this cloud take a +1 Miss Chance debuff for their next turn, and 10 Poison damage.
-		Flash round: A blinding light emanates from the target. All players within a 5m radius 
-			of the target are stunned for 1 turn.
-		Shock round: Electrifies the target, dealing an additional 10 electrical damage
-			(paralyzes cybernetics or robotics, DC 60 FORT check to forfeit the first 2 Actions of their turn).
-	|
-	|
-	V
-	Tech Rounds II
-	Spend 7 nanites. Choose from the following list of effects, activated on a successful hit:
-		Thermate round: Target takes 10 burning damage, and 10% off of their Armor Coverage (DC 50 Repair to fix).
-		Node round: Extend the range of a friendly Engineer's drone control to the hit enemy, extends hacking range,
-			or allows remote access by a friendly Priest.
-		Drain round: Half of the damage dealt to health is dealt to the target's Nanite pool.
-		Seeker round: Increase your critical hit range by 1.
-		Denial of Service: Does not deal damage. Half of your standard damage may be used as a bonus% to a friendly Priest's hack 
-======================================
+
+Pin Target:
+
+	If you fire at a target that is in cover, you can choose to "Pin" the target. 
+Only 1 target may be Pinned by the Marksman at a time. If the target attempts to 
+move from cover within a 180 degree field of view infront of you, you may roll a 
+DC 60 Spotting skill check to hit them, as a Free Action. You have a +1 to hit 
+the pinned target with a firing action, for the	remainder of the encounter (even 
+if they move to a new location). If the target moves, it is still considered 
+pinned, and if the target dies or escapes from the battlefield you may pin a new
+target. Pin can only be activated by a pinned target once per Marksman player's 
+turn. Only usable with long-rifles. See the "Pinned" Condition in the 
+"Conditions" document.
+
+Multi-Pin:
+
+	You can now Pin a maximum of half of your Perception (round down) targets at 
+a time (you still have to fire at a target to pin it). +2 to hit a Pinned target 
+(instead of +1). The Multi-Pin ability can be activated by a pinned target only 
+once per target per Round. 
+
+    For example, 3 Pinned targets can trigger Multi-Pin once each for a maximum 
+total of 3 triggers before a marksman player's next turn). Multipin requires 
+that a Character be at least level 10 and have taken the Pin Class Feat before
+taking it.
+
+Shoot to Wound:
+    Instead of hitting the target in their center of mass, you aim for something
+that's likely to squirt their vital fluids all over the place. While this will
+be much less likely to down the target immediately, it increases their chance
+of bleeding out over time.
+
+    At any time before you fire a long rifle, you may declare your intent to
+"Shoot to Wound." If you do, you must pass a DC 35 Weapons - Long Rifle(PER)
+skill check. If you fail, you fire a regular shot. If you succeed, then your 
+attack deals 20 less damage and applies 3 Bleed tokens to the target. See 
+"Bleeding" in the "Conditions" document for more on Bleeding.
+
+Disrupting Shot:
+    Instead of hitting the target in their center of mass, you aim for the 
+equipment that they're using or the stinger of the alien that you're fighting.
+It's not as lethal as hitting them where it hurts, but it'll make it harder for
+them to do their job. 
+
+    At any time before you fire a long rifle, you may declare your intent to
+"Fire to Disrupt." If you do, you must pass a DC 45 Weapons - Long Rifles(PER)
+skill check. If you fail, you fire a regular shot. If you succeed, you hit the
+target where it would disrupt their operations most. The target gains the 
+"Disrupted" condition until they succeed on a Shock Save of DC 80 or for 3 
+Rounds, whichever is first. Then they are able to retrieve or remodulate 
+whatever you blasted. If you critically succeed, there is a chance that you will
+permanently destroy their hardware and they will be disrupted for the remainder
+of the encounter, depending on DM discretion.
 
 =====   BERSERKER   =====
+
 	As an aficionado of the combat arts, you understand how important tactile 
 feedback is. Guns simply don't offer the appropriate amount, which is why you 
 prefer to BEAT YOUR ENEMIES TO DEATH USING YOUR BARE HANDS WHENEVER 
@@ -788,26 +901,28 @@ Skill Proficiencies:
 * Weapons - Melee
 
 == Class Feats ==
-	----------------------
-	Blood Rage -
-	You gain a permanent 30 health. In addition, you deal an extra point of melee 
-	damage for each health point you are missing. If more than a third of your 
-	health is missing, your move speed is 1m per action farther.
-	|
-	|
-	V
-	You gain an additional, permanent, 30 health. If you are missing more than half 
-	of your health, you gain a +2 accuracy bonus with melee weapons (affects rolling
-	over the opponents Guard DC).
-	----------------------
-	Beast Mode
-	Once per engagement, you give a mighty shout and rush to engage your foes. For
-	2 Rounds, your move speed increases by 1m per Action, you gain +30 bonus melee damage
-	and you gain 60 temporary HPs which lasts until the end of this effect. 
-	|
-	|
-	V
-	Enemies within [3 * CHA] meters of you when you shout must pass a DC 70 Charisma
-	check not to target you on their following turn. Instead of 60 HP, you gain a 
-	temporary (40 + 10*FORT) HPs. Beast Mode now last for 3 Rounds.
-======================================
+Blood Rage:
+	You gain a permanent 30 health. In addition, you deal an extra point of 
+melee damage for each health point you are missing. If more than a third of your 
+health is missing, your move speed is 1m per action farther.
+
+Blood Rage II:
+	You gain an additional, permanent, 30 health. If you are missing more than 
+half of your health, you gain a +2 accuracy bonus with melee weapons (affects 
+rolling over the opponents Guard DC). Blood Rage II requires that a Character 
+be level 10 and have taken the "Blood Rage" Class Feat before taking it.
+
+Beast Mode:
+
+	Once per engagement, you give a mighty shout and rush to engage your foes. 
+For 2 Rounds, your move speed increases by 1m per Action, you gain +30 bonus 
+melee damage and you gain 60 temporary HPs which lasts until the end of this 
+effect. Temporary hit points are lost at the end of the encounter.
+
+Beast Unleashed:
+
+	Enemies within [3 * CHA] meters of you when you shout must pass a DC 70 
+Charisma check not to target you on their following turn. Instead of 60 HP, you 
+gain a temporary (40 + 10*FORT) HPs. Beast Mode now last for 3 Rounds. Temporary
+hit points are lost at the end of the encounter. A Character must be level 10 
+and have taken Beast Mode before taking Beast Unleashed.
