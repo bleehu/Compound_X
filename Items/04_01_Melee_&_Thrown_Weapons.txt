@@ -77,6 +77,18 @@ Range: Adjacent (1m)
 Accuracy Modifier: +2
 DEX Requirement: 4
 
+== Whackbush Arms Mark 14 C-Fiber 6ft Hunting Spear $820 ==
+
+Damage: 40 + 3*STR mod + 1*DEX mod Ballistic
+Size: Two-handed
+Range: Adjacent (1m)
+Accuracy Modifier: +2
+DEX Requirement: 2
+
+	If you down an enemy with this weapon without a critical hit, 
+you must spend an Action to remove it from the target before you can 
+attack with it again.
+
 ===== Level 5 Requirement Weapons =====
 
 == Eliazar Plasma Torch $240 ==
