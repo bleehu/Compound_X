@@ -10,7 +10,7 @@ biologic targets, who usually leak blood, and to cybernetic targets, who can
 leak coolant and lubricant.
 
     A Character that is bleeding takes d10/2+1 (drop the remainder) stackable 
-damage once per round at the beggining of their turn. The bleeding can be 
+damage once per round at the beginning of their turn. The bleeding can be 
 staunched with Medicine Skill check. The Medicine (Dex) DC to stop varies; the
 cause of the bleed effect should list it in the effect description.
 
@@ -20,16 +20,16 @@ cause of the bleed effect should list it in the effect description.
 phosphorous) is burning. Burning is different than a Plasma Burn. For Plasma
 Burns, see the "Plasma Burn" Condition further below.
 
-    A Burning character takes 2d10 damage per round at the beggining of their 
+    A Burning character takes 2d10 damage per round at the beginning of their 
 turn. Most burning can be extinguished by dousing a character in a non-flamable
 liquid, or by that character dropping and rolling. One Action to drop, One 
 Action to Roll around and put out the fire. Rolling has a Dex(Athletics) DC 40
 to extinguish flames. 
 
-    Every 2 turns that the burning is not extinguished, the degree of the burn 
-intensifies by one stack. 
+    Every 2 turns that the burning is not extinguished, the burn intensifies by 
+one stack. 
 
-    Some burning chemicals, like white phosphorous or most napalms contain the 
+    Some burning chemicals, like white phosphorous or most napalms, contain the 
 oxygen that they need to burn and aren't extinguished with water or rolling 
 around. These sources of the Burning Condition will explicitly state that they 
 can't be put out with normal means and will need to be neutralized by other 
@@ -43,7 +43,7 @@ below 0. See the "Death and Dying" section in the Combat Rules Document.
 == Disrupted ==
 
     Certain Characters have the ability to disrupt their enemies either with
-signal jamming, malware or sometimes direct electrical interfereance. When this
+signal jamming, malware or sometimes direct electrical interference. When this
 succeeds, it prevents their target from using their more exotic talents.
 
     A Character that is Disrupted cannot use Nanite abilities, Doctor Procedures, 
@@ -58,7 +58,7 @@ their cells solidify into sharp ice in a process known as "Frostbite."
 Cybernetic targets on the other hand tend to have their moving parts contract
 and wear down while their electrolytic fluid hardens. 
 
-    A Character that is Frozen takes d10 damage per round at the beggining of 
+    A Character that is Frozen takes d10 damage per round at the beginning of 
 their turn. The Condition lasts until a source of heat is applied to the wound, 
 or with Medicine (Dex) Skill check, DC 50.
 
@@ -66,7 +66,7 @@ or with Medicine (Dex) Skill check, DC 50.
 
     Both cybernetic and biologic Characters can react to the mental instinct for
 self-preservation. This usually happens when presented with the appearance of
-certain, agonizing death. Though there are certainly other scary things in the
+certain, agonizing death, though there are certainly other scary things in the
 universe.
 
     A Character that has the Fear Condition may take no actions, except moving 
@@ -81,7 +81,7 @@ flood of neurochemicals in the brain. Cybernetic Characters experience an
 exception caused by the overinflation of their fear fuzzy logic field. 
 
     A Character experienceing Greater Fear can take no actions, except rolling 
-to defeat fear. DC 75, Will save.
+to defeat fear. DC 75, Will save or 5 turns, whichever happens first.
 
 == Lonely ==
 
@@ -118,11 +118,11 @@ until they pass a DC 70 Will Save, whichever is quicker.
 == Plasma Burn ==
 
     Many weapons in the Compound X Universe fire bolts of burning plasma, which
-have the tendancy to stick to a target and their armor, continuing to do damage
+have the tendency to stick to a target and their armor, continuing to do damage
 even after the initial impact of the projectile.
 
     A Character that has a Plasma Burn takes 1d10 + 1 Plasma Damage per Plasma
-Burn Token per round at the beggining of their turn. Each "token" lasts for 2 
+Burn Token per round at the beginning of their turn. Each "token" lasts for 2 
 turns if the target's armor was pierced or missed. 
 
     If the targets armor is hit/pierced, the armor's Armor Piercing Level is
@@ -138,8 +138,8 @@ over a period of time. Poisons with additional or different effects will list
 them explicitly. Poisons that affect cybernetic Characters will list so 
 explicitly as well.
 
-    A Character that is afflicted with poison takes a d10 internal damage per
-Round at the beggining of their turn. 
+    A Character that is afflicted with poison takes 1d10 internal damage per
+Round at the beginning of their turn. 
 
 == Buzzed (drunk) ==
 
