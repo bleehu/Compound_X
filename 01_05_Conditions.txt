@@ -20,7 +20,7 @@ cause of the bleed effect should list it in the effect description.
 phosphorous) is burning. Burning is different than a Plasma Burn. For Plasma
 Burns, see the "Plasma Burn" Condition further below.
 
-    A Burning character takes 2d10 damage per stack of burn round at the 
+    A Burning character takes 2d10 damage per stack of burn per round at the 
 beginning of their turn. Most burning can be extinguished by dousing a character 
 in a non-flamable liquid, or by that character dropping and rolling. One Action 
 to drop, One Action to Roll around and put out the fire. Rolling has a 
