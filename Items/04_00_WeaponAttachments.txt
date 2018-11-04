@@ -350,6 +350,14 @@ more effeciently. This attachment can only be put on laser weapons.
 
     Weapon Damage:  +10% (Drop the remainder) or +5, whichever is higher.
 
+== Capacitor Rgulator $1500 ==
+
+   An addition to a laser gun that helps conserve power usage of the guns battery
+charge, through manipulation of the energy discharge of internal capacitors. By 
+spreading out the discgarge of energy in a single blast to higher accurate levels, 
+it enables the gun to get more shots out of a single battery charge. 
+This attachment can only be put on laser weapons.
+    (Mag) Charge: +15% charge capacity.
 ==============================
 Lower Rail attachments
 ==============================
