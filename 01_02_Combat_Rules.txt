@@ -151,7 +151,7 @@ though no Skill check applies to these attacks and blocks.
 +-----------------+-----------------------------------------+
 | CQB Guns        | +1                                      |
 +-----------------+-----------------------------------------+
-| Non-CQB Guns    | -1                                      |
+| Non-CQB Guns    | As Improvised Melee Weapons             |
 +-----------------+-----------------------------------------+
 | Delicate Tools* | -2                                      |
 +-----------------+-----------------------------------------+
@@ -185,6 +185,53 @@ and becomes Unconscious (and does not gain the Bleeding Out condition).
 
 	A target reduced to exactly 1 health by a nonlethal attack does not 
 fall Unconscious. 1 is not 0.
+
+Melee Accuracy and Guard Critical Hits:
+	See "Critical Hits" below for general Critical information. Melee Critical 
+hits deal extra damage as normal. Critical Guard rolls block all damage from any 
+non-Extra-critical melee attack. Extra-critical Guard rolls block all damage from 
+the incoming attack. 
+
+	Melee Accuracy rolls may Critically fail in the same way as firearms. 
+Unless otherwise specified, melee weapons have a Jam range of 2. Should your 
+melee weapon "jam", it catches on something in the environment at the DM's 
+discretion, if applicable, and is stuck. Unsticking the weapon requires a 
+Weapons - Melee check, as a firearm would require the appropriate 
+Weapons - [X] check. If you pass the DC by at least 30 you do not provoke an 
+Opportunity Attack. If nothing is available for the weapon to get stuck in, 
+it is instead dropped. You will always succeed in picking up a dropped weapon 
+if it is within reach, may still use the skill check to attempt to avoid an 
+Opportunity Attack while doing so.
+
+	Guard rolls can never Critically fail. Rolling a 1 on a Guard check 
+has no special meaning.
+
+== Improvised Melee Weapons ==
+
+	Sometimes you just need to smack somebody with whatever is 
+available. When using an object not intended as a melee weapon to make a 
+melee attack, use the stats from the improvised melee weapon of the most 
+appropriate size: light, one-handed, or two-handed.
+
+	Generally speaking, objects that fit in one hand, like pistols, beer 
+mugs, improvised knuckles, and objects of similar size, are considered Light. 
+SMGs, table legs, lengths of cable, most kitchenware, and the like would be 
+One-handed. Heavier objects like every other class of firearm, chairs, or 2x4s 
+are Two-handed.
+
+	Improvised Light or One-handed weapons may be thrown up to 5 meters, and 
+Two-handed ones may be thrown up to 3, though both suffer an additional -2 
+Accuracy. Their damage when thrown is the same as when used for melee strikes.
+
+	When using a firearm as an improvised weapon, if you Critically fail an 
+accuracy check and the weapon is loaded (and cocked, if a single-shot pistol or 
+bolt-action rifle), then instead of becoming stuck or dropped the weapon 
+accidentally discharges. Roll 1d10. On a 3-10, the shot travels in a random 
+direction, striking the first valid target in its path within its range. The 
+target may avoid taking damage by succeeding on a DC 110 Reflex Save. On a 1-2, 
+the bullet strikes you, hitting armor if applicable. In either case, you must 
+pass a DC 40 Reflex save to avoid dropping the firearm. This DC increases to 80 
+if you took damage from the accidental discharge.
 
 == Combat Maneuvers ==
 
@@ -444,25 +491,35 @@ You can jump vertically Str/3 meters.
 ===== Other Combat Details =====
 
 Critical Hits:
-	Critical Hits are accuracy rolls that land inside your Critical Hit range 
-(aka. critical chance). The base critical hit range is 1, meaning an Accuracy roll of 
-10 is a critical hit. Luck modifies your critical hit range: (Luck Modifier/10), round 
-down, is added to your critical hit range. Therefore if you have a Luck stat 
-of 8, corresponding to a Luck Modifier of 12, then you would have +1 to your 
-critical hit range and would critically hit on rolls of 9-10. Negative Luck modifiers 
-do not reduce Critical Hit range.
 
-	When your Accuracy roll lands in the upper half of your Critical Hit range,
-it is referred to as an Extra-Critical Hit. When the range is odd, it may be necessary 
-to roll a confirmation D10 to determine which kind of crit you score. Example: If you 
-have a Critical range of 1 and roll a 10, you would roll another D10 and score a 
-Critical hit on 1-5 or an Extra-Critical on 6-10.
+	When you perform an Accuracy Roll (while not firing a gun in burst or 
+automatic mode), you may roll high enough to use your Critical Hit Chance. 
+Critical Hit Chance is based on your Luck Stat, but can also be modified by 
+abilities, weapons, attachments, etc. 
+	If your Accuracy Roll is high enough, you activate your Critical Hit Chance.
+When this happens, you roll a second d10 to determine if you have landed a Critical 
+Hit, an Extra-Critical Hit, or, if you have less than average Luck, merely hit your enemy. 
 
-	Regular Critical Hits deal +20 damage, while Extra-Criticals deal +30 damage. 
-Some abilities or feats have additional effects that trigger when you score Criticals 
-or Extra-Criticals.
+	A Critical Hit deals +20 damage and an Extra-Critical Hit deals +30 damage. 
 
-	You cannot score Critical Hits while firing a gun in burst or automatic mode.
+	Some abilities or feats have additional effects that trigger when you land
+Critical or Extra-Critical Hits. 
+
+
++------------+------------------------+--------------------+-------------------------+
+| Luck Stat  | Accuracy Roll Required | Critical Hit Roll  | Extra Critical Hit Roll |
++------------+------------------------+--------------------+-------------------------+
+| 1 - 3      | 10                     | 6 - 10             | n/a                     |
++------------+------------------------+--------------------+-------------------------+
+| 4 - 6      | 10                     | 1 - 5              | 6 - 10                  |
++------------+------------------------+--------------------+-------------------------+
+| 7 - 10     | 9-10                   | 1 - 5              | 6 - 10                  |
++------------+------------------------+--------------------+-------------------------+
+| 11+        | 8-10                   | 1 - 5              | 6 - 10                  |
++------------+------------------------+--------------------+-------------------------+
+
+
+
 
 Armor and Getting Hit:
 	When a player is defending against a successful enemy hit, they roll 
@@ -528,11 +585,11 @@ other thrown weapons) have -1 miss chance to hit if 'adequate' aiming time is
 given (DM's discretion: how rushed you are, or how skilled you are at stealth, 
 etc). Ranged weapon stealth-attacks gain +20 bonus damage.
 
-	If you stealth-attack a target in melee, your target has a guard DC of 0. As
-normal (see section, "melee combat"), if you roll 3+ above your miss chance (3+ above
-the opponent's guard DC), you ignore the opponent's armor and deal full damage.
-This signifies that the target gets hit in whatever you deem to be the most vulnerable;
-i.e., the head, neck, or the chest (over the heart, etc). 
+	If you stealth-attack a target in melee, your target has a Guard of 0. As
+normal (see section, "Melee Combat"), if you roll 3+ above the opponent's Guard, 
+you ignore the opponent's armor and deal full damage. This signifies that the 
+target gets hit in whatever you deem to be the most vulnerable; i.e., the head, 
+neck, or the chest (over the heart, etc). 
 
 *Base Damage is typically the damage of the weapon without any other character 
 bonuses, but Base Damage can be increased by certain classes and abilities.
@@ -540,9 +597,8 @@ bonuses, but Base Damage can be increased by certain classes and abilities.
 **Increases to 200 max damage at level 10.
 
 Flanking:
-	If you are behind a target, aka flanking, your melee attacks gain +2 bonus 
-accuracy against their Guard DC. (Ranged attacks don't gain a specific bonus 
-from flanking.)
+	If you are behind a target, aka flanking, your melee Accuracy rolls gain a +2 
+bonus. Ranged attacks don't gain a specific bonus from flanking.
 
 ===== Ranged Combat =====
 
@@ -619,9 +675,10 @@ roll the second d10 for it before rolling the next automatic-fire d10. If the ro
 causes a jam, the rest of the automatic-fire d10s are not used. 
 
 == Gun Jams ==
-	If at any time that you are firing a gun and you roll a weapon accuracy of 1,
-roll a second d10. If that second d10 roll is a 1 or 2, the weapon Jams, 
-necessitating a Weapon - [X] Skill check, DC 60.
+	If at any time that you are firing a gun and you roll 1 on an accuracy roll,
+roll a second d10. If that second d10 roll is equal to or less than the weapon's Jam 
+Range, the weapon jams, necessitating a Weapon - [X] Skill check, DC 60 that takes 
+one Action before the weapon can be fired again.
 
 == Hip Firing ==
 
@@ -681,9 +738,9 @@ sprint or use other movement abilities.
 
 	Going prone costs 1 Action, and standing up costs 1 Action. Lying flat down on
 your chest makes you a smaller target and helps you aim better, but also makes you
-easier to hit in melee. -1 gun miss chance while prone and -2 melee Guard DC. Being
-prone severely limits your movement: 1/2 movement speed while prone, round-up; maximum
-2 movement per action.
+easier to hit in melee. You gain +1 Accuracy with firearms while prone but suffer -2 to 
+Guard checks. Being prone severely limits your movement: 1/2 movement speed while prone, 
+round-up; maximum 2 movement per action.
 
 	Hunkering costs 1 action, and you cannot fire your weapons except by blind-fire 
 (see Blind Firing, above). Imagine curling up in a ball, to pose the absolute smallest

@@ -694,6 +694,17 @@ using Vorpal rounds, your gun deals 80 + 20 (for Critical) + 8 (Vorpal damage) =
 If your roll an Extra Critical Hit, you would deal 80 +  30(for Extra Critical) 
 + 24 (Vorpal Damage) = 134 damage.
 
+== Naphoxic Gel ($1.5 x mag cost) == 
+    
+    Naphitic gel with small oxygen capsules dispersed inside. Standard flame thrower 
+gel requires atmospheric oxygen to burn, and as such cannot be used in a vacuum. 
+Naphoxic gel can be burnt in any environment, including space and underwater. 
+While in atmospheres with oxygen, it burns hotter than normal gel. The added oxygen
+in the tank reduces its overall fuel capacity.
+    
+    Ammo Capacity: -20% (rounded down)
+    Base Damage: +10% (in atmosphere)
+
 ==============================
 Total Conversions
 ==============================
