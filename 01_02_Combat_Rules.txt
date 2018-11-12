@@ -200,8 +200,18 @@ Weapons - Melee check, as a firearm would require the appropriate
 Weapons - [X] check. If you pass the DC by at least 30 you do not provoke an 
 Opportunity Attack. If nothing is available for the weapon to get stuck in, 
 it is instead dropped. You will always succeed in picking up a dropped weapon 
-if it is within reach, may still use the skill check to attempt to avoid an 
-Opportunity Attack while doing so.
+if it is within reach, and may still use the skill check to attempt to avoid 
+an Opportunity Attack while doing so.
+
+	When using a firearm as an improvised weapon, if you Critically fail an 
+accuracy check and the weapon is loaded (and cocked, if a single-shot pistol or 
+bolt-action rifle), then instead of becoming stuck or dropped the weapon 
+accidentally discharges. Roll 1d10. On a 3-10, the shot travels in a random 
+direction, striking the first valid target in its path within its range. The 
+target may avoid taking damage by succeeding on a DC 110 Reflex Save. On a 1-2, 
+the bullet strikes you, hitting armor if applicable. In either case, you must 
+pass a DC 40 Reflex save to avoid dropping the firearm. This DC increases to 80 
+if you took damage from the accidental discharge.
 
 	Guard rolls can never Critically fail. Rolling a 1 on a Guard check 
 has no special meaning.
@@ -223,16 +233,6 @@ are Two-handed.
 Two-handed ones may be thrown up to 3, though both suffer an additional -2 
 Accuracy. Their damage when thrown is the same as when used for melee strikes.
 
-	When using a firearm as an improvised weapon, if you Critically fail an 
-accuracy check and the weapon is loaded (and cocked, if a single-shot pistol or 
-bolt-action rifle), then instead of becoming stuck or dropped the weapon 
-accidentally discharges. Roll 1d10. On a 3-10, the shot travels in a random 
-direction, striking the first valid target in its path within its range. The 
-target may avoid taking damage by succeeding on a DC 110 Reflex Save. On a 1-2, 
-the bullet strikes you, hitting armor if applicable. In either case, you must 
-pass a DC 40 Reflex save to avoid dropping the firearm. This DC increases to 80 
-if you took damage from the accidental discharge.
-
 == Combat Maneuvers ==
 
 	In addition to smashing an opponent directly, there are other offensive 
@@ -252,6 +252,11 @@ rolls STR-Athletics, and the defender rolls his or her choice of STR-Athletics
 or DEX-Acrobatics. Initiating a grapple, shove, trip, etc. is mostly a matter 
 of brute strength, but such attempts may be opposed strength for strength or 
 dodged by superior agility.
+
+	Similarly to Guard rolls, critical successes always defeat rolls of 
+a lesser critical status and resolve normally against rolls of the same 
+critical status. At the DM's discretion, where applicable, melee accuracy 
+critical failure rules may apply to maneuver checks.
 
 Grappling:
 	Grappling is a maneuver where a character physically grabs another, 
@@ -335,7 +340,7 @@ Disadvantage on the check if they do not have proficiency with the targeted item
 of the appropriate size). If the attacker wins, the defender is forced to drop the 
 targeted object.
 
-===== MELEE WEAPONS & UNARMED FIGHTING =====
+===== Melee Weapons & Unarmed Fighting =====
 
 	These weapons/attacks use an 'Accuracy Modifier' instead of
 a 'Miss Chance', which is added to your combat dex modifier and
