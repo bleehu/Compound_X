@@ -213,6 +213,10 @@ the bullet strikes you, hitting armor if applicable. In either case, you must
 pass a DC 40 Reflex save to avoid dropping the firearm. This DC increases to 80 
 if you took damage from the accidental discharge.
 
+	Shooting yourself as a result of critical failure does not make use of 
+the Shooting into a Melee rule, unless you are sharing the same square as 
+another character, such as during a grapple.
+
 	Guard rolls can never Critically fail. Rolling a 1 on a Guard check 
 has no special meaning.
 
