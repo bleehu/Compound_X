@@ -706,7 +706,7 @@ Class Primary Attribute: Dexterity
 Starting Wealth: $1975 + 100*Luck
 
 Passives:
-* No penalty for engaging in Grappling maneuvers.
+* The Assassin may make one additional Action when in a Grapple.
 * Gain Skill Weapons - Melee at 10
 * Gain Skill Stealth at 10
 * Gain Feat: Proficiency: Light Melee Weaponry.
@@ -757,8 +757,7 @@ damage while you are in cloaking and undetected by your target.
 Grapple Gremlin:
     
     While in a grapple that you control, you may use One-Handed melee weapons
-or pistols normally. While in a grapple that you control, you get two Actions
-instead of only one. Using a pistol to attack your grappled target uses hip fire
+or pistols normally. Using a pistol to attack your grappled target uses hip fire
 rules. When stealthily attacking an enemy in a grapple that you control, you get
 a + 24 to Stealth(dex) rolls to keep the attack quiet.
 
@@ -768,9 +767,7 @@ Grapple Ghost:
 you, you may make a Grappling Specific Action such as Shoving, Kicking, Disarm,
 etc with advantage as a reaction. Victims in a grapple that you control must
 pass a DC 80 Shock Save in order to make enough noise for your grapple to be
-detected. So long as you control the grapple, you may make up to Three Actions
-per turn, but at least one of them cannot be attacking the victim that you are
-grappling. 
+detected. 
 
     Grapple Ghost requires that a Character be level 10 and have taken Grapple
 Gremlin before taking it.
