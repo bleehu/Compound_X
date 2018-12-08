@@ -914,14 +914,6 @@ Automatically critical hit on your next shot, if you hit. This is akin to seeing
 a chink in armor and aiming for it, or shooting a target's arm so they cannot use their
 weapon, etc.
 
-== Bunker [25 Nanites] ==
-Prerequisites:
-
-*  Hacker or
-*  Knowledge - Nanites at 40
-
-	Add -3 accuracy to a piece of cover for 4 turns.
-
 == Combat Roll [30 Nanites] ==
 Prerequisites:
 
