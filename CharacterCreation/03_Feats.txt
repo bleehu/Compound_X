@@ -1033,24 +1033,31 @@ Miss Chance can go below the -2 minimum range (See section "Combat:" in the basi
 rules document). You must be aiming at the target before you can use this feat. 
 Maximum 4 levels.
 
-== Twitch	[7 Nanites] ==
+== Twitch ==
+
 Prerequisites:
 
 *  Level 3
 *  Proficient in SMGs or Pistols
 *  DEX 7
 
-	You may aim at an enemy as a free action instead of one action. Only works 
-with CQB weapons. -2 accuracy with the aimed weapon(s).
+Cooldown: None
+Duration: Free Action
 
-== Blur	[11 Nanites] ==
+	While wielding a CQB firearm, you may aim as a free action instead of an 
+action. If you do, your next two attacks with that weapon have -2 accuracy.
+
+== Blur ==
+
 Prerequisites:
 
 *  Level 10
 *  Twitch
 
-	You may aim at an enemy as a free action instead of one action. Only 
-works with CQB weapons. No Miss Chance penalty.
+Cooldown: 1 Round
+Duration: Free Action
+
+	While wielding a CQB firearm, you may aim as a free action instead of an action.
 
 ==============================
 Primary Stat Bonus Feats
