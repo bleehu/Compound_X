@@ -943,16 +943,21 @@ Prerequisites:
 cover. You hunker or go prone behind that cover as a free action. Cannot 
 be used in concert with Run 'N' Gun.
 
-== Flash Dance [10*X Nanites] ==
+== Flash Dance ==
+
 Prerequisites:
 
 *  Level 3
 
-	For 2 Actions, the user can make Lvl/2 (round up) number of attacks, up to a 
-max of 6, with their melee weapon(s). The attacks must take place within a 5m 
-space, rolling for each strike, where X is the number of attacks. All bonuses 
-that would normally apply to a standard attack still apply. (Note: Flash Dance 
-can trigger Bulltrue and Preemptive Strike)
+Cooldown: 2 * X + 1 Rounds
+Duration: 2 * X Actions, up to X = 3
+
+	For the duration of Flash Dance, every 2 Actions you may instead make a 
+number of Melee Attacks, Trip, Disarm, or Kick attempts equal to your level divided 
+by 2 (rounding up), to a maximum of 6. These actions have a range of 2m. Roll 
+separately for each act. All bonuses that would normally apply to a standard attack 
+still apply. (Note: Flash Dance can trigger Bulltrue and Preemptive Strike). If you 
+are stunned or rendered unconscious, Flash Dance ends immediately.
 
 == Gun Kata [30 Nanites] ==
 Prerequisites:
