@@ -895,15 +895,6 @@ you are wielding an appropriate weapon.
 Active Feats
 ==============================
 
-== Adrenaline Rush [4*X Nanites] ==
-Prerequisites:
-
-*  None
-
-	During a move action, +1 movement speed per X (up to a max of +10 movement),
-for that action only. This feat can only be used once per turn.
-Adrenaline Rush can be taken again to reduce the Nanite cost to 2*X.
-
 == Adrenaline Rush ==
 
 Prerequisites:
