@@ -965,16 +965,6 @@ After a successful hit, you may roll for an additional hit on any target within
 the 15m range, for up to 3 rounds fired. If you miss a shot or your gun runs out 
 of rounds, your Gun Kata ends.
 
-== Kata [Minimum 5 Nanites] ==
-Prerequisites:
-
-*  Level 10
-
-	Whenever you land a successful melee hit against someone, you may roll for X 
-additional attacks, where X is your Nanites spent/5. Each additional attack has a 
-compounding -2 accuracy. (A 10th level character making their 3rd strike in a 
-row would be rolling at -4 accuracy).
-
 == Kata ==
 
 Prerequisites:
