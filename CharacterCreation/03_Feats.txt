@@ -904,6 +904,17 @@ Prerequisites:
 for that action only. This feat can only be used once per turn.
 Adrenaline Rush can be taken again to reduce the Nanite cost to 2*X.
 
+== Adrenaline Rush ==
+
+Prerequisites:
+
+*  None
+
+Cooldown: X Rounds, max 2
+Duration: Free Action
+
+	During your next move action this turn, you may an additional 4 * X meters.
+
 == Aimed Shot [8 Nanites] ==
 Prerequisites:
 
