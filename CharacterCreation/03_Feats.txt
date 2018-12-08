@@ -934,14 +934,19 @@ the action after this feat ends. If this malus would not run out until after
 this turn, its effect wraps, around to the beginning of your next turn. Cannot 
 be used in concert with Run 'N' Gun.
 
-== Cover Slide [15 Nanites] ==
+== Cover Slide ==
+
 Prerequisites:
 
 *  DEX 4
 
-	Move up to your speed and end next to a barrier behind which you can take
-cover. You hunker or go prone behind that cover as a free action. Cannot 
-be used in concert with Run 'N' Gun.
+Cooldown: None
+Duration: 2 Actions
+
+	You move up to your speed in meters and become prone. If you have a cover 
+bonus in your new location, you may hunker instead of going prone. Attacks made 
+against you during the use of Cover Slide have -1 Accuracy. Cover Slide cannot be 
+used at the same time as Run 'N' Gun.
 
 == Flash Dance [10*X Nanites] ==
 Prerequisites:
