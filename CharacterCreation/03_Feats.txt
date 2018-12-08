@@ -904,16 +904,6 @@ Prerequisites:
 for that action only. This feat can only be used once per turn.
 Adrenaline Rush can be taken again to reduce the Nanite cost to 2*X.
 
-== Aimed Shot [8 Nanites] ==
-Prerequisites:
-
-*  PER 6
-
-	Use your Nanites during an Aim action to help you more carefully aim at the target. 
-Automatically critical hit on your next shot, if you hit. This is akin to seeing 
-a chink in armor and aiming for it, or shooting a target's arm so they cannot use their
-weapon, etc.
-
 == Aimed Shot ==
 
 Prerequisites:
