@@ -924,17 +924,20 @@ Prerequisites:
 
 	Add -3 accuracy to a piece of cover for 4 turns.
 
-== Combat Roll [30 Nanites] ==
+== Combat Roll ==
+
 Prerequisites:
 
 *  DEX 5
 
+Cooldown: 3 Rounds
+Duration: 1 Action
+
 	Move 6m in one action, no more, no less. Enemies attacking you have a -2 
-accuracy and a -20% penalty to reflex rolls when attacking you during the 
-roll and for the turn after you use this feat, and you have a -2 accuracy for 
-the action after this feat ends. If this malus would not run out until after 
-this turn, its effect wraps, around to the beginning of your next turn. Cannot 
-be used in concert with Run 'N' Gun.
+accuracy and a -20% penalty to reflex rolls when attacking you during the roll and 
+until your next turn, and you have a -2 accuracy for the action after this feat 
+ends (which can be the first action of your next turn). Combat Roll cannot be used 
+in concert with Run 'N' Gun.
 
 == Cover Slide [15 Nanites] ==
 Prerequisites:
