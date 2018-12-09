@@ -965,15 +965,21 @@ After a successful hit, you may roll for an additional hit on any target within
 the 15m range, for up to 3 rounds fired. If you miss a shot or your gun runs out 
 of rounds, your Gun Kata ends.
 
-== Kata [Minimum 5 Nanites] ==
+== Kata ==
+
 Prerequisites:
 
 *  Level 10
 
-	Whenever you land a successful melee hit against someone, you may roll for X 
-additional attacks, where X is your Nanites spent/5. Each additional attack has a 
-compounding -2 accuracy. (A 10th level character making their 3rd strike in a 
-row would be rolling at -4 accuracy).
+Cooldown: X + 1 Rounds
+Duration: X Reactions
+
+	Whenever you hit an enemy with a melee attack, Kick, Disarm, or Trip, 
+you may make X additional melee attacks, Kicks, Disarms, and/or Trips against 
+that enemy as Reactions. Each attack has a compounding -2 accuracy or -20 to its 
+Maneuver check (A character making their 3rd strike in a row would be rolling at 
+-4 accuracy or with a -40 to their Maneuver check). A character cannot use more 
+Reactions in a round than they have. If you are stunned or unconscious, Kata ends.
 
 == Kip-up [15 Nanites] ==
 Prerequisites:
