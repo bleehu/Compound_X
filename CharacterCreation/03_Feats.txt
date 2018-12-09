@@ -906,15 +906,19 @@ Duration: Free Action
 
 	During your next move action this turn, you may an additional 4 * X meters.
 
-== Aimed Shot [8 Nanites] ==
+== Aimed Shot ==
+
 Prerequisites:
 
 *  PER 6
 
-	Use your Nanites during an Aim action to help you more carefully aim at the target. 
-Automatically critical hit on your next shot, if you hit. This is akin to seeing 
-a chink in armor and aiming for it, or shooting a target's arm so they cannot use their
-weapon, etc.
+Cooldown: 1 Round
+Duration: Free Action
+
+	On your next ranged attack against a target that you have aimed at, if it hits, 
+deal an extra 10 damage. That attack is considered a critical hit if it would not otherwise 
+be. This is akin to seeing a chink in armor and aiming for it.
+
 
 == Bunker [25 Nanites] ==
 Prerequisites:
