@@ -1015,7 +1015,8 @@ attempted with Heavy or Full Armor on. The kip-up can only be done once every
 three rounds, but doesn't cost any nanites to do. The Three-round cooldown can
 be ignored once per round by paying the nanite cost.
 
-== Run 'N' Gun [10 Nanites] ==
+== Run 'N' Gun ==
+
 Prerequisites:
 
 *  PER 7
@@ -1023,11 +1024,14 @@ Prerequisites:
 *  or Soldier Class
 *  or Specialist Class
 
-	For 1 Action, you may move at half speed while firing. -1 to accuracy. If 
-you don't Aim before using this feat, you must Hip Fire. If this feat is 
-performed while sprinting, half your movement speed before you add the +1m 
-per-action from sprinting. The Miss Chance penalties stack for consecutive uses 
-of Run 'N' Gun. 
+Cooldown: X / 2 Rounds, min 1
+Duration: X Actions, maximum 4
+
+	You move at half speed while firing your firearm. Each attack has a cumulative 
+-1 Accuracy penalty but can benefit from a previous Aim action (otherwise Hip Fire 
+rules apply as normal). You may use this feat in combination with sprinting; if you 
+do, halve your movement speed before you add sprinting modifiers. 
+
 
 == Steady Shot [5 Nanites] ==
 Prerequisites:
