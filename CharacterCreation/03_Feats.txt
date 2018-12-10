@@ -1,6 +1,7 @@
 ==============================
 Notes
 ==============================
+
     This document lists the feats available to characters in Compound X.
 Feats may be taken on every even level as described in the Basic
 Rules document. Passive feats are used freely with no limit
@@ -1028,16 +1029,21 @@ Duration: X Actions, maximum 4
 rules apply as normal). You may use this feat in combination with sprinting; if you 
 do, halve your movement speed before you add sprinting modifiers. 
 
-== Steady Shot [5 Nanites] ==
+== Steady Shot ==
+
 Prerequisites:
 
 *  PER 7
 
-	Take 1 Action to breath slowly and line up your shot. +1 Ranged accuracy 
-and +10m to the weapon's largest range bracket for each level of Steady Shot taken.
-Miss Chance can go below the -2 minimum range (See section "Combat:" in the basic
-rules document). You must be aiming at the target before you can use this feat. 
-Maximum 4 levels.
+Cooldown: None
+Duration: 1 Action
+
+	Take a second to breathe slowly and line up your shot. On your next ranged 
+attack this turn against a target you are aimed at, you gain +1 Accuracy and +10m 
+to the weapon's largest range bracket. Miss Chance can go below the -2 minimum
+(see section "Combat:" in the basic rules document). 
+
+	Steady Shot may be taken multiple times, up to a maximum of 4; the bonuses stack.
 
 == Twitch ==
 
