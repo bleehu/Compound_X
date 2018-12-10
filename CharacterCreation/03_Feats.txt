@@ -995,11 +995,15 @@ Maneuver check (A character making their 3rd strike in a row would be rolling at
 -4 accuracy or with a -40 to their Maneuver check). A character cannot use more 
 Reactions in a round than they have. If you are stunned or unconscious, Kata ends.
 
-== Kip-up [15 Nanites] ==
+== Kip-up ==
+
 Prerequisites:
 
 * DEX 6
 * STR 5
+
+Cooldown: See Below
+Duration: Free Action
 
 	A Kip-up is a gymnastic maneuver in which a character lying on the ground
 curls up and then kicks up and out into the air, using the resulting momentum to 
@@ -1007,13 +1011,14 @@ jump from their back straight to their feet. This kick does not work well as a
 melee attack; the momentum is used to move the kicker rather than to impart 
 impact unto a target.
 
-	You may jump up from the prone to the standing position as a Free Action. 
-This action cannot be taken to go straight from prone to crouched. Further, if 
-the transition from prone to standing to crouched is taken, the normally Free
-Action of going from standing to crouched costs an Action. The kip-up cannot be
-attempted with Heavy or Full Armor on. The kip-up can only be done once every
-three rounds, but doesn't cost any nanites to do. The Three-round cooldown can
-be ignored once per round by paying the nanite cost.
+	You jump up from the prone to the standing position. This action cannot 
+be taken to go straight from prone to crouched. Further, if you would crouch 
+this turn, the normally Free Action of going from standing to crouched costs 
+an Action. You cannot kip-up while wearing Heavy, Full, or Power Armor, or in 
+a microgravitic environment.
+
+	Kip-up may be used without a cooldown once every 3 rounds. Kipping Up 
+less than 3 Rounds after your last one incurs a 3 Round cooldown.
 
 == Run 'N' Gun ==
 
