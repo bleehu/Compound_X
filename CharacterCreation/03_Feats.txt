@@ -895,44 +895,44 @@ you are wielding an appropriate weapon.
 Active Feats
 ==============================
 
-== Adrenaline Rush [4*X Nanites] ==
+== Adrenaline Rush ==
+
 Prerequisites:
 
 *  None
 
-	During a move action, +1 movement speed per X (up to a max of +10 movement),
-for that action only. This feat can only be used once per turn.
-Adrenaline Rush can be taken again to reduce the Nanite cost to 2*X.
+Cooldown: X Rounds, max 2
+Duration: Free Action
 
-== Aimed Shot [8 Nanites] ==
+	During your next move action this turn, you may an additional 4 * X meters.
+
+== Aimed Shot ==
+
 Prerequisites:
 
 *  PER 6
 
-	Use your Nanites during an Aim action to help you more carefully aim at the target. 
-Automatically critical hit on your next shot, if you hit. This is akin to seeing 
-a chink in armor and aiming for it, or shooting a target's arm so they cannot use their
-weapon, etc.
+Cooldown: 1 Round
+Duration: Free Action
 
-== Bunker [25 Nanites] ==
-Prerequisites:
+	On your next ranged attack against a target that you have aimed at, if it hits, 
+deal an extra 10 damage. That attack is considered a critical hit if it would not otherwise 
+be. This is akin to seeing a chink in armor and aiming for it.
 
-*  Hacker or
-*  Knowledge - Nanites at 40
+== Combat Roll ==
 
-	Add -3 accuracy to a piece of cover for 4 turns.
-
-== Combat Roll [30 Nanites] ==
 Prerequisites:
 
 *  DEX 5
 
+Cooldown: 3 Rounds
+Duration: 1 Action
+
 	Move 6m in one action, no more, no less. Enemies attacking you have a -2 
-accuracy and a -20% penalty to reflex rolls when attacking you during the 
-roll and for the turn after you use this feat, and you have a -2 accuracy for 
-the action after this feat ends. If this malus would not run out until after 
-this turn, its effect wraps, around to the beginning of your next turn. Cannot 
-be used in concert with Run 'N' Gun.
+accuracy and a -20% penalty to reflex rolls when attacking you during the roll and 
+until your next turn, and you have a -2 accuracy for the action after this feat 
+ends (which can be the first action of your next turn). Combat Roll cannot be used 
+in concert with Run 'N' Gun.
 
 == Cover Slide ==
 
@@ -948,16 +948,21 @@ have a cover bonus in your new location, you may hunker instead of going prone.
 Attacks made against you during the use of Cover Slide have -1 Accuracy. Cover 
 Slide cannot be used at the same time as Run 'N' Gun.
 
-== Flash Dance [10*X Nanites] ==
+== Flash Dance ==
+
 Prerequisites:
 
 *  Level 3
 
-	For 2 Actions, the user can make Lvl/2 (round up) number of attacks, up to a 
-max of 6, with their melee weapon(s). The attacks must take place within a 5m 
-space, rolling for each strike, where X is the number of attacks. All bonuses 
-that would normally apply to a standard attack still apply. (Note: Flash Dance 
-can trigger Bulltrue and Preemptive Strike)
+Cooldown: 2 * X + 1 Rounds
+Duration: 2 * X Actions, up to X = 3
+
+	For the duration of Flash Dance, every 2 Actions you may instead make a 
+number of Melee Attacks, Trip, Disarm, or Kick attempts equal to your level divided 
+by 2 (rounding up), to a maximum of 6. These actions have a range of 2m. Roll 
+separately for each act. All bonuses that would normally apply to a standard attack 
+still apply. (Note: Flash Dance can trigger Bulltrue and Preemptive Strike). If you 
+are stunned or rendered unconscious, Flash Dance ends immediately.
 
 == Gun Kata [30 Nanites] ==
 Prerequisites:
@@ -970,21 +975,31 @@ After a successful hit, you may roll for an additional hit on any target within
 the 15m range, for up to 3 rounds fired. If you miss a shot or your gun runs out 
 of rounds, your Gun Kata ends.
 
-== Kata [Minimum 5 Nanites] ==
+== Kata ==
+
 Prerequisites:
 
 *  Level 10
 
-	Whenever you land a successful melee hit against someone, you may roll for X 
-additional attacks, where X is your Nanites spent/5. Each additional attack has a 
-compounding -2 accuracy. (A 10th level character making their 3rd strike in a 
-row would be rolling at -4 accuracy).
+Cooldown: X + 1 Rounds
+Duration: X Reactions
 
-== Kip-up [15 Nanites] ==
+	Whenever you hit an enemy with a melee attack, Kick, Disarm, or Trip, 
+you may make X additional melee attacks, Kicks, Disarms, and/or Trips against 
+that enemy as Reactions. Each attack has a compounding -2 accuracy or -20 to its 
+Maneuver check (A character making their 3rd strike in a row would be rolling at 
+-4 accuracy or with a -40 to their Maneuver check). A character cannot use more 
+Reactions in a round than they have. If you are stunned or unconscious, Kata ends.
+
+== Kip-up ==
+
 Prerequisites:
 
 * DEX 6
 * STR 5
+
+Cooldown: See Below
+Duration: Free Action
 
 	A Kip-up is a gymnastic maneuver in which a character lying on the ground
 curls up and then kicks up and out into the air, using the resulting momentum to 
@@ -992,28 +1007,17 @@ jump from their back straight to their feet. This kick does not work well as a
 melee attack; the momentum is used to move the kicker rather than to impart 
 impact unto a target.
 
-	You may jump up from the prone to the standing position as a Free Action. 
-This action cannot be taken to go straight from prone to crouched. Further, if 
-the transition from prone to standing to crouched is taken, the normally Free
-Action of going from standing to crouched costs an Action. The kip-up cannot be
-attempted with Heavy or Full Armor on. The kip-up can only be done once every
-three rounds, but doesn't cost any nanites to do. The Three-round cooldown can
-be ignored once per round by paying the nanite cost.
+	You jump up from the prone to the standing position. This action cannot 
+be taken to go straight from prone to crouched. Further, if you would crouch 
+this turn, the normally Free Action of going from standing to crouched costs 
+an Action. You cannot kip-up while wearing Heavy, Full, or Power Armor, or in 
+a microgravitic environment.
 
+	Kip-up may be used without a cooldown once every 3 rounds. Kipping Up 
+less than 3 Rounds after your last one incurs a 3 Round cooldown.
 
-== Multi-Target [13*X Nanites] ==
-Prerequisites:
+== Run 'N' Gun ==
 
-*  DEX 6
-*  PER 6
-
-	For 2 Actions, concentrate on up to Level+1 number of targets, where X is 
-the number of targets. Or concentrate 1 action to target Level/2(round up) 
-Targets. You may Roll to-hit your first target in order to determine if you hit 
-all of these targets. If you fail the roll, then you may roll again to hit your 
-first target normally.
-
-== Run 'N' Gun [10 Nanites] ==
 Prerequisites:
 
 *  PER 7
@@ -1021,11 +1025,13 @@ Prerequisites:
 *  or Soldier Class
 *  or Specialist Class
 
-	For 1 Action, you may move at half speed while firing. -1 to accuracy. If 
-you don't Aim before using this feat, you must Hip Fire. If this feat is 
-performed while sprinting, half your movement speed before you add the +1m 
-per-action from sprinting. The Miss Chance penalties stack for consecutive uses 
-of Run 'N' Gun. 
+Cooldown: X / 2 Rounds, min 1
+Duration: X Actions, maximum 4
+
+	You move at half speed while firing your firearm. Each attack has a cumulative 
+-1 Accuracy penalty but can benefit from a previous Aim action (otherwise Hip Fire 
+rules apply as normal). You may use this feat in combination with sprinting; if you 
+do, halve your movement speed before you add sprinting modifiers. 
 
 == Steady Shot [5 Nanites] ==
 Prerequisites:
@@ -1038,24 +1044,31 @@ Miss Chance can go below the -2 minimum range (See section "Combat:" in the basi
 rules document). You must be aiming at the target before you can use this feat. 
 Maximum 4 levels.
 
-== Twitch	[7 Nanites] ==
+== Twitch ==
+
 Prerequisites:
 
 *  Level 3
 *  Proficient in SMGs or Pistols
 *  DEX 7
 
-	You may aim at an enemy as a free action instead of one action. Only works 
-with CQB weapons. -2 accuracy with the aimed weapon(s).
+Cooldown: None
+Duration: Free Action
 
-== Blur	[11 Nanites] ==
+	While wielding a CQB firearm, you may aim as a free action instead of an 
+action. If you do, your next two attacks with that weapon have -2 accuracy.
+
+== Blur ==
+
 Prerequisites:
 
 *  Level 10
 *  Twitch
 
-	You may aim at an enemy as a free action instead of one action. Only 
-works with CQB weapons. No Miss Chance penalty.
+Cooldown: 1 Round
+Duration: Free Action
+
+	While wielding a CQB firearm, you may aim as a free action instead of an action.
 
 ==============================
 Primary Stat Bonus Feats
