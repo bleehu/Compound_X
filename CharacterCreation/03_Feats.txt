@@ -919,15 +919,6 @@ Duration: Free Action
 deal an extra 10 damage. That attack is considered a critical hit if it would not otherwise 
 be. This is akin to seeing a chink in armor and aiming for it.
 
-
-== Bunker [25 Nanites] ==
-Prerequisites:
-
-*  Hacker or
-*  Knowledge - Nanites at 40
-
-	Add -3 accuracy to a piece of cover for 4 turns.
-
 == Combat Roll ==
 
 Prerequisites:
@@ -1036,7 +1027,6 @@ Duration: X Actions, maximum 4
 -1 Accuracy penalty but can benefit from a previous Aim action (otherwise Hip Fire 
 rules apply as normal). You may use this feat in combination with sprinting; if you 
 do, halve your movement speed before you add sprinting modifiers. 
-
 
 == Steady Shot [5 Nanites] ==
 Prerequisites:
