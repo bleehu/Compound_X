@@ -935,14 +935,20 @@ until your next turn, and you have a -2 accuracy for the action after this feat
 ends (which can be the first action of your next turn). Combat Roll cannot be used 
 in concert with Run 'N' Gun.
 
-== Cover Slide [15 Nanites] ==
+== Cover Slide ==
+
 Prerequisites:
 
 *  DEX 4
 
-	Move up to your speed and end next to a barrier behind which you can take
-cover. You hunker or go prone behind that cover as a free action. Cannot 
-be used in concert with Run 'N' Gun.
+Cooldown: 1 Round
+Duration: 1 Action
+
+	Choose a location up to your movement speed in meters away that contains 
+something solid enough to stop your headlong slide. You move to that location and 
+either go prone or hunker somewhere in that square (you choose). Attacks made 
+against you during the use of Cover Slide have -1 Accuracy. Cover Slide cannot be 
+used at the same time as Run 'N' Gun.
 
 == Flash Dance ==
 
