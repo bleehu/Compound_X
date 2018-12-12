@@ -967,15 +967,21 @@ still apply. (Note: Flash Dance can trigger Bulltrue and Preemptive Strike). If 
 are stunned or rendered unconscious, Flash Dance ends immediately.
 
 == Gun Kata [30 Nanites] ==
+
 Prerequisites:
 
 *  Level 10
 
-	For 1 Action, reduce weapon range to 15m, and negate actions needed for 
-Aiming, Pumping, and Cocking of a gun. Treat your gun as if it was a CQB weapon. 
-After a successful hit, you may roll for an additional hit on any target within 
-the 15m range, for up to 3 rounds fired. If you miss a shot or your gun runs out 
-of rounds, your Gun Kata ends.
+Cooldown: X + 1 Rounds
+Duration: X Reactions
+
+	Whenever you hit an enemy with a ranged firearm attack, you may use Gun 
+Kata to make X additional attacks as Reactions. These attacks must target enemies 
+within 15m and within a 45 degree cone centered on the initial target. Each attack 
+has a compounding -2 accuracy. (A character making their 3rd strike in a row would 
+be rolling at -4 accuracy). A character cannot use more Reactions in a round than 
+they have. If you are stunned, unconscious, miss a shot, or your gun runs out of 
+rounds, Gun Kata ends.
 
 == Kata ==
 
