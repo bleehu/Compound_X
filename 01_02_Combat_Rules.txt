@@ -5,16 +5,16 @@ Combat
 
 	Combat starts when either you or an enemy decides they would like to make an 
 attack (or as the GM decrees). At that point, all involved characters roll 
-Initiative to determine the order in which they take turns. Initiative is a d100 roll 
-that is modified only by Soldier class passive abilities, and higher numbers go 
-first. The section "Actions", below, has more detail on turns in combat.
+Initiative to determine the order in which they take turns. Initiative is a d100 
+roll that is modified only by Soldier class passive abilities, and higher numbers 
+go first. The section "Actions", below, has more detail on turns in combat.
 
 ===== Combat Stat Modifiers for Ranged and Melee Accuracy =====
 
 	These bonuses use a table instead of the more general attribute modifier 
-equation, as combat accuracy rolls are played out on a d10 scale. As described below, 
-under normal conditions, ranged combat uses the Perception combat modifier, while 
-melee combat uses Strength, Dexterity, and Fortitude.
+equation, as combat accuracy rolls are played out on a d10 scale. Under normal 
+conditions ranged combat uses the Perception combat modifier as described below. 
+Melee combat uses Strength, Dexterity, and Fortitude.
 
 == Combat Stat Modifier Table ==
 
@@ -45,7 +45,7 @@ melee combat uses Strength, Dexterity, and Fortitude.
 	Drop any remaining decimal (0.5 or -0.5 becomes 0) -in other words- only use 
 integers when you are writing down the final miss chances of your weapon(s). For 
 example, let's say you have a basic SMG with miss chance brackets of 4, 5, and 6. 
-Assuming you have 6 Perception,your PER bonus is 0.5 and thus, your gun's range 
+Assuming you have 6 Perception, your PER bonus is 0.5 and thus, your gun's range 
 miss chance brackets are:
 
 	(4 - 0.5), (5 - 0.5), (6 - 0.5)  =  3.5, 4.5, 5.5
@@ -999,3 +999,128 @@ retrieve a dropped weapon or stand back up if they have fallen.
 instantly. Some examples are falling several stories, lava baptisms,
 or having a space station dropped on you. Do not do these things. They are
 also known to the state of California to cause cancer. 
+
+==============================
+Stacking Up and Clearing Rooms
+==============================
+
+    Your character will frequently encounter rooms full of enemies. One common
+tactic for safely entering a defended room and neutralizing all of the threats 
+in it is for the attacking team to line up outside of the entry way and violently 
+enter the room all at once. That way you can bring to bear all of the lethal 
+talent of your team all at once rather than entering the "fatal funnel" at a 
+more vulnerable cadence. The process of lining up and waiting for everyone on 
+the team to be ready to run in is called "stacking up." The act of entering the 
+room in this manner is called "breaching," and the subsequent sweep of a room is 
+called "clearing (a room)." The act of systematically repeating this process on 
+every room in a structure is called "clearing a building." 
+
+    What constitutes a "room" that can be breached and cleared is ultimately
+up to your DM, but usually a room that can be cleared is smaller than 20m by
+20 meters and has a discrete number of entry points. For example, a spaceship
+hangar that is 35m by 18m and has a service door on either side when the hangar
+door is shut would allow for stacking up with the DM's permission. That same 
+hangar with the hangar door open would need to be maneuvered into and fought 
+over normally since the hangar door is most of one of its walls. Another example
+would be that an open-air pagoda probably wouldn't be breach-able because it 
+lacks any door to stack up on and has no walls.
+
+    What constitutes an "entry point" is also up to the DM. These are usually
+unlocked doorways, but can also be skylights to rappel from, windows large 
+enough to step through once smashed, or chunks of wall that have been blown up.
+An area cannot be an entry point if it cannot be moved through by the character
+stacked up on it at the time of the breach. A character can only stack up on an
+entry point to a room.
+
+    In Compound X, the process of clearing a room follows the three steps listed 
+below.
+
+1. Stacking up
+2. Breaching
+3. Clearing
+
+===== Stacking Up ===== 
+
+    Characters can join a stack up line on any time during their turn. Doing so
+immediately ends their turn and the rest of their actions are considered held
+for use during clearing. When a character stacks up, they must indicate exactly
+one entry point that they will use during the breach. If there is any ambiguity,
+they must indicate which room they will storm when the breach occurs. Which room
+you are breaching is usually obvious; it's the room on the other side of the 
+entry point from where your character is stacking up. On the rare occasion that
+one door leads to more than one room, a single room must be designated for 
+clearing. You cannot breach and clear a room that is not attached to the entry
+point that you stacked up on. 
+
+    If your turn starts and you are already stacked up, you may either leave the
+line of the stack up and take your turn normally, or skip your turn to remain in
+the stack up line. If you skip your turn in this manner, you will have the same
+number of actions during clearing as you would if you stacked up as the first
+act of your turn.
+
+    Any number of characters can stack up on a given entry point. The order of
+the characters in the lineup is important. Players can chose any position in the
+stackup order that hasn't yet been taken at the time that they declare their 
+character will stack up. So the first character to stack up could choose to get
+in the middle of the line, and the second character to use their turn to stack
+up could stack up in front if they so chose.  
+
+===== Breaching =====
+
+    Any time a character joins the stack up line, the character in the lead of
+the stack may call "breach!" At that time, regular initiative order is 
+interrupted, and the breach and clear phases occur during the turn of the 
+character who just got in line. After the clearing has resolved, play resumes
+after that character's turn.
+
+    Some weapons, tools or gadgets are commonly used during a breach maneuver.
+Examples include breaching charges, tear gas or flashbangs. If these are used,
+they take effect first in the breach. Keep in mind that a character using such
+a device will need a free hand to do so, and may need to spend one of their 
+clearing actions to re-draw their weapon. As such, devices are usually used by
+the characters in the 3rd or 4th positions.
+
+    Some rooms are defended with booby traps. In the case that a room or entry
+point has such perils, they take effect second. 
+
+    While devices are being resolved, all attackers and defenders roll a reflex
+save to determine the order of combat during the clearing phase. If the 
+defenders were unaware of the impending breach, then they roll reflex with a
+disadvantage and the attackers roll reflex with advantage.
+
+*Breaching Roll = Reflex Save + Weapon Reflex Mod + any mod from feats
+
+===== Clearing =====
+
+    Players take their turn in decending order of breaching roll. In other words,
+The character with the highest net reflex roll goes first, the character with 
+the lowest reflex goes last. Characters on the attacking team (the team that 
+stacked up) must use an Action to move from their position in the stack line
+before they can fire or perform melee attacks. Characters on the attacking team
+can take cover at the entry point that they were stacked up on, but doing so 
+will block the entry point and prevent another character from moving or firing
+through the entry point unless they are firing at that character.
+
+    The Clearing phase ends when either all of one team in the room can no 
+longer fight or the breaching order has been exhausted. Play resumes as normal
+after the turn of the last character to stack up after that.
+
+===== Interrupting a Stackup =====
+
+    If an enemy approaches or attacks one of the characters in a stack up line
+after they have stacked up but before the lead character has called "breach!",
+then all of the characters in the stack up are no longer considered to be 
+stacked up. Instead, they may use their held actions as immediate reactions in
+initative order and must wait until their next turn to stack back up.
+
+===== Simultaneous Breaches ======
+
+    If more than one entry point leads to the same room, it is possible to 
+include all characters stacked up on those entry points in the same 
+breach-and-clear event. In order for more than one entry point to be 
+simultaneously breached, the characters stacked up on each must be able to see
+each other and/or hear each other (i.e. have radios or another means of remote
+communication). To prevent complicating the game, play resolves one breached 
+room at a time. Two rooms can be breached in synch with each other, but the DM
+will pick which room to play first and will resolve the other at the end of the
+first room's clearing phase.
