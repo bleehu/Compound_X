@@ -491,12 +491,37 @@ Resting
 ==============================
 
 Short Rest:
-	Taking about an hour, characters can take a Short Rest to rest.
+	Taking about an hour, characters can relax, recuperate, and maintain their 
+gear to prepare for the activities ahead. 
+
+	To gain the benefits of a Short Rest, characters must not undertake any 
+strenuous activity or significant travel and should not experience significant 
+interruption. After completing a rest, characters must complete some kind of 
+strenuous activity before they can recieve the benefits of another Short Rest, and 
+can only benefit from Short Rests up to three times between Long Rests.
+
+	At the conclusion of the Short Rest, each character with at least one full 
+set of medical nanites heals 1d10 plus 1d10 health for every 3 class levels they have 
+(a level 3 character would heal 2d10, and so on). Characters with a partial set of 
+medical nanites heal 75% of that roll, and characters with no medical nanites heal 
+half that roll. Short Rests may restore other abilities or resources as described in 
+ability, class, and item descriptions.
 
 Long Rest:
 	Taking about eight hours, characters need to rest after a long day of 
 adventuring. If you choose to stay up all night, you won't be at your best for 
 the next day.
+
+	In addition to the activity requirements of a Short Rest, characters taking a 
+Long Rest must spend at least two-thirds of the time in their particular species' 
+analogue of the sleep state, unless noted otherwise. Keeping watch does not interrupt 
+a Long Rest unless it requires patrolling an area. As a general rule, characters can 
+only benefit from one Long Rest per day, whatever "day" means to them at the time. 
+Refer to the Exhaustion rules for timekeeping rules.
+
+	At the conclusion of a Long Rest, unless circumstances inspire the GM to 
+rule otherwise, characters are restored to full health. Long Rests may restore other 
+abilities or resources as described in ability, class, and item descriptions.
 
 ==============================
 RP / Using Skills
