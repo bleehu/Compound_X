@@ -1056,7 +1056,9 @@ point that you stacked up on.
 line of the stack up and take your turn normally, or skip your turn to remain in
 the stack up line. If you skip your turn in this manner, you will have the same
 number of actions during clearing as you would if you stacked up as the first
-act of your turn.
+act of your turn. Stacking up is a Free Action if you are already standing by 
+the entry point, or as many Actions as it takes to move to the entry point 
+otherwise.
 
     Any number of characters can stack up on a given entry point. The order of
 the characters in the lineup is important. Players can chose any position in the
@@ -1098,20 +1100,21 @@ the lowest reflex goes last. Characters on the attacking team (the team that
 stacked up) must use an Action to move from their position in the stack line
 before they can fire or perform melee attacks. Characters on the attacking team
 can take cover at the entry point that they were stacked up on, but doing so 
-will block the entry point and prevent another character from moving or firing
-through the entry point unless they are firing at that character.
+will block the entry point and prevent another character from moving through or 
+firing at targets past that character.
 
-    The Clearing phase ends when either all of one team in the room can no 
-longer fight or the breaching order has been exhausted. Play resumes as normal
-after the turn of the last character to stack up after that.
+    The Clearing phase ends when either all members of one team in the room can 
+no longer fight or the breaching order has been exhausted. Play resumes as 
+normal after the turn of the last character to stack up after that.
 
 ===== Interrupting a Stackup =====
 
     If an enemy approaches or attacks one of the characters in a stack up line
 after they have stacked up but before the lead character has called "breach!",
 then all of the characters in the stack up are no longer considered to be 
-stacked up. Instead, they may use their held actions as immediate reactions in
-initative order and must wait until their next turn to stack back up.
+stacked up. Instead, they may use one held action as immediate reaction in
+initative order, followed by a 'Hit the Dirt' as described above.  After that 
+they must wait until their next turn to stack back up.
 
 ===== Simultaneous Breaches ======
 
