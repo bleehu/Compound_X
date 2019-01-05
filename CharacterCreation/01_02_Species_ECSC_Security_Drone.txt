@@ -88,6 +88,10 @@ No Gender Personality AI:
 *  Belur
 *  Duat
 
+===== Passives =====
+
+    Security Drones don't have any species-wide passives in common.
+
 ===== Available Traits ===== 
 
 Built-in armor:
