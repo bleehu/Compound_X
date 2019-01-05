@@ -26,6 +26,12 @@ heads than the sides, and can be triangular or round.
 poisons or foreign contaminants. They are diurnal, and have low-light eyesight, 
 but can also see well in daylight. 
 
+Types:
+* Biological
+* Mammalian
+* Warm-blooded 
+* Carnivorous 
+
 ===== Society =====
 
 	As many cultures mark themselves with tattoos, the Tundari also have their 
@@ -46,17 +52,6 @@ their ecosystem could handle. They have kept their population stable for the
 last three centuries, and no one seems inclined to change their ways. Space 
 exploration and colonization have begun to change that, but many colonists still 
 ascribe to the old mandates.
-
-Types:
-* Biological
-* Mammalian
-* Warm-blooded 
-* Carnivorous 
-
-Weakness to Poisons/Contagions:
-	Your saves to avoid being infected by a poison or afflicted by a contagion are 
-rolled with Disadvantage. This applies only to initial rolls for a particular toxin, not 
-subsequent rolls regarding complications or recovery.
 
 
 ===== Language: Tuunra ===== 
@@ -114,7 +109,10 @@ Name structure follows as such: [Clan Name]'[Clan Title] [First or Familiar Name
 
 ===== Passives =====
 
-	The Tundari don't have any species-wide passive abilities.
+Weakness to Poisons/Contagions:
+	Your saves to avoid being infected by a poison or afflicted by a contagion are 
+rolled with Disadvantage. This applies only to initial rolls for a particular toxin, not 
+subsequent rolls regarding complications or recovery.
 
 ===== Available Traits =====
 

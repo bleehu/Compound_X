@@ -22,6 +22,12 @@ bodies. The rupture of these tubes and spilling of these fluids is generally to
 be avoided. They have an average lifespan of about 100 Sol years, depending on
 their profession and location.
 
+Types:
+* Biological
+* Mammalian
+* Warm-blooded 
+* Omnivorous 
+
 ===== Society =====
 
 	Humans originated on the planet Earth in the Sol system. They have been 
@@ -42,12 +48,6 @@ impossible to pick out the cultural traits that influence humans as a whole.
 Central government is important to the large groups of humans, though smaller 
 factions and settlements on the rim of their empire do not seem to care about 
 the rules and regulations of their governing powers.
-
-Types:
-* Biological
-* Mammalian
-* Warm-blooded 
-* Omnivorous 
 
 ===== Language: Various ===== 
 
