@@ -2,42 +2,50 @@
 Tundari
 ==============================
 
+	The cunning and agile Tundari are born predators. The clans of the Tundari
+come from their home world of Tundar. They are organic mammals with natural
+grace and ferocity. 
+
+===== Appearance/Anatomy =====
+
+	The Tundari are a species of obligate carnivores from the planet Tundaar. 
+Physically, they span a wide size range, from the Chi’mau, who can range from 
+3’6” to 5’ and 85-130 lbs to the Sang’mau, at 6’ to 7’ and up to 400 lbs, and 
+every size in-between. Like humans, body types persist in many forms.
+
+	A sleek coat of fur covers these people, ranging widely in color and pattern. 
+It tends to grow short and fine over the majority of the body, however, the face, 
+head, neck, and joints have been known to grow hair that is longer and coarser, 
+having a mane or scruff-like quality about it.
+
+	As a carnivorous species, they have large, forward, wide-set eyes, clawed 
+limbs and large, sharp teeth. Their ears sprout from closer to the top of their 
+heads than the sides, and can be triangular or round. 
+	
+	They are considered a hardy species, but have not adapted well to fight off 
+poisons or foreign contaminants. They are diurnal, and have low-light eyesight, 
+but can also see well in daylight. 
+
 ===== Society =====
 
-	The Tundari are a species of obligate carnivores from the planet Tundaar. Physically, 
-they span a wide size range, from the Chi’mau, who can range from 3’6” to 5’ and 
-85-130 lbs to the Sang’mau, at 6’ to 7’ and up to 400 lbs, and every size in-between. 
-Like humans, body types persist in many forms.
+	As many cultures mark themselves with tattoos, the Tundari also have their 
+own method of skin-marking. Some outliers will dye their fur, but that is 
+generally frowned upon by the traditinalists of Tundari society. The traditional 
+method of marking is called Aranga, though many ranchers will would recognize 
+the method as very similar to the freeze-branding they mark livestock with. 
+Aranga, however, is far more intricate that simple freeze-branding.
 
-	A sleek coat of fur covers these people, ranging widely in color and pattern. It 
-tends to grow short and fine over the majority of the body, however, the face, head, 
-neck, and joints have been known to grow hair that is longer and coarser, having a 
-mane or scruff-like quality about it. 
-
-	As many cultures mark themselves with tattoos, the Tundari also have their own method
-of skin-marking. Some outliers will dye their fur, but that is generally frowned upon 
-by the traditinalists of Tundari society. The traditional method of marking is called Aranga, 
-though many ranchers will would recognize the method as very similar to the freeze-
-branding they mark livestock with. Aranga, however, is far more intricate that simple 
-freeze-branding.
-
-	As a carnivorous species, they have large, forward, wide-set eyes, clawed limbs and 
-large, sharp teeth. Their ears sprout from closer to the top of their heads than the 
-sides, and can be triangular or round. 
-They are considered a hardy species, but have not adapted well to fight off poisons 
-or foreign contaminants. They are diurnal, and have low-light eyesight, but can 
-also see well in daylight. 
-
-	Culturally and economically, the clans on the Tunadri homeworld have an instated 
-breeding season once every four years. Cubs born outside of this season are not 
-harmed, but their parents are firmly reprimanded for the first, and drastic measures 
-may be taken if a single family has multiple children outside of the typical breeding 
-times. Rather than the byproduct of a controlling government, these mandates came 
-into effect nearly four-hundred years prior. As infant mortality rates decreased, the
-population increased far more rapidly than their ecosystem could handle. They have 
-kept their population stable for the last three centuries, and no one seems inclined 
-to change their ways. Space exploration and colonization have begun to change that, 
-but many colonists still ascribe to the old mandates.
+	Culturally and economically, the clans on the Tunadri homeworld have an 
+instated breeding season once every four years. Cubs born outside of this season 
+are not harmed, but their parents are firmly reprimanded for the first, and 
+drastic measures may be taken if a single family has multiple children outside 
+of the typical breeding times. Rather than the byproduct of a controlling 
+government, these mandates came into effect nearly four-hundred years prior. As 
+infant mortality rates decreased, the population increased far more rapidly than 
+their ecosystem could handle. They have kept their population stable for the 
+last three centuries, and no one seems inclined to change their ways. Space 
+exploration and colonization have begun to change that, but many colonists still 
+ascribe to the old mandates.
 
 Types:
 * Biological
@@ -103,6 +111,10 @@ Name structure follows as such: [Clan Name]'[Clan Title] [First or Familiar Name
 * Chi’Mer Brea
 * Chi’Krou Amri
 * A’rhe Gaur
+
+===== Passives =====
+
+	The Tundari don't have any species-wide passive abilities.
 
 ===== Available Traits =====
 
