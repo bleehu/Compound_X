@@ -1,8 +1,139 @@
 ==============================
 Backgrounds
 ==============================
-	Where is your character from? Maybe they grew up on a kangaroo farm, or studied medicine on a core planet. Were they trained for corporate espionage or recruited for military service? From smuggling contraband, to piloting cargo ships, to making appointments for a corporate executive, a character's past will inform how they act under pressure, react under fire and interact with teammates.
-	How did your character learn to fight? Did they spend their childhood knocking heads with local fauna? Perhaps they graduated from boot camp or a corporate academy. Maybe they were taught by the school of hard knocks, fighting to survive on the fringes of society.
-	In addition to influencing your character's decisionmaking and roleplay, their background also gives them knowledge and experience. As you build your character, choose specific scenarios in which your character has an edge over others due to their upbringing, history and education. These elements of your character's experience will provide bonuses to their rolls in-game.
-	Formal backgrounds in Compound X have three parts: a character's culture of origin, their career and education, and their central driving goal or value.
+	Where is your character from? All characters have a past: where they grew up, what career they studied or were trained for, what languages they speak and understand. A character's background will influence their patterns of behavior, ability to communicate with others, their world-view, their areas of specialized knowledge, and more. Maybe they grew up on a kangaroo farm, or studied medicine on a core planet. Were they trained for corporate espionage or recruited for military service? From smuggling contraband, to piloting cargo ships, to making appointments for a corporate executive, a character's past will inform how they act under pressure, react under fire and interact with teammates.
+	In addition to influencing your character's decisionmaking and roleplay, their background also gives them knowledge and experience. As you build your character, choose specific scenarios in which your character has an edge over others due to their upbringing, history and education. These elements of your character's experience, their Background Perks, will provide bonuses to their rolls in-game.
+	Formal backgrounds in Compound X have three parts: a character's Culture of Origin, Social Class, and Profession.
+
 ===== Culture of Origin =====
+
++------------------------+------------------------------------------------------------------------------+
+| Origin                 | Perks                                                                        |
++------------------------+------------------------------------------------------------------------------+
+| Kepler Core Worlds     | Gain Language- Terran Common (+2 dialects). Gain 0.5 set of Nanites.         |
++------------------------+------------------------------------------------------------------------------+
+| Tundaari Core Worlds   | Gain Language- Tuunra (+2 dialects). Gain 0.5 set of Nanites.                |
++------------------------+------------------------------------------------------------------------------+
+| Trioch System          | Gain Languages- Opaleite Trade: Vocal (+1 sub-species dialect),              |
+|                        | Opaleite Trade: Sign. Gain 0.5 set of Nanites.                               |
++------------------------+------------------------------------------------------------------------------+
+| Colony World- Terran   | Gain Languages- Terran Common (+ 1 dialect), 1 Common or Trade Language of   |
+|                        | choice. Gain 0.5 set of Nanites.                                             |
++------------------------+------------------------------------------------------------------------------+
+| Colony World- Tundaari | Gain Languages- Tuunra (+ 1 dialect), 1 Common or Trade Language of choice.  |
+|                        | Gain 0.5 set of Nanites.                                                     |  
++------------------------+------------------------------------------------------------------------------+
+| Colony World- Opaleite | Gain Languages- Opaleite Trade: Vocal or Opaleite Trade: Sign (+ 1 dialect), |
+|                        | 1 Common or Trade Language of choice. Gain 0.5 set of Nanites.               |
++------------------------+------------------------------------------------------------------------------+
+| Space Station          | Gain Languages- 2 Common or Trade Languages of choice (+1 dialect).          |
+|                        | Gain 0.5 set of Nanites.                                                     |
++------------------------+------------------------------------------------------------------------------+
+
+===== Social Class =====
+
++--------------------+-----------------+-------------------------------------------------------------------------+
+| Background         | Category        | Perks                                                                   |
++--------------------+-----------------+-------------------------------------------------------------------------+
+| White Collar       | Middle-Class    | Gain Proficiency in Knowledge - Corporate                               |
++--------------------+-----------------+-------------------------------------------------------------------------+
+| [PH]                                                                                                           |
++--------------------+-----------------+-------------------------------------------------------------------------+
+| Penny-Pincher      | Middle-Class    | Gain Advantage to Persuasion rolls when bartering with an individual    |
++--------------------+-----------------+-------------------------------------------------------------------------+
+| Circumstance has made you intimately aware of your stash of credits (and how to maximize it whenever possible) |
++--------------------+-----------------+-------------------------------------------------------------------------+
+| Constant Vigilance | Pariah          | Add 5 to Awareness saves                                                |
++--------------------+-----------------+-------------------------------------------------------------------------+
+| [PH]                                                                                                           |
++--------------------+-----------------+-------------------------------------------------------------------------+
+| Jiggery-Pokery     | Pariah          | Gain 6 skill points in Jury-rigging                                     |
++--------------------+-----------------+-------------------------------------------------------------------------+
+| [PH]                                                                                                           |
++--------------------+-----------------+-------------------------------------------------------------------------+
+| Lone Wolf          | Pariah / Ex-pat | Gain 6 skill points in Survival                                         |
++--------------------+-----------------+-------------------------------------------------------------------------+
+| Divided from your society and family, you've figured out how to get by on your own                             |
++--------------------+-----------------+-------------------------------------------------------------------------+
+| Iron Stomach       | Ex-pat          | Add 10 to space-travel related Shock Saves                              |
++--------------------+-----------------+-------------------------------------------------------------------------+
+| You've long gotten over the disorientation people get when flying about the quadrant in a                      |
+| spaceship. Heck, you wouldn't have made it this far if you couldn't keep your lunch down!                      |
++--------------------+-----------------+-------------------------------------------------------------------------+
+| Star-Strider       | Ex-pat          | Add 10 to checks to maneuver in Zero-G                                  |
++--------------------+-----------------+-------------------------------------------------------------------------+
+| Some people lose their bearings the moment gravity takes a hike. Not you. You thrive in the                    |
+| weightlessness of space and the rush you get from proximity to vaccuum is like nothing else                    |
++--------------------+-----------------+-------------------------------------------------------------------------+
+| Below the Radar    | Urchin          | Gain 6 skill points in either Sleight of Hand or Stealth                |
++--------------------+-----------------+-------------------------------------------------------------------------+
+| [PH]                                                                                                           |
++--------------------+-----------------+-------------------------------------------------------------------------+
+| Street-wise        | Urchin          | Gain Advantage when rolling to find locations and navigate              |
+|                    |                 | in cities built by the civilization where you grew up                   |
++--------------------+-----------------+-------------------------------------------------------------------------+
+| Over your lifetime, you've developed an unconscious sense of how cities work;                                  |
+| finding reliable sources of food and shelter has been a matter of life or death                                |
++--------------------+-----------------+-------------------------------------------------------------------------+
+| Unflappable Poise  | Socialite       | Add 10 to saving throws against being intimidated                       |
++--------------------+-----------------+-------------------------------------------------------------------------+
+| [PH]                                                                                                           |
++--------------------+-----------------+-------------------------------------------------------------------------+
+| Silver Spoon       | Socialite       | Gain 0.5 set of Medical Nanites                                         |
++--------------------+-----------------+-------------------------------------------------------------------------+
+| [PH]                                                                                                           |
++--------------------+-----------------+-------------------------------------------------------------------------+
+
+===== Professional Experience =====
+
++----------------------+-----------+-------------------------------------------------------------------------------+
+| Background           | Category  | Perks                                                                         |
++----------------------+-----------+-------------------------------------------------------------------------------+
+| Nerves of Steel      | Military  | Gain Advantage on Saves against Fear                                          |
++----------------------+-----------+-------------------------------------------------------------------------------+
+| Your Drill Sergeant was literally the scariest person in the galaxy. Anyone else is small potatoes in comparison |
++----------------------+-----------+-------------------------------------------------------------------------------+
+| Veteran              | Military  | Gain Advantage on Will saves while Pinned Down                                |
++----------------------+-----------+-------------------------------------------------------------------------------+
+| [PH]                                                                                                             |
++----------------------+-----------+-------------------------------------------------------------------------------+
+| Expert Researcher    | Academic  | Gain Advantage on Investigation checks to find information                    |
++----------------------+-----------+-------------------------------------------------------------------------------+
+| [PH]                                                                                                             |
++----------------------+-----------+-------------------------------------------------------------------------------+
+| Birds of a Feather   | Academic  |                                                                               |
++----------------------+-----------+-------------------------------------------------------------------------------+
+| [PH]                                                                                                             |
++----------------------+-----------+-------------------------------------------------------------------------------+
+| Terms and Conditions | Corporate |                                                                               |
++----------------------+-----------+-------------------------------------------------------------------------------+
+| [PH]                                                                                                             |
++----------------------+-----------+-------------------------------------------------------------------------------+
+|                      | Corporate |                                                                               |
++----------------------+-----------+-------------------------------------------------------------------------------+
+| [PH]                                                                                                             |
++----------------------+-----------+-------------------------------------------------------------------------------+
+|                      | Artistic  |                                                                               |
++----------------------+-----------+-------------------------------------------------------------------------------+
+| [PH]                                                                                                             |
++----------------------+-----------+-------------------------------------------------------------------------------+
+|                      | Artistic  |                                                                               |
++----------------------+-----------+-------------------------------------------------------------------------------+
+| [PH]                                                                                                             |
++----------------------+-----------+-------------------------------------------------------------------------------+
+| Grifter              | Criminal  | Gain 6 skill points in Deception                                              |
++----------------------+-----------+-------------------------------------------------------------------------------+
+| [PH]                                                                                                             |
++----------------------+-----------+-------------------------------------------------------------------------------+
+| Underworld Contacts  | Criminal  |                                                                               |
++----------------------+-----------+-------------------------------------------------------------------------------+
+| [PH]                                                                                                             |
++----------------------+-----------+-------------------------------------------------------------------------------+
+|                      | Trade     |                                                                               |
++----------------------+-----------+-------------------------------------------------------------------------------+
+| [PH]                                                                                                             |
++----------------------+-----------+-------------------------------------------------------------------------------+
+|                      | Trade     |                                                                               |
++----------------------+-----------+-------------------------------------------------------------------------------+
+| [PH]                                                                                                             |
++----------------------+-----------+-------------------------------------------------------------------------------+
