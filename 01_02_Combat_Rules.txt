@@ -276,7 +276,7 @@ among the grappled characters.
 they can take and can only target each other. The character with control of the 
 grapple may make Unarmed Strikes, use other combat maneuvers, attempt to Pin, or 
 disengage. The character without control may make Unarmed Strikes, attempt to 
-disengage, or attempt to gain control. Each try takes one Action. While in a 
+disengage, or attempt to gain control. Each attempt takes one Action. While in a 
 grapple, the character in control may make 3 Actions per round, the character
 that is not in control may make 2. 
 
