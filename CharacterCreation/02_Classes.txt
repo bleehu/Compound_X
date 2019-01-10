@@ -706,7 +706,7 @@ Class Primary Attribute: Dexterity
 Starting Wealth: $1975 + 100*Luck
 
 Passives:
-* The Assassin may make one additional Action when in a Grapple.
+* The Assassin may make one additional Action per turn while in a Grapple, but not more than four.
 * Gain Skill Weapons - Melee at 10
 * Gain Skill Stealth at 10
 * Gain Feat: Proficiency: Light Melee Weaponry.
