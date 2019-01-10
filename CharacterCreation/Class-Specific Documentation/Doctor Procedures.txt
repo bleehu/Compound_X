@@ -101,10 +101,85 @@ payload of your choice.
     At level 10, has AP level 6 instead. At level 15, has AP level 8 and deals 
 65 damage. At level 20, ignores physical armor and deals 80 damage.
 
+== Poison: Pho-Ox ==
+
+Adrenaline Cost: 30 Points
+Contagion Cost: 1 Contagion
+Duration: 10 Rounds
+Range: Payload (use in combination with other Proceeedures)
+
+    This dichloroformaldoxime derivative is known as a "Nettle Agent" which 
+means that only extremely high doses will kill. Some might call that mercy, 
+while those it has been used on know better. Organics exposed to either the 
+liquid (which is a dull amber color with an oily texture) or the vapor almost
+immediately break out in hives, itch all over, serious eye irritation and 
+coughing fits. Extended or concentrated exposure can lead to patches of skin 
+dying and falling off, blindness and lung scarring. Most species can recover
+from mild exposure in a day or two without medical treatment. Long term exposure
+can be treated easily with modern medical techniques. Pho-Ox is also one of the 
+few biochemical agents known to significantly corrode metal. Pho-Ox is entirely
+organic; it cannot be detected by security systems that search for synthetic
+pathogens.
+
+    When a target is hit with Pho-Ox, they roll a Shock save against a DC of 70.
+If they succeed, they do not increase their dose level. If they fail, their
+dose level is increased by 1. If their dose level is at a 1 or a 2, they may
+make a Shock save of DC 80 at the begining of their turn to reduce the dose 
+level by one. Every time the dose level is increased beyond 6, the target makes
+a Shock Save of DC 110 instead of 70. If they succeed, they maintain their dose
+level. If they fail, they fall unconsious (but not bleeding out) and will not
+wake on their own for 8 + 1d10 hours. Non-organic targets affected by Pho-Ox do
+not take any penalties to accuracy or move speed, but instead take only damage
+at the start of their turn. Targets that are wearing a gas mask, but have any 
+exposed biology or unarmored cybernetics are affected by this even if a 
+deployment method says they wouldn't be. Pho-Ox can be rapidly cured in the 
+field by most combat medics. 
+
+    The effects on biologic targets are as follows. Acc Penalties are Accuracy 
+penalties, and these are also applied to attacks with melee weapons. Move 
+Penalties are given per action. Damage is applied at the start of the target's
+turn after they have made a saving throw if they are able (if the target's dose
+level is 1 or 2).
+
++---------+-------------+--------------+---------+
+| Dose lv | Acc Penalty | Move Penalty |  Damage |
++---------+-------------+--------------+---------+
+|    1    |      -1     |      0       |   10    |    
++---------+-------------+--------------+---------+
+|    2    |      -1     |     -1       |   15    |
++---------+-------------+--------------+---------+
+|    3    |      -1     |     -1       |   15    |
++---------+-------------+--------------+---------+
+|    4    |      -2     |     -1       |   20    |
++---------+-------------+--------------+---------+
+|    5    |      -2     |     -2       |   25    |
++---------+-------------+--------------+---------+
+|    6    |      -3     |     -2       |   25    |
++---------+-------------+--------------+---------+
+
+
+The effects for cybernetic targets are listed below. 
+
++------------+-------------------------+
+| Dose Level | Damage at start of turn |
++------------+-------------------------+
+|     1      |          20             |
++------------+-------------------------+
+|     2      |          25             |
++------------+-------------------------+
+|     3      |          35             |
++------------+-------------------------+
+|     4      |          50             |
++------------+-------------------------+
+|     5      |          55             |
++------------+-------------------------+
+|     6      |          55             |
++------------+-------------------------+
+
 ==Poison: Mild Hallucinogen ==
 Adrenaline Cost:20 Points
 Contagion Cost: 1 Contagion
-Duration: 	5 turns
+Duration: 	5 Rounds
 Range:		Payload (use in combination with other powers)
     Target must pass a DC 70 Will check. If they fail, they suffer one of four 
 effects as chosen by GM or by random dice roll listed below. Hallucinogens only 
@@ -134,16 +209,16 @@ Range: STR m
     The Doctor sprays out a noxious contaminant onto a 2m x 4m rectangle with 
 its nearest corner within STR (not strength mod) meters from the Doctor. The 
 Doctor must be able to see this area. Biologic targets without gas masks that
-are in the affected area when the Doctor sprays it or that end their turn in the
-area for 5 turns after it is sprayed must make a FORT save. The FORT save has a
+are in the affected area when the Doctor sprays it or that end their Turn in the
+area for 5 Rounds after it is sprayed must make a FORT save. The FORT save has a
 DC of 110. If a target succeeds on the save the area does not affect them and
 they do not need to save again if they are still in the area on subsequent 
-turns. If they fail the save, they are "contaminated." Races that are extra
+Rounds. If they fail the save, they are "contaminated." Races that are extra
 sensitive to smoke or disease have disadvantage on this save. At level 10, this
 area expands to up to 3m x 5m at the discretion of the Doctor.
 
     "Contaminated" targets get a -2 to melee or weapon accuracy rolls, and lose
-5 health and 5 Nanites at the end of their turn every turn until Contamination
+5 health and 5 Nanites at the end of their Turn every Round until Contamination
 is cured. Contamination can be cured as an action by any character with skill in
 medicine such as enemy medics. The effect persists even if the target leaves the
 contaminated area. If a target would accrue negative Nanites from this effect,
@@ -151,7 +226,7 @@ They take damage equal to the number of negative Nanites and their Nanites stay
 at 0. 
 
     The contaminant spray is a puffy asbestos-pink foam which fades slowly to
-gray in color over the 5 turns that it is active. Contaminated targets do not
+gray in color over the 5 Rounds that it is active. Contaminated targets do not
 pass along contamination as in the Plague Procedure and once the foam has faded 
 to gray, the contamination has died. However, a character without training in 
 medicine might not necessarily know that...
@@ -159,7 +234,7 @@ medicine might not necessarily know that...
 ==Poison: Potent Hallucinogen ==
 Adrenaline Cost: 50 Points
 Contagion Cost: 2 Contagions
-Duration: 	10 turns
+Duration: 	10 Rounds
 Range:		Payload (use in combination with other powers)
     Target must pass a DC 150 Will check. If they fail, 
 they suffer one of four effects as chosen by the Doc or by random dice roll. 
@@ -193,7 +268,7 @@ Contagion Cost: 1 Contagion
 Duration: 	Engagement
 Range:		Payload (use in combination with other powers)
     Target must pass a DC 60 Shock check for every action they take over the 
-next 3 turns. If they fail a check, the action they were about to take is 
+next 3 Rounds. If they fail a check, the action they were about to take is 
 canceled and they lose that action. If they fail three checks they pass out. If 
 they pass out, they must pass a shock check of 120 to wake up. Only works on 
 biologic targets.
@@ -220,10 +295,10 @@ biologic targets.
     
     The target must pass a Will Save of DC 140 or be brought under the control
 of the Doctor. If the target succeeds, they lose two Actions on each of their
-next five turns. While under the control of the Doctor, the Doctor may give 
+next five Rounds. While under the control of the Doctor, the Doctor may give 
 commands of three words or less. Every time the Doctor gives a new command, the 
 target may attempt another saving throw. The target is free of the control after
-15 turns or two successful saves. Whichever comes first.
+15 Rounds or two successful saves. Whichever comes first.
 
 ==Poison:	PAX ==
 Adrenaline Cost: 80 Points
@@ -256,14 +331,37 @@ with gas masks are immune. Allies are targeted as well.
 ==Poison:	NF-34 ==
 Adrenaline Cost: 80 Points
 Contagion Cost: 1 Contagion
-Duration: 	20 turns
+Duration: 	20 Rounds
 Range:		Payload (use in combination with other powers)
+
     The biologic agent eats away at the target's flesh and biologic parts at an 
-astonishing rate. The target takes 3d10 damage per turn for the duration of 
-their affliction. They can be cured by decontamination devices or specially 
-trained doctors. Targets that are wearing a gas mask, but have any exposed 
-biology are affected by this even if a deployment method says they wouldn't. Use
-of biologic weapons are severely frowned upon in most civilized regions of space.
+astonishing rate. The target takes 3d10 damage per Round on their turn for the 
+duration of their affliction. They can be cured by decontamination devices or 
+specially trained doctors. Targets that are wearing a gas mask, but have any 
+exposed biology are affected by this even if a deployment method says they 
+wouldn't. Use of biologic weapons are severely frowned upon in most civilized 
+regions of space.
+
+
+== Neural Afibrillator ==
+
+Adrenaline Cost: 50 Points
+Needle Cost: 1 Needle
+Duration: 2 Actions
+Range: 40 m
+Miss Chance: 2
+APL: 3
+Damage on hit: 30
+
+    The Neural Afibrillator is a small module that fits into a needle to deliver
+electric shocks. Its indended purpose is for nerual-electric muscle stimulation,
+used in electrotherapy for physical therapy. But after you've tweaked it to 
+shock in a pseudo-random pattern and direction, it mostly just hurts a bit and
+causes unpredictable muscle spasms and radically confuses medical nanites.
+
+    Enemies that lose health points to this attack must attempt a DC 90 Shock 
+Save. On failure, they recieve 40 electric damage and have the Disrupted 
+Condition for 4 Rounds. On success, they take 20 Electric damage.
 
 ==Biopsy ==
 Adrenaline Cost: 40 Points
@@ -294,7 +392,7 @@ they pass, they may lie. If they fail, they must answer with total candor.
 Targets dosed with the Thiopental Derivative in combat are totally honest about
 commiting to shots, and must succeed on the DC 90 will save or they cannot 
 hunker or take superior cover. The effect lasts for one out-of-combat 
-conversation or 5 turns in combat.
+conversation or 5 Rounds in combat.
 
 ==Transmission Vector ==
 Adrenaline Cost:60 Points
@@ -312,12 +410,12 @@ Contagion Cost: 1 Contagion
 Duration: 	two weeks
 Range:		Payload (use in combination with other powers)
     The biologic agent eats away at the target's flesh and biologic parts at an 
-astonishing rate. The target takes 20 + 2d10 damage per turn for the duration of 
-their affliction. They can be cured by decontamination devices or specially 
-trained medics. Targets that are wearing a gas mask, but have any exposed 
-biology are affected by this even if a deployment method says they wouldn't. 
-Use of biologic weapons are severely frowned upon in most civilized regions of 
-space.
+astonishing rate. The target takes 20 + 2d10 damage per Round on their turn for 
+the duration of their affliction. They can be cured by decontamination devices 
+or specially trained medics. Targets that are wearing a gas mask, but have any 
+exposed biology are affected by this even if a deployment method says they 
+wouldn't. Use of biologic weapons are severely frowned upon in most civilized 
+regions of space.
 
 ==Poison:	Lethal Toxin ==
 Adrenaline Cost: 60 Points
@@ -326,7 +424,7 @@ Duration: 	almost instantaneous
 Range:		Payload (use in combination with other powers)
     A biologic target afflicted with this poison must succeed on a DC 110 FORT 
 save or the target takes 180 damage that ignores shields and armor and Disrupts 
-the target for up to 10 turns or a WILL save of DC 92 whichever is first. If the 
+the target for up to 10 Rounds or a WILL save of DC 92 whichever is first. If the 
 target succeeds on their save, they take 60 damage instead. See 
 "01_02_conditions.txt" for the Disrupted Condition. At level 13, damage 
 increases to 220. Does not prevent unarmed or attacks with guns or melee weapons.
@@ -350,7 +448,7 @@ Adrenaline Cost: 60 Points
 Contagion Cost: 1 Contagions
 Duration: 1 Action
 Range: Applies to the Doc only
-    For 3 turns, the doc gets a -3 to miss with guns, grenades, spells, and 
+    For 3 Rounds, the doc gets a -3 to miss with guns, grenades, spells, and 
 melee weapons. They also get a +30 to reload and a +1 chance to critical hit.
 
 ==Free Running ==
@@ -385,7 +483,7 @@ Adrenaline Cost: 60 Points
 Contagion Cost: 1 Contagion
 Duration: 	1 Action
 Range:		Applies to the Doc only
-    For 3 turns, the doc gets a -4 to miss with guns, grenades, spells, and 
+    For 3 Rounds, the doc gets a -4 to miss with guns, grenades, spells, and 
 melee weapons. They also get a +60 to reload and a +1 chance to critical hit.
 
 ==Dex-11 ==
@@ -403,7 +501,8 @@ Contagion Cost: 3 Contagions
 Duration: 	2 Actions
 Range:		Effects apply only to the Doc
     This is a fully customized brew specially grown to bond with your
-personal biochemistry. The effect lasts for 8 turns. You gain:
+personal biochemistry. The effect lasts for 8 rounds. You gain:
+
 * -2 to miss with melee, guns, thrown weapons, or Procedures
 * an additional action per turn
 * an additional temporary 40 hp
@@ -495,7 +594,7 @@ Contagion Reward: 4 Contagions
 Range: Touch
 Action: 4 Actions
     Can only be used on a biologic patient who's head is intact who has bled out
- and died less than 8 turns ago. The Doctor makes a DC 60 heal check. If 
+ and died less than 8 Rounds ago. The Doctor makes a DC 60 heal check. If 
 successful, the patient is now bleeding out. If the patient is saved, gets the 
 feat 'Back from the Dead'. Characters with the 'Back From the Dead' feat have a
 permanent -1m per action move speed, -10 maximum health and can never again be 
@@ -508,10 +607,10 @@ Range:			Touch
 Action:			4 Actions
     Stands for Persistent Emergent Generalists, a type of surgical nanobot that 
 stays in the patient's bloodstream and continues to administer care over an 
-extended period of time. Effect lasts for 10 turns and heals 10 health every 
-turn. DC 60 to hack. If nanobots are hacked, deals damage instead. PEGs are 
-easily detectable by tech scanning technologies or spells. PEGs cannot heal a 
-patient over their maximum health.
+extended period of time. Effect lasts for 10 Rounds and heals 10 health at the
+end of each of the patient's turns. DC 60 to hack. If nanobots are hacked, deals 
+damage instead. PEGs are easily detectable by tech scanning technologies or 
+spells. PEGs cannot heal a patient over their maximum health.
 
 ==Improved P.E.G.s ==
 Adrenaline Reward:	50 Points
@@ -520,10 +619,10 @@ Range: Touch
 Action: 2 Actions
     Stands for Persistent Emergent Generalists, a type of surgical nanobot that 
 stays in the patient's bloodstream and continues to administer care over an 
-extended period of time. Effect lasts for 5 turns and heals 20 health every turn. 
-DC 130 to hack. If nanobots are hacked, deals damage instead. PEGs are easily 
-detectable by tech scanning technologies or spells. PEGs cannot heal a patient 
-over their maximum health.
+extended period of time. Effect lasts for 5 Rounds and heals 20 health at the
+end of each of the patient's turns. DC 130 to hack. If nanobots are hacked, 
+deals damage instead. PEGs are easily detectable by tech scanning technologies 
+or spells. PEGs cannot heal a patient over their maximum health.
 
 ==Mild Stim ==
 Adrenaline Reward: 15 Points
@@ -531,8 +630,8 @@ Needle Cost: 1 Needle
 Range: Touch
 Action:	1 Action
 
-    For 4 turns, the patient moves 1m more per action and gets a -1 to miss with 
-guns. As a side effect, the target suffers a +1 to miss with melee weapons. 
+    For 4 Rounds, the patient moves 1m more per action and gets a -1 to miss 
+with guns. As a side effect, the target suffers a +1 to miss with melee weapons. 
 Increasing the dosage does not increase the effects. This trick only works on 
 biologic patients.
 
@@ -564,7 +663,7 @@ Range:			Touch
 Action:			1 Action
     You shoot your ally with a mild pain reliever, not enough to make them 
 really happy or cloud their mind, but enough to help them work through the pain 
-of a decent injury. For 5 turns, your ally gets 30 temporary health. This 
+of a decent injury. For 5 Rounds, your ally gets 30 temporary health. This 
 procedure only works on biologic patients. You may not give a patient more than 
 one dose of analgesic per engagement, lest they suffer dire side effects like 
 irrational happiness, lack of focus, addiction and cardiac arrest.
@@ -577,7 +676,7 @@ Range:			Touch
 Action:			1 Action
     You shoot your ally with a strong pain reliever, not enough to make them 
 really happy or cloud their mind, but enough to help them work through the pain 
-of a decent injury. For 5 turns, your ally gets 60 temporary health. This 
+of a decent injury. For 5 Rounds, your ally gets 60 temporary health. This 
 procedure only works on biologic patients. You may not give a patient more than 
 one dose of analgesic per engagement, lest they suffer dire side effects like 
 irrational happiness, lack of focus, addiction and cardiac arrest.
@@ -644,7 +743,7 @@ Contagion Reward: 1 Contagion
 Needle Cost: 1 Needle
 Range:			Touch
 Action:			1 Action
-    For 5 turns, the patient moves 2m more per action and gets a -1 to miss with 
+    For 5 Rounds, the patient moves 2m more per action and gets a -1 to miss with 
 guns. As a side effect, the target suffers a +2 to miss with melee weapons. 
 Increasing the dosage does not increase the effects. This trick only works on 
 biologic patients. 
@@ -657,8 +756,8 @@ Range:			Touch
 Action:			1 Action
     Phentermine derivative manufactured by Sakai Corp on Kimon in sector 5. 
 Central nervous system stimulant. Patient gets a +20 to reflex rolls and a +20 
-to initiative (turn order) for 5 turns. Oni doesn't give more than one turn per 
-round. May only be used on biologic patients. Cannot be used on a patient more 
+to initiative (turn order) for 5 Rounds. Oni doesn't give more than one Turn per 
+Round. May only be used on biologic patients. Cannot be used on a patient more 
 than once lest they get mortally constipated, impotent, or their heart explodes. 
 (note: these are the actual effects of a Phentermine overdose) 
 
@@ -668,7 +767,7 @@ Contagion Reward: 1 Contagion
 Needle Cost: 1 Needle
 Range: Touch
 Action: 1 Action
-    For 5 turns, the patient moves 3m more per action (max 13), gets a -2 to 
+    For 5 Rounds, the patient moves 3m more per action (max 13), gets a -2 to 
 miss with guns and a +30 to rolls to parkour around obstacles. As a side effect, 
 the target suffers a +2 to miss with melee weapons and a -15 to charisma rolls 
 from being jittery. Increasing the dosage does not increase the effects. This 
@@ -693,7 +792,7 @@ Action: 1 Action
 has -1 to miss with melee weapons, and moves +1m per action. As a side effect, 
 the target takes a -1 to both Intelligence and charisma for the duration of the 
 effect. This trick only works on biologic patients. This effect lasts for 4 
-turns.
+Rounds.
 
 ==Preventative Medicine ==
 Adrenaline Reward:	20 Points
@@ -720,4 +819,4 @@ Action: 1 Action
 has -2 to miss with melee weapons, and moves +2m per action. As a side effect, 
 the target takes a -1 to both Intelligence and charisma for the duration of the 
 effect. This trick only works on biologic patients. This effect lasts for 8 
-turns. 
+Rounds. 
