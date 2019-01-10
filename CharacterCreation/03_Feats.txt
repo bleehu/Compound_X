@@ -494,9 +494,9 @@ Prerequisites:
 
 *  Pilot or 10 Vehicles - Space skill
 
-	You've been up in the black more times than you can count. You get a +15% to
-maintaining your bearings during a hyperspace jump as well as a +15% to stellar
-navigation.
+	You've been up in the black more times than you can count. Add 15 to Saving
+Throws to maintain your bearings during a hyperspace jump and gain 15 Skill Points
+in Navigation - Space.
 
 == Signature Move ==
 Prerequisites:
