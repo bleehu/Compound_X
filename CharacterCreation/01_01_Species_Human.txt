@@ -3,8 +3,8 @@ Humans
 ==============================
 
 	Humans are a tenacious species from the Sol System. They come in a variety
-of shapes, sizes and colors. Humans are an organic race of the kingdom of 
-"mammal" who must eat, drink and sleep in order to survive. 
+of shapes, sizes and colors. Humans are an organic species of the class 
+"Mammalia" who must eat, drink and sleep in order to survive. 
 
 ===== Apearance/Anatomy =====
 
@@ -40,7 +40,7 @@ smaller, but individuals of those types are generally rare.
 	They are an incredibly prolific and opportunistic species, having 
 completely terraformed and colonized over half a dozen planets and their 
 respective moons. With many more Terran planets on the rise, they already dwarf 
-the small Opalite and Tundari civilizations.
+the small Opaleite and Tundari civilizations.
 
 	Humans are very culturally dissimilar to each other. Even more so than 
 most other species, most likely due to their rapid expansion. As such, it is 
@@ -76,7 +76,7 @@ upon.
 
 ===== Passives =====
 
-*  Gain 1 additional language and pick up new languages at twice the normal rate.
+*  Gain 1 additional language and learn new languages at twice the normal rate.
 *  Have 42 starting stat points, rather than the 40 granted to other species.
 
 ===== Available Traits =====
@@ -91,7 +91,7 @@ Stubborn:
 	All Humans have a hardiness to them that cannot always be explained 
 by logic. Some humans are just plain hard to kill, for no other apparent 
 reason than they just refuse to die. 
-[Roll Advantage on Death Saving Throws]
+[Roll with Advantage on Death Saving Throws]
 
 
 ==============================
@@ -101,20 +101,20 @@ Human Sub-Species
 ===== Terrans =====
 
 Size: Medium
-Home System: Kepler
+Home System: Keplar
 
 Appearance: 
 	Heavily resembling the historic humans, there is little variation 
 from even 20th century humans in this pool. The Terrans left Sol behind in 
-the 24th Century, forming a new colony in the Kepler system. 
+the 24th Century, forming a new colony in the Keplar system. 
 
 
 == Available Traits ==
 
 Very Normal: 
-	Blending in has always come early to you. People tend to trust you. 
+	Blending in has always come naturally to you. People tend to trust you. 
 You seem to belong no matter where you find yourself. 
-[Advantage on Persuade & Deceive]
+[Gain Advantage on Persuation & Decection skill checks]
 
 Sixth Sense:
 	Colloquially often known as the ‘gut’ instinct, sixth sense is that 
@@ -134,8 +134,8 @@ Home System: Sol
 have adapted to the humid, swampy heat of their half of the planet. Small 
 and lean, these humans rarely reach over 5’ in height, and are much lighter 
 than their Terran counterparts. As the new earth conditions have stabilized, 
-these humans have been beginning to rebuild some sense of agriculture, but 
-only recently have they ceased their nomadic patterns.
+these humans have begun to rebuild some sense of agriculture, but have
+only recently ceased their nomadic patterns.
 
 == Available Traits ==
 
@@ -163,10 +163,12 @@ Quick Constriction:
 	Living in an area ravaged by lighting storms, these humans have 
 developed rapid pupil constriction and dilation. This increases their 
 resistance to not only lightning blasts, but to flash-bangs. 
-[Effects from flash-bangs (and related implements) halved]
+[Duration of Blindness condition halved. Gain Advantage on Saving Throws to
+avoid being Blinded ]
 
 Frost-Free:
 	The hardy life lived by your people has encouraged an innate 
 resistance to cold.
-[Take half-damage from cold. Roll advantage on any adverse effects related to 
-cold (sluggishness, frostbite, etc)]
+[Take half-damage from cold Thermal damage. Roll with advantage against any
+adverse effects related to cold, including Saving Throws to avoid being
+Frozen.]
