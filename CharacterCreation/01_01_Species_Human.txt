@@ -113,7 +113,8 @@ the 24th Century, forming a new colony in the Keplar system.
 
 Very Normal: 
 	Blending in has always come naturally to you. People tend to trust you. 
-You seem to belong no matter where you find yourself. 
+You seem to belong no matter where you find yourself, and have a talent for
+projecting confidence whether you believe it or not.
 [Increase your skill in Deception by 15 and skill in Persuasion by 10.]
 
 Sixth Sense:
