@@ -662,15 +662,6 @@ Prerequisites:
 
 	Enables the use of Carbines by the listed classes.
 
-== Very Normal ==
-Prerequisites:
-
-*  CHA 5
-
-	Any time that someone would be suspicious of your actions, they will be less 
-likely to think twice about what you are doing. Increase your Deception skill by 15
-and Persuasion skill by 10.
-
 == Ward ==
 Prerequisites:
 
