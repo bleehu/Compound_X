@@ -512,18 +512,6 @@ meant to be performed in CQC, not simply aiming your rifle at their head
 and squeezing the trigger while shouting "BOOM HEADSHOT!" Please ask for 
 GM permission when using this feat.)
 
-== Sixth Sense ==
-Prerequisites:
-
-*  LCK 6
-
-	You have uncanny knack for reading situations and making accurate decisions 
-based off of gut feelings. Gain a skill, Uncanny Insight at 10, and apply it 
-to situations where you feel like a bit of extra insight might do you or your 
-team a world of good. This skill is maxed out at 20 points, and is only 
-upgraded by making good decisions based on this skill, at the discretion of
-your GM.
-
 == Snap Shot ==
 Prerequisites:
 
