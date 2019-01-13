@@ -123,7 +123,8 @@ feeling that many Terrans get when they feel something is off. There are
 different levels of Sixth Sense, and many function in different ways. Some 
 Terrans get goosebumps, while others experience a hair-raising feeling; it 
 can be very hard to get anything past Humans with this sense tuned. 
-[Grants you an extra sense. DM’s discretion for application]
+[Once per Long Rest, you may ask the GM if a situation or proposed action
+feels disproportionately deceptive or lethal to the character.]
 
 
 ===== Eastern Earthlings =====
