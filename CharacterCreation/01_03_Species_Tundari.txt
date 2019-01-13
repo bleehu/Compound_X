@@ -11,19 +11,19 @@ grace and ferocity.
 	The Tundari are a species of obligate carnivores from the planet Tundaar. 
 Physically, they span a wide size range, from the Chi’mau, who can range from 
 3’6” to 5’ and 85-130 lbs to the Sang’mau, at 6’ to 7’ and up to 400 lbs, and 
-every size in-between. Like humans, body types persist in many forms.
+every size in-between. Like humans, Tundari have many different body types.
 
 	A sleek coat of fur covers these people, ranging widely in color and pattern. 
 It tends to grow short and fine over the majority of the body, however, the face, 
 head, neck, and joints have been known to grow hair that is longer and coarser, 
-having a mane or scruff-like quality about it.
+with a mane or scruff-like quality about it.
 
-	As a carnivorous species, they have large, forward, wide-set eyes, clawed 
-limbs and large, sharp teeth. Their ears sprout from closer to the top of their 
+	As a carnivorous species, they have large, forward-facing, wide-set eyes, clawed 
+limbs, and large, sharp teeth. Their ears sprout from closer to the top of their 
 heads than the sides, and can be triangular or round. 
 	
 	They are considered a hardy species, but have not adapted well to fight off 
-poisons or foreign contaminants. They are diurnal, and have low-light eyesight, 
+poisons or foreign contaminants. They are diurnal, and have low-light vision, 
 but can also see well in daylight. 
 
 Types:
@@ -36,22 +36,22 @@ Types:
 
 	As many cultures mark themselves with tattoos, the Tundari also have their 
 own method of skin-marking. Some outliers will dye their fur, but that is 
-generally frowned upon by the traditinalists of Tundari society. The traditional 
+generally frowned upon by the traditionalists of Tundari society. The traditional 
 method of marking is called Aranga, though many ranchers will would recognize 
-the method as very similar to the freeze-branding they mark livestock with. 
+the method as very similar to the freeze-branding livestock is marked with. 
 Aranga, however, is far more intricate that simple freeze-branding.
 
-	Culturally and economically, the clans on the Tunadri homeworld have an 
+	Culturally and economically, the clans on the Tundari homeworld have an 
 instated breeding season once every four years. Cubs born outside of this season 
 are not harmed, but their parents are firmly reprimanded for the first, and 
 drastic measures may be taken if a single family has multiple children outside 
-of the typical breeding times. Rather than the byproduct of a controlling 
+of the typical breeding times. Rather than the recent byproduct of a controlling 
 government, these mandates came into effect nearly four-hundred years prior. As 
 infant mortality rates decreased, the population increased far more rapidly than 
-their ecosystem could handle. They have kept their population stable for the 
-last three centuries, and no one seems inclined to change their ways. Space 
-exploration and colonization have begun to change that, but many colonists still 
-ascribe to the old mandates.
+their ecosystem could support. They have kept their population stable for the 
+last three centuries out of necessity, and no one seems inclined to change their ways.
+Space exploration and colonization have begun to change their adherence to the breeding
+season tradition, but many colonists still ascribe to the old mandates.
 
 
 ===== Language: Tuunra ===== 
@@ -61,8 +61,8 @@ they can be understood by all. Tuunra features drawn-out vowels, soft consonants
 sounds such as clicks, chirps, trills, and a low rumbling that is nearly inaudible 
 to humans. There is another integral part of Tuunra that many species do not pick up
 on, and that is an intricate system of body language that involves both tail and ears.
-A Tundari that has lost their tail may have great difficulty getting their point across
-to others of their species.
+A Tundari that has lost their tail may have great difficulty communicating with others of
+their species.
 
 	Tundari can communicate basic ideas and general instructions noiselessly. 
 
@@ -81,21 +81,21 @@ the practice of what Terrans call aquaponics, that branch gained the new title o
 	'Mau is an indication of a clan's status. It is generally bestowed upon large or 
 influential clans that make a large impact on their society as a whole.
 	'Khe is a term given to an individual rather than a clan. It is a degredation 
-indicating exile or disgrace. Unless the individual abides closely to Tundari societial 
-rules, they may not introduce themselves as such to outsiders, as it is often a source of shame. 
+indicating exile or disgrace. Unless the individual abides strictly by Tundari social rules,
+they may not introduce themselves as such to outsiders, as it is often a source of shame.
 	'Mer generally refers to those clans who gain their living or live on the Merkhe river, a 
 large body of water that flows down the through the continent of Senrima.
-	'Krou is a combination of the Tuunra words kyr(fish) and rou'en(medicinal herbs). It 
-was taken by those who took up aquaponics to raise both fish for consumtion and herbs. While
-these herbs are traditionally medicinal, it may not be the prefered crop for a group with this
-title. 
+	'Krou is a combination of the Tuunra words kyr (fish) and rou'en (medicinal herbs). It 
+was taken by those who took up aquaponics to raise both fish for consumption and herbs. While
+these herbs are traditionally medicinal, a group with this title may focus on other herbs, feed
+for livestock, or other useful organic materials. 
 	'En is a title given to healers and doctors trained on Tundaar. 
 
-	First names range very much as humans, as far as origin. Often having some significance 
-with the family, first names are fairly arbitrary in much of Tundari society. Tribe and 
+	First names range very much as humans, as far as origin. While often having some significance 
+to the family, first names are fairly arbitrary in much of Tundari society. Tribe and 
 clan names are held the most important, and as such, are always listed first.
 Some Tundari have been exiled, lost their clan names, or adopted their own. Others have 
-adopted names from the other cultures they now live in. 
+adopted names from the other cultures they now live with. 
 
 == Tuunra Name Examples =
 
@@ -110,7 +110,7 @@ Name structure follows as such: [Clan Name]'[Clan Title] [First or Familiar Name
 ===== Passives =====
 
 Weakness to Poisons/Contagions:
-	Your saves to avoid being infected by a poison or afflicted by a contagion are 
+	Your Saving Throws to avoid being infected by a poison or afflicted by a contagion are 
 rolled with Disadvantage. This applies only to initial rolls for a particular toxin, not 
 subsequent rolls regarding complications or recovery.
 
@@ -119,25 +119,28 @@ subsequent rolls regarding complications or recovery.
 Clawed:
 	Already equipped with built-in weapons, you are practiced at using the large claws
 on your forelimbs to give you an advantage in hand-to-hand combat. 
-[Increased Damage for Hand-to-Hand]
+[Increase damage of Unarmed Strike by {Vaguely balanced number}.]
 
 Soft-footed:
 	An ambush predator, you are built for sneaking up on those around you. You know how to 
 handle your weight and use the knowledge passed down by generations of hunters to keep 
 your presence a secret.
-[Stealth Rolls may be Averaged]
+[You may Roll the Average on any Stealth check.]
 
 Prehensile Tail: 
-	You have spent a long time using your tail to do more than just talk with. You can grab
-onto items, use it to aid in climbing, or even hang from it. 
-[Tail has ½ the carrying capacity of an arm when upright. Full when hanging/dangling]
+	You have spent a long time using your tail to do more than just communicate. You can
+grab onto items, use it to aid in climbing, or even hang from it. 
+[The tail has ½ the carrying capacity of an arm when upright and full carying capacity when
+hanging or dangling]
 	
 	Note: Tails cannot bear the hanging weight of a Large individual.
 
 Toothed: 
 	As a predatory species, you have the customary long teeth that frighten many. 
-To you, they are commonplace, but to many others, they are far from ordinary. 
-[Gain Advantage on initial Intimidation Rolls toward and against Biological beings]
+To you, they are commonplace, but to many others, they induce a primal fear of being
+hunted and eaten. 
+[Gain Advantage on initial Intimidation checks toward and against non-Tundari Biological
+beings.]
 
 ==============================
 Tundari Clans
@@ -154,22 +157,23 @@ leaner than the Sang’mau, as a whole.
 
 Tribe: 
 	The most social of all the clans, Rra’mau is the face for intergalactic trade,
-policies, and general hospitality to outsiders. While the clans all meet together to 
-decide these policies beforehand, (usually) for the betterment of the species, Rra’mau
-merely figure-head the process to outsiders.
+policies, and general hospitality to outsiders. The clans all meet together to 
+decide these policies beforehand, (usually) for the betterment of the species; Rra’mau
+figure-head the process to outsiders.
 
 == Available Traits ==
 
 Hind-Claws:
 	Digging into the ground with the large claws present on your hind-limbs spurs your 
 ability to run much faster than your peers. 
-[Round movement speed calculations up]
+[To calculate your Movement Speed per action, use (Movement Speed)/2 and round up to the
+nearest integer.]
 
 
 Wide-faced:
 	Many species seem to be drawn to your large eyes. You aren’t certain why, but it gives 
 you an advantage when attempting to persuade or charm members of other biological species. 
-[Persuade at Advantage once per biological individual]
+[Once per biological individual, you may roll a Persuation check with Advantage.]
 
 
 
@@ -179,26 +183,27 @@ Size: Large
 Favored Terrain: Forest/Jungle
 
 Appearance: 
-	Coat range from black to tawny to brighter colors such as orange and red. 
-These tundari are larger, more powerful hunters than their cousins, relying more on brute 
+	Coats range from black, to tawny, to brighter colors such as orange and red. 
+These Tundari are larger, more powerful hunters than their cousins, relying more on brute 
 strength and ambushing than on speed. While the trees on Tundaar well supported the weight 
 of these people, it is hard to find natural equivalents on other planets.
 
 Tribe: 
 	Another very social clan, the Sang’mau were deemed too frightening to be the best 
 negotiators after first contact with the Terrans, when the visiting diplomat fainted at 
-the mere sight. More commonplace now, this clan tends to stay out of the direct Terran-
-Tundari diplomacy. 
+the mere sight. While more commonplace now, this clan tends to stay out of the direct
+Terran-Tundari diplomacy. Sang'mau often focus their social tendencies on protecting and
+governing the more insular parts of Tundari society.
 
 == Available Traits ==
 
 Climbing: 
 	A long tail and a lack of fear for heights allows climbing to come very naturally to you. 
-[Gain Advantage on STR-Athletics Checks when Climbing]
+[Gain Advantage on Athletics (STR) Checks when Climbing]
 
 Powerful: 
 	Large, developed muscles allow you to carry more and hit harder. 
-[Active Carry Penalties reduced. More Damage for Hand-to-Hand]
+[Increase Carry Ability by {Vaguely balanced number}. Increase damage of Unarmed Strike by {Vaguely balanced number}.]
 
 
 
@@ -214,16 +219,18 @@ in both size and number of the large clans.
 Tribe:
 	In contrast to the two other largest clans, the Chi'mau focus more on the nuclear
 family than on a larger society as a whole. This is likely more due to geography than 
-an inclination to keep to themselves. Traditionally living in mountainous river valleys 
-with steep cliff walls and fish being their main source of sustinance, the idea that each
-family has a larger territory has stuck through several centuries.
+an inclination to keep to themselves. They traditionally live in mountainous river valleys 
+with steep cliff walls and fish is their main source of sustenance. The idea that each
+family has a larger territory has stuck through several centuries of innovation and urbanization.
+Even outside their traditionally remote territories, Chi'mau usually prefer small, highly
+private social circles.
 
 
 == Available Traits ==
 
 Climbing: 
-	A long tail and a lack of fear for heights allows climbing to come very naturally to you. 
-[Gain Advantage on DEX-Acrobatics Checks when Climbing]
+	A long tail and a lack of fear of heights allows climbing to come very naturally to you. 
+[Gain Advantage on Acrobatics (DEX) Checks when Climbing]
 
 Survivalist: 
 	Being out by yourself often requires quick ingenuity and hardiness. 
