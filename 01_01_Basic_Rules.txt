@@ -593,8 +593,9 @@ Feats
 	Feat is a collective term for a number of abilities or qualities that your 
 character can learn through specific training, and will differentiate them from 
 their peers. As detailed in the character creation guide, level 1 characters do not 
-start with any feats, but will acquire them over time as shown on the leveling table. 
-Unless otherwise specified, you cannot take the same feat multiple times.
+start with any feats, but will acquire them either over time as shown on the 
+leveling table or during special circumstances as described by the feat entry and/or 
+the GM. Unless otherwise specified, you cannot learn the same feat multiple times.
 
 	There are five kinds of feats:
 
@@ -606,51 +607,68 @@ Unless otherwise specified, you cannot take the same feat multiple times.
 
 Passive Feats:
 
-	When you take a feat, you may take a passive feat. Passive Feats are used 
-freely with no limit unless otherwise stated. They often give bonuses to skills
-or to rolls for certain actions.
+	Characters can learn passive feats through leveling. Passive feats include 
+static bonuses, special actions, and everything in between. Each feat's description 
+will detail any restrictions upon its use - there are no constants in this type of 
+feat.
 
 Active Feats:
 
-	When you take a feat, you may decide to take an Active Feat. An Active Feat
-gives your character the option of taking certain actions that they otherwise
-couldn't, usually in combat. Active feats cost a certain amount of Nanites to
-execute, and if your character doesn't have enough nanites, then they can't take
-that action until they get some more. 
+	Characters can learn active feats through leveling. Active feats are 
+special combat actions that characters can learn to use. In particular, active feats 
+are actions that characters physically could not normally execute, and thus require 
+the help of their medical nanites.
+	
+	To use an active feat, a character must have at least one functional full unit 
+of medical nanites (a partial unit is not enough). To use an active feat, a character 
+must tax one unit of medical nanites, expending much of their energy and leaving the 
+nanites unable to support the use of another active feat until they can recover.
+
+	Each active feat has a cooldown and a duration. The duration is the number of 
+actions the character must spend in using the ability. If a character does not have 
+the relevant actions available, they cannot use that feat at that time. Some feats 
+with longer durations may be interrupted between your character's turns. Feats with 
+dynamic cooldowns based on the duration use the time actually spent on the feat, rather 
+than the time your character may have originally intended. Cooldowns do not start 
+until a character has finished using a feat.
+
+	If a character has multiple units of medical nanites, they may use additional 
+active feats without having to wait for the first unit to recover. Cooldowns for 
+multiple units of medical nanites must be tracked separately.
 
 Weapon Expertise Feats:
 	
-	When you take a feat, you may decide to take a Weapon Expertise Feat. Weapon
-Expertise Feats are a special kind of passive feat, that get better as you 
-increase your skill with a particular kind of weapon group. 
+	Weapon Expertise feats are a particular subtype of passive feats, and can be 
+learned through leveling. Expertise feats represent dedicated training with a 
+particular class of weapon and follow a particular structure, offering progressively 
+more bonuses as your character gains skill points in the corresponding weapons skill 
+(See "06_Skills.txt"). There is one weapon expertise feat per class of weapon. 
 
-	These feats represent dedicated training with a particular class of weapon, 
-and offer bonuses based on the relevant Weapons skill (Weapon skills are listed 
-in "06_Skills.txt"). Each feat offers a set of bonuses related to using that type of 
-weapon (and only that type of weapon), and each bonus requires the character to have 
-a number of points in the relevant Weapon skill. A character with 0 points in 
-Weapons - Pistols would gain only one benefit, while a character with 60 points 
-would benefit from them all. The feats are formatted as a list of "X: Benefit", 
-where X is the number of points required in the corresponding Weapon skill to 
-gain the benefit.
+	Each expertise feat offers a set of six bonuses that are in effect while your 
+character is using the relevant type of weapon (and only that type of weapon). Each 
+bonus requires the character to have a number of points in the relevant Weapon skill, 
+and a new bonus is unlocked every 12 skill points. A character with 0 points in 
+Weapons - Pistols would gain only one benefit, while a character with 30 points would 
+have the first three, and one with the maximum 60 points has all six. The feats are 
+formatted as a list of "X: Benefit", where X is the number of points required in the 
+corresponding Weapon skill to gain the benefit.
 	
 	Weapon Expertise feats require proficiency with the weapon type, but otherwise 
-have no prerequisites. Note that as all characters are proficient with Unarmed 
-Strike, Melee Expertise effectively has no prerequisite.
+have no prerequisites. Melee expertise requires proficiency with any (not all) types 
+of melee weapon, including Unarmed Strike. By default, all characters are proficient 
+with Unarmed Strike.
 
 Primary Stat Feats:
 	
-	Stat Feats are special and cannot be taken when you get a feat like Active,
-Passive, or Weapon Expertise Feats. Instead, they are immediately unlocked when 
-you fulfill their stat requirement. 
+	Characters acquire primary stat feats automatically upon qualifying for them, 
+i.e. by having a sufficiently high relevant primary stat. This can occur on character 
+creation or at the levels that grant primary stat points.
 
 Class Feats:
 
-	On certain levels, you will unlock a Class Feat instead of a Regular Feat.
-You cannot take a Class Feat when you get a regular Feat, nor can you forego 
-your Class Feat in favor of an Active or Passive feat. You can only unlock one
-Class Feat at a time. Class Feats are listed in the Classes document under the
-appropriate class.
+	Characters learn class feats through leveling, but only when the leveling table 
+specifies a class feat. Characters can not take non-class feats instead of class feats 
+or vice-versa. Class Feats are listed in the Classes document.
 
 ==============================
 Player Weapon Customization
