@@ -46,7 +46,7 @@ below 0. See the "Death and Dying" section in the Combat Rules Document.
 signal jamming, malware or sometimes direct electrical interference. When this
 succeeds, it prevents their target from using their more exotic talents.
 
-    A Character that is Disrupted cannot use Nanite abilities, Doctor Procedures, 
+    A Character that is Disrupted cannot use Active Feats, Doctor Procedures, 
 Engineer Processes or Hacker Exploits. Many similar abilities are also prone to 
 Disruption. If they are not on this list, consult your GM. 
 
