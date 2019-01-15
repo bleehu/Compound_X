@@ -226,14 +226,6 @@ again. In other words, you cannot use First Shot Counts more times in one
 encounter than the number of fresh magazines you are carrying. If your weapon 
 damages an area, First Shot Counts does not take effect.
 
-== Focus Energy == 
-Prerequisites:
-
-*  None
-
-	Spend 1 Action to increase the effects of a spell or Nanite based 
-action by 30%, (30% better roll, +30% damage [drop the remainder], up to you.)
-
 == Four on the Floor ==
 Prerequisites:
 
