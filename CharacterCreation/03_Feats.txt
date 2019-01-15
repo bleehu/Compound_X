@@ -361,14 +361,6 @@ you acquire the feat):
 * Once per turn, +20% (or +2) to a Nanite-related combat-action at a cost of 20 Nanites (ask GM before applying to an action.)
 * Once per turn, +20% to a non-combat-action at a cost of 20 Nanites (ask GM before applying to an action.)
 * Other, run any ideas by GM.
-    
-== Nanite Absorption ==
-Prerequisites:
-
-*  10 skill in Knowledge - Nanites
-
-	Once per turn, if you score a critical hit on a target that has Nanites,
-the target loses up to 20 Nanites and you gain the amount lost.
 
 == Never Tell Me the Odds ==
 Prerequisites:
