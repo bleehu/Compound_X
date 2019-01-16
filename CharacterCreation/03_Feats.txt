@@ -338,14 +338,6 @@ when performing another action besides the aforementioned (besides firing).
 (Only applies to the weapons you have at least 15 Weapons - [x] skill in using, 
 unless you meet the DEX requirement). Gain +5% to reload rolls with the given
 weapon.
-    
-== Nanite Absorption ==
-Prerequisites:
-
-*  10 skill in Knowledge - Nanites
-
-	Once per turn, if you score a critical hit on a target that has Nanites,
-the target loses up to 20 Nanites and you gain the amount lost.
 
 == Never Tell Me the Odds ==
 Prerequisites:
