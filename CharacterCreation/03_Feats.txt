@@ -226,14 +226,6 @@ again. In other words, you cannot use First Shot Counts more times in one
 encounter than the number of fresh magazines you are carrying. If your weapon 
 damages an area, First Shot Counts does not take effect.
 
-== Focus Energy == 
-Prerequisites:
-
-*  None
-
-	Spend 1 Action to increase the effects of a spell or Nanite based 
-action by 30%, (30% better roll, +30% damage [drop the remainder], up to you.)
-
 == Four on the Floor ==
 Prerequisites:
 
@@ -346,21 +338,6 @@ when performing another action besides the aforementioned (besides firing).
 (Only applies to the weapons you have at least 15 Weapons - [x] skill in using, 
 unless you meet the DEX requirement). Gain +5% to reload rolls with the given
 weapon.
-
-== Nanite Concentration ==
-Prerequisites:
-
-*  Level 5
-*  20 skill in Knowledge - Nanites
-
-	Allows the user to better concentrate on their expenditure of Nanites, 
-allowing them to achieve one of the following (you must choose one option when 
-you acquire the feat):
-
-* +2 turns of cloaking
-* Once per turn, +20% (or +2) to a Nanite-related combat-action at a cost of 20 Nanites (ask GM before applying to an action.)
-* Once per turn, +20% to a non-combat-action at a cost of 20 Nanites (ask GM before applying to an action.)
-* Other, run any ideas by GM.
 
 == Never Tell Me the Odds ==
 Prerequisites:
