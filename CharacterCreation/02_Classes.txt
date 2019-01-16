@@ -44,40 +44,61 @@ Skill Proficiencies:
 * Weapons - [Any]
 
 == Class Feats ==
-	----------------------
-	Battle Adrenaline [25 Nanites] -
-	Significant past training or combat experience has given you honed battle reactions, 
-	adrenaline simply aids your ability to understand and react to the task at hand. 
-	+1 non-attacking action, this turn only. Activate as a free action 
-	during your turn, limit one use per turn and a max of 3 activations per encounter.
-	|
-	|
-	V
-	Maximum of 6 activations per encounter; costs [20 Nanites] to use.
-	----------------------
-	Battle Cry / Raise Morale -
-	You roar to incite courage in your allies. 1 Action. 50% + (CHA mod) chance to 
-	raise allied effectiveness 20% (or +2 if relevant) on each of their next rolls 
-	[including your next roll]. 
-	Allies must be able to hear and understand you to get the bonus. Max 1 successful 
-	use per encounter.
-	|
-	|
-	V
-	75% + (CHA mod) success and 30% (or +3) added to next allied rolls.
-	----------------------
-	Fight Fiercely First -
-	The Soldier gets an additional +10 to initiative rolls. 
-	In addition, the soldier with this class feat gets a -3 miss chance against enemies
-	who have not taken a turn yet in combat or whom the soldier has beaten in 
-	reflex roll when room clearing until that character takes a turn after losing the 
-	reflex roll.
-	|
-	|
-	V
-	The soldier's accuracy bonus effect works on any enemy with a lower initiative until
-	that enemy has finished their 3rd turn.
-======================================
+
+Battle Hardened:
+
+    Your body and mind are used to the constant strain of combat. You no longer
+recoil quite so much from the horrors of war like a greenhorn and it takes more
+to shock you. Your pain tolerance has grown and you are more conscious of your
+surroundings. You gain the following:
+
+* + 8 to your Will Save
+* + 8 to your Shock Save
+* + 8 to your Reflex Save
+* + 8 to your Awareness Save
+* + 30 to your maximum health
+
+Grizzled Veteran:
+
+    You thrive on gunfighting. You love the smell of napalm in the morning. 
+You've had so much shrappnel in your body that it's gotten homeostatically used
+to it. This Feat cannot be taken unless you have "Battle Hardened" and are level 
+10. You gain the following:
+
+* An additional +20 to your maximum health
+* If you would fail a reload roll, you succeed instead as long as you didn't critically fail    
+
+Raise Morale:
+
+	You roar to incite courage in your allies. The roar takes 1 Action to 
+complete and requires you to pass a DC 50 Charisma check. If you succeed, you 
+give allied Characters a +20 on their next skill roll or +2 on their next
+attack roll. This includes your next roll. Allies must be able to hear and 
+understand you to get the bonus. Max 1 successful use per encounter.
+
+Battle Cry:
+
+	You give a violent yell that spurs you and your teammates on, giving them
+the sense that victory is possible. In order for your cry to work, you must pass
+a DC 25 Charisma check. If successful, your Battle Cry gives you and your 
+teammates a +30 on their next skill roll or +3 added to their next attack roll. A 
+Character must be level 10 and have the "Raise Morale" Class Feat in order to 
+take this feat. This ability takes 1 Action and can only be used once per 
+encounter. This ability replaces Raise Morale.
+
+Fight Fiercely First:
+
+	You gain an additional +10 to initiative rolls. In addition, you get a +3 to
+accuracy against enemies who have not taken a turn yet in combat or whom you
+have beaten in the reflex roll when room clearing until that character takes a 
+turn.
+
+Surpise and Violence of Action:
+
+	The soldier's accuracy bonus effect works on any enemy with a lower 
+initiative until that enemy has finished their 3rd turn. A Character cannot take
+this Class Feat unless they are level 10 and have the "Fight Fiercely First"
+Class Feat as well.
 
 
 =====   SPECIALIST   =====
@@ -335,6 +356,7 @@ Systems that have your scripts, malware or programs in them get a +20 to either
 Will Saves or Hacking(INT) rolls to prevent someone else from breaking into them.
 
 =====   PILOT   =====
+
 	You have a yearning to test the limits of the vehicles you operate. The 
 boundaries of speed and maneuvering were meant to be broken - by you.
 
@@ -365,27 +387,83 @@ Skill Proficiencies:
 * Weapons - General
 
 == Class Feats ==
-	----------------------
-	Planes, Trains, Automobiles -
-	This is sorta familiar to something you once saw, or rode on. Maybe? 
-	Unfamiliar vehicles can be operated [albeit pretty poorly] after you pass 
-	a DC 50 Luck check, or take up to 3 actions examining.
-	|
-	|
-	V
-	You have flown, operated and driven just about everything there is. Except 
-	that. Make a DC 50 Piloting OR Luck check, or take up to 2 actions examining.
-	----------------------
-	Extensive training <Vehicle> -
+
+Getaway Driver:
+
+    You have an intuitive understanding of the flow of traffic and the lines of
+sight between your vehicle and those you'd rather avoid. Maybe you had a 
+criminal career in the past, or maybe you just see the road differently then
+most. 
+
+    Any enemy that targets the vehicle that you are piloting, the passengers in
+the vehicle that you are piloting or you whilst you are piloting takes a -2 to
+accuracy rolls to hit as long as the vehicle has moved for at least 2 Actions
+on your last turn. Furthermore you get a +12 to Stealth (Dex) rolls made to lose 
+a tail or Piloting (Dex) rolls to make maneuvers in retreating.
+
+Wheelman:
+    
+    You have mastered the zen of the flow of vehicle combat. You don't just know
+when to break line of sight to avoid harm, but when to hold her steady so your
+teammates can light 'em up. You also have a concerning talent for ending enemy
+lives with the blunt force of your bumper.
+
+    Teammates firing from a vehicle that you are piloting get a +1 to accuracy
+rolls and negate any existing penalties from chaotic vehicle movement. If you
+attempt to make an attack by ramming, crashing, scraping or splattering, you 
+gain a +2 to hit with the attack roll and any damage to your vehicle from your
+attacks is reduced to three quarters. 
+
+    This Class Feat requires a Character to be level 10 and to have taken 
+Getaway Driver before they can take it.
+
+Boostin' Buggies:
+    
+    You have a deep familiarity with a variety of vehicle security systems and
+ignitions. 
+
+    You gain a +16 to skill checks with Slight of Hand(Dex), Hacking(Int), or
+Jury Rig (Dex) to start and control a vehicle that didn't have the keys in it
+or you're otherwise not authorized to start. Vehicles that you steal won't 
+trigger car alarms or other security measures.
+
+Drive it Like You Stole it:
+
+    You have the habit of disabling the governer along with the car alarm every
+time you steal a vehicle. Pushing the vehicle to its limits is really hard on it,
+but you're sure insurance will cover it, whomever it belongs to. 
+
+    When piloting a vehicle that you've rolled a skill check to start, you have
+the option to "Push It". Every time you Push It, the vehicle takes a small 
+amount of damage at your DM's discretion. Pushing It can have the following 
+effects.
+
+* move 15%-20% faster than max speed (round to the most convinient whole number)
+* add +16 to a piloting check to maneuver
+* deal an extra 25% - 30% damage during a ramming, crashing, scraping or splattering attack (round to most convinient whole number)
+
+    To take this feat, a Character must be level 10 and have taken the "Boostin' 
+Buggies" Class Feat.
+
+Extensive training <Vehicle>:
+
 	Your complete knowledge of <Vehicle> makes your operation of it seem easy. 
-	Add	25 to any check concerning your operation, knowledge, or maintenance of the 
-	vehicle.
-	|
-	|
-	V
-	You are THE guru across the holonets for <Vehicle>. Add 50 onto a pertinent 
-	roll about the vehicle.
-======================================
+Add	25 to any check concerning your operation, knowledge, or maintenance of the 
+vehicle. A suggested list of vehicles to chose from is below, but it is not
+exhaustive.
+
+* car/van/truck
+* tank
+* small boat
+* large watercraft
+* helicopter
+* starfighter
+* warship
+
+<Vehicle> Mastery:
+
+	You are THE guru across the galaxy for <Vehicles>. Add 50 onto a pertinent 
+roll about the vehicle.
 
 
 =====   HUNTER   =====
@@ -628,7 +706,7 @@ Class Primary Attribute: Dexterity
 Starting Wealth: $1975 + 100*Luck
 
 Passives:
-* No penalty for engaging in Grappling maneuvers.
+* The Assassin may make one additional Action when in a Grapple.
 * Gain Skill Weapons - Melee at 10
 * Gain Skill Stealth at 10
 * Gain Feat: Proficiency: Light Melee Weaponry.
@@ -679,8 +757,7 @@ damage while you are in cloaking and undetected by your target.
 Grapple Gremlin:
     
     While in a grapple that you control, you may use One-Handed melee weapons
-or pistols normally. While in a grapple that you control, you get two Actions
-instead of only one. Using a pistol to attack your grappled target uses hip fire
+or pistols normally. Using a pistol to attack your grappled target uses hip fire
 rules. When stealthily attacking an enemy in a grapple that you control, you get
 a + 24 to Stealth(dex) rolls to keep the attack quiet.
 
@@ -690,9 +767,7 @@ Grapple Ghost:
 you, you may make a Grappling Specific Action such as Shoving, Kicking, Disarm,
 etc with advantage as a reaction. Victims in a grapple that you control must
 pass a DC 80 Shock Save in order to make enough noise for your grapple to be
-detected. So long as you control the grapple, you may make up to Three Actions
-per turn, but at least one of them cannot be attacking the victim that you are
-grappling. 
+detected. 
 
     Grapple Ghost requires that a Character be level 10 and have taken Grapple
 Gremlin before taking it.
