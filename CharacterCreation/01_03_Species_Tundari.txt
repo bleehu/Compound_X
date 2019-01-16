@@ -128,12 +128,16 @@ your presence a secret.
 [You may Roll the Average on any Stealth check.]
 
 Prehensile Tail: 
-	You have spent a long time using your tail to do more than just communicate. You can
-grab onto items, use it to aid in climbing, or even hang from it. 
-[The tail has ½ the carrying capacity of an arm when upright and full carying capacity when
-hanging or dangling]
-	
-	Note: Tails cannot bear the hanging weight of a Large individual.
+	You have spent a long time using your tail to do more than just communicate. 
+You can grab onto items, use it to aid in climbing, or even hang from it. It's
+fuzzy and doesn't have any fingers on it, so you can't use it to do everything
+you could do with your hands. While strong enough to lift a weapon, your tail
+isn't strong enough to aim steadily and certainly couldn't lift a person on it's
+own.
+	You may roll advantage on Dex(Atheletics) checks and reload checks by using
+your extra limb to help. Once per encounter per enemy you may roll advantage on
+a combat maneuver. This comes from using your tail to trip, push, block, etc 
+against an enemy.
 
 Toothed: 
 	As a predatory species, you have the customary long teeth that frighten many. 
