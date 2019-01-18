@@ -132,9 +132,9 @@ Prehensile Tail:
 You can grab onto items, use it to aid in climbing, or even hang from it. It's
 fuzzy and doesn't have any fingers on it, so you can't use it to do everything
 you could do with your hands. While strong enough to lift a weapon, your tail
-isn't strong enough to aim steadily and certainly couldn't lift a person on it's
+isn't strong enough to aim steadily and certainly couldn't lift a person on its
 own.
-	You may roll advantage on Dex(Atheletics) checks and reload checks by using
+	You may roll advantage on Acrobatics (DEX) checks and reload checks by using
 your extra limb to help. Once per encounter per enemy you may roll advantage on
 a combat maneuver. This comes from using your tail to trip, push, block, etc 
 against an enemy.
