@@ -228,7 +228,7 @@ To hack, pass a DC 80 Hacking check.
 Road Flare ($15):
     A phosphorus red stick with a strike pad at the end. Will put off soft red 
 light for 5m in every direction for about an hour. Burns in rain, mud, even 
-burns underwater. Don't touch the end or you'll take 10 fire damage.
+burns underwater. Don't touch the end or you'll take 10 Thermal Damage.
 
 Datapad ($130):
 	A handheld device with a screen and keypad. Used to record

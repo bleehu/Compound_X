@@ -58,15 +58,16 @@ damage than others, while some characters are more resistant to it.
 	Electric damage is dealt first to shields, and then health. It bypasses 
 armor.
 
-Fire Damage:
-	Some damage is dealt with conflagrations or general combustion. While
-this damage usually leaves an ongoing burning effect, this damage type does not
-imply that simply by being Fire Damage. Please read a given attack or event 
-carefully to see if you are simply burned once, or have an ongoing effect as
-well. Some characters are more resistant to fire than others. Similarly, some
-armor in the game helps mitigate fire damage more effectively than others. 
+Thermal Damage:
+	Some damage is dealt with conflagrations, general combustion or extreme 
+cold. While this damage often leaves an ongoing burning effect, this damage 
+type does not imply that simply by being Thermal Damage. Please read a given 
+attack or event carefully to see if you are simply burned once, or have an 
+ongoing effect as well. Some characters are more resistant to Thermal Damage 
+than others. Similarly, some armor in the game helps mitigate Thermal Damage 
+more effectively than others as well. 
 
-	Fire damage is dealt first to shields, then armor, and then health.
+	Thermal damage is dealt first to shields, then armor, and then health.
 
 Acid Damage:
 	Some damage is dealt when a substance of a significantly different PH balance
