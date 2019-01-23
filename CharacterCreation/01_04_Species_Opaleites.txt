@@ -171,5 +171,7 @@ Bioluminesce
    
 Deep Glow
 
-   [Light a 10m area around you with a dim light. +1 to enemies
-   trying to hit you]
+   The Sea Devil has bioluminescent glands spread all over its body. When activated, 
+they cause it to glow a steady blue light. The light illuminates a 10m area around 
+the Opaleite. The glow emitted from the Sea Devil makes it an easier target when
+activated. Enemies recieve a +1 to hit.
