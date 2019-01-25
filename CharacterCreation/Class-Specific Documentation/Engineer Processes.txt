@@ -667,8 +667,8 @@ Pwn DC:				70
     Cerberus attack drones are large, heavily armored and armed battlefield 
 behemoths that move slowly but pack a nasty bite. Powered by an uberfuel that 
 tends to explode in a 3m radius when destroyed. Any entity caught in the blast
-takes 3 burn tokens and 50 fire damage. They move slowly and have trouble with 
-stairs, but their turret can quickly turn and fire. See the table below for 
+takes 3 burn tokens and 50 Thermal Damage. They move slowly and have trouble 
+with stairs, but their turret can quickly turn and fire. See the table below for 
 stats on the armor of the drone when built by Engineers of different levels. 
 One anti-vehicle hit will down them however. The Cerberus is large enough for a 
 player to take partial cover behind. See the table below for stats on the main
@@ -853,7 +853,7 @@ Construction Cost:  30 Energy, 30 Material, 1 Munitions
 Build Time:         3 Actions
 Modular I/O Ports:  Uses 2 Ports
 Ammo:               Holds 4 units of 2 Liters of Naphitic Gel.
-Damage:             75 Fire Damage
+Damage:             75 Thermal Damage
 Suppression Level:  Medium
 
 +-------+-----+-----+-----+
