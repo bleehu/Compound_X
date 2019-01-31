@@ -32,7 +32,7 @@ Engineer processes; i.e., a Gunslinger who buys an extruder can't construct
 IEDs with it.
 
 3D image builder, Static ($650):
-    A 3m^3 framework that will build a rudimentary  3d image of whatever is 
+    A 3m^3 framework that will build a rudimentary 3d image of whatever is 
 inside it, exportable to a portable device.
 
 3D image builder, Portable ($800):
@@ -46,17 +46,17 @@ resistance to and faster healing from disease and injury. Characters with a
 nanite booster shot gain +10 to Shock saves and benefit from faster healing 
 during Short Rests (see Resting in the Basic Rules).
 	Additional boosters after the first have no effect. A booster shot 
-may be upgraded to a full unit (see below) at a cost of $700.
+may be upgraded to a Medical Nanites Unit (see below) at a cost of $700.
 	
 Medical Nanites Unit ($1000):
 	One unit of Medical Nanites. Having at least one unit of Medical Nanites 
 provides all the benefits of a booster shot (see above), with even more potent 
 rest healing. Additionally, full units of medical nanites can be harnessed to 
 execute Active Feats (see Feats in the Basic Rules).
-	Additional units after the first do not provide more healing or save 
-bonus, but may be used to execute more active feats in shorter time frames. The 
-number of Units a character can have at once is related to their level, see the 
-leveling table.
+	Additional units after the first do not provide more healing or increase 
+the save bonus, but may be used to execute more active feats in shorter time 
+frames. The maximum number of Units a character can have at once is related to 
+their level - see the leveling table.
 
 ==============================
 Wearables
