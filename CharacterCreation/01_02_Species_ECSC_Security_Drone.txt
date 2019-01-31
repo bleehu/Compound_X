@@ -100,11 +100,11 @@ specialty drone armor sets.
 
 Inhuman Strength:
     Built specifically for lifting and holing great weights, you are far 
-stronger than your biological counterparts. Your systems store excess energy in
-your nanite pool, which you can direct and discharge when the situation demands 
-it. 
-[Any time you make a Strength or Athletics(STR) check, you may pay 10 nanites 
-before you roll to give yourself a +10 bonus to the roll.]
+stronger than your biological counterparts. Your systems store excess energy, 
+which you can harness to temporarily empower your motor systems.
+[You have a built-in battery that stores 10 Energy and fully recharges after 
+a Long Rest. Any time you make a Strength-based skill check, you may pay 10 
+Energy before you roll to give yourself a +10 bonus.]
 
 Infrared Optical Sensor:
     Many Security Drones have built in IR filters for their optical sensors. 
