@@ -54,7 +54,9 @@ provides all the benefits of a booster shot (see above), with even more potent
 rest healing. Additionally, full units of medical nanites can be harnessed to 
 execute Active Feats (see Feats in the Basic Rules).
 	Additional units after the first do not provide more healing or save 
-bonus, but may be used to execute more active feats in shorter time frames.
+bonus, but may be used to execute more active feats in shorter time frames. The 
+number of Units a character can have at once is related to their level, see the 
+leveling table.
 
 ==============================
 Wearables
