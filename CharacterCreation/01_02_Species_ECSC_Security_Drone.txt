@@ -99,7 +99,7 @@ specialty drone armor sets.
 [Access to ECSC Special Drone Armor]
 
 Inhuman Strength:
-    Built specifically for lifting and holing great weights, you are far 
+    Built specifically for lifting and holding great weights, you are far 
 stronger than your biological counterparts. Your systems store excess energy, 
 which you can harness to temporarily empower your motor systems.
 [You have a built-in battery that stores 10 Energy and fully recharges after 
