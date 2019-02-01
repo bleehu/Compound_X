@@ -163,7 +163,7 @@ hours.
 a -50 penalty to skill checks involving operating heavy machinery, driving, or flying. 
 The character takes a temporary -2 penalty to Dexterity, Perception and Charisma. If the 
 character's level of intoxication increases while Hammered, that character blacks out and
-is Stunned for two hours or until the Condition is otherwise healed. As long as a character
+becomes Unconscious for two hours or until the Condition is otherwise healed. As long as a character
 doesn't black out, the character's level of intoxication will reduce to Buzzed after two hours.
 
 == Stunned/Paralyzed ==
@@ -171,3 +171,11 @@ doesn't black out, the character's level of intoxication will reduce to Buzzed a
     A Stunned or Paralyzed target cannot take actions for the duration of the
 Condition. The DC of the Saving Throw to end the Condition should be listed on
 the source of the Stun or Paralysis.
+
+== Unconscious ==
+
+     An Unconscious character cannot take actions for the duration of the Condition,
+except to roll Saving Throws against the cause of the Condition. In addition, the
+character automatically drops prone and releases their grip on any objects. The DC
+of the Saving Throw to end the Condition, if any, should be listed on the source of
+the unconsciousness.
