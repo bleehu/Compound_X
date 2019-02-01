@@ -171,3 +171,11 @@ two hours.
     A Stunned or Paralyzed target cannot take actions for the duration of the
 Condition. The DC of the Saving Throw to end the Condition should be listed on
 the source of the stun or paralysis.
+
+== Unconscious ==
+
+    An Unconscious character cannot take actions for the duration of the Condition,
+except to roll Saving Throws against the cause of the Condition. In addition, the
+character automatically drops prone and releases their grip on any objects. The DC
+of the Saving Throw to end the Condition, if any, should be listed on the source of
+the unconsciousness.
