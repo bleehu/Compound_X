@@ -5,16 +5,16 @@ Combat
 
 	Combat starts when either you or an enemy decides they would like to make an 
 attack (or as the GM decrees). At that point, all involved characters roll 
-Initiative to determine the order in which they take turns. Initiative is a d100 roll 
-that is modified only by Soldier class passive abilities, and higher numbers go 
-first. The section "Actions", below, has more detail on turns in combat.
+Initiative to determine the order in which they take turns. Initiative is a d100 
+roll that is modified only by Soldier class passive abilities, and higher numbers 
+go first. The section "Actions", below, has more detail on turns in combat.
 
 ===== Combat Stat Modifiers for Ranged and Melee Accuracy =====
 
 	These bonuses use a table instead of the more general attribute modifier 
-equation, as combat accuracy rolls are played out on a d10 scale. As described below, 
-under normal conditions, ranged combat uses the Perception combat modifier, while 
-melee combat uses Strength, Dexterity, and Fortitude.
+equation, as combat accuracy rolls are played out on a d10 scale. Under normal 
+conditions ranged combat uses the Perception combat modifier as described below. 
+Melee combat uses Strength, Dexterity, and Fortitude.
 
 == Combat Stat Modifier Table ==
 
@@ -45,7 +45,7 @@ melee combat uses Strength, Dexterity, and Fortitude.
 	Drop any remaining decimal (0.5 or -0.5 becomes 0) -in other words- only use 
 integers when you are writing down the final miss chances of your weapon(s). For 
 example, let's say you have a basic SMG with miss chance brackets of 4, 5, and 6. 
-Assuming you have 6 Perception,your PER bonus is 0.5 and thus, your gun's range 
+Assuming you have 6 Perception, your PER bonus is 0.5 and thus, your gun's range 
 miss chance brackets are:
 
 	(4 - 0.5), (5 - 0.5), (6 - 0.5)  =  3.5, 4.5, 5.5
@@ -151,7 +151,7 @@ though no Skill check applies to these attacks and blocks.
 +-----------------+-----------------------------------------+
 | CQB Guns        | +1                                      |
 +-----------------+-----------------------------------------+
-| Non-CQB Guns    | -1                                      |
+| Non-CQB Guns    | As Improvised Melee Weapons             |
 +-----------------+-----------------------------------------+
 | Delicate Tools* | -2                                      |
 +-----------------+-----------------------------------------+
@@ -186,6 +186,57 @@ and becomes Unconscious (and does not gain the Bleeding Out condition).
 	A target reduced to exactly 1 health by a nonlethal attack does not 
 fall Unconscious. 1 is not 0.
 
+Melee Accuracy and Guard Critical Hits:
+	See "Critical Hits" below for general Critical information. Melee Critical 
+hits deal extra damage as normal. Critical Guard rolls block all damage from any 
+non-Extra-critical melee attack. Extra-critical Guard rolls block all damage from 
+the incoming attack. 
+
+	Melee Accuracy rolls may Critically fail in the same way as firearms. 
+Unless otherwise specified, melee weapons have a Jam range of 2. Should your 
+melee weapon "jam", it catches on something in the environment at the DM's 
+discretion, if applicable, and is stuck. Unsticking the weapon requires a 
+Weapons - Melee check, as a firearm would require the appropriate 
+Weapons - [X] check. If you pass the DC by at least 30 you do not provoke an 
+Opportunity Attack. If nothing is available for the weapon to get stuck in, 
+it is instead dropped. You will always succeed in picking up a dropped weapon 
+if it is within reach, and may still use the skill check to attempt to avoid 
+an Opportunity Attack while doing so.
+
+	When using a firearm as an improvised weapon, if you Critically fail an 
+accuracy check and the weapon is loaded (and cocked, if a single-shot pistol or 
+bolt-action rifle), then instead of becoming stuck or dropped the weapon 
+accidentally discharges. Roll 1d10. On a 3-10, the shot travels in a random 
+direction, striking the first valid target in its path within its range. The 
+target may avoid taking damage by succeeding on a DC 110 Reflex Save. On a 1-2, 
+the bullet strikes you, hitting armor if applicable. In either case, you must 
+pass a DC 40 Reflex save to avoid dropping the firearm. This DC increases to 80 
+if you took damage from the accidental discharge.
+
+	Shooting yourself as a result of critical failure does not make use of 
+the Shooting into a Melee rule, unless you are sharing the same square as 
+another character, such as during a grapple.
+
+	Guard rolls can never Critically fail. Rolling a 1 on a Guard check 
+has no special meaning.
+
+== Improvised Melee Weapons ==
+
+	Sometimes you just need to smack somebody with whatever is 
+available. When using an object not intended as a melee weapon to make a 
+melee attack, use the stats from the improvised melee weapon of the most 
+appropriate size: light, one-handed, or two-handed.
+
+	Generally speaking, objects that fit in one hand, like pistols, beer 
+mugs, improvised knuckles, and objects of similar size, are considered Light. 
+SMGs, table legs, lengths of cable, most kitchenware, and the like would be 
+One-handed. Heavier objects like every other class of firearm, chairs, or 2x4s 
+are Two-handed.
+
+	Improvised Light or One-handed weapons may be thrown up to 5 meters, and 
+Two-handed ones may be thrown up to 3, though both suffer an additional -2 
+Accuracy. Their damage when thrown is the same as when used for melee strikes.
+
 == Combat Maneuvers ==
 
 	In addition to smashing an opponent directly, there are other offensive 
@@ -205,6 +256,11 @@ rolls STR-Athletics, and the defender rolls his or her choice of STR-Athletics
 or DEX-Acrobatics. Initiating a grapple, shove, trip, etc. is mostly a matter 
 of brute strength, but such attempts may be opposed strength for strength or 
 dodged by superior agility.
+
+	Similarly to Guard rolls, critical successes always defeat rolls of 
+a lesser critical status and resolve normally against rolls of the same 
+critical status. At the DM's discretion, where applicable, melee accuracy 
+critical failure rules may apply to maneuver checks.
 
 Grappling:
 	Grappling is a maneuver where a character physically grabs another, 
@@ -226,11 +282,12 @@ effect weapons like flamethrowers and buckshot always evenly divide their damage
 among the grappled characters.
 
 	While in the grappled state, the characters are limited in the actions 
-they can take, can only target each other, and may use only one Action per round. 
-The character with control of the grapple may make Unarmed Strikes, use other 
-combat maneuvers, attempt to Pin, or disengage. The character without control 
-may make Unarmed Strikes, attempt to disengage, or attempt to gain control. 
-Each effort takes one Action.
+they can take and can only target each other. The character with control of the 
+grapple may make Unarmed Strikes, use other combat maneuvers, attempt to Pin, or 
+disengage. The character without control may make Unarmed Strikes, attempt to 
+disengage, or attempt to gain control. Each attempt takes one Action. While in a 
+grapple, the character in control may make 3 Actions per round, the character
+that is not in control may make 2. 
 
 	While in the Pinned state, a character may only attempt to disengage, and 
 success will return the character to the grappled state, without control, instead 
@@ -288,7 +345,7 @@ Disadvantage on the check if they do not have proficiency with the targeted item
 of the appropriate size). If the attacker wins, the defender is forced to drop the 
 targeted object.
 
-===== MELEE WEAPONS & UNARMED FIGHTING =====
+===== Melee Weapons & Unarmed Fighting =====
 
 	These weapons/attacks use an 'Accuracy Modifier' instead of
 a 'Miss Chance', which is added to your combat dex modifier and
@@ -299,7 +356,7 @@ stated.
 	Melee weapons come in one of four size categories. The first 
 three are Light, One-handed, and Two-handed. Characters start 
 with proficiency with some number of these based on their class. The 
-fifth category is Exotic. Acquiring proficiency with Exotic weapons does 
+fourth category is Exotic. Acquiring proficiency with Exotic weapons does 
 not grant access to all Exotic weapons, but rather to a particular type, 
 such as whips. Exotic proficiencies may rarely be granted by Backgrounds, 
 and are more commonly acquired by feats.
@@ -444,25 +501,35 @@ You can jump vertically Str/3 meters.
 ===== Other Combat Details =====
 
 Critical Hits:
-	Critical Hits are accuracy rolls that land inside your Critical Hit range 
-(aka. critical chance). The base critical hit range is 1, meaning an Accuracy roll of 
-10 is a critical hit. Luck modifies your critical hit range: (Luck Modifier/10), round 
-down, is added to your critical hit range. Therefore if you have a Luck stat 
-of 8, corresponding to a Luck Modifier of 12, then you would have +1 to your 
-critical hit range and would critically hit on rolls of 9-10. Negative Luck modifiers 
-do not reduce Critical Hit range.
 
-	When your Accuracy roll lands in the upper half of your Critical Hit range,
-it is referred to as an Extra-Critical Hit. When the range is odd, it may be necessary 
-to roll a confirmation D10 to determine which kind of crit you score. Example: If you 
-have a Critical range of 1 and roll a 10, you would roll another D10 and score a 
-Critical hit on 1-5 or an Extra-Critical on 6-10.
+	When you perform an Accuracy Roll (while not firing a gun in burst or 
+automatic mode), you may roll high enough to use your Critical Hit Chance. 
+Critical Hit Chance is based on your Luck Stat, but can also be modified by 
+abilities, weapons, attachments, etc. 
+	If your Accuracy Roll is high enough, you activate your Critical Hit Chance.
+When this happens, you roll a second d10 to determine if you have landed a Critical 
+Hit, an Extra-Critical Hit, or, if you have less than average Luck, merely hit your enemy. 
 
-	Regular Critical Hits deal +20 damage, while Extra-Criticals deal +30 damage. 
-Some abilities or feats have additional effects that trigger when you score Criticals 
-or Extra-Criticals.
+	A Critical Hit deals +20 damage and an Extra-Critical Hit deals +30 damage. 
 
-	You cannot score Critical Hits while firing a gun in burst or automatic mode.
+	Some abilities or feats have additional effects that trigger when you land
+Critical or Extra-Critical Hits. 
+
+
++------------+------------------------+--------------------+-------------------------+
+| Luck Stat  | Accuracy Roll Required | Critical Hit Roll  | Extra Critical Hit Roll |
++------------+------------------------+--------------------+-------------------------+
+| 1 - 3      | 10                     | 6 - 10             | n/a                     |
++------------+------------------------+--------------------+-------------------------+
+| 4 - 6      | 10                     | 1 - 5              | 6 - 10                  |
++------------+------------------------+--------------------+-------------------------+
+| 7 - 10     | 9-10                   | 1 - 5              | 6 - 10                  |
++------------+------------------------+--------------------+-------------------------+
+| 11+        | 8-10                   | 1 - 5              | 6 - 10                  |
++------------+------------------------+--------------------+-------------------------+
+
+
+
 
 Armor and Getting Hit:
 	When a player is defending against a successful enemy hit, they roll 
@@ -528,11 +595,11 @@ other thrown weapons) have -1 miss chance to hit if 'adequate' aiming time is
 given (DM's discretion: how rushed you are, or how skilled you are at stealth, 
 etc). Ranged weapon stealth-attacks gain +20 bonus damage.
 
-	If you stealth-attack a target in melee, your target has a guard DC of 0. As
-normal (see section, "melee combat"), if you roll 3+ above your miss chance (3+ above
-the opponent's guard DC), you ignore the opponent's armor and deal full damage.
-This signifies that the target gets hit in whatever you deem to be the most vulnerable;
-i.e., the head, neck, or the chest (over the heart, etc). 
+	If you stealth-attack a target in melee, your target has a Guard of 0. As
+normal (see section, "Melee Combat"), if you roll 3+ above the opponent's Guard, 
+you ignore the opponent's armor and deal full damage. This signifies that the 
+target gets hit in whatever you deem to be the most vulnerable; i.e., the head, 
+neck, or the chest (over the heart, etc). 
 
 *Base Damage is typically the damage of the weapon without any other character 
 bonuses, but Base Damage can be increased by certain classes and abilities.
@@ -540,9 +607,8 @@ bonuses, but Base Damage can be increased by certain classes and abilities.
 **Increases to 200 max damage at level 10.
 
 Flanking:
-	If you are behind a target, aka flanking, your melee attacks gain +2 bonus 
-accuracy against their Guard DC. (Ranged attacks don't gain a specific bonus 
-from flanking.)
+	If you are behind a target, aka flanking, your melee Accuracy rolls gain a +2 
+bonus. Ranged attacks don't gain a specific bonus from flanking.
 
 ===== Ranged Combat =====
 
@@ -609,10 +675,20 @@ miss chance. Lets say your normal ranged miss chance is 2, and the enemy is in
 full cover, your miss chance is increased by 4, for a final DC of 6. So a roll 
 of 7-10 would be successful.
 
+== Automatic Firing ==
+
+	When rolling for automatic fire, players must roll one d10 for each bullet 
+fired unless otherwise noted. All dice are rolled at the same time, to keep the game
+moving quickly. The dice are read from left to right, and the player cannot switch
+the order that the dice fell in. For any roll that has the potential to be a jam, 
+roll the second d10 for it before rolling the next automatic-fire d10. If the roll 
+causes a jam, the rest of the automatic-fire d10s are not used. 
+
 == Gun Jams ==
-	If at any time that you are firing a gun and you roll a weapon accuracy of 1,
-roll a second d10. If that second d10 roll is a 1 or 2, the weapon Jams, 
-necessitating a Weapon - [X] Skill check, DC 60.
+	If at any time that you are firing a gun and you roll 1 on an accuracy roll,
+roll a second d10. If that second d10 roll is equal to or less than the weapon's Jam 
+Range, the weapon jams, necessitating a Weapon - [X] Skill check, DC 60 that takes 
+one Action before the weapon can be fired again.
 
 == Hip Firing ==
 
@@ -672,9 +748,9 @@ sprint or use other movement abilities.
 
 	Going prone costs 1 Action, and standing up costs 1 Action. Lying flat down on
 your chest makes you a smaller target and helps you aim better, but also makes you
-easier to hit in melee. -1 gun miss chance while prone and -2 melee Guard DC. Being
-prone severely limits your movement: 1/2 movement speed while prone, round-up; maximum
-2 movement per action.
+easier to hit in melee. You gain +1 Accuracy with firearms while prone but suffer -2 to 
+Guard checks. Being prone severely limits your movement: 1/2 movement speed while prone, 
+round-up; maximum 2 movement per action.
 
 	Hunkering costs 1 action, and you cannot fire your weapons except by blind-fire 
 (see Blind Firing, above). Imagine curling up in a ball, to pose the absolute smallest
@@ -750,14 +826,15 @@ Immediate reactions are stackable on a per-weapon basis.
 
 	Identical to light suppression with the following exceptions, you must fire 
 6 rounds from the current magazine to achieve 'moderate', and you don't have to 
-roll to hit -- you automatically hit and roll armor.
+roll to hit -- you automatically hit with one attack. Medium suppression always 
+hits armor if applicable.
 
 == Heavy Suppression ==
 
 	Identical to light suppression with the following exceptions: you must fire 
 10 rounds from the current magazine to achieve 'heavy', you don't have to roll 
-to hit -- you automatically hit x2 and roll for armor. You suppress all targets 
-within a 2m radius AOE around the primary target.
+to hit -- you automatically hit with two attacks. Heavy suppression always hits 
+armor. You also suppress all targets within a 2m radius AOE around the primary target.
 
 **"Moving out into the open" includes moving into a new location while you can
 be hit by shots from the suppressor (this excludes moving into complete concealment,
@@ -923,3 +1000,131 @@ retrieve a dropped weapon or stand back up if they have fallen.
 instantly. Some examples are falling several stories, lava baptisms,
 or having a space station dropped on you. Do not do these things. They are
 also known to the state of California to cause cancer. 
+
+==============================
+Stacking Up and Clearing Rooms
+==============================
+
+    Your character will frequently encounter rooms full of enemies. One common
+tactic for safely entering a defended room and neutralizing all of the threats 
+in it is for the attacking team to line up outside of the entry way and violently 
+enter the room all at once. That way you can bring to bear all of the lethal 
+talent of your team all at once rather than entering the "fatal funnel" at a 
+more vulnerable cadence. The process of lining up and waiting for everyone on 
+the team to be ready to run in is called "stacking up." The act of entering the 
+room in this manner is called "breaching," and the subsequent sweep of a room is 
+called "clearing (a room)." The act of systematically repeating this process on 
+every room in a structure is called "clearing a building." 
+
+    What constitutes a "room" that can be breached and cleared is ultimately
+up to your DM, but usually a room that can be cleared is smaller than 20m by
+20 meters and has a discrete number of entry points. For example, a spaceship
+hangar that is 35m by 18m and has a service door on either side when the hangar
+door is shut would allow for stacking up with the DM's permission. That same 
+hangar with the hangar door open would need to be maneuvered into and fought 
+over normally since the hangar door is most of one of its walls. Another example
+would be that an open-air pagoda probably wouldn't be breach-able because it 
+lacks any door to stack up on and has no walls.
+
+    What constitutes an "entry point" is also up to the DM. These are usually
+unlocked doorways, but can also be skylights to rappel from, windows large 
+enough to step through once smashed, or chunks of wall that have been blown up.
+An area cannot be an entry point if it cannot be moved through by the character
+stacked up on it at the time of the breach. A character can only stack up on an
+entry point to a room.
+
+    In Compound X, the process of clearing a room follows the three steps listed 
+below.
+
+1. Stacking up
+2. Breaching
+3. Clearing
+
+===== Stacking Up ===== 
+
+    Characters can join a stack up line on any time during their turn. Doing so
+immediately ends their turn and the rest of their actions are considered held
+for use during clearing. When a character stacks up, they must indicate exactly
+one entry point that they will use during the breach. If there is any ambiguity,
+they must indicate which room they will storm when the breach occurs. Which room
+you are breaching is usually obvious; it's the room on the other side of the 
+entry point from where your character is stacking up. On the rare occasion that
+one door leads to more than one room, a single room must be designated for 
+clearing. You cannot breach and clear a room that is not attached to the entry
+point that you stacked up on. 
+
+    If your turn starts and you are already stacked up, you may either leave the
+line of the stack up and take your turn normally, or skip your turn to remain in
+the stack up line. If you skip your turn in this manner, you will have the same
+number of actions during clearing as you would if you stacked up as the first
+act of your turn. Stacking up is a Free Action if you are already standing by 
+the entry point, or as many Actions as it takes to move to the entry point 
+otherwise.
+
+    Any number of characters can stack up on a given entry point. The order of
+the characters in the lineup is important. Players can chose any position in the
+stackup order that hasn't yet been taken at the time that they declare their 
+character will stack up. So the first character to stack up could choose to get
+in the middle of the line, and the second character to use their turn to stack
+up could stack up in front if they so chose.  
+
+===== Breaching =====
+
+    Any time a character joins the stack up line, the character in the lead of
+the stack may call "breach!" At that time, regular initiative order is 
+interrupted, and the breach and clear phases occur during the turn of the 
+character who just got in line. After the clearing has resolved, play resumes
+after that character's turn.
+
+    Some weapons, tools or gadgets are commonly used during a breach maneuver.
+Examples include breaching charges, tear gas or flashbangs. If these are used,
+they take effect first in the breach. Keep in mind that a character using such
+a device will need a free hand to do so, and may need to spend one of their 
+clearing actions to re-draw their weapon. As such, devices are usually used by
+the characters in the 3rd or 4th positions.
+
+    Some rooms are defended with booby traps. In the case that a room or entry
+point has such perils, they take effect second. 
+
+    While devices are being resolved, all attackers and defenders roll a reflex
+save to determine the order of combat during the clearing phase. If the 
+defenders were unaware of the impending breach, then they roll reflex with a
+disadvantage and the attackers roll reflex with advantage.
+
+*Breaching Roll = Reflex Save + Weapon Reflex Mod + any mod from feats
+
+===== Clearing =====
+
+    Players take their turn in decending order of breaching roll. In other words,
+The character with the highest net reflex roll goes first, the character with 
+the lowest reflex goes last. Characters on the attacking team (the team that 
+stacked up) must use an Action to move from their position in the stack line
+before they can fire or perform melee attacks. Characters on the attacking team
+can take cover at the entry point that they were stacked up on, but doing so 
+will block the entry point and prevent another character from moving through or 
+firing at targets past that character.
+
+    The Clearing phase ends when either all members of one team in the room can 
+no longer fight or the breaching order has been exhausted. Play resumes as 
+normal after the turn of the last character to stack up after that.
+
+===== Interrupting a Stackup =====
+
+    If an enemy approaches or attacks one of the characters in a stack up line
+after they have stacked up but before the lead character has called "breach!",
+then all of the characters in the stack up are no longer considered to be 
+stacked up. Instead, they may use one held action as immediate reaction in
+initative order, followed by a 'Hit the Dirt' as described above.  After that 
+they must wait until their next turn to stack back up.
+
+===== Simultaneous Breaches ======
+
+    If more than one entry point leads to the same room, it is possible to 
+include all characters stacked up on those entry points in the same 
+breach-and-clear event. In order for more than one entry point to be 
+simultaneously breached, the characters stacked up on each must be able to see
+each other and/or hear each other (i.e. have radios or another means of remote
+communication). To prevent complicating the game, play resolves one breached 
+room at a time. Two rooms can be breached in synch with each other, but the DM
+will pick which room to play first and will resolve the other at the end of the
+first room's clearing phase.

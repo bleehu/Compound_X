@@ -3,11 +3,6 @@ Notes
 ==============================
 
     This document lists the feats available to characters in Compound X.
-Feats may be taken on every even level as described in the Basic
-Rules document. Passive feats are used freely with no limit
-(unless otherwise stated) while active feats require the user to
-spend some Nanites, which is specified next to the feat's name.
-Unless otherwise specified, you cannot take a feat more than once.
 
 ==============================
 Passive Feats
@@ -269,8 +264,8 @@ rolls dealing with using a weapon.
 Prerequisites:
 *  Melee Expertise
 
-	The benefits of the Melee Expertise feat now also apply to Improvised Melee 
-Weapons.
+	The benefits of the Melee Expertise and Thrown Expertise feats now also 
+apply to Improvised Melee and Thrown Weapons, respectively.
 
 == Improvise Weapon ==
 Prerequisites:
@@ -499,9 +494,9 @@ Prerequisites:
 
 *  Pilot or 10 Vehicles - Space skill
 
-	You've been up in the black more times than you can count. You get a +15% to
-maintaining your bearings during a hyperspace jump as well as a +15% to stellar
-navigation.
+	You've been up in the black more times than you can count. Add 15 to Saving
+Throws to maintain your bearings during a hyperspace jump and gain 15 Skill Points
+in Navigation - Space.
 
 == Signature Move ==
 Prerequisites:
@@ -717,19 +712,6 @@ now working with. This feat can only be taken once per weapon.
 ==============================
 Weapon Expertise Feats:					
 ==============================
-		
-	These feats represent dedicated training with a particular class of weapon, 
-and offer bonuses based on the relevant Weapons skill (Weapon skills are listed 
-in "06_Skills.txt"). Each feat offers a set of bonuses related to using that type of 
-weapon (and only that type of weapon), and each bonus requires the character to have 
-a number of points in the relevant Weapon skill. A character with 0 points in 
-Weapons - Pistols would gain only one benefit, while 60 points would benefit from 
-them all. The feats are formatted as a list of "X: Benefit", where X is the number of 
-points required in the corresponding Weapon skill to gain the benefit.
-	
-	Weapon Expertise feats require proficiency with the weapon type, but otherwise 
-have no prerequisites. Note that as all characters are proficient with Unarmed Strike, 
-Melee Expertise effectively has no prerequisite.
 
 == Pistol Expertise ==	
 
@@ -836,8 +818,8 @@ Melee Expertise effectively has no prerequisite.
 24:	Heavy weapons no longer recieve the Accuracy penalty associated 
 	with being improvised melee weapons while being used as melee weapons
 	(They still receive a Guard penalty).
-36:	+1 Accuracy against targets when your weapon's APL is at least 1 greater 
-	than the target's armor's APL.
+36:	+1 Accuracy to consecutive firing Actions after the first (non-stacking) and 
+	to attacks triggered by Suppression Actions.
 48:	+10m to Range R3.
 60:	Machine Guns when autofiring, Flamethrowers, Lightning Guns, Antimaterial 
 	Guns firing explosive shot, etc. can be fired at 1m radius areas instead 
@@ -867,9 +849,9 @@ other weapons or class abilities. Does apply to Engineer mortars.
 
 == Melee Expertise ==
 
-	Applies to Melee Weapons that the user has Proficiency with and to Unarmed Strike. 
-Does not apply to Improvised weapons. Reminder: these bonuses are only in effect while 
-you are wielding an appropriate weapon.
+	Applies to melee weapons that the user has Proficiency with and to Unarmed Strike. 
+Does not apply to Improvised weapons. Reminder: combat-related bonuses are only in effect 
+while you are wielding an appropriate weapon.
 
 0:	+1 Move Speed while using the Charge action with intent to engage an enemy in 
 	Melee Combat.
@@ -890,7 +872,32 @@ you are wielding an appropriate weapon.
 	unarmed targets).
 60:	+10% Base damage. Gain +0.5 Critical Hit range whenever you hit an enemy but
 	do not score a Critical Hit. This bonus resets if you score a Critical Hit, 
-	are stunned, or spend 1 round out of Melee Combat.
+	are stunned or knocked prone, or spend 1 round out of Melee Combat.
+
+== Thrown Expertise ==
+
+	Applies to throwing weapons and large-projectile weapons like bows, javelins, 
+and harpoon launchers that the user has proficiency with. Does not apply to Improvised 
+throwing weapons.
+
+0:	+5m to ranges R1 and R2.
+12:	May use Weapons - Thrown in place of Perform (Dex) when making displays of 
+	juggling or other performances that involve throwing as an important component.
+24:	When attacking with throwing weapons, before rolling Accuracy, you may declare the 
+	attack to be Disabling. Such attacks deal one third damage, but if they damage 
+	health then the projectile lodges in the target's armor or person. Characters 
+	take 2d10 damage of the weapon's damage type for each lodged projectile whenever 
+	they spend more than 2 Actions moving (including crouching/standing, but not 
+	attacking) in a single turn. Up to two lodged projectiles may be removed as an 
+	Action.
+36:	When attacking an armored target at range, their armor has 10 less coverage 
+	against your attacks.
+	/* When attacking an armored target at range, their armor coverage range is 
+	reduced by 1 {Static Armor} */
+48:	+10m to throwing weapons' farthest range bracket.
+60:	+10% Base damage. If you spend at least 2 Actions making ranged attacks with 
+	a throwing weapon in a single turn, you may make an additional attack with 
+	a similar throwing weapon as a Reaction.
 
 ==============================
 Active Feats

@@ -2,6 +2,10 @@
 Tools
 ==============================
 
+Dog Toy ($20):
+    This brightly colored rubber ball is available in both the squeaking and 
+not-squeaking varieties. Very Bouncy and great for tricks like fetch.
+
 Plasma cutter / Blow Torch ($450):
     Cut through steel, aluminum, etc unless it is specifically a hardened 
 object. Cut through up to 1 inch of steel in 2 full turns, 2 inches in 3 full 
@@ -19,6 +23,18 @@ Fishing Pole ($120):
     A sturdy, 2m long fiberglass fishing pole with a reel, fishing line and a
 sharp hook. Bait not included. An expert angler could potentially cast this out
 to 6 meters.  
+
+Fire Extinguisher ($115):
+	A handheld cylindrical trigger-based vessel with two mag slots, 
+one for a pressurized fire suppressing agent and one for a pressurized 
+propellant. Can be used to put out sources of fire and has a range of 
+4m. Requires both hands to operate. Not recommended for use on anything 
+other than a fire. Comes with one Extinguisher Magazine set already loaded.
+
+Extinguisher Magazine Set ($40):
+	A set of two magazines for the Fire Extinguisher; one
+of fire suppressant and one of propellant. One set can cover 15m total 
+when used in the extunguisher.
 
 Pneumatic Door Press ($700):
     Opens sliding, pneumatically controlled doors up to Militarized Level 
@@ -66,6 +82,12 @@ batches of nanites identify each other as foreign invaders and wreak havoc.
 Wearables
 ==============================
 
+Dog Harness ($45):
+    This harness comes with up to 18 characters of monogram and a micro
+chip that helps you find your dog if it runs away. The harness itself is 
+lightweight and a little bit stretchy to prevent irritating the wearer. Also
+comes with a 3m leash. 
+
 Night Vision Goggles ($300):
     IR visibility for low light conditions. Resolution clouds after 100m.
 
@@ -105,6 +127,10 @@ wearing any helmets or other sizeable headgear.
 ==============================
 Consumables
 ==============================
+
+Dog Food ($18):
+    A can of preserved wet dog food with easy-open tab. High in protein and 
+vitamins for a healthy growing pup. One can will feed a dog for a day. 
 
 Door Brute-Forcer ($120):
     Hacks through the encryption on a door (up to 75 DC) and opens it. Single 
@@ -226,7 +252,7 @@ To hack, pass a DC 80 Hacking check.
 Road Flare ($15):
     A phosphorus red stick with a strike pad at the end. Will put off soft red 
 light for 5m in every direction for about an hour. Burns in rain, mud, even 
-burns underwater. Don't touch the end or you'll take 10 fire damage.
+burns underwater. Don't touch the end or you'll take 10 Thermal Damage.
 
 Datapad ($130):
 	A handheld device with a screen and keypad. Used to record

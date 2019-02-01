@@ -1,40 +1,69 @@
 ==============================
-MELEE & THROWN WEAPONS
-==============================
-
-	These are the melee and throwing weapons available for sale around most of
-the galaxy.
-
-==============================
-UNARMED
+Unarmed Strike
 ==============================
 
 == Unarmed Strike ==
 
-Damage: 20 + STR mod + DEX mod, minimum 10
+Damage: 20 + STR mod + DEX mod Ballistic, minimum 10
 Range: Adjacent (1m)
 Accuracy Modifier: 0
 
+	Some species may have anatomies that allow for exotic damage types, 
+like Electric or Internal, on their Unarmed Strikes. DM discretion applies.
+
 ==============================
-MELEE WEAPONS
+Improvised Weapons
 ==============================
 
-===== LEVEL 1 REQUIREMENT WEAPONS =====
+== Improvised Light Weapon ==
 
-== Eliazar Plasma Torch $240 ==
+Damage: 30 + STR mod + DEX mod Ballistic, minimum 10
+Range: Adjacent (1m)
+Accuracy Modifier: 0
 
-Damage: 30 + 2x Plasma Burn
+	Some improvised weapons may have alternate damage types, at the DM's 
+discretion.
+
+== Improvised One-handed Weapon ==
+
+Damage: 50 + STR mod Ballistic
+Range: Adjacent (1m)
+Accuracy Modifier: 1
+
+	Some improvised weapons may have alternate damage types, at the DM's 
+discretion.
+
+== Improvised Two-handed Weapon ==
+
+Damage: 50 + 2*STR mod Ballistic
+Range: Adjacent (1m)
+Accuracy Modifier: -1
+
+	Some improvised weapons may have alternate damage types, at the DM's 
+discretion. This weapon has a Guard modifier of +1.
+
+==============================
+Melee Weapons
+==============================
+
+===== Level 1 Requirement Weapons =====
+
+== Eliazar General-Purpose Welding Torch $170 ==
+
+Damage: 30 Fire + 2x Burn
 Size: Light
 Range: Adjacent (1m)
 Accuracy Modifier: +1
-STR Requirement:   3
+STR Requirement: 3
 
-	Plasma. Can quickly repair vehicles with welding materials, seal/cut through 
-moderate doors, and make temporary cover. -40% stealth for being quiet on stealth attacks.
+	A vital tool for structural repairs - good for sealing or cutting  
+metal surfaces or slagging mechanisms like locks. Takes about 1 hour to 
+cut an average person-sized opening through half-inch steel plate. -40 on 
+Stealth rolls while using. This weapon has an APL of 10.
 
 == Gurber G1 Combat Knife $315 ==
 
-Damage: 40 + STR + 2*DEX + 1xBleed
+Damage: 34 + 2*DEX mod Ballistic + 1xBleed
 Size: Light
 Range: Adjacent (1m)
 Accuracy Modifier: +1
@@ -42,42 +71,67 @@ DEX Requirement: 3
 
 == Gurber GS101 Combat Sword $680 ==
 
-Damage: 50 + 2*STR + 2*DEX + 1xBleed
+Damage: 54 + 2*STR mod + 1*DEX mod Ballistic + 1xBleed
 Size: One-handed
-Range: 2m
+Range: Adjacent (1m)
 Accuracy Modifier: +2
 DEX Requirement: 4
 
-===== LEVEL 5 REQUIREMENT WEAPONS =====
+== Whackbush Arms Mark 14 C-Fiber 6ft Hunting Spear $820 ==
+
+Damage: 40 + 3*STR mod + 1*DEX mod Ballistic
+Size: Two-handed
+Range: Adjacent (1m)
+Accuracy Modifier: +2
+DEX Requirement: 2
+
+	If you down an enemy with this weapon without a critical hit, 
+you must spend an Action to remove it from the target before you can 
+attack with it again.
+
+===== Level 5 Requirement Weapons =====
+
+== Eliazar Plasma Torch $240 ==
+
+Damage: 30 Plasma + 2x Plasma Burn
+Size: Light
+Range: Adjacent (1m)
+Accuracy Modifier: +1
+STR Requirement:   3
+
+	A vital tool for structural repairs - good for sealing or cutting  
+metal surfaces or slagging mechanisms like locks. Takes about 40 minutes to 
+cut an average person-sized opening through half-inch steel plate. -40 on 
+Stealth rolls while using. This weapon has an APL of 10.
 
 == Guri Grabber Knife $470 ==
 
-Damage: 30 + STR + 2*DEX + 1xBleed
+Damage: 24 + 2*DEX mod Ballistic + 1xBleed
 Size: Light
 Range: Adjacent (1m)
 Accuracy Modifier: +1
 DEX Requirement: 5
 
-	You can grapple after any successful basic melee attack. +10% Skill on 
-grappling checks. Whenever you roll a successful grappling check, you may deal 
-[3*STR or 3*DEX] damage to your opponent.
+	Once per Ronud on your turn, you can attempt to grapple as a Free 
+Action after a successful basic melee attack. May use the Strike grappling 
+action as long as you are in control, without having to Pin the target first.
 
 == Guri Carbon Whip $560 ==
 
-Damage: 30 + 3*STR + 2*DEX
+Damage: 50 + 2*DEX mod Ballistic
 Size: Exotic - One-handed
 Range: 3m
 Accuracy Modifier: +1
 DEX Requirement: 6
 
-	Can grapple limbs from range (DEX based grapple) and force movement 
+	Can grapple limbs from range (Acrobatics-based grapple) and force movement 
 (1m for every 5 [DEX or STR]). Can make Disarm attempts at range. Grapple, 
 Shove, and Disarm attempts with the whip costs Actions as normal. This weapon
 has a Guard modifier of 0.
 
 == SPECO SP10 VAE Combat Knife $640 ==
 
-Damage: 45 + STR + 2*DEX + 1xBleed
+Damage: 34 + 2*DEX mod Ballistic + 1xBleed
 Size: Light
 Range:  Adjacent (1m)
 Accuracy Modifier: +1
@@ -87,61 +141,57 @@ DEX Requirement: 4
 
 == SPECO SPC50 VAE Circular Saw $695 ==
 
-Damage: 55 + STR + 1xBleed
+Damage: 55 Ballistic + 1xBleed
 Size: Two-handed
 Range: Adjacent (1m)
 Accuracy Modifier: +1
 STR Requirement: 4
 
 	Voltage Aligned Edge; ignores standard armor; can easily cut through most 
-materials. -50 on stealth rolls for being quiet during stealth attacks with 
-this weapon.
+materials. -50 on stealth checks while using.
 
 == SPECO SP30 VAE Combat Sword $1245 ==
 
-Damage: 55 + 2*STR + 2*DEX + 1xBleed
+Damage: 56 + 2*STR mod + 1*DEX mod Ballistic + 1xBleed
 Size: One-handed
-Range: 2m
+Range: Adjacent (1m)
 Accuracy Modifier: +2
 DEX Requirement: 6
 
 	Voltage Aligned Edge; ignores standard armor
 
-===== LEVEL 10 REQUIREMENT WEAPONS =====
+===== Level 10 Requirement Weapons =====
 
 == Eliazar E500 Assisted-Sledgehammer $811 ==
 
-Damage: 50 + 6*STR
+Damage: 32 + 6*STR mod Ballistic, minimum 20
 Size: Two-handed
-Range: 2m
+Range: Adjacent (1m)
 Accuracy Modifier: +0
 STR Requirement: 6
 
-	Considered concussive (explosive) damage. Hits armor points 
-before physical damage if the target's armor has defense against explosive (i.e. 
-concussive) damage. If armor roll is greater than 50, target rolls a DC 50 
-fort save for a broken limb of your choice. -20 stealth rolls for being quiet 
-on stealth attacks. Reduces door-breaking DC by 30 per hit.
+	If armor roll is greater than 50, target rolls a DC 50 Fort save 
+for a broken limb of your choice. -20 to stealth rolls for being quiet 
+on stealth attacks. Reduces the DC to break down a door by 30 per hit.
 
 == Eliazar E5500 Power Fist $880 ==
 
-Damage: 50 + 5*STR
+Damage: 10 + 5*STR mod Ballistic, minimum 20
 Size: Light
 Range: Adjacent (1m)
 Accuracy Modifier: +1
 STR Requirement: 5
 
-	Considered concussive (explosive) damage. Hits armor points before physical 
-damage if the target has defense against explosive (i.e. concussive) damage. If 
-armor roll is less than 50%, target rolls a DC 50% fort save for a being stunned 
-for 1 turn. -30% stealth rolls for being quiet on stealth attacks. Reduces 
-door-breaking DC by 45% per hit. This weapon has a Guard modifier of 0.
+	If armor roll is less than 50, target must pass a DC 50 fort save 
+or be stunned for 1 turn. -30 stealth rolls for being quiet on stealth 
+attacks. Reduces door-breaking DC by 45 per hit. This weapon has a 
+Guard modifier of 0.
 
 == Muzashi VAE Katana $1354 ==
 
-Damage: 60 + STR + 3*DEX + 2xBleed
+Damage: 56 + 2*STR mod + DEX mod Ballistic + 2xBleed
 Size: One-handed - Hybrid
-Range: 2m
+Range: Adjacent (1m)
 Accuracy Modifier: +2
 DEX Requirement: 6
 
@@ -149,96 +199,98 @@ DEX Requirement: 6
 
 == Eliazar Plasma Sword $987 ==
 
-Damage: 50 + STR + 2*DEX + 3xPlasma Burn
+Damage: 56 + 2*STR mod + DEX mod Plasma + 2xPlasma Burn
 Size: One-handed
-Range: 2m
+Range: Adjacent (1m)
 Accuracy Modifier: +2
 DEX Requirement: 4
 
 	Plasma effect reduces armor by 1 level as usual, but this effect applies 
-during the sword hit (instead of after). If the target has a standard 
-(non-Nanite) shield, all plasma burn is canceled, the shield takes 30 damage and 
+during the sword hit (instead of after). If the target has a standard shield, 
+all plasma burn is canceled, the shield takes 30 damage and 
 the plasma sword passes through the shield.
 
 
 ==============================
-THROWN WEAPONS
+Throwing Weapons
 ==============================
 
-===== LEVEL 1 REQUIREMENT WEAPONS =====
+===== Level 1 Requirement Weapons =====
 
 == Gurber Throwing Knife $80 ==
 
-Damage: 15 + STR + DEX + [Thrown Weapon Skill]/2 + 1xBleed
+Damage: 34 + 2*DEX mod Ballistic + 1xBleed
 Size: Light
 DEX Requirement: 5
-AP Level: 2
+Armor Piercing Level: 2
 
 	Ranged Miss Chance
 
-* 5 out to [DEX or STR/2] meters
-* 6 out to 5 + [DEX or STR/2] meters
+* 5 out to 7 meters
+* 6 out to 15 meters
 
-	For melee, 15+STR+2*DEX+1xBleed, +1 melee accuracy. 2 per Secondary Ammo Slot.
+	May be used for melee strikes with a -1 Accuracy penalty. 
+Can carry 2 per Secondary Ammo Slot.
 
-===== LEVEL 5 REQUIREMENT WEAPONS =====
+===== Level 5 Requirement Weapons =====
 
 == EAL Tactical Throwing Axe $160 ==
 
-Damage: 25 + 3*STR + DEX + [Thrown Weapon Skill]/2 + 1xBleed
+Damage: 44 + STR mod + DEX mod Ballistic + 1xBleed
 Size: Light
 STR Requirement: 5
-AP Level: 3
+Armor Piercing Level: 3
 
 	Ranged Miss Chance
 
-* 5 out to STR + DEX/2 - 1 meters
-* 6 out to 5 + STR + DEX/2 meters
+* 5 out to 10 meters
+* 6 out to 15 meters
 
-	For melee, 40 + 2 * STR + DEX + 1 x Bleed, +1 melee accuracy. 1 per 
-Secondary Ammo Slot.
+	May be used for melee strikes with a -1 Accuracy penalty. 
+Can carry 1 per Secondary Ammo Slot.
 
-===== LEVEL 10 REQUIREMENT WEAPONS =====
+===== Level 10 Requirement Weapons =====
 
 == Carbide Kunai $120 ==
 
-Damage: 25 + STR + DEX + [Thrown Weapon Skill]/2 + 1xBleed
+Damage: 34 + 2*DEX mod Ballistic + 1xBleed
 Size: Light
 DEX Requirement: 6
-AP Level: 4
+Armor Piercing Level: 4
 
 	Ranged Miss Chance
 
-*  5 out to [DEX or STR/2] meters
-*  6 out to 5 + [DEX or STR/2] meters
+*  5 out to 8 meters
+*  6 out to 15 meters
 
-	For melee, 20+STR+2*DEX+1xBleed, +1 melee accuracy. 3 per Secondary Ammo Slot.
-When thrown, +30% to stealth rolls to hide the attack.
+	May be used for melee strikes with a -1 Accuracy penalty. 
+Can carry 3 per Secondary Ammo Slot. When thrown, +30 to stealth 
+checks to hide the attack.
 
 == Plasma Catalyst Kunai $160 ==
 
-Damage: 10 + STR + DEX + [Thrown Weapon Skill]/2 + 3xPlasma Burn
+Damage: 34 + 2*DEX mod Plasma + 3xPlasma Burn
 Size: Light
 DEX Requirement: 6
-AP Level: 5
+Armor Piercing Level: 5
 
 	Ranged Miss Chance
 
-* 5 out to [DEX or STR/2] meters
-* 6 out to 5 + [DEX or STR/2] meters
+* 5 out to 8 meters
+* 6 out to 15 meters
 
-	For melee, 15+STR+2*DEX+1xPlasma Burn, +1 melee accuracy. 3 per Secondary 
-Ammo Slot.
+	May be used for melee strikes with a -1 Accuracy penalty. 
+Can carry 3 per Secondary Ammo Slot.
 
 ==============================
-GRENADES
+Grenades
 ==============================
 
-===== LEVEL 1 REQUIREMENT WEAPONS =====
+===== Level 1 Requirement Weapons =====
 
 == ECSC Smoke Grenade $50 ==
 
-Damage: D10 fire damage to exact spot of impact
+Damage: D10 Thermal Damage to exact spot of impact
 Ranged Miss Chance (to land where intended): 5 out to 10+[DEX or STR]*2 meters
 Armor Piercing Level: 0
 Reflex Modifier: -10
@@ -261,7 +313,7 @@ at the cost of one action on their next turn.
 
 == ECSC CID Chemical Incapacitation Device (Gas grenade) $50 ==
 
-Damage: D10 fire damage to exact spot of impact
+Damage: D10 Thermal Damage to exact spot of impact
 Ranged Miss Chance (to land where intended): 5 out to 7+[DEX or STR]*2 meters
 Armor Piercing Level: 0
 Reflex Modifier: -10
@@ -282,7 +334,7 @@ at the cost of one action on their next turn.
 
 == RMM Flash-Bang Distraction and Clearing Device $50 ==
 
-Damage: D10 fire damage to exact spot of impact
+Damage: D10 Thermal Damage to exact spot of impact
 Ranged Miss Chance (to land where intended): 6 out to 10+[DEX or STR]*2 meters
 Armor Piercing Level: 0
 Reflex Modifier: -10
@@ -301,7 +353,7 @@ investigation checks.
 
 == ECSC Fragmentation Grenade $90 ==
 
-Damage: D10 fire damage to exact spot of impact
+Damage: D10 Thermal Damage to exact spot of impact
 Ranged Miss Chance (to land where intended): 5 out to 10+[DEX or STR]*2 meters
 Armor Piercing Level: 1
 Reflex Modifier: -10
@@ -339,11 +391,11 @@ make a Reflex Save of DC 110. If they succeed, they may dive prone up to their
 speed for one action in the direction of their choice. Choosing to do so comes
 at the cost of one action on their next turn.
 
-===== LEVEL 5 REQUIREMENT WEAPONS =====
+===== Level 5 Requirement Weapons =====
 
 == RMM Frag+ Grenade $140 ==
 
-Damage: D10 fire damage to exact spot of impact
+Damage: D10 Thermal Damage to exact spot of impact
 Ranged Miss Chance (to land where intended): 5 out to 10+[DEX or STR]*2 meters
 Armor Piercing Level: 2
 Reflex Modifier: -10
@@ -362,7 +414,7 @@ at the cost of one action on their next turn.
 
 == Frontier Chemical Grenade $70 ==
 
-Damage: D10 fire damage to exact spot of impact
+Damage: D10 Thermal Damage to exact spot of impact
 Ranged Miss Chance (to land where intended): 5 out to 10+[DEX or STR]*2 meters
 Armor Piercing Level: n/a
 Reflex Modifier: -10
@@ -379,7 +431,7 @@ at the cost of one action on their next turn.
 
 == RMM HiEx Grenade $285 ==
 
-Damage: D10 fire damage to exact spot of impact
+Damage: D10 Thermal Damage to exact spot of impact
 Ranged Miss Chance (to land where intended): 5 out to 10+[DEX or STR]*2 meters
 Armor Piercing Level: n/a
 Reflex Modifier: -10
@@ -393,11 +445,11 @@ make a Reflex Save of DC 130. If they succeed, they may dive prone up to their
 speed for one action in the direction of their choice. Choosing to do so comes
 at the cost of one action on their next turn.
 
-===== LEVEL 10 REQUIREMENT WEAPONS =====
+===== Level 10 Requirement Weapons =====
 
 == Frontier Plasma Grenade FP-G5 $360 ==
 
-Damage: D10 fire damage to exact spot of impact
+Damage: D10 Thermal Damage to exact spot of impact
 Ranged Miss Chance (to land where intended): 5 out to 10+[DEX or STR]*2 meters
 Armor Piercing Level: 6
 Reflex Modifier: -10

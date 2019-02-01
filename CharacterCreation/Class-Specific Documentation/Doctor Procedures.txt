@@ -101,6 +101,81 @@ payload of your choice.
     At level 10, has AP level 6 instead. At level 15, has AP level 8 and deals 
 65 damage. At level 20, ignores physical armor and deals 80 damage.
 
+== Poison: Pho-Ox ==
+
+Adrenaline Cost: 30 Points
+Contagion Cost: 1 Contagion
+Duration: 10 Rounds
+Range: Payload (use in combination with other Proceeedures)
+
+    This dichloroformaldoxime derivative is known as a "Nettle Agent" which 
+means that only extremely high doses will kill. Some might call that mercy, 
+while those it has been used on know better. Organics exposed to either the 
+liquid (which is a dull amber color with an oily texture) or the vapor almost
+immediately break out in hives, itch all over, serious eye irritation and 
+coughing fits. Extended or concentrated exposure can lead to patches of skin 
+dying and falling off, blindness and lung scarring. Most species can recover
+from mild exposure in a day or two without medical treatment. Long term exposure
+can be treated easily with modern medical techniques. Pho-Ox is also one of the 
+few biochemical agents known to significantly corrode metal. Pho-Ox is entirely
+organic; it cannot be detected by security systems that search for synthetic
+pathogens.
+
+    When a target is hit with Pho-Ox, they roll a Shock save against a DC of 70.
+If they succeed, they do not increase their dose level. If they fail, their
+dose level is increased by 1. If their dose level is at a 1 or a 2, they may
+make a Shock save of DC 80 at the begining of their turn to reduce the dose 
+level by one. Every time the dose level is increased beyond 6, the target makes
+a Shock Save of DC 110 instead of 70. If they succeed, they maintain their dose
+level. If they fail, they fall unconsious (but not bleeding out) and will not
+wake on their own for 8 + 1d10 hours. Non-organic targets affected by Pho-Ox do
+not take any penalties to accuracy or move speed, but instead take only damage
+at the start of their turn. Targets that are wearing a gas mask, but have any 
+exposed biology or unarmored cybernetics are affected by this even if a 
+deployment method says they wouldn't be. Pho-Ox can be rapidly cured in the 
+field by most combat medics. 
+
+    The effects on biologic targets are as follows. Acc Penalties are Accuracy 
+penalties, and these are also applied to attacks with melee weapons. Move 
+Penalties are given per action. Damage is applied at the start of the target's
+turn after they have made a saving throw if they are able (if the target's dose
+level is 1 or 2).
+
++---------+-------------+--------------+---------+
+| Dose lv | Acc Penalty | Move Penalty |  Damage |
++---------+-------------+--------------+---------+
+|    1    |      -1     |      0       |   10    |    
++---------+-------------+--------------+---------+
+|    2    |      -1     |     -1       |   15    |
++---------+-------------+--------------+---------+
+|    3    |      -1     |     -1       |   15    |
++---------+-------------+--------------+---------+
+|    4    |      -2     |     -1       |   20    |
++---------+-------------+--------------+---------+
+|    5    |      -2     |     -2       |   25    |
++---------+-------------+--------------+---------+
+|    6    |      -3     |     -2       |   25    |
++---------+-------------+--------------+---------+
+
+
+The effects for cybernetic targets are listed below. 
+
++------------+-------------------------+
+| Dose Level | Damage at start of turn |
++------------+-------------------------+
+|     1      |          20             |
++------------+-------------------------+
+|     2      |          25             |
++------------+-------------------------+
+|     3      |          35             |
++------------+-------------------------+
+|     4      |          50             |
++------------+-------------------------+
+|     5      |          55             |
++------------+-------------------------+
+|     6      |          55             |
++------------+-------------------------+
+
 ==Poison: Mild Hallucinogen ==
 Adrenaline Cost:20 Points
 Contagion Cost: 1 Contagion
@@ -258,6 +333,7 @@ Adrenaline Cost: 80 Points
 Contagion Cost: 1 Contagion
 Duration: 	20 Rounds
 Range:		Payload (use in combination with other powers)
+
     The biologic agent eats away at the target's flesh and biologic parts at an 
 astonishing rate. The target takes 3d10 damage per Round on their turn for the 
 duration of their affliction. They can be cured by decontamination devices or 
@@ -265,6 +341,27 @@ specially trained doctors. Targets that are wearing a gas mask, but have any
 exposed biology are affected by this even if a deployment method says they 
 wouldn't. Use of biologic weapons are severely frowned upon in most civilized 
 regions of space.
+
+
+== Neural Afibrillator ==
+
+Adrenaline Cost: 50 Points
+Needle Cost: 1 Needle
+Duration: 2 Actions
+Range: 40 m
+Miss Chance: 2
+APL: 3
+Damage on hit: 30
+
+    The Neural Afibrillator is a small module that fits into a needle to deliver
+electric shocks. Its indended purpose is for nerual-electric muscle stimulation,
+used in electrotherapy for physical therapy. But after you've tweaked it to 
+shock in a pseudo-random pattern and direction, it mostly just hurts a bit and
+causes unpredictable muscle spasms and radically confuses medical nanites.
+
+    Enemies that lose health points to this attack must attempt a DC 90 Shock 
+Save. On failure, they recieve 40 electric damage and have the Disrupted 
+Condition for 4 Rounds. On success, they take 20 Electric damage.
 
 ==Biopsy ==
 Adrenaline Cost: 40 Points
