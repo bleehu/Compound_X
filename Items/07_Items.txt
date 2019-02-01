@@ -57,6 +57,10 @@ execute Active Feats (see Feats in the Basic Rules).
 the save bonus, but may be used to execute more active feats in shorter time 
 frames. The maximum number of Units a character can have at once is related to 
 their level - see the leveling table.
+	Reputable physicians will not administer additional units of medical 
+nanites unless the previous one has had at least 3 weeks of time to assimilate. 
+Failure to observe this limit will cause severe health problems as the different 
+batches of nanites identify each other as foreign invaders and wreak havoc.
 
 ==============================
 Wearables
