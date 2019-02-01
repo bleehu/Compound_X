@@ -9,7 +9,7 @@ anatomy that contian liquids vital to their survival. This can happen to both
 biologic targets, who usually leak blood, and to cybernetic targets, who can 
 leak coolant and lubricant.
 
-    A character that is Bleeding takes d10 / 2 + 1 (drop the remainder) stackable 
+    A character that is Bleeding takes d10/2 + 1 (drop the remainder) stackable 
 damage once per round at the beginning of their turn. The Bleeding can be 
 staunched with Medicine Skill check. The Medicine (Dex) DC to staunch varies; the
 cause of the Bleed effect should list it in the effect description.
@@ -90,7 +90,7 @@ with an ally who has 1 Charisma. A Lonely character hasn't met Mazlow's
 Hierarchy of needs, and this affects their performance. 
 
     A Lonely character moves 1m slower every two Actions (round down) and takes 
-a -5 to skill checks. 
+a -5 to Skill checks. 
 
 == Necrosis ==
 
@@ -111,8 +111,10 @@ biofoam.
 fire or a continuous stream of bullets must overcome the psychological instinct
 to stay put and not get shot.
 
-    A target that is Pinned must hunker and cannot move until they pass a DC
-70 Will Save or for 2 full Rounds, whichever is quicker.
+    A target that is Pinned must hunker behind their current piece of cover. This 
+is an Immediate Action, but it costs one Action from the character's next turn. 
+That character cannot move until they pass a DC 70 Will Save or for 2 full 
+Rounds, whichever is quicker.
 
 == Plasma Burn ==
 
@@ -149,7 +151,7 @@ level of intoxication. The first level of intoxication is Buzzed.
     While Buzzed, a character takes a -1 penalty to accuracy with any attack and a 
 temporary -1 penalty to Perception. At the same time, the character gains a +1 bonus to 
 Charisma and Luck. You also take a penalty of -20 to Skill checks involving 
-operating heavy machinery, driving, or flying. If the character fails a Shock Save
+operating heavy machinery, driving or flying. If the character fails a Shock Save
 to prevent increasing their intoxication level while Buzzed, they lose the 
 Buzzed Condition and instead are afflicted with the Hammered Condition (See 
 below). As long as a character doesn't become Hammered, Buzzed will wear off in two
@@ -158,7 +160,7 @@ hours.
 == Hammered (Intoxicated) ==
 
     While Hammered, a character takes a -3 penalty to accuracy rolls when attacking and 
-a -50 penalty to skill checks involving operating heavy machinery, driving, or flying. 
+a -50 penalty to skill checks involving operating heavy machinery, driving or flying. 
 The character takes a temporary -2 penalty to Dexterity, Perception and Charisma. If the 
 character's level of intoxication increases while Hammered, that character blacks out and
 is Stunned for two hours or until the Condition is otherwise healed. As long as a character
