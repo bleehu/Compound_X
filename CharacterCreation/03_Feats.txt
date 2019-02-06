@@ -957,6 +957,23 @@ either go prone or hunker somewhere in that square (you choose). Attacks made
 against you during the use of Cover Slide have -1 Accuracy. Cover Slide cannot be 
 used at the same time as Run 'N' Gun.
 
+== Duck, Bob and Weave ==
+
+Prerequisites:
+
+* Dex 4
+
+Cooldown: 1 Round
+Duration: 1 Action (See Below)
+
+	As the last Action on your turn, you may move half of your Move Speed, 
+bouncing erratically along your path. When you do so, you are considered to be 
+in light cover from all sides, owing to the difficulty that the enemy has in 
+attempting to keep you in their sights. This light cover does not stack with 
+other cover. When using Duck, Bob and Weave, your character must end their turn 
+at least their Move Speed from where they started their turn. You cannot Duck, 
+Bob and Weave if your movement is constrained by a condition or other effect.
+
 == Flash Dance ==
 
 Prerequisites:
@@ -973,7 +990,7 @@ separately for each act. All bonuses that would normally apply to a standard att
 still apply. (Note: Flash Dance can trigger Bulltrue and Preemptive Strike). If you 
 are stunned or rendered unconscious, Flash Dance ends immediately.
 
-== Gun Kata [30 Nanites] ==
+== Gun Kata ==
 
 Prerequisites:
 
