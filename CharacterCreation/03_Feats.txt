@@ -991,7 +991,6 @@ jump from their back straight to their feet. This kick does not work well as a
 melee attack; the momentum is used to move the kicker rather than to impart 
 impact unto a target.
 
-
 	You jump up from the prone to the standing position. This action cannot 
 be taken to go straight from prone to crouched. Further, if you would crouch 
 this turn, the normally Free Action of going from standing to crouched costs 
