@@ -48,12 +48,35 @@ Engineer processes; i.e., a Gunslinger who buys an extruder can't construct
 IEDs with it.
 
 3D image builder, Static ($650):
-    A 3m^3 framework that will build a rudimentary  3d image of whatever is 
+    A 3m^3 framework that will build a rudimentary 3d image of whatever is 
 inside it, exportable to a portable device.
 
 3D image builder, Portable ($800):
     Builds a 3D image of what its being pointed at, will need to see the object 
 from multiple angles to capture the whole object. Up to 20m^3 of space.
+	
+Medical Nanites Booster Shot ($400):
+	A partial unit of Medical Nanites. The booster shot is a standard 
+medical procedure on more affluent worlds, like a vaccine, and provides 
+resistance to and faster healing from disease and injury. Characters with a 
+nanite booster shot gain +10 to Shock saves and benefit from faster healing 
+during Short Rests (see Resting in the Basic Rules).
+	Additional boosters after the first have no effect. A booster shot 
+may be upgraded to a Medical Nanites Unit (see below) at a cost of $700.
+	
+Medical Nanites Unit ($1000):
+	One unit of Medical Nanites. Having at least one unit of Medical Nanites 
+provides all the benefits of a booster shot (see above), with even more potent 
+rest healing. Additionally, full units of medical nanites can be harnessed to 
+execute Active Feats (see Feats in the Basic Rules).
+	Additional units after the first do not provide more healing or increase 
+the save bonus, but may be used to execute more active feats in shorter time 
+frames. The maximum number of Units a character can have at once is related to 
+their level - see the leveling table.
+	Reputable physicians will not administer additional units of medical 
+nanites unless the previous one has had at least 3 weeks of time to assimilate. 
+Failure to observe this limit will cause severe health problems as the different 
+batches of nanites identify each other as foreign invaders and wreak havoc.
 
 ==============================
 Wearables
@@ -143,7 +166,8 @@ in the following colors.
 *  Blacklight ($2 extra) 
 
 Nanite Pack ($100):
-    Restores 2d10 + 20 nanites.
+    As an Action with range Touch, remove up to 2 Rounds of cooldown from one unit 
+of Medical Nanites owned by the target.
 
 Permanent Marker ($2):
     MarkAll(tm) permanent marking pen of one of the following colors.
@@ -228,7 +252,7 @@ To hack, pass a DC 80 Hacking check.
 Road Flare ($15):
     A phosphorus red stick with a strike pad at the end. Will put off soft red 
 light for 5m in every direction for about an hour. Burns in rain, mud, even 
-burns underwater. Don't touch the end or you'll take 10 fire damage.
+burns underwater. Don't touch the end or you'll take 10 Thermal Damage.
 
 Datapad ($130):
 	A handheld device with a screen and keypad. Used to record
