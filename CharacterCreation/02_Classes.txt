@@ -7,11 +7,6 @@ class feats or regular feats. At level 1 you get to select a class, and receive
 the class passives. However, you do not select a class feat until level 5. Then, 
 at levels 10, 15, and 20 you can gain another class feat.
 
-	For any listed class, if it says "Gain X Skill at 10" that means you get to 
-add the X skill to your skill list. For more on Skills, see "RP / Using Skills" 
-Section of Basic Rules.txt. 
-
-
 =====   SOLDIER   =====
 
 	You have the blood of a warrior flowing through you. Your sole purpose is to 
@@ -22,10 +17,10 @@ Starting Wealth: $3770 + 100*Luck
 
 
 Passives: 
-* Gain Skill Weapons - [Choose one] at 10.
-* Gain a +15 to Rolls for initiative (You go first more often).
-* Gain Feat: Proficiency: Light Melee Weaponry.
-* Gain Feat: Proficiency: One-handed Melee Weaponry.
+* Gain 10 skill points in Weapons - [Choose one]
+* Gain a +15 to Rolls for initiative (You go first more often)
+* Gain Feat: Proficiency: Light Melee Weaponry
+* Gain Feat: Proficiency: One-handed Melee Weaponry
 
 Weapon Proficiencies: 
 * Pistols 
@@ -112,9 +107,9 @@ Class Primary Attribute: Strength
 Starting Wealth: $4150 + 100*Luck
 
 Passives: 
-* Gain Skill Weapons - Thrown OR Weapons - Explosives at 10.
-* Gain Skill Weapons - Heavy at 10.
-* Gain Feat: Proficiency: Light Melee Weaponry.
+* Gain  10 skill points in Weapons - Thrown OR Weapons - Explosives
+* Gain  10 skill points in Weapons - Heavy
+* Gain Feat: Proficiency: Light Melee Weaponry
 
 Weapon Proficiencies: 
 * Pistols
@@ -173,10 +168,10 @@ Class Primary Attribute: Dexterity
 Starting Wealth: $2670 + 100*Luck
 
 Passives:
-* Gain Skill Knowledge - Xenology at 5.
-* Gain Skill Knowledge - [Choose one] at 5.
-* Gain Skill Medicine at 10. 
-* Gain Feat: Proficiency: Light Melee Weaponry.
+* Gain  5 skill points in Knowledge - Xenology
+* Gain  5 skill points in Knowledge - [Choose one]
+* Gain  10 skill points in Medicine
+* Gain Feat: Proficiency: Light Melee Weaponry
 * Gain Hippocratic Procedure: Patch 'em Up
 * Gain Malpractice Procedure: Harmacist Spike
 
@@ -235,9 +230,9 @@ Class Primary Attribute: Intelligence
 Starting Wealth: $2580 + 100*Luck
 
 passives: 
-* Gain Skill Repair at 10.
-* Gain Skill Jury-rigging at 10.
-* Gain Feat: Proficiency: Light Melee Weaponry.
+* Gain  10 skill points in Repair
+* Gain  10 skill points in Jury-rigging
+* Gain Feat: Proficiency: Light Melee Weaponry
 * 2 Control Points
 * 600 Maximum Energy
 * 1000 Maximum Material
@@ -318,9 +313,9 @@ Class Primary Attribute: Intelligence
 Starting Wealth: $2750 + 100*Luck
 
 Passives: 
-* Gain Skill Hacking at 10.
-* Gain Skill Knowledge - Computers at 10.
-* Gain Feat: Proficiency: Light Melee Weaponry.
+* Gain  10 skill points in Hacking
+* Gain  10 skill points in Knowledge - Computers
+* Gain Feat: Proficiency: Light Melee Weaponry
 
     At level 1, gain a laptop and a smart watch. You can use these to activate
 your Exploits. You also gain the Disrupt Exploit at Level 1. You gain the RAT
@@ -329,13 +324,13 @@ for more information on Hacker Exploits.
 
 Weapon Proficiencies: 
 * Pistols
-* Submachine Guns.
+* Submachine Guns
 
 Armor Proficiencies:
 * Concealed
 * Recon
 * Light
-* Medium.
+* Medium
 
 Skill Proficiencies:
 * Hacking
@@ -364,22 +359,22 @@ Class Primary Attribute: Dexterity
 Starting Wealth: $2670 + 100*Luck
 
 Passives: 
-* Gain Skill Vehicles - [Choose one] at 10.
-* Gain Skill Vehicles - [Choose another] at 10.
-* Gain Feat: Proficiency: Light Melee Weaponry.
+* Gain  10 skill points in Vehicles - [Choose one]
+* Gain  10 skill points in Vehicles - [Choose another]
+* Gain Feat: Proficiency: Light Melee Weaponry
 
 At level 6, the Feat ". . . Who Needs Nano-Technologies" is automatically unlocked.
 
 Weapon Proficiencies: 
 * Pistols
 * Submachine Guns
-* Shotguns.
+* Shotguns
 
 Armor Proficiencies: 
 * Concealed
 * Recon
 * Light
-* Medium.
+* Medium
 
 Skill Proficiencies:
 * Vehicles - [Choose one]
@@ -481,10 +476,10 @@ Class Primary Attribute: Perception
 Starting Wealth: $3290 + 100*Luck
 
 Passives: 
-* Gain Skill Spotting at 10.
-* Gain Skill Survival at 10.
-* Gain Feat: Proficiency: Light Melee Weaponry.
-* Gain Feat: Proficiency: One-handed Melee Weaponry.
+* Gain  10 skill points in Spotting
+* Gain  10 skill points in Survival
+* Gain Feat: Proficiency: Light Melee Weaponry
+* Gain Feat: Proficiency: One-handed Melee Weaponry
 * Purchase your first primary cloaking module at a $1500 discount
 * Cloaking's Nanite Activation cost is reduced by 4 after level 3
 * At Level 3, gain an Attack Dog, detailed below
@@ -544,7 +539,7 @@ you, either by being on comms with you (see the headset and similar items in
 the "Items/07_Items.txt" document) or that are within 5m of you. Party Members
 (including yourself) that shoot at an indicated target get a +1 to accuracy 
 rolls to hit that target. A target remains indicated until they move, or for
-two Rounds, whichever comes first. You also get 6 skill points in Investigation
+two Rounds, whichever comes first. You also gain 6 skill points in Investigation
 when you take this Class Feat. 
 
 Spotter:
@@ -616,8 +611,8 @@ Class Primary Attribute: Perception
 Starting Wealth: $1975 + 100*Luck
 
 Passives: 
-* Gain Skill Acrobatics at 10
-* Gain Skill Weapons - Pistol at 10
+* Gain  10 skill points in Acrobatics.
+* Gain  10 skill points in Weapons - Pistols
 * Gain Feat: Proficiency: Light Melee Weaponry
 * Gain Feat: Predictive Gun-fighting
 * Gain 2 Pistol Bonuses
@@ -707,16 +702,16 @@ Starting Wealth: $1975 + 100*Luck
 
 Passives:
 * The Assassin may make one additional Action per turn while in a Grapple, but not more than four.
-* Gain Skill Weapons - Melee at 10
-* Gain Skill Stealth at 10
-* Gain Feat: Proficiency: Light Melee Weaponry.
-* Gain Feat: Proficiency: One-handed Melee Weaponry.
-* Gain bonus cloaking time when using other cloaking devices besides the Shadow Cloak.
+* Gain  10 skill points in Weapons - Melee
+* Gain  10 skill points in Stealth
+* Gain Feat: Proficiency: Light Melee Weaponry
+* Gain Feat: Proficiency: One-handed Melee Weaponry
+* Gain bonus cloaking time when using other cloaking devices besides the Shadow Cloak
 
 	Assassins wear a "Shadow Cloak", which allows them to become a mere 
 silhouette. Shadow Cloaks attempt to cloak* the assassin at all times. While
 hidden with the Shadow Cloak, an enemy must pass an Awareness save of DC 10 + 
-Stealth(Dex)  to see the Assassin while the Assassin is still. While the 
+Stealth (Dex)  to see the Assassin while the Assassin is still. While the 
 Assassin is moving, the DC drops to 0 + skill Stealth. The Cloak cannot provide
 concealment that keeps up with the swift motions of an Assassin's attacks, and
 thus fails until the the start of the Assassin's next turn after the Assassin
@@ -791,15 +786,15 @@ Class Primary Attribute: Perception
 Starting Wealth: $3190 + 100*Luck
 
 Passives:
-* Gain Skill Weapons - Long Rifles at 10.
-* Gain Skill Spotting at 10.
-* Gain Feat: Proficiency: Light Melee Weaponry.
-* Gain feat "Skilled Overwatch": Held firing actions have +20 bonus damage.
+* Gain  10 skill points in Weapons - Long Rifles
+* Gain  10 skill points in Spotting
+* Gain Feat: Proficiency: Light Melee Weaponry
+* Gain feat "Skilled Overwatch": Held firing actions have +20 bonus damage
 
 Weapon Proficiencies:
 * Pistols
 * Carbines
-* Long Rifles.
+* Long Rifles
 
 Armor Proficiencies:
 * Concealed
@@ -808,7 +803,7 @@ Armor Proficiencies:
 
 Skill Profiencies:
 * Spotting
-* Weapons - Long Rifle
+* Weapons - Long Rifles
 
 == Class Feats ==
 
@@ -876,15 +871,15 @@ Class Primary Attribute: Strength
 Starting Wealth: $2170 + 100*Luck
 
 Passives:
-* Gain Skill Weapons - Melee at 10.
-* Gain Skill Athletics at 10.
-* Gain Feat Unarmed Combat Training.
-* Gain Feat: Proficiency: Light Melee Weaponry.
-* Gain Feat: Proficiency: One-handed Melee Weaponry.
-* Gain Feat: Proficiency: Two-handed Melee Weaponry.
+* Gain  10 skill points in Weapons - Melee
+* Gain  10 skill points in Athletics
+* Gain Feat Unarmed Combat Training
+* Gain Feat: Proficiency: Light Melee Weaponry
+* Gain Feat: Proficiency: One-handed Melee Weaponry
+* Gain Feat: Proficiency: Two-handed Melee Weaponry
 
 Weapon Proficiencies:
-* Pistols.
+* Pistols
 
 Armor Proficiencies:
 * Concealed
