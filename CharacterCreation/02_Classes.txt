@@ -18,7 +18,7 @@ Starting Wealth: $3770 + 100*Luck
 
 Passives: 
 * Gain 10 skill points in Weapons - [Choose one]
-* Gain a +15 to Rolls for initiative (You go first more often)
+* Gain +15 to Rolls for initiative (You go first more often)
 * Gain Feat: Proficiency: Light Melee Weaponry
 * Gain Feat: Proficiency: One-handed Melee Weaponry
 
@@ -107,8 +107,8 @@ Class Primary Attribute: Strength
 Starting Wealth: $4150 + 100*Luck
 
 Passives: 
-* Gain  10 skill points in Weapons - Thrown OR Weapons - Explosives
-* Gain  10 skill points in Weapons - Heavy
+* Gain 10 skill points in Weapons - Thrown OR Weapons - Explosives
+* Gain 10 skill points in Weapons - Heavy
 * Gain Feat: Proficiency: Light Melee Weaponry
 
 Weapon Proficiencies: 
@@ -168,9 +168,9 @@ Class Primary Attribute: Dexterity
 Starting Wealth: $2670 + 100*Luck
 
 Passives:
-* Gain  5 skill points in Knowledge - Xenology
-* Gain  5 skill points in Knowledge - [Choose one]
-* Gain  10 skill points in Medicine
+* Gain 5 skill points in Knowledge - Xenology
+* Gain 5 skill points in Knowledge - [Choose one]
+* Gain 10 skill points in Medicine
 * Gain Feat: Proficiency: Light Melee Weaponry
 * Gain Hippocratic Procedure: Patch 'em Up
 * Gain Malpractice Procedure: Harmacist Spike
@@ -230,8 +230,8 @@ Class Primary Attribute: Intelligence
 Starting Wealth: $2580 + 100*Luck
 
 passives: 
-* Gain  10 skill points in Repair
-* Gain  10 skill points in Jury-rigging
+* Gain 10 skill points in Repair
+* Gain 10 skill points in Jury-rigging
 * Gain Feat: Proficiency: Light Melee Weaponry
 * 2 Control Points
 * 600 Maximum Energy
@@ -313,8 +313,8 @@ Class Primary Attribute: Intelligence
 Starting Wealth: $2750 + 100*Luck
 
 Passives: 
-* Gain  10 skill points in Hacking
-* Gain  10 skill points in Knowledge - Computers
+* Gain 10 skill points in Hacking
+* Gain 10 skill points in Knowledge - Computers
 * Gain Feat: Proficiency: Light Melee Weaponry
 
     At level 1, gain a laptop and a smart watch. You can use these to activate
@@ -359,8 +359,8 @@ Class Primary Attribute: Dexterity
 Starting Wealth: $2670 + 100*Luck
 
 Passives: 
-* Gain  10 skill points in Vehicles - [Choose one]
-* Gain  10 skill points in Vehicles - [Choose another]
+* Gain 10 skill points in Vehicles - [Choose one]
+* Gain 10 skill points in Vehicles - [Choose another]
 * Gain Feat: Proficiency: Light Melee Weaponry
 
 At level 6, the Feat ". . . Who Needs Nano-Technologies" is automatically unlocked.
@@ -476,8 +476,8 @@ Class Primary Attribute: Perception
 Starting Wealth: $3290 + 100*Luck
 
 Passives: 
-* Gain  10 skill points in Spotting
-* Gain  10 skill points in Survival
+* Gain 10 skill points in Spotting
+* Gain 10 skill points in Survival
 * Gain Feat: Proficiency: Light Melee Weaponry
 * Gain Feat: Proficiency: One-handed Melee Weaponry
 * Purchase your first primary cloaking module at a $1500 discount
@@ -611,8 +611,8 @@ Class Primary Attribute: Perception
 Starting Wealth: $1975 + 100*Luck
 
 Passives: 
-* Gain  10 skill points in Acrobatics.
-* Gain  10 skill points in Weapons - Pistols
+* Gain 10 skill points in Acrobatics.
+* Gain 10 skill points in Weapons - Pistols
 * Gain Feat: Proficiency: Light Melee Weaponry
 * Gain Feat: Predictive Gun-fighting
 * Gain 2 Pistol Bonuses
@@ -702,8 +702,8 @@ Starting Wealth: $1975 + 100*Luck
 
 Passives:
 * The Assassin may make one additional Action per turn while in a Grapple, but not more than four.
-* Gain  10 skill points in Weapons - Melee
-* Gain  10 skill points in Stealth
+* Gain 10 skill points in Weapons - Melee
+* Gain 10 skill points in Stealth
 * Gain Feat: Proficiency: Light Melee Weaponry
 * Gain Feat: Proficiency: One-handed Melee Weaponry
 * Gain bonus cloaking time when using other cloaking devices besides the Shadow Cloak
@@ -786,8 +786,8 @@ Class Primary Attribute: Perception
 Starting Wealth: $3190 + 100*Luck
 
 Passives:
-* Gain  10 skill points in Weapons - Long Rifles
-* Gain  10 skill points in Spotting
+* Gain 10 skill points in Weapons - Long Rifles
+* Gain 10 skill points in Spotting
 * Gain Feat: Proficiency: Light Melee Weaponry
 * Gain feat "Skilled Overwatch": Held firing actions have +20 bonus damage
 
@@ -871,8 +871,8 @@ Class Primary Attribute: Strength
 Starting Wealth: $2170 + 100*Luck
 
 Passives:
-* Gain  10 skill points in Weapons - Melee
-* Gain  10 skill points in Athletics
+* Gain 10 skill points in Weapons - Melee
+* Gain 10 skill points in Athletics
 * Gain Feat Unarmed Combat Training
 * Gain Feat: Proficiency: Light Melee Weaponry
 * Gain Feat: Proficiency: One-handed Melee Weaponry
