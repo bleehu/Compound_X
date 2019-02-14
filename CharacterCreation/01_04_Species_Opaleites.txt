@@ -2,7 +2,21 @@
 Opaleites
 ==============================
 
-  Opaleites are an organic amphibious species that 
+    Opaleites are an organic amphibious species that evolved on a planet that 
+was mostly covered by marshes, seas and oceans. Their unique resperatory system
+lets them breathe under water as well as on land. An Opaleite's eyes are a 
+little better at seeing underwater then they are out of it.
+
+    Play as an Opaleite if you ...
+
+*  want to stick close to your team as if they were your schoolmates. 
+*  If your clan and where you came from is very important to you. 
+*  If you want to go anywhere in land, sea or air
+*  If you want to see what there is to see in this beautiful and diverse universe.
+
+    Play as a sub-species of Opaleite if you ...
+*  want to dazzle the world with your beautiful scales
+*  want to be the toughest fish in the bay with your bullet-resistant scales. 
 
 ===== Appearance/Anatomy =====
 
@@ -13,6 +27,12 @@ above the hip, the second set is often closed, allowing speech and other
 underwater sounds. Keeping the second set closed does hurt an Opaleite's speed 
 while swimming. They are also used to drain the lungs when making the switch 
 from water to air.
+
+    Opaleites have two legs and two arms. Each leg has a foot with five webbed
+toes. Each arm has four webbed fingers and an aposable thumb. The arms also have
+wrist fins that greatly improve mobility underwater. Opaleites have powerful 
+tails that usually hang down to about their knees which have a horizontal fin at
+the end. 
 
     They have two sets of eyes, one set of highly-developed, forward-facing eyes, 
 particularly well suited for seeing underwater, and the other is a set placed
