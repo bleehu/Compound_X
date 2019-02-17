@@ -97,7 +97,9 @@ Colorchanging and Bioluminescence are two examples of this.
 
 ===== Names =====
 
-Rathna 
+Rath'na Nok
+Keema Otate
+Depa Aeas
 
 ==== Passives ====
 
@@ -117,7 +119,10 @@ turning head]
 
 ===== Available Traits =====
 
-
+Dark Vision:
+    The water on any given planet is not always brightened heavily by the sun. 
+Acclimated to darker waters, many Opalites can see as if in normal light in
+low light conditions.
 
 ==============================
 Opaleite Sub-Species
@@ -137,12 +142,12 @@ Appearance:
    
 == Available Traits ==
 
-Colorful
-   People like you, they naturally flock toward your brilliant scales.
-   You are the perfect disraction, bringing in the attention of those
+Colorful:
+   People are attracted by colors, they naturally flock toward brilliant scales.
+   They are the perfect distraction, bringing in the attention of those
    in the area. 
-   [Gain advantage on a Performance[CHA] check while attempting to distract
-   a group(or single) of individuals. Mechanical species and blind/eyeless
+   [Gain advantage on a Performance (Cha) check while attempting to distract
+   either a group or single individual. Mechanical species and blind/eyeless
    individuals are immune to this effect.]
 
 
@@ -154,7 +159,7 @@ Home System: Trioch IV
 Stats: +1 STR, +1 FOR
 
 Appearance:
-   Thick, cartilaginous scales cover 
+   Thick, cartilaginous scales cover a sturdy skeletal structure. 
 
 
 == Available Traits ==
@@ -175,6 +180,7 @@ Condrich does wear armor, they get an Armor Strength bonus of 20 to whichever
 armor that they wear.
     
 ===== Sea Devils =====
+
     
 Size: Medium
 Home System: Trioch IV
@@ -182,14 +188,33 @@ Home System: Trioch IV
 Stats: +2 DEX
 
 Appearance:
+    Similar in size to the Mendars, Sea Devils, or Samek in the Opaleite tongue, 
+are named for their inherenet ability to bioluminesce. 
 
 == Available Traits ==
 
-Bioluminesce
+Light Dance:
+  
+    Sea Devils can harness their ability to bioluminesce to distract and 
+confuse enemies. Used in conjunction with darkness and quick movement, an
+experienced individual can alternate lighting scales from tip to tail to 
+misdirect an enemy.
 
-   [
+   Under low-light or darker conditions, you may use this ability while evading 
+enemy fire to give you a +1 to be hit. Enemies may roll a DC 60 Awareness Save 
+to see throught the deception. May also be used to attempt to distract an
+individual away from your teammates; enemy Awareness vs. Acrobatics (Dex) or 
+Athletics (Dex).
    
-Deep Glow
+Deep Glow:
 
-   [Light a 10m area around you with a dim light. +1 to enemies
-   trying to hit you]
+    Even those with low-light vision cannot see in total darkness without
+aid. A Sea Devil may concentrate on their bioluminescent scales, brightening
+them to a level that will allow others to see better in the darkness.
+    
+    The area 5m around you is increased two light levels, an additional
+5m is increased by a single light level. Enemies attacking you gain a +1 bonus 
+to hit. This takes a great deal of energy; it will take twice as long to perform
+actions in combat while this ability is active, and any injury will end
+the ability. Can be used up to 10 minutes before needing a short rest;
+up to 30 minutes a day.
