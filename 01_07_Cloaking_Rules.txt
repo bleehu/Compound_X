@@ -6,79 +6,78 @@ Cloaking
  
 ===== Cloaking Modules =====
 
-    Expend the cloaking module's "Nanite Activation Cost" to begin cloaking. At 
-the ending of every turn thereafter, you have to pay a "Nanite Upkeep" cost to 
-continue cloaking.
+	To activate a cloaking module, you must expend an amount of Energy, from 
+the cloak module's built-in power or an external battery, equal to the cloaking 
+module's Energy Activation Cost. Whenever you end a turn cloaked, you must pay 
+the module's Energy Upkeep cost or the cloak immediately deactivates. If you 
+performed no Actions, the Upkeep cost is halved for that turn.
 
-    Wearers need only expend Nanites for the "Nanite Upkeep" cost at the end 
-of a turn that they perform actions. Cloaking requires concentration so when you 
-are doing nothing but watching, you may cloak for free.
+	You may remain cloaked for a number of turns equal to your cloak module's 
+Overheat stat or when you run out of Energy, whichever occurs sooner. When you 
+decloak, for whatever reason, you must wait a number of actions equal to the 
+module's "Charge Delay" (listed under the relevant cloaking module's description) 
+before being able to cloak again.
 
-    You can remain cloaked for a number of turns equal to ["Cloak Turns" + your
-cloaking module's "Cloak Turn Bonus"] or when you run out of Nanites, whichever 
-occurs sooner (see table below for "Cloak Turns") . If your cloak time runs out, 
-you stop cloaking and have to wait a number of actions equal to your "Charge 
-Delay" (listed under the relevant cloaking module's description) before being 
-able to cloak again.
+    Cloaking modules have a built-in Energy supply, the size of which is given 
+in the statblocks. This Energy recharges fully each Long Rest.
 
 ===== Cloaking Detection =====
 
-    If someone/something is looking for you, they must pass a (normally, 
-perception) check at 'Detect DC' difficulty, modified by your Stealth skill. 
+    If someone/something is looking for you, they must pass a Spotting - PER 
+check at 'Detect DC' difficulty, modified by your Stealth skill. 
+
 While moving, the Detect DC is reduced (listed as 'moving Detect DC' under the 
 relevant cloaking module's description). There is a tell-tale shimmer in the 
 cloak, as the micro-foil has a hard time keeping up with moving environments. 
 Once the wearer has settled down, the micro-foil is able to reproduce the 
 surrounding environment better and will stabilize.
 
-    When using a skill (accessing a terminal, fixing something, etc.) use your 
+	When using a skill (accessing a terminal, fixing something, etc.) use your 
 reduced, 'moving Detect DC' as you are diverting your attention. However, once 
 you have performed a combat action, the cloak fizzes out.
 
 ===== CLOAKING DURATIONS AND LEVELING BONUSES =====
 
-+-----------+-------------+-----------+-----------------+
-| Char lv   | Cloak Turns | Detect DCs| Shadow Assn turn|
-+-----------+-------------+-----------+-----------------+
-|     1*    |      3      |     -     |        +1       |
-+-----------+-------------+-----------+-----------------+
-|     2*    |      3      |     -     |        -        |
-+-----------+-------------+-----------+-----------------+
-|     3*    |      3      |     -     |        -        |
-+-----------+-------------+-----------+-----------------+
-|     4*    |      4      |     -     |        -        |
-+-----------+-------------+-----------+-----------------+
-|     5     |      4      |    +5%    |        -        |
-+-----------+-------------+-----------+-----------------+
-|     6     |      4      |     -     |        +2       |
-+-----------+-------------+-----------+-----------------+
-|     7     |      5      |     -     |        -        |
-+-----------+-------------+-----------+-----------------+
-|     8     |      5      |     -     |        -        |
-+-----------+-------------+-----------+-----------------+
-|     9     |      5      |     -     |        -        |
-+-----------+-------------+-----------+-----------------+
-|     10    |      6      |   +10%    |        -        |
-+-----------+-------------+-----------+-----------------+
-|     11    |      6      |     -     |        +3       |
-+-----------+-------------+-----------+-----------------+
-|     12    |      6      |     -     |        -        |
-+-----------+-------------+-----------+-----------------+
-|     13    |      7      |     -     |        -        |
-+-----------+-------------+-----------+-----------------+
-|     14    |      7      |     -     |        -        |
-+-----------+-------------+-----------+-----------------+
-|     15    |      7      |   +15%    |        -        |
-+-----------+-------------+-----------+-----------------+
-|     16    |      8      |     -     |        +4       |
-+-----------+-------------+-----------+-----------------+
-|     17    |      8      |     -     |        -        |
-+-----------+-------------+-----------+-----------------+
-|     18    |      9      |     -     |        -        |
-+-----------+-------------+-----------+-----------------+
-|     19    |      9      |     -     |        -        |
-+-----------+-------------+-----------+-----------------+
-|     20    |      10     |   +20%    |        +5       |
-+-----------+-------------+-----------+-----------------+
-The Table bonuses are not cumulative.
-*  For levels 1-4, you may only cloak once per encounter.
++-----------+-----------+-----------------+
+| Char lv   | Detect DCs| Shadow Assn turn|
++-----------+-----------+-----------------+
+|     1     |     -     |        +1       |
++-----------+-----------+-----------------+
+|     2     |     -     |        -        |
++-----------+-----------+-----------------+
+|     3     |     -     |        -        |
++-----------+-----------+-----------------+
+|     4     |     -     |        -        |
++-----------+-----------+-----------------+
+|     5     |    +5%    |        -        |
++-----------+-----------+-----------------+
+|     6     |     -     |        +2       |
++-----------+-----------+-----------------+
+|     7     |     -     |        -        |
++-----------+-----------+-----------------+
+|     8     |     -     |        -        |
++-----------+-----------+-----------------+
+|     9     |     -     |        -        |
++-----------+-----------+-----------------+
+|     10    |   +10%    |        -        |
++-----------+-----------+-----------------+
+|     11    |     -     |        +3       |
++-----------+-----------+-----------------+
+|     12    |     -     |        -        |
++-----------+-----------+-----------------+
+|     13    |     -     |        -        |
++-----------+-----------+-----------------+
+|     14    |     -     |        -        |
++-----------+-----------+-----------------+
+|     15    |   +15%    |        -        |
++-----------+-----------+-----------------+
+|     16    |     -     |        +4       |
++-----------+-----------+-----------------+
+|     17    |     -     |        -        |
++-----------+-----------+-----------------+
+|     18    |     -     |        -        |
++-----------+-----------+-----------------+
+|     19    |     -     |        -        |
++-----------+-----------+-----------------+
+|     20    |   +20%    |        +5       |
++-----------+-----------+-----------------+

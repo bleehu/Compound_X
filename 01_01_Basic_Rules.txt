@@ -3,7 +3,7 @@ Basic Rules
 ==============================
 	
 	Welcome to Compound X! The game of squad tactics, space exploration and 
-exciting role playing! On behalf of the develpment team, thanks for playing and
+exciting role playing! On behalf of the development team, thanks for playing and
 have fun!
 
 ==============================
@@ -154,15 +154,29 @@ Or are you a pilot who can thread a needle with your starfighter? Or maybe
 you're a veteran soldier, who's seen it all. Classes define what armor and 
 weapons your character can use in combat, as well as certain special abilities 
 which might help solve puzzles or get you better discounts at stores. Your class 
-also determines how much money you start with to buy equipment and how many 
-Nanites you can use at once.
+also determines how much money you start with to buy equipment.
 
 Nanites:
-	The evolution of technology brought about the ability to design and control 
-microscopic machines. Such a powerful advancement assists in all forms of life 
-in the Compound X universe. Nanites are used to activate powerful abilities such 
-as sprinting extremely fast, aiming incredibly well, infusing bullets with 
-electrical energy, and more.
+	Advancements in precision construction and artificial intelligence ability 
+to design and control micro- and even nanoscopic machines. Such a powerful 
+advancement assists in all forms of life in the Compound X universe. Medical 
+nanites protect their hosts from pathogens and toxins, and can be pushed to 
+briefly enable what would once have been considered superhuman abilities, 
+like running 40 meters or putting 12 bullets from two revolvers into 12 
+bullseyes ... in about six seconds. Other types of nanites are used industrially for 
+precise construction, or covertly for infiltration.
+
+	Medical nanites are acquired by characters by the unit, either through 
+purchase or background. They must be specifically tailored to a character's 
+body to avoid rejection. See their item entries in 07_Items.txt or the rules for 
+Active Feats below.
+
+Energy:
+	Continued evolution of battery technology has allowed the use of extremely 
+power-hungry equipment by individual combatants and technicians, such as particle 
+shields and cloaking armor modules. Most devices that consume Energy come with a 
+built-in supply that can be used only to power the device itself. An exception, 
+battery packs, can be used to power any device.
 
 Skills: 
 	Each character learns things while going through life. Maybe your time in 
@@ -179,7 +193,7 @@ and you'll earn more money as you go about your adventures.
 Feats: 
 	Your character will gain special perks as you level up. This could range 
 from reloading really fast, to having more health to being able to do a fast 
-combat roll under fire. Tackle these when your character advances to level 3.
+combat roll under fire. Tackle these when your character advances to level 2.
 
 ==============================
 Primary Stats and Secondary Stats
@@ -398,72 +412,6 @@ The equations to calculate your bonuses to Saving Throws are as follows:
 - Awareness: 2*(Per + Luc - 6) Rational: Line of sight and concentration are integral parts to being able to detect anomalies in the area.  
 
 ==============================
-Feats
-==============================
-
-	As your character levels up and gets better at what they do, they develop
-certain talents and abilities that help them differentiate themselves from their
-peers. These special tallents and abilities are called "Feats". See the 
-"Leveling Up Rules" table to see how many feats you get at which levels. Unless 
-otherwise specified, you cannot take a feat more than once.
-
-	There are five kinds of feats, detailed below;
-
-* Passive Feats
-* Active Feats
-* Weapon Expertise Feats
-* Stat Feats
-* Class Feats
-
-Passive Feats:
-
-	When you take a feat, you may take a passive feat. Passive Feats are used 
-freely with no limit unless otherwise stated. They often give bonuses to skills
-or to rolls for certain actions.
-
-Active Feats:
-
-	When you take a feat, you may decide to take an Active Feat. An Active Feat
-gives your character the option of taking certain actions that they otherwise
-couldn't, usually in combat. Active feats cost a certain amount of Nanites to
-execute, and if your character doesn't have enough nanites, then they can't take
-that action until they get some more. 
-
-Weapon Expertise Feats:
-	
-	When you take a feat, you may decide to take a Weapon Expertise Feat. Weapon
-Expertise Feats are a special kind of passive feat, that get better as you 
-increase your skill with a particular kind of weapon group. 
-
-	These feats represent dedicated training with a particular class of weapon, 
-and offer bonuses based on the relevant Weapons skill (Weapon skills are listed 
-in "06_Skills.txt"). Each feat offers a set of bonuses related to using that type of 
-weapon (and only that type of weapon), and each bonus requires the character to have 
-a number of points in the relevant Weapon skill. A character with 0 points in 
-Weapons - Pistols would gain only one benefit, while a character with 60 points 
-would benefit from them all. The feats are formatted as a list of "X: Benefit", 
-where X is the number of points required in the corresponding Weapon skill to 
-gain the benefit.
-	
-	Weapon Expertise feats require proficiency with the weapon type, but otherwise 
-have no prerequisites. Note that as all characters are proficient with Unarmed 
-Strike, Melee Expertise effectively has no prerequisite.
-
-Primary Stat Feats:
-	
-	Stat Feats are special and cannot be taken when you get a feat like Active,
-Passive, or Weapon Expertise Feats. Instead, they are immediately unlocked when 
-you fulfill their stat requirement. 
-
-Class Feats:
-
-	On certain levels, you will unlock a Class Feat instead of a Regular Feat.
-You cannot take a Class Feat when you get a regular Feat, nor can you forego 
-your Class Feat in favor of an Active or Passive feat. You can only unlock one
-Class Feat at a time. Class Feats are listed in the Classes document under the
-appropriate class. 
-
-==============================
 Healing Injuries
 ==============================
 
@@ -501,13 +449,37 @@ Resting
 ==============================
 
 Short Rest:
-	Taking about an hour, characters can take a Short Rest to rest and recoup 
-which will restore all the character's Nanites.
+	Taking about an hour, characters can relax, recuperate, and maintain their 
+gear to prepare for the activities ahead. 
+
+	To gain the benefits of a Short Rest, characters must not undertake any 
+strenuous activity or significant travel and should not experience significant 
+interruption. After completing a rest, characters must complete some kind of 
+strenuous activity before they can recieve the benefits of another Short Rest, and 
+can only benefit from Short Rests up to three times between Long Rests.
+
+	At the conclusion of the Short Rest, each character with at least one full 
+set of medical nanites heals 1d10 plus 1d10 health for every 3 class levels they have 
+(a level 3 character would heal 2d10, and so on). Characters with a partial set of 
+medical nanites heal 75% of that roll, and characters with no medical nanites heal 
+half that roll. Short Rests may restore other abilities or resources as described in 
+ability, class, and item descriptions.
 
 Long Rest:
 	Taking about eight hours, characters need to rest after a long day of 
 adventuring. If you choose to stay up all night, you won't be at your best for 
-the next day. Restores all of a character's Nanites.
+the next day.
+
+	In addition to the activity requirements of a Short Rest, characters taking a 
+Long Rest must spend at least two-thirds of the time in their particular species' 
+analogue of the sleep state, unless noted otherwise. Keeping watch does not interrupt 
+a Long Rest unless it requires patrolling an area. As a general rule, characters can 
+only benefit from one Long Rest per day, whatever "day" means to them at the time. 
+Refer to the Exhaustion section for timekeeping rules.
+
+	At the conclusion of a Long Rest, unless circumstances inspire the GM to 
+rule otherwise, characters are restored to full health. Long Rests may restore other 
+abilities or resources as described in ability, class, and item descriptions.
 
 ==============================
 RP / Using Skills
@@ -571,6 +543,90 @@ point they spend in that skill upon leveling up increases that skill by two
 instead of one.
 
 	Defenders win ties for opposing rolls.
+
+==============================
+Feats
+==============================
+
+	Feat is a collective term for a number of abilities or qualities that your 
+character can learn through specific training, and will differentiate them from 
+their peers. As detailed in the character creation guide, level 1 characters do not 
+start with any feats, but will acquire them either over time as shown on the 
+leveling table or during special circumstances as described by the feat entry and/or 
+the GM. Unless otherwise specified, you cannot learn the same feat multiple times.
+
+	There are five kinds of feats:
+
+* Passive Feats
+* Active Feats
+* Weapon Expertise Feats
+* Stat Feats
+* Class Feats
+
+Passive Feats:
+
+	Characters can learn passive feats through leveling. Passive feats include 
+static bonuses, special actions, and everything in between. Each feat's description 
+will detail any restrictions upon its use - there are no constants in this type of 
+feat.
+
+Active Feats:
+
+	Characters can learn active feats through leveling. Active feats are 
+special combat actions that characters can learn to use. In particular, active feats 
+are actions that characters physically could not normally execute, and thus require 
+the help of their medical nanites.
+	
+	To use an active feat, a character must have at least one functional full unit 
+of medical nanites (a partial unit is not enough). To use an active feat, a character 
+must tax one unit of medical nanites, expending much of their energy and leaving the 
+nanites unable to support the use of another active feat until they can recover.
+
+	Each active feat has a cooldown and a duration. The duration is the number of 
+actions the character must spend in using the ability. If a character does not have 
+the relevant actions available, they cannot use that feat at that time. Some feats 
+with longer durations may be interrupted between your character's turns. Feats with 
+dynamic cooldowns based on the duration use the time actually spent on the feat, rather 
+than the time your character may have originally intended. Cooldowns do not start 
+until a character has finished using a feat.
+
+	If a character has multiple units of medical nanites, they may use additional 
+active feats without having to wait for the first unit to recover. Cooldowns for 
+multiple units of medical nanites must be tracked separately.
+
+Weapon Expertise Feats:
+	
+	Weapon Expertise feats are a particular subtype of passive feats, and can be 
+learned through leveling. Expertise feats represent dedicated training with a 
+particular class of weapon and follow a particular structure, offering progressively 
+more bonuses as your character gains skill points in the corresponding weapons skill 
+(See "06_Skills.txt"). There is one weapon expertise feat per class of weapon. 
+
+	Each expertise feat offers a set of six bonuses that are in effect while your 
+character is using the relevant type of weapon (and only that type of weapon). Each 
+bonus requires the character to have a number of points in the relevant Weapon skill, 
+and a new bonus is unlocked every 12 skill points. A character with 0 points in 
+Weapons - Pistols would gain only one benefit, while a character with 30 points would 
+have the first three, and one with the maximum 60 points has all six. The feats are 
+formatted as a list of "X: Benefit", where X is the number of points required in the 
+corresponding Weapon skill to gain the benefit.
+	
+	Weapon Expertise feats require proficiency with the weapon type, but otherwise 
+have no prerequisites. Melee expertise requires proficiency with any (not all) types 
+of melee weapon, including Unarmed Strike. By default, all characters are proficient 
+with Unarmed Strike.
+
+Primary Stat Feats:
+	
+	Characters acquire primary stat feats automatically upon qualifying for them, 
+i.e. by having a sufficiently high relevant primary stat. This can occur on character 
+creation or at the levels that grant primary stat points.
+
+Class Feats:
+
+	Characters learn class feats through leveling, but only when the leveling table 
+specifies a class feat. Characters can not take non-class feats instead of class feats 
+or vice-versa. Class Feats are listed in the Classes document.
 
 ==============================
 Player Weapon Customization

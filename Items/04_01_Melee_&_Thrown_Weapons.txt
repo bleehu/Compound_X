@@ -290,7 +290,7 @@ Grenades
 
 == ECSC Smoke Grenade $50 ==
 
-Damage: D10 fire damage to exact spot of impact
+Damage: D10 Thermal Damage to exact spot of impact
 Ranged Miss Chance (to land where intended): 5 out to 10+[DEX or STR]*2 meters
 Armor Piercing Level: 0
 Reflex Modifier: -10
@@ -313,7 +313,7 @@ at the cost of one action on their next turn.
 
 == ECSC CID Chemical Incapacitation Device (Gas grenade) $50 ==
 
-Damage: D10 fire damage to exact spot of impact
+Damage: D10 Thermal Damage to exact spot of impact
 Ranged Miss Chance (to land where intended): 5 out to 7+[DEX or STR]*2 meters
 Armor Piercing Level: 0
 Reflex Modifier: -10
@@ -334,7 +334,7 @@ at the cost of one action on their next turn.
 
 == RMM Flash-Bang Distraction and Clearing Device $50 ==
 
-Damage: D10 fire damage to exact spot of impact
+Damage: D10 Thermal Damage to exact spot of impact
 Ranged Miss Chance (to land where intended): 6 out to 10+[DEX or STR]*2 meters
 Armor Piercing Level: 0
 Reflex Modifier: -10
@@ -353,7 +353,7 @@ investigation checks.
 
 == ECSC Fragmentation Grenade $90 ==
 
-Damage: D10 fire damage to exact spot of impact
+Damage: D10 Thermal Damage to exact spot of impact
 Ranged Miss Chance (to land where intended): 5 out to 10+[DEX or STR]*2 meters
 Armor Piercing Level: 1
 Reflex Modifier: -10
@@ -395,7 +395,7 @@ at the cost of one action on their next turn.
 
 == RMM Frag+ Grenade $140 ==
 
-Damage: D10 fire damage to exact spot of impact
+Damage: D10 Thermal Damage to exact spot of impact
 Ranged Miss Chance (to land where intended): 5 out to 10+[DEX or STR]*2 meters
 Armor Piercing Level: 2
 Reflex Modifier: -10
@@ -414,7 +414,7 @@ at the cost of one action on their next turn.
 
 == Frontier Chemical Grenade $70 ==
 
-Damage: D10 fire damage to exact spot of impact
+Damage: D10 Thermal Damage to exact spot of impact
 Ranged Miss Chance (to land where intended): 5 out to 10+[DEX or STR]*2 meters
 Armor Piercing Level: n/a
 Reflex Modifier: -10
@@ -431,7 +431,7 @@ at the cost of one action on their next turn.
 
 == RMM HiEx Grenade $285 ==
 
-Damage: D10 fire damage to exact spot of impact
+Damage: D10 Thermal Damage to exact spot of impact
 Ranged Miss Chance (to land where intended): 5 out to 10+[DEX or STR]*2 meters
 Armor Piercing Level: n/a
 Reflex Modifier: -10
@@ -449,7 +449,7 @@ at the cost of one action on their next turn.
 
 == Frontier Plasma Grenade FP-G5 $360 ==
 
-Damage: D10 fire damage to exact spot of impact
+Damage: D10 Thermal Damage to exact spot of impact
 Ranged Miss Chance (to land where intended): 5 out to 10+[DEX or STR]*2 meters
 Armor Piercing Level: 6
 Reflex Modifier: -10
