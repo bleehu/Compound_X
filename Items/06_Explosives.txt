@@ -1,0 +1,183 @@
+==============================
+Grenades
+==============================
+
+===== Level 1 Requirement Weapons =====
+
+== ECSC Smoke Grenade $50 ==
+
+Damage: D10 Thermal Damage to exact spot of impact
+Ranged Miss Chance (to land where intended): 5 out to 10+[DEX or STR]*2 meters
+Armor Piercing Level: 0
+Reflex Modifier: -10
+Reflex Save: 110
+
+    Rolling higher than a 9 Miss Chance causes a direct hit. For a circle of 10m 
+radius, all targets are now in stealth at 80%. Anyone looking in or out of smoke 
+must make a PER roll of 81% or higher (disregarding bonuses) in order to fire 
+through smoke. Targets that are adjacent need not abide by this rule (including 
+one target outside the circle adjacent to a target inside the circle). If you 
+are fully behind the smoke and a target is on the complete opposite side, the 
+smoke completely obscures your vision, leaving you with a perception check of 
+120% in order to see all the way through the smoke. Smoke lasts for 12 Rounds or 
+2 minutes.
+
+    Each character in the radius of a Smoke Grenade's range when it goes off may
+make a Reflex Save of DC 110. If they succeed, they may dive prone up to their
+speed for one action in the direction of their choice. Choosing to do so comes
+at the cost of one action on their next turn.
+
+== ECSC CID Chemical Incapacitation Device (Gas grenade) $50 ==
+
+Damage: D10 Thermal Damage to exact spot of impact
+Ranged Miss Chance (to land where intended): 5 out to 7+[DEX or STR]*2 meters
+Armor Piercing Level: 0
+Reflex Modifier: -10
+Reflex Save: 90
+
+    10m radius cloud of choking chemicals. anyone caught in the circle suffers 
+the following effects: partial blindness due to uncontrollable tears (+30% to 
+hit), coughing fits (-50% stealth), and take 10 internal damage per round spent in 
+the cloud. Targets can negate all effects with a gas mask. Targets who leave the 
+cloud will continue to exhibit partial blindness for 3 Rounds after leaving the 
+fog, and coughing for 6 Rounds. Gas cloud persists for 2 Rounds after initial 
+detonation.
+
+    Each character in the radius of a CID Grenade's range when it goes off may
+make a Reflex Save of DC 90. If they succeed, they may dive prone up to their
+speed for one action in the direction of their choice. Choosing to do so comes
+at the cost of one action on their next turn.
+
+== RMM Flash-Bang Distraction and Clearing Device $50 ==
+
+Damage: D10 Thermal Damage to exact spot of impact
+Ranged Miss Chance (to land where intended): 6 out to 10+[DEX or STR]*2 meters
+Armor Piercing Level: 0
+Reflex Modifier: -10
+Reflex Save: 110
+
+    All characters who sense light in the same room as the detonation or 
+within 10m of it, whichever is shorter, must succeed on a DC 85 Awareness save 
+or gain the blind condition for two rounds. Each round that the character remains 
+blind, they may retry the save once per round at the end of their turn.
+
+    Each character in the radius of a flash-bang's range when it goes off may
+make a Reflex Save of DC 110. If they succeed, they are able to shield their
+eyes or optical sensors sufficiently to avoid being totally stunned. Instead of
+being blinded, they simply suffer a -20% penalty to perception, spotting, or
+investigation checks.
+
+== ECSC Fragmentation Grenade $90 ==
+
+Damage: D10 Thermal Damage to exact spot of impact
+Ranged Miss Chance (to land where intended): 5 out to 10+[DEX or STR]*2 meters
+Armor Piercing Level: 1
+Reflex Modifier: -10
+Reflex Save: 100
+
+    Each Target within the blast radius takes multiple hits. 45 ballistic 
+damage per hit, automatically hits armor. Targets take full damage to the torso, 
+legs, and arms (if armor is pierced or not present): (3*45 damage)+2xBleed 
+within a 2.5m radius.Only legs and torso (2*45 damage)+1xBleed within a 5m 
+radius. At least one hit must damage health to cause Bleed.
+
+    Each character in the radius of a Frag Grenade's range when it goes off may
+make a Reflex Save of DC 100. If they succeed, they may dive prone up to their
+speed for one action in the direction of their choice. Choosing to do so comes
+at the cost of one action on their next turn.
+
+== ECSC C10 Plastic HE $210 ==
+
+Damage: 120 explosive damage within a 3m radius, 5m radius indoors.
+Ranged Miss Chance (to land where intended): n/a
+Armor Piercing Level: n/a
+Reflex Modifier: -10
+Reflex Save: 110
+
+    Must be set-up before use. 1 Action, DC 40 Weapons - Explosives check to set-up.
+On failure, 3 actions used instead of 1. Explosives capable of sticking to surfaces. 
+Comes with a remote detonator that is functional to 50m. 120 explosive damage 
+within a 3m radius, 5m radius indoors. All affected targets roll DC 70% shock to 
+resist stun for 1 turn. Can destroy a 3 meter radius of concrete or a 1m radius 
+of steel. Success on a DC 50 Jury-rigging check can make the explosive throwable
+(after set-up) with a 5 miss chance out to 5+[DEX or STR] meters.
+
+    Each character in the radius of a C10's range when it goes off may
+make a Reflex Save of DC 110. If they succeed, they may dive prone up to their
+speed for one action in the direction of their choice. Choosing to do so comes
+at the cost of one action on their next turn.
+
+===== Level 5 Requirement Weapons =====
+
+== RMM Frag+ Grenade $140 ==
+
+Damage: D10 Thermal Damage to exact spot of impact
+Ranged Miss Chance (to land where intended): 5 out to 10+[DEX or STR]*2 meters
+Armor Piercing Level: 2
+Reflex Modifier: -10
+Reflex Save: 120
+
+    Each Target within the blast radius takes multiple hits. 50 ballistic 
+damage per hit, automatically hits armor. Targets take full damage to the torso, 
+legs, and arms (if armor is pierced or not present): (3*50 damage)+2xBleed 
+within a 3m radius. Only legs and torso (2*50 damage)+1xBleed within a 6m radius. 
+At least one hit must damage health to cause Bleed.
+
+    Each character in the radius of a Frag Grenade's range when it goes off may
+make a Reflex Save of DC 110. If they succeed, they may dive prone up to their
+speed for one action in the direction of their choice. Choosing to do so comes
+at the cost of one action on their next turn.
+
+== Frontier Chemical Grenade $70 ==
+
+Damage: D10 Thermal Damage to exact spot of impact
+Ranged Miss Chance (to land where intended): 5 out to 10+[DEX or STR]*2 meters
+Armor Piercing Level: n/a
+Reflex Modifier: -10
+Reflex Save: 120
+
+    Creates a 7m radius cloud of burning, choking smoke. Primarily organic 
+targets take 30 internal damage per turn in the cloud. This internal damage 
+may be negated by use of a gas mask.
+
+    Each character in the radius of a Chemical Grenade's range when it goes off 
+may make a Reflex Save of DC 120. If they succeed, they may dive prone up to their
+speed for one action in the direction of their choice. Choosing to do so comes
+at the cost of one action on their next turn.
+
+== RMM HiEx Grenade $285 ==
+
+Damage: D10 Thermal Damage to exact spot of impact
+Ranged Miss Chance (to land where intended): 5 out to 10+[DEX or STR]*2 meters
+Armor Piercing Level: n/a
+Reflex Modifier: -10
+Reflex Save: 130
+
+    2x inner blast radius when indoors. 120 explosive damage within a 2m radius,
+60 explosive within a 5m radius.
+
+    Each character in the radius of a HiEx Grenade's range when it goes off may
+make a Reflex Save of DC 130. If they succeed, they may dive prone up to their
+speed for one action in the direction of their choice. Choosing to do so comes
+at the cost of one action on their next turn.
+
+===== Level 10 Requirement Weapons =====
+
+== Frontier Plasma Grenade FP-G5 $360 ==
+
+Damage: D10 Thermal Damage to exact spot of impact
+Ranged Miss Chance (to land where intended): 5 out to 10+[DEX or STR]*2 meters
+Armor Piercing Level: 6
+Reflex Modifier: -10
+Reflex Save: 140
+
+    Each Target within the blast radius takes multiple hits. 60 plasma 
+damage per hit, automatically hits armor. Targets take full damage to the torso, 
+legs, and arms (if armor is pierced or not present): (3*60 damage)+3x plasma 
+burn within a 3m radius. Only legs and torso (2*60 damage)+1x plasma burn within 
+a 5m radius. At least one hit must damage health to cause plasma burn.
+
+    Each character in the radius of a Plasma Grenade's range when it goes off 
+may make a Reflex Save of DC 110. If they succeed, they may dive prone up to their
+speed for one action in the direction of their choice. Choosing to do so comes
+at the cost of one action on their next turn.
