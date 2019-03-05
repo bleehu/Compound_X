@@ -98,7 +98,7 @@ Built-in armor:
 the armor that you wear. As such, it doesn't bounce around or bump your arms
 and legs as you move.
     
-    The movment penalty from your armor is reduced by 2, with a minimum of zero.
+    The movment penalty from your armor is reduced by 2, to a minimum of zero.
 
 Inhuman Strength:
     Built specifically for lifting and holding great weights, you are far 
