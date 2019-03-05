@@ -377,8 +377,6 @@ Strength Primary Stat is a very beefy 8. Then your Strength Modifier would be:
 	That's a really high roll! But that may or may not be enough to lift the 
 object depending on how heavy it is.
 
-
-
 ===== Nanites =====
 
 	Although not a primary or secondary stat per se, The maximum number of 
@@ -627,6 +625,36 @@ Class Feats:
 	Characters learn class feats through leveling, but only when the leveling table 
 specifies a class feat. Characters can not take non-class feats instead of class feats 
 or vice-versa. Class Feats are listed in the Classes document.
+
+==============================
+Items and Buying Items
+==============================
+
+	When you build a character, you will get some starting money and the time to
+spend it to accrue the kit that you'll start playing with. However this likely 
+won't be the last time that you'll have the opportunity to buy things. It may be 
+smart to save some of your starting cash to spend elsewhere. Some stores and 
+vendors you meet will sell exactly what you see in the Player Handbook. Some 
+traders may offer items or weapons that aren't available either at the start of 
+the game or anywhere else in the galaxy! 
+
+	When you buy a gun, the gun usually comes with 5 magazines of ammunition
+unless otherwise stated. If you pick up a weapon from a fallen enemy or comrade, 
+that weapon will only have the magazine that was in it when it dropped. However, 
+most enemies will carry more ammo into battle, and if you scavenge around, you 
+may get lucky!
+
+	All prices listed in the Player Handbook are what you will pay when making a
+character. Once your adventure has begun however, a trader may adjust their 
+prices on you. Most traders in the Compound X universe make their living by 
+buying low and selling high. These merchants might raise their prices above the
+going rate if they don't like you, or if they think you're dumb. On the other 
+hand, if you're particularly charming or if you just saved their town, they may
+offer you discounts. Prices can also varry by region.
+
+	You can attempt to haggle with most characters. You will only be successful 
+if you have the Charisma for it, and some characters can't be haggled with at 
+all. As always, what the GM says goes.
 
 ==============================
 Player Weapon Customization
