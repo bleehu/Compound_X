@@ -650,7 +650,7 @@ prices on you. Most traders in the Compound X universe make their living by
 buying low and selling high. These merchants might raise their prices above the
 going rate if they don't like you, or if they think you're dumb. On the other 
 hand, if you're particularly charming or if you just saved their town, they may
-offer you discounts. Prices can also varry by region.
+offer you discounts. Prices can also vary by region.
 
 	You can attempt to haggle with most characters. You will only be successful 
 if you have the Charisma for it, and some characters can't be haggled with at 
