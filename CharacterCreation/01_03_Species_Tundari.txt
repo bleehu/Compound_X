@@ -119,7 +119,7 @@ subsequent rolls regarding complications or recovery.
 Clawed:
 	Already equipped with built-in weapons, you are practiced at using the large claws
 on your forelimbs to give you an advantage in hand-to-hand combat. 
-[Increase damage of Unarmed Strike by {Vaguely balanced number}.]
+[Whenever you damage an enemy's health with Unarmed Strike, if that enemy does not have a Bleed token, they gain 1 Bleed token.]
 
 Soft-footed:
 	An ambush predator, you are built for sneaking up on those around you. You know how to 
