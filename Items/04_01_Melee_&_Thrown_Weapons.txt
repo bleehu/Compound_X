@@ -28,7 +28,7 @@ Accuracy Modifier: 0
 
 	Some improvised weapons may have alternate damage types, at the DM's 
 discretion. Note that the miss chance stat is only relevant when throwing an 
-improvised weapon.
+improvised weapon, while the accuracy is only used for melee attacks.
 
 == Improvised One-handed Weapon ==
 
@@ -43,7 +43,7 @@ Accuracy Modifier: 1
 
 	Some improvised weapons may have alternate damage types, at the DM's 
 discretion. Note that the miss chance stat is only relevant when throwing an 
-improvised weapon.
+improvised weapon, while the accuracy is only used for melee attacks.
 
 == Improvised Two-handed Weapon ==
 
@@ -58,7 +58,8 @@ Accuracy Modifier: -1
 
 	Some improvised weapons may have alternate damage types, at the DM's 
 discretion. Note that the miss chance stat is only relevant when throwing an 
-improvised weapon. This weapon has a Guard modifier of +1. 
+improvised weapon, while the accuracy is only used for melee attacks. This 
+weapon has a Guard modifier of +1. 
 
 ==============================
 Melee Weapons
