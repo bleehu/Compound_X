@@ -30,6 +30,29 @@ itself. Only you can decide!
 
 == Sub-Species ==
 
+	Each species is split into subgroups, which help to differentiate characters 
+from different backgrounds. 
+	
+	Humans are generally differentiated based on their home star system. Those
+who have stayed in the Sol system have been forced to endure the inhospitable conditions
+there and have survived in equal parts due to their stubbornness and ingenuity, while 
+those seeking refuge elsewhere in the galaxy have been shaped by the difficulty in 
+creating colonies on dangerous worlds.
+	
+	Tundari generally belong to one of several large clans. Each clan is distinguished
+from the others by its geographical location and culture. The clans have each adapted 
+to their environments to the point that an outsider could be forgiven for not realizing 
+that the Tundari were just one species.
+
+	ECSC Security Drones are purpose-built machines. Each Series of Drone has the 
+same chassis, but they all are created for a certain role. Many Drones are built for 
+increased resiliance in dangerous environenments such as the colonies of humanity, while 
+others are meant to do manual labor tasks that no other race could do without heavy machinery.
+
+	Opaleites are quite varied, even in the same area. They evolved many defensive traits
+to keep them alive in the hostile waters of Trioch II, which they continue to use to their
+advantage to this day.
+	
 ==============================
 Species Overview
 ==============================
