@@ -321,13 +321,6 @@ three actions on your turn to do one of the following: Draw a one-handed weapon
 such as a pistol or SMG, Aim, or fire. You can no longer take any of these 
 actions if you are below -50 health. 
 
-== Monk ==
-Prerequisites:
-
-*  Level 7 or higher
-
-	Able to use full damage for lethal strikes with unarmed.
-
 == Muscle Memory ==
 Prerequisites:
 
