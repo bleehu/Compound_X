@@ -231,9 +231,9 @@ SMGs, table legs, lengths of cable, most kitchenware, and the like would be
 One-handed. Heavier objects like every other class of firearm, chairs, or 2x4s 
 are Two-handed.
 
-	Improvised Light or One-handed weapons may be thrown up to 5 meters, and 
-Two-handed ones may be thrown up to 3, though both suffer an additional -2 
-Accuracy. Their damage when thrown is the same as when used for melee strikes.
+	Improvised weapons may be thrown using the ranged miss chance provided 
+in the improvised weapon stat block. Their damage when thrown is the same as 
+when used for melee strikes.
 
 == Combat Maneuvers ==
 
