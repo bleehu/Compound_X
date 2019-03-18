@@ -390,18 +390,9 @@ it provides no bonuses for one round.
 ===== Thrown Weapons =====
 
 	These weapons work similarly to guns in that attackers add their combat PER 
-mod to their accuracy, however their range is determined by the attacker's DEX or 
-STR. Like melee attacks, if you roll a critical hit or 3+ above your Miss Chance, 
-you ignore the target's armor and deal full damage. Thrown weapons also benefit 
-from Stealth Attacks (see basic rules).
-
-	Thrown weapons benefit from half the base damage bonuses from Unarmed Combat 
-feats.
-
-	If you have Weapons - Thrown skill >=20 then all DEX or STR requirements 
-for Thrown Weapons are reduced by 1.
-
-	All misc thrown weapons have a Reflex Modifier: -10
+mod to their accuracy, however, like melee attacks, if you roll a critical hit or 
+3+ above your Miss Chance, your attack bypasses any armor the target is wearing. 
+Thrown weapons benefit from Stealth Attacks normally (see basic rules).
 	
 	Thrown weapons use the same size categories as Melee weapons for 
 determining proficiency, though a Two-handed throwing weapon would be 
