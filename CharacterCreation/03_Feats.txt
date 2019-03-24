@@ -1055,8 +1055,8 @@ Cooldown: None
 Duration: Free Action
 
 	If you are wielding a CQB firearm, during your turn, you may aim as a 
-Reaction instead of an action. When you do, your attacks during your next two 
-Actions have -2 accuracy. This penalty stakcs with itself.
+Reaction instead of an Action. When you do, your attacks during your next two 
+Actions have -2 accuracy. This penalty stacks with itself.
 
 == Blur ==
 
