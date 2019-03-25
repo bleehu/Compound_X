@@ -1054,8 +1054,9 @@ Prerequisites:
 Cooldown: None
 Duration: Free Action
 
-	While wielding a CQB firearm, you may aim as a free action instead of an 
-action. If you do, your next two attacks with that weapon have -2 accuracy.
+	If you are wielding a CQB firearm, during your turn, you may aim as a 
+Reaction instead of an Action. When you do, your attacks during your next two 
+Actions have -2 accuracy. This penalty stacks with itself.
 
 == Blur ==
 
