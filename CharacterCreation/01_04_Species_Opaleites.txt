@@ -178,6 +178,27 @@ any protection, then the Condrich uses an armor called "Natural Armor" which has
 They have however much mag space any other clothing they wear provides. If the
 Condrich does wear armor, they get an Armor Strength bonus of 20 to whichever
 armor that they wear.
+
+I Smell Blood:
+
+    Condrichs have a very developed sense of smell and are particuarly adept at
+tracking prey on land and sea. Their large and distributed olfactory network
+causes a slight bulge above their nose and eyes. This olfactory network can 
+detect the direction of a smell depending on which branches the odor hits first.
+They aren't quite as sensitive as some tracking service animals, but they have
+the benefit of being able to do it above or below the surface of the water.
+
+    Condrichs with this trait get a +10 to investigate checks to follow a trail,
+and to perception checks using their sense of smell. Condrichs with this trait 
+that make a melee attack against a target that has a bleed condition get 
+advantage on their rolls. Condrichs get advantage on spotting rolls to find a
+target that has the bleeding condition. This comes with an additional -12 penalty
+to Saving Throws warding against smoke or gas penalties. 
+
+    Each time a Condrich with this trait dives into water or emerges from being
+submerged, they will need to take an Action to clear their sinuses of the air or
+water so they can use the above abilities.
+
     
 ===== Sea Devils =====
 
