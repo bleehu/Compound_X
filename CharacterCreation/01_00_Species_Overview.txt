@@ -28,6 +28,14 @@ itself. Only you can decide!
 
 == Traits ==
 
+    When creating your character, you will get the chance to pick two species
+traits. The pool of traits that you can pick from include your available species
+traits, as well as any available traits from your sub-species. You can choose
+to have two traits from your species traits list, or two traits from your 
+sub-species list. You can choose to have two traits from your species traits 
+list, two traits from your subspecies list, or one each from your species and 
+subspecies list.
+
 == Sub-Species ==
 
 	Each species is split into subgroups, which help to differentiate characters 
