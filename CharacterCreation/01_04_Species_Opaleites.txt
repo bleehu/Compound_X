@@ -232,10 +232,10 @@ Deep Glow:
     Even those with low-light vision cannot see in total darkness without
 aid. A Sea Devil may concentrate on their bioluminescent scales, brightening
 them to a level that will allow others to see better in the darkness.
+
+   The Sea Devil has bioluminescent glands spread all over their body. When activated, 
+they glow a steady blue light. The light illuminates a 10m area around 
+the Opaleite. The glow emitted from the Sea Devil makes them an easier target when
+activated- Enemies receive a +1 to hit them.
     
-    The area 5m around you is increased two light levels, an additional
-5m is increased by a single light level. Enemies attacking you gain a +1 bonus 
-to hit. This takes a great deal of energy; it will take twice as long to perform
-actions in combat while this ability is active, and any injury will end
-the ability. Can be used up to 10 minutes before needing a short rest;
-up to 30 minutes a day.
+
