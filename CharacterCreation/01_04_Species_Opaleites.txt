@@ -233,9 +233,9 @@ Deep Glow:
 aid. A Sea Devil may concentrate on their bioluminescent scales, brightening
 them to a level that will allow others to see better in the darkness.
 
-   The Sea Devil has bioluminescent glands spread all over its body. When activated, 
-they cause it to glow a steady blue light. The light illuminates a 10m area around 
-the Opaleite. The glow emitted from the Sea Devil makes it an easier target when
-activated. Enemies recieve a +1 to hit.
+   The Sea Devil has bioluminescent glands spread all over their body. When activated, 
+they glow a steady blue light. The light illuminates a 10m area around 
+the Opaleite. The glow emitted from the Sea Devil makes them an easier target when
+activated- Enemies receive a +1 to hit them.
     
 
