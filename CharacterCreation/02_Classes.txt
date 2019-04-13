@@ -433,27 +433,6 @@ effects.
     To take this feat, a Character must be level 10 and have taken the "Boostin' 
 Buggies" Class Feat.
 
-Extensive training <Vehicle>:
-
-	Your complete knowledge of <Vehicle> makes your operation of it seem easy. 
-Add	25 to any check concerning your operation, knowledge, or maintenance of the 
-vehicle. A suggested list of vehicles to chose from is below, but it is not
-exhaustive.
-
-* car/van/truck
-* tank
-* small boat
-* large watercraft
-* helicopter
-* starfighter
-* warship
-
-<Vehicle> Mastery:
-
-	You are THE guru across the galaxy for <Vehicles>. Add 50 onto a pertinent 
-roll about the vehicle.
-
-
 =====   HUNTER   =====
 
 	Unlike many of your compatriots who prefer the cold comforts of technology,
