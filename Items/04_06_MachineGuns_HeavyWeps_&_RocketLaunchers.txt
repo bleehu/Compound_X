@@ -96,7 +96,7 @@ Movement Speed Penalty: -2m
 * 2 out to 15m
 * 4 out to 45m
 * 5 out to 80m
-
+ 
 ==Matthews Model 240-B  $4450 ==
 
 Damage: 105 Ballistic
@@ -298,6 +298,37 @@ listed value when used in this gun. 2 action reload time.
 * 3 out to 15m
 * 4 out to 40m
 * 5 out to 100m
+
+==Frontier Flame Thrower FLMR-B $3880 ==
+
+Damage: 80 Fire
+Mag Size:  8 units of 6 liters, Naphitic Gel. $320 per magazine
+Reload DC:  50
+Fire Modes:  Semi
+Armor Piercing Level: n/a
+Reflex Modifier: -20
+Suppression Level: Medium
+Movement Speed Penalty: -2m
+
+	This flame thrower fires a wide spread of flaming gel, hitting the target 
+space as well as each adjacent space visible to the wielder. The flaming gel 
+continues to burn for one round of turns.
+	Catches flammable objects on fire. Not affected by armor, unless target is 
+100% sealed. Any targets that took damage apply 1 x Burning @ DC70% to remove. 
+Apply 1 x Fear on hit. No optics or barrel attachments.
+	When the flame hits its target space, anybody who takes a step into a 
+space that has flame on it or begins their turn in one must make a DC60 DEX roll 
+to avoid taking damage from lingering flame on the ground. Failing this roll 
+deals 30 damage and 1 x Burning @ DC70% to remove.
+
+	Ranged Miss Chance
+
+* 2 out to 10m
+* 5 out to 15m
+* 6 out to 20m
+
+    The Frontier Flame Thrower FLMR-B has large magazines that take up 2 magazine 
+slots.
 
 ==Anvil Arms XM-500 Minigun $4477 ==
 

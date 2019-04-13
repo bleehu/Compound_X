@@ -51,7 +51,16 @@ D10:
     A 10-sided Die. See "The Primary Game Mechanic" in the Basic Rules.
 
 DM: 
-    Dungeon Master. See Game Master. 
+    Dungeon Master. See Game Master
+
+Encounter:
+    An encounter is an arbitrary unit of measure of role playing gameplay. An
+encounter is one puzzle, one battle, or one plot-progressing social engagement
+with one or more NPCs. 
+
+    When measuring a battle encounter, the encounter is the time from making 
+first stealth attack or rolling initiative to the time that play is no longer
+in initiative order. 
 
 Feat: 
     As your character levels up, they get special perks or bonuses. These are 
