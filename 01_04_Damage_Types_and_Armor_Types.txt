@@ -1,8 +1,12 @@
 ==============================
 Damage Types and Armor Types
-============================== 
+==============================
 
-===== Damage Types =====
+    There are 5 main types of damage in compound X: Ballistic (conventional 
+firearms, bows), Laser, Plasma, Explosive (concussive), and melee. Additionally, 
+some Ballistic, Laser, and melee weapons can deal non-lethal variants. These 
+damage types interact differently with the two types of protection: Armor and 
+Shields. 
 
 == Common Damage Types ==
 
@@ -84,7 +88,7 @@ separately in the attack, trap, etc.
 	Acid damage is dealt first to armor, and then health. It bypasses shields.
 
 Internal Damage:
-    Internal damage can be taken from things like parasites, malicious
+    Internal damage can be sustained from things like parasites, malicious
 microbots, or simply pushing your character's physical body past its breaking
 point. 
 
@@ -96,10 +100,7 @@ Unless otherwise stated, it also bypasses all other defensive effects.
 Armor:
     Ballistic Armors (or more simply, Armor) are the first type of protective 
 measure that you will come across. When armor is shot by a ballistic weapon, the 
-armor may reduce or fully block damage before the character's health is damaged.
-Ballistic armor also does not conduct electricity, and an electric weapon that
-hits armor usually does not deliver the electric portion of its damage. For 
-examples of armor that you can buy, see the /items/Armor section.
+armor may reduce or fully block damage before the character's health is damaged. 
 
 Shields:
     Shields are the second type of protective measure that you will come across. 
