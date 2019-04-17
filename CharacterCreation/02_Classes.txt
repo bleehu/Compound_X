@@ -212,17 +212,17 @@ Adrenaline Points. Requires the "Adrenaline Junkie" Doctor Class Feat.
     One-Hand Wonder:
 
     "I've done this so many times, I could do it with one arm tied behind my 
-back". You need not holster your weapon while performing any Proceedure that 
+back". You need not holster your weapon while performing any Procedure that 
 only takes 1 Action. Nor do you need to re-draw a weapon after performing such
-Proceedures.
+Procedures.
 
     Multitasker:
 
     Requires that a Doctor be level 10 and have taken One-Hand Wonder. You no
-longer need to holster your weapon to perform Hippocratic Proceedures that 
+longer need to holster your weapon to perform Hippocratic Procedures that 
 require 2 Actions either. Furthermore, if you are using a CQB weapon or a 
 pistol then you may either hip fire or suppress as a Free Action while 
-performing the Proceedure.
+performing the Procedure.
 
 	The Harmacist:
 
