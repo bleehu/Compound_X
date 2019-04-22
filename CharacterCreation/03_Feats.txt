@@ -1041,7 +1041,7 @@ attack this turn against a target you are aimed at, you gain +1 Accuracy and +10
 to the weapon's largest range bracket. Miss Chance can go below the -2 minimum
 (see section "Combat:" in the basic rules document). 
 
-	Steady Shot may be taken multiple times, up to a maximum of 4; the bonuses stack.
+	Steady Shot may be taken twice; the bonuses stack.
 
 == Twitch ==
 
