@@ -1,0 +1,138 @@
+==============================
+Armor
+==============================
+
+    You like being alive, but your adventures sometimes end up with you being
+shot at. Luckily, most species in the galaxy have a technology specifically to
+solve that age-old problem! These rules tell you what your armor does, and what
+to do if an enemy succeeds in their attempts to shoot you.
+
+===== ARMOR SYSTEMS =====
+    Armor Systems are composed of an Armor Rig and a protective Armor Material. 
+Having lots of armor may slow you down, but armor will prevent you from 
+being easy prey. Armor Rigs can be broken down into 4 pieces: helmets,
+chest rigs, arm rigs, and leg rigs. 
+
+    Helmets mostly help for RP effects or holding night vision goggles.
+The other 3 riggings provide ammunition space and (most rigs) provide
+space for installing an Armor Material. Armor Materials must be purchased 
+separately than Armor Rigs. Also, Armor systems do not include any protection
+without an Armor Material. If you purchase more than one Material* to cover 
+your whole body (installing in the Arm, Leg, and Chest Rigs, for example) it 
+improves the Armor Coverage (% of Armor protection), but not the quantity of 
+the Armor Strength (AS) or the Armor Piercing Level (APL). 
+
+    For example: if you purchase a Chest Rig from the Medium Armor Systems
+category and a Standard L1 Material, you'll have 40% coverage, 40 AS, and an 
+APL of 1. Now, in addition, if you purchase the Leg Rig from the Medium Armor 
+Systems and a Standard L1 Material, you'd have 55% coverage, 40 AS, and an
+APL of 1.
+
+*Note: you cannot mix-and-match Materials or Rig categories. Only one
+kind of Material can be used for the one category of Rigging you are wearing.
+
+===== WHERE IS MY AMMO STORAGE? =====
+
+    If you are wearing any Armor Rigging, you have a certain amount of 
+"Mag Space". When you are loading up your guns before a mission, you can decide 
+how to arrange your Mag Space to suit your needs. "Mag Space" translates 1 to 1
+into Primary Magazines, and 2 to 3 (or 1 to 1) into Secondary Magazines.
+
+    For example, if I have a Chest Rig from the Recon Armor Systems category, I 
+would have 5 Mag Space. I can turn that Mag Space into 3 Primary Magazine and 3
+Secondary Magazine spaces, 5 Primary Magazine spaces, or any feasible combination. 
+
+===== WHAT IS AN 'ADVANCED RIG'? =====
+
+    Advanced (adv.) Rigs typically provide less Armor Coverage and Mag Space 
+than their regular counterparts, but they allow you to attach Shield Generators,
+Hard Point Equipment, and/or Cloaking Equipment. Advanced Rigs allow you to do
+this by providing 'Hard Points'. Hard Points are special joints and fittings that
+make it easy to attach equipment. When you purchase equipment, it will list how
+many Hard Points it consumes. You can't attach more equipment than you have available
+Hard Points.
+
+    Hard Point Equipment/Shields/Cloaking often come in two sizes, "Primary Modules" and 
+"Secondary Modules". After you purchase and install a Primary Module, you can also purchase
+and install a Secondary Module(s) that augment the benefits of the Primary Module. The 
+benefits are listed in the description of a given module. They do not mix and match;
+Secondary Modules only work for the Primary Module they are designed for.
+    Some modules have a "____ Skill Requirement". In order to operate the module, you
+must have the required quantity of the given skill.
+
+===== ARMOR RIGS =====
+
+    Armor rigs cannot be worn in combination with other Rigs from different types, tactical 
+vests, or EVA suits (for example: Recon Rigs can't be worn with Light Rigs). Some of the 
+lighter Armor Rigs cannot hold Armor Materials, designated by "(*No Armor*)". Those rigs 
+only provide more Mag Space or more Hard Points; they don't provide additional Armor Coverage.
+
+===== EVA SUITS AND FLIGHT HELMETS =====
+
+    Helmets may be worn with or added to Armor or Environment (EVA) suits.
+EVA suits are air- and water-tight when combined with an EVA or flight helmet.
+EVA suits are bulky and cannot be used with Armor Rigs, also, DEX skill checks
+have a -10% penalty and movement is reduced in RP. If the suit is hit more 
+times than its "Suit Integrity" rating, it will no longer be able to maintain
+air pressure (player health has to be damaged in order for "Suit Integrity" to
+count a hit). Suits traditionally come in white, yellow or red.
+
+===== SHIELD GENERATORS =====
+
+    Shields cover the wearer with a transparent field which blocks 
+100% of incoming Laser damage, and 50% of Plasma weapon damage, 
+as long as the Shield isn't drained of its "Shield Strength".
+Traditionally, a Shield unit consists of a generator pack which 
+is generally the size of a small backpack, and some field
+stabilizers that extend the field over the body. Once the
+Shield's capacitor units are exhausted, the Shield breaks and
+needs a while to recharge. If the user maintains their Shield 
+without letting it break, they can avoid the costly recharge time.
+For more information, please see section "Shields" in the 
+Basic Rules document.
+
+    Armor consists of 3 concepts: Armor Points (APs), Armor Piercing level (APL),
+and % Coverage. Starting from the end, Coverage is simply the percentile that 
+you have to roll under to see if armor was hit. If the attack misses armor, or 
+rolls over 50%, it does half damage because the bullet is hitting a less vital 
+part of the body. If the attack hits armor: Armor Piercing level (APL) comes 
+into play.
+
+== Armor Piercing Level (APL) ==
+
+    APL is a unitless number that represents how well a weapon can pierce armor or
+how well armor can block bullets. If the attackers weapon's APL is less than the
+defenders armor's APL, all damage is blocked. If the weapon's APL is greater than
+or equal to the armor's APL, then Armor Points (APs) come into play. 
+
+== Armor Points (APs) ==
+
+    APs are, effectively, your armor's ability to slow down projectiles as they
+pass through it. Whenever armor is successfully pierced, all damage is first inflicted
+on APs. Once the APs are used up, all remaining damage goes to health. APs refresh at the
+start of the armor wearer's turn.
+
+===== Shields =====
+
+    If you are looking to defend against Lasers or Plasma, you're in the right 
+place. Every laser-toting plasma-fuming space hooligan will be looking to turn 
+you into space-bacon ('spacon' for short) on your adventure; shields will slow 
+that process down. If you are hit with a laser, shields absorb 100% of the 
+damage, reducing the shield's strength by the damage taken. If you are hit with 
+a plasma weapon, the shield absorbs 50% of the damage, and the rest passes 
+through to the next line of defense (either armor [if present] or the 
+character's body). If the Shield's Strength is reduced to 0, all remaining 
+damage passes through unabated.
+
+    As long as the Shield's Strength isn't reduced to 0, the shield will 
+recharge 'Recharge Rate / Turn' number of points at the start of the wearer's 
+turn. If the Shield's Strength is reduced to 0, you must wait a "Shield Restart 
+Time" number of turns before the shield will restart at "Recharge Rate" 
+strength. If you get hit with a weapon/by melee during that time, you must start 
+your "Shield Restart Time" over again. 
+
+    If you don't want to wait that long, at the start of your turn you can pay 
+the "Fast Recharge Nanites" cost to restart your shields. Or if your Shield's 
+Strength is just damaged, at the start of your turn you can pay the "Fast 
+Recharge Nanites" cost to boost the Shield's Strength by an extra "Recharge Rate 
+/ Turn" (in other words, 2x "Recharge Rate / Turn" instead of the normal 1x).
