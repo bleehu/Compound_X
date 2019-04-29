@@ -100,13 +100,13 @@ DEX Requirement: 4
 
 Damage: 40 + 3*STR mod + 1*DEX mod Ballistic
 Size: Two-handed
-Range: Adjacent (1m)
+Range: Adjacent (1m) (See below)
 Accuracy Modifier: +2
 DEX Requirement: 2
 
-	If you down an enemy with this weapon without a critical hit, 
-you must spend an Action to remove it from the target before you can 
-attack with it again.
+	On your turn, this weapon has +1m range. If you down an enemy 
+with this weapon without a critical hit, you must spend an Action to 
+remove it from the target before you can attack with it again.
 
 ===== Level 5 Requirement Weapons =====
 
