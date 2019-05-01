@@ -174,17 +174,15 @@ of 12, that hits its target's armor would deal no damage to the armor and
 attack was a two-handed strike, the health damage would be 18.
 
 Nonlethal Damage:
-	By default, melee attacks do lethal damage, like the vast majority of 
+	By default, melee attacks deal lethal damage, like the vast majority of 
 guns. This just means that when an attack drops a target to 0 health, they 
 enter the Bleeding Out state. However, when fighting unarmed or with a melee 
 weapon that you are proficient with, you may declare a melee attack you have 
 not yet rolled to be nonlethal. This imposes a -2 accuracy penalty, since you are 
 imposing constraints upon yourself on where you can strike, but if a nonlethal 
-attack would reduce a target to 0 health, the target instead drops to 1 health 
-and becomes Unconscious (and does not gain the Bleeding Out condition). 
-
-	A target reduced to exactly 1 health by a nonlethal attack does not 
-fall Unconscious. 1 is not 0.
+attack would reduce a target to 0 health, the target drops to 0 health and becomes
+Unconscious instead of becoming Downed and beginning to Bleed Out. The Unconscious
+condition ends when the character's health increases above 0. 
 
 Melee Accuracy and Guard Critical Hits:
 	See "Critical Hits" below for general Critical information. Melee Critical 
@@ -233,9 +231,9 @@ SMGs, table legs, lengths of cable, most kitchenware, and the like would be
 One-handed. Heavier objects like every other class of firearm, chairs, or 2x4s 
 are Two-handed.
 
-	Improvised Light or One-handed weapons may be thrown up to 5 meters, and 
-Two-handed ones may be thrown up to 3, though both suffer an additional -2 
-Accuracy. Their damage when thrown is the same as when used for melee strikes.
+	Improvised weapons may be thrown using the ranged miss chance provided 
+in the improvised weapon stat block. Their damage when thrown is the same as 
+when used for melee strikes.
 
 == Combat Maneuvers ==
 
@@ -252,8 +250,8 @@ The Opposed Maneuver Check:
 	Most maneuvers make use of the same mildly complex skill opposition, 
 called the opposed maneuver check. It does not refer to a "maneuver" skill, 
 but is short for the following instructions. The attacking or acting character 
-rolls STR-Athletics, and the defender rolls his or her choice of STR-Athletics 
-or DEX-Acrobatics. Initiating a grapple, shove, trip, etc. is mostly a matter 
+rolls Athletics (STR), and the defender rolls his or her choice of Athletics (STR)
+or Acrobatics (DEX). Initiating a grapple, shove, trip, etc. is mostly a matter 
 of brute strength, but such attempts may be opposed strength for strength or 
 dodged by superior agility.
 
@@ -272,7 +270,7 @@ starts with control.
 	Characters shooting at a target in the Grappled state may hit both or 
 either. With wide-effect weapons like flamethrowers or buckshot, the attack may 
 be made against either target but the damage is divided evenly among the grappled 
-characters. Attacks with other weapons have a 50% + the shooter's LUC mod to hit 
+characters. Attacks with other weapons have a 50% + the shooter's LUCK mod to hit 
 the intended target, and otherwise hit the other.
 	
 	While in the Grappled state, most ranged attacks at range R2 or R3 (based 
@@ -295,20 +293,20 @@ of releasing the character from the grapple. The character grappling with a Pinn
 target may attempt to restrain the target with a further opposed maneuver check and 
 appropriate tool, such as zip cuffs. Success renders the target helpless (until 
 they can break the bonds, which depends on the item used, see item descriptions). 
-Pinned targets are also vulnerable to knockout and kill actions: both render the 
-target unconscious and reduce him or her to 1 health, but a successful kill action 
+Pinned targets are also vulnerable to Knockout and Kill actions: both render the 
+target Unconscious and reduce them to 0 health, but a successful Kill action 
 also forces the target to make a death saving throw. Knockout and Kill require two 
-consecutively won opposed maneuver checks, and targets additionally add their Shock 
-modifier to their roll when defending against attempts to kill. If a character 
-restrains, knocks out, or kills a grappled target, he or she is still grappled and 
-must spend an Action to disengage.
+consecutively won opposed maneuver checks, and targets add their Shock modifier to
+their roll when defending against attempts to Kill. If a character restrains, knocks
+out, or kills a grappled target, he or she is still engaged in the grapple and must
+spend an Action to disengage.
 	
 	Grappling-specific actions are described below.
 	
 Pin: 	The attacker and defender make an opposed maneuver check. If the attacker 
 	wins, the defender gains the Pinned state.
 Disengage: Characters in control of a grapple may disengage without rolling. 
-	Otherwise both characters choose one of STR-Athletics or DEX-Acrobatics 
+	Otherwise both characters choose one of Athletics (STR) or Acrobatics (DEX)
 	and roll an opposed check (choices may differ). If the disengager wins, 
 	the grapple ends (and the active character has 3 Actions available this 
 	round).
@@ -338,8 +336,8 @@ target ends the grapple.
 Disarm:
 	This maneuver attempts to relieve the target of a carried item or weapon. 
 The character initiating this maneuver declares a weapon or item the defending 
-character is wielding. Both attacker and defender choose between STR-Athletics 
-and DEX-Acrobatics (choices may differ) and make an opposed check. Defenders have 
+character is wielding. Both attacker and defender choose between Athletics (STR)
+and Acrobatics (DEX) (choices may differ) and make an opposed check. Defenders have 
 Disadvantage on the check if they do not have proficiency with the targeted item 
 (for this purpose, improvised melee weapons are treated as regular melee weapons 
 of the appropriate size). If the attacker wins, the defender is forced to drop the 
@@ -392,18 +390,9 @@ it provides no bonuses for one round.
 ===== Thrown Weapons =====
 
 	These weapons work similarly to guns in that attackers add their combat PER 
-mod to their accuracy, however their range is determined by the attacker's DEX or 
-STR. Like melee attacks, if you roll a critical hit or 3+ above your Miss Chance, 
-you ignore the target's armor and deal full damage. Thrown weapons also benefit 
-from Stealth Attacks (see basic rules).
-
-	Thrown weapons benefit from half the base damage bonuses from Unarmed Combat 
-feats.
-
-	If you have Weapons - Thrown skill >=20 then all DEX or STR requirements 
-for Thrown Weapons are reduced by 1.
-
-	All misc thrown weapons have a Reflex Modifier: -10
+mod to their accuracy, however, like melee attacks, if you roll a critical hit or 
+3+ above your Miss Chance, your attack bypasses any armor the target is wearing. 
+Thrown weapons benefit from Stealth Attacks normally (see basic rules).
 	
 	Thrown weapons use the same size categories as Melee weapons for 
 determining proficiency, though a Two-handed throwing weapon would be 
@@ -495,8 +484,8 @@ instead of running, for a +1 movement bonus per action. However, firing your
 weapon after doing so will cause you to incur a +1 miss chance penalty. The 
 penalty occurs during the actions you sprint, as well as 2 actions afterwards. 
 You can sprint for a number of consecutive Actions equal to your Fortitude. You 
-can jump horizontally Dex/2 meters, and add 1m if you have a 3m running start.
-You can jump vertically Str/3 meters.
+can jump horizontally DEX/2 meters, and add 1m if you have a 3m running start.
+You can jump vertically STR/3 meters.
 
 ===== Other Combat Details =====
 
@@ -706,7 +695,7 @@ scope), and you fire inside that distance, you are forced to hip fire.
 around cover without looking or putting yourself at risk. You can blind fire 
 while hunkered. Your blind fire miss chance is affected by your base weapon miss 
 chance(s), not affected by attachments unless otherwise noted, reduced by PER 
-stat combat bonus (as usual), and reduced by LUCK stat combat bonus. It's 
+stat combat bonus (as usual), and reduced by LUCK combat stat bonus. It's 
 recommended to calculate this separate miss chance and write it down before 
 combat.
 
@@ -944,11 +933,11 @@ Death, Dying, and Downed
 ==============================
 
 	Oh no! You have less than 1 health point left! What now!?! The good news is 
-you are not* dead yet. But you are doing what's known as "bleeding out". The 
+you are not* dead yet. But you are doing what's known as "Bleeding Out". The 
 first time your character falls below 1 hit point, you get 3 saving throws 
 called Death Saving Throws (or 'DSTs' for short). You roll one saving throw per 
-turn that you are downed and these DSTs are not modified by any attribute. If you 
-succeed a DST, (see 'Downed', below) you continue bleeding out; however, you get 
+turn that you are Downed and these DSTs are not modified by any attribute. If you 
+succeed a DST, (see 'Downed', below) you continue Bleeding Out; however, you get 
 to roll again next turn. If you fail 3 DSTs, you die. Once you fail a DST, the 
 next time you fall below 1 health point you only get 2 DSTs (2 failed throws and 
 you die). If you failed a DST during the first two times you were downed and 
@@ -957,9 +946,9 @@ whole encounter without failing a DST. You can have a maximum of 3 saving throws
 at any one time.
 
 Downed:
-	The state of having less than one Health Point is called being "downed." It 
-is also sometimes called "bleeding out." They are equivalent. While a character 
-is downed, they cannot move, cannot stand under their own power, and fall prone 
+	The state of having less than one Health Point is called being "Downed." It 
+is also sometimes called "Bleeding Out." They are equivalent. While a character 
+is Downed, they cannot move, cannot stand under their own power, and fall prone 
 if not supported by other means. They cannot speak, but can mumble 
 incomprehensibly.
 
@@ -970,12 +959,12 @@ health. Any additional attacks you sustain will push you into negative health.
 
 Stabilize:
 	As an action, a character may choose an adjacent, Downed character and 
-attempt to Stabilize them. That character makes DC 80 Dex-based skill check: 
+attempt to Stabilize them. That character makes DC 80 DEX-based skill check: 
 Medicine for primarily organic targets, or Repair for primarily mechanical targets.
 If successful, the target is revived and now has 1 HP, is no longer Downed, and 
 may take Actions as normal within the initiative order. A character may be revived 
 in a single encounter a number of times equal to half their Fort, minimum two. Past 
-this limit, stabilized characters are unconscious in addition to the other effects 
+this limit, stabilized characters are Unconscious in addition to the other effects 
 of Stabilization. Note that most persistent damage effects, like bleeds or burns, 
 fall off of characters when they are Downed.
 
