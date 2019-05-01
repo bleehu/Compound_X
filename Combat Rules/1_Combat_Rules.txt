@@ -4,7 +4,7 @@ Combat
 
 	Combat starts when either you or an enemy decides they would like to make an 
 attack (or as the GM decrees). During combat, the flow of the game changes so 
-that both player characters and the Non-Player Characters which are run by the
+that both player characters and the Non-Player Characters that are run by the
 Game Master each take a turn in a specific order. 
 
 	Combat can end many different ways. Obviously, if all characters on one side
@@ -64,7 +64,7 @@ Reactions include Opportunity Attacks (described in "Melee Combat", above)
 and Held Actions, below. After the Reaction occurs, play continues as normal. 
 If it was an opponent's turn, they continue their turn. 
 
-	A character may use up to three Reaction per round, regardless of how 
+	A character may use up to three Reactions per round, regardless of how 
 many viable trigger circumstances occur.
 
 ===== Held Actions =====
@@ -111,7 +111,7 @@ Standing up from crouching: 1 Action
 
 Talking: Free Action
 Performing a Skill Check (other than Getting Bearings): 1 Action
-Spotting(PER) checks to look for enemies: Free Action
+Awareness checks to look for enemies: Free Action
 
 ==============================
 Movement in Combat

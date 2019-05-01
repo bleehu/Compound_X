@@ -390,8 +390,6 @@ Some class feats and other abilities can increase the number of Nanites you can
 hold and use at a given time. Also, Unlike Health, Nanites regenerate during 
 combat at a rate of 3 Nanites per turn. 
 
-=====  =====
-
 ==============================
 Saving Throws
 ==============================
