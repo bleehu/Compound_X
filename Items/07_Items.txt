@@ -128,6 +128,19 @@ wearing any helmets or other sizeable headgear.
 Consumables
 ==============================
 
+Adrenaline Syringe ($18):
+    
+    This small metal cylinder contains a few ounces of synthetic adrenaline.
+This particular dose doesn't last long, but will keep your heart beating even if
+it has almost no blood left in it at all. 
+    
+    Using this syringe takes two Actions. The syringe can only be used on an 
+organic character who is bleeding out. The syringe does not heal the character 
+or stabalize them. The character's Death Saving Throws are all reset as if that
+character had succeeded on all of their Death Saving Throw rolls. This syringe
+does not require a medicine check; the device measures out the appropriate 
+dosage automatically.
+
 Dog Food ($18):
     A can of preserved wet dog food with easy-open tab. High in protein and 
 vitamins for a healthy growing pup. One can will feed a dog for a day. 
