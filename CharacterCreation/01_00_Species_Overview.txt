@@ -103,3 +103,18 @@ play something other than a human, but something that is still a mammal. You
 play a human every day, after all!
 
 ===== Security Drone =====
+
+    Security Drones are bipedal, self-aware robots. Originally developed in the 
+Compound X experimentation laboratory as a military project, their design and 
+construction has since spread into the larger Terran Imperial corporate scene. 
+Drone personalities tend to be dutiful, conscientious, stubborn, and unsubtle.
+
+    Drones can claim victory as any almost any class. You could be the 
+weapon-loaded Specialist who knows how to deal with obstacles, or the 21st 
+century nightmare Hacker with an intimiate understanding of AI operating systems, 
+or perhaps the top-notch Pilot that literally becomes one with their vehicles.
+
+    Play a Security Drone if you want to roleplay from within a set of constraints 
+that are better defined and more resistant to change than most species. Drone 
+traits tend toward durability and observation, making them strong defensive 
+presences.
