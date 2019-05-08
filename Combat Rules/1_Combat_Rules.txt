@@ -86,6 +86,12 @@ Character saves them from falling off the ledge and their turn continues. If
 they had not tripped, my held action would've been lost at the start of my 
 following turn.
 
+===== Saving Against Ongoing Conditions =====
+
+Attempting a save to end an ongoing condition takes one Action, 
+unless the ability that applied the condition says otherwise. A character 
+may only attempt to recover from a particular condition once per round.
+
 ===== Example Actions =====
 
 	Below is a quick list of examples of things a character might want to do and 
