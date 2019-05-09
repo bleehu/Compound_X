@@ -88,7 +88,7 @@ following turn.
 
 ===== Saving Against Ongoing Conditions =====
 
-Attempting a save to end an ongoing condition takes one Action, 
+	Attempting a save to end an ongoing condition takes one Action, 
 unless the ability that applied the condition says otherwise. A character 
 may only attempt to recover from a particular condition once per round.
 
