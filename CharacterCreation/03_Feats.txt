@@ -1038,8 +1038,7 @@ Duration: 1 Action
 
 	Take a second to breathe slowly and line up your shot. On your next ranged 
 attack this turn against a target you are aimed at, you gain +1 Accuracy and +10m 
-to the weapon's largest range bracket. Miss Chance can go below the -2 minimum
-(see section "Combat:" in the basic rules document). 
+to the weapon's largest range bracket. Miss Chance can go below the -2 minimum. 
 
 	Steady Shot may be taken twice; the bonuses stack.
 
