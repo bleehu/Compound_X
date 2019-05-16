@@ -136,7 +136,7 @@ it has almost no blood left in it at all.
     
     Using this syringe takes two Actions. The syringe can only be used on an 
 organic character who is bleeding out. The syringe does not heal the character 
-or stabalize them. The character's Death Saving Throws are all reset as if that
+or stabilize them. The character's Death Saving Throws are all reset as if that
 character had succeeded on all of their Death Saving Throw rolls. This syringe
 does not require a medicine check; the device measures out the appropriate 
 dosage automatically.
