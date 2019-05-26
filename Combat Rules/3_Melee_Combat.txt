@@ -35,8 +35,8 @@ aimed at the target, standard Hip Firing rules apply.
     Melee attackers make accuracy rolls with a d10, increased by strength and 
 dexterity combat modifiers and their weapon's accuracy modifier. To successfully 
 hit, the result must be greater than (not equal to) the opponent's Guard roll. 
-If you successfully hit your opponent, armor applies as normal except as 
-detailed in the next two topics.
+If you successfully hit your opponent, armor applies as detailed in the next 
+two topics.
 
     Defending players roll Guard with a d10 as well, increased by fortitude 
 and dexterity combat modifiers and their weapon's guard bonus. Guard bonuses are 
@@ -71,16 +71,14 @@ Hacker terminal, and similar devices.
 
 == Hitting What You Intend ==
 
-    If you roll 3 or more above your target's Guard, you may ignore any 
-armor worn by the target and damage health directly.
+    Similarly to ranged weapon attacks, if your melee Accuracy roll 
+exceeds the target's Guard roll by more than the target's armor's Coverage, 
+you may bypass the target's armor and damage health directly.
     
 == Stealth Attacks in Melee Combat ==
 
-    If you stealth-attack a target with a melee attack, your target has a Guard 
-of 0. Recall that if you roll 3+ above the opponent's Guard, you ignore the 
-opponent's armor and deal full damage. This signifies that the target gets hit 
-in whatever you deem to be the most vulnerable; i.e., the head, neck, or the 
-chest (over the heart, etc).
+    If you stealth-attack a target with a melee attack, your target is 
+considered to have a Guard of 0 for your first attack (they do not roll).
 
 == Blunt Force ==
 
@@ -96,10 +94,10 @@ attack was a two-handed strike, the health damage would be 18.
 == Nonlethal Damage ==
 
     By default, melee attacks deal lethal damage, like the vast majority of 
-guns. This just means that when an attack drops a target to 0 health, they 
+other weapons. This just means that when an attack drops a target to 0 health, they 
 enter the Bleeding Out state. However, when fighting unarmed or with a melee 
 weapon that you are proficient with, you may declare a melee attack you have 
-not yet rolled to be nonlethal. This imposes a -2 accuracy penalty, since you are 
+not yet rolled to be nonlethal. This gives you a -2 accuracy penalty, since you are 
 imposing constraints upon yourself on where you can strike, but if a nonlethal 
 attack would reduce a target to 0 health, the target drops to 0 health and becomes
 Unconscious instead of becoming Downed and beginning to Bleed Out. The Unconscious
