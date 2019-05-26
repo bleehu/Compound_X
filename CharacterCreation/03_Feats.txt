@@ -15,7 +15,7 @@ Prerequisites:
 *  Level 6
 *  Dual Wield feat
 
-	Reduce the miss penalty from dual wielding to -1 accuracy per weapon. 
+    Reduce the miss penalty from dual wielding to -1 accuracy per weapon. 
 Reduce the reload penalty to 10%. You may fire at more than one target at once 
 for an additional -2 accuracy penalty.
 
@@ -24,28 +24,28 @@ Prerequisites:
 
 *  Marksman or Gunslinger
 
-	Enables the use of Medium Armor by the listed classes.
+    Enables the use of Medium Armor by the listed classes.
 
 == Acquired, Battle Ready ==
 Prerequisites: 
 
 *  Pilot
 
-	Enables the use of Medium-Heavy Armor by the listed classes.
+    Enables the use of Medium-Heavy Armor by the listed classes.
 
 == Acquired, Metal Jacket ==
 Prerequisites: 
 
 *  Soldier, Engineer, or Berserker
 
-	Enables the use of Heavy Armor by the listed classes.
+    Enables the use of Heavy Armor by the listed classes.
 
 == Acquired, The Clandestine Option ==
 Prerequisites: 
 
 *  Soldier, Specialist, Pilot, or Hunter
 
-	Enables the use of Concealed Armor by the listed classes.
+    Enables the use of Concealed Armor by the listed classes.
 
 == Backstab ==
 Prerequisites: 
@@ -53,7 +53,7 @@ Prerequisites:
 *  Level 3
 *  Assassin
 
-	Any damage dealt to an unaware opponent from behind deals an additional 
+    Any damage dealt to an unaware opponent from behind deals an additional 
 10 + (Lvl * 2) Base damage.
 
 == Bulltrue ==
@@ -61,7 +61,7 @@ Prerequisites:
 
 * Must have Shotgun training
 
-	If an enemy moves from being at least 4m from you to being less than 3m from 
+    If an enemy moves from being at least 4m from you to being less than 3m from 
 you, and you have a loaded shotgun drawn, you may fire at them as a free 
 action (negate the pump of your shotgun, if one is necessary). If the target 
 is bloodied after the attack, they may not make a melee attack against you with 
@@ -72,14 +72,14 @@ Prerequisites:
 
 *  None
 
-	+1 accuracy with guns. -5% penalty to Skill Checks in combat.
+    +1 accuracy with guns. -5% penalty to Skill Checks in combat.
 
 == Combat Expertise [Melee] ==
 Prerequisites: 
 
 *  None
 
-	(Requirement for Expert Melee Training) +1 accuracy in melee. -5% penalty 
+    (Requirement for Expert Melee Training) +1 accuracy in melee. -5% penalty 
 to Skill Checks in combat.
 
 == Combat Expertise [Support] ==
@@ -87,7 +87,7 @@ Prerequisites:
 
 *  None
 
-	+20% bonus to skill checks for class-related tasks in combat. (If you are a 
+    +20% bonus to skill checks for class-related tasks in combat. (If you are a 
 medic, this would apply to medicine but it wouldn't apply to hacking, etc.). -1 accuracy with Guns or Melee in combat.
 
 == Concussive Maintenance ==
@@ -95,8 +95,8 @@ Prerequisites:
 
 *  20 skill in Repair OR Engineer class. 
 *  STR 4
-	
-	+20% to Repair check. For 1 action, you may whack something broken to try to 
+    
+    +20% to Repair check. For 1 action, you may whack something broken to try to 
 fix it. You can use Concussive Maintenance even after you've already failed to 
 repair something. You can use concussive maintenance once per target, per 
 encounter.
@@ -105,7 +105,7 @@ encounter.
 Prerequisites: 
 *  None
 
-	Make a stealth check to hide your chosen pistol, shotgun, or SMG on your 
+    Make a stealth check to hide your chosen pistol, shotgun, or SMG on your 
 person. To succeed, you must pass a DC 19 check. Total roll determines DC for an
 enemy to actively search you and find your hidden weapon.
 
@@ -113,7 +113,7 @@ enemy to actively search you and find your hidden weapon.
 Prerequisites:
 *  None
 
-	When downed instead of not being able to move you may crawl half of your 
+    When downed instead of not being able to move you may crawl half of your 
 move speed or 3m every two actions whichever distance is shorter. You still 
 cannot speak, and you cannot take any other action. Death saving throws are 
 not actions, and must be rolled normally. You also get a +10% bonus to Death
@@ -124,7 +124,7 @@ Prerequisites:
 
 *  None 
 
-	Whenever your hit falls into critical hit range*, fire another bullet as a 
+    Whenever your hit falls into critical hit range*, fire another bullet as a 
 free action, foregoing the normal bonus-damage from a critical hit. The extra 
 bullet automatically hits the target if your first bullet does. But the extra 
 bullet does not trigger any other effects and cannot be used to double tap 
@@ -141,12 +141,12 @@ Prerequisites:
 
 *  DEX 6
 
-	Maybe you've got a bigger corpus collosum and your right brain and left brain
+    Maybe you've got a bigger corpus collosum and your right brain and left brain
 are in higher sync than most people; or maybe you've seen too many John Woo
 holomovies. Either way, you've managed to effectively fight using a weapon
 in each hand. 
 
-	The weapons must be of the same type, either two pistols, two smgs, two light
+    The weapons must be of the same type, either two pistols, two smgs, two light
 or one-handed melee weapons, etc. Additionally the sum of the strength requirements 
 must be equal to or less than your Carry Strength. While Dual Weilding, you cannot 
 take the grapple Action nor the Disarm Action. Any time you would attack with a 
@@ -154,17 +154,17 @@ reaction or if an ability of yours or an ally's would give you a free attack, yo
 may only attack with one of your dual wielded weapons, but you may pick which one
 to use. 
 
-	While wielding two guns, you may fire both at the same time at the same target 
+    While wielding two guns, you may fire both at the same time at the same target 
 with a -3 accuracy for each weapon. You may not target more than one target at 
 a time. Reloading while dual wielding adds 20 to the difficulty of the reload.
 
-	While dual wielding two melee weapons you may make a melee attack with each
+    While dual wielding two melee weapons you may make a melee attack with each
 as normal in the same Action, with a -2 to your melee accuracy for each. If you 
 are attacked with a melee attack, you may only use one of your melee weapon's 
 accuracies as a bonus to your defense. You do get to pick which weapon you would
 like to use to defend though. 
 
-	In addition, this feat lets you take the 'Dual Guard' Action as the last 
+    In addition, this feat lets you take the 'Dual Guard' Action as the last 
 Action of your turn so long as you are weilding two melee weapons. If you do so, 
 you spend a whole turn "putting up your dukes" and preparing to block attacks 
 with both weapons. Mechanically, this gives you the guard bonus from both weapons
@@ -175,7 +175,7 @@ Prerequisites:
 
 *  None
 
-	It happens. You aren't quite sure if you can hit your target perhaps, or 
+    It happens. You aren't quite sure if you can hit your target perhaps, or 
 maybe you round that corner and are staring down the barrel of an enemy AR-68.
 Whatever the case, you need to dump the mag in their face to guarantee your 
 safety. Roll to pass a DC 30% DEX check. on success, you may fire off the 
@@ -191,7 +191,7 @@ Prerequisites:
 
 *  INT 3
 
-	As a free action (in or out of combat) you can use any keyboard, plug into a 
+    As a free action (in or out of combat) you can use any keyboard, plug into a 
 terminal, or use a monitor to perform a computer inquiry or operation. 
 +15% to ONE pertinent skill check (hacking, etc.) while using this feat,
 to be chosen at the time of taking this feat.
@@ -201,7 +201,7 @@ Prerequisites:
 
 *  Fort > 2
 
-	Maybe you took a lot of swimming lessons when you were little, maybe you
+    Maybe you took a lot of swimming lessons when you were little, maybe you
 were on the college swim team, or maybe your military training had an 
 emphasis on endurance and core strength developed in the pool. In any case,
 you gain 10 skill in swimming and a bonus +15 to checks when holding your
@@ -215,7 +215,7 @@ Prerequisites:
 
 *  LCK 6
 
-	When reloading, if your reload roll is higher than an 80 (including any 
+    When reloading, if your reload roll is higher than an 80 (including any 
 applicable skills) or if you roll inside your critical success range, then your 
 first shot is an automatic critical hit + 10 bonus damage, for a total of 30 
 bonus damage and other possible critical effects. 
@@ -231,7 +231,7 @@ Prerequisites:
 
 *  Pilot or 20 skill in Vehicles - Ground
 
-	Tires were meant to be balded. You get a +25 to any difficult maneuver with 
+    Tires were meant to be balded. You get a +25 to any difficult maneuver with 
 a land vehicle in which you do not catch air. This works with vehicles that have 
 treads or some other method of land support as well.
 
@@ -240,7 +240,7 @@ Prerequisites:
 
 *  None
 
-	Combine up to 2 weapon total conversions. Ask GM about applicability of 
+    Combine up to 2 weapon total conversions. Ask GM about applicability of 
 desired conversations.
 
 == Hands of an artist ==
@@ -248,7 +248,7 @@ Prerequisites:
 
 *  DEX 7
 
-	You use your DEX modifier instead of your PER modifier for rolls to hit with 
+    You use your DEX modifier instead of your PER modifier for rolls to hit with 
 ranged weapons. In taking this feat you sacrifice the ability to use PER on 
 rolls dealing with using a weapon.
 
@@ -256,7 +256,7 @@ rolls dealing with using a weapon.
 Prerequisites:
 *  Melee Expertise
 
-	The benefits of the Melee Expertise and Thrown Expertise feats now also 
+    The benefits of the Melee Expertise and Thrown Expertise feats now also 
 apply to Improvised Melee and Thrown Weapons, respectively.
 
 == Improvise Weapon ==
@@ -264,14 +264,14 @@ Prerequisites:
 
 *  Skill [Melee Combat] at 20
 
-	You do not take a penalty when using an improvised weapon. Chair legs can be 
+    You do not take a penalty when using an improvised weapon. Chair legs can be 
 used as bats, fan blades as swords, etc., etc.
 
 == Juggler ==
 Prerequisites:
 *  DEX 4 or higher
 
-	You are used to throwing and catching things very quickly. It's a neat party
+    You are used to throwing and catching things very quickly. It's a neat party
 trick and it turns out has some surprising applications in combat. You gain 10
 skill in the DEX skill Performance - Juggling. If you don't have another
 weapon drawn when you draw a throwing weapon, you may attempt to juggle that
@@ -287,7 +287,7 @@ Prerequisites:
 
 *  PER 5
 
-	The last shot in every mag deals is an automatic critical + 10 bonus damage,
+    The last shot in every mag deals is an automatic critical + 10 bonus damage,
 for a total of 30 bonus damage. If your weapon has a magazine size of 1 or 
 damages an area, Last Shot Counts does not take effect.
 
@@ -295,7 +295,7 @@ damages an area, Last Shot Counts does not take effect.
 Prerequisites:
 *  Pilot or 40 skill in Vehicles - Flight OR Space
 
-	You gain a +20% to Vehicles checks in airborne or spaceborne vehicles, and an
+    You gain a +20% to Vehicles checks in airborne or spaceborne vehicles, and an
 additional +20% to unconventional maneuvers in such as well, but you and your vehicle
 take double damage for the next three turns after using these bonuses. (any teammates
 in such a vehicle do not take double damage)
@@ -305,7 +305,7 @@ Prerequisites:
 
 *  LCK 7
 
-	There are always so many bullets flying around, you make a habit of not 
+    There are always so many bullets flying around, you make a habit of not 
 peaking your head out and looking at your enemy. And somehow you still hit them 
 (some of the time). Roll a d10 before any Blind Firing or Hip Firing action. If 
 the roll is from 6 to 10, Gain +2 accuracy for that firing action; If the 
@@ -316,7 +316,7 @@ Prerequisites:
 
 *  Level 4
 
-	Don't die alone. Always bring a friend. When you are downed, you may take up to 
+    Don't die alone. Always bring a friend. When you are downed, you may take up to 
 three actions on your turn to do one of the following: Draw a one-handed weapon 
 such as a pistol or SMG, Aim, or fire. You can no longer take any of these 
 actions if you are below -50 health. 
@@ -326,7 +326,7 @@ Prerequisites:
 
 *  DEX 6 or 15 Weapons - [x] skill
 
-	Negate the pump of a shotgun, cocking of a revolver, or cycling of a bolt 
+    Negate the pump of a shotgun, cocking of a revolver, or cycling of a bolt 
 when performing another action besides the aforementioned (besides firing). 
 (Only applies to the weapons you have at least 15 Weapons - [x] skill in using, 
 unless you meet the DEX requirement). Gain +5% to reload rolls with the given
@@ -336,7 +336,7 @@ weapon.
 Prerequisites:
 
 *  LCK 4
-	Somehow you always aim at the right location, at the right time. +1 Critical 
+    Somehow you always aim at the right location, at the right time. +1 Critical 
 hit range (i.e., +10% Critical Hit chance).
 
 == Punch Drunk ==
@@ -344,7 +344,7 @@ Prerequisites:
 
 *  Fort > 3
 
-	Take a -1 accuracy on all attacks when not drunk. Instead of taking a penalty 
+    Take a -1 accuracy on all attacks when not drunk. Instead of taking a penalty 
 to accuracy when using melee attacks while intoxicated, you get a +1 accuracy 
 when buzzed and a +2 accuracy when hammered. On hits that land while you are 
 buzzed or hammered, you deal extra damage equal to your strength modifier. These
@@ -356,18 +356,18 @@ Prerequisites:
 
 *  PER 6
 
-	Maybe you've been a point-man for a long time, maybe you don't mind the
+    Maybe you've been a point-man for a long time, maybe you don't mind the
 extra danger, or maybe you just room-clear a lot. Regardless, you are very
 good at what you do.
 
-	When clearing a room, add 20 to your reflex roll.
+    When clearing a room, add 20 to your reflex roll.
 
 == Preemptive Strike ==
 Prerequisites:
 
 *  DEX 7
 
-	Whenever you are facing someone you are aware of, and they enter into adjacency
+    Whenever you are facing someone you are aware of, and they enter into adjacency
 with you, you gain a preemptive melee strike against them.
 
 == Proficiency: Exotic Melee Weaponry ==
@@ -376,12 +376,12 @@ Prerequisites:
 
 * Special, see below.
 
-	Allows a character the ability to use one particular type of Melee weapon 
+    Allows a character the ability to use one particular type of Melee weapon 
 of size Exotic. Choose one common noun that is not a damage type each time you 
 learn this feat; that noun is the type. You may use any Exotic melee weapon that 
 includes this common noun in its name. This feat may be learned multiple times.
 
-	If a particular Exotic melee weapon would require two hands to effectively 
+    If a particular Exotic melee weapon would require two hands to effectively 
 wield, a character must have Proficiency with two-handed melee weapons to learn this 
 feat for that weapon type. The same applies to One-handed style and Light-style 
 exotic weapons, all of which are specified in Exotic weapons' Size stat as a subtype.
@@ -391,28 +391,28 @@ exotic weapons, all of which are specified in Exotic weapons' Size stat as a sub
 Prerequisites:
 * None
 
-	Allows a character to use Melee weapons of size Light.
+    Allows a character to use Melee weapons of size Light.
 
 == Proficiency: One-handed Melee Weaponry ==
 
 Prerequisites:
 * Proficiency: Light Melee Weaponry
 
-	Allows a character to use Melee weapons of size One-handed.
+    Allows a character to use Melee weapons of size One-handed.
 
 == Proficiency: Two-handed Melee Weaponry ==
 
 Prerequisites: 
 * Proficiency: One-handed Melee Weaponry
 
-	Allows a character to use Melee weapons of size Two-handed.
+    Allows a character to use Melee weapons of size Two-handed.
 
 == Quickdraw ==
 Prerequisites:
 
 *  DEX 5
 
-	As a free action, draw your chosen weapon(s) into firing position. If you 
+    As a free action, draw your chosen weapon(s) into firing position. If you 
 are holding something, you can drop it and still draw your weapon as a free 
 action. However, you might not want to drop anything glass. Or any explosives.
 
@@ -422,7 +422,7 @@ Prerequisites:
 *  CHA <=2
 *  INT >=8
 
-	Your character has something going for them. Gain 1 non-Charisma skill @ 10 
+    Your character has something going for them. Gain 1 non-Charisma skill @ 10 
 points (or add 10 points to a non-Charisma skill). This skill can exceed the 
 skill point limit by 10. You may also ask the GM how many bullets each opponent 
 has left in their weapon.
@@ -432,7 +432,7 @@ Prerequisites:
 
 *  REF > 11
 
-	If a grenade is thrown at your character and you succeed at making the 
+    If a grenade is thrown at your character and you succeed at making the 
 Reflex save, you may choose to activate this feat instead of diving out of the
 way. If you activate this feat, you attempt to kick the grenade back at the
 character that threw it. First, attempt a luck roll of DC 15. If you fail, the
@@ -447,7 +447,7 @@ Prerequisites:
 
 *  Must be a mechanical race
 
-	Your data inputs are sanitized and encrypted, complete with checksums!
+    Your data inputs are sanitized and encrypted, complete with checksums!
 Hacking you is 25% harder and you are aware whenever one of your senses is 
 malfunctioning.
 
@@ -456,7 +456,7 @@ Prerequisites:
 
 *  Pilot or 10 Vehicles - Space skill
 
-	You've been up in the black more times than you can count. Add 15 to Saving
+    You've been up in the black more times than you can count. Add 15 to Saving
 Throws to maintain your bearings during a hyperspace jump and gain 15 Skill Points
 in Navigation - Space.
 
@@ -465,7 +465,7 @@ Prerequisites:
 
 *  None
 
-	What can you say. When you do what you're good at, you do it well. Come up 
+    What can you say. When you do what you're good at, you do it well. Come up 
 with a Name or Motto for your signature move, and you gain +10% toward this 
 action. HOWEVER, you must shout your Motto or the Name when you perform this 
 move. And hey, keep this move on the DL unless it is absolutely necessary to 
@@ -479,7 +479,7 @@ Prerequisites:
 
 *  LCK 6
 
-	You have uncanny knack for reading situations and making accurate decisions 
+    You have uncanny knack for reading situations and making accurate decisions 
 based off of gut feelings. Gain a skill, Uncanny Insight at 10, and apply it 
 to situations where you feel like a bit of extra insight might do you or your 
 team a world of good. This skill is maxed out at 20 points, and is only 
@@ -491,7 +491,7 @@ Prerequisites:
 
 *  PER 6
 
-	Time slows down slightly around you, or at least your perception is 
+    Time slows down slightly around you, or at least your perception is 
 increased allowing you to process everything around you more quickly for a split 
 second. When a target is within your weapon's R1 or R2, your miss chance is 
 reduced by 1 (or 10% if relevant).
@@ -501,7 +501,7 @@ Prerequisites:
 
 *  CHA 7
 
-	"You just look like you belong here." Unless sneaking past or hiding from
+    "You just look like you belong here." Unless sneaking past or hiding from
 an alert enemy, roll a Deception check in place of a Stealth check.
 
 == Strong Back ==
@@ -509,14 +509,14 @@ Prerequisites:
 
 *  STR 4
 
-	Instead of a secondary weapon, you can carry an additional primary weapon.
+    Instead of a secondary weapon, you can carry an additional primary weapon.
 
 == Pack Mule ==
 Prerequisites:
 *  STR 7
 *  Strong Back
 
-	You've done a lot of lifting and hauling in your time, allowing you to carry 
+    You've done a lot of lifting and hauling in your time, allowing you to carry 
 more than some. In addition to two primary weapons, you can carry another 
 secondary weapon.
 
@@ -525,7 +525,7 @@ Prerequisites:
 
 *  None
 
-	Roll a number of dice equal to your FORT / 5 (round up) + 1 and take the 
+    Roll a number of dice equal to your FORT / 5 (round up) + 1 and take the 
 result in extra hit points, or take the average of the result (1d10 = 5, 
 2d10 = 10, can be taken twice). If any of your die rolls is a 1 or 2, reroll
 the die.
@@ -536,9 +536,9 @@ Prerequisites:
 * STR 5 and DEX 5
 * Level 5, OR Assassin Class, OR Berserker Class
 
-	Increase base and minimum damage of Unarmed Strike by 20. 
-	
-	Additionally, once per round after a successful melee strike, 
+    Increase base and minimum damage of Unarmed Strike by 20. 
+    
+    Additionally, once per round after a successful melee strike, 
 if the target is not wielding a CQB weapon, you may use a reaction to 
 make a Disarm attempt. Disarm is described under Maneuvers in the Melee 
 Combat section of the Basic Rules.
@@ -550,9 +550,9 @@ Prerequisites:
 * STR 6 and DEX 6
 * Level 10, OR Assassin Class and Level 5, OR Berserker Class and level 5
 
-	Increase base and minimum damage of Unarmed Strike by an additional 20.
-	
-	Disarm attempts made with Unarmed Combat Training may be made 
+    Increase base and minimum damage of Unarmed Strike by an additional 20.
+    
+    Disarm attempts made with Unarmed Combat Training may be made 
 against CQB guns and Two-Handed melee weapons.
 
 == Unarmed Combat Mastery ==
@@ -562,9 +562,9 @@ Prerequisites:
 * STR 7 and DEX 7 
 * Level 15, OR Assassin Class and Level 10, OR Berserker Class and Level 10
 
-	Increase base and minimum damage of Unarmed Strike by an additional 20.
-	
-	Whenever you would make a Disarm attempt with Unarmed Combat 
+    Increase base and minimum damage of Unarmed Strike by an additional 20.
+    
+    Whenever you would make a Disarm attempt with Unarmed Combat 
 Training, you may instead make a Trip, Shove, or Grapple attempt. (These 
 are also described under Maneuvers in the Melee Combat section of the 
 Basic Rules).
@@ -577,9 +577,9 @@ Prerequisites:
 * Level 15
 * Assassin Class or Berserker Class
 
-	Increase base and minimum damage of Unarmed Strike by an additional 20.
+    Increase base and minimum damage of Unarmed Strike by an additional 20.
 
-	Whenever you succeed in a disarm attempt against a CQB weapon while 
+    Whenever you succeed in a disarm attempt against a CQB weapon while 
 unarmed, you may use your next action to strike the target with his or her own 
 weapon before it falls to the ground. Disregard any proficiency requirements 
 for the weapon during this action. Hip-firing penalties apply to guns fired 
@@ -590,7 +590,7 @@ Prerequisites:
 
 *  None
 
-	Roll a number of dice equal to your INT / 5 (round up) + 1 and take the 
+    Roll a number of dice equal to your INT / 5 (round up) + 1 and take the 
 result in extra Nanites, or take the average of the result (1d10 = 5, 2d10 = 10, 
 can be taken twice). If any of your die rolls is a 1 or 2, reroll the die.
 
@@ -599,7 +599,7 @@ Prerequisites:
 
 *  Any stat > 9, combat style must primarily use this stat.
 
-	You are trained in the art of combative tossing, or some other obscure 
+    You are trained in the art of combative tossing, or some other obscure 
 fighting technique.
 
 == Unlocked, Boomstick ==
@@ -607,7 +607,7 @@ Prerequisites:
 
 * Must be a Gunslinger
 
-	Enables the use of shotguns by Gunslingers.
+    Enables the use of shotguns by Gunslingers.
 Note: Gunslingers can use their class feats with shotguns.
 
 == Unlocked, Spray and Pray ==
@@ -615,21 +615,21 @@ Prerequisites:
 
 *  Engineer
 
-	Enables the use of SMGs by the Engineer class.
+    Enables the use of SMGs by the Engineer class.
 
 == Unlocked, Small Arms Shipment ==
 Prerequisites:
 
 *  Must be a Marksman, Doctor or Hacker
 
-	Enables the use of Carbines by the listed classes.
+    Enables the use of Carbines by the listed classes.
 
 == Very Normal ==
 Prerequisites:
 
 *  CHA 5
 
-	Any time that someone would be suspicious of your actions, they will be less 
+    Any time that someone would be suspicious of your actions, they will be less 
 likely to think twice about what you are doing. Increase your Deception skill by 15
 and Persuasion skill by 10.
 
@@ -640,7 +640,7 @@ Prerequisites:
 *  Level 8 Assassin or
 *  Level 8 Berserker. 
 
-	+15% armor coverage when your melee weapon is equipped in your hands. 
+    +15% armor coverage when your melee weapon is equipped in your hands. 
 (If you have no armor equipped, this feat grants you AP level 1 protection
 with 15% coverage)
 
@@ -651,7 +651,7 @@ Prerequisites:
 *  LUK 5
 *  INT 5 
 
-	You like to do a little investing in your free time. This feat can only
+    You like to do a little investing in your free time. This feat can only
 be taken once. Investor can be used twice, but only once every 5 levels.
 (Roll a d10 + Luck level) x 125. Gain this value in credits.
 
@@ -662,7 +662,7 @@ Prerequisites:
 *  10 skill in Weapons - [x] 
 
 
-	Gain 1.5 accuracy from any one weapon model. If you spend 30 hours
+    Gain 1.5 accuracy from any one weapon model. If you spend 30 hours
 studying/using/practicing with a different gun (that you have at least 10 
 Weapons - [x] skill in using), you can change which gun you are most familiar 
 with -- which moves the bonus from the previous gun model, to the one you are
@@ -672,194 +672,194 @@ now working with. This feat can only be taken once per weapon.
 
 
 ==============================
-Weapon Expertise Feats:					
+Weapon Expertise Feats:                 
 ==============================
 
-== Pistol Expertise ==	
+== Pistol Expertise ==  
 
-0:	+5m to ranges R1 & R2. If this would cause R2 to be greater than R3, 
-	also set R3 equal to the new R2.
-12:	May use Weapons - Pistol (Int) in place of Stealth for checks made to prevent 
-	enemies from noticing your Pistol fire.
-24:	Reduce the Reload check penalty imposed by the Dual-Wield / Akimbo feats 
-	by 10 when dual-wielding pistols.
-36:	+1 to Accuracy rolls at all ranges.
-48:	+10m to range R3.
-60:	+10% Base damage. If you succeed on an Accuracy roll by at least 3 or score 
-	an Extra-Critical, treat the enemy's armor as having APL 0 for that attack.
+0:  +5m to ranges R1 & R2. If this would cause R2 to be greater than R3, 
+    also set R3 equal to the new R2.
+12: May use Weapons - Pistol (Int) in place of Stealth for checks made to prevent 
+    enemies from noticing your Pistol fire.
+24: Reduce the Reload check penalty imposed by the Dual-Wield / Akimbo feats 
+    by 10 when dual-wielding pistols.
+36: +1 to Accuracy rolls at all ranges.
+48: +10m to range R3.
+60: +10% Base damage. If you succeed on an Accuracy roll by at least 3 or score 
+    an Extra-Critical, treat the enemy's armor as having APL 0 for that attack.
 
 == Submachine Gun Expertise ==
 
-0:	+5m to ranges R1 & R2. If this would cause R2 to be greater than R3, 
-	also set R3 equal to the new R2.
-12:	May use Weapons - SMG (Cha) in place of Intimidate for checks to intimidate 
-	a target you are suppressing with an SMG.
-24:	+10 Gun Reflex to one SMG you are wielding.
-36:	+2 to Accuracy rolls at all ranges while firing automatically (not burst).
-48:	+15m to range R3 while firing semi-automatically.
-60:	+10% Base damage. While suppressing an enemy, if you are shot at, after 
-	the first Action of fire you may spend a reaction to duck behind cover 
-	within 5m. This ends your suppression.
+0:  +5m to ranges R1 & R2. If this would cause R2 to be greater than R3, 
+    also set R3 equal to the new R2.
+12: May use Weapons - SMG (Cha) in place of Intimidate for checks to intimidate 
+    a target you are suppressing with an SMG.
+24: +10 Gun Reflex to one SMG you are wielding.
+36: +2 to Accuracy rolls at all ranges while firing automatically (not burst).
+48: +15m to range R3 while firing semi-automatically.
+60: +10% Base damage. While suppressing an enemy, if you are shot at, after 
+    the first Action of fire you may spend a reaction to duck behind cover 
+    within 5m. This ends your suppression.
 
 == Shotgun Expertise  ==
 
-0:	+5m to range R1. If this would cause R1 to be greater than R2, 
-	also set R2 equal to the new R1.
-12:	May use Weapons - Shotgun (Dex) in place of Acrobatics for checks to execute 
-	a physical maneuver following violent entry of a room.
-24:	If you succeed a reload check by at least 20, reduce the time taken to 
-	reload by one Action, stacking with other reductions (such as from 
-	critical success), to a minimum of one Action.
-36:	Negate the hip-firing Accuracy penalty against enemies within R1 while 
-	firing spreading shot.		
-48:	+10m to range R2. If this would cause R2 to be greater than R3, 
-	also set R3 equal to the new R3.
-60:	+10% Base damage. If you hit armor with a higher APL than your shotgun, 
-	you deal half damage to its AS instead of no damage (and full damage 
-	to health if you deplete the AS).
+0:  +5m to range R1. If this would cause R1 to be greater than R2, 
+    also set R2 equal to the new R1.
+12: May use Weapons - Shotgun (Dex) in place of Acrobatics for checks to execute 
+    a physical maneuver following violent entry of a room.
+24: If you succeed a reload check by at least 20, reduce the time taken to 
+    reload by one Action, stacking with other reductions (such as from 
+    critical success), to a minimum of one Action.
+36: Negate the hip-firing Accuracy penalty against enemies within R1 while 
+    firing spreading shot.      
+48: +10m to range R2. If this would cause R2 to be greater than R3, 
+    also set R3 equal to the new R3.
+60: +10% Base damage. If you hit armor with a higher APL than your shotgun, 
+    you deal half damage to its AS instead of no damage (and full damage 
+    to health if you deplete the AS).
 
 == Carbine Expertise ==
 
-0:	+10m to range R2. If this would cause R2 to be greater than R3, 
-	also increase R3 to match the new R2.
-12:	May use Weapons - Carbine (Dex) in place of Acrobatics on checks to maintain 
-	balance and negate combat penalties associated with being on board a moving 
-	vehicle or mount.
-24:	+25 Weapon Reflex while onboard a moving vehicle or mount and for 3 rounds 
-	after disembarking. +10 Weapon Reflex at other times.
-36:	+1 Accuracy to ranges R1 and R2 while firing while benefiting from cover 
-	of any kind against your target.
-48:	+10m to range R1, +5m to range R3
-60:	+10% Base damage. For up to one Action per round you may fire your carbine one-handed with  
-	a -2 Accuracy penalty and double any burst or automatic fire Accuracy penalty. Any foregrips or 
-	other attachments requiring the second hand do not provide their benefits during the 
-	Action, but your offhand is free to do something else. If you have taken aim at a target, 
-	you must succeed on a DC 100 Weapons - Carbine check to maintain that aim during and 
-	through the Action.
+0:  +10m to range R2. If this would cause R2 to be greater than R3, 
+    also increase R3 to match the new R2.
+12: May use Weapons - Carbine (Dex) in place of Acrobatics on checks to maintain 
+    balance and negate combat penalties associated with being on board a moving 
+    vehicle or mount.
+24: +25 Weapon Reflex while onboard a moving vehicle or mount and for 3 rounds 
+    after disembarking. +10 Weapon Reflex at other times.
+36: +1 Accuracy to ranges R1 and R2 while firing while benefiting from cover 
+    of any kind against your target.
+48: +10m to range R1, +5m to range R3
+60: +10% Base damage. For up to one Action per round you may fire your carbine one-handed with  
+    a -2 Accuracy penalty and double any burst or automatic fire Accuracy penalty. Any foregrips or 
+    other attachments requiring the second hand do not provide their benefits during the 
+    Action, but your offhand is free to do something else. If you have taken aim at a target, 
+    you must succeed on a DC 100 Weapons - Carbine check to maintain that aim during and 
+    through the Action.
 
 == Assault/Battle Rifle Expertise ==
 
-0:	+10m to range R2. If this would cause R2 to be greater than R3, 
-	also increase R3 to match the new R2.
-12:	May use Weapons - Assault/Battle Rifle in place of Spotting when 
-	looking through your rifle's scope (warning, takes longer than 
-	wider field-of-view optics).
-24:	Halve the jam chance (applies after additive modifiers, round 
-	down, may be zero) of your assault/battle rifle for the first 3 
-	rounds of its use per combat, once per short rest (i.e. maintenance 
-	& cleaning oportunity).
-36:	+1 Accuracy while both you and your target are benefiting from 
-	cover bonuses against each other.
-48:	+5m to range R1, +10m to range R3.
-60:	+10% Base damage; You may critically hit as normal while firing in 
-	burst mode, and may critically hit with half your normal critical 
-	range while firing in automatic mode.
+0:  +10m to range R2. If this would cause R2 to be greater than R3, 
+    also increase R3 to match the new R2.
+12: May use Weapons - Assault/Battle Rifle in place of Spotting when 
+    looking through your rifle's scope (warning, takes longer than 
+    wider field-of-view optics).
+24: Halve the jam chance (applies after additive modifiers, round 
+    down, may be zero) of your assault/battle rifle for the first 3 
+    rounds of its use per combat, once per short rest (i.e. maintenance 
+    & cleaning oportunity).
+36: +1 Accuracy while both you and your target are benefiting from 
+    cover bonuses against each other.
+48: +5m to range R1, +10m to range R3.
+60: +10% Base damage; You may critically hit as normal while firing in 
+    burst mode, and may critically hit with half your normal critical 
+    range while firing in automatic mode.
 
 == Long Rifle Expertise ==
 
-0:	+10% to range R3.
-12:	May use Weapons - Long Rifle (STR) in place of Athletics in order to get to hard-to-reach
-	places, like towers or treetops, that can serve as sniper nests.
-24:	While prone, benefiting from at least light cover, and able to see at least one enemy, 
-	gain an additional +1 cover bonus.
-36:	Gain a stacking +0.5 Accuracy each time you consecutively spend an action shooting a 
-	single target without losing line of sight to it.
-48:	Halve any minimum range associated with your long rifle and attachments, to a max reduction 
-	of 5m.
-60:	+10% Base damage. Increase by 50% any numerical benefits of specialty ammunition you fire 
-	(does not affect Marksman Tech Rounds feats).
-	
+0:  +10% to range R3.
+12: May use Weapons - Long Rifle (STR) in place of Athletics in order to get to hard-to-reach
+    places, like towers or treetops, that can serve as sniper nests.
+24: While prone, benefiting from at least light cover, and able to see at least one enemy, 
+    gain an additional +1 cover bonus.
+36: Gain a stacking +0.5 Accuracy each time you consecutively spend an action shooting a 
+    single target without losing line of sight to it.
+48: Halve any minimum range associated with your long rifle and attachments, to a max reduction 
+    of 5m.
+60: +10% Base damage. Increase by 50% any numerical benefits of specialty ammunition you fire 
+    (does not affect Marksman Tech Rounds feats).
+    
 == Heavy Weapon Expertise ==
 
-	Heavy Weapon Expertise does not include Grenade Launchers or Rocket Launchers.
+    Heavy Weapon Expertise does not include Grenade Launchers or Rocket Launchers.
 
-0:	+5m to range R2. If this would cause R2 to be greater than R3, 
-	also increase R3 to match the new R2.
-12:	May use Weapons - Heavy (Cha) in place of Intimidate when out 
-	of combat while brandishing a bigger weapon than the target.
-24:	Heavy weapons no longer recieve the Accuracy penalty associated 
-	with being improvised melee weapons while being used as melee weapons
-	(They still receive a Guard penalty).
-36:	+1 Accuracy to consecutive firing Actions after the first (non-stacking) and 
-	to attacks triggered by Suppression Actions.
-48:	+10m to Range R3.
-60:	Machine Guns when autofiring, Flamethrowers, Lightning Guns, Antimaterial 
-	Guns firing explosive shot, etc. can be fired at 1m radius areas instead 
-	of a particular target, hitting every possible target in the area automatically 
-	unless they succeed on a Reflex save with DC equal to your weapon accuracy 
-	minus applicable cover bonuses, multiplied by 10. Autofire weapons can only 
-	hit as many targets as they fire bullets.
+0:  +5m to range R2. If this would cause R2 to be greater than R3, 
+    also increase R3 to match the new R2.
+12: May use Weapons - Heavy (Cha) in place of Intimidate when out 
+    of combat while brandishing a bigger weapon than the target.
+24: Heavy weapons no longer recieve the Accuracy penalty associated 
+    with being improvised melee weapons while being used as melee weapons
+    (They still receive a Guard penalty).
+36: +1 Accuracy to consecutive firing Actions after the first (non-stacking) and 
+    to attacks triggered by Suppression Actions.
+48: +10m to Range R3.
+60: Machine Guns when autofiring, Flamethrowers, Lightning Guns, Antimaterial 
+    Guns firing explosive shot, etc. can be fired at 1m radius areas instead 
+    of a particular target, hitting every possible target in the area automatically 
+    unless they succeed on a Reflex save with DC equal to your weapon accuracy 
+    minus applicable cover bonuses, multiplied by 10. Autofire weapons can only 
+    hit as many targets as they fire bullets.
 
 == Explosives Expertise ==
 
-	Explosives Expertise applies to hand grenades, emplaced explosives, 
+    Explosives Expertise applies to hand grenades, emplaced explosives, 
 grenade launchers, rocket launchers, and artillery, but not to explosive ammo of 
 other weapons or class abilities. Does apply to Engineer mortars.
 
-0:	+10m to range R2. If this would cause R2 to be greater than R3, 
-	also increase R3 to match the new R2.
-12:	May use Weapons - Explosives (Int) in place of Knowledge checks when analyzing 
-	structural integrity/weaknesses of mechanical systems, such as structures, 
-	vehicles, or robots.
-24:	Reduce the critical failure chance for cooking hand grenades and setting 
-	anti-tamper explosives add-ons to 2%.
-36:	Reduce Accuracy penalties for indirect fire by 2.
-48:	+5m to range R1. If this would cause R1 to be greater than R2, 
-	also set R2 equal to the new R1.
-60:	+10% Base damage. Other characters make Shock, Reflex, and Will saves associated 
-	with your explosives with Disadvantage.
+0:  +10m to range R2. If this would cause R2 to be greater than R3, 
+    also increase R3 to match the new R2.
+12: May use Weapons - Explosives (Int) in place of Knowledge checks when analyzing 
+    structural integrity/weaknesses of mechanical systems, such as structures, 
+    vehicles, or robots.
+24: Reduce the critical failure chance for cooking hand grenades and setting 
+    anti-tamper explosives add-ons to 2%.
+36: Reduce Accuracy penalties for indirect fire by 2.
+48: +5m to range R1. If this would cause R1 to be greater than R2, 
+    also set R2 equal to the new R1.
+60: +10% Base damage. Other characters make Shock, Reflex, and Will saves associated 
+    with your explosives with Disadvantage.
 
 == Melee Expertise ==
 
-	Applies to melee weapons that the user has Proficiency with and to Unarmed Strike. 
+    Applies to melee weapons that the user has Proficiency with and to Unarmed Strike. 
 Does not apply to Improvised weapons. Reminder: combat-related bonuses are only in effect 
 while you are wielding an appropriate weapon.
 
-0:	+1 Move Speed while using the Charge action with intent to engage an enemy in 
-	Melee Combat.
-12:	May use Weapons - Melee (Str/Dex) in place of Acrobatics or Athletics on 
-	maneuver checks to defend against Grapple, Disarm, or Trip attempts, or to gain 
-	control of or escape an ongoing Grappled state.
-24:	While wielding a Light or One-handed non-Hybrid weapon, whenever an enemy attacks 
-	you in Melee Combat and ties your Guard, you may make a melee attack against that 
-	enemy as a Reaction. 
-	While wielding a Hybrid or Two-handed weapon, at the start of each of your turns 
-	you may choose to gain +2 to melee Accuracy checks and take -2 to Guard checks 
-	until the start of your next turn. 
-	If dual-wielding a Hybrid weapon and a Light or One-handed weapon, you may only 
-	use one of these effects in a given round, but may choose which.
-36:	+1 Accuracy while engaged with a target wielding a melee weapon (including 
-	unarmed targets).
-48:	+1 Guard while engaged with a target wielding a melee weapon (including 
-	unarmed targets).
-60:	+10% Base damage. Gain +0.5 Critical Hit range whenever you hit an enemy but
-	do not score a Critical Hit. This bonus resets if you score a Critical Hit, 
-	are stunned or knocked prone, or spend 1 round out of Melee Combat.
+0:  +1 Move Speed while using the Charge action with intent to engage an enemy in 
+    Melee Combat.
+12: May use Weapons - Melee (Str/Dex) in place of Acrobatics or Athletics on 
+    maneuver checks to defend against Grapple, Disarm, or Trip attempts, or to gain 
+    control of or escape an ongoing Grappled state.
+24: While wielding a Light or One-handed non-Hybrid weapon, whenever an enemy attacks 
+    you in Melee Combat and ties your Guard, you may make a melee attack against that 
+    enemy as a Reaction. 
+    While wielding a Hybrid or Two-handed weapon, at the start of each of your turns 
+    you may choose to gain +2 to melee Accuracy checks and take -2 to Guard checks 
+    until the start of your next turn. 
+    If dual-wielding a Hybrid weapon and a Light or One-handed weapon, you may only 
+    use one of these effects in a given round, but may choose which.
+36: +1 Accuracy while engaged with a target wielding a melee weapon (including 
+    unarmed targets).
+48: +1 Guard while engaged with a target wielding a melee weapon (including 
+    unarmed targets).
+60: +10% Base damage. Gain +0.5 Critical Hit range whenever you hit an enemy but
+    do not score a Critical Hit. This bonus resets if you score a Critical Hit, 
+    are stunned or knocked prone, or spend 1 round out of Melee Combat.
 
 == Thrown Expertise ==
 
-	Applies to throwing weapons and large-projectile weapons like bows, javelins, 
+    Applies to throwing weapons and large-projectile weapons like bows, javelins, 
 and harpoon launchers that the user has proficiency with. Does not apply to Improvised 
 throwing weapons.
 
-0:	+5m to ranges R1 and R2.
-12:	May use Weapons - Thrown in place of Perform (Dex) when making displays of 
-	juggling or other performances that involve throwing as an important component.
-24:	When attacking with throwing weapons, before rolling Accuracy, you may declare the 
-	attack to be Disabling. Such attacks deal one third damage, but if they damage 
-	health then the projectile lodges in the target's armor or person. Characters 
-	take 2d10 damage of the weapon's damage type for each lodged projectile whenever 
-	they spend more than 2 Actions moving (including crouching/standing, but not 
-	attacking) in a single turn. Up to two lodged projectiles may be removed as an 
-	Action.
-36:	When attacking an armored target at range, their armor has 10 less coverage 
-	against your attacks.
-	/* When attacking an armored target at range, their armor coverage range is 
-	reduced by 1 {Static Armor} */
-48:	+10m to throwing weapons' farthest range bracket.
-60:	+10% Base damage. If you spend at least 2 Actions making ranged attacks with 
-	a throwing weapon in a single turn, you may make an additional attack with 
-	a similar throwing weapon as a Reaction.
+0:  +5m to ranges R1 and R2.
+12: May use Weapons - Thrown in place of Perform (Dex) when making displays of 
+    juggling or other performances that involve throwing as an important component.
+24: When attacking with throwing weapons, before rolling Accuracy, you may declare the 
+    attack to be Disabling. Such attacks deal one third damage, but if they damage 
+    health then the projectile lodges in the target's armor or person. Characters 
+    take 2d10 damage of the weapon's damage type for each lodged projectile whenever 
+    they spend more than 2 Actions moving (including crouching/standing, but not 
+    attacking) in a single turn. Up to two lodged projectiles may be removed as an 
+    Action.
+36: When attacking an armored target at range, their armor has 10 less coverage 
+    against your attacks.
+    /* When attacking an armored target at range, their armor coverage range is 
+    reduced by 1 {Static Armor} */
+48: +10m to throwing weapons' farthest range bracket.
+60: +10% Base damage. If you spend at least 2 Actions making ranged attacks with 
+    a throwing weapon in a single turn, you may make an additional attack with 
+    a similar throwing weapon as a Reaction.
 
 ==============================
 Active Feats
@@ -874,7 +874,7 @@ Prerequisites:
 Cooldown: X Rounds, max 2
 Duration: Free Action
 
-	During your next move action this turn, you may an additional 4 * X meters.
+    During your next move action this turn, you may an additional 4 * X meters.
 
 == Aimed Shot ==
 
@@ -885,7 +885,7 @@ Prerequisites:
 Cooldown: 1 Round
 Duration: Free Action
 
-	On your next ranged attack against a target that you have aimed at, if it hits, 
+    On your next ranged attack against a target that you have aimed at, if it hits, 
 deal an extra 10 damage. That attack is considered a critical hit if it would not otherwise 
 be. This is akin to seeing a chink in armor and aiming for it.
 
@@ -898,7 +898,7 @@ Prerequisites:
 Cooldown: 3 Rounds
 Duration: 1 Action
 
-	Move 6m in one action, no more, no less. Enemies attacking you have a -2 
+    Move 6m in one action, no more, no less. Enemies attacking you have a -2 
 accuracy and a -20% penalty to reflex rolls when attacking you during the roll and 
 until your next turn, and you have a -2 accuracy for the action after this feat 
 ends (which can be the first action of your next turn). Combat Roll cannot be used 
@@ -913,7 +913,7 @@ Prerequisites:
 Cooldown: 1 Round
 Duration: 1 Action
 
-	Choose a location up to your movement speed in meters away that contains 
+    Choose a location up to your movement speed in meters away that contains 
 something solid enough to stop your headlong slide. You move to that location and 
 either go prone or hunker somewhere in that square (you choose). Attacks made 
 against you during the use of Cover Slide have -1 Accuracy. Cover Slide cannot be 
@@ -928,7 +928,7 @@ Prerequisites:
 Cooldown: 1 Round
 Duration: 1 Action (See Below)
 
-	As the last Action on your turn, you may move half of your Move Speed, 
+    As the last Action on your turn, you may move half of your Move Speed, 
 bouncing erratically along your path. When you do so, you are considered to be 
 in light cover from all sides, owing to the difficulty that the enemy has in 
 attempting to keep you in their sights. This light cover does not stack with 
@@ -945,7 +945,7 @@ Prerequisites:
 Cooldown: 2 * X + 1 Rounds
 Duration: 2 * X Actions, up to X = 3
 
-	For the duration of Flash Dance, every 2 Actions you may instead make a 
+    For the duration of Flash Dance, every 2 Actions you may instead make a 
 number of Melee Attacks, Trip, Disarm, or Kick attempts equal to your level divided 
 by 2 (rounding up), to a maximum of 6. These actions have a range of 2m. Roll 
 separately for each act. All bonuses that would normally apply to a standard attack 
@@ -961,7 +961,7 @@ Prerequisites:
 Cooldown: X + 1 Rounds
 Duration: X Reactions
 
-	Whenever you hit an enemy with a ranged firearm attack, you may use Gun 
+    Whenever you hit an enemy with a ranged firearm attack, you may use Gun 
 Kata to make X additional attacks as Reactions. These attacks must target enemies 
 within 15m and within a 45 degree cone centered on the initial target. Each attack 
 has a compounding -2 accuracy. (A character making their 3rd strike in a row would 
@@ -978,7 +978,7 @@ Prerequisites:
 Cooldown: X + 1 Rounds
 Duration: X Reactions
 
-	Whenever you hit an enemy with a melee attack, Kick, Disarm, or Trip, 
+    Whenever you hit an enemy with a melee attack, Kick, Disarm, or Trip, 
 you may make X additional melee attacks, Kicks, Disarms, and/or Trips against 
 that enemy as Reactions. Each attack has a compounding -2 accuracy or -20 to its 
 Maneuver check (A character making their 3rd strike in a row would be rolling at 
@@ -995,19 +995,19 @@ Prerequisites:
 Cooldown: See Below
 Duration: Free Action
 
-	A Kip-up is a gymnastic maneuver in which a character lying on the ground
+    A Kip-up is a gymnastic maneuver in which a character lying on the ground
 curls up and then kicks up and out into the air, using the resulting momentum to 
 jump from their back straight to their feet. This kick does not work well as a
 melee attack; the momentum is used to move the kicker rather than to impart 
 impact unto a target.
 
-	You jump up from the prone to the standing position. This action cannot 
+    You jump up from the prone to the standing position. This action cannot 
 be taken to go straight from prone to crouched. Further, if you would crouch 
 this turn, the normally Free Action of going from standing to crouched costs 
 an Action. You cannot kip-up while wearing Heavy, Full, or Power Armor, or in 
 a microgravitic environment.
 
-	Kip-up may be used without a cooldown once every 3 rounds. Kipping Up 
+    Kip-up may be used without a cooldown once every 3 rounds. Kipping Up 
 less than 3 Rounds after your last one incurs a 3 Round cooldown.
 
 == Run 'N' Gun ==
@@ -1022,7 +1022,7 @@ Prerequisites:
 Cooldown: X / 2 Rounds, min 1
 Duration: X Actions, maximum 4
 
-	You move at half speed while firing your firearm. Each attack has a cumulative 
+    You move at half speed while firing your firearm. Each attack has a cumulative 
 -1 Accuracy penalty but can benefit from a previous Aim action (otherwise Hip Fire 
 rules apply as normal). You may use this feat in combination with sprinting; if you 
 do, halve your movement speed before you add sprinting modifiers. 
@@ -1036,11 +1036,12 @@ Prerequisites:
 Cooldown: None
 Duration: 1 Action
 
-	Take a second to breathe slowly and line up your shot. On your next ranged 
+    Take a second to breathe slowly and line up your shot. On your next ranged 
 attack this turn against a target you are aimed at, you gain +1 Accuracy and +10m 
 to the weapon's largest range bracket. Miss Chance can go below the -2 minimum. 
 
-	Steady Shot may be taken twice; the bonuses stack.
+Steady Shot may be taken multiple times, up to a maximum of 4; the bonuses stack.
+
 
 == Twitch ==
 
@@ -1053,7 +1054,7 @@ Prerequisites:
 Cooldown: None
 Duration: Free Action
 
-	If you are wielding a CQB firearm, during your turn, you may aim as a 
+    If you are wielding a CQB firearm, during your turn, you may aim as a 
 Reaction instead of an Action. When you do, your attacks during your next two 
 Actions have -2 accuracy. This penalty stacks with itself.
 
@@ -1067,12 +1068,12 @@ Prerequisites:
 Cooldown: 1 Round
 Duration: Free Action
 
-	While wielding a CQB firearm, you may aim as a free action instead of an action.
+    While wielding a CQB firearm, you may aim as a free action instead of an action.
 
 ==============================
 Primary Stat Bonus Feats
 ==============================
-	These feats cannot be bought. They are granted 
+    These feats cannot be bought. They are granted 
 for free if you fulfill their prerequisites.
 
 == Lucky ==
@@ -1080,45 +1081,45 @@ Prerequisites:
 
 *  Luck 6
 
-	Good things predictably happen to you.
+    Good things predictably happen to you.
 
 Luck = 6:
-	You can choose to reroll a check, save, or attack once per long rest. You 
+    You can choose to reroll a check, save, or attack once per long rest. You 
 may only reroll once for a given action and you must keep the second result.
 
 Luck = 7:
-	You can choose to reroll a check, save, or attack twice per long rest. You 
+    You can choose to reroll a check, save, or attack twice per long rest. You 
 may only reroll once for a given action and you must keep the second result.
 
 Luck = 8:
-	You can choose to roll a check, save, or attack with advantage twice per 
+    You can choose to roll a check, save, or attack with advantage twice per 
 long rest.
 
 Luck = 9:
-	You can choose to roll a check, save, or attack with advantage three times 
+    You can choose to roll a check, save, or attack with advantage three times 
 per long rest.
 
 Luck = 10:
-	You may choose to reroll a check, save, or attack four times per long rest. 
+    You may choose to reroll a check, save, or attack four times per long rest. 
 You may reroll an action multiple times and choose which roll to keep.
 
 Luck = 12:
-	You may choose to reroll a check, save, or attack four times per long rest. 
+    You may choose to reroll a check, save, or attack four times per long rest. 
 Your rerolls may have either a +10% or -10% bonus. You may reroll an action 
 multiple times and choose which roll to keep.
 
 Luck = 15:
-	You may choose to reroll a check, save, or attack four times per long rest. 
+    You may choose to reroll a check, save, or attack four times per long rest. 
 Your rerolls may have either a +20% or -20% bonus. You may reroll an action 
 multiple times and choose which roll to keep.
-		
+        
 == Positional Mastermind ==
 Prerequisites:
 
 *  Mutually Exclusive with Will to Survive
 *  Charisma 9
 
-	You have incredible understanding of how beings in your universe perceive 
+    You have incredible understanding of how beings in your universe perceive 
 and react to their environments, allowing you to feint and position yourself in 
 cover better. If you have 9 or more Charisma, any LIVING ENEMY (i.e. non-robotic 
 enemy) targeting you gets a -1 accuracy penalty when you have any kind of 
@@ -1132,31 +1133,31 @@ Prerequisites:
 *  Mutually Exclusive with Positional Mastermind
 *  Charisma 6
 
-	You are convinced that you will survive no matter the hardship. does not 
-purge debuffs unless you have 14 Charisma*	
+    You are convinced that you will survive no matter the hardship. does not 
+purge debuffs unless you have 14 Charisma*  
 
 Charisma = 6:
-	Once per encounter, once per turn if you aren't knocked out, as an immediate
+    Once per encounter, once per turn if you aren't knocked out, as an immediate
 reaction to being at or below half health, roll 1d10. If <= 5, heal one wound
-up for up to +15 hitpoints. If >5 heal one wound for up to +20 hitpoints.	
+up for up to +15 hitpoints. If >5 heal one wound for up to +20 hitpoints.   
 
 Charisma = 8:
-	Twice per encounter, once per turn if you aren't knocked out, as an immediate 
+    Twice per encounter, once per turn if you aren't knocked out, as an immediate 
 reaction to being at or below half health, roll 1d10. If <= 5, heal one wound
-up for up to +15 hitpoints. If >5 heal one wound for up to +20 hitpoints.	
+up for up to +15 hitpoints. If >5 heal one wound for up to +20 hitpoints.   
 
 Charisma = 10:
-	Twice per encounter, once per turn if you aren't knocked out, as an immediate 
+    Twice per encounter, once per turn if you aren't knocked out, as an immediate 
 reaction to being at or below half health, roll 1d10. If <= 5, heal one wound
-up for up to +20 hitpoints. If >5 heal one wound for up to +30 hitpoints.	
+up for up to +20 hitpoints. If >5 heal one wound for up to +30 hitpoints.   
 
 Charisma = 12:
-	Twice per encounter, once per turn if you aren't knocked out, as an immediate 
+    Twice per encounter, once per turn if you aren't knocked out, as an immediate 
 reaction to being at or below half health, roll 1d10. If <= 5, heal one wound
 up for up to +25 hitpoints. If >5 heal one wound for up to +40 hitpoints.
 
 Charisma = 14:
-	Twice per encounter, once per turn if you aren't knocked out, as an immediate 
+    Twice per encounter, once per turn if you aren't knocked out, as an immediate 
 reaction to being at or below half health, roll 1d10. If <= 5, heal one wound
 up for up to +25 hitpoints. If >5 heal one wound for up to +40 hitpoints. In 
 addition, purge 1 damage-over-time debuff (such as Plasma Burn or Poison).
