@@ -136,7 +136,7 @@ involve alternative cybertronic components. Different Drone Series is to Drones
 what Human Races are to Humans. Most Series are still in production; one version
 isn't "newer" than another. Most Drones understand the differences between one
 Series and another, but some are convinced that one Series is superior than
-another. Though this attitude is rare.
+another, though this attitude is rare.
 
 ===== Series 0x0a "Cinder" =====
 
@@ -230,7 +230,7 @@ reduce plasma burn tokens every 3 turns instead of every other turn.
 
     During the mid 2400s, the ECSC had many varieties of purpose-built construction 
 drones in service. The Series Twelve Constructor Drone was the response by the ECSC 
-to replace them all with an all-purpose unit that could be easily utilized on most 
+to replace them with an all-purpose unit that could be easily utilized on most 
 inhabited worlds. The Constructor Drone is now a common sight throughout ECSC space 
 where there is work to be done. Series Twelve Drones are usually black, gray, or 
 white, though it is common for military units to be repainted to fit with the 
