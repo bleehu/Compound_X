@@ -1,0 +1,234 @@
+==============================
+Ranged Combat
+==============================
+
+    Most of the combat in Compound X are gun battles. Some characters are brave
+or foolish enough to bring a knife or a sword to a gun battle. For the rest of
+us, these rules should explain how to shoot things and what happens when you are
+shot.
+
+===== Shooting =====
+
+== Rolling a Ranged Attack ==
+
+    To hit a target, Players must roll a d10 that is over their weapon's miss 
+stat. When an enemy is in cover, their cover score is added to your weapon's 
+miss chance. Lets say your normal ranged miss chance is 2, and the enemy is in 
+full cover, your miss chance is increased by 4, for a final DC of 6. So a roll 
+of 7-10 would be successful.
+
+===== Miss Chance Limits =====
+
+    At any time when using a melee or ranged weapon, you have a minimum of -2 
+weapon miss chance, and a minimum of +1 miss chance modifier from automatic or 
+burst fire modes (if relevant). These minimums apply after all PER/DEX/STR/Attachment 
+modifiers, at all ranges, and before cover and any other environmental effects. 
+Using an ability could push you below the minimum miss chance.
+
+    Outside a weapon's longest range, you cannot hit your target.
+Also, weapons cannot shoot over 100m without magnifying sights, or over 150m 
+without 2x+ magnification.
+
+    To fire, you must be within the longest range limit of your gun*, i.e. be at 
+a distance smaller than your gun's largest Range Bracket**, and you must not be 
+out of ammo. You can aim and fire or, more simply, just fire at a target. If you 
+shoot without aiming, you are "Hip Firing" and incur additional aiming penalties 
+(see Hip Firing, below). 
+
+*Actually you can fire at any range you like, but you won't necessarily hit anything.
+Except for air, you will always hit air (unless you're in space).
+
+**You cannot shoot weapons at a distance of over 100m without magnifying sights 
+or over 150m without 2x+ magnification.
+
+    Aiming at an enemy requires one action but significantly increases the 
+effectiveness of your fire. Taking aim requires that you select a particular target 
+that you can either perceive directly or have a high confidence in its current 
+position. You must be able to see or otherwise percieve the target clearly, but they 
+do not have to be within your weapon's range. Against this target only, ranged attacks 
+follow the normal, non-Hip Fire rules. Characters may cease aiming as a free action, 
+for example to aim at a different target. Additionally, aim is ceased automatically 
+in any of the following circumstances: 
+
+* The target dies***.
+* The target moves a large distance unexpectedly****.
+* The aiming character hunkers.
+* The aiming character is thrown (for example, by a frag grenade).
+* The aiming character suffers impairment to his or her primary sense (such as from a flashbang).
+
+***As an optional rule, if a character's aim target dies, and the death was not 
+unexpected, then the character may shift aim to another target within 5m of the first 
+as a Free Action. DM discretion is advised for close combat situations.
+
+****Possibly by coming out of cover 5+ meters from the last known location.
+
+    Aiming is relatively simple and does not need to be treated with excessive
+formality. If a character could reasonably take or keep aim at something, then he or 
+she can.
+
+== Fire Rates ==
+
+    Most weapons are Semi-Auto, meaning that each time you pull the trigger, the 
+gun fires once and chambers a new round automatically. It takes 1 Action to fire 
+a semi-auto weapon in this way. Some guns, such as Shotguns and Bolt-Action 
+sniper rifles require 2 Actions to fire the gun, where the first Action is a 
+trigger pull, and the second Action is the rechambering of the weapon. Some weapons
+are capable of higher rates of fire, like Assault Rifles. These weapons often have
+more than one fire mode such as Fully-Automatic (Auto) and Burst. Auto or Burst 
+mode allows the user to fire 6 or 3 shots for 1 Action, respectively (unless
+otherwise noted). 
+
+== Automatic Firing ==
+
+    When rolling for automatic fire, players must roll one d10 for each bullet 
+fired unless otherwise noted. All dice are rolled at the same time, to keep the game
+moving quickly. The dice are read from left to right, and the player cannot switch
+the order that the dice fell in. For any roll that has the potential to be a jam, 
+roll the second d10 for it before rolling the next automatic-fire d10. If the roll 
+causes a jam, the rest of the automatic-fire d10s are not used. 
+
+== Gun Jams ==
+    If at any time that you are firing a gun and you roll 1 on an accuracy roll,
+roll a second d10. If that second d10 roll is equal to or less than the weapon's Jam 
+Range, the weapon jams, necessitating a Weapon - [X] Skill check, DC 60 that takes 
+one Action before the weapon can be fired again.
+
+== Hip Firing ==
+
+    Add 3 to a weapon's miss chance. You cannot use optical attachments in hip 
+firing unless otherwise noted. It is much smarter to takes one action to Aim, 
+and spend the rest of your shots firing. It's also a great idea to take an 
+action at the end of your turn to "hunker," and gain a +2 cover advantage.
+
+    If your weapon has a minimum distance (usually because of a high-powered
+scope), and you fire inside that distance, you are forced to hip fire.
+
+== Blind Firing ==
+
+    Add 6 to a ranged weapon's miss chances. Blind firing allows you to shoot 
+around cover without looking or putting yourself at risk. You can blind fire 
+while hunkered. Your blind fire miss chance is affected by your base weapon miss 
+chance(s), not affected by attachments unless otherwise noted, reduced by PER 
+stat combat bonus (as usual), and reduced by LUCK combat stat bonus. It's 
+recommended to calculate this separate miss chance and write it down before 
+combat.
+
+== Firing into Melee Combat ==
+
+    When firing at a character engaged in Melee Combat, you aren't guaranteed 
+to hit the target you intended. Before rolling accuracy, roll a DC 50 Luck check. 
+You may add 10 to your roll if you are aimed at your target. On success, you hit 
+your intended target. On failure, you hit a randomly chosen character engaged in 
+Melee Combat with your intended target. In either case your attack then proceeds 
+as normal. This Luck check cannot Critically succeed or fail.
+
+===== Suppression ===== 
+
+    Every player with a ranged weapon gets the option to Suppress as the last 
+action of their turn. Suppression, also known as, "laying down fire", 
+"covering fire", or "suppressive fire" is the art of shooting a hail of 
+bullets (as accurately as possible) to try and prevent the enemy from 
+effectively fighting back while your team maneuvers. Suppression comes in
+three flavors: light, medium, and heavy; these indicate how wide of an area
+is suppressed as well as how effective that suppression is (defined below).
+The type of suppression available to you is dependent on your weapon.
+
+    When you Suppress, you aim at the target as part of the action and fire a
+hail of bullets (within your weapon range). Suppression doesn't require any
+rolls to initiate, the suppressor simply fires, creating a light/medium/heavy
+suppression AOE (Area-of-Effect, typically a 1-3m circle). Even though Suppression
+is an AOE effect, if you cross in-front of someone (someone who is suppressing 
+a different person) you will likely trigger automatic attack rolls, DM's discretion.
+
+    If a suppressed target moves out into the open (see below), they 
+trigger automatic attack rolls (or automatic hits) by the suppressor, once 
+per target per suppressor's turn. If the suppressed target shoots, they 
+fire with +1 miss chance, not-stackable. Suppression status can't be purged 
+unless you move outside the AOE. The only other way to stop being suppressed 
+is to stop the suppressor from using a suppression action on you at the end 
+of their turn.
+
+Moving out into the open: 
+    In the context of suppression and movement, "moving out into the open" 
+includes moving into a new location while you can be hit by shots from the 
+suppressor (this excludes moving into complete concealment, such as going prone 
+behind a high concrete wall). For example, the following situations would 
+trigger a free hit by the suppressor and give you the 'suppressed' status while 
+remaining in the area (let's assume you are upright (not crouched or prone)):
+moving from partial cover to an adjacent partial cover, moving from complete 
+concealment behind a barricade to partial cover, and moving when you are caught 
+out in the open.
+
+    If the suppressor cannot physically hit you (such as being completely behind 
+an impenetrable barrier) you are not suppressed. The suppressor doesn't need to 
+see you to hit you, as in the case of suppressing a cloaked target. 
+
+== Light Suppression ==
+
+    As the last action of your turn, aim at a target and fire 3 rounds (or the 
+rest of your magazine, at least 1 round has to be fired) to suppress 1m radius 
+AOE around the target. The target takes a +1 miss chance malus until the start 
+of your next turn, and if the target moves out into the open**, then roll an 
+immediate reaction to hit the target with a (non-automatic fire) accuracy roll. 
+Immediate reactions are stackable on a per-weapon basis.
+
+== Medium/Moderate Suppression ==
+
+    Identical to light suppression with the following exceptions, you must fire 
+6 rounds from the current magazine to achieve 'moderate', and you don't have to 
+roll to hit -- you automatically hit with one attack. Medium suppression always 
+hits armor if applicable.
+
+== Heavy Suppression ==
+
+    Identical to light suppression with the following exceptions: you must fire 
+10 rounds from the current magazine to achieve 'heavy', you don't have to roll 
+to hit -- you automatically hit with two attacks. Heavy suppression always hits 
+armor. You also suppress all targets within a 2m radius AOE around the primary target.
+
+**"Moving out into the open" includes moving into a new location while you can
+be hit by shots from the suppressor (this excludes moving into complete concealment,
+such as going prone behind a high concrete wall). For example, the following situations
+would trigger a free hit by the suppressor and give you the 'suppressed' status
+while remaining in the area (let's assume you are upright (not crouched or prone)):
+moving from partial cover to an adjacent partial cover, moving from complete concealment
+behind a barricade to partial cover, and moving when you are caught out in the open.
+
+    If the suppressor cannot physically hit you (such as being completely behind an 
+impenetrable barrier) you are not suppressed. The suppressor doesn't need to see 
+you, to hit you.
+
+===== Stealth Attacks With Guns =====
+
+    Ranged weapon stealth-attacks (including explosive grenades but not any 
+other thrown weapons) have -1 miss chance to hit if 'adequate' aiming time is 
+given (DM's discretion: how rushed you are, or how skilled you are at stealth, 
+etc). Ranged weapon stealth-attacks gain +20 bonus damage. 
+
+===== Critical Hits =====
+
+    When you perform an Accuracy Roll (while not firing a gun in burst or 
+automatic mode), you may roll high enough to use your Critical Hit Chance. 
+Critical Hit Chance is based on your Luck Stat, but can also be modified by 
+abilities, weapons, attachments, etc. 
+
+    If your Accuracy Roll is high enough, you activate your Critical Hit Chance.
+When this happens, you roll a second d10 to determine if you have landed a Critical 
+Hit, an Extra-Critical Hit, or, if you have less than average Luck, merely hit your enemy. 
+
+    A Critical Hit deals +20 damage and an Extra-Critical Hit deals +30 damage. 
+
+    Some abilities or feats have additional effects that trigger when you land
+Critical or Extra-Critical Hits. 
+
++------------+------------------------+--------------------+-------------------------+
+| Luck Stat  | Accuracy Roll Required | Critical Hit Roll  | Extra Critical Hit Roll |
++------------+------------------------+--------------------+-------------------------+
+| 1 - 3      | 10                     | 6 - 10             | n/a                     |
++------------+------------------------+--------------------+-------------------------+
+| 4 - 6      | 10                     | 1 - 5              | 6 - 10                  |
++------------+------------------------+--------------------+-------------------------+
+| 7 - 10     | 9-10                   | 1 - 5              | 6 - 10                  |
++------------+------------------------+--------------------+-------------------------+
+| 11+        | 8-10                   | 1 - 5              | 6 - 10                  |
++------------+------------------------+--------------------+-------------------------+
