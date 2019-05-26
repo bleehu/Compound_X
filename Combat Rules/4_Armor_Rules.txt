@@ -23,9 +23,9 @@ improves the Armor Coverage (% of Armor protection), but not the quantity of
 the Armor Strength (AS) or the Armor Piercing Level (APL). 
 
     For example: if you purchase a Chest Rig from the Medium Armor Systems
-category and a Standard L1 Material, you'll have 40% coverage, 40 AS, and an 
+category and a Standard L1 Material, you'll have 2 Coverage, 40 AS, and an 
 APL of 1. Now, in addition, if you purchase the Leg Rig from the Medium Armor 
-Systems and a Standard L1 Material, you'd have 55% coverage, 40 AS, and an
+Systems and a Standard L1 Material, you'd have 3 Coverage, 40 AS, and an
 APL of 1.
 
 *Note: you cannot mix-and-match Materials or Rig categories. Only one
@@ -91,12 +91,21 @@ without letting it break, they can avoid the costly recharge time.
 For more information, please see section "Shields" in the 
 Basic Rules document.
 
-    Armor consists of 3 concepts: Armor Points (APs), Armor Piercing level (APL),
-and % Coverage. Starting from the end, Coverage is simply the percentile that 
-you have to roll under to see if armor was hit. If the attack misses armor, or 
-rolls over 50%, it does half damage because the bullet is hitting a less vital 
-part of the body. If the attack hits armor: Armor Piercing level (APL) comes 
-into play.
+===== Armor Attributes =====
+
+== Coverage ==
+
+    Coverage is a number that represents how effective the armor is 
+at taking fire. Whenever character makes a ranged attack against a target 
+in armor, the attacker rolls Accuracy, applies any applicable bonuses, 
+subtracts cover modifiers, the weapon's base miss chance, and other 
+penalties, and states the result. If that number is less than or equal 
+to the defender's Coverage, the attack strikes armor (first). If it is 
+greater, the attack bypasses the armor. When an attack strikes armor, the 
+next two attributes are involved.
+
+    For Laser, Electric, and other damage types that armor cannot absorb, 
+the armor is considered to have a Coverage of 0.
 
 == Armor Piercing Level (APL) ==
 
