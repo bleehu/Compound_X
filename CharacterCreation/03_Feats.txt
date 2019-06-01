@@ -511,6 +511,16 @@ Prerequisites:
 
     Instead of a secondary weapon, you can carry an additional primary weapon.
 
+== Surgical Precision ==
+Prerequisites:
+
+*  Skill in Medicine: 30
+
+    Your skill with a scalpel and soft, important parts of other beings loosely 
+translates to your skill with a bladed weapon. Your critical hit range with a 
+bladed melee weapon is increased as if you had 3 more points in your Luck 
+attribute. 
+
 == Pack Mule ==
 Prerequisites:
 *  STR 7
