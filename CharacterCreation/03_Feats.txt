@@ -321,13 +321,6 @@ three actions on your turn to do one of the following: Draw a one-handed weapon
 such as a pistol or SMG, Aim, or fire. You can no longer take any of these 
 actions if you are below -50 health. 
 
-== Monk ==
-Prerequisites:
-
-*  Level 7 or higher
-
-	Able to use full damage for lethal strikes with unarmed.
-
 == Muscle Memory ==
 Prerequisites:
 
@@ -1045,10 +1038,9 @@ Duration: 1 Action
 
 	Take a second to breathe slowly and line up your shot. On your next ranged 
 attack this turn against a target you are aimed at, you gain +1 Accuracy and +10m 
-to the weapon's largest range bracket. Miss Chance can go below the -2 minimum
-(see section "Combat:" in the basic rules document). 
+to the weapon's largest range bracket. Miss Chance can go below the -2 minimum. 
 
-	Steady Shot may be taken multiple times, up to a maximum of 4; the bonuses stack.
+	Steady Shot may be taken twice; the bonuses stack.
 
 == Twitch ==
 
@@ -1061,8 +1053,9 @@ Prerequisites:
 Cooldown: None
 Duration: Free Action
 
-	While wielding a CQB firearm, you may aim as a free action instead of an 
-action. If you do, your next two attacks with that weapon have -2 accuracy.
+	If you are wielding a CQB firearm, during your turn, you may aim as a 
+Reaction instead of an Action. When you do, your attacks during your next two 
+Actions have -2 accuracy. This penalty stacks with itself.
 
 == Blur ==
 

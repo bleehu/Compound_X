@@ -209,6 +209,21 @@ friends and family or his ancestors. You love it. Your maximum adrenaline is
 Winston Churchill. Any time an enemy shoots at you and misses, gain 10 
 Adrenaline Points. Requires the "Adrenaline Junkie" Doctor Class Feat.
 
+    One-Hand Wonder:
+
+    "I've done this so many times, I could do it with one arm tied behind my 
+back". You need not holster your weapon while performing any Procedure that 
+only takes 1 Action. Nor do you need to re-draw a weapon after performing such
+Procedures.
+
+    Multitasker:
+
+    Requires that a Doctor be level 10 and have taken One-Hand Wonder. You no
+longer need to holster your weapon to perform Hippocratic Procedures that 
+require 2 Actions either. Furthermore, if you are using a CQB weapon or a 
+pistol then you may either hip fire or suppress as a Free Action while 
+performing the Procedure.
+
 	The Harmacist:
 
 	Learn an extra malpractice procedure. This Class Feat can only be taken by
@@ -433,27 +448,6 @@ effects.
     To take this feat, a Character must be level 10 and have taken the "Boostin' 
 Buggies" Class Feat.
 
-Extensive training <Vehicle>:
-
-	Your complete knowledge of <Vehicle> makes your operation of it seem easy. 
-Add	25 to any check concerning your operation, knowledge, or maintenance of the 
-vehicle. A suggested list of vehicles to chose from is below, but it is not
-exhaustive.
-
-* car/van/truck
-* tank
-* small boat
-* large watercraft
-* helicopter
-* starfighter
-* warship
-
-<Vehicle> Mastery:
-
-	You are THE guru across the galaxy for <Vehicles>. Add 50 onto a pertinent 
-roll about the vehicle.
-
-
 =====   HUNTER   =====
 
 	Unlike many of your compatriots who prefer the cold comforts of technology,
@@ -512,8 +506,6 @@ controlled by the player. Instead, the owner character commands the dog, and the
 GM controls how the dog responds. 
 
 Dog Personalities:
-
-
 
 *  Loyal
 *  Playful
