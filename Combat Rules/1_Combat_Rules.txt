@@ -202,13 +202,6 @@ and from there, how much damage they receive. If the defending player has no
 armor, they armor roll for a target 50 Percentile. If the armor roll is 50% or 
 above, they receive half-damage. Below 50%, full damage.
 
-== Shock of Taking A Round ==
-
-	When players take more than 70 damage, they must roll a Shock save at a DC 
-of the damage taken. On fail they pass out. on success they stay conscious. When 
-players fail, they may roll each turn at a DC of 70 to wake up. They continue to 
-roll either for (15 - FORT) turns, or until they pass.
-
 ==============================
 Death, Dying, and Downed
 ==============================
