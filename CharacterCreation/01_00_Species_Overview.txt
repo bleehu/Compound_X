@@ -3,7 +3,7 @@ Species in Compound X
 ==============================
 
 	The solar systems, space stations and nebulae of the Compound X universe are
-host a dizzying variety of sentient species. Each with their own societies, 
+host to a dizzying variety of sentient species. Each with their own societies, 
 customs, beliefs, architectures, technologies, languages and fashions. 
 
 	Not all sentient species in Compound X can be played as a Player Character
@@ -28,7 +28,36 @@ itself. Only you can decide!
 
 == Traits ==
 
+    When creating your character, you will get the chance to pick two species
+traits. The pool of traits that you can pick from includes your available species
+traits, as well as any available traits from your sub-species.You can choose to 
+have two traits from your species traits list, two traits from your subspecies 
+list, or one each from your species and subspecies list.
+
 == Sub-Species ==
+
+	Each species is split into subgroups, which help to differentiate characters 
+from different backgrounds. 
+	
+	Humans are generally differentiated based on their home star system. Those
+who have stayed in the Sol system have been forced to endure the inhospitable conditions
+there and have survived in equal parts due to their stubbornness and ingenuity, while 
+those seeking refuge elsewhere in the galaxy have been shaped by the difficulty in 
+creating colonies on dangerous worlds.
+	
+	Tundari generally belong to one of several large clans. Each clan is distinguished
+from the others by its geographical location and culture. The clans have each adapted 
+to their environments to the point that an outsider could be forgiven for not realizing 
+that the Tundari were just one species.
+
+	ECSC Security Drones are purpose-built machines. Each Series of Drone has the 
+same chassis, but they all are created for a certain role. Many Drones are built for 
+increased resiliance in dangerous environenments such as the colonies of humanity, while 
+others are meant to do manual labor tasks that no other race could do without heavy machinery.
+
+	Opaleites are quite varied, even in the same area. They have differentiated into 
+several families that specialized in different defensive traits to keep them alive alive 
+in the hostile waters of Trioch II, which they continue to use to theiradvantage to this day.
 
 ==============================
 Species Overview
@@ -36,9 +65,57 @@ Species Overview
 
 ===== Humans =====
 
+    Humans are bipedal mammals. They origionally hail from a formerly blue-green 
+planet called Earth, and now make up the majority of the Terran Empire. Humans 
+are hearty, enterprising and resourceful. 
+
+    Humans can excel at any class. You could be a grizzled human soldier who has
+seen more than their fair share of combat. Or you could be the charismatic 
+gunslinging galatic bounty hunter who always gets their man, but rarely gets the
+girl. You could be the intuitive human engineer who takes care of her drones 
+like they were her beloved pets. Or the recent medical school graduate who's a 
+whiz combat medic with a crush on another party member, if only he could get 
+over his stutter.
+
+    Play a human if you'd like the roleplaying to be easy, or if you want to
+play up another part of your character. Humans are pretty easy to play for 
+first-time RPG players or Compound X players. 
+
 ===== Tundari =====
 
+    Tundari are fur-covered bipedal organic mammals. They have whiskers and a 
+tail, each of varying lengths. Tundari come from the violently alive planet of
+Tundaar. Tundari as a species are fierce, cunning, curious and playful. 
+
+    Tundari can dominate as any class. For example, you could play as the silent
+padfooted assassin, whose enemies never knew she was there until it was too 
+late. You could be the big teddy bear of a beserker who is quick to trust and 
+quicker to tear apart any foe who would put their party in peril. You could be 
+the curious combat medic who sometimes gets preocuppied with the science behind 
+the sights that the galaxy has to show. 
+
+    Play a Tundari if you want to give yourself a challenge either tactically or 
+in roleplay. Tactically, Tundari have slightly more maneuverability and slightly 
+less survivability than the other species. In roleplay, it can be very fun to 
+play something other than a human, but something that is still a mammal. You 
+play a human every day, after all!
+
 ===== Security Drone =====
+
+    Security Drones are bipedal, self-aware robots. Originally developed in the 
+Compound X experimentation laboratory as a military project, their design and 
+construction has since spread into the larger Terran Imperial corporate scene. 
+Drone personalities tend to be dutiful, conscientious, stubborn, and unsubtle.
+
+    Drones can claim victory as any almost any class. You could be the 
+weapon-loaded Specialist who knows how to deal with obstacles, or the 21st 
+century nightmare Hacker with an intimiate understanding of AI operating systems, 
+or perhaps the top-notch Pilot that literally becomes one with their vehicles.
+
+    Play a Security Drone if you want to roleplay from within a set of constraints 
+that are better defined and more resistant to change than most species. Drone 
+traits tend toward durability and observation, making them strong defensive 
+presences.
 
 ===== Opaleite =====
 
