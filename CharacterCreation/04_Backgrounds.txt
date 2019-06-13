@@ -95,7 +95,7 @@ Backgrounds
 +----------------------+-----------+-------------------------------------------------------------------------------+
 | Veteran              | Military  | Gain Advantage on Will saves while Pinned Down                                |
 +----------------------+-----------+-------------------------------------------------------------------------------+
-| [PH]                                                                                                             |
+| You still feel the fear and adrenaline when you're shot at, but then the training kicks in.                      |
 +----------------------+-----------+-------------------------------------------------------------------------------+
 | Expert Researcher    | Academic  | Gain Advantage on Investigation checks to find information                    |
 +----------------------+-----------+-------------------------------------------------------------------------------+
