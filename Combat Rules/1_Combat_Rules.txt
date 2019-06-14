@@ -241,8 +241,8 @@ may be revived in a single encounter a number of times equal to half their Fort,
 minimum two. Past this limit, stabilized characters are Unconscious in addition 
 to the other effects of Stabilization. Note that most persistent damage effects, 
 like bleeds or burns, fall off of characters when they are Downed. If the 
-stabalizing character starts stabalizing with their last action or two, 
-finishing on the stabalizing character's subsequent turn, then the dying 
+stabilizing character starts stabilizing with their last action or two, 
+finishing on the stabilizing character's subsequent turn, then the dying 
 character does not need to make a death saving throw on the turn between that.
 
 	If a character fails a stabilization check, nothing happens. It's just 
