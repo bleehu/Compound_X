@@ -414,19 +414,21 @@ Healing Injuries
 ==============================
 
     The galaxy is a dangerous place, and you may find in the course of your 
-adventure that you need to heal a wound or even stabalize a friend who is on the
+adventure that you need to heal a wound or even Stabilize a friend who is on the
 doorstep of death. The first thing you'll need to know is that treating the 
 injuries of a cybernetic character usually requires the repair skill, while 
-treating a biological character requires the medicine skill. Items such as a 
+treating a biological character requires the medicine skill. An item such as a 
 medkit or repair kit is required for most characters to be able to treat a wound
-or stabalize a dying character. For stabalizing a dying character, see the 
+or Stabilize a dying character. For stabalizing a dying character, see the 
 "Stabalizing" section under "Death and Dying" in the Combat Rules.
 
-    Using a medkit or a repair kit to heal a wounded character takes 3 actions
-in combat. Each healing application heals only one wound at a time. In order for
+    Using a medkit or a repair kit to heal a wounded character in combat takes 3 
+Actions. Each healing application heals only one wound at a time. In order for
 any healing to happen, the healer must make a repair or medicine skill check 
-where the DC is the ammount of damage that the wound inflicted. The ammount of 
-healed hit points is equal to how much the healer overshot the skill check.
+where the DC is the amount of damage that the wound inflicted. The amount of 
+healed hit points is equal to how much the healer overshot the skill check. If a
+wounded character has more than one injury, which injury is being healed must be
+indicated by the healing player before the healing roll is made.
 
     Player Characters of certain classes, like Doctor or Engineer have certain
 abilities that they unlock as they level up that may allow them to heal or 
@@ -435,7 +437,7 @@ repair other characters without a med kit or repair kit.
 	For example, Buster gets shot by an SMG for 40 damage and gets shot again by
 a sniper for 80 damage. Buster now has two wounds, the SMG hit and the sniper 
 hit. Buster's friend Sheela uses a medkit to heal the SMG hit. Sheela has a med
-skill of 10, a dex mod of 8 and rolls a 45. 
+skill of 10, a dex mod of 8 and rolls a 45.
 
     Healing = (medicine skill) + (dex mod) + (medkit) + (roll) - (wound damage)
 

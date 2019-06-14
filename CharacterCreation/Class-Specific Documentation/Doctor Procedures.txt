@@ -553,7 +553,7 @@ Hippocratic Tree
 Adrenaline Reward: 40 Points
 Contagion Reward: 1 Contagion 
 Range:			Touch
-Action:			1 Action
+Action:			2 Actions
     One of the target's wounds are healed. This trick only works on biologic 
 patients.
 
@@ -561,7 +561,7 @@ patients.
 Adrenaline Reward:	80 Points
 Contagion Reward: 2 Contagion
 Range: Touch
-Action: 1 Action
+Action: 2 Actions
     Only usable on an person that is bleeding out. The person is no longer 
 downed and has 30 hp, rather than having to stabilize the target and then heal 
 them as a separate action. This trick only works on biologic patients.
@@ -570,7 +570,7 @@ them as a separate action. This trick only works on biologic patients.
 Adrenaline Reward:	30*n Points
 Contagion Reward: n (max 3) Contagion
 Range: Touch
-Action: 1 Action
+Action: 2 Actions
     The patient is healed by the Doc's heal roll / n, where n is the number of 
 wounds that the patient has. This trick only works on biologic patients.
 

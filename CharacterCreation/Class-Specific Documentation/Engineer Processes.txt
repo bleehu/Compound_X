@@ -69,7 +69,7 @@ Repair Tree
 
 == Reboot	== 
 Potential Gain:65
-Action:		1 Action
+Action:		2 Actions
 Duration: 	N/A
 Range:		Touch
 
@@ -223,7 +223,7 @@ System Restore.
 
 == Duct Tape	== 
 Potential Gain:40
-Action:		1 Action
+Action:		2 Actions
 Duration: 	N/A
 Range:		Touch
 
@@ -257,7 +257,7 @@ effect and may reduce the time taken to repair.
 
 == Multisys Repair	== 
 Potential Gain:30*n
-Action:		1 Action
+Action:		2 Actions
 Duration: 	N/A
 Range:		Touch
 
