@@ -97,13 +97,13 @@ Backgrounds
 +----------------------+-----------+-------------------------------------------------------------------------------+
 | [PH]                                                                                                             |
 +----------------------+-----------+-------------------------------------------------------------------------------+
-| Expert Researcher    | Academic  | Gain Advantage on Investigation checks to find information                    |
+| Expert Researcher    | Academic  | Gain advantage on investigation checks to find information                    |
 +----------------------+-----------+-------------------------------------------------------------------------------+
 | Your time at the academy taught you to ingest lots of information quickly, and where to look first.              |
 +----------------------+-----------+-------------------------------------------------------------------------------+
-| Birds of a Feather   | Academic  |                                                                               |
+| I minored in that.   | Academic  | Gain profficiency in one Knowledge skill.                                     |
 +----------------------+-----------+-------------------------------------------------------------------------------+
-| [PH]                                                                                                             |
+| You've got a very good foundation of knowledge from school in a particular subject.                              |
 +----------------------+-----------+-------------------------------------------------------------------------------+
 | Terms and Conditions | Corporate |                                                                               |
 +----------------------+-----------+-------------------------------------------------------------------------------+
