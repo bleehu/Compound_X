@@ -93,9 +93,9 @@ Backgrounds
 +----------------------+-----------+-------------------------------------------------------------------------------+
 | Your Drill Sergeant was literally the scariest person in the galaxy. Anyone else is small potatoes in comparison |
 +----------------------+-----------+-------------------------------------------------------------------------------+
-| Veteran              | Military  | Gain Advantage on Will saves while Pinned Down                                |
+| Discipline           | Military  | Gain Advantage on Will saves while Pinned Down                                |
 +----------------------+-----------+-------------------------------------------------------------------------------+
-| You still feel the fear and adrenaline when you're shot at, but then the training kicks in.                      |
+| When you're shot at, the fear and adrenaline still pulse through you, but then your training kicks in.           |
 +----------------------+-----------+-------------------------------------------------------------------------------+
 | Expert Researcher    | Academic  | Gain Advantage on Investigation checks to find information                    |
 +----------------------+-----------+-------------------------------------------------------------------------------+
