@@ -101,7 +101,7 @@ Backgrounds
 +----------------------+-----------+-------------------------------------------------------------------------------+
 | Your time at the academy taught you to ingest lots of information quickly, and where to look first.              |
 +----------------------+-----------+-------------------------------------------------------------------------------+
-| I minored in that.   | Academic  | Gain profficiency in one Knowledge skill.                                     |
+| I minored in that.   | Academic  | Gain proficiency in one Knowledge skill.                                     |
 +----------------------+-----------+-------------------------------------------------------------------------------+
 | You've got a very good foundation of knowledge from school in a particular subject.                              |
 +----------------------+-----------+-------------------------------------------------------------------------------+
