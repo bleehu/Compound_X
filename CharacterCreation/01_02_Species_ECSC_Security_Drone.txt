@@ -219,8 +219,9 @@ the Drone's silhouette, giving a +10 to stealth skill checks. Being adept at
 operating in cold environments has led to Cryo Drones being better at operating
 in space and in zero gravity. Cryo Drones get a +20 to Reflex saves to move in
 zero gravity and +20 to Acrobatics checks to maneuver in zero gravity as well. 
-They have a -20 to skill checks involving Swim. Cryo Drones with this trait only 
-reduce plasma burn tokens every 3 turns instead of every other turn. 
+They have a -20 to Athletics skill checks involving swimming. Cryo Drones with 
+this trait only reduce plasma burn tokens every 3 turns instead of every other 
+turn. 
 
 ===== Series 0x0c "Constructor" =====
 
