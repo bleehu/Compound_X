@@ -169,10 +169,9 @@ figure-head the process to outsiders.
 
 Hind-Claws:
 	Digging into the ground with the large claws present on your hind-limbs spurs your 
-ability to run much faster than your peers. 
-[To calculate your Movement Speed per action, use (Movement Speed)/2 and round up to the
-nearest integer.]
+ability to run much faster than your peers.
 
+	You can move 1 more meter per action.
 
 Wide-faced:
 	Many species seem to be drawn to your large eyes. You aren’t certain why, but it gives 
