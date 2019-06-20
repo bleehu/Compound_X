@@ -231,10 +231,6 @@ private social circles.
 
 == Available Traits ==
 
-Climbing: 
-	A long tail and a lack of fear of heights allows climbing to come very naturally to you. 
-[Gain Advantage on Acrobatics (DEX) Checks when Climbing]
-
 Survivalist: 
 	Being out by yourself often requires quick ingenuity and hardiness. 
 [Gain Proficiency in Jury-Rigging]
