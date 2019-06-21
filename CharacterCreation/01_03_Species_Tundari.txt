@@ -143,8 +143,8 @@ Toothed:
 	As a predatory species, you have the customary long teeth that frighten many. 
 To you, they are commonplace, but to many others, they induce a primal fear of being
 hunted and eaten. 
-[Gain Advantage on initial Intimidation checks toward and against other Biological
-beings.]
+[Gain Advantage on Intimidation checks targeting non-Tundari Biological characters for the
+one day after first meeting them.]
 
 ==============================
 Tundari Clans
