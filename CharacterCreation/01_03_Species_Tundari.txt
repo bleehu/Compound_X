@@ -238,4 +238,5 @@ Survivalist:
 Swimmer: 
 	You are an expert at swimming. A thick coat of fur protects you from the chill of 
 the water, and you can hold your breath for quite some time.
-[Gain Advantage on rolls related to Swimming. Can hold breath up to 5 minutes]
+[Gain Advantage on Athletics (Str) rolls while Swimming. You can hold your breath for an 
+additional 2 minutes.]
