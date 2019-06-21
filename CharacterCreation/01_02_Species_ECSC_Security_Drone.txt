@@ -165,12 +165,16 @@ goggles for such night vision.
 
 Flame Retardant:
     Being able to quickly radiate and dump heat quickly makes many of the Cinder
-Series Drones partially resistant to heat damage. They only take 50% of damage
-from flame or lava, and plasma burn only lasts 1 turn per stack instead of 2. 
-However, these systems are not well-calibrated for extreme cold. Long exposure
+Series Drones partially resistant to heat damage. They take half damage from 
+high-temperature Thermal damage sources, plasma burn only lasts 1 turn per stack 
+instead of 2, and they are immune to status effects applied by high-temperature 
+environmental conditions. 
+
+    However, these systems are not well-calibrated for extreme cold. Long exposure
 can lead to material embrittlement and coolant viscosity fluctuation. A Flame
-Retardant Drone takes 25% more damage from cryo weaponry, environmental 
-hazards on ice planets or similar effects. 
+Retardant Drone takes 25% more damage from low-temperature Thermal damage sources
+and numerical effects from negative status effects applied by low-temperature 
+environmental conditions are increased by 50%. 
 
 ===== Series 0x0b "Cryo" =====
 
