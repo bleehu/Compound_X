@@ -202,7 +202,7 @@ governing the more insular parts of Tundari society.
 
 Climbing: 
 	A long tail and a lack of fear for heights allows climbing to come very naturally to you. 
-[Gain Advantage on Athletics (STR) Checks when Climbing]
+[Gain Advantage on Athletics (STR) Checks to climb up a slope of at least 60 degrees]
 
 Powerful: 
 	Large, developed muscles allow you to carry more and hit harder. 
