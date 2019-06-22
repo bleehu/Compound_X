@@ -65,9 +65,10 @@ Backgrounds
 | Some people lose their bearings the moment gravity takes a hike. Not you. You thrive in the                    |
 | weightlessness of space and the rush you get from proximity to vaccuum is like nothing else                    |
 +--------------------+-----------------+-------------------------------------------------------------------------+
-| Below the Radar    | Urchin          | Gain 6 skill points in either Sleight of Hand or Stealth                |
+| So You Say         | Urchin          | Gain Advantage on Insight checks in urban environments.                 |
 +--------------------+-----------------+-------------------------------------------------------------------------+
-| [PH]                                                                                                           |
+| You've been lied to a lot. You can tell the difference. Some lies aren't personal, and you understand. But     |
+| some lies bother you a lot. Not that you'd show it.                                                            |
 +--------------------+-----------------+-------------------------------------------------------------------------+
 | Street-wise        | Urchin          | Gain Advantage when rolling to find locations and navigate              |
 |                    |                 | in cities built by the civilization where you grew up                   |
