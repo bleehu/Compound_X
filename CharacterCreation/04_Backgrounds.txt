@@ -78,11 +78,12 @@ Backgrounds
 +--------------------+-----------------+-------------------------------------------------------------------------+
 | Unflappable Poise  | Socialite       | Add 10 to saving throws against being intimidated                       |
 +--------------------+-----------------+-------------------------------------------------------------------------+
-| [PH]                                                                                                           |
+| "Your poor manners are not a reflection on me. How I handle them of course would be."                          |
 +--------------------+-----------------+-------------------------------------------------------------------------+
-| Silver Spoon       | Socialite       | Gain 0.5 set of Medical Nanites                                         |
+| Silver Spoon       | Socialite       | Gain one half set of Medical Nanites                                    |
 +--------------------+-----------------+-------------------------------------------------------------------------+
-| [PH]                                                                                                           |
+| Preventative health care just makes economic sense. That's why your family made sure you got your nanite       |
+| injections on time from an early age.                                                                          |
 +--------------------+-----------------+-------------------------------------------------------------------------+
 
 ===== Professional Experience =====
