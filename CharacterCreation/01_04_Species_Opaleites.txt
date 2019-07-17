@@ -119,7 +119,7 @@ turning head]
 
 ===== Available Traits =====
 
-Dark Vision:
+Wide Irises:
     The water on any given planet is not always brightened heavily by the sun. 
 Acclimated to darker waters, many Opalites can see as if in normal light in
 low light conditions.
