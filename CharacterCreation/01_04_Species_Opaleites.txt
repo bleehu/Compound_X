@@ -134,8 +134,6 @@ Opaleite Sub-Species
 Size: Medium
 Home System: Trioch IV
 
-Stats: +2 CHA
-
 Appearance: 
    Thin and brightly colored, these Opaleites sport a variety of colors
    and patterns. 
@@ -155,8 +153,6 @@ Colorful:
 
 Size: Large
 Home System: Trioch IV
-
-Stats: +1 STR, +1 FOR
 
 Appearance:
    Thick, cartilaginous scales cover a sturdy skeletal structure. 
@@ -205,8 +201,6 @@ water so they can use the above abilities.
     
 Size: Medium
 Home System: Trioch IV
-
-Stats: +2 DEX
 
 Appearance:
     Similar in size to the Mendars, Sea Devils, or Samek in the Opaleite tongue, 
