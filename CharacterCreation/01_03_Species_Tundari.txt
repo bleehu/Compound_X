@@ -233,7 +233,7 @@ private social circles.
 
 Survivalist: 
 	Being out by yourself often requires quick ingenuity and hardiness. 
-[Gain Proficiency in Jury-Rigging]
+[Gain Proficiency in Survival]
 
 Swimmer: 
 	You are an expert at swimming. A thick coat of fur protects you from the chill of 
