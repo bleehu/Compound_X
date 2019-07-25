@@ -174,7 +174,7 @@ parts of Condrich anatomy such as the face and gills aren't bulletproof.
 
     If a Condrich either goes without armor or wears a rig that doesn't provide
 any protection, then the Condrich uses an armor called "Natural Armor" which has
-80% coverage, an APL of 1, an Armor Strength of 40, and no movement restriction.
+5 Coverage, an APL of 1, an Armor Strength of 40, and no movement restriction.
 They have however much mag space any other clothing they wear provides. If the
 Condrich does wear armor, they get an Armor Strength bonus of 20 to whichever
 armor that they wear.
