@@ -176,7 +176,7 @@ ability to run much faster than your peers.
 Wide-faced:
 	Many species seem to be drawn to your large eyes. You aren’t certain why, but it gives 
 you an advantage when attempting to persuade or charm members of other biological species. 
-[Once per biological individual, you may roll a Persuation check with Advantage.]
+[Once per biological individual per day, you may roll a Persuasion check with Advantage.]
 
 
 
