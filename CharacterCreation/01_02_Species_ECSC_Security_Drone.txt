@@ -169,12 +169,16 @@ their charisma checks against them.
 
 Flame Retardant:
     Being able to quickly radiate and dump heat quickly makes many of the Cinder
-Series Drones partially resistant to thermal damage. They only take 50% of damage
-from flame or lava, and plasma burn only lasts 1 turn per stack instead of 2. 
-However, these systems are not well-calibrated for extreme cold. Long exposure
+Series Drones partially resistant to heat damage. They take half damage from 
+high-temperature Thermal damage sources, plasma burn only lasts 1 turn per stack 
+instead of 2, and they are immune to status effects applied by high-temperature 
+environmental conditions. 
+
+    However, these systems are not well-calibrated for extreme cold. Long exposure
 can lead to material embrittlement and coolant viscosity fluctuation. A Flame
-Retardant Drone takes 25% more damage from cryo weaponry, environmental 
-hazards on ice planets or similar effects. 
+Retardant Drone takes 25% more damage from low-temperature Thermal damage sources
+and numerical effects from negative status effects applied by low-temperature 
+environmental conditions are increased by 50%. 
 
 ===== Series 0x0b "Cryo" =====
 
@@ -223,8 +227,9 @@ the Drone's silhouette, giving a +10 to stealth skill checks. Being adept at
 operating in cold environments has led to Cryo Drones being better at operating
 in space and in zero gravity. Cryo Drones get a +20 to Reflex saves to move in
 zero gravity and +20 to Acrobatics checks to maneuver in zero gravity as well. 
-They have a -20 to skill checks involving Swim. Cryo Drones with this trait only 
-reduce plasma burn tokens every 3 turns instead of every other turn. 
+They have a -20 to Athletics skill checks involving swimming. Cryo Drones with 
+this trait only reduce plasma burn tokens every 3 turns instead of every other 
+turn. 
 
 ===== Series 0x0c "Constructor" =====
 
@@ -250,10 +255,12 @@ Favored Terrain: Urban
 Bulky Frame:
     The Constructor Series is built more ruggedly than other drone types. While this
 gives greater lifting power, it also hinders the drone's movement. Due to its more 
-solid build, the constructor drone is more difficult to push around. Gains advantage
-with any skill check related to planting itself against something, such as an airlock
-breaching or being tackled by a large creature. This drone gets a -10 to stealth 
-rolls due to its obvious silhouette and heavy footsteps.
+solid build, the constructor drone is more difficult to push around. 
+
+    Drones with bulky frames get a -10 to stealth, but gain advantage with any skill 
+check related to planting itself against something, such as an airlock breaching 
+or being tackled by a large creature. They similarly gain advantage on Shock 
+saves against similar effects.
     
 Engineering-Minded:
     The Series Twelve Drone is programmed to be better at building things than other 
