@@ -111,11 +111,12 @@ drawbacks, however. [Can breath underwater. -10 to save rolls involviving smoke 
 Compound Eyes:
    While Opaleites have two sets of eyes, their visual aquity above water is not 
 as good as a species that lives above water full time. On the other hand, it is 
-very hard to sneak up on an Opaleite in any decent light. [-10 to general 
-perception rolls above water, can detect movement from above and sides without 
-turning head]
+very hard to sneak up on an Opaleite in any decent light. 
 
-    Start with 40 STAT points
+  Opalites get a -10 to all skill checks that use Perception unless they are
+submerged in water. They do however get a +6 to awareness saves.
+
+    Opalites start with 40 STAT points
 
 ===== Available Traits =====
 
