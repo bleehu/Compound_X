@@ -89,7 +89,7 @@ No Gender Personality AI:
 
 ===== Passives =====
 
-    Security Drones don't have any species-wide passives in common.
+    Security Drones have 40 Stat points.
 
 ===== Available Traits ===== 
 
