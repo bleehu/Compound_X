@@ -144,8 +144,9 @@ only recently ceased their nomadic patterns.
 Endurance: 
 	Generations of Nomadic behavior have made moving long distances 
 easy for those of Eastern Earthling descent. 
-[First 2 Actions Sprinting are free of penalty. 1 Recovery Action required
-for every 2 subsequent Sprinting Actions]
+
+    Once per engagement, your Sprinting actions during one turn do not incur the 
+normal penalties.
 
 ===== Western Earthlings =====
 
