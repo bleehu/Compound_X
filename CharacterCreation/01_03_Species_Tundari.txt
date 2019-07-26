@@ -206,7 +206,8 @@ Climbing:
 
 Powerful: 
 	Large, developed muscles allow you to carry more and hit harder. 
-[Increase your Carry Ability by 2, and increase the damage of your Unarmed Strike by 5. At levels 5, 9, 15, and 20, further increase the damage of your Unarmed Strike by 5.]
+[Increase your Carry Ability by 2, and increase the damage of your Unarmed Strike by 5. 
+At levels 5, 10, 15, and 20, further increase the damage of your Unarmed Strike by 5.]
 
 
 
