@@ -205,7 +205,7 @@ as suns and stars is also very helpful for navigation.
     This Trait cannot be taken with the IR Optical Sensor. A Drone with the UV 
 Optical Module can switch between regular spectrum and UV sight once per turn as 
 a Free Action. While in UV mode, they get a +20 to Investigate skill checks and 
-a +10 to Navigation and Piloting(Space) skill checks. They can see the sun even 
+a +10 to Navigation and Vehicles - Space skill checks. They can see the sun even 
 through heavy clouds, but not monsoons or bad storms. Enemy Lasers, plasma 
 weapons, and shields appear to glow while looking through UV vision and can be 
 seen through smoke or in no-light conditions. But enemies without lasers, 
