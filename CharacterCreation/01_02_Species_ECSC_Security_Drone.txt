@@ -261,5 +261,5 @@ saves against similar effects.
 Engineering-Minded:
     The Series Twelve Drone is programmed to be better at building things than other 
 drones. Because of this, Constructor Drones are very resourceful when it comes to 
-solving problems, and are able to build makeshift items and tools effortlessly. Gain
-advantage on Jury-Rigging rolls.
+solving problems, and are able to build makeshift items and tools effortlessly. You 
+may roll the average on Jury-Rigging rolls.
