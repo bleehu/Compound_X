@@ -37,7 +37,7 @@ Backgrounds
 +--------------------+-----------------+-------------------------------------------------------------------------+
 | White Collar       | Middle-Class    | Gain Proficiency in Knowledge - Corporate                               |
 +--------------------+-----------------+-------------------------------------------------------------------------+
-| [PH]                                                                                                           |
+| You're sick of the rat race. But knowing how the corps operate has its uses from time to time.                |
 +--------------------+-----------------+-------------------------------------------------------------------------+
 | Penny-Pincher      | Middle-Class    | Gain Advantage to Persuasion rolls when bartering with an individual    |
 +--------------------+-----------------+-------------------------------------------------------------------------+
