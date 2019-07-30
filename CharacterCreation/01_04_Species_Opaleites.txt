@@ -189,16 +189,12 @@ detect the direction of a smell depending on which branches the odor hits first.
 They aren't quite as sensitive as some tracking service animals, but they have
 the benefit of being able to do it above or below the surface of the water.
 
-    Condrichs with this trait get a +10 to investigate checks to follow a trail,
-and to perception checks using their sense of smell. Condrichs with this trait 
-that make a melee attack against a target that has a bleed condition get 
-advantage on their rolls. Condrichs get advantage on spotting rolls to find a
-target that has the bleeding condition. This comes with an additional -12 penalty
-to Saving Throws warding against smoke or gas penalties. 
-
-    Each time a Condrich with this trait dives into water or emerges from being
-submerged, they will need to take an Action to clear their sinuses of the air or
-water so they can use the above abilities.
+    Condrichs with this trait may roll the average on investigate or survival 
+checks to follow a scent trail, and to Perception-based checks that use their 
+sense of smell. If the target has the Bleeding condition, is below half of 
+their base maximum health, or otherwise covered in blood, the Condrich may roll 
+with advantage instead. However, they have a -12 penalty to Saving Throws 
+warding against smoke or gas effects.
 
     
 ===== Sea Devils =====
