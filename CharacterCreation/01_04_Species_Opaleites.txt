@@ -223,9 +223,9 @@ experienced individual can alternate lighting scales from tip to tail to
 misdirect an enemy.
 
    Under low-light or darker conditions, if you moved at least your move speed 
-on your last turn, enemies must pass a DC 60 Perception check in order to Aim
-at you (they may try multiple times). Enemies using nonvisible light, such as IR 
-goggles, are unaffected.
+on your last turn, then whenever an enemy would Aim at you, they must pass a 
+DC 60 Perception check to successfully do so. Enemies using nonvisible light 
+equipment, such as IR goggles, are unaffected.
    
 Deep Glow:
 
