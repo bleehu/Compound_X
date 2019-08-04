@@ -12,22 +12,40 @@ Backgrounds
 +------------------------+------------------------------------------------------------------------------+
 | Kepler Core Worlds     | Gain Language- Terran Common (+2 dialects). Gain 0.5 set of Nanites.         |
 +------------------------+------------------------------------------------------------------------------+
-| Tundaari Core Worlds   | Gain Language- Tuunra (+2 dialects). Gain 0.5 set of Nanites.                |
+| You hail from the core of the Terran Empire, where worlds gleam with corporate skyscrapers and        |
+| bustling industry. You speak the language that most humans understand, and have the standard nanites. |
++------------------------+------------------------------------------------------------------------------+
+| Tundari Core Worlds   | Gain Language- Tuunra (+2 dialects). Gain 0.5 set of Nanites.                 |
++------------------------+------------------------------------------------------------------------------+
+| Growing up on Tundaar has given you a familiarity with the culture of the Tundari and their language. |
+| You also got the standard dose of healthcare nanites to fight disease and speed your healing.         |
 +------------------------+------------------------------------------------------------------------------+
 | Trioch System          | Gain Languages- Opaleite Trade: Vocal (+1 sub-species dialect),              |
 |                        | Opaleite Trade: Sign. Gain 0.5 set of Nanites.                               |
 +------------------------+------------------------------------------------------------------------------+
+| The blue-green oceans of Trioch II or III will always be home for you. You speak the opalite language |
+| that travels well in water, and you can use your hands to make opalite sign language for trade.       |
++------------------------+------------------------------------------------------------------------------+
 | Colony World- Terran   | Gain Languages- Terran Common (+ 1 dialect), 1 Common or Trade Language of   |
 |                        | choice. Gain 0.5 set of Nanites.                                             |
 +------------------------+------------------------------------------------------------------------------+
+|                    |
++------------------------+------------------------------------------------------------------------------+
 | Colony World- Tundaari | Gain Languages- Tuunra (+ 1 dialect), 1 Common or Trade Language of choice.  |
-|                        | Gain 0.5 set of Nanites.                                                     |  
+|                        | Gain 0.5 set of Nanites.                                                     | 
++------------------------+------------------------------------------------------------------------------+
+|                    |
 +------------------------+------------------------------------------------------------------------------+
 | Colony World- Opaleite | Gain Languages- Opaleite Trade: Vocal or Opaleite Trade: Sign (+ 1 dialect), |
 |                        | 1 Common or Trade Language of choice. Gain 0.5 set of Nanites.               |
 +------------------------+------------------------------------------------------------------------------+
+|                    |
++------------------------+------------------------------------------------------------------------------+
 | Space Station          | Gain Languages- 2 Common or Trade Languages of choice (+1 dialect).          |
 |                        | Gain 0.5 set of Nanites.                                                     |
++------------------------+------------------------------------------------------------------------------+
+| Your hometown is where the stars are always out and the spacers come to trade and refuel. You've seen |
+| every manner of sentient and comprehend a variety of languages. You've a standard set of nanites.     |
 +------------------------+------------------------------------------------------------------------------+
 
 ===== Social Class =====
