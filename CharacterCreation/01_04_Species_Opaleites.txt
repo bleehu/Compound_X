@@ -222,11 +222,10 @@ confuse enemies. Used in conjunction with darkness and quick movement, an
 experienced individual can alternate lighting scales from tip to tail to 
 misdirect an enemy.
 
-   Under low-light or darker conditions, you may use this ability while evading 
-enemy fire to give enemies attacking you a -1 to accuracy. Enemies may roll a DC 
-60 Awareness Save to see throught the deception. May also be used to attempt to 
-distract an individual away from your teammates; enemy Awareness vs. Acrobatics 
-(Dex) or Athletics (Dex).
+   Under low-light or darker conditions, if you moved at least your move speed 
+on your last turn, then whenever an enemy would Aim at you, they must pass a 
+DC 60 Perception check to successfully do so. Enemies using nonvisible light 
+equipment, such as IR goggles, are unaffected.
    
 Deep Glow:
 
