@@ -163,6 +163,10 @@ Opalite scale undulations. Unfortunately, this augmentation does take the slot
 that Drone IR filters would otherwise inhabit, requiring the use of external 
 goggles for such night vision.
 
+    Characters with D-Filters are immune to the blindness of flashbangs. 
+Opalites that use Scale abilities don't get the bonus for those abilities toward
+their charisma checks against them.
+
 Flame Retardant:
     Being able to quickly radiate and dump heat quickly makes many of the Cinder
 Series Drones partially resistant to heat damage. They take half damage from 
