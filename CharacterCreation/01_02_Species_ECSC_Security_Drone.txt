@@ -257,10 +257,9 @@ Bulky Frame:
 gives greater lifting power, it also hinders the drone's movement. Due to its more 
 solid build, the constructor drone is more difficult to push around. 
 
-    Drones with bulky frames get a -10 to stealth, but gain advantage with any skill 
-check related to planting itself against something, such as an airlock breaching 
-or being tackled by a large creature. They similarly gain advantage on Shock 
-saves against similar effects.
+    Drones with bulky frames get a -10 to stealth, but gain advantage with skill 
+checks and Shock saves related to planting itself against something, such as an 
+airlock breaching or being tackled by a large creature.
     
 Engineering-Minded:
     The Series Twelve Drone is programmed to be better at building things than other 
