@@ -115,13 +115,13 @@ Backgrounds
 +----------------------+-----------+-------------------------------------------------------------------------------+
 | You always know when you're right, and your years of experience have taught you how to convince everybody else.  |
 +----------------------+-----------+-------------------------------------------------------------------------------+
-|                      | Artistic  |                                                                               |
+| Eye For Detail       | Artistic  | Gain 6 skill points in Spotting.                                              |
 +----------------------+-----------+-------------------------------------------------------------------------------+
-| [PH]                                                                                                             |
+| Years of critiquing your own work has improved your ability to see details and spot when something is off.       |
 +----------------------+-----------+-------------------------------------------------------------------------------+
-|                      | Artistic  |                                                                               |
+| Musically Inclined   | Artistic  | Gain advantage on Performance rolls when using a musical instrument.          |
 +----------------------+-----------+-------------------------------------------------------------------------------+
-| [PH]                                                                                                             |
+| Your trained ear and sense of rhythm has been developed over years of study and play.                            |
 +----------------------+-----------+-------------------------------------------------------------------------------+
 | Grifter              | Criminal  | Gain 6 skill points in Deception                                              |
 +----------------------+-----------+-------------------------------------------------------------------------------+
