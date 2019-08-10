@@ -111,15 +111,16 @@ drawbacks, however. [Can breath underwater. -10 to save rolls involviving smoke 
 Compound Eyes:
    While Opaleites have two sets of eyes, their visual aquity above water is not 
 as good as a species that lives above water full time. On the other hand, it is 
-very hard to sneak up on an Opaleite in any decent light. [-10 to general 
-perception rolls above water, can detect movement from above and sides without 
-turning head]
+very hard to sneak up on an Opaleite in any decent light. 
 
-    Start with 40 STAT points
+  Opalites get a -10 to all skill checks that use Perception unless they are
+submerged in water. They do however get a +6 to awareness saves.
+
+    Opalites start with 40 STAT points
 
 ===== Available Traits =====
 
-Dark Vision:
+Wide Irises:
     The water on any given planet is not always brightened heavily by the sun. 
 Acclimated to darker waters, many Opalites can see as if in normal light in
 low light conditions.
@@ -133,8 +134,6 @@ Opaleite Sub-Species
 
 Size: Medium
 Home System: Trioch IV
-
-Stats: +2 CHA
 
 Appearance: 
    Thin and brightly colored, these Opaleites sport a variety of colors
@@ -156,8 +155,6 @@ Colorful:
 Size: Large
 Home System: Trioch IV
 
-Stats: +1 STR, +1 FOR
-
 Appearance:
    Thick, cartilaginous scales cover a sturdy skeletal structure. 
 
@@ -174,7 +171,7 @@ parts of Condrich anatomy such as the face and gills aren't bulletproof.
 
     If a Condrich either goes without armor or wears a rig that doesn't provide
 any protection, then the Condrich uses an armor called "Natural Armor" which has
-80% coverage, an APL of 1, an Armor Strength of 40, and no movement restriction.
+5 Coverage, an APL of 1, an Armor Strength of 40, and no movement restriction.
 They have however much mag space any other clothing they wear provides. If the
 Condrich does wear armor, they get an Armor Strength bonus of 20 to whichever
 armor that they wear.
@@ -188,16 +185,12 @@ detect the direction of a smell depending on which branches the odor hits first.
 They aren't quite as sensitive as some tracking service animals, but they have
 the benefit of being able to do it above or below the surface of the water.
 
-    Condrichs with this trait get a +10 to investigate checks to follow a trail,
-and to perception checks using their sense of smell. Condrichs with this trait 
-that make a melee attack against a target that has a bleed condition get 
-advantage on their rolls. Condrichs get advantage on spotting rolls to find a
-target that has the bleeding condition. This comes with an additional -12 penalty
-to Saving Throws warding against smoke or gas penalties. 
-
-    Each time a Condrich with this trait dives into water or emerges from being
-submerged, they will need to take an Action to clear their sinuses of the air or
-water so they can use the above abilities.
+    Condrichs with this trait may roll the average on investigate or survival 
+checks to follow a scent trail, and to Perception-based checks that use their 
+sense of smell. If the target has the Bleeding condition, is below half of 
+their base maximum health, or otherwise covered in blood, the Condrich may roll 
+with advantage instead. However, they have a -12 penalty to Saving Throws 
+warding against smoke or gas effects.
 
     
 ===== Sea Devils =====
@@ -205,8 +198,6 @@ water so they can use the above abilities.
     
 Size: Medium
 Home System: Trioch IV
-
-Stats: +2 DEX
 
 Appearance:
     Similar in size to the Mendars, Sea Devils, or Samek in the Opaleite tongue, 
@@ -221,11 +212,10 @@ confuse enemies. Used in conjunction with darkness and quick movement, an
 experienced individual can alternate lighting scales from tip to tail to 
 misdirect an enemy.
 
-   Under low-light or darker conditions, you may use this ability while evading 
-enemy fire to give enemies attacking you a -1 to accuracy. Enemies may roll a DC 
-60 Awareness Save to see throught the deception. May also be used to attempt to 
-distract an individual away from your teammates; enemy Awareness vs. Acrobatics 
-(Dex) or Athletics (Dex).
+   Under low-light or darker conditions, if you moved at least your move speed 
+on your last turn, then whenever an enemy would Aim at you, they must pass a 
+DC 60 Perception check to successfully do so. Enemies using nonvisible light 
+equipment, such as IR goggles, are unaffected.
    
 Deep Glow:
 

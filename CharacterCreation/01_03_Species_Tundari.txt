@@ -143,8 +143,8 @@ Toothed:
 	As a predatory species, you have the customary long teeth that frighten many. 
 To you, they are commonplace, but to many others, they induce a primal fear of being
 hunted and eaten. 
-[Gain Advantage on initial Intimidation checks toward and against other Biological
-beings.]
+[Gain Advantage on Intimidation checks targeting Biological characters for one day 
+after first meeting them.]
 
 ==============================
 Tundari Clans
@@ -169,15 +169,14 @@ figure-head the process to outsiders.
 
 Hind-Claws:
 	Digging into the ground with the large claws present on your hind-limbs spurs your 
-ability to run much faster than your peers. 
-[To calculate your Movement Speed per action, use (Movement Speed)/2 and round up to the
-nearest integer.]
+ability to run much faster than your peers.
 
+	You can move 1 more meter per action.
 
 Wide-faced:
 	Many species seem to be drawn to your large eyes. You aren’t certain why, but it gives 
 you an advantage when attempting to persuade or charm members of other biological species. 
-[Once per biological individual, you may roll a Persuation check with Advantage.]
+[Once per biological individual per day, you may roll a Persuasion check with Advantage.]
 
 
 
@@ -207,7 +206,8 @@ Climbing:
 
 Powerful: 
 	Large, developed muscles allow you to carry more and hit harder. 
-[Increase your Carry Ability by 2, and increase the damage of your Unarmed Strike by 5. At levels 5, 9, 15, and 20, further increase the damage of your Unarmed Strike by 5.]
+[Increase your Carry Ability by 2, and increase the damage of your Unarmed Strike by 5. 
+At levels 5, 10, 15, and 20, further increase the damage of your Unarmed Strike by 5.]
 
 
 
@@ -232,15 +232,12 @@ private social circles.
 
 == Available Traits ==
 
-Climbing: 
-	A long tail and a lack of fear of heights allows climbing to come very naturally to you. 
-[Gain Advantage on Acrobatics (DEX) Checks when Climbing]
-
 Survivalist: 
 	Being out by yourself often requires quick ingenuity and hardiness. 
-[Gain Proficiency in Jury-Rigging]
+[Gain Proficiency in Survival]
 
 Swimmer: 
 	You are an expert at swimming. A thick coat of fur protects you from the chill of 
 the water, and you can hold your breath for quite some time.
-[Gain Advantage on rolls related to Swimming. Can hold breath up to 5 minutes]
+[Gain Advantage on Athletics (Str) rolls while Swimming. You can hold your breath for an 
+additional 2 minutes.]
