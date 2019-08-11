@@ -21,9 +21,9 @@ the use of their eyes. Whether it's a sudden bright flash of light or getting
 particulates thrown in your face, it typically is a bad thing to be blind on the
 battlefield.
 
-    A Character that is blind takes disadvantage on awareness saves and skill 
-checks. A character can still use a ranged weapon, however. For rules on 
-shooting when you can't see, please read the "blindfiring" section of the 
+    A Character that is blind takes disadvantage on awareness and reflex saves, 
+and skill checks. A character can still use a ranged weapon, however. For rules 
+on shooting when you can't see, please read the "blindfiring" section of the 
 combat rules.
 
 == Burning ==
