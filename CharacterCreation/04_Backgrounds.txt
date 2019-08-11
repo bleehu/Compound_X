@@ -149,13 +149,14 @@ Backgrounds
 +----------------------+-----------+-------------------------------------------------------------------------------+
 | You innately understand how underworld dealings work, and won't easily be swindled out of a good deal.           |
 +----------------------+-----------+-------------------------------------------------------------------------------+
-|                      | Trade     |                                                                               |
+| Caveat Emptor        | Trade     | Gain 6 skill points in Insight.                                               |
 +----------------------+-----------+-------------------------------------------------------------------------------+
-| [PH]                                                                                                             |
+| You've bought enough lemons to know when someone's pitching a bad deal. Spotting over-selling is easy.           |
 +----------------------+-----------+-------------------------------------------------------------------------------+
-|                      | Trade     |                                                                               |
+| Well-Traveled        | Trade     | Gain 6 skill in Navigation and pick an additional dialect that you know.      |
 +----------------------+-----------+-------------------------------------------------------------------------------+
-| [PH]                                                                                                             |
+| Oh ya, I had a collegue from these parts. Made a killing last time I was here selling "yoshgas." Don't worry     |
+| about it, it doesn't translate all that well.                                                                    |
 +----------------------+-----------+-------------------------------------------------------------------------------+
 | Tools of the Trade  | BountyHunter | Gain license, L2 chest armor plate, and 5 HD zip cuffs.                     |
 +----------------------+-----------+-------------------------------------------------------------------------------+
