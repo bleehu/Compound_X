@@ -1,9 +1,28 @@
 ==============================
 Backgrounds
 ==============================
-	Where is your character from? All characters have a past: where they grew up, what career they studied or were trained for, what languages they speak and understand. A character's background will influence their patterns of behavior, ability to communicate with others, their world-view, their areas of specialized knowledge, and more. Maybe they grew up on a kangaroo farm, or studied medicine on a core planet. Were they trained for corporate espionage or recruited for military service? From smuggling contraband, to piloting cargo ships, to making appointments for a corporate executive, a character's past will inform how they act under pressure, react under fire and interact with teammates.
-	In addition to influencing your character's decisionmaking and roleplay, their background also gives them knowledge and experience. As you build your character, choose specific scenarios in which your character has an edge over others due to their upbringing, history and education. These elements of your character's experience, their Background Perks, will provide bonuses to their rolls in-game.
-	Formal backgrounds in Compound X have three parts: a character's Culture of Origin, Social Class, and Profession.
+	Where is your character from? All characters have a past: where they grew up, 
+what career they studied or were trained for, what languages they speak and 
+understand. A character's background will influence their patterns of behavior, 
+ability to communicate with others, their world-view, their areas of specialized 
+knowledge, and more. Maybe they grew up on a kangaroo farm, or studied medicine 
+on a core planet. Were they trained for corporate espionage or recruited for 
+military service? From smuggling contraband, to piloting cargo ships, to making 
+appointments for a corporate executive, a character's past will inform how they 
+act under pressure, react under fire and interact with teammates.
+
+	In addition to influencing your character's decisionmaking and roleplay, 
+their background also gives them knowledge and experience. As you build your 
+character, choose specific scenarios in which your character has an edge over 
+others due to their upbringing, history and education. These elements of your 
+character's experience, their Background Perks, will provide bonuses to their 
+rolls in-game.
+
+	Formal backgrounds in Compound X have three parts: a character's Culture of 
+Origin, Social Class, and Profession. You may choose one perk from each of those
+three categories. For example, if you chose "Trioch System", "Caveat Emptor" and 
+"Star Strider" then your character would start with half a set of nanites, two
+Tuunra language dialects and 6 skill in Insight at level 1. 
 
 ===== Culture of Origin =====
 
