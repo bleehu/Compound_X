@@ -467,9 +467,6 @@ Damage:		   70 + 2x Dexterity, 2x Bleed
 Range:     	   Adjacent (1m)
 Accuracy Modifier: +1
 
-    Requires the feats Proficiency: Exotic Melee Weaponry (Chainsaw) to operate. +1 to the Weapon Strength 
-Requirement of the weapon you mount the Chainsaw on.
-
 ==============================
 Slings
 ==============================
