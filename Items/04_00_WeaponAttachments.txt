@@ -456,15 +456,15 @@ Only when deployed: -1 R3 & R2 Miss Chance.
 
 == SPECO Under-Barrel Chainsaw SPC100  	$607.77 ==
     Enemy a little too close for comfort? Allows the user to enter melee combat 
-without needing to switch out their primary weapon for a melee weapon. (This 
-weapon follows normal melee rules as stated in the basic rules).
+without needing to switch out their primary weapon for a melee weapon. The 
+under-barrel chainsaw is considered an Exotic (Light) melee weapon, and as such 
+requires the feat Proficiency: Exotic Melee Weaponry (Chainsaw) to operate. 
+The weight of the chainsaw adds +1 to the Weapon Strength Requirement of the 
+weapon it is mounted on.
 
 Damage:		   70 + 2x Dexterity, 2x Bleed
 Range:     	   Adjacent (1m)
 Accuracy Modifier: +1
-
-    Requires "Weapon Use [Exotic]" to operate. +1 to the Weapon Strength 
-Requirement of the weapon you mount the Chainsaw on.
 
 ==============================
 Slings
