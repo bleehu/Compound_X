@@ -1,0 +1,231 @@
+==============================
+Opaleites
+==============================
+
+    Opaleites are an organic amphibious species that evolved on a planet that 
+was mostly covered by marshes, seas and oceans. Their unique resperatory system
+lets them breathe under water as well as on land. An Opaleite's eyes are a 
+little better at seeing underwater then they are out of it.
+
+    Play as an Opaleite if you ...
+
+*  want to stick close to your team as if they were your schoolmates. 
+*  If your clan and where you came from is very important to you. 
+*  If you want to go anywhere in land, sea or air
+*  If you want to see what there is to see in this beautiful and diverse universe.
+
+    Play as a sub-species of Opaleite if you ...
+*  want to dazzle the world with your beautiful scales
+*  want to be the toughest fish in the bay with your bullet-resistant scales. 
+
+===== Appearance/Anatomy =====
+
+    Opaleites have a nervous system, heart, brain, and digestive tract that are 
+functionally similar to most other known sentient bipeds. The largest distinction
+is their respiratory system. Two sets of gills, one at the neck, and one just 
+above the hip, the second set is often closed, allowing speech and other 
+underwater sounds. Keeping the second set closed does hurt an Opaleite's speed 
+while swimming. They are also used to drain the lungs when making the switch 
+from water to air.
+
+    Opaleites have two legs and two arms. Each leg has a foot with five webbed
+toes. Each arm has four webbed fingers and an aposable thumb. The arms also have
+wrist fins that greatly improve mobility underwater. Opaleites have powerful 
+tails that usually hang down to about their knees which have a horizontal fin at
+the end. 
+
+    They have two sets of eyes, one set of highly-developed, forward-facing eyes, 
+particularly well suited for seeing underwater, and the other is a set placed
+above and behind the first that face in the general upward direction. They are 
+simple, compound eyes that only see contrasting shapes. They are alike in 
+appearence to the opal gemstone, which is where this species gets their 
+Galactic Common name.
+
+    Male and female differences are less obvious than their mammalian counterparts. 
+Male Opaleites have larger fins than their female counterparts. Female fins
+are fairly evenly ridged, while males have a long spine on the end of each
+fin. Size, color, and patterns may also differ, but these are not dependant
+on the sex of an individual. 
+
+Types:
+*  Biological
+*  Scaled Amphibian
+*  Varied Diets: Obligate Carnivores to Strict Herbivores
+*  Cold-Blooded
+
+===== Society =====
+
+    The Opaleites are one of the discordant societies that the Terrans have come
+across so far. Moving from Trioch II to Trioch IV briefly united the clans 
+to save their species, but rapidly descended back into infighting. The clans 
+are heavily separated by subspecies, primarily informed by diet. However, many 
+of the subspecies within food groups do not agree either. 
+
+    They are primarily a clan-based society. There is more emphasis on being a 
+part of the group of individuals ( you were born in than there is on blood 
+relatives, in general. 
+
+===== Languages: Various =====
+
+    All Opaleite languages follow a similar vocal pattern structure, but dialects
+vary greatly enough that some schools struggle to understand each other.
+
+Vocal - Underwater:
+    This portion of the language is meant exclusively for long-range 
+communication underwater. It features series of clicks, whistles, and song-like 
+long tones to covery general ideas, locations, and strategies.
+
+Vocal - Above Water:
+    Very similar to the speech used by many other sentient species, Opaleites have
+a tonal vocalized language that is used to communicate above water and at
+close range underwater. It features long vowels, hard consonants, and tonal hums. 
+This aspect of their communication is much more suited to exploring and 
+explaining complex thoughts, feelings, and plans. 
+It is sing-song both above and beneath the water, but the sounds are often
+harsh-sounding to an ear accustomed to Terran-based Common.
+
+Signing - Above & Below:  
+    Commonly used beneath the water, hand signing and fin signals help convey 
+complex ideas in near-silence underwater. Many schools have their own versions
+of this method of communication, making it easy to talk amongst themselves
+while in mixed company.
+
+Other:
+    Some schools of Opaleites have additional ways of communicating. These are 
+often non-verbal, having to do with that school's specific anatomy. 
+Colorchanging and Bioluminescence are two examples of this.
+
+===== Names =====
+
+Rath'na Nok
+Keema Otate
+Depa Aeas
+
+==== Passives ====
+
+Waterbreathing:
+    As amphibians, Opaleites can breath both above and beneath the water. The 
+complexity necessary to acheive this in a species their size does have a few 
+drawbacks, however. [Can breath underwater. -10 to save rolls involviving smoke or gaseous attacks]
+   
+Compound Eyes:
+   While Opaleites have two sets of eyes, their visual aquity above water is not 
+as good as a species that lives above water full time. On the other hand, it is 
+very hard to sneak up on an Opaleite in any decent light. 
+
+  Opalites get a -10 to all skill checks that use Perception unless they are
+submerged in water. They do however get a +6 to awareness saves.
+
+    Opalites start with 40 STAT points
+
+===== Available Traits =====
+
+Wide Irises:
+    The water on any given planet is not always brightened heavily by the sun. 
+Acclimated to darker waters, many Opalites can see as if in normal light in
+low light conditions.
+
+==============================
+Opaleite Sub-Species
+==============================
+
+
+===== Mendars =====
+
+Size: Medium
+Home System: Trioch IV
+
+Appearance: 
+   Thin and brightly colored, these Opaleites sport a variety of colors
+   and patterns. 
+   
+== Available Traits ==
+
+Colorful:
+   People are attracted by colors, they naturally flock toward brilliant scales.
+   They are the perfect distraction, bringing in the attention of those
+   in the area. 
+   [Gain advantage on a Performance (Cha) check while attempting to distract
+   either a group or single individual. Mechanical species and blind/eyeless
+   individuals are immune to this effect.]
+
+
+===== Condrichs =====
+
+Size: Large
+Home System: Trioch IV
+
+Appearance:
+   Thick, cartilaginous scales cover a sturdy skeletal structure. 
+
+
+== Available Traits ==
+
+Tough Skinned:
+
+    The chitinous interlocking scales of the Condrichs are surprisingly adept at
+naturally dispersing the impact from bullets, toothy predators and melee weapons
+alike. The scales do have their limits though.  They don't perform quite as well 
+as modern body armor machined for the purpose, and some of the more vulnerable
+parts of Condrich anatomy such as the face and gills aren't bulletproof. 
+
+    If a Condrich either goes without armor or wears a rig that doesn't provide
+any protection, then the Condrich uses an armor called "Natural Armor" which has
+5 Coverage, an APL of 1, an Armor Strength of 40, and no movement restriction.
+They have however much mag space any other clothing they wear provides. If the
+Condrich does wear armor, they get an Armor Strength bonus of 20 to whichever
+armor that they wear.
+
+I Smell Blood:
+
+    Condrichs have a very developed sense of smell and are particuarly adept at
+tracking prey on land and sea. Their large and distributed olfactory network
+causes a slight bulge above their nose and eyes. This olfactory network can 
+detect the direction of a smell depending on which branches the odor hits first.
+They aren't quite as sensitive as some tracking service animals, but they have
+the benefit of being able to do it above or below the surface of the water.
+
+    Condrichs with this trait may roll the average on investigate or survival 
+checks to follow a scent trail, and to Perception-based checks that use their 
+sense of smell. If the target has the Bleeding condition, is below half of 
+their base maximum health, or otherwise covered in blood, the Condrich may roll 
+with advantage instead. However, they have a -12 penalty to Saving Throws 
+warding against smoke or gas effects.
+
+    
+===== Sea Devils =====
+
+    
+Size: Medium
+Home System: Trioch IV
+
+Appearance:
+    Similar in size to the Mendars, Sea Devils, or Samek in the Opaleite tongue, 
+are named for their inherenet ability to bioluminesce. 
+
+== Available Traits ==
+
+Light Dance:
+  
+    Sea Devils can harness their ability to bioluminesce to distract and 
+confuse enemies. Used in conjunction with darkness and quick movement, an
+experienced individual can alternate lighting scales from tip to tail to 
+misdirect an enemy.
+
+   Under low-light or darker conditions, if you moved at least your move speed 
+on your last turn, then whenever an enemy would Aim at you, they must pass a 
+DC 60 Perception check to successfully do so. Enemies using nonvisible light 
+equipment, such as IR goggles, are unaffected.
+   
+Deep Glow:
+
+    Even those with low-light vision cannot see in total darkness without
+aid. A Sea Devil may concentrate on their bioluminescent scales, brightening
+them to a level that will allow others to see better in the darkness.
+
+   The Sea Devil has bioluminescent glands spread all over their body. When activated, 
+they glow a steady blue light. The light illuminates a 10m area around 
+the Opaleite. The glow emitted from the Sea Devil makes them an easier target when
+activated- Enemies receive a +1 to hit them.
+    
+

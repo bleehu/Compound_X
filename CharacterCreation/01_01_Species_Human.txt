@@ -1,0 +1,177 @@
+==============================
+Humans
+==============================
+
+	Humans are a tenacious species from the Sol System. They come in a variety
+of shapes, sizes and colors. Humans are an organic species of the class 
+"Mammalia" who must eat, drink and sleep in order to survive. 
+
+===== Apearance/Anatomy =====
+
+	Humans are bipedal mammals with opposable thumbs and no tail. Their fur 
+grows so thin in most places, that they appear bald all over with the periodic 
+exception of the tops of their heads. 
+
+	Humans are of middling height and weight among the species that are 
+encountered in the galaxies of Compound X. They typically run between 1.5m and 
+1.9m and weigh 49 to 128 kilograms. 
+
+	They have an internal calcium skeleton and an extensive network of biologic
+tubes that carry fluids like blood, bile, lymph, air and food through their 
+bodies. The rupture of these tubes and spilling of these fluids is generally to
+be avoided. They have an average lifespan of about 100 Sol years, depending on
+their profession and location.
+
+Types:
+* Biological
+* Mammalian
+* Warm-blooded 
+* Omnivorous 
+
+===== Society =====
+
+	Humans originated on the planet Earth in the Sol system. They have been 
+exploring space to some degree for almost 800 years, settling their own Terran 
+Empire after the catastrophic events that changed the Earth.
+
+	In general, adult humans range from 5’ to 6’5”. They can be larger or 
+smaller, but individuals of those types are generally rare.
+
+	They are an incredibly prolific and opportunistic species, having 
+completely terraformed and colonized over half a dozen planets and their 
+respective moons. With many more Terran planets on the rise, they already dwarf 
+the small Opaleite and Tundari civilizations.
+
+	Humans are very culturally dissimilar to each other. Even more so than 
+most other species, most likely due to their rapid expansion. As such, it is 
+impossible to pick out the cultural traits that influence humans as a whole. 
+Central government is important to the large groups of humans, though smaller 
+factions and settlements on the rim of their empire do not seem to care about 
+the rules and regulations of their governing powers.
+
+===== Language: Various ===== 
+
+	Most humans speak what is known as Terran Common. In addition, humans 
+have countless different languages that they use to communicate with others of 
+their peers. The majority of humans speak multiple languages, whether alien or 
+domestic. Humans are very good at repeating sounds that are initially unnatural 
+to them. The language centers of their brains are highly developed and 
+well-used. 
+
+	Terran Common, Eastern Common, Westlich, and Mandar are the most common 
+human languages.
+
+===== Names ===== 
+
+	Humans can be named in as many ways as there are Terran languages. 
+Usually, these names have some significant meaning to the parents, but that is 
+not always the case. There is no standard of naming that is generally agreed 
+upon.
+
+== Human Name Examples ==
+
+* Matthew Kesler
+* Lupita Ugara
+* Tomoyo Usagi
+
+===== Passives =====
+
+*  Gain 1 additional language and learn new languages at twice the normal rate.
+*  Have 42 starting stat points, rather than the 40 granted to other species.
+
+===== Available Traits =====
+
+Pitching Arm:
+	All humans have the inherent bone and muscle structure necessary for 
+extremely accurate throwing. Not all humans practice this technique, but you 
+are one who has mastered this seemingly simple aspect of your anatomy.
+[Must have at least 5 DEX; Negates the aiming action necessary to throw accurately]
+
+Stubborn: 
+	All Humans have a hardiness to them that cannot always be explained 
+by logic. Some humans are just plain hard to kill, for no other apparent 
+reason than they just refuse to die. 
+[Roll with Advantage on Death Saving Throws]
+
+
+==============================
+Human Sub-Species
+==============================
+
+===== Terrans =====
+
+Size: Medium
+Home System: Keplar
+
+Appearance: 
+	Heavily resembling the historic humans, there is little variation 
+from even 20th century humans in this pool. The Terrans left Sol behind in 
+the 24th Century, forming a new colony in the Keplar system. 
+
+
+== Available Traits ==
+
+Very Normal: 
+	Blending in has always come naturally to you. People tend to trust you. 
+You seem to belong no matter where you find yourself, and have a talent for
+projecting confidence whether you believe it or not.
+[Increase your skill in Deception by 15 and skill in Persuasion by 10.]
+
+Sixth Sense:
+	Colloquially often known as the ‘gut’ instinct, sixth sense is that 
+feeling that many Terrans get when they feel something is off. There are 
+different levels of Sixth Sense, and many function in different ways. Some 
+Terrans get goosebumps, while others experience a hair-raising feeling; it 
+can be very hard to get anything past Humans with this sense tuned. 
+[Once per Long Rest, you may ask the GM if a situation or proposed action
+feels disproportionately deceptive or lethal to the character.]
+
+
+===== Eastern Earthlings =====
+
+Size: Small/Medium
+Home System: Sol
+
+	Inhabiting the areas of Earth east of the equator, these humans 
+have adapted to the humid, swampy heat of their half of the planet. Small 
+and lean, these humans rarely reach over 5’ in height, and are much lighter 
+than their Terran counterparts. As the new earth conditions have stabilized, 
+these humans have begun to rebuild some sense of agriculture, but have
+only recently ceased their nomadic patterns.
+
+== Available Traits ==
+
+Endurance: 
+	Generations of Nomadic behavior have made moving long distances 
+easy for those of Eastern Earthling descent. 
+
+    Once per engagement, your Sprinting actions during one turn do not incur the 
+normal penalties.
+
+===== Western Earthlings =====
+
+Size: Large
+Home System: Sol
+
+	Living as close to the equator as they dare, these humans are 
+confined to the western edge of the geostorm center. Some have spread further 
+west, but most do not like the absence of sunlight. As their climate tends to 
+be cold to freezing, these Earthlings are larger overall than their Terran 
+counterparts.
+
+
+== Available Traits ==
+
+Quick Constriction: 
+	Living in an area ravaged by lighting storms, these humans have 
+developed rapid pupil constriction and dilation. This increases their 
+resistance to not only lightning blasts, but to flash-bangs. 
+[Duration of Blindness condition halved. Gain Advantage on Saving Throws to
+avoid being Blinded ]
+
+Frost-Free:
+	The hardy life lived by your people has encouraged an innate 
+resistance to cold.
+[Take half-damage from cold Thermal damage. Roll with advantage against any
+adverse effects related to cold, including Saving Throws to avoid being
+Frozen.]

@@ -54,11 +54,14 @@ they can't.
 your character could be. Your character must have a species and can only have
 one species. 
 
-== Pick a Subspecies ==
+== Optional: Pick a Species Variant ==
 
-    Most Species have a few options of Subspecies. Your character doesn't have
-to have a subspecies. They can just be a plain old Human or a stock model 
-Security Drone if you want them to.
+    Most Species have a few variants that you can choose from. A character can 
+have up to one of these, which modifies their appearance and culture as described 
+in individual entries and offers additional racial traits to pick from. Variations 
+come in different flavors, for example Humans and Opaleites have subspecies, 
+Tundari have clans, and Security Drones have Series. They are all treated equally 
+in character creation.
 
 == Species Traits ==
 

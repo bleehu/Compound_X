@@ -1,0 +1,268 @@
+==============================
+ECSC Class-A Security Drone
+==============================
+
+    Security Drones are specialized drones that have been granted a greater AI 
+capacity to learn and think independently. They are native to ECSC Compound X 
+experimentation laboratory.
+
+===== Appearance/Anatomy ===== 
+
+    Built specifically for security and military counterparts, as their name suggests,
+Class-A Security Drones have a steel reinforced frame, with a built-in modular 
+armor rig. The coloration of plating can range anywhere in the natural colors and 
+camouflages, to the standard ECSC Matte Grey. 
+
+    They are considered a Large species, as the standard models are over 6’ tall and
+weight between 400 and 700 lbs. 
+
+    When fully-armored, these drones are very difficult to gain physical access 
+to. Negating or destroying armor plates only makes the interior workings easier 
+to get to. Underneath their armor, drones have another weak carapace that is 
+defensively analogous to human skin. 
+
+    There are two main panels/access points on these drones. The first is the on 
+the head, containing the polycrystaline AI matrix, ocular sensor housing and 
+wireless network interface stack. The second is on the chest. It contains the 
+locomotive manifold, micro-fission reactor and coolant system. 
+
+Types: 
+*  Mechanical
+*  Independant AI
+*  Nuclear Fission Core
+*  Magnetic Induction
+
+===== Society =====
+
+    Built by the ECSC Compound X experimentation laboratory, Detachment A 
+Security Drones have an AI greater than their B and C counterparts. Their 
+programming has enough flaws to be susceptible to hacking, but is advanced 
+enough to spark debate about sentience and rights.
+
+===== Language: Various ===== 
+
+    As Natives to the ECSC, Security Drones speak Terran Common by default. 
+Drones specifically manufactured to work with certain people groups will also 
+speak the regional language. For instance, a Drone to be sent to Hera, where the 
+primary spoken language is Mandar, would therefore be outfitted with a Mandar 
+language database.
+
+Passives: 
+
+*  Immune to Poison.
+*  Immune to Intoxication.
+*  Weakness to Electrical: Electrical damage deals an additional 50% damage.
+
+===== Names =====
+
+    While all Security Drones have serial number designations that denote when
+they where they were constructed and what the heritage of their AI core is, they
+very rarely use their numbers as names. Instead, most Security Drones have 
+names that are used in conversation. Since most Drones speak Terran common, most
+Drone names are typically Terran single first names; since for drones the unique 
+identifier of their serial number works for the full name. 
+
+== Security Drone Name Examples ==
+
+Male Personality AI:
+
+*  Cadmus (common name for the first in a batch)
+*  Danaus
+*  Fubini
+*  Vivikananda
+*  Anhur
+
+Female Personality AI:
+*  Ino (common name for the first in a batch)
+*  Ocelea
+*  Ilka
+*  Sarasvati
+*  Muat
+
+No Gender Personality AI:
+
+*  Semaphore
+*  Affine
+*  Symplex
+*  Belur
+*  Duat
+
+===== Passives =====
+
+    Security Drones have 40 Stat points.
+
+===== Available Traits ===== 
+
+Built-in armor:
+    As an purpose-built machine of war, you were specifically designed to fit
+the armor that you wear. As such, it doesn't bounce around or bump your arms
+and legs as you move.
+    
+    The movment penalty from your armor is reduced by 2, to a minimum of zero.
+
+Inhuman Strength:
+    Built specifically for lifting and holding great weights, you are far 
+stronger than your biological counterparts. Your systems store excess energy, 
+which you can harness to temporarily empower your motor systems.
+[You have a built-in battery that stores 10 Energy and fully recharges after 
+a Long Rest. Any time you make a Strength-based skill check, you may pay 10 
+Energy before you roll to give yourself a +10 bonus.]
+
+Infrared Optical Sensor:
+    Many Security Drones have built in IR filters for their optical sensors. 
+This lets the Drone switch between regular vision and 20m IR vision as a free
+action once per turn. This IR vision can see very well in no-light scenarios and
+also is useful for seeing through smoke from smoke grenades.
+[20m IR vision]
+
+Refractory Dermal Layer:
+    Some Drones are built with a special polycrystalline dermal armor under 
+layer that refracts and disperses high intensities of light energy through the
+thin, bendable material. This dermal layer appears semi-translucent and kind of
+shiny, similar to looking at a thin layer of quartz. 
+[As long as this character has more than half their health, they take 15 less
+damage from laser weapons. This character gets a -10 to stealth rolls in the 
+dark, as the dermal layer tends to refract light out of it as much as into it.]
+
+==============================
+Security Drone Series
+==============================
+
+    Class A Security Drones are clearly all the same species, but each are built
+with subtle variations. These variations are called "Series." Building a 
+different Series of Drone still requires all of the same AI matrices and 
+locomotive manifolds, but does require different superstructure molds and can
+involve alternative cybertronic components. Different Drone Series is to Drones
+what Human Races are to Humans. Most Series are still in production; one version
+isn't "newer" than another. Most Drones understand the differences between one
+Series and another, but some are convinced that one Series is superior than
+another, though this attitude is rare.
+
+===== Series 0x0a "Cinder" =====
+
+    Early on in the expansion of the Terran Empire, both Humans and Security
+Drones needed to get better at operating on worlds that had little to no 
+atmosphere that were close to their given star. Thus the Drones created the 
+"Cinder" Series, which are well adapted to these oppressively hot environments.
+Series Ten Drones tend to be black, brown, tan or red in color and have 
+tell-tale finned heat sinks on the backs of their upper ankles and necks. Some
+are strong and well-adapted to the tough mining that is often very lucrative on
+such planets, and some are less physically inclined but have a keen mind helpful
+for terraforming such planets. 
+
+Size: Medium
+Favored Terrain: Volcanic
+
+== Available Traits ==
+
+Reusable D-Filter:
+    Due to the frequent volcanic flashes on some hot planets, many Cinders are
+built with an enhanced reusable D-Filter in their optic sensors. This allows
+them to be immune to most distracting visual effects such as flash-bangs or 
+Opalite scale undulations. Unfortunately, this augmentation does take the slot
+that Drone IR filters would otherwise inhabit, requiring the use of external 
+goggles for such night vision.
+
+    Characters with D-Filters are immune to the blindness of flashbangs. 
+Opalites that use Scale abilities don't get the bonus for those abilities toward
+their charisma checks against them.
+
+Flame Retardant:
+    Being able to quickly radiate and dump heat quickly makes many of the Cinder
+Series Drones partially resistant to heat damage. They take half damage from 
+high-temperature Thermal damage sources, plasma burn only lasts 1 turn per stack 
+instead of 2, and they are immune to status effects applied by high-temperature 
+environmental conditions. 
+
+    However, these systems are not well-calibrated for extreme cold. Long exposure
+can lead to material embrittlement and coolant viscosity fluctuation. A Flame
+Retardant Drone takes 25% more damage from low-temperature Thermal damage sources
+and numerical effects from negative status effects applied by low-temperature 
+environmental conditions are increased by 50%. 
+
+===== Series 0x0b "Cryo" =====
+
+    The success of the Series Ten Cinder Drones led to a similar expansion of a
+series designed to function well on worlds farther from a heat source than would
+be normally habitable by most organics and standard series Drones. These Drones
+range from the stalwart soldiers and workers who defend and move the heavy 
+machinery needed to convert ice into usable water to the light and slim covert
+operators that infiltrate distant bases on snowy planets. Most Series Eleven
+Drones have patterns of white, blue, black and purple exo plates. They also have
+a distinct kind of synthetic fur that slowly grows along their joints to help
+slow their rate of cooling.
+
+Size: Medium
+Favored Terrain: Subzero Mountains and Tundra
+
+== Available Traits ==
+
+UV Optical Module:
+    The Cryo Series quickly found that the typical IR optical upgrades were less
+helpful on their favored icey worlds than they were for their other brethren; on
+an ice world, almost everything just looks cold. Instead, the Drones developed
+and replaced the IR modules with an Ultra-violet alternative. While less helpful
+for seeing through smoke or seeing in the dark, the forensic capabilities of the
+new modules were quite advantageous. Being able to see sources of UV light such
+as suns and stars is also very helpful for navigation. 
+    
+    This Trait cannot be taken with the IR Optical Sensor. A Drone with the UV 
+Optical Module can switch between regular spectrum and UV sight once per turn as 
+a Free Action. While in UV mode, they get a +20 to Investigate skill checks and 
+a +10 to Navigation and Piloting(Space) skill checks. They can see the sun even 
+through heavy clouds, but not monsoons or bad storms. Enemy Lasers, plasma 
+weapons, and shields appear to glow while looking through UV vision and can be 
+seen through smoke or in no-light conditions. But enemies without lasers, 
+shields, or plasma weapons will be hidden by darkness or smoke. 
+
+Cold Never Bothered Me:
+    Being able to retain heat and stay insulated makes Cryo Series Drones able
+to withstand insane cold almost indefinitely. Unfortunately, this means that
+the Cryo Series has a hard time radiating heat away, and also the insulating
+artificial fur doesn't do well when submerged in water. 
+
+    Drones unfettered by cold are immune to damage from cold and similar 
+environmental conditions. The insulations also help to dampen sound and obscure
+the Drone's silhouette, giving a +10 to stealth skill checks. Being adept at
+operating in cold environments has led to Cryo Drones being better at operating
+in space and in zero gravity. Cryo Drones get a +20 to Reflex saves to move in
+zero gravity and +20 to Acrobatics checks to maneuver in zero gravity as well. 
+They have a -20 to Athletics skill checks involving swimming. Cryo Drones with 
+this trait only reduce plasma burn tokens every 3 turns instead of every other 
+turn. 
+
+===== Series 0x0c "Constructor" =====
+
+* +1 STR
+* +1 FOR
+* -2 DEX
+
+    During the mid 2400s, the ECSC had many varieties of purpose-built construction 
+drones in service. The Series Twelve Constructor Drone was the response by the ECSC 
+to replace them with an all-purpose unit that could be easily utilized on most 
+inhabited worlds. The Constructor Drone is now a common sight throughout ECSC space 
+where there is work to be done. Series Twelve Drones are usually black, gray, or 
+white, though it is common for military units to be repainted to fit with the 
+uniforms of everyone else. Constructor Drones also come with an optional high 
+visiblity yellow pattern package. The Series Twelve has a bulkier frame than other
+drones, to deal with the constant heavyweight lifting that is required of them. 
+    
+Size: Large
+Favored Terrain: Urban
+
+== Available Traits ==
+
+Bulky Frame:
+    The Constructor Series is built more ruggedly than other drone types. While this
+gives greater lifting power, it also hinders the drone's movement. Due to its more 
+solid build, the constructor drone is more difficult to push around. 
+
+    Drones with bulky frames get a -10 to stealth, but gain advantage with skill 
+checks and Shock saves related to planting itself against something, such as an 
+airlock breaching or being tackled by a large creature.
+    
+Engineering-Minded:
+    The Series Twelve Drone is programmed to be better at building things than other 
+drones. Because of this, Constructor Drones are very resourceful when it comes to 
+solving problems, and are able to build makeshift items and tools effortlessly. You 
+may roll the average on Jury-Rigging rolls.
