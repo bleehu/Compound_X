@@ -194,14 +194,6 @@ they immediately, 'Hit the Dirt'. When you Hit the Dirt, you dive to the ground,
 going prone, within a 2m range of where you stood (DEX movement rules apply 
 as normal). Hitting the dirt consumes the 1st action of their next turn.
 
-===== Getting Hit =====
-
-	When a player is defending against a successful enemy hit, they roll 
-Percentiles under their armor in order to see if their armor blocked the bullet, 
-and from there, how much damage they receive. If the defending player has no 
-armor, they armor roll for a target 50 Percentile. If the armor roll is 50% or 
-above, they receive half-damage. Below 50%, full damage.
-
 ==============================
 Death, Dying, and Downed
 ==============================
