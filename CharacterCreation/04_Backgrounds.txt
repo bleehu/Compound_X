@@ -22,7 +22,8 @@ rolls in-game.
 Origin, Social Class, and Profession. You may choose one perk from each of those
 three categories. For example, if you chose "Trioch System", "Caveat Emptor" and 
 "Star Strider" then your character would start with half a set of nanites, two
-Tuunra language dialects and 6 skill in Insight at level 1. 
+Tuunra language dialects, 6 skill in Insight at level 1 and a +10 bonus to skill 
+checks to move in microgragity. 
 
 ===== Culture of Origin =====
 
@@ -97,7 +98,7 @@ Tuunra language dialects and 6 skill in Insight at level 1.
 | You've long gotten over the disorientation people get when flying about the quadrant in a                      |
 | spaceship. Heck, you wouldn't have made it this far if you couldn't keep your lunch down!                      |
 +--------------------+-----------------+-------------------------------------------------------------------------+
-| Star-Strider       | Ex-pat          | Add 10 to checks to maneuver in Zero-G                                  |
+| Star-Strider       | Ex-pat          | Add 10 to skill checks to move while in microgravity                    |
 +--------------------+-----------------+-------------------------------------------------------------------------+
 | Some people lose their bearings the moment gravity takes a hike. Not you. You thrive in the                    |
 | weightlessness of space and the rush you get from proximity to vaccuum is like nothing else                    |
