@@ -22,7 +22,17 @@ rolls in-game.
 Origin, Social Class, and Profession. You may choose one perk from each of those
 three categories. For example, if you chose "Trioch System", "Caveat Emptor" and 
 "Star Strider" then your character would start with half a set of nanites, two
-Tuunra language dialects and 6 skill in Insight at level 1. 
+Tuunra language dialects and 6 skill in Insight at level 1.
+
+	While everyone enters the world in their birthday suit, characters are
+generally well-clothed by the time in their lives they enter a Compound X story.
+At Level 1, every character will gain up to three outfits of clothing from their
+background. In general, these should consist of some combination of casual,
+professional, and formal or semi-formal clothing that is appropriate to their
+outlook and life experience. These outfits do not provide any armor, but may offer
+bonuses to some social skill checks at the discretion of the GM. A character may own
+outfits from the following list of examples or any other reasonable se of clothing.
+Outfits can include both footwear and outerwear.
 
 ===== Culture of Origin =====
 
@@ -185,3 +195,53 @@ Tuunra language dialects and 6 skill in Insight at level 1.
 +----------------------+-----------+-------------------------------------------------------------------------------+
 | You've brought in enough criminals to have an idea how the seedier side of the tracks opperates.                 |
 +----------------------+-----------+-------------------------------------------------------------------------------+
+
+==== Clothing and Supplies ====
+
+	While everyone enters the world in their birthday suit, characters are
+generally well-clothed by the time in their lives they enter a Compound X story.
+At Level 1, every character will gain up to three outfits of clothing from their
+background. In general, these should consist of some combination of casual,
+professional, and formal or semi-formal clothing that is appropriate to their
+outlook and life experience. These outfits do not provide any armor, but may offer
+bonuses to some social skill checks at the discretion of the GM. A character may own
+outfits from the following list of examples or any other reasonable set of clothing.
+Outfits can include both footwear and outerwear.
+
+Casual Clothing:
+-A t-shirt and jeans
+-A shirt, pants and a leather jacket
+-A trenchcoat, shirt and capris
+-Athletic-wear (such as sport-specific clothes)
+-A sundress
+-A hoddie and sweats or jeans
+-Cold-weather clothing
+-Waterproof jacket, pants and boots
+-Loose, breatheable top and pants with a wide-brimmed hat
+-Shorts and a tank top
+
+Professional Clothing
+-Khakis and a polo shirt or button-down and sweater
+-A suit and tie or scarf
+-Denim or canvas overalls with steel-toed boots
+-Military fatigues and combat boots
+-A Performance costume
+-A spaceflight jumpsuit
+-A pencil skirt or slacks and a blouse or button-down
+-Medical scrubs
+-A dark-colored catsuit
+-A company uniform
+
+Formal and Semi-formal Wear
+-A tuxedo
+-A floor-length gown
+-a 3-piece suit
+-A cocktail dress
+-Military dress uniform
+-Formal suit or robes (culture-specific)
+-A structured formal jumpsuit
+
+Tools of the Trade
+-A bag or backpack large enough to carry a character's toolset, clothing,
+and broken-down primary firearm
+-A single set of professional tools, as described with the relevant Profession Perk
