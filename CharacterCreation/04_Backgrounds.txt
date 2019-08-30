@@ -48,7 +48,8 @@ Tuunra language dialects and 6 skill in Insight at level 1.
 | Colony World- Terran   | Gain Languages- Terran Common (+ 1 dialect), 1 Common or Trade Language of   |
 |                        | choice. Gain 0.5 set of Nanites.                                             |
 +------------------------+------------------------------------------------------------------------------+
-|                    |
+| You come from one of the colonies of the Terran Empire, perhaps you hail from out on the Rim, or the  |
+| irradiated Reach, or the newer planets in the Terran Core?                                            |
 +------------------------+------------------------------------------------------------------------------+
 | Colony World- Tundaari | Gain Languages- Tuunra (+ 1 dialect), 1 Common or Trade Language of choice.  |
 |                        | Gain 0.5 set of Nanites.                                                     | 
