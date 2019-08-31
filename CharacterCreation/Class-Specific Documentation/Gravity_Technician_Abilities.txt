@@ -7,7 +7,7 @@ A Note on Terminology:
 not meant to imply largeness or heaviness. It means only that the 
 referenced object has mass, and is thus affected by gravity.
 
-== Gravity Technique Ranges ==
+== Gravity Technique General Notes ==
 
 	Gravity Projectors have a maximum range at which they can exert 
 noticeable force. When using a Technique with Weapon range, the Technician 
@@ -19,10 +19,6 @@ not the maximum range possible.
 	Some techniques have Personal range, which means that they only 
 apply effects within the user's square except as otherwise stated.
 
-	For Techniques that allow targets to make a Save to mitigate 
-effects, the base DC is given by the Gravity Projector and may be modified 
-by microassembly cores or peripherals.
-
 	Techniques that require Channeling take 2 Actions to activate and 
 cost 2 Actions each subsequent turn that the ability is maintained. The 
 user may move and take other Actions while channeling, but cannot use 
@@ -31,6 +27,16 @@ GravTech who takes more than 80 damage in an Action must make a Will save
 with DC equal to half the damage taken to maintain the technique; on failure 
 the channel stops. The user may stop the channel any time on their turn 
 as a Free Action.
+
+	For Techniques that allow targets to make a Save to mitigate 
+effects, the base DC is given by the Gravity Projector and may be modified 
+by microassembly cores or peripherals.
+
+	Gravitic effects and attacks are not blocked by cover unless the 
+cover specifically states otherwise. Targets of Beam-shaped gravity techniques 
+benefit from being harder to aim at: Partial cover grants +10 to saves while 
+total obscurement grants advantage on saves. This does not apply to techniques 
+using Conical or Radial fields.
 
 ===== Gravity Techniques =====
 
