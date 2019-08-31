@@ -59,7 +59,7 @@ Within full range: ± 1/2 Move Speed
 
 Prerequisites: Impeller Field
 
-Graviton Coat: 40
+Graviton Cost: 40
 Duration: Channel - 15 Gravitons / Round
 Range: Standard
 Save: Shock
@@ -90,7 +90,7 @@ Within full range: 1m/Round
 
 Prerequisites: Pull
 
-Graviton Coat: 30
+Graviton Cost: 30
 Duration: 2 Actions
 Range: Standard
 Save: Reflex
@@ -161,7 +161,7 @@ halves the damage.
 
 Prerequisites: Accelerator Field, Level 6
 
-Graviton Coat: 
+Graviton Cost: 
 Duration: Channel - 
 Range: Standard
 Save: Shock
@@ -218,7 +218,7 @@ save at half DC halves the damage.
 
 Prerequisites: Catch Field, Level 6
 
-Graviton Coat: 
+Graviton Cost: 
 Duration: Channel - 
 Range: Personal
 Save: Reflex
@@ -237,7 +237,7 @@ to 1 meter.
 
 Prerequisites: Gravity Sling, Level 6
 
-Graviton Coat: 
+Graviton Cost: 
 Duration: 2 Actions
 Range: Standard
 Save: Reflex
@@ -257,7 +257,7 @@ trajectory is deflected by at leat 90 degrees.
 
 Prerequisites: Gravity Spike, Level 11
 
-Graviton Coat: 
+Graviton Cost: 
 Duration: 2 Actions
 Range: Standard
 Save: See below
@@ -269,7 +269,7 @@ Field Shapes: Beam
 
 Prerequisites: Tidal Shear, Level 11
 
-Graviton Coat: 
+Graviton Cost: 
 Duration: 2 Actions
 Range: Standard
 Save: See below
@@ -319,7 +319,7 @@ checks in place of Athletics checks where appropriate.
 
 Prerequisites: Rappel
 
-Graviton Coat: 
+Graviton Cost: 
 Duration: Channel - 
 Range: Standard
 Save: N/A
@@ -331,7 +331,7 @@ Field Shapes: Beam
 
 Prerequisites: Pull Pulse II, Level 16
 
-Graviton Coat: 
+Graviton Cost: 
 Duration: 2 Actions
 Range: Standard
 Save: Shock
@@ -354,7 +354,7 @@ least 180 degrees to attempt Stasis.
 
 Prerequisites: Gravity Bolt, Level 16
 
-Graviton Coat: 
+Graviton Cost: 
 Duration: 2 Actions
 Range: Standard
 Save: See below
@@ -366,7 +366,7 @@ Field Shapes: Beam
 
 Prerequisites: Tidal Tear, Level 16
 
-Graviton Coat: 
+Graviton Cost: 
 Duration: 2 Actions
 Range: Standard
 Save: See below
@@ -378,7 +378,7 @@ Field Shapes: Beam, Ring, Sector
 
 Prerequisites: Resonance, Level 16
 
-Graviton Coat: 
+Graviton Cost: 
 Duration: Channel - 
 Range: Standard
 Save: Shock
@@ -390,7 +390,7 @@ Field Shapes: Sphere, Hemisphere, Ring
 
 Prerequisites: Gravitic Jump, Level 16
 
-Graviton Coat: 
+Graviton Cost: 
 Duration: Channel - 
 Range: Standard
 Save: N/A
