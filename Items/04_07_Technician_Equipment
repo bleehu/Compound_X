@@ -10,6 +10,8 @@ Beam Field Range: 25m
 Conical Field Range: 10m
 Radial Field Range: 30m
 Resistance DC: 40
+Reflex Modifier: -10
+Movement Speed Penalty: -1m
 Price: 1750
 
 = Series I Reconditioned Gravity Projector ==
@@ -18,6 +20,8 @@ Beam Field Range: 20m
 Conical Field Range: 15m
 Radial Field Range: 35m
 Resistance DC: 40
+Reflex Modifier: -10
+Movement Speed Penalty: -1m
 Price: 1750
 
 ==============================
