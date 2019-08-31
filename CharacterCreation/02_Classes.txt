@@ -851,9 +851,8 @@ Range: 1m
 Gravity Dagger:
 	You have miniaturized gravity blade technology into a module that can be held 
 in one hand. This is a separate device from the gravity projector and cannot be wielded 
-simultaneously with one. Gravity daggers can be dual-wielded. Increase the damage of 
-your gravity bayonet by 20. Attacks with gravity melee weapons use the INT combat modifier 
-instead of STR.
+simultaneously with one. Increase the damage of your gravity bayonet by 20. Attacks with 
+gravity melee weapons use the INT combat modifier instead of STR.
 
 Damage: 30 + 2*INT + 2*DEX Internal
 Size: Exotic - Light
