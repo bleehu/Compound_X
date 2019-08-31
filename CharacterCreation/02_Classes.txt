@@ -761,22 +761,28 @@ Passives:
 
 Class-Specific Resource:
 	Gravity Technicians spend units of Gravitons to execute their Techniques. 
-Their Microassembly Core is capable of storing 100 units of these captive gravitons, 
-and refills up to 100 units each Long Rest. These capabilities may be increased by 
-acquiring and installing Microassembly Peripherals. Gravity Technicians must track 
-their supply of Gravitons as they would their Health.
+Their Microassembly Core stores and generates units of these captive gravitons.
+Gravity Technicians must track their supply of Gravitons as they would their Health 
+and Energy.
 
 Class Equipment and Abilities:
-	At level 1 your character starts with a Handheld Gravity Generator and a 
-Microassembly Core. The Core looks like a large, blockish backpack and contains a 
-swarm of constructor nanites capable of producing the advanced and highly proprietary 
-materials the Technician needs. This swarm cannot survive outside the Core and 
-individual nanites will slag themselves if removed. The Gravity Generator attached to 
-the Core for power and is approximately the size of a large assault rifle, requiring 
+	At level 1 your character starts with an M1-01 Kepler Lake Microassembly 
+Core and your choice of the Mark I Reengineered Gravity Projector or the Series I 
+Reconditioned Gravity Projector. Microassembly cores look like a large, blockish 
+backpacks and contain a swarm of constructor nanites capable of producing the advanced 
+and highly proprietary materials the Technician needs. This swarm cannot survive outside 
+its core and relies on the core's central processor to think; individual nanites will 
+slag themselves if removed from the core's environment. Gravity projectors attach to the 
+Core for power and are approximately the size of a large assault rifle, requiring 
 two hands to wield.
+
+	Microassembly cores have a number of Hard Points that are used for attaching 
+microassembly peripherals, which are modules that enhance a core in a variety of ways. 
+Microassembly peripherals can be attached to armor Hard Points, but armor Hard Point 
+equipment cannot be attached to microassembly core hard points.
 	
-	At level 1 and each time you gain a level, choose a Gravity Technique from 
-the Gravity Technician Ability Tree to gain.
+	At level 1 and each time you gain a level, choose a Technique from the Gravity 
+Technician Ability Tree to gain.
 
 	At level 1, gain the Sphere Field Shape and one other Basic Field Shape of your 
 choice from the Gravity Technician Ability Tree. At levels 4, 7, 10, and 13, choose 
@@ -796,41 +802,59 @@ Skill Proficiencies:
 * Knowledge (Military, Politics, Corporate, or Underworld - Must be the same choice as above)
 
 == Class Feats ==
-	----------------------
-	Remote Construction
+
+Remote Construction:
 	You have learned how to create self-assembling, temporary gravity generators. 
-	Approximately the size of a 20mm grenade, these devices may be deployed at any
-	range you can communicate over. They are controlled wirelessly from your handheld 
-	generator, but have half its range. Whenever you use a Technique, you may choose to 
-	use any combination of your handheld projector and any active remote projectors. 
-	When projecting a technique through multiple generators, each generator must be 
-	using the same field shape, and if applicable, must be directed toward the same 
-	point. Generators must be separated by at least 5 meters to avoid intereference 
-	- any closer and they won't activate.
-	Remote generators last up to 1 minute or 10 rounds of use. Taking any damage, 
-	being moved after activation, or running out of power causes a remote generator 
-	to slag itself.
-	Your Microassembly Core can build one remote generator per Short Rest and three 
-	per Long Rest, and stores up to three at a time.
-	|
-	|
-	V
+Approximately the size of a 20mm grenade, these devices may be deployed at any range 
+you can communicate over, and are equipped for wired and wireless control your 
+projector. They have half of your projector's range. Whenever you use a Technique, you 
+may choose to use any combination of your handheld projector and any active remote 
+projectors. When projecting a technique through multiple generators, each generator 
+must be using the same field shape, and if applicable, must be directed toward the 
+same point. Generators must be separated by at least 5 meters to avoid intereference - 
+any closer and they won't activate.
+	Remote generators last up to 1 minute or 10 rounds of use. Taking any 
+nonenvironmental damage, being moved after activation, or running out of power causes 
+a remote generator to slag itself. Your Microassembly Core can build one remote generator 
+per Short Rest and three per Long Rest, and stores up to three at a time.
+	
+Remote Construction II:
 	Your remote gravity generators now have equal range to your handheld generator.
-	----------------------
-	Gravity Vanguard
+
+Gravity Vanguard:
 	You have learned how to integrate an auxiliary Gravity Generator into your Light 
-	or Medium armor. Gain Proficiency with Medium armor. Once per Round and a 
-	Reaction, you may use your armor's generator to activate a Technique. This 
-	technique must use the Sphere, Hemisphere (centered forward), or Ring 
-	(perpendicular to your body's orientation) Field Shape. Techniques with durations 
-	require your concentration to be maintained; each time you perform strenuous 
-	activity or take damage you must pass a DC 70 Will Save to continue concentrating.
-	|
-	|
-	V
+or Medium armor. Gain Proficiency with Medium armor. Once per Round as a Reaction, you 
+may use your armor's generator to activate a Technique. This technique must use the 
+Sphere, Hemisphere (centered forward), or Ring (perpendicular to your body's orientation) 
+Field Shape. Will saves to maintain a channeled technique generated by your armor are 
+rolled separately from those for your projector.
+	
+Gravity Vanguard II:
 	Your experience using armor-integrated gravity has given you finer control over 
-	its effects. You may apply a nanite treatment to other characters' armor that 
-	will negate the harmful effects (to the wearer) of one of your Techniques. The 
-	treatment costs 10 Gravitons and expires upon use or after a Short or Long Rest. 
-	Applying multiple layers of this treatment to the same equipment has no effect.
-======================================
+its effects. You may apply a nanite treatment to other characters' armor that will negate 
+the harmful effects (to the wearer) of one of your Techniques. The treatment costs 
+10 Gravitons and expires upon use or after a Short or Long Rest. Applying multiple 
+layers of this treatment to the same equipment has no effect.
+
+Gravity Bayonet:
+	You have discovered how to use interference patterns with free gravitons to 
+generate a spike of intense gravity extending out from your projector. The Bayonet is 
+an exotic melee weapon that you are considered proficient with, takes one Action to 
+activate, and costs 8 Gravitons per turn to maintain. You do not have to make Will saves 
+to maintain the Bayonet after taking damage, and may dismiss it on your turn as a free 
+action. Attacks with gravity melee weapons use the INT combat modifier instead of STR.
+
+Damage: 30 + 2*INT + DEX Internal
+Size: Exotic - Two-handed
+Range: 1m
+
+Gravity Dagger:
+	You have miniaturized gravity blade technology into a module that can be held 
+in one hand. This is a separate device from the gravity projector and cannot be wielded 
+simultaneously with one. Increase the damage of your gravity bayonet by 20. Attacks with 
+gravity melee weapons use the INT combat modifier instead of STR.
+
+Damage: 30 + 2*INT + 2*DEX Internal
+Size: Exotic - Light
+Range: 1m
+Accuracy Modifier: +2
