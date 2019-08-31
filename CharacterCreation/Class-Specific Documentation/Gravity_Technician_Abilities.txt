@@ -407,6 +407,7 @@ to be that shape for this purpose.
 == Sphere ==
 
 Prerequisite: None
+Type: Radial
 
 	The sphere shape affects all massive objects within range in every 
 direction.
@@ -414,6 +415,7 @@ direction.
 == Hemisphere ==
 
 Prerequisite: Sphere
+Type: Radial
 
 	The hemisphere shape affects all massive objects within range that are 
 within 90 degrees of the declared direction.
@@ -421,6 +423,7 @@ within 90 degrees of the declared direction.
 == Beam ==
 
 Prerequisite: Sphere
+Type: Beam
 
 	The beam shape affects all massive objects in a line up to the 
 Technique's range in length. If the line passes through opposite sides 
@@ -429,6 +432,7 @@ of a square, it affects objects in that square.
 == Cone ==
 
 Prerequisite: Hemisphere
+Type: Conical
 
 	The cone shape affects all massive objects within range that are within 
 a 45 degree cone.
@@ -436,6 +440,7 @@ a 45 degree cone.
 == Ring ==
 
 Prerequisites: Sphere
+Type: Radial
 
 	The ring shape affects all massive objects within range that occupy the 
 same plane.
@@ -443,6 +448,7 @@ same plane.
 == Sector ==
 
 Prerequisite: Ring
+Type: Conical
 
 	The sector shape affects all massive objects within range that occupy the 
 same plane and are within a 45 degree sector. A sector is a two-dimensional cone.
@@ -450,6 +456,7 @@ same plane and are within a 45 degree sector. A sector is a two-dimensional cone
 == (Adv) Double Beam ==
 
 Prerequisite: Beam
+Type: Beam
 
 	This advanced shape projects two Beams simultaneously. The beams must 
 be within 45 degrees of each other or exactly 180 degrees apart. Using this 
@@ -458,6 +465,7 @@ shape reduces the maximum range of a Technique by half.
 == (Adv) Multibeam ==
 
 Prerequisite: Double Beam, Level 16
+Type: Beam
 
 	This advanced shape projects arbitrarily many Beams, but any Technique 
 using this shape requires an additional Action of preparation to use. Using two 
@@ -467,6 +475,7 @@ range by a further 5 meters.
 == (Adv) Double Ring ==
 
 Prerequisite: Ring
+Type: Radial
 
 	This advanced shape projects two perpendicular rings. Anything caught in a 
 suqare where the two Rings intersect takes 50% more damage from a damaging technique, 
@@ -475,6 +484,7 @@ and any Save DC from the used Technique is increased by 50%.
 == (Adv) Triple Ring ==
 
 Prerequisite: Double Ring, Level 16
+Type: Radial
 
 	This advanced shape projects three perpendicular rings. Anything caught in a 
 suqare where two Rings intersect takes 50% more damage from a damaging technique, 
@@ -483,6 +493,7 @@ and any Save DC from the used Technique is increased by 50%.
 == (Adv) Cross Sector ==
 
 Prerequisite: Sector
+Type: Conical
 
 	This advanced shape projects two perpendicular sectors that intersect each 
 other's centers. Anything caught in a suqare where the two Sectors intersect takes 
