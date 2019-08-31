@@ -842,7 +842,7 @@ generate a spike of intense gravity extending out from your projector. The Bayon
 an exotic melee weapon that you are considered proficient with, takes one Action to 
 activate, and costs 8 Gravitons per turn to maintain. You do not have to make Will saves 
 to maintain the Bayonet after taking damage, and may dismiss it on your turn as a free 
-action.
+action. Attacks with gravity melee weapons use the INT combat modifier instead of STR.
 
 Damage: 30 + 2*INT + DEX Internal
 Size: Exotic - Two-handed
@@ -852,7 +852,8 @@ Gravity Dagger:
 	You have miniaturized gravity blade technology into a module that can be held 
 in one hand. This is a separate device from the gravity projector and cannot be wielded 
 simultaneously with one. Gravity daggers can be dual-wielded. Increase the damage of 
-your gravity bayonet by 20.
+your gravity bayonet by 20. Attacks with gravity melee weapons use the INT combat modifier 
+instead of STR.
 
 Damage: 30 + 2*INT + 2*DEX Internal
 Size: Exotic - Light
