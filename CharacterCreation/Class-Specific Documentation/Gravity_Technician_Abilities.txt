@@ -3,64 +3,34 @@ Gravity Technician Abilities
 ==============================
 
 A Note on Terminology:
-	In this document, the word "massive" is not meant to imply 
-largeness or heaviness. It means only that the referenced object 
-has mass, and is thus affected by gravity.
+	Where used in this class's documentation, the word "massive" is 
+not meant to imply largeness or heaviness. It means only that the 
+referenced object has mass, and is thus affected by gravity.
 
 == Gravity Technique Ranges ==
 
-	Standard range is given on the table below. When using a 
-Technique with Standard range, the Technician may set the maximum range 
-of effect any distance equal or lesser than the given value. Any effects 
-that take place at fractional range are determined based on the range used, 
-not the maximum range available.
+	Gravity Projectors have a maximum range at which they can exert 
+noticeable force. When using a Technique with Weapon range, the Technician 
+may set the maximum range of effect any distance equal or lesser than the 
+given value. Any effects that take place at fractional range, such as the 
+effects of Impeller Field, are determined based on the maximum range used, 
+not the maximum range possible.
 
 	Some techniques have Personal range, which means that they only 
 apply effects within the user's square except as otherwise stated.
 
-+-------+---------------+---------+
-| Level | Maximum Range | Save DC |
-+-------+---------------+---------+
-| 1     | 20m           | 42      |
-+-------+---------------+---------+
-| 2     | 25m           | 44      |
-+-------+---------------+---------+
-| 3     | 30m           | 46      |
-+-------+---------------+---------+
-| 4     | 33m           | 48      |
-+-------+---------------+---------+
-| 5     | 36m           | 50      |
-+-------+---------------+---------+
-| 6     | 39m           | 52      |
-+-------+---------------+---------+
-| 7     | 42m           | 54      |
-+-------+---------------+---------+
-| 8     | 45m           | 56      |
-+-------+---------------+---------+
-| 9     | 48m           | 58      |
-+-------+---------------+---------+
-| 10    | 51m           | 60      |
-+-------+---------------+---------+
-| 11    | 54m           | 62      |
-+-------+---------------+---------+
-| 12    | 57m           | 64      |
-+-------+---------------+---------+
-| 13    | 60m           | 66      |
-+-------+---------------+---------+
-| 14    | 63m           | 68      |
-+-------+---------------+---------+
-| 15    | 66m           | 70      |
-+-------+---------------+---------+
-| 16    | 69m           | 72      |
-+-------+---------------+---------+
-| 17    | 72m           | 74      |
-+-------+---------------+---------+
-| 18    | 75m           | 76      |
-+-------+---------------+---------+
-| 19    | 78m           | 78      |
-+-------+---------------+---------+
-| 20    | 81m           | 80      |
-+-------+---------------+---------+
+	For Techniques that allow targets to make a Save to mitigate 
+effects, the base DC is given by the Gravity Projector and may be modified 
+by microassembly cores or peripherals.
+
+	Techniques that require Channeling take 2 Actions to activate and 
+cost 2 Actions each subsequent turn that the ability is maintained. The 
+user may move and take other Actions while channeling, but cannot use 
+other Techniques and must maintain control of their gravity projector. A 
+GravTech who takes more than 80 damage in an Action must make a Will save 
+with DC equal to half the damage taken to maintain the technique; on failure 
+the channel stops. The user may stop the channel any time on their turn 
+as a Free Action.
 
 ===== Gravity Techniques =====
 
@@ -121,7 +91,7 @@ Within full range: 1m/Round
 Prerequisites: Pull
 
 Graviton Coat: 30
-Duration: 1 Action
+Duration: 2 Actions
 Range: Standard
 Save: Reflex
 Field Shapes: Beam
@@ -136,7 +106,7 @@ a Maneuver Check.
 Prerequisites: None
 
 Graviton Cost: 35
-Duration: 1 Action
+Duration: 2 Actions
 Range: Standard
 Save: See below
 Field Shapes: Beam, Ring, Sector
@@ -171,7 +141,7 @@ save halves the damage.
 Prerequisites: None
 
 Graviton Cost: 25
-Duration: 1 Action
+Duration: 2 Actions
 Range: Standard
 Save: Reflex
 Field Shapes: Sphere
@@ -204,7 +174,7 @@ Field Shapes: Sphere, Hemisphere, Cone, Ring, Sector
 Prerequisites: Level 6
 
 Graviton Cost: 45 Gravitons
-Duration: 1 Action
+Duration: 2 Actions
 Range: Standard
 Save: Shock
 Field Shapes: Sphere, Hemisphere, Cone, Ring, Sector
@@ -221,8 +191,8 @@ Within full range: 5m
 
 Prerequisites: Pull Pulse
 
-Graviton Coat: 
-Duration: 1 Action
+Graviton Cost: 
+Duration: 2 Actions
 Range: Standard
 Save: Shock
 Field Shapes: Sphere, Hemisphere, Cone, Ring, Sector
@@ -234,7 +204,7 @@ Field Shapes: Sphere, Hemisphere, Cone, Ring, Sector
 Prerequisites: Level 6
 
 Graviton Cost: 35
-Duration: 1 Action
+Duration: 2 Actions
 Range: Standard
 Save: See below
 Field Shapes: Beam
@@ -268,7 +238,7 @@ to 1 meter.
 Prerequisites: Gravity Sling, Level 6
 
 Graviton Coat: 
-Duration: 1 Action
+Duration: 2 Actions
 Range: Standard
 Save: Reflex
 Field Shapes: Sphere
@@ -288,7 +258,7 @@ trajectory is deflected by at leat 90 degrees.
 Prerequisites: Gravity Spike, Level 11
 
 Graviton Coat: 
-Duration: 1 Action
+Duration: 2 Actions
 Range: Standard
 Save: See below
 Field Shapes: Beam
@@ -300,7 +270,7 @@ Field Shapes: Beam
 Prerequisites: Tidal Shear, Level 11
 
 Graviton Coat: 
-Duration: 1 Action
+Duration: 2 Actions
 Range: Standard
 Save: See below
 Field Shapes: Beam, Ring, Sector
@@ -362,7 +332,7 @@ Field Shapes: Beam
 Prerequisites: Pull Pulse II, Level 16
 
 Graviton Coat: 
-Duration: 
+Duration: 2 Actions
 Range: Standard
 Save: Shock
 Field Shapes: Sphere, Hemisphere, Cone, Ring, Sector
@@ -385,7 +355,7 @@ least 180 degrees to attempt Stasis.
 Prerequisites: Gravity Bolt, Level 16
 
 Graviton Coat: 
-Duration: 1 Action
+Duration: 2 Actions
 Range: Standard
 Save: See below
 Field Shapes: Beam
@@ -397,7 +367,7 @@ Field Shapes: Beam
 Prerequisites: Tidal Tear, Level 16
 
 Graviton Coat: 
-Duration: 1 Action
+Duration: 2 Actions
 Range: Standard
 Save: See below
 Field Shapes: Beam, Ring, Sector
@@ -461,7 +431,7 @@ of a square, it affects objects in that square.
 Prerequisite: Hemisphere
 
 	The cone shape affects all massive objects within range that are within 
-45 degrees of the declared direction.
+a 45 degree cone.
 
 == Ring ==
 
@@ -475,7 +445,7 @@ same plane.
 Prerequisite: Ring
 
 	The sector shape affects all massive objects within range that occupy the 
-same plane and are within 45 degrees of the declared direction.
+same plane and are within a 45 degree sector. A sector is a two-dimensional cone.
 
 == (Adv) Double Beam ==
 
