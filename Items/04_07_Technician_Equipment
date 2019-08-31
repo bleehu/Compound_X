@@ -1,0 +1,62 @@
+==============================
+Gravity Projectors
+==============================
+
+===== Level 1 Availability =====
+
+== Mark I Reengineered Gravity Projector ==
+
+Beam Field Range: 25m
+Conical Field Range: 10m
+Radial Field Range: 30m
+Resistance DC: 40
+Price: 1750
+
+= Series I Reconditioned Gravity Projector ==
+
+Beam Field Range: 20m
+Conical Field Range: 15m
+Radial Field Range: 35m
+Resistance DC: 40
+Price: 1750
+
+==============================
+Particle Field Manipulators
+==============================
+
+	To be added with ParTech class.
+
+==============================
+Microassembly Core
+==============================
+
+===== Level 1 Availability =====
+
+== M1-01 Kepler Lake Microassembly Core ==
+
+Resource Storage: 100
+Resource Generation (Short Rest): 0
+Resource Generation (Long Rest): 100
+Hard Points: 1
+Resistance DC Increase: 0
+Price: 1000
+
+==============================
+Microassembly Peripherals
+==============================
+
+===== Level 1 Availability =====
+
+== Sustained Use Streamlining Module ==
+
+Resource Channel Cost: -1/Round
+
+== Field-expedient Graviton Production Catalyst ==
+
+Resource Generation (Short Rest): +30
+
+== Paramassive Projector Focusing Module ==
+
+Beam Field Range: +5m
+Conical Field Range: +2m
+Radial Field Range: +0m
