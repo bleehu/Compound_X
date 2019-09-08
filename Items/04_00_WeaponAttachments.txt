@@ -291,6 +291,26 @@ coilguns, shotguns, or Machine Guns.
 Auto and Burst Miss Chance: -0.5 
 R3 Range: +8m
 
+== Capacitor Manifold $500 ==
+
+    This aluminum-composite microfiber shroud fits over the capacitor housing of
+a laser weapon. It strikes a balance between muffling the "Snap!" sound that a
+laser generates when polarizing the air around the discharging capacitors when
+firing, while not creating much of a heat insulation problem. It also comes with
+a muzzle shroud that helps reduce the muzzle glow from ionized air.*
+
+    This increases the chance of a laser weapon overheating or jamming by +1
+during burst, auto, or shotgun fire. It also increases the stealth skill check
+to avoid your fire being found by +60.
+
+* The vast majority of weaponized lasers use a light frequency band that is 
+below the visible spectrum of most sentient life. In addition to avoiding 
+leaving red lines in the air that indicate the user's position, this also helps
+reduce the interferance on the beam itself. If a laser were in the green 
+frequency band for example, part of the weapon's energy would be spent hitting 
+the air between the user and the target, rather than all on the target itself.
+Thus manifolds rarely need to adjust the actual beam itself. 
+
 ===== Level 10 Requirement =====
 
 == Heavy Recoil Compensator  $900 ==
