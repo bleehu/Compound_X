@@ -50,11 +50,22 @@ Prerequisites:
 == Backstab ==
 Prerequisites: 
 
-*  Level 3
+*  Level 3 And 12 skill in stealth
 *  Assassin
 
-    Any damage dealt to an unaware opponent from behind deals an additional 
-10 + (Lvl * 2) Base damage.
+    You have a talent for striking from the shadows. You know how to make your
+first strike count, and how to keep it quiet. 
+
+    Whenever you succeed on a melee attack against an unaware opponent, you get
+a +2 to your melee accuracy and deal an additional +20 damage. If this attack
+incapacitates the target, you get a +14 to stealth checks to prevent the attack
+being noticed.
+
+    This effect can only be used against a given target the first successful
+melee attack per turn. 
+
+    At level 10, the additional damage increases to +40 and the stealth bonus
+increases to +24. 
 
 == Bulltrue ==
 Prerequisites: 
