@@ -26,6 +26,11 @@ instead of health when the player is hit, and gets degraded as the player takes
 damage. AP is reset to max at the start of the wearer's turn. For more information, 
 see the section titled "Armor and Getting Hit" in "01_02_Combat_Rules"
 
+== Capabilities ==
+    Capabilities are Carry Ability, Movement Speed and Skill Point Gain. 
+These stats are determined by your Primary Stats. For more information on 
+Capabilities, see the "Capabilities" section of the Basic Rules.
+
 == Compound X ==
     The name of the game! It is also the name of a prison planet in the first 
 campaign run back in 2015 by the game's creator, Taylor Rowland. 
@@ -181,11 +186,6 @@ Reactions occur at the immediate moment that they are triggered. See "Reactions
     A Saving Throw is a roll of the dice to see whether your character has the 
 defenses to avoid something bad happening to them. See "Saving Throws" in the 
 Basic Rules.txt document for more information.
-
-== Secondary Stats ==
-    Secondary Stats are Carry Ability, Movement Speed and Skill Point Gain. 
-These stats are determined by your Primary Stats. For more information on 
-Secondary Stats, see the "Secondary Stats" section of the Basic Rules.
 
 == Shield Strength ==
     Shield Strength is a measure of how much damage a personal shield can take
