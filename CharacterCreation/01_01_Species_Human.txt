@@ -77,7 +77,7 @@ upon.
 ===== Passives =====
 
 *  Gain 1 additional language and learn new languages at twice the normal rate.
-*  Have 42 starting stat points, rather than the 40 granted to other species.
+*  Start with 40 stat points at level 1.
 
 ===== Available Traits =====
 
