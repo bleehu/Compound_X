@@ -96,7 +96,7 @@ one Action before the weapon can be fired again.
 == Hip Firing ==
 
     Add 3 to a weapon's miss chance. You cannot use optical attachments in hip 
-firing unless otherwise noted. It is much smarter to takes one action to Aim, 
+firing unless otherwise noted. It is much smarter to take one action to Aim, 
 and spend the rest of your shots firing. It's also a great idea to take an 
 action at the end of your turn to "hunker," and gain a +2 cover advantage.
 
