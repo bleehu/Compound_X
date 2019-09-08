@@ -80,8 +80,8 @@ While in combat, the rules are a little more specific so as to support strategy
 and planning. During combat, each player takes their turn in a particular order, 
 and while you can still make up what you want to do, most actions fall into 
 pre-existing categories that take a specific amount of time and typically do a 
-specified amount of damage. More detail on that in the "Combat" section of Basic 
-Rules.
+specified amount of damage. More detail on that in the "Rounds, Turns and 
+Actions" section of the Combat Rules.
 
 	Out of combat, turns are a little more fluid. Usually players take their turn 
 describing what they want to do when each player gets an idea of what to do. If 
