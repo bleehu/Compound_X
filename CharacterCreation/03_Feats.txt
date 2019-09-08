@@ -364,7 +364,7 @@ the gaps in armor around the neck or eyes, sometimes adding a quick punch or
 fast kick to help contort your target into a vulnerable stance. 
 
     You can use backstab with suppressed CQB guns as long as you're in melee
-range. As long as the target has less than 80% armor coverage, your attack
+range. As long as the target has less than 5 armor coverage, your attack
 bypasses armor.
 
 
