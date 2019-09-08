@@ -89,7 +89,7 @@ large body of water that flows down the through the continent of Senrima.
 was taken by those who took up aquaponics to raise both fish for consumption and herbs. While
 these herbs are traditionally medicinal, a group with this title may focus on other herbs, feed
 for livestock, or other useful organic materials. 
-	'En is a title given to healers and doctors trained on Tundaar. 
+	'En is a title given to healers and doctors trained on Tundar. 
 
 	First names range very much as humans, as far as origin. While often having some significance 
 to the family, first names are fairly arbitrary in much of Tundari society. Tribe and 
@@ -188,7 +188,7 @@ Favored Terrain: Forest/Jungle
 Appearance: 
 	Coats range from black, to tawny, to brighter colors such as orange and red. 
 These Tundari are larger, more powerful hunters than their cousins, relying more on brute 
-strength and ambushing than on speed. While the trees on Tundaar well supported the weight 
+strength and ambushing than on speed. While the trees on Tundar well supported the weight 
 of these people, it is hard to find natural equivalents on other planets.
 
 Tribe: 
