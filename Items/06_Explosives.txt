@@ -7,7 +7,8 @@ Grenades
 == ECSC Smoke Grenade $50 ==
 
 Damage: D10 Thermal Damage to exact spot of impact
-Ranged Miss Chance (to land where intended): 5 out to 10+[DEX or STR]*2 meters
+Miss Chance: 5
+Range: 10+[DEX or STR]*2 meters
 Armor Piercing Level: 0
 Reflex Modifier: -10
 Reflex Save: 110
@@ -30,7 +31,8 @@ at the cost of one action on their next turn.
 == ECSC CID Chemical Incapacitation Device (Gas grenade) $50 ==
 
 Damage: D10 Thermal Damage to exact spot of impact
-Ranged Miss Chance (to land where intended): 5 out to 7+[DEX or STR]*2 meters
+Miss Chance: 5
+Range: 7+[DEX or STR]*2 meters
 Armor Piercing Level: 0
 Reflex Modifier: -10
 Reflex Save: 90
@@ -51,7 +53,8 @@ at the cost of one action on their next turn.
 == RMM Flash-Bang Distraction and Clearing Device $50 ==
 
 Damage: D10 Thermal Damage to exact spot of impact
-Ranged Miss Chance (to land where intended): 6 out to 10+[DEX or STR]*2 meters
+Miss Chance: 6 
+Range: 10+[DEX or STR]*2 meters
 Armor Piercing Level: 0
 Reflex Modifier: -10
 Reflex Save: 110
@@ -70,16 +73,18 @@ investigation checks.
 == ECSC Fragmentation Grenade $90 ==
 
 Damage: D10 Thermal Damage to exact spot of impact
-Ranged Miss Chance (to land where intended): 5 out to 10+[DEX or STR]*2 meters
+Miss Chance: 5
+Range: 10+[DEX or STR]*2 meters
 Armor Piercing Level: 1
 Reflex Modifier: -10
 Reflex Save: 100
 
-    Each Target within the blast radius takes multiple hits. 45 ballistic 
+    Each Target within the blast radius takes three shrapnel hits. 45 ballistic 
 damage per hit, automatically hits armor. Targets take full damage to the torso, 
 legs, and arms (if armor is pierced or not present): (3*45 damage)+2xBleed 
 within a 2.5m radius.Only legs and torso (2*45 damage)+1xBleed within a 5m 
-radius. At least one hit must damage health to cause Bleed.
+radius. At least one hit must damage health to cause Bleed. Recall that multiple 
+hits create separate wounds, which each must be healed separately.
 
     Each character in the radius of a Frag Grenade's range when it goes off may
 make a Reflex Save of DC 100. If they succeed, they may dive prone up to their
@@ -89,7 +94,8 @@ at the cost of one action on their next turn.
 == ECSC C10 Plastic HE $210 ==
 
 Damage: 120 explosive damage within a 3m radius, 5m radius indoors.
-Ranged Miss Chance (to land where intended): n/a
+Miss Chance: 0
+Range: 0 meters
 Armor Piercing Level: n/a
 Reflex Modifier: -10
 Reflex Save: 110
@@ -112,16 +118,18 @@ at the cost of one action on their next turn.
 == RMM Frag+ Grenade $140 ==
 
 Damage: D10 Thermal Damage to exact spot of impact
-Ranged Miss Chance (to land where intended): 5 out to 10+[DEX or STR]*2 meters
+Miss Chance: 5 
+Range: 10+[DEX or STR]*2 meters
 Armor Piercing Level: 2
 Reflex Modifier: -10
 Reflex Save: 120
 
-    Each Target within the blast radius takes multiple hits. 50 ballistic 
+    Each Target within the blast radius takes three shrapnel hits. 50 ballistic 
 damage per hit, automatically hits armor. Targets take full damage to the torso, 
 legs, and arms (if armor is pierced or not present): (3*50 damage)+2xBleed 
 within a 3m radius. Only legs and torso (2*50 damage)+1xBleed within a 6m radius. 
-At least one hit must damage health to cause Bleed.
+At least one hit must damage health to cause Bleed. Recall that multiple hits
+create separate wounds, which each must be healed separately.
 
     Each character in the radius of a Frag Grenade's range when it goes off may
 make a Reflex Save of DC 110. If they succeed, they may dive prone up to their
@@ -131,7 +139,8 @@ at the cost of one action on their next turn.
 == Frontier Chemical Grenade $70 ==
 
 Damage: D10 Thermal Damage to exact spot of impact
-Ranged Miss Chance (to land where intended): 5 out to 10+[DEX or STR]*2 meters
+Miss Chance: 5 
+Range: 10+[DEX or STR]*2 meters
 Armor Piercing Level: n/a
 Reflex Modifier: -10
 Reflex Save: 120
@@ -148,7 +157,8 @@ at the cost of one action on their next turn.
 == RMM HiEx Grenade $285 ==
 
 Damage: D10 Thermal Damage to exact spot of impact
-Ranged Miss Chance (to land where intended): 5 out to 10+[DEX or STR]*2 meters
+Miss Chance: 5 
+Range: 10+[DEX or STR]*2 meters
 Armor Piercing Level: n/a
 Reflex Modifier: -10
 Reflex Save: 130
@@ -166,7 +176,8 @@ at the cost of one action on their next turn.
 == Frontier Plasma Grenade FP-G5 $360 ==
 
 Damage: D10 Thermal Damage to exact spot of impact
-Ranged Miss Chance (to land where intended): 5 out to 10+[DEX or STR]*2 meters
+Miss Chance: 5 
+Range: 10+[DEX or STR]*2 meters
 Armor Piercing Level: 6
 Reflex Modifier: -10
 Reflex Save: 140
