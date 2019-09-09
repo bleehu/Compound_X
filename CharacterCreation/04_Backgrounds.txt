@@ -22,7 +22,8 @@ rolls in-game.
 Origin, Social Class, and Profession. You may choose one perk from each of those
 three categories. For example, if you chose "Trioch System", "Caveat Emptor" and 
 "Star Strider" then your character would start with half a set of nanites, two
-Tuunra language dialects and 6 skill in Insight at level 1.
+Tunra language dialects and 6 skill in Insight at level 1 and a +10 bonus to skill 
+checks to move in microgragity.
 
 	While everyone enters the world in their birthday suit, characters are
 generally well-clothed by the time in their lives they enter a Compound X story.
@@ -31,7 +32,7 @@ background. In general, these should consist of some combination of casual,
 professional, and formal or semi-formal clothing that is appropriate to their
 outlook and life experience. These outfits do not provide any armor, but may offer
 bonuses to some social skill checks at the discretion of the GM. A character may own
-outfits from the following list of examples or any other reasonable se of clothing.
+outfits from the following list of examples or any other reasonable set of clothing.
 Outfits can include both footwear and outerwear.
 
 ===== Culture of Origin =====
@@ -58,7 +59,8 @@ Outfits can include both footwear and outerwear.
 | Colony World- Terran   | Gain Languages- Terran Common (+ 1 dialect), 1 Common or Trade Language of   |
 |                        | choice. Gain 0.5 set of Nanites.                                             |
 +------------------------+------------------------------------------------------------------------------+
-|                    |
+| You come from one of the colonies of the Terran Empire, perhaps you hail from out on the Rim,         |
+| irradiated Reach, or the newer planets in the Terran Core?                                            |
 +------------------------+------------------------------------------------------------------------------+
 | Colony World- Tundaari | Gain Languages- Tuunra (+ 1 dialect), 1 Common or Trade Language of choice.  |
 |                        | Gain 0.5 set of Nanites.                                                     | 
@@ -107,7 +109,7 @@ Outfits can include both footwear and outerwear.
 | You've long gotten over the disorientation people get when flying about the quadrant in a                      |
 | spaceship. Heck, you wouldn't have made it this far if you couldn't keep your lunch down!                      |
 +--------------------+-----------------+-------------------------------------------------------------------------+
-| Star-Strider       | Ex-pat          | Add 10 to checks to maneuver in Zero-G                                  |
+| Star-Strider       | Ex-pat          | Add 10 to skill checks to move while in microgravity                    |
 +--------------------+-----------------+-------------------------------------------------------------------------+
 | Some people lose their bearings the moment gravity takes a hike. Not you. You thrive in the                    |
 | weightlessness of space and the rush you get from proximity to vaccuum is like nothing else                    |
