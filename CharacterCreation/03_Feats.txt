@@ -70,7 +70,7 @@ sticky situation then you won't get to hear from him anyway.
 
     The penalty for hip firing with a CQB weapon is reduced by 1 in your R1 
 range bracket. For more information on hip firing, see the "Hip Firing" section
-of the Shooting rules in combat rules.
+of the Shooting Rules document in the Combat Rules directory.
 
 == Bulltrue ==
 Prerequisites: 
