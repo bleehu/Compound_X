@@ -200,16 +200,6 @@ Outfits can include both footwear and outerwear.
 
 ==== Clothing and Supplies ====
 
-	While everyone enters the world in their birthday suit, characters are
-generally well-clothed by the time in their lives they enter a Compound X story.
-At Level 1, every character will gain up to three outfits of clothing from their
-background. In general, these should consist of some combination of casual,
-professional, and formal or semi-formal clothing that is appropriate to their
-outlook and life experience. These outfits do not provide any armor, but may offer
-bonuses to some social skill checks at the discretion of the GM. A character may own
-outfits from the following list of examples or any other reasonable set of clothing.
-Outfits can include both footwear and outerwear.
-
 Casual Clothing:
 -A t-shirt and jeans
 -A shirt, pants and a leather jacket
