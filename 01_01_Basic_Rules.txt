@@ -384,19 +384,6 @@ Strength Primary Stat is a very beefy 8. Then your Strength Modifier would be:
 	That's a really high roll! But that may or may not be enough to lift the 
 object depending on how heavy it is.
 
-===== Nanites =====
-
-	The maximum number of Nanites you can use at a given time is determined by 
-your character class and an associated Primary Stat. Your class may tell you its 
-"Class Primary Attribute" is Strength. In that case, Strength * 10 is your 
-maximum Nanites. 
-
-More generally:
-	Your Maximum Nanites = (Your Class's Primary Attribute) * 10
-Some class feats and other abilities can increase the number of Nanites you can 
-hold and use at a given time. Also, Unlike Health, Nanites regenerate during 
-combat at a rate of 3 Nanites per turn. 
-
 ==============================
 Saving Throws
 ==============================
