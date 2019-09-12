@@ -335,13 +335,16 @@ actions if you are below -50 health.
 == Muscle Memory ==
 Prerequisites:
 
-*  DEX 6 or 15 Weapons - [x] skill
+*  DEX 6
+*  15 Weapons - [X] skill
 
-    Negate the pump of a shotgun, cocking of a revolver, or cycling of a bolt 
-when performing another action besides the aforementioned (besides firing). 
-(Only applies to the weapons you have at least 15 Weapons - [x] skill in using, 
-unless you meet the DEX requirement). Gain +5% to reload rolls with the given
-weapon.
+    While taking a movement related action, such as running, going prone, standing 
+up, etc, you may cycle the action of a pump-action, lever-action, single-action, 
+or bolt-action firearm of type X as a Free Action. You gain a +5 bonus to
+reload checks for firearms of type X that have one of these types of action.
+
+    Taking this feat once applies its benefits to all weapon types with which you 
+have the prerequisite skill points.
 
 == Never Tell Me the Odds ==
 Prerequisites:
