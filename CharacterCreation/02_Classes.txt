@@ -684,7 +684,7 @@ Starting Wealth: $1975 + 100*Luck
 
 Passives:
 * The Assassin may make one additional Action per turn while in a Grapple, but not more than four.
-* Gain 10 skill points in Weapons - Melee
+* Gain 10 skill points in Weapons - Melee OR Weapons - Thrown
 * Gain 10 skill points in Stealth
 * Gain Feat: Proficiency: Light Melee Weaponry
 * Gain Feat: Proficiency: One-handed Melee Weaponry
@@ -721,7 +721,7 @@ Armor Proficiencies:
 
 Skill Proficiencies:
 * Stealth
-* Weapons - Melee
+* Weapons - Melee OR Weapons - Thrown (Same as chosen above)
 
 Feats:
 
