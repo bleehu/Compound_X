@@ -67,6 +67,22 @@ melee attack per turn.
     At level 10, the additional damage increases to +40 and the stealth bonus
 increases to +24. 
 
+== Below the Belt ==
+
+Prerequisites:
+
+*  Luck 4
+*  Dex 6
+
+    You've got enough luck, courage, and precision to shoot in a general 
+direction without taking the time to aim properly. Your firearms teacher would
+be very disappointed at the lack of form, but if you don't get out of this 
+sticky situation then you won't get to hear from him anyway.
+
+    The penalty for hip firing with a CQB weapon is reduced by 1 in your R1 
+range bracket. For more information on hip firing, see the "Hip Firing" section
+of the Shooting Rules document in the Combat Rules directory.
+
 == Bulltrue ==
 Prerequisites: 
 
