@@ -7,7 +7,7 @@ Core Classes
 	You have the blood of a warrior flowing through you. Your sole purpose is to 
 fight until the threat is neutralized.
 
-Starting Wealth: $3770 + 100*Luck
+Starting Wealth: $3270 + 100*Luck
 
 Passives: 
 * Gain 10 skill points in Weapons - [Choose one]
