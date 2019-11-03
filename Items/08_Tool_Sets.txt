@@ -8,6 +8,7 @@ assembly and disassembly of mechanical objects.
 
 Relevant Skill(s): Repair, Jury-rigging
 Noise Level: Low
+Weight: 
 
 Mechanic's Demolition Set ($):
 	Includes hammers, prybars, and saws useful for rapid, destructive 
@@ -15,6 +16,7 @@ disassembly and parts fabrication.
 
 Relevant Skill(s): Repair, Jury-rigging
 Noise Level: Low
+Weight: 
 
 Mechanic's Power Fastening Combo Kit ($):
 	Includes a battery-powered drill and impact driver, drill and 
@@ -23,6 +25,7 @@ assembly and disassembly of mechanical objects.
 
 Relevant Skill(s): Repair, Jury-rigging
 Noise Level: High
+Weight: 
 
 Mechanic's Power Demolition Combo Kit ($):
 	Includes a battery-powered reciprocating saw, circular saw, and 
@@ -31,6 +34,7 @@ destructive demolition and parts fabrication.
 
 Relevant Skill(s): Repair, Jury-rigging
 Noise Level: High
+Weight: 
 
 Mechanic's Power Detail Combo Kit ($):
 	Includes a rotary tool, oscillating tool, and wide variety of 
@@ -39,3 +43,5 @@ used for a wide variety of small-scale tasks.
 
 Relevant Skill(s): Repair, Jury-rigging, Performance
 Noise Level: High
+Weight: 
+
