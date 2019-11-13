@@ -30,7 +30,7 @@ Weight:
 Mechanic's Power Demolition Combo Kit ($):
 	Includes a battery-powered reciprocating saw, circular saw, and 
 a variety of blades for different materials. Allows for extremely fast, 
-destructive demolition and parts fabrication.
+destructive demolition and large parts fabrication.
 
 Relevant Skill(s): Repair, Jury-rigging
 Noise Level: High
