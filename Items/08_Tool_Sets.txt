@@ -2,6 +2,36 @@
 Tool Sets
 ==============================
 
+Blade Maintenance and Care Kit ($):
+	[ph]
+
+Digital Artist's Program and Tablet Package ($):
+	[ph]
+
+Disguise Kit ($):
+	[ph]
+
+Firearm Maintenance and Care Kit ($):
+	[ph]
+
+Forger's Implements ($):
+	[ph]
+
+General Research Analysis and Cross-referencing AI ($):
+	[ph]
+
+Hostile Environment General Purpose Survival Package ($):
+	[ph]
+
+Field-expedient Trauma Kit ($):
+	[ph]
+
+Fine Art Kit ($):
+	[ph]
+
+Mechanical Lockpicking Tools ($):
+	[ph]
+
 Mechanic's Demolition Set ($):
 	Includes hammers, prybars, and saws useful for rapid, destructive 
 disassembly and parts fabrication.
@@ -45,3 +75,8 @@ Relevant Skill(s): Repair, Jury-rigging
 Noise Level: Low
 Weight: 
 
+Musical Instrument and Care Supplies ($):
+	[ph]
+
+Sculptor's Tools ($):
+	[ph]
