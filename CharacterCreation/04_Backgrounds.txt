@@ -19,7 +19,7 @@ character's experience, their Background Perks, will provide bonuses to their
 rolls in-game.
 
 	Formal backgrounds in Compound X have three parts: a character's Culture of 
-Origin, Social Class, and Profession. You may choose one perk from each of those
+Origin, Social Class, and Profession. Choose one perk from each of those
 three categories. For example, if you chose "Trioch System", "Caveat Emptor" and 
 "Star Strider" then your character would start with half a set of nanites, two
 Tunra language dialects and 6 skill in Insight at level 1 and a +10 bonus to skill 
@@ -32,7 +32,7 @@ background. In general, these should consist of some combination of casual,
 professional, and formal or semi-formal clothing that is appropriate to their
 outlook and life experience. These outfits do not provide any armor, but may offer
 bonuses to some social skill checks at the discretion of the GM. A character may own
-outfits from the following list of examples or any other reasonable set of clothing.
+outfits from the list of examples below or any other reasonable set of clothing.
 Outfits can include both footwear and outerwear.
 
 ===== Culture of Origin =====
@@ -62,10 +62,12 @@ Outfits can include both footwear and outerwear.
 | You come from one of the colonies of the Terran Empire, perhaps you hail from out on the Rim,         |
 | irradiated Reach, or the newer planets in the Terran Core?                                            |
 +------------------------+------------------------------------------------------------------------------+
-| Colony World- Tundaari | Gain Languages- Tuunra (+ 1 dialect), 1 Common or Trade Language of choice.  |
+| Colony World- Tundari | Gain Languages- Tuunra (+ 1 dialect), 1 Common or Trade Language of choice.   |
 |                        | Gain 0.5 set of Nanites.                                                     | 
 +------------------------+------------------------------------------------------------------------------+
-|                    |
+| Tundari society is concentrated primarily on Tundar Prime, but your family set out into the galaxy.   |
+| Whether by choice or by exile, they have built a new home and you grew up surrounded by diverse alien |
+| species, carving a life out of recently-terraformed rock.						|
 +------------------------+------------------------------------------------------------------------------+
 | Colony World- Opaleite | Gain Languages- Opaleite Trade: Vocal or Opaleite Trade: Sign (+ 1 dialect), |
 |                        | 1 Common or Trade Language of choice. Gain 0.5 set of Nanites.               |
