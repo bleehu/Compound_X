@@ -563,14 +563,23 @@ have invested in learning the skill; however, your GM may decide otherwise, appl
 penalties to your roll, raise the DC, ask you to justify why your character can
 attempt the roll, or make any other judgement they deem appropriate. 
 
-	When leveling up you may gain up to 6 points in any one skill.
-	
-	Characters are considered to be Proficient with certain skills, based on
-their class and background. When a character is Proficient in a skill, each skill 
-point they spend in that skill upon leveling up increases that skill by two 
-instead of one.
-
 	Defenders win ties for opposing rolls.
+
+-- [PH] Skills --
+
+	When a skill is marked [PH], it generally requires the correct tools to 
+accomplish the task at hand. [PH] skill rolls made without the correct tools are 
+rolled with Disadvantage, and may even be impossible. At the GM's discretion, 
+it may be possible to improvise a tool for a task, probably requiring a jury-rigging 
+roll, but this will impose complications if successful.
+
+	Tool sets are listed in the 08_Tool_Sets.txt document under Items. Each 
+tool set has an associated suite of skills it can apply to, though not necessarily 
+under all conditions, and a weight and noise level associated with its use. Tool 
+Sets purchased from upstanding sources are presumed to contain all necessary 
+personal protective equipment. GMs are encouraged to come up with creative 
+consequences for skill check critical failures made with tools without such safety 
+equipment.
 
 ==============================
 Player Weapon Customization
