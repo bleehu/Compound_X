@@ -65,6 +65,9 @@ this is not an exhaustive list of skills, merely the skills called for most
 often. Talk to your GM if you would like your character to learn a more specific
 case of one of these skills or a skill not listed below.
 
+	Assisted skills, which usually require an appropriate tool set as 
+described in the basic rules, are marked with an [A].
+
 == Charisma ==
 Deception:	To tell a convincing lie
 Insight:	To tell truth and lies apart
@@ -90,14 +93,14 @@ are listed below.
 Intimidation:	To strike fear into the hearts of your enemies
 	
 == Intelligence ==
-Hacking:	To pwn computer systems
-Medicine:	To repair life forms
-Repair:	To repair machines
+Hacking [A]:	To pwn computer systems
+Medicine [A]:	To repair life forms
+Repair [A]:	To repair machines
 Jury-rigging:	To throw together a solution using the materials on hand
 Navigation:	For plotting routes through space or across land
 Survival:	To make do far from civilization with limited technological help
 Knowledge:	For when a character's knowledge differs from the player's
-Weapons: weapons knowledge is listed below.
+Weapons [A]: weapons knowledge is listed below.
 
 	There are several different knowledge areas that your character might be up
 to speed on. They are listed below.
