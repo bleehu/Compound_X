@@ -5,6 +5,10 @@ Tool Sets
 Blade Maintenance and Care Kit ($):
 	[ph]
 
+Relevant Skill(s): Weapons - Melee, Weapons - Thrown
+Noise Level: Low
+Weight: 
+
 Digital Artist's Program and Tablet Package ($):
 	A pressure-sensitive digital tablet and stylus complete with 
 TIR Digital Painting, can be used for drawing, painting, and editing
@@ -14,29 +18,98 @@ Relevant Skill(s): Performance, Deception
 Noise Level: Low
 Weight:
 
+Destructive Entry Kit ($):
+	Includes several tools useful for making an irreversible 
+entrance into secured locations, such as bolt cutters, prybars, 
+a small, concealable drill, core puller, and core shearer.
+
+Relevant Skill(s): Sleight of Hand, Athletics
+Noise Level: Low-High
+Weight: 
+
 Disguise Kit ($):
 	[ph]
+
+Relevant Skill(s): Deception
+Noise Level: Low
+Weight: 
+
+Electrician's Kit ($):
+	Voltage testers; sensors; insulated wire strippers, ratchets, 
+screwdrivers, and pliers; reels of wire; soldering supplies; breadboards; 
+resistors; capacitors; inductors; rechargeable temporary power supplies; 
+and a miniaturized 3D circuit printer allow the professional electrician 
+to maintain, repair, and construct all manner of electronic gadgetry.
+
+Relevant Skill(s): Repair, Jury-rig
+Noise Level: Low
+Weight:
+
+Electronic Lock Spoofing Kit ($):
+	[ph]
+
+Relevant Skill(s): Hacking
+Noise Level: Low
+Weight: 
 
 Firearm Maintenance and Care Kit ($):
 	[ph]
 
+Relevant Skill(s): Weapons - [All firearms categories]
+Noise Level: Low
+Weight: 
+
 Forger's Implements ($):
 	[ph]
+
+Relevant Skill(s): Deception, Sleight of Hand
+Noise Level: Low
+Weight: 
 
 General Research Analysis and Cross-referencing AI ($):
 	[ph]
 
+Relevant Skill(s): Knowledge - All, Investigation
+Noise Level: Low
+Weight: 
+
 Hostile Environment General Purpose Survival Package ($):
 	[ph]
+
+Relevant Skill(s): Survival
+Noise Level: Low
+Weight: 
 
 Field-expedient Trauma Kit ($):
 	[ph]
 
+Relevant Skill(s): Medicine, Repair
+Noise Level: Low
+Weight: 
+
 Fine Art Kit ($):
 	[ph]
 
-Mechanical Lockpicking Tools ($):
+Relevant Skill(s): Performance
+Noise Level: Low
+Weight: 
+
+Locksmith's Rekeying Tools ($):
 	[ph]
+
+Relevant Skill(s): Sleight of Hand
+Noise Level: Low
+Weight: 
+
+Mechanical Lockpicking Tools ($):
+	An awe-inspiring assortment of torsion tools, picks, and rakes 
+for pin tumbler, dimple, tubular, and disc detainer locks, as well as a 
+core spinner, benchtop impressioning cutter, some files, and vicegrips. 
+Includes an electric pick gun that trades quietness for speed.
+
+Relevant Skill(s): Sleight of Hand
+Noise Level: Low-High
+Weight: 
 
 Mechanic's Demolition Set ($):
 	Includes hammers, prybars, and saws useful for rapid, destructive 
@@ -49,16 +122,16 @@ Weight:
 Mechanic's Power Demolition Combo Kit ($):
 	Includes a battery-powered reciprocating saw, circular saw, and 
 a variety of blades for different materials. Allows for extremely fast, 
-destructive demolition and large parts fabrication.
+destructive demolition and subtractive fabrication.
 
 Relevant Skill(s): Repair, Jury-rigging
 Noise Level: High
 Weight: 
 
 Mechanic's Power Detail Combo Kit ($):
-	Includes a rotary tool, oscillating tool, and wide variety of 
-drilling, cutting, engraving, sanding, and polishing attachments. Can be 
-used for a wide variety of small-scale tasks.
+	Includes a rotary tool, oscillating tool, mini-saw, and wide 
+variety of drilling, cutting, engraving, sanding, and polishing 
+attachments. Can be used for a wide variety of small-scale tasks.
 
 Relevant Skill(s): Repair, Jury-rigging, Performance
 Noise Level: High
