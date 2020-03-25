@@ -522,7 +522,7 @@ conceal in a sleeve or boot. It holds up to three throwing knives in easy reach.
 
     Dexterity requirement: 7
     Knives thrown from the sheath may be drawn as a free action. Refilling the
-sheath takes twelve Actions. 
+sheath takes four Actions, or three if a slight of hand(Dex) check of DC 45. 
 
 
 ===== Level 5 Requirement =====
