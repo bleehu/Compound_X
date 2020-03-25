@@ -445,6 +445,7 @@ Prerequisites:
     As a free action, draw your chosen weapon(s) into firing position. If you 
 are holding something, you can drop it and still draw your weapon as a free 
 action. However, you might not want to drop anything glass. Or any explosives.
+You cannot quickdraw more than two weapons per turn.
 
 == Rainman ==
 Prerequisites:
