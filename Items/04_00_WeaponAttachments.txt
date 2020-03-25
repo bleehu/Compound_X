@@ -515,6 +515,16 @@ draw your primary as a free action. Holstering your weapon is a free action.
 
     Strength Requirement:  -1
 
+== Concealed Throwing Knife Sheath $340 ==
+
+    This simple polylon band fits nicely around a wrist or ankle. Its easy to 
+conceal in a sleeve or boot. It holds up to three throwing knives in easy reach.
+
+    Dexterity requirement: 7
+    Knives thrown from the sheath may be drawn as a free action. Refilling the
+sheath takes twelve Actions. 
+
+
 ===== Level 5 Requirement =====
 
 == Three Point Smart-Sling $650 ==
