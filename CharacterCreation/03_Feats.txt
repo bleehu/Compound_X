@@ -53,8 +53,35 @@ Prerequisites:
 *  Level 3
 *  Assassin or Stealth skill 30
 
-    Any melee damage dealt to an unaware opponent from behind deals an 
-additional 10 + (Lvl * 10) Base damage.
+    You have a talent for striking from the shadows. You know how to make your
+first strike count, and how to keep it quiet. 
+
+    Whenever you succeed on a melee attack against an unaware opponent, you get
+a +2 to your melee accuracy and deal an additional +20 damage. If this attack
+incapacitates the target, you get a +14 to stealth checks to prevent the attack
+being noticed.
+
+    This effect can only be used against a given target the first successful
+melee attack per turn. 
+
+    At level 10, the additional damage increases to +40 and the stealth bonus
+increases to +24. 
+
+== Below the Belt ==
+
+Prerequisites:
+
+*  Luck 4
+*  Dex 6
+
+    You've got enough luck, courage, and precision to shoot in a general 
+direction without taking the time to aim properly. Your firearms teacher would
+be very disappointed at the lack of form, but if you don't get out of this 
+sticky situation then you won't get to hear from him anyway.
+
+    The penalty for hip firing with a CQB weapon is reduced by 1 in your R1 
+range bracket. For more information on hip firing, see the "Hip Firing" section
+of the Shooting Rules document in the Combat Rules directory.
 
 == Bulltrue ==
 Prerequisites: 
@@ -324,13 +351,16 @@ actions if you are below -50 health.
 == Muscle Memory ==
 Prerequisites:
 
-*  DEX 6 or 15 Weapons - [x] skill
+*  DEX 6
+*  15 Weapons - [X] skill
 
-    Negate the pump of a shotgun, cocking of a revolver, or cycling of a bolt 
-when performing another action besides the aforementioned (besides firing). 
-(Only applies to the weapons you have at least 15 Weapons - [x] skill in using, 
-unless you meet the DEX requirement). Gain +5% to reload rolls with the given
-weapon.
+    While taking a movement related action, such as running, going prone, standing 
+up, etc, you may cycle the action of a pump-action, lever-action, single-action, 
+or bolt-action firearm of type X as a Free Action. You gain a +5 bonus to
+reload checks for firearms of type X that have one of these types of action.
+
+    Taking this feat once applies its benefits to all weapon types with which you 
+have the prerequisite skill points.
 
 == Never Tell Me the Odds ==
 Prerequisites:

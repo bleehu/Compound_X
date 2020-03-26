@@ -21,9 +21,9 @@ of 7-10 would be successful.
 
     At any time when using a melee or ranged weapon, you have a minimum of -2 
 weapon miss chance, and a minimum of +1 miss chance modifier from automatic or 
-burst fire modes (if relevant). These minimums apply after all PER/DEX/STR/Attachment 
+burst fire modes (if relevant). These minimums apply after all Stat/Attachment 
 modifiers, at all ranges, and before cover and any other environmental effects. 
-Using an ability could push you below the minimum miss chance.
+An ability can only exceed these limits if it specifically says that it does so.
 
     Outside a weapon's longest range, you cannot hit your target.
 Also, weapons cannot shoot over 100m without magnifying sights, or over 150m 

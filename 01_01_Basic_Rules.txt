@@ -80,8 +80,8 @@ While in combat, the rules are a little more specific so as to support strategy
 and planning. During combat, each player takes their turn in a particular order, 
 and while you can still make up what you want to do, most actions fall into 
 pre-existing categories that take a specific amount of time and typically do a 
-specified amount of damage. More detail on that in the "Combat" section of Basic 
-Rules.
+specified amount of damage. More detail on that in the "Rounds, Turns and 
+Actions" section of the Combat Rules.
 
 	Out of combat, turns are a little more fluid. Usually players take their turn 
 describing what they want to do when each player gets an idea of what to do. If 
@@ -132,8 +132,8 @@ factored into most other decisions you make both in game and for the rest of
 character creation. Choosing your stats is a very good way to start making a 
 character.
 
-Secondary Stats:
-	These stats are derived from your primary stats and determine things like
+Capabilities:
+	These stats are derived from your Primary Stats and determine things like
 how fast your character moves and how quickly they learn new skills. When making
 a new character, you'll calculate these after picking Primary Stats.
 
@@ -196,7 +196,7 @@ from reloading really fast, to having more health to being able to do a fast
 combat roll under fire. Tackle these when your character advances to level 2.
 
 ==============================
-Primary Stats and Secondary Stats
+Primary Stats
 ==============================
 
 ===== Primary Stats =====
@@ -307,10 +307,15 @@ table, below.
 | 9-10  | Nothing bad happens... this time                                                      |
 +-------+---------------------------------------------------------------------------------------+
 
-===== Secondary Stats =====	
 
-	Your Character's Secondary stats are each equal to one of your Primary 
-Stats, but no single Primary Stat can be used for two of your Secondary Stats.
+==============================
+Capabilities
+==============================
+
+	Your Character's Capabilities are a group of stats that are each derived 
+from one of your Primary Stats. You may chose which Primary stat they are 
+derived from, but no single Primary Stat can be used for two of your 
+Capabilities.
 
 Movement Speed:
 	Your Movement Speed is how fast your character can move every two Actions in
@@ -333,9 +338,11 @@ every level. Every time you level up, you gain skill points equal to double your
 "Skill Point Gain". Your Skill Point Gain should be equal to either your 
 Intelligence or your Charisma.
 
-== Secondary Stat Assignment Examples ==
+== Capability Assignment Examples ==
+
 	Charisma and Intelligence are associated with Skill Point Gain. If you have 
-5 Charisma and 6 Intelligence, you would have 6 Skill Point Gain.
+5 Charisma and 6 Intelligence, you would choose to derive your Skill Point Gain
+from your Intelligence and would have 6 Skill Point Gain.
 
 	Let's now assume you have 6 Strength, 3 Dexterity, and 4 Fortitude. You 
 could have 3 Movement Speed (from your Dexterity) and 4 Carry Ability (from your 
@@ -376,19 +383,6 @@ Strength Primary Stat is a very beefy 8. Then your Strength Modifier would be:
 
 	That's a really high roll! But that may or may not be enough to lift the 
 object depending on how heavy it is.
-
-===== Nanites =====
-
-	Although not a primary or secondary stat per se, The maximum number of 
-Nanites you can use at a given time is determined by your character class and an 
-associated primary stat. Your class may tell you its "Class Primary Attribute" 
-is Strength. In that case, Strength * 10 is your maximum Nanites. 
-
-More generally:
-	Your Maximum Nanites = (Your Class's Primary Attribute) * 10
-Some class feats and other abilities can increase the number of Nanites you can 
-hold and use at a given time. Also, Unlike Health, Nanites regenerate during 
-combat at a rate of 3 Nanites per turn. 
 
 ==============================
 Saving Throws

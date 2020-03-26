@@ -233,10 +233,6 @@ turn.
 
 ===== Series 0x0c "Constructor" =====
 
-* +1 STR
-* +1 FOR
-* -2 DEX
-
     During the mid 2400s, the ECSC had many varieties of purpose-built construction 
 drones in service. The Series Twelve Constructor Drone was the response by the ECSC 
 to replace them with an all-purpose unit that could be easily utilized on most 

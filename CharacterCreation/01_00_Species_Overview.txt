@@ -22,7 +22,7 @@ species you are will affect how other species interact with you, and will help
 decide your final stats. Your character must have a species and can only have
 one species. Will you be an adventersome young human, exploring what become of
 the planet that your species came from? Or will you be an fearsome and graceful
-Tundari from the jungles of Tundaar? Or perhaps you'll be made of cold metal and
+Tundari from the jungles of Tundar? Or perhaps you'll be made of cold metal and
 science and will play as a Security Drone constructed within the Compound X 
 itself. Only you can decide!
 
@@ -85,7 +85,7 @@ first-time RPG players or Compound X players.
 
     Tundari are fur-covered bipedal organic mammals. They have whiskers and a 
 tail, each of varying lengths. Tundari come from the violently alive planet of
-Tundaar. Tundari as a species are fierce, cunning, curious and playful. 
+Tundar. Tundari as a species are fierce, cunning, curious and playful. 
 
     Tundari can dominate as any class. For example, you could play as the silent
 padfooted assassin, whose enemies never knew she was there until it was too 

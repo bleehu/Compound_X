@@ -313,9 +313,9 @@ STANDARD BALLISTIC ARMOR MATERIALS
 ==============================
 
 	Adding any Armor Materials to a Chest, Leg, or Arm Rig adds to your 
-movement speed penalties by -1m per Material added. The secondary stat,
-"Carry Strength", cancels out movement speed penalties; for more information,
-see section "Player Stats," in the Basic Rules document.
+movement speed penalties by -1m per Material added. The Capability "Carry 
+Strength", cancels out movement speed penalties; for more information, see 
+section "Capabilities," in the Basic Rules document.
 
 =====   LEVEL 1 REQUIREMENT MATERIALS   =====
 
