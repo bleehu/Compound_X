@@ -488,6 +488,21 @@ kicking, not throwing. The grenade is considered "cooked" wherever it lands
 after being kicked. This means that the enemy characters don't get the same 
 chance to make a Reflex Save.
 
+== Rhino ==
+
+Prerequisites:
+
+* Fortitude > 6
+
+    You have more mass and momentum than most are used to dealing with. That 
+makes your stubburn movement hard to control on the battlefield.
+
+    You gain 15 maximum health, and a +1 to Shock saves. If an effect would 
+reduce your speed below 2 as a result of a melee or grenade hit, ignore that
+effect (you still take damage as normal). If an effect would prevent you from
+taking the disengage action, you may do so anyway at the cost of one extra 
+Action.
+
 == Salty Hashtables ==
 Prerequisites:
 
