@@ -83,6 +83,24 @@ sticky situation then you won't get to hear from him anyway.
 range bracket. For more information on hip firing, see the "Hip Firing" section
 of the Shooting Rules document in the Combat Rules directory.
 
+== Boxer Step ==
+
+Prerequisites:
+
+*  Dex > 3
+*  Unarmed Training
+
+    You've mastered the simple, but imperative art of quickly advancing in close
+combat. This makes it really hard for an enemy to create space between you to
+avoid your reach.
+
+    If an enemy tries to disengage, they must first make a Reflex save. If they
+succeed, they may disengage as normal. If they fail, they may move 1m, and you
+may follow them. Their disengage fails, and they cannot attempt to disengage
+again this turn. 
+    
+    The DC of the Reflex save is 62 + (5 x character level)
+
 == Bulltrue ==
 Prerequisites: 
 
