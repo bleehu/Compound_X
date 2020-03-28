@@ -245,8 +245,8 @@ Armor Piercing Level: 2
 
 	Ranged Miss Chance
 
-* 5 out to 7 meters
-* 6 out to 15 meters
+* 2 out to 7 meters
+* 4 out to 15 meters
 
 	May be used for melee strikes with a -1 Accuracy penalty. 
 Can carry 2 per Secondary Ammo Slot.
@@ -262,8 +262,8 @@ Armor Piercing Level: 3
 
 	Ranged Miss Chance
 
-* 5 out to 10 meters
-* 6 out to 15 meters
+* 2 out to 10 meters
+* 4 out to 15 meters
 
 	May be used for melee strikes with a -1 Accuracy penalty. 
 Can carry 1 per Secondary Ammo Slot.
@@ -279,8 +279,8 @@ Armor Piercing Level: 4
 
 	Ranged Miss Chance
 
-*  5 out to 8 meters
-*  6 out to 15 meters
+*  1 out to 8 meters
+*  3 out to 15 meters
 
 	May be used for melee strikes with a -1 Accuracy penalty. 
 Can carry 3 per Secondary Ammo Slot. When thrown, +30 to stealth 
@@ -295,8 +295,8 @@ Armor Piercing Level: 5
 
 	Ranged Miss Chance
 
-* 5 out to 8 meters
-* 6 out to 15 meters
+* 1 out to 8 meters
+* 3 out to 15 meters
 
 	May be used for melee strikes with a -1 Accuracy penalty. 
 Can carry 3 per Secondary Ammo Slot.
