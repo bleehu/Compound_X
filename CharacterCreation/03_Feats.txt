@@ -975,6 +975,25 @@ either go prone or hunker somewhere in that square (you choose). Attacks made
 against you during the use of Cover Slide have -1 Accuracy. Cover Slide cannot be 
 used at the same time as Run 'N' Gun.
 
+== Curb Stomp ==
+
+Prerequisites:
+
+*  Unarmed Combat Training
+*  Strength > 7 or Fortitude > 7
+
+Cooldown: 1 Round
+Duration: 1 Action
+
+    With either the most pity or absolutely none, you usher your enemy to the
+afterlife with the brutal and swift blow from your boot.
+
+    You may make melee attacks against prone targets without switching weapons.
+When you do, you deal 100 damage that ignores armor. If the target survives,
+they must succeed on a shock save of DC 90 or be Stunned for a round. If the 
+target is bleeding out, instead of dealing damage, they simply fail three Death 
+Saving Throws instead.
+
 == Duck, Bob and Weave ==
 
 Prerequisites:
