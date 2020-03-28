@@ -79,12 +79,18 @@ Armor Piercing Level: 1
 Reflex Modifier: -10
 Reflex Save: 100
 
-    Each Target within the blast radius takes three shrapnel hits. 45 ballistic 
-damage per hit, automatically hits armor. Targets take full damage to the torso, 
-legs, and arms (if armor is pierced or not present): (3*45 damage)+2xBleed 
-within a 2.5m radius.Only legs and torso (2*45 damage)+1xBleed within a 5m 
-radius. At least one hit must damage health to cause Bleed. Recall that multiple 
-hits create separate wounds, which each must be healed separately.
++-------+------+----------------+----------------+
+| Range | Hits | Damage per Hit |  Bleed Tokens  |
++-------+------+----------------+----------------+
+| 2.5 m |   3  |   45 damage    | 2 bleed tokens | 
++-------+------+----------------+----------------+
+|  5 m  |   2  |   45 damage    | 1 bleed token  |
++-------+------+----------------+----------------+
+
+    Each Target within the blast radius takes hits accoding to the table above. 
+Grenade shrapnel automatically hits armor if it is present. At least one hit 
+must damage health to cause Bleed. Recall that multiple hits create separate 
+wounds, which each must be healed separately.
 
     Each character in the radius of a Frag Grenade's range when it goes off may
 make a Reflex Save of DC 100. If they succeed, they may dive prone up to their
@@ -124,12 +130,18 @@ Armor Piercing Level: 2
 Reflex Modifier: -10
 Reflex Save: 120
 
-    Each Target within the blast radius takes three shrapnel hits. 50 ballistic 
-damage per hit, automatically hits armor. Targets take full damage to the torso, 
-legs, and arms (if armor is pierced or not present): (3*50 damage)+2xBleed 
-within a 3m radius. Only legs and torso (2*50 damage)+1xBleed within a 6m radius. 
-At least one hit must damage health to cause Bleed. Recall that multiple hits
-create separate wounds, which each must be healed separately.
++-------+------+----------------+----------------+
+| Range | Hits | Damage per Hit |  Bleed Tokens  |
++-------+------+----------------+----------------+
+|  3 m  |   3  |   50 damage    | 2 bleed tokens | 
++-------+------+----------------+----------------+
+|  6 m  |   2  |   50 damage    | 1 bleed token  |
++-------+------+----------------+----------------+
+
+    Each Target within the blast radius takes hits accoding to the table above. 
+Grenade shrapnel automatically hits armor if it is present. At least one hit 
+must damage health to cause Bleed. Recall that multiple hits create separate 
+wounds, which each must be healed separately.
 
     Each character in the radius of a Frag Grenade's range when it goes off may
 make a Reflex Save of DC 110. If they succeed, they may dive prone up to their
