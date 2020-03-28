@@ -67,12 +67,13 @@ Outfits can include both footwear and outerwear.
 +------------------------+------------------------------------------------------------------------------+
 | Tundari society is concentrated primarily on Tundar Prime, but your family set out into the galaxy.   |
 | Whether by choice or by exile, they have built a new home and you grew up surrounded by diverse alien |
-| species, carving a life out of recently-terraformed rock.						|
+| species, carving a life out of recently-terraformed rock.						                        |
 +------------------------+------------------------------------------------------------------------------+
 | Colony World- Opaleite | Gain Languages- Opaleite Trade: Vocal or Opaleite Trade: Sign (+ 1 dialect), |
 |                        | 1 Common or Trade Language of choice. Gain 0.5 set of Nanites.               |
 +------------------------+------------------------------------------------------------------------------+
-|                    |
+| The distant comet-mining colonies of the Opalite Coalition is where you hail from. You grew up either |
+| in a swampy space station or a moist habitat on a planet that hasn't been teraformed yet.             |
 +------------------------+------------------------------------------------------------------------------+
 | Space Station          | Gain Languages- 2 Common or Trade Languages of choice (+1 dialect).          |
 |                        | Gain 0.5 set of Nanites.                                                     |
