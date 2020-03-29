@@ -417,46 +417,12 @@ or Stabilize a dying character. For stabalizing a dying character, see the
 "Stabalizing" section under "Death and Dying" in the Combat Rules.
 
     Using a medkit or a repair kit to heal a wounded character in combat takes 3 
-Actions. Each healing application heals only one wound at a time. In order for
-any healing to happen, the healer must make a repair or medicine skill check 
-where the DC is the amount of damage that the wound inflicted. The amount of 
-healed hit points is equal to how much the healer overshot the skill check. If a
-wounded character has more than one injury, which injury is being healed must be
-indicated by the healing player before the healing roll is made.
-
-    Player Characters of certain classes, like Doctor or Engineer have certain
-abilities that they unlock as they level up that may allow them to heal or 
-repair other characters without a med kit or repair kit.
-
-	For example, Buster gets shot by an SMG for 40 damage and gets shot again by
-a sniper for 80 damage. Buster now has two wounds, the SMG hit and the sniper 
-hit. Buster's friend Sheela uses a medkit to heal the SMG hit. Sheela has a med
-skill of 10, a dex mod of 8 and rolls a 45.
-
-    Healing = (medicine skill) + (dex mod) + (medkit) + (roll) - (wound damage)
-
-    or
-
-    Healing = (repair skill) + (dex mod) + (repair kit) + (roll) - (wound damage)
-
-    So for our example, Sheela has healed (10 + 8 + 30 + 45 - 40) = 53 hit 
-points, but the SMG wound was only 40 damage, so Sheela completely heals the SMG 
-wound and Buster only gets 40 HP back.
-
-    Continuing the example, let's suppose that on her next turn, Sheela uses a
-second medkit to try to heal Buster's sniper wound. She rolls a 12, which means
-that she healed (10 + 8 + 30 + 12 - 70) = -10, but using a medkit or repair kit
-to heal a character can't damage them further, so Buster simply heals 0 health.
-Sheela will spend the health kit even if no health is healed.
-
-    For her third turn, Sheela tries again to heal the sniper wound, and rolls
-a 42 this time. So now she's healing 20 health. The sniper wound is still there,
-but Buster can have 20 health back, and the next time someone tries to heal the
-sniper wound, it will be easier. For her fourth turn, Sheela spend one more 
-medkit and rolls a 62. Note that since the sniper wound was partially healed,
-the wound damage in the equation is smaller; (10 + 8 + 30 + 62 - (70 - 20 healed 
-already)) = 50 damage healed. This will completely fix the sniper wound and 
-Buster will get exactly 50 damage healed, since that's how much he was missing.
+Actions. Player Characters of certain classes, like Doctor or Engineer have 
+certain abilities that they unlock as they level up that may allow them to heal 
+or repair other characters without a med kit or repair kit. If the skill check
+is passed, the wounded character's health points are restored by a number listed
+on the item. If the skill check is failed then the wound is not healed, but the
+wound does not get any worse. 
 
 ==============================
 Resting

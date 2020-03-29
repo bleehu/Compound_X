@@ -1194,26 +1194,26 @@ purge debuffs unless you have 14 Charisma*
 
 Charisma = 6:
     Once per encounter, once per turn if you aren't knocked out, as an immediate
-reaction to being at or below half health, roll 1d10. If <= 5, heal one wound
-up for up to +15 hitpoints. If >5 heal one wound for up to +20 hitpoints.   
+reaction to being at or below half health, roll 1d10. If <= 5, heal up to +15 
+hitpoints. If >5 heal up to +20 hitpoints.   
 
 Charisma = 8:
     Twice per encounter, once per turn if you aren't knocked out, as an immediate 
 reaction to being at or below half health, roll 1d10. If <= 5, heal one wound
-up for up to +15 hitpoints. If >5 heal one wound for up to +20 hitpoints.   
+up for up to +15 hitpoints. If >5 heal up to +20 hitpoints.   
 
 Charisma = 10:
     Twice per encounter, once per turn if you aren't knocked out, as an immediate 
 reaction to being at or below half health, roll 1d10. If <= 5, heal one wound
-up for up to +20 hitpoints. If >5 heal one wound for up to +30 hitpoints.   
+up for up to +20 hitpoints. If >5 heal up to +30 hitpoints.   
 
 Charisma = 12:
     Twice per encounter, once per turn if you aren't knocked out, as an immediate 
 reaction to being at or below half health, roll 1d10. If <= 5, heal one wound
-up for up to +25 hitpoints. If >5 heal one wound for up to +40 hitpoints.
+up for up to +25 hitpoints. If >5 heal up to +40 hitpoints.
 
 Charisma = 14:
     Twice per encounter, once per turn if you aren't knocked out, as an immediate 
 reaction to being at or below half health, roll 1d10. If <= 5, heal one wound
-up for up to +25 hitpoints. If >5 heal one wound for up to +40 hitpoints. In 
+up for up to +25 hitpoints. If >5 heal up to +40 hitpoints. In 
 addition, purge 1 damage-over-time debuff (such as Plasma Burn or Poison).
