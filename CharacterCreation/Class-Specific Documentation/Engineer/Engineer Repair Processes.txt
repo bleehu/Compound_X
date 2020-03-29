@@ -47,10 +47,13 @@ Range:        Touch
 deal 10 blunt melee damage to it. Roll luck modifier, with a DC of 1.5 x 
 target's total damage after wrench hit. Add to that DC 10 for each minor status 
 effect and 15 for each major status effect, at the GM's discretion. If The DC is 
-passed, fix all minor status effects, one major status effect, or heal one 
-wound. This process may only be performed on cybernetic allies, turrets, 
-vehicles or as an RP event. Not to be confused with the Concussive Maintenance 
-Feat.
+passed, pick an option from the list below. This process may only be performed 
+on cybernetic allies, turrets, vehicles or as an RP event. Not to be confused 
+with the Concussive Maintenance Feat.
+
+*  Heal all minor conditions
+*  Heal one major condition
+*  Heal 25 + 5d10 health
 
 == Defrag   == 
 Potential Gain:15
@@ -164,9 +167,25 @@ Action:     2 Actions
 Duration:   N/A
 Range:      Touch
 
-    Ok, there was a little more to it than that. One of your targets wounds are 
-healed. This trick only works on cybernetic allies, non-sentient robots and 
-machinery.
+    You must have your Extruder drawn in order to use this ability. This process
+only works on a cybernetic patient. Your patient heals an ammount of health 
+listed on the table below. As your character learns more repair skill, the 
+better they heal. Unless otherwise stated, this ability cannot heal a patient 
+above half health.
+
++-----------------+--------------+--------+
+| Med Skill Above | Base Healing |  Dice  |
++-----------------+--------------+--------+
+|       9         |     20       | + 2d10 |
++-----------------+--------------+--------+
+|       19        |     30       | + 3d10 |
++-----------------+--------------+--------+
+|       29        |     35       | + 4d10 |
++-----------------+--------------+--------+
+|       39        |     40       | + 5d10 |
++-----------------+--------------+--------+
+|       49        |     50       | + 6d10 |
++-----------------+--------------+--------+
 
 == Weapon Tuning    == 
 Potential Gain:20
@@ -192,15 +211,20 @@ vehicles, it does add a Potential reward for doing so. It also increases the
 effect and may reduce the time taken to repair. 
 
 
-== Multisys Repair  == 
-Potential Gain:30*n
+== Fortify  == 
+Potential Gain: 30
 Action:     2 Actions
 Duration:   N/A
 Range:      Touch
 
-    The cybernetic ally is healed by the Engineer's heal roll / n, where n is 
-the number of wounds that the cybernetic ally has. This trick only works on 
-cybernetic beings or machines.
+    You set your extruder to emit a light, ballistic-absorbing crystalizing gel.
+It doesn't last very long in the elements and slowly turns to dust as the patient
+moves, but it reduces incoming kinetic and thermal engery wonderfully. It has
+carcenogenic proporties when used on organic matter.
+
+    You must have your extruder drawn in order to use this process. This process
+only works on cybernetic patients. The patient gets temporary health equal to
+4 d10. Temporary health goes to zero at the end of the encounter.
 
 == Micro Assembler  == 
 Potential Gain:50

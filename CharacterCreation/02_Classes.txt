@@ -251,8 +251,7 @@ creation, you gain a multipurpose extruder tool as an item in your inventory.
 This multipurpose tool is used to perform the Engineering Processes which are 
 unique to your Class. You also start out with 80 Material. 
 
-	At level 6, the Feat "With Friends Like These . . ." is automatically 
-unlocked. At level 10, your maximum Engineering Materials expands to the below.
+	At level 10, your maximum Engineering Materials expands to the below.
 
 * 800 Maximum Potential
 * 1250 Maximum Material

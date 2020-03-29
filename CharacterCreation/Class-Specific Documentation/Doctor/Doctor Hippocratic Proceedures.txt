@@ -7,32 +7,92 @@ Adrenaline Reward: 40 Points
 Contagion Reward: 1 Contagion 
 Range:          Touch
 Action:         2 Actions
-    One of the target's wounds are healed. This trick only works on biologic 
-patients.
+    
+    You use your biofoam appllicator to spray the smelly green foam into their
+wounds. The miracle of modern science rapidly reconnects arteries and veins and
+begins to mimic destroyed organs and muscle tissue. It hurts like hell, but it
+will give them a chance to keep it together long enough to get a more permanent
+solution back at base. 
+
+    You must have your Field Applicator drawn in order to use this ability. Your
+patient heals an ammount of health listed on the table below. As your character
+learns more medicine skill, the better they heal. Unless otherwise stated, this
+ability cannot heal a patient above half health.
+
++-----------------+--------------+--------+
+| Med Skill Above | Base Healing |  Dice  |
++-----------------+--------------+--------+
+|       9         |     20       | + 2d10 |
++-----------------+--------------+--------+
+|       19        |     30       | + 3d10 |
++-----------------+--------------+--------+
+|       29        |     35       | + 4d10 |
++-----------------+--------------+--------+
+|       39        |     40       | + 5d10 |
++-----------------+--------------+--------+
+|       49        |     50       | + 6d10 |
++-----------------+--------------+--------+
 
 ==Defib ==
 Adrenaline Reward:  80 Points
 Contagion Reward: 2 Contagion
 Range: Touch
 Action: 2 Actions
-    Only usable on an person that is bleeding out. The person is no longer 
-downed and has 30 hp, rather than having to stabilize the target and then heal 
-them as a separate action. This trick only works on biologic patients.
 
-==Rub Some Dirt In It ==
-Adrenaline Reward:  30*n Points
-Contagion Reward: n (max 3) Contagion
-Range: Touch
-Action: 2 Actions
-    The patient is healed by the Doc's heal roll / n, where n is the number of 
-wounds that the patient has. This trick only works on biologic patients.
+    You adjust the dials on your biofoam injector to compensate for loss of
+vital fluids and to administer the correct frequency and wattage of tachycardia
+interuptor shock. This is gonna hurt like hell, but they'll live to complain 
+about it at least. Who knows? Maybe they'll even say "Thank you!" this time?
+
+    You must have your Field Applicator drawn in order to use this ability. Only 
+usable on an organic patient that is bleeding out. The person is no longer 
+downed and has 10+2d10 Health Points, rather than having to stabilize the target 
+and then heal them as a separate action.
+
+== Pre-op traige ==
+Adrenaline Reward:  30 Points
+Contagion Reward: 1 Contagion
+Range: 10m
+Action: 1 Action
+
+    You scan the patient and dial your Field Applicator to match the patient's
+unique biochemestry. You also take the time to more closely inspect the patient's
+injuries and prognosticate the battlefield's effect on their condition. Your
+keen eye and experience allows you to better treat your patient's maladies. 
+
+    You must have your Field Applicator drawn in order to use this ability. This 
+trick only works on biologic patients. If you use another procedure on this 
+patient either this turn or the next turn that says you can only heal them up
+to half health, you may ignore that limitation.
 
 ==Remote Surgery ==
 Adrenaline Reward:  20
 Range:          20m
 Action:         2 Actions
-    One of the patient's wounds are healed for half of the Doc's heal roll. This 
-trick only works on biologic patients.
+
+    Let's take this show on the road! You carefully feed out an omni-glob from
+your trusty applicator and throw it at your distant patient. Then, turning to
+your applicator, direct its functions from afar. 
+
+    You must have your Field Applicator drawn in order to use this ability, and 
+you must be able to see your patient. Your patient heals an ammount of health 
+listed on the table below. As your character learns more medicine skill, the 
+better they heal. Unless otherwise stated, this ability cannot heal a patient 
+above half health.
+
++-----------------+--------------+--------+
+| Med Skill Above | Base Healing |  Dice  |
++-----------------+--------------+--------+
+|       14        |     10       | + 2d10 |
++-----------------+--------------+--------+
+|       24        |     20       | + 3d10 |
++-----------------+--------------+--------+
+|       34        |     25       | + 4d10 |
++-----------------+--------------+--------+
+|       44        |     30       | + 5d10 |
++-----------------+--------------+--------+
+|       54        |     40       | + 6d10 |
++-----------------+--------------+--------+
 
 ==Remote Defib ==
 Adrenaline Reward:  65 Points
@@ -92,6 +152,7 @@ biologic patients.
 Adrenaline Reward:  5 Points
 Range: 10m
 Action: 1 Action
+
     You take a brief second to scan an enemy using your diagnostic equipment. 
 You find out the relative strength of his shields and can enumerate his wounds 
 and remaining health. You also are aware of any special effects or obvious 
@@ -156,8 +217,8 @@ Adrenaline Reward:  30 * n Points
 Contagion Reward: n Contagions
 Range:  6m circle, doc is the origin
 Action: 2 Actions
-    Every biologic patient in range has one wound healed by 40 points. The doc 
-gets n adrenaline points back where n is the number of patients healed. Heals 
+    Every biologic patient in range is healed by 25 + 5d10 Health Points. The doc 
+gets n contagions back where n is the number of patients healed. Heals 
 allies and enemies. The doc gets a -200 to stealth rolls when performing this 
 procedure.
 
@@ -166,9 +227,10 @@ Adrenaline Reward:  30 * n Points
 Contagion Reward: n Contagions
 Range: 6m circle, doc is the origin
 Action: 2 Actions
-    Every biologic patient in range has Two wounds healed by 40 points. The doc 
-gets n adrenaline points back where n is the number of wounds healed. Only Heals 
-Allies. The doc gets a -50 to stealth rolls when performing this procedure.
+
+    Every biologic patient in range is healed by 40 + 8d10 points. The doc gets 
+n contagions back where n is the number of patients healed. Only Heals Allies. 
+The doc gets a -50 to stealth rolls when performing this procedure.
 
 ==5-HT Inhibitor ==
 Adrenaline Reward:  10 Points
