@@ -1,0 +1,439 @@
+==============================
+Repair Processes 
+==============================
+
+===== Cyberphysical =====
+
+== Reboot   == 
+Potential Gain:65
+Action:     2 Actions
+Duration:   N/A
+Range:      Touch
+
+    Only usable on cybernetic allies that are "bleeding" out. That ally
+is now stable and has 30 hp, rather than having to stabilize the target and 
+then heal them. Not a quiet procedure; detectable within 40m by a perception 
+check of 30.
+
+== Data Scrub   == 
+Potential Gain: 35
+Action:      1 Action
+Duration:    N/A
+Range:       Touch
+
+    Only usable on cybernetic allies who have been hacked or dominated.
+The engineer makes a repair check opposed by half of the hacker's hack check or
+dominator's domination check. If the engineer wins, the ally or system is 
+scrubbed and the system control returns to normal. The engineer only receives 
+Potential for successful scrubs. Be aware that engineers are the only class with 
+this Process, but not the only class that can scrub a hacked target.
+
+== Restore Armor    == 
+Potential Gain:   50
+Action:        2 Actions
+Duration:      Almost Instant
+Range:         Touch
+
+    You tinker with your ally's armor and mend it. Undo any debuffs on
+your ally's armor such as sundering, battle damage, etc. 
+
+== Percussive Maintenance   == 
+Potential Gain:  30
+Action:       1 Action
+Duration:     Almost Instant
+Range:        Touch
+
+    This stupid thing is broken again! You hit it with your wrench and
+deal 10 blunt melee damage to it. Roll luck modifier, with a DC of 1.5 x 
+target's total damage after wrench hit. Add to that DC 10 for each minor status 
+effect and 15 for each major status effect, at the GM's discretion. If The DC is 
+passed, fix all minor status effects, one major status effect, or heal one 
+wound. This process may only be performed on cybernetic allies, turrets, 
+vehicles or as an RP event. Not to be confused with the Concussive Maintenance 
+Feat.
+
+== Defrag   == 
+Potential Gain:15
+Action:     1 Action
+Duration:   Until First Use
+Range:      Touch
+
+    You auto-balance your cybernetic ally's priority queues, defrag
+their memory and basically perform typical maintenance. Feeling refreshed,
+your ally continues on their way. Your ally gets a +5% bonus to their next
+RP roll.
+
+== Actuator Overdrive   == 
+Potential Gain:20
+Action:     1 Action
+Duration:   engagement
+Range:      Touch
+
+    For the duration of an engagement, an ally moves 3m per action more. Ally 
+movement has an absolute cap of 14m per action, even if some other effect
+would make it higher. A player may not be overdriven/overclocked more than 
+once per engagement. Only works on cybernetic allies.
+
+
+== Discrete Overclock   == 
+Potential Gain:20
+Action:     1 Action
+Duration:   Engagement
+Range:      Touch
+
+    A cybernetic ally gets a -1 to miss for the duration of the engagement. They 
+also get a +15 to reloading weapons quickly and a +10 to perception checks. 
+Cannot Overclock an Ally more than once per engagement.
+
+== Network Targeting    == 
+Potential Gain:20
+Action:     1 Action
+Duration:   Until First Use
+Range:      Touch
+
+    You interface a visual triangulation unit with your cybernetic 
+ally's visual sensors. It cross-references targets with other friendly 
+machine's sensors to deliver a more complete image of the target. Your
+cybernetic ally gets a -1 to miss their next target for each friendly
+drone, robot and turret that is also looking at that target. This effect
+may be blocked with a hacking attack at DC 20. 
+
+== System Overclock == 
+Potential Gain:35
+Action:     1 Action
+Duration:   Engagement
+Range:      Touch
+
+    A cybernetic ally gets a -2 to miss for the duration of the engagement.
+They also get a +35 to reloading weapons quickly and a +10 to perception checks, 
+but take 20 Internal Damage from system overheat.
+
+== Colocation Processing    == 
+Potential Gain:20
+Action:     1 Action
+Duration:   Until First Use
+Range:      6m
+
+    You use your onboard manufacturing system processor as a dedicated
+server to help process your cybernetic ally's analytic data. The next time that
+ally makes a lockpick, hacking, explosives, repair, heal, or tracking check, 
+they get a +15 to it. 
+
+== Regression Override  == 
+Potential Gain:60
+Action:     1 Action
+Duration:   8 Rounds
+Range:      Touch
+
+    You temporarily disable your cybernetic ally's regression process,
+the part of their personality program that slows down to triple check the 
+results of their actions. This sends them into a rage mode. They still know
+friend from foe, and they still have a janky understanding of their higher-
+order skills like lockpicking, hacking, or social finesse, but they have no
+fear, no pain, no remorse and no hesitation for about half of a minute. Your
+ally Cannot feel shock during this duration, and cannot be repaired (they
+won't stand still). 
+
+    Your Cybernetic Ally gets a bonus +3 to accuracy nearer than 41m. They also 
+deal an extra 20 damage with melee hits and may aim as a free action with a 
+ranged weapon as long as they pass a REF check of DC 60. They take a penalty of 
+-25% to skill checks, including acrobat or athletics checks (these take 
+regression to calculate). An ally affected by Regression Override may use a 
+Strength +2 bonus at any time, but each time they do, they take 20 Internal 
+Damage of wear and tear. An Engineer can only perform a Regression Override 
+once per Encounter. Regression Overrides do not stack.
+
+== System Restore   == 
+Potential Gain:35
+Action:     2 Actions
+Duration:   Permanent
+Range:      Touch
+
+    Can only be used on a cybernetic subject whose primary data center is still 
+intact that has "bled out" less than 8 Rounds ago. The Engineer makes a DC 60 
+Repair check. If successful, the subject is now "bleeding out". If the subject 
+is saved, they get the feat "Refurbished". Characters with the "Refurbished" 
+feat have a permanent -1 to Intelligence and can never again be revived with 
+System Restore.
+
+===== Material/Mechanic =====
+
+== Duct Tape    == 
+Potential Gain:40
+Action:     2 Actions
+Duration:   N/A
+Range:      Touch
+
+    Ok, there was a little more to it than that. One of your targets wounds are 
+healed. This trick only works on cybernetic allies, non-sentient robots and 
+machinery.
+
+== Weapon Tuning    == 
+Potential Gain:20
+Action:     1 Action
+Duration:   engagement
+Range:      Touch
+
+    You fiddle with your ally's gun quickly. You tune the whosits, and
+dial the whatsits. It now has a -1 to its Miss Chances in all range brackets and 
+has half the chance of jamming, rounded down. Normal use and wear on the gun will 
+almost definitely unalign what you've done by the end of the engagement, but 
+hopefully your efforts will help keep your ally alive until then.
+
+== Vehicle Repair   == 
+Potential Gain:40
+Action:     4 Actions
+Duration:   almost instant
+Range:      Touch
+
+    You pull out your tools and quickly repair the damage to a friendly
+vehicle. It gains 1 vehicle health. While this power is not required to repair
+vehicles, it does add a Potential reward for doing so. It also increases the 
+effect and may reduce the time taken to repair. 
+
+
+== Multisys Repair  == 
+Potential Gain:30*n
+Action:     2 Actions
+Duration:   N/A
+Range:      Touch
+
+    The cybernetic ally is healed by the Engineer's heal roll / n, where n is 
+the number of wounds that the cybernetic ally has. This trick only works on 
+cybernetic beings or machines.
+
+== Micro Assembler  == 
+Potential Gain:50
+Action:     1 Action
+Duration:   8 Rounds
+Range:      Touch
+
+    You release a spider-like micro repair bot that repairs a cybernetic
+ally for 8 Rounds before running out of power. The microbot is able to heal
+15 health per turn. Once spent, the microbot burns itself up. A Microassembler 
+uses wireless cloud calculation to stay small, but on-blueprint. As such, it is 
+vulnerable to hack checks at a DC of 50. A hacked micro assembler reveals its 
+location and may deal 5 Internal Damage per Round at the end of the hacker's 
+turn.
+
+== Engine Tuning    == 
+Potential Gain:50
+Action:     6 Actions
+Duration:   Almost Instant
+Range:      Touch
+
+    You crack open the hood of whatever vehicle is around and begin to
+clean the spark plug, dial in the cylinder timing and add your own special
+sauce to the engine's fuel injector. It will now run at 125% power, and it has
+full health. Effect may vary by RP. See GM for details. While this power is not
+required to boost the effect of a vehicle, it now rewards you in Potential for
+doing so and increases your effectiveness at doing so.
+
+== Boilerplate Handiwork    == 
+Potential Gain:   20 Potential
+Material Cost: 20 Material
+Action:        1 Action
+Duration:      Permanent
+Range:         Touch
+
+    Just slam some more metal on there! You add a protective layer to
+one of your cybernetic allies. This adds 40 to their health, but slows them
+down by 1m per action. This effect lasts until that 40 health has been 
+destroyed, or until the engineer takes it off and discards it.
+
+== Zero Friction Covalent   == 
+Potential Gain:20
+Action:     1 Action
+Duration:   Until next melee hit
+Range:      Touch
+
+    You coat your ally's weapon with a friction-negating substance that
+binds with the blade on the molecular level, which makes it easier to slice 
+through targets. Add one to the weapon's damage multiplier. The substance isn't
+very durable and is difficult to handle, so an engineer can't use it on their
+own weapon and the effect only lasts until the next hit. Cannot be used on a 
+weapon more than once at a time.
+
+== Sup it Up    == 
+Potential Gain:80
+Action:     12 Actions
+Duration:   Permanent
+Range:      Touch
+
+    Target friendly vehicle has full health, and its engine runs at
+maximum efficiency. Full effect is up to Role Playing and GM. Additions
+include but are not limited to:
+
+*  adding a NOS tank
+*  adding a 1-vehicle damage shield
+*  adding stabilized chassis for improved accuracy when fired from 
+
+== Ceramic Catalyst == 
+Potential Gain: 15 Potential
+Action:         2 Actions
+Duration:       10 Rounds or 2 hits
+Range:          Touch
+
+    An adhesive mist of kinetic-reactive ions that cause ceramic armor plates to 
+absorb hits more efficiently by powdering instead of cracking. Toxic, but 
+slow-acting to most biologic life forms. Can only be used on cybernetic allies 
+with light, medium, heavy or full armor. Reduces the next bullet hit by 50 
+points of damage. Looks kinda like yellow ooze. Gives an ally affected by 
+Ceramic Catalyst a -20 penalty to visual stealth rolls. An engineer cannot use 
+ceramic catalyst on themselves. Ceramic Catalyst decays after exposure to 
+elements for ten Rounds or three hits, whichever happens first. 
+
+== Microbot Swarm   == 
+Potential Gain:40 * n
+Action:     1 Action
+Duration:   8 Rounds
+Range:      4m radius
+
+    You release a swarm of spider-like micro repair bots that repair 
+cybernetic allies for 8 Rounds before running out of power. The microbots are 
+able to heal 15 health per Round at the end of the ally's Turn. The microbots 
+burn up if one of their subjects is affected by plasma burn. For this, the 
+Engineer gains 40 * n Potential, where n is the number of allies affected. The 
+Engineer can only perform this once per engagement. A Microassembler uses 
+wireless cloud calculation to stay small, but on-blueprint. As such, it is 
+vulnerable to hack checks at a DC of 50. A hacked micro assembler reveals its 
+location and may deal 5 Internal Damage per Round at the end of the hacker's 
+turn. The microbot swarm director automatically detects disobedient microbots 
+and notifies the Engineer, but cannot stop the damage from happening. 
+
+===== Optronic/Cycotonic =====
+
+== Repulsor Recharge    == 
+Potential Gain: 20 Potential
+Action:         1 Action
+Duration:       Immediate
+Range:          Touch
+
+        Recharges an ally's shield by 60 points. Cannot be used to
+charge an ally's shields over their max value. An Engineer cannot recharge
+their own shields.
+
+== Sensory Fuse == 
+Potential Gain: 10 Potential
+Action:         1 Action
+Duration:       Until fuse pops
+Range:          Touch
+
+        You install an auto-ejecting Sensory Overload Fuse in your
+cybernetic ally's audio and visual signal processors. The fuse pops and 
+negates the effect of a flashbang or other such device. Fuses take a steady
+hand to install, so an engineer cannot install one in themselves.
+
+
+== B-Filter Buffer  == 
+Potential Gain: 15 Potential
+Action:         1 Action
+Duration:       For one visual perception check
+Range:          Touch
+
+    Adds a hyper-fast self-consuming buffer between a cybernetic ally's 
+optics and their processor. This filter interfaces with the Bayer Filter to 
+remove false artifacts and perform several Just-In-Time post processing. Uses 
+a disposable one-time use paracrystal network that degrades after a time for 
+optimal efficiency. Increases ally's visual perception by 10%.
+
+== Repulsor Overcharge  == 
+Potential Gain: 25 Potential
+Action:         1 Action
+Duration:       Immediate
+Range:          Touch
+
+        Recharges an ally's shield by 60 points. May be used to charge
+an ally's shields to up to 30 points above their maximum. Shields will 
+normalize down to their maximum after ten Rounds. 
+
+== Refractory Spray == 
+Potential Gain: 15 Potential
+Material Cost:  15 Material
+Action:         2 Actions
+Duration:       Immediate
+Range:          Touch
+
+    An adhesive mist of refractive particles that absorb laser and plasma fire 
+quite well. Reduces either the next plasma/VAE hit by 65 points of damage or 
+laser hit by 45 damage. It also prevents the first damage-over-time effect from 
+that hit (such as plasma burn), if it has one. Looks kinda like sticky glitter. 
+Gives an ally affected by Refractory spray a -20 penalty to visual stealth 
+rolls. Refractory Spray can be detected by metal detectors. Refractory Spray 
+loses cohesion after ten Rounds or burns up if hit by a plasma or laser attack.
+
+    At level 10, you learn how to apply the spray more evenly and to apply it
+more liberally to areas that you have seen get hit more often. As such, you are
+able to stop 80 points of VAE or plasma damage or 60 points of laser damage.
+
+== Tune Laser   == 
+Potential Gain: 30 Potential
+Action:         2 Actions
+Duration:       5 Rounds
+Range:          Touch
+
+    You dial in the potentiometers and realign the focusing crystals. Your 
+ally's laser weapon deals an extra 20 points of damage per hit and has a -1 to 
+miss (To a minimum to-miss of -0 when target is in light cover). These 
+adjustments will likely lose precision after 5 Rounds of combat, and the weapon
+will return to the state it was in before tuning.
+
+== MoCap Augmentation   == 
+Potential Gain: 20 Potential
+Action:         2 Actions
+Duration:       Immediate
+Range:          Touch
+
+    By temporarily reducing the resolution of your cybernetic ally's visual 
+sensors you radically reduce the processing power it takes to capture motion, 
+letting them process more frames per microsecond. This gives them slightly 
+faster reaction times, resulting in a -1 chance to miss when attacking, but 
+makes it much harder to see long distances. Allies with MoCap Augmentation 
+active take a -40 to perception checks at ranges beyond 50m. Since this is less 
+than ideal in non-combat scenarios, you've set it to wear off after ten Rounds.
+
+== Repulsor Projection  == 
+Potential Gain: 10 Potential
+Action:         1 Action
+Duration:       Immediate
+Range:          10m
+
+    Recharges an ally's shield by 40 points. May not be used to charge a shield 
+above its maximum capacity. An engineer may not charge their own shields. 
+
+== Repulsor Hypercharge == 
+Potential Gain: 40 Potential
+Action:         2 Actions
+Duration:       Immediate
+Range:          Touch
+
+    Recharges an ally's shield by 85 points. May be used to charge an ally's 
+shields up to 60 points above their maximum. Shields will normalize down to 
+their maximum by 5 points per Round at the beginning of that player's turn. 
+Hypercharged shields make a distinctive crackling noise; players whose shields 
+are Hypercharged take a -20 to stealth rolls. An Engineer cannot Hypercharge 
+their own shields.
+
+== Broadcast Repulsion  == 
+Potential Gain: 15 * n Potential, where n is the number of shields affected
+Action:         2 Actions
+Duration:       Immediate
+Range:          8m radius centered on engineer
+
+    All allies with shields in the area of effect have their shields recharged 
+by 40 points. This may not charge them over their maximum. If more than two 
+shields were affected and more than 60 points restored total, the feedback wave 
+sets a 10 blunt force damage per Round for 4 turns to any enemies in the area of 
+effect as well. A feedback wave ends the Engineer's turn immediately.
+
+== Plasma Lacer == 
+Potential Gain: 20 Potential and 1 Munitions
+Action:         2 Actions
+Duration:       10 Shots
+Range:          Touch
+
+    You must pass a DC 40 skill check on your ally's weapon to replace their 
+muzzle mod with a Plasma-Lacing capacitor. Their next ten shots set a 2 tokens 
+of Plasma Burn. After that ten shots, the Lacer's capacitor will have grounded 
+and subsequent shots will jam the gun. Your ally will have to make a skill check 
+to swap back their muzzle attachment.

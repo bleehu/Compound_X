@@ -1,0 +1,275 @@
+==============================
+Hippocratic Proceedures
+==============================
+
+==Patch Em Up ==
+Adrenaline Reward: 40 Points
+Contagion Reward: 1 Contagion 
+Range:          Touch
+Action:         2 Actions
+    One of the target's wounds are healed. This trick only works on biologic 
+patients.
+
+==Defib ==
+Adrenaline Reward:  80 Points
+Contagion Reward: 2 Contagion
+Range: Touch
+Action: 2 Actions
+    Only usable on an person that is bleeding out. The person is no longer 
+downed and has 30 hp, rather than having to stabilize the target and then heal 
+them as a separate action. This trick only works on biologic patients.
+
+==Rub Some Dirt In It ==
+Adrenaline Reward:  30*n Points
+Contagion Reward: n (max 3) Contagion
+Range: Touch
+Action: 2 Actions
+    The patient is healed by the Doc's heal roll / n, where n is the number of 
+wounds that the patient has. This trick only works on biologic patients.
+
+==Remote Surgery ==
+Adrenaline Reward:  20
+Range:          20m
+Action:         2 Actions
+    One of the patient's wounds are healed for half of the Doc's heal roll. This 
+trick only works on biologic patients.
+
+==Remote Defib ==
+Adrenaline Reward:  65 Points
+Range:          25m
+Action:         2 Actions
+    The patient is no longer bleeding out and has 20 health. This trick only 
+works on biologic patients.
+
+==Cortical Stimulator ==
+Adrenaline Reward:  200 Points
+Contagion Reward: 4 Contagions
+Range: Touch
+Action: 4 Actions
+    Can only be used on a biologic patient who's head is intact who has bled out
+ and died less than 8 Rounds ago. The Doctor makes a DC 60 heal check. If 
+successful, the patient is now bleeding out. If the patient is saved, gets the 
+feat 'Back from the Dead'. Characters with the 'Back From the Dead' feat have a
+permanent -1m per action move speed, -10 maximum health and can never again be 
+revived by Cortical Stimulator.
+
+==P.E.G.s ==
+Adrenaline Reward:  40 Points
+Contagion Reward: 1 Contagion
+Range:          Touch
+Action:         4 Actions
+    Stands for Persistent Emergent Generalists, a type of surgical nanobot that 
+stays in the patient's bloodstream and continues to administer care over an 
+extended period of time. Effect lasts for 10 Rounds and heals 10 health at the
+end of each of the patient's turns. DC 60 to hack. If nanobots are hacked, deals 
+damage instead. PEGs are easily detectable by tech scanning technologies or 
+spells. PEGs cannot heal a patient over their maximum health.
+
+==Improved P.E.G.s ==
+Adrenaline Reward:  50 Points
+Contagion Reward: 2 Points
+Range: Touch
+Action: 2 Actions
+    Stands for Persistent Emergent Generalists, a type of surgical nanobot that 
+stays in the patient's bloodstream and continues to administer care over an 
+extended period of time. Effect lasts for 5 Rounds and heals 20 health at the
+end of each of the patient's turns. DC 130 to hack. If nanobots are hacked, 
+deals damage instead. PEGs are easily detectable by tech scanning technologies 
+or spells. PEGs cannot heal a patient over their maximum health.
+
+==Mild Stim ==
+Adrenaline Reward: 15 Points
+Needle Cost: 1 Needle
+Range: Touch
+Action: 1 Action
+
+    For 4 Rounds, the patient moves 1m more per action and gets a -1 to miss 
+with guns. As a side effect, the target suffers a +1 to miss with melee weapons. 
+Increasing the dosage does not increase the effects. This trick only works on 
+biologic patients.
+
+==Triage ==
+Adrenaline Reward:  5 Points
+Range: 10m
+Action: 1 Action
+    You take a brief second to scan an enemy using your diagnostic equipment. 
+You find out the relative strength of his shields and can enumerate his wounds 
+and remaining health. You also are aware of any special effects or obvious 
+chemical agents he is being affected by.
+
+==Purge ==
+Adrenaline Reward:  40 Points
+Contagion Reward:   3 Contagion
+Range:          Touch
+Action:         1 Action
+    That's right... let it all out... Tastes a special kind of awful, don't it? 
+You give your ally a quick shot of stuff that makes their system reject any 
+foreign substances in their system. Any malicious Nanites or poisons or toxins 
+or parasites are immediately expelled as they violently puke. This cancels the 
+effect of domination, any NF variants, poison, hallucinogens, ongoing internal 
+burns, depressants, and paralytics other than physical impact. This procedure 
+only works on biologic targets.
+
+==Mild Analgesic ==
+Adrenaline Reward:  10 Points
+Range:          Touch
+Action:         1 Action
+    You shoot your ally with a mild pain reliever, not enough to make them 
+really happy or cloud their mind, but enough to help them work through the pain 
+of a decent injury. For 5 Rounds, your ally gets 30 temporary health. This 
+procedure only works on biologic patients. You may not give a patient more than 
+one dose of analgesic per engagement, lest they suffer dire side effects like 
+irrational happiness, lack of focus, addiction and cardiac arrest.
+
+==Strong Analgesic ==
+Adrenaline Reward:  22 Points
+Contagion Reward: 1 Contagion
+Needle Cost: 1 Needle
+Range:          Touch
+Action:         1 Action
+    You shoot your ally with a strong pain reliever, not enough to make them 
+really happy or cloud their mind, but enough to help them work through the pain 
+of a decent injury. For 5 Rounds, your ally gets 60 temporary health. This 
+procedure only works on biologic patients. You may not give a patient more than 
+one dose of analgesic per engagement, lest they suffer dire side effects like 
+irrational happiness, lack of focus, addiction and cardiac arrest.
+
+==Illicit Analgesic ==
+Adrenaline Reward:  34 Points
+Contagion Reward : 1 Contagion
+Needle Cost: 1 Needle
+Range:          Touch
+Action:         1 Action
+    The ECSC really shouldn't find out that you've been stocking up on this 
+stuff. You mentally rationalize your decision to inject your ally with it as you 
+slide the needle between their armor plates. Your ally gains 100 temporary 
+health, but at the cost of -2 temporary perception and intelligence. This 
+procedure only works on biologic patients. You may use this power more than once 
+on a patient during an engagement, but after the first dose, the negative side 
+effects persist for the rest of the engagement and stack. If at any point during 
+the engagement, perception drops below 1, the patient will go blind or deaf or 
+both at the GM's discretion. If Intelligence drops below 1 at any time during 
+the engagement, the patient suffers brain death.
+
+==Healing Nova ==
+Adrenaline Reward:  30 * n Points
+Contagion Reward: n Contagions
+Range:  6m circle, doc is the origin
+Action: 2 Actions
+    Every biologic patient in range has one wound healed by 40 points. The doc 
+gets n adrenaline points back where n is the number of patients healed. Heals 
+allies and enemies. The doc gets a -200 to stealth rolls when performing this 
+procedure.
+
+==Improved Healing Nova ==
+Adrenaline Reward:  30 * n Points
+Contagion Reward: n Contagions
+Range: 6m circle, doc is the origin
+Action: 2 Actions
+    Every biologic patient in range has Two wounds healed by 40 points. The doc 
+gets n adrenaline points back where n is the number of wounds healed. Only Heals 
+Allies. The doc gets a -50 to stealth rolls when performing this procedure.
+
+==5-HT Inhibitor ==
+Adrenaline Reward:  10 Points
+Range: Touch
+Action: 1 Action
+    Your ally gets a 10% bonus to perception checks, and 5% bonuses to 
+lock-picking, explosive or hacking checks. This effect lasts until the next time 
+one of those effects are triggered. Only works on biologic patients. A patient 
+cannot have more than one dose of 5-HT Inhibitor at a time. 
+
+==Dex-7 ==
+Adrenaline Reward:  20 Points
+Contagion Reward: 1 Contagion
+Needle Cost: 1 Needle
+Range: Touch
+Action:  1 Action
+    For an engagement, an ally moves 3m per action more. Loosely based on 
+Dextroamphetamine. Ally movement has an absolute cap of 14m per Action, even if 
+some other effect would make it higher. A player may not receive more than one 
+dose of Dex per engagement. Only works on biologic allies.
+
+==Combat Stim ==
+Adrenaline Reward:  25 Points
+Contagion Reward: 1 Contagion
+Needle Cost: 1 Needle
+Range:          Touch
+Action:         1 Action
+    For 5 Rounds, the patient moves 2m more per action and gets a -1 to miss with 
+guns. As a side effect, the target suffers a +2 to miss with melee weapons. 
+Increasing the dosage does not increase the effects. This trick only works on 
+biologic patients. 
+
+==Oni ==
+Adrenaline Reward:  25 Points
+Contagion Reward: 1 Contagion
+Needle Cost: 1 Needle
+Range:          Touch
+Action:         1 Action
+    Phentermine derivative manufactured by Sakai Corp on Kimon in sector 5. 
+Central nervous system stimulant. Patient gets a +20 to reflex rolls and a +20 
+to initiative (turn order) for 5 Rounds. Oni doesn't give more than one Turn per 
+Round. May only be used on biologic patients. Cannot be used on a patient more 
+than once lest they get mortally constipated, impotent, or their heart explodes. 
+(note: these are the actual effects of a Phentermine overdose) 
+
+==Illegal Stim ==
+Adrenaline Reward:  40 Points
+Contagion Reward: 1 Contagion
+Needle Cost: 1 Needle
+Range: Touch
+Action: 1 Action
+    For 5 Rounds, the patient moves 3m more per action (max 13), gets a -2 to 
+miss with guns and a +30 to rolls to parkour around obstacles. As a side effect, 
+the target suffers a +2 to miss with melee weapons and a -15 to charisma rolls 
+from being jittery. Increasing the dosage does not increase the effects. This 
+trick only works on biologic patients.  
+
+==Sense Heartbeat ==
+Adrenaline Reward:  20*n Points
+Range:          20m radius centered on the Doc
+Action:         1 Action
+    Reveal active central nervous systems within a 20m radius of the Doc. Every 
+target revealed by Sense Heartbeat that is communicated to an ally and is then 
+defeated grants the Doc 20 adrenaline points. This ability may be sustained for 
+5 adrenaline per turn as a free action.
+
+==Mild Steroid ==
+Adrenaline Reward:  15 Points
+Contagion Reward: 1 Contagion
+Needle Cost: 1 Needle
+Range: Touch
+Action: 1 Action
+    The patient deals an extra 2*(patient's strength) damage with melee weapons, 
+has -1 to miss with melee weapons, and moves +1m per action. As a side effect, 
+the target takes a -1 to both Intelligence and charisma for the duration of the 
+effect. This trick only works on biologic patients. This effect lasts for 4 
+Rounds.
+
+==Preventative Medicine ==
+Adrenaline Reward:  20 Points
+Range:          Touch
+Action:         1 Action
+Effect:         Target gets a 30 point capacitive shield for the duration of 
+the engagement. This trick works on any race of ally. 
+
+==Nanite Restore ==
+Adrenaline Reward:  10 Points
+Range:          Touch
+Action:         1 Action
+Effect:         Choose 1. Remove up to 3 Rounds of cooldown from one unit of 
+Medical Nanites owned by the target, or the cooldown of the target's next active 
+feat before your next turn is reduced by up to 3 Rounds, to a minimum of zero.
+
+==Illegal Steroid ==
+Adrenaline Reward:  40 Points
+Contagion Reward: 1 Contagion
+Needle Cost: 1 Needle
+Range: Touch
+Action: 1 Action
+    The patient deals an extra 3*(patient's strength) damage with melee weapons, 
+has -2 to miss with melee weapons, and moves +2m per action. As a side effect, 
+the target takes a -1 to both Intelligence and charisma for the duration of the 
+effect. This trick only works on biologic patients. This effect lasts for 8 
+Rounds. 
