@@ -982,7 +982,7 @@ Prerequisites:
 *  Unarmed Combat Training
 *  Strength > 7 or Fortitude > 7
 
-Cooldown: 1 Round
+Cooldown: 2 Rounds
 Duration: 1 Action
 
     With either the most pity or absolutely none, you usher your enemy to the
