@@ -94,12 +94,15 @@ Hostile Environment General Purpose Survival Package ($600):
 	[ph][one kit does for a party]
 
 Relevant Skill(s): Survival
-Context: Mitigating thermally extreme, low-gravity, and/or nonstandard atmospheres.
+Context: Mitigating thermally extreme, low-gravity, and/or nonstandard atmospheres
 Noise Level: Low
 Weight: 
 
 Field-expedient Trauma Kit ($400):
-	[ph]
+	Contains a variety of pliers, grips, reusable injectors, bio- and mechfoam 
+spray nozzles, suture applicators, autorivets, etc. Also has a sterilizing unit 
+for all of the above. Increases operator's effective use of the consumable items 
+found in medkits and repair kits.
 
 Relevant Skill(s): Medicine, Repair
 Context: Basic trauma procedures away from medical facilities (eg. stabilizing, 
