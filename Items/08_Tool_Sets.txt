@@ -6,15 +6,18 @@ Blade Maintenance and Care Kit ($):
 	[ph]
 
 Relevant Skill(s): Weapons - Melee, Weapons - Thrown
+Context: Bladed Weapons
 Noise Level: Low
 Weight: 
 
 Digital Artist's Program and Tablet Package ($):
 	A pressure-sensitive digital tablet and stylus complete with 
-TIR Digital Painting, can be used for drawing, painting, and editing
-photos and documents.
+TIR Digital Painting, which can be used for drawing, painting, and 
+editing photos and documents. Comes with a protective case and 
+rechargeable 8-hour battery.
 
 Relevant Skill(s): Performance, Deception
+Context: Digital Art, Imagery
 Noise Level: Low
 Weight:
 
@@ -24,6 +27,7 @@ entrance into secured locations, such as bolt cutters, prybars,
 a small, concealable drill, core puller, and core shearer.
 
 Relevant Skill(s): Sleight of Hand, Athletics
+Context: Broad
 Noise Level: Low-High
 Weight: 
 
@@ -31,6 +35,7 @@ Disguise Kit ($):
 	[ph]
 
 Relevant Skill(s): Deception
+Context: Broad
 Noise Level: Low
 Weight: 
 
@@ -42,6 +47,8 @@ and a miniaturized 3D circuit printer allow the professional electrician
 to maintain, repair, and construct all manner of electronic gadgetry.
 
 Relevant Skill(s): Repair, Jury-rig
+Context: Electronics, Electrical Components, Circuitboards. Repair, 
+	construction, repurposing.
 Noise Level: Low
 Weight:
 
@@ -49,6 +56,7 @@ Electronic Lock Spoofing Kit ($):
 	[ph]
 
 Relevant Skill(s): Hacking
+Context: Electronic and/or computerized locking objects
 Noise Level: Low
 Weight: 
 
@@ -56,6 +64,7 @@ Firearm Maintenance and Care Kit ($):
 	[ph]
 
 Relevant Skill(s): Weapons - [All firearms categories]
+Context: Cleaning, Servicing
 Noise Level: Low
 Weight: 
 
@@ -63,13 +72,20 @@ Forger's Implements ($):
 	[ph]
 
 Relevant Skill(s): Deception, Sleight of Hand
+Context: Forgery (Eg. Documents, ID Cards, etc. Not passwords)
 Noise Level: Low
 Weight: 
 
 General Research Analysis and Cross-referencing AI ($):
-	[ph]
+	A portable hand terminal containing a massive solid-state data drive 
+and a smaller drive with a non-sentient AI specialized in data retrieval. 
+The AI can help investigate inquiries by intelligently loading up reputable 
+documents and providing summaries. Performance greatly improved by access to 
+academic or library databanks. Takes time to achieve best results. Comes with 
+a protective case and rechargeable 8-hour battery.
 
 Relevant Skill(s): Knowledge - All, Investigation
+Context: Research
 Noise Level: Low
 Weight: 
 
@@ -77,6 +93,7 @@ Hostile Environment General Purpose Survival Package ($):
 	[ph]
 
 Relevant Skill(s): Survival
+Context: Mitigating thermally extreme, low-gravity, and/or nonstandard atmospheres.
 Noise Level: Low
 Weight: 
 
@@ -84,6 +101,8 @@ Field-expedient Trauma Kit ($):
 	[ph]
 
 Relevant Skill(s): Medicine, Repair
+Context: Basic trauma procedures away from medical facilities (eg. stabilizing, 
+	removing bleeds or burns, healing, etc.). Organic or Mechanical beings.
 Noise Level: Low
 Weight: 
 
@@ -91,6 +110,7 @@ Fine Art Kit ($):
 	[ph]
 
 Relevant Skill(s): Performance
+Context: 2D physical Art (eg. painting)
 Noise Level: Low
 Weight: 
 
@@ -98,6 +118,7 @@ Locksmith's Rekeying Tools ($):
 	[ph]
 
 Relevant Skill(s): Sleight of Hand
+Context: Unlocked mechanical locks.
 Noise Level: Low
 Weight: 
 
@@ -108,7 +129,8 @@ core spinner, benchtop impressioning cutter, some files, and vicegrips.
 Includes an electric pick gun that trades quietness for speed.
 
 Relevant Skill(s): Sleight of Hand
-Noise Level: Low-High
+Context: Mechanical locks
+Noise Level: Low-Med
 Weight: 
 
 Mechanic's Demolition Set ($):
@@ -116,6 +138,7 @@ Mechanic's Demolition Set ($):
 disassembly and parts fabrication.
 
 Relevant Skill(s): Repair, Jury-rigging
+Context: Broad
 Noise Level: Low
 Weight: 
 
@@ -125,6 +148,7 @@ a variety of blades for different materials. Allows for extremely fast,
 destructive demolition and subtractive fabrication.
 
 Relevant Skill(s): Repair, Jury-rigging
+Context: Broad
 Noise Level: High
 Weight: 
 
@@ -134,6 +158,7 @@ variety of drilling, cutting, engraving, sanding, and polishing
 attachments. Can be used for a wide variety of small-scale tasks.
 
 Relevant Skill(s): Repair, Jury-rigging, Performance
+Context: Broad
 Noise Level: High
 Weight: 
 
@@ -143,6 +168,7 @@ driver bits, hole saws, sockets, and various adapters. Allows for fast
 assembly and disassembly of mechanical objects.
 
 Relevant Skill(s): Repair, Jury-rigging
+Context: Broad
 Noise Level: High
 Weight: 
 
@@ -151,6 +177,7 @@ Mechanic's Wrench & Socket Set ($):
 assembly and disassembly of mechanical objects.
 
 Relevant Skill(s): Repair, Jury-rigging
+Context: Broad
 Noise Level: Low
 Weight: 
 
@@ -161,6 +188,7 @@ key oil, lanolin, polish, extra strings or reeds, soft rags for appilcation,
 the chosen style of instrument. 
 
 Relevant Skill(s): Performance, Repair
+Context: Audial art
 Noise Level: Low-High
 Weight: 
 
@@ -171,5 +199,6 @@ calipers, and a sponge. Allows for fine detail work and cutting when
 sculpting a soft clay object.
 	
 Relevant Skill(s): Performance
+Context: 3D physical art
 Noise Level: Low
 Weight: 
