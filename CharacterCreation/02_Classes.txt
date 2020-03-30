@@ -893,3 +893,10 @@ Charisma check not to target you on their following turn. Instead of 60 HP, you
 gain a temporary (40 + 10*FORT) HPs. Beast Mode now last for 3 Rounds. Temporary
 hit points are lost at the end of the encounter. A Character must be level 10 
 and have taken Beast Mode before taking Beast Unleashed.
+
+
+It's a Distinctive Style:
+
+    You may take two additional feats that require Unarmed Combat Training,
+Unarmed Combat Expertise, or Unarmed Combat Mastery. You must meet all 
+prerequisites of the two feats that you take. 
