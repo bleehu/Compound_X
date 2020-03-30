@@ -66,7 +66,9 @@ often. Talk to your GM if you would like your character to learn a more specific
 case of one of these skills or a skill not listed below.
 
 	Assisted skills, which usually require an appropriate tool set as 
-described in the basic rules, are marked with an [A].
+described in the basic rules, are marked with an [A]. Keep in mind that, regardless 
+of [A]'s, having an appropriate set of tools for the task at hand will help with 
+almost any skill, though.
 
 == Charisma ==
 Deception:	To tell a convincing lie
@@ -100,7 +102,7 @@ Jury-rigging:	To throw together a solution using the materials on hand
 Navigation:	For plotting routes through space or across land
 Survival:	To make do far from civilization with limited technological help
 Knowledge:	For when a character's knowledge differs from the player's
-Weapons [A]: weapons knowledge is listed below.
+Weapons [A]: 	The different weapons skills are listed below.
 
 	There are several different knowledge areas that your character might be up
 to speed on. They are listed below.
