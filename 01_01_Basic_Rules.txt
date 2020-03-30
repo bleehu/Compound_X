@@ -568,7 +568,7 @@ attempt the roll, or make any other judgement they deem appropriate.
 -- Assisted Skills and Tool Sets--
 
 	When a skill is marked Assisted, it pertains to many situations that cannot 
-in general be accomplished well without the correct tools. Assisted skill rolls made 
+in general be done well without the correct tools. Assisted skill rolls made 
 without the correct tools are rolled with Disadvantage, and may even be impossible. 
 At the GM's discretion, it may be possible to improvise a tool for a task, 
 probably requiring a jury-rigging roll, but this may impose complications.
@@ -577,11 +577,11 @@ probably requiring a jury-rigging roll, but this may impose complications.
 appropriate one to the task at hand may still provide a bonus.
 
 	Tool sets are listed in the 08_Tool_Sets.txt document under Items. Each 
-tool set has an associated suite of skills it will usually apply to, at the GM's 
-flavor discretion, and a weight and noise level associated with its use. In 
-combat, whether a skill attempt and/or tool set are feasible to use within a 
-given time constraint is left to the GM. As a reminder, tool sets, like any other 
-equipment, are subject to drawing/holstering times.
+tool set has an associated suite of skills it will usually apply to and a set of 
+applicable contexts, subject to the GM's discretion, and a weight and noise level 
+associated with its use. In combat, whether a skill attempt and/or tool set are 
+feasible to use within a given time constraint is left to the GM. As a reminder, 
+tool sets, like any other equipment, are subject to drawing/holstering times.
 
 	Tool Sets purchased from upstanding sources are presumed to contain all 
 necessary personal protective equipment. GMs are encouraged to come up with 
