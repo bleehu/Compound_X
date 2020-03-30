@@ -104,6 +104,13 @@ chip that helps you find your dog if it runs away. The harness itself is
 lightweight and a little bit stretchy to prevent irritating the wearer. Also
 comes with a 3m leash. 
 
+Light-Amplification Goggles ($150):
+    Light-amplified visibility in low light conditions. Amplifies all 
+wavelengths of light, unlike older monochrome models. All surfaces are
+brightened to the brightness they would be in daytime. If the user is blinded 
+by a flashbang grenade, they gain an extra turn of blindness and cannot make the 
+blindness awareness save for their next turn. Resolution clouds after 80m.
+
 Night Vision Goggles ($300):
     IR visibility for low light conditions. Resolution clouds after 100m.
 
