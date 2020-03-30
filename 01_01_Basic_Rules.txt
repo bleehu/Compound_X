@@ -574,7 +574,8 @@ At the GM's discretion, it may be possible to improvise a tool for a task,
 probably requiring a jury-rigging roll, but this may impose complications.
 
 	Other skills suffer no penalties to use without a tool set, but an 
-appropriate one to the task at hand may still provide a bonus.
+appropriate one to the task at hand may still provide a bonus. Unless otherwise 
+specified, augmenting a roll with an appropriate tool set provides +10 to the roll.
 
 	Tool sets are listed in the 08_Tool_Sets.txt document under Items. Each 
 tool set has an associated suite of skills it will usually apply to and a set of 
