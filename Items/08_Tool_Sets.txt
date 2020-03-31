@@ -35,7 +35,10 @@ Noise Level: Low-High
 Weight: 
 
 Disguise Kit ($200):
-	[ph]
+	Includes a selection of make-up and application tools, hair 
+styling necessities, items for a quick outfit change including a variety
+of hats, scarves, sunglasses and flashy jewelery, several sets of
+personalized color contacts, and temporary hair dye in a variety of colors.
 
 Relevant Skill(s): Deception
 Context: Broad
