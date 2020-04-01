@@ -116,10 +116,12 @@ Noise Level: Low
 Weight: 
 
 Fine Art Kit ($150):
-	[ph]
+	Tools for either 2D or 3D physical fine art disciplines such as paints,
+brushes and canvasses, pencils, markers and paper, or sculpting and carving tools
+and a project's supply of the artist's medium of choice.
 
 Relevant Skill(s): Performance
-Context: 2D physical Art (eg. painting)
+Context: Physical fine art (eg. painting, sculpting)
 Noise Level: Low
 Weight: 
 
