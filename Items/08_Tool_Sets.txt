@@ -52,7 +52,7 @@ resistors; capacitors; inductors; rechargeable temporary power supplies;
 and a miniaturized 3D circuit printer allow the professional electrician 
 to maintain, repair, and construct all manner of electronic gadgetry.
 
-Relevant Skill(s): Repair, Jury-rig
+Relevant Skill(s): Repair, Jury-rigging
 Context: Electronics, Electrical Components, Circuitboards. Repair, 
 	construction, repurposing.
 Noise Level: Low
