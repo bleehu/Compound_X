@@ -72,7 +72,7 @@ Outfits can include both footwear and outerwear.
 | Colony World- Opaleite | Gain Languages- Opaleite Trade: Vocal or Opaleite Trade: Sign (+ 1 dialect), |
 |                        | 1 Common or Trade Language of choice. Gain 0.5 set of Nanites.               |
 +------------------------+------------------------------------------------------------------------------+
-| The distant comet-mining colonies of the Opalite Coalition is where you hail from. You grew up either |
+| You hail from one of the Opaleite Coalition's distant comet-mining colonies. You grew up either       |
 | in a swampy space station or a moist habitat on a planet that hasn't been teraformed yet.             |
 +------------------------+------------------------------------------------------------------------------+
 | Space Station          | Gain Languages- 2 Common or Trade Languages of choice (+1 dialect).          |
