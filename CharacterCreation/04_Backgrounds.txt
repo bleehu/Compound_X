@@ -201,7 +201,7 @@ to the character's Professional Experience, at the discretion of the GM.
 | Oh ya, I had a collegue from these parts. Made a killing last time I was here selling "yoshgas." Don't worry     |
 | about it, it doesn't translate all that well.                                                                    |
 +----------------------+-----------+-------------------------------------------------------------------------------+
-| Tools of the Trade  | BountyHunter | Gain license, L2 chest armor plate, and 5 HD zip cuffs.                     |
+| Hunter's Bag of Tricks | BountyHunter | Gain license, L2 chest armor plate, and 5 HD zip cuffs.                     |
 +----------------------+-----------+-------------------------------------------------------------------------------+
 | You have a legal license for bringing in bounties, dead or alive. You've got some other tools too.               |
 +----------------------+-----------+-------------------------------------------------------------------------------+
