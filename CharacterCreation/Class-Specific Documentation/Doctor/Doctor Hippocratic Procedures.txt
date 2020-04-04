@@ -45,7 +45,7 @@ interuptor shock. This is gonna hurt like hell, but they'll live to complain
 about it at least. Who knows? Maybe they'll even say "Thank you!" this time?
 
     You must have your Field Applicator drawn in order to use this ability. Only 
-usable on an organic patient that is bleeding out. The target is no longer 
+usable on an biological patient that is bleeding out. The target is no longer 
 downed and gains 10+2d10 Health Points, rather than having to stabilize the target 
 and then heal them as a separate action.
 
@@ -106,7 +106,7 @@ Adrenaline Reward:  200 Points
 Contagion Reward: 4 Contagions
 Range: Touch
 Action: 4 Actions
-    Can only be used on a biologic patient who's head is intact who has bled out
+    Can only be used on a biologic patient whose head is intact who has bled out
  and died less than 8 Rounds ago. The Doctor makes a DC 60 heal check. If 
 successful, the patient is now bleeding out. If the patient is saved, gets the 
 feat 'Back from the Dead'. Characters with the 'Back From the Dead' feat have a
@@ -217,20 +217,17 @@ Adrenaline Reward:  30 * n Points
 Contagion Reward: n Contagions
 Range:  6m circle, doc is the origin
 Action: 2 Actions
-    Every biologic patient in range is healed by 25 + 5d10 Health Points. The doc 
-gets n contagions back where n is the number of patients healed. Heals 
-allies and enemies. The doc gets a -200 to stealth rolls when performing this 
-procedure.
+    Every biologic patient in range is healed by 25 + 5d10 Health Points. The 
+doctor gets a contagion back for each patient healed. Heals allies and enemies. 
+The doctor gets a -200 to stealth rolls when performing this procedure.
 
 ==Improved Healing Nova ==
 Adrenaline Reward:  30 * n Points
 Contagion Reward: n Contagions
 Range: 6m circle, doc is the origin
 Action: 2 Actions
-
-    Every biologic patient in range is healed by 40 + 8d10 points. The doc gets 
-n contagions back where n is the number of patients healed. Only Heals Allies. 
-The doc gets a -50 to stealth rolls when performing this procedure.
+The doctor gets a contagion back for each patient healed. Only Heals Allies. The 
+doctor gets a -50 to stealth rolls when performing this procedure.
 
 ==5-HT Inhibitor ==
 Adrenaline Reward:  10 Points
@@ -247,6 +244,7 @@ Contagion Reward: 1 Contagion
 Needle Cost: 1 Needle
 Range: Touch
 Action:  1 Action
+
     For an engagement, an ally moves 3m per action more. Loosely based on 
 Dextroamphetamine. Ally movement has an absolute cap of 14m per Action, even if 
 some other effect would make it higher. A player may not receive more than one 

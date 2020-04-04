@@ -172,9 +172,9 @@ sensitive to smoke or disease have disadvantage on this save. At level 10, this
 area expands to up to 3m x 5m at the discretion of the Doctor.
 
     "Contaminated" targets get a -2 to melee or weapon accuracy rolls, and lose
-5 health and 5 Nanites at the end of their Turn every Round until Contamination
-is cured. Contamination can be cured as an action by any character with skill in
-medicine such as enemy medics. The effect persists even if the target leaves the
+10 health at the end of their Turn every Round until Contamination is cured. 
+Contamination can be cured as an action by any character with skill in medicine 
+such as enemy medics. The effect persists even if the target leaves the
 contaminated area. If a target would accrue negative Nanites from this effect,
 They take damage equal to the number of negative Nanites and their Nanites stay
 at 0. 
@@ -407,7 +407,6 @@ melee weapons. They also get a +30 to reload and a +1 chance to critical hit.
 
 ==Free Running ==
 Adrenaline Cost: 60 Points
-Nanite Cost: 15 Nanites
 Duration: 	2 Actions
 Range:		5m radius centered at a point up to 30m from the Doc
     Your Nanites form microscopic bonds with any solid surface allowing 
@@ -496,5 +495,5 @@ You gain 1 Contagion.
 Fortitude is permanently reduced by 2. You gain 2 Contagions.
 
     Their Lymph Node: The target loses their lymph node. They lose 40 health and
-up to 120 Nanites. This ability will not drop a target's nanite count below 0. 
+cannot use nanites. This ability will not drop a target's nanite count below 0. 
 You gain 2 Contagions.
