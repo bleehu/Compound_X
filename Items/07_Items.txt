@@ -187,7 +187,7 @@ MediKit ($100):
 biofoam applicator, adrenaline, anesthetic, and bandages. Useful for healing 
 bullet wounds, laser burns, plasma burns, lacerations and puncture wounds.
 
-    Allows the user to either stabalize or heal a biological character if they 
+    Allows the user to either stabilize or heal a biological character if they 
 pass the Medicine(Dex) check. Once the kit has been used, it cannot be used 
 again.
 
@@ -227,7 +227,7 @@ Repair kit ($100):
 adhesive insulator, electrolytic gel and bandages. Useful for repairing bullet 
 wounds, laser burns, plasma burns, lacerations and puncture wounds.
 
-    Allows the user to either stabalize or heal a mechanical character if they 
+    Allows the user to either stabilize or heal a mechanical character if they 
 pass the Repair(Dex) check. Once the kit has been used, it cannot be used again.
 
     Repair Check DC: 35. Health healed if successful: 60. 3 Actions to use.

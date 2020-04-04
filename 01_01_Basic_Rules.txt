@@ -421,8 +421,7 @@ Actions. Player Characters of certain classes, like Doctor or Engineer have
 certain abilities that they unlock as they level up that may allow them to heal 
 or repair other characters without a med kit or repair kit. If the skill check
 is passed, the wounded character's health points are restored by a number listed
-on the item. If the skill check is failed then the wound is not healed, but the
-wound does not get any worse. 
+on the item. If the skill check is failed then the wound is not healed.
 
 ==============================
 Resting

@@ -8,7 +8,7 @@ Contagion Reward: 1 Contagion
 Range:          Touch
 Action:         2 Actions
     
-    You use your biofoam appllicator to spray the smelly green foam into their
+    You use your biofoam applicator to spray the smelly green foam into their
 wounds. The miracle of modern science rapidly reconnects arteries and veins and
 begins to mimic destroyed organs and muscle tissue. It hurts like hell, but it
 will give them a chance to keep it together long enough to get a more permanent
@@ -45,11 +45,11 @@ interuptor shock. This is gonna hurt like hell, but they'll live to complain
 about it at least. Who knows? Maybe they'll even say "Thank you!" this time?
 
     You must have your Field Applicator drawn in order to use this ability. Only 
-usable on an organic patient that is bleeding out. The person is no longer 
-downed and has 10+2d10 Health Points, rather than having to stabilize the target 
+usable on an organic patient that is bleeding out. The target is no longer 
+downed and gains 10+2d10 Health Points, rather than having to stabilize the target 
 and then heal them as a separate action.
 
-== Pre-op traige ==
+== Pre-op triage ==
 Adrenaline Reward:  30 Points
 Contagion Reward: 1 Contagion
 Range: 10m
@@ -57,11 +57,11 @@ Action: 1 Action
 
     You scan the patient and dial your Field Applicator to match the patient's
 unique biochemestry. You also take the time to more closely inspect the patient's
-injuries and prognosticate the battlefield's effect on their condition. Your
+injuries and extrapolate the battlefield's effect on their condition. Your
 keen eye and experience allows you to better treat your patient's maladies. 
 
     You must have your Field Applicator drawn in order to use this ability. This 
-trick only works on biologic patients. If you use another procedure on this 
+procedure only works on biologic patients. If you use another procedure on this 
 patient either this turn or the next turn that says you can only heal them up
 to half health, you may ignore that limitation.
 
@@ -81,7 +81,7 @@ better they heal. Unless otherwise stated, this ability cannot heal a patient
 above half health.
 
 +-----------------+--------------+--------+
-| Med Skill Above | Base Healing |  Dice  |
+|  Medicine Skill | Base Healing |  Dice  |
 +-----------------+--------------+--------+
 |       14        |     10       | + 2d10 |
 +-----------------+--------------+--------+
@@ -98,7 +98,7 @@ above half health.
 Adrenaline Reward:  65 Points
 Range:          25m
 Action:         2 Actions
-    The patient is no longer bleeding out and has 20 health. This trick only 
+    The patient is no longer bleeding out and has 20 health. This procedure only 
 works on biologic patients.
 
 ==Cortical Stimulator ==
@@ -145,7 +145,7 @@ Action: 1 Action
 
     For 4 Rounds, the patient moves 1m more per action and gets a -1 to miss 
 with guns. As a side effect, the target suffers a +1 to miss with melee weapons. 
-Increasing the dosage does not increase the effects. This trick only works on 
+Increasing the dosage does not increase the effects. This procedure only works on 
 biologic patients.
 
 ==Triage ==
@@ -260,7 +260,7 @@ Range:          Touch
 Action:         1 Action
     For 5 Rounds, the patient moves 2m more per action and gets a -1 to miss with 
 guns. As a side effect, the target suffers a +2 to miss with melee weapons. 
-Increasing the dosage does not increase the effects. This trick only works on 
+Increasing the dosage does not increase the effects. This procedure only works on 
 biologic patients. 
 
 ==Oni ==
@@ -286,7 +286,7 @@ Action: 1 Action
 miss with guns and a +30 to rolls to parkour around obstacles. As a side effect, 
 the target suffers a +2 to miss with melee weapons and a -15 to charisma rolls 
 from being jittery. Increasing the dosage does not increase the effects. This 
-trick only works on biologic patients.  
+procedure only works on biologic patients.  
 
 ==Sense Heartbeat ==
 Adrenaline Reward:  20*n Points
@@ -306,7 +306,7 @@ Action: 1 Action
     The patient deals an extra 2*(patient's strength) damage with melee weapons, 
 has -1 to miss with melee weapons, and moves +1m per action. As a side effect, 
 the target takes a -1 to both Intelligence and charisma for the duration of the 
-effect. This trick only works on biologic patients. This effect lasts for 4 
+effect. This procedure only works on biologic patients. This effect lasts for 4 
 Rounds.
 
 ==Preventative Medicine ==
@@ -314,7 +314,7 @@ Adrenaline Reward:  20 Points
 Range:          Touch
 Action:         1 Action
 Effect:         Target gets a 30 point capacitive shield for the duration of 
-the engagement. This trick works on any race of ally. 
+the engagement. This procedure works on any race of ally. 
 
 ==Nanite Restore ==
 Adrenaline Reward:  10 Points
@@ -333,5 +333,5 @@ Action: 1 Action
     The patient deals an extra 3*(patient's strength) damage with melee weapons, 
 has -2 to miss with melee weapons, and moves +2m per action. As a side effect, 
 the target takes a -1 to both Intelligence and charisma for the duration of the 
-effect. This trick only works on biologic patients. This effect lasts for 8 
+effect. This procedure only works on biologic patients. This effect lasts for 8 
 Rounds. 
