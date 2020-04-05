@@ -65,8 +65,8 @@ this is not an exhaustive list of skills, merely the skills called for most
 often. Talk to your GM if you would like your character to learn a more specific
 case of one of these skills or a skill not listed below.
 
-	Assisted skills, which usually require an appropriate tool set as 
-described in the basic rules, are marked with an [A]. Keep in mind that having an 
+	Intricate skills, which usually require an appropriate tool set as 
+described in the basic rules, are marked with an [I]. Keep in mind that having an 
 appropriate set of tools for the task at hand will help with almost any skill.
 
 == Charisma ==
@@ -94,9 +94,9 @@ are listed below.
 Intimidation:	To strike fear into the hearts of your enemies
 	
 == Intelligence ==
-Hacking [A]:	To pwn computer systems
-Medicine [A]:	To repair life forms
-Repair [A]:	To repair machines
+Hacking [I]:	To pwn computer systems
+Medicine [I]:	To repair life forms
+Repair [I]:	To repair machines
 Jury-rigging:	To throw together a solution using the materials on hand
 Navigation:	For plotting routes through space or across land
 Survival:	To make do far from civilization with limited technological help
