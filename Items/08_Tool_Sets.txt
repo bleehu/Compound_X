@@ -103,15 +103,27 @@ Context: Mitigating thermally extreme, low-gravity, and/or nonstandard atmospher
 Noise Level: Low
 Weight: 
 
-Field-expedient Trauma Kit ($400):
-	Contains a variety of pliers, grips, reusable injectors, bio- and mechfoam 
-spray nozzles, suture applicators, autorivets, etc. Also has a sterilizing unit 
+Field-expedient Biological Trauma Kit ($250):
+	Contains a variety of pliers, grips, reusable injectors, biofoam 
+spray nozzles, suture applicators, cauterizers, etc. Also has a sterilizing unit 
 for all of the above. Increases operator's effective use of the consumable items 
-found in medkits and repair kits.
+found in medkits.
 
-Relevant Skill(s): Medicine, Repair
+Relevant Skill(s): Medicine
 Context: Basic trauma procedures away from medical facilities (eg. stabilizing, 
-	removing bleeds or burns, healing, etc.). Organic or Mechanical beings.
+	removing bleeds or burns, healing, etc.). Biological targets.
+Noise Level: Low
+Weight: 
+
+Field-expedient Mechanical Trauma Kit ($250):
+	Contains a variety of pliers, grips, reusable injectors, mechfoam 
+spray nozzles, self-sealing rivets, flash-freezers, etc. Also has a sterilizing unit 
+for all of the above. Increases operator's effective use of the consumable items 
+found in repair kits.
+
+Relevant Skill(s): Repair
+Context: Basic trauma procedures away from medical facilities (eg. stabilizing, 
+	removing bleeds or burns, healing, etc.). Mechanical targets.
 Noise Level: Low
 Weight: 
 
