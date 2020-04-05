@@ -565,10 +565,10 @@ attempt the roll, or make any other judgement they deem appropriate.
 
 	Defenders win ties for opposing rolls.
 
--- Assisted Skills and Tool Sets--
+-- Intricate Skills and Tool Sets--
 
-	When a skill is marked Assisted, it pertains to many situations that cannot 
-in general be done well without the correct tools. Assisted skill rolls made 
+	When a skill is marked Intricate, it pertains to many situations that cannot 
+in general be done well without the correct tools. Intricate skill rolls made 
 without the correct tools are rolled with Disadvantage, and may even be impossible. 
 At the GM's discretion, it may be possible to improvise a tool for a task, 
 probably requiring a jury-rigging roll, but this may impose complications.
