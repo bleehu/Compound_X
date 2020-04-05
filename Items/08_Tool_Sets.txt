@@ -69,7 +69,7 @@ Weight:
 Firearm Maintenance and Care Kit ($100):
 	While most weapons come with the bare essentials for field care, every once
 in a while a weapon needs a deep cleaning. This kit comes with all of the 
-graphite, brushes, degausing oil, lense polish, and tunig callipers to care for
+graphite, brushes, degaussing oil, lens polish, and tuning calipers to care for
 any manner of ballistic, laser, or plasma gun. 
 
 Relevant Skill(s): Weapons - [All firearms categories]
