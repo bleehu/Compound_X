@@ -498,8 +498,9 @@ Prerequisites:
 makes your stubburn movement hard to control on the battlefield.
 
     You gain 15 maximum health, and a +1 to Shock saves. If an effect would 
-reduce your speed below 2 as a result of a melee or grenade hit, ignore that
-effect (you still take damage as normal). If an effect would prevent you from
+reduce your speed by more than 2m/action as a result of a melee or grenade hit, 
+it instead only reduces the speed by 2m/action for any combination of hostile 
+effects. (you still take damage as normal). If an effect would prevent you from
 taking the disengage action, you may do so anyway at the cost of one extra 
 Action.
 
