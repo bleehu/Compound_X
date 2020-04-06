@@ -2,105 +2,34 @@
 Combat
 ==============================
 
-
 	Combat starts when either you or an enemy decides they would like to make an 
-attack (or as the GM decrees). At that point, all involved characters roll 
-Initiative to determine the order in which they take turns. Initiative is a d100 roll 
-that is modified only by Soldier class passive abilities, and higher numbers go 
-first. The section "Actions", below, has more detail on turns in combat.
+attack (or as the GM decrees). During combat, the flow of the game changes so 
+that both player characters and the Non-Player Characters that are run by the
+Game Master each take a turn in a specific order. 
 
-===== Combat Stat Modifiers for Ranged and Melee Accuracy =====
+	Combat can end many different ways. Obviously, if all characters on one side
+or the other are dead, then combat ends. But Combat can also end with one side
+retreating and escaping, or if one side surrenders. Not all combat is to the
+death. Once Combat ends, the flow of play returns to the each character doing
+as they like as described in the Basic Rules Section.
 
-	These bonuses use a table instead of the more general attribute modifier 
-equation, as combat accuracy rolls are played out on a d10 scale. As described below, 
-under normal conditions, ranged combat uses the Perception combat modifier, while 
-melee combat uses Strength, Dexterity, and Fortitude.
+===== Starting a Fight =====
 
-== Combat Stat Modifier Table ==
+== Initiative ==
 
-+--------+-------------+
-| Stat   | Stat Bonus  |
-+--------+-------------+		
-| 1      | -1.5	       |
-+--------+-------------+
-| 2      | -1	       |
-+--------+-------------+
-| 3-4    | -0.5	       |
-+--------+-------------+	
-| 5      |  0	       |	
-+--------+-------------+	
-| 6-7    |  0.5	       |	
-+--------+-------------+	
-| 8-9    |  1	       |	
-+--------+-------------+	
-| 10-11  |  1.5	       |	
-+--------+-------------+	
-| 12-13  |  2	       |	
-+--------+-------------+	
-| 14     |  2.5	       |		
-+--------+-------------+
-| 15     |  3	       |		
-+--------+-------------+
+	When combat starts, all involved characters roll Initiative to determine the 
+order in which they take turns. Initiative is a d100 roll that is modified only 
+by Soldier class passive abilities, and higher numbers take their turn in combat 
+first.
 
-	Drop any remaining decimal (0.5 or -0.5 becomes 0) -in other words- only use 
-integers when you are writing down the final miss chances of your weapon(s). For 
-example, let's say you have a basic SMG with miss chance brackets of 4, 5, and 6. 
-Assuming you have 6 Perception,your PER bonus is 0.5 and thus, your gun's range 
-miss chance brackets are:
+== Stealth Before Combat ==
 
-	(4 - 0.5), (5 - 0.5), (6 - 0.5)  =  3.5, 4.5, 5.5
-
-	If these are your final miss chances, you would have to drop the remainder 
-and your slightly-above-average perception wouldn't make enough of a difference 
-to affect your miss chances!
-
-	But let's say you also have a Dot Sight that you can put on your SMG. The 
-Dot Sight gives a bonus -0.5 range bracket miss chance (among other benefits). 
-This means you now have the following range brackets:
-
-	(4 - 0.5 - 0.5), (5 - 0.5 - 0.5), (6 - 0.5 - 0.5)  =  3, 4, 5
-
-	Perfect! Now your Perception and Dot Sight bonuses, together, reduce your 
-range bracket miss chances by 1 point. If you don't have any other bonuses (from 
-other attachments, feats, or abilities) then you would write down 3, 4, 5 as 
-your range bracket miss chances.
-
-	If your gun has automatic and/or burst fire, you'd add its associated miss 
-chances to your range bracket miss chances and separately write down those 
-numbers (after all bonuses to range bracket miss chance and bonuses to automatic 
-or burst fire). In other words, if you have a ranged weapon with semi-auto, 
-burst, and automatic fire modes, then you should write down 3 sets of 3 miss
-chances; one set for each of the 3 fire modes. For example, let's now assume 
-your gun has a burst fire miss chance of 1 and an automatic fire miss
-chance of 3, your ranged bracket miss chances should look something like this...
-
-0-10m, 11-20m, 21-40m	range brackets
-  3,     4,      5    	semi-auto miss chances
-  4,     5,      6	burst fire miss chances
-  6,     7,      8	automatic fire miss chances
-
-
-===== Miss Chance Limits =====
-
-	At any time when using a melee or ranged weapon, you have a minimum of -2 
-weapon miss chance, and a minimum of +1 miss chance modifier from automatic or 
-burst fire modes (if relevant). These minimums apply after all PER/DEX/STR/Attachment 
-modifiers, at all ranges, and before cover and any other environmental effects. 
-Using an ability could push you below the minimum miss chance.
-
-    Outside a weapon's longest range, you cannot hit your target.
-Also, weapons cannot shoot over 100m without magnifying sights, or over 150m 
-without 2x+ magnification.
-
-===== Melee Combat =====
-
-	A character of standard size occupies 1m of space. This is not the physical 
-space occupied, but rather both the area effectively controlled by the character and 
-the minimum necessary to effectively fight.
-
-	Two characters engaged in melee combat are considered to be in adjacent 1m 
-spaces, not in the same 1m space. Fights don't generally start face-to-face unless 
-you're at a bar.
+	Some characters are very sneaky, and often wish to ambush or sneak past 
+enemies. Stealth encounters can often straddle the line between combat and 
+non-combat. When the encounter is time-sensitive, or if the movement of the 
+sneaker is relative to the movment of what else is happening, then stealth can
+require the same turn-based flow as combat. When the sneaking is happening under
+less pressure, it can often skip the rigor of turn-based gameplay.
 
 	Once a character has attempted to attack another at melee range (1m), 
 they are both considered to be in melee combat. They can make attacks against 
@@ -151,7 +80,7 @@ though no Skill check applies to these attacks and blocks.
 +-----------------+-----------------------------------------+
 | CQB Guns        | +1                                      |
 +-----------------+-----------------------------------------+
-| Non-CQB Guns    | -1                                      |
+| Non-CQB Guns    | As Improvised Melee Weapons             |
 +-----------------+-----------------------------------------+
 | Delicate Tools* | -2                                      |
 +-----------------+-----------------------------------------+
@@ -185,6 +114,53 @@ and becomes Unconscious (and does not gain the Bleeding Out condition).
 
 	A target reduced to exactly 1 health by a nonlethal attack does not 
 fall Unconscious. 1 is not 0.
+
+Melee Accuracy and Guard Critical Hits:
+	See "Critical Hits" below for general Critical information. Melee Critical 
+hits deal extra damage as normal. Critical Guard rolls block all damage from any 
+non-Extra-critical melee attack. Extra-critical Guard rolls block all damage from 
+the incoming attack. 
+
+	Melee Accuracy rolls may Critically fail in the same way as firearms. 
+Unless otherwise specified, melee weapons have a Jam range of 2. Should your 
+melee weapon "jam", it catches on something in the environment at the DM's 
+discretion, if applicable, and is stuck. Unsticking the weapon requires a 
+Weapons - Melee check, as a firearm would require the appropriate 
+Weapons - [X] check. If you pass the DC by at least 30 you do not provoke an 
+Opportunity Attack. If nothing is available for the weapon to get stuck in, 
+it is instead dropped. You will always succeed in picking up a dropped weapon 
+if it is within reach, may still use the skill check to attempt to avoid an 
+Opportunity Attack while doing so.
+
+	Guard rolls can never Critically fail. Rolling a 1 on a Guard check 
+has no special meaning.
+
+== Improvised Melee Weapons ==
+
+	Sometimes you just need to smack somebody with whatever is 
+available. When using an object not intended as a melee weapon to make a 
+melee attack, use the stats from the improvised melee weapon of the most 
+appropriate size: light, one-handed, or two-handed.
+
+	Generally speaking, objects that fit in one hand, like pistols, beer 
+mugs, improvised knuckles, and objects of similar size, are considered Light. 
+SMGs, table legs, lengths of cable, most kitchenware, and the like would be 
+One-handed. Heavier objects like every other class of firearm, chairs, or 2x4s 
+are Two-handed.
+
+	Improvised Light or One-handed weapons may be thrown up to 5 meters, and 
+Two-handed ones may be thrown up to 3, though both suffer an additional -2 
+Accuracy. Their damage when thrown is the same as when used for melee strikes.
+
+	When using a firearm as an improvised weapon, if you Critically fail an 
+accuracy check and the weapon is loaded (and cocked, if a single-shot pistol or 
+bolt-action rifle), then instead of becoming stuck or dropped the weapon 
+accidentally discharges. Roll 1d10. On a 3-10, the shot travels in a random 
+direction, striking the first valid target in its path within its range. The 
+target may avoid taking damage by succeeding on a DC 110 Reflex Save. On a 1-2, 
+the bullet strikes you, hitting armor if applicable. In either case, you must 
+pass a DC 40 Reflex save to avoid dropping the firearm. This DC increases to 80 
+if you took damage from the accidental discharge.
 
 == Combat Maneuvers ==
 
@@ -299,7 +275,7 @@ stated.
 	Melee weapons come in one of four size categories. The first 
 three are Light, One-handed, and Two-handed. Characters start 
 with proficiency with some number of these based on their class. The 
-fifth category is Exotic. Acquiring proficiency with Exotic weapons does 
+fourth category is Exotic. Acquiring proficiency with Exotic weapons does 
 not grant access to all Exotic weapons, but rather to a particular type, 
 such as whips. Exotic proficiencies may rarely be granted by Backgrounds, 
 and are more commonly acquired by feats.
@@ -358,37 +334,20 @@ rare indeed.
 You can 'cook' a grenade in your hand for 1 action to make it impossible for an
 enemy to dodge.
 
-	Gain +2 Accuracy if you are throwing under half of your grenade's max 
-throwing distance. If you fail your throw within 1 miss chance of the minimum, 
-roll d4 meters for how off-target the grenade throw is. If you fail your throw 
-beyond 1 miss chance, roll a d10 instead.
-
-	All grenades have a Reflex Modifier: -10
+	If a character succeeds on their stealth skill checks, gets the drop on
+another character, and decides to attack, then the character or characters that 
+were hidden get to take a whole round without the surprised characters getting
+a turn. This is called the Surprise Round.
 
 ==============================
-Actions
+Rounds, Turns and Actions
 ==============================
 
-    During combat, your character has 4 Actions. Actions are used for fighting, 
-movement, items, whimpering, etc. Here is a list of common tasks and their
-relative cost:
+    During Combat, each character gets one Turn per Round. You get 4 Actions on
+your turn to do whatever you'd like to do.
 
-Reloading a Pump-Action Shotgun: 4 Actions
-Reloading a Bolt-Action Weapon: 3 Actions
-Reloading a Magazine Fed Weapon: 2 Actions
-Moving DEX # of Meters: 2 Actions
-Hunkering Down: 1 Action
-Firing a Semi-Auto Gun: 1 Action
-Suppressing an Area/Target: 1 Action
-Cast a Spell: 1 Action
-Aiming Down Gun Sights: 1 Action
-Turning on a Flashlight: 1 Action
-Unholstering Pistol or Grabbing a Weapon/Item: 1 Action
-Performing a Skill Check (other than Getting Bearings): 1 Action
-Conversing With Partners: Free Action
-Getting Your Bearings / Non Skill-Based Perception: Free Action
+===== Free Actions =====
 
-Free Actions:
 	Free Actions refer to tasks that take miniscule amounts of time, even
 in pitched combat, like looking around, speaking briefly, or reflexively 
 shutting your eyes after being treated to a flash-bang. Aside from your 
@@ -396,9 +355,8 @@ GM's patience and willingness to believe your character can do everything you
 want in a negligible timescale, there is no limit to the number of Free Actions 
 a character may take, and they may be used at any time.
 
-===== Reactions & Held Actions =====
+===== Reactions =====
 
-Reactions:
 	Certain abilities or circumstances will allow you do something 
 in response to a triggering event. Doing so requires using a special kind 
 of Action called a Reaction. Reactions occur at the immediate moment 
@@ -407,11 +365,12 @@ Reactions include Opportunity Attacks (described in "Melee Combat", above)
 and Held Actions, below. After the Reaction occurs, play continues as normal. 
 If it was an opponent's turn, they continue their turn. 
 
-	A character may use up to three Reaction per round, regardless of how 
+	A character may use up to three Reactions per round, regardless of how 
 many viable trigger circumstances occur.
 
-Held Actions:
-	A type of Reaction. A player may choose to forgo using up to 2 actions at 
+===== Held Actions =====
+
+	A type of Reaction. A player may choose to forgo using up to 2 Actions at 
 the end of their turn. The player must declare to their DM what those actions 
 are to be triggered by, and then play continues as normal. If the trigger occurs 
 before the player's next turn, the player gets to immediately use their 1 or 2 
@@ -427,6 +386,43 @@ the ledge and trip! As soon as they trip, my held action triggers and my
 Character saves them from falling off the ledge and their turn continues. If 
 they had not tripped, my held action would've been lost at the start of my 
 following turn.
+
+===== Saving Against Ongoing Conditions =====
+
+	Attempting a save to end an ongoing condition takes one Action, 
+unless the ability that applied the condition says otherwise. A character 
+may only attempt to recover from a particular condition once per round.
+
+===== Example Actions =====
+
+	Below is a quick list of examples of things a character might want to do and 
+how many Actions that would take out of their turn. Your character isn't limited 
+to only these options; you can try to do almost anything you can think of, as 
+long as what you're trying to do isn't an ability that needs to be unlocked 
+elsewhere. If you'd like to do something that isn't on this list, your Game 
+Master will decide how many Actions it will take.
+
+Shooting: 1 Action
+Aiming: 1 Action
+Drawing a weapon: 1 Action
+Reloading: listed in weapon stats
+Suppressing an Area/Target: 1 Action
+Changing fire mode: Free Action
+
+Moving your Move Speed: 2 Actions
+Hunkering Down in cover: 1 Action
+Laying down: 1 Action
+Standing up from laying down: 1 Action
+Crouching: Free Action
+Standing up from crouching: 1 Action
+
+Talking: Free Action
+Performing a Skill Check (other than Getting Bearings): 1 Action
+Awareness checks to look for enemies: Free Action
+
+==============================
+Movement in Combat
+==============================
 
 ===== Movement and Sprinting =====
 
@@ -444,25 +440,35 @@ You can jump vertically Str/3 meters.
 ===== Other Combat Details =====
 
 Critical Hits:
-	Critical Hits are accuracy rolls that land inside your Critical Hit range 
-(aka. critical chance). The base critical hit range is 1, meaning an Accuracy roll of 
-10 is a critical hit. Luck modifies your critical hit range: (Luck Modifier/10), round 
-down, is added to your critical hit range. Therefore if you have a Luck stat 
-of 8, corresponding to a Luck Modifier of 12, then you would have +1 to your 
-critical hit range and would critically hit on rolls of 9-10. Negative Luck modifiers 
-do not reduce Critical Hit range.
 
-	When your Accuracy roll lands in the upper half of your Critical Hit range,
-it is referred to as an Extra-Critical Hit. When the range is odd, it may be necessary 
-to roll a confirmation D10 to determine which kind of crit you score. Example: If you 
-have a Critical range of 1 and roll a 10, you would roll another D10 and score a 
-Critical hit on 1-5 or an Extra-Critical on 6-10.
+	When you perform an Accuracy Roll (while not firing a gun in burst or 
+automatic mode), you may roll high enough to use your Critical Hit Chance. 
+Critical Hit Chance is based on your Luck Stat, but can also be modified by 
+abilities, weapons, attachments, etc. 
+	If your Accuracy Roll is high enough, you activate your Critical Hit Chance.
+When this happens, you roll a second d10 to determine if you have landed a Critical 
+Hit, an Extra-Critical Hit, or, if you have less than average Luck, merely hit your enemy. 
 
-	Regular Critical Hits deal +20 damage, while Extra-Criticals deal +30 damage. 
-Some abilities or feats have additional effects that trigger when you score Criticals 
-or Extra-Criticals.
+	A Critical Hit deals +20 damage and an Extra-Critical Hit deals +30 damage. 
 
-	You cannot score Critical Hits while firing a gun in burst or automatic mode.
+	Some abilities or feats have additional effects that trigger when you land
+Critical or Extra-Critical Hits. 
+
+
++------------+------------------------+--------------------+-------------------------+
+| Luck Stat  | Accuracy Roll Required | Critical Hit Roll  | Extra Critical Hit Roll |
++------------+------------------------+--------------------+-------------------------+
+| 1 - 3      | 10                     | 6 - 10             | n/a                     |
++------------+------------------------+--------------------+-------------------------+
+| 4 - 6      | 10                     | 1 - 5              | 6 - 10                  |
++------------+------------------------+--------------------+-------------------------+
+| 7 - 10     | 9-10                   | 1 - 5              | 6 - 10                  |
++------------+------------------------+--------------------+-------------------------+
+| 11+        | 8-10                   | 1 - 5              | 6 - 10                  |
++------------+------------------------+--------------------+-------------------------+
+
+
+
 
 Armor and Getting Hit:
 	When a player is defending against a successful enemy hit, they roll 
@@ -528,11 +534,11 @@ other thrown weapons) have -1 miss chance to hit if 'adequate' aiming time is
 given (DM's discretion: how rushed you are, or how skilled you are at stealth, 
 etc). Ranged weapon stealth-attacks gain +20 bonus damage.
 
-	If you stealth-attack a target in melee, your target has a guard DC of 0. As
-normal (see section, "melee combat"), if you roll 3+ above your miss chance (3+ above
-the opponent's guard DC), you ignore the opponent's armor and deal full damage.
-This signifies that the target gets hit in whatever you deem to be the most vulnerable;
-i.e., the head, neck, or the chest (over the heart, etc). 
+	If you stealth-attack a target in melee, your target has a Guard of 0. As
+normal (see section, "Melee Combat"), if you roll 3+ above the opponent's Guard, 
+you ignore the opponent's armor and deal full damage. This signifies that the 
+target gets hit in whatever you deem to be the most vulnerable; i.e., the head, 
+neck, or the chest (over the heart, etc). 
 
 *Base Damage is typically the damage of the weapon without any other character 
 bonuses, but Base Damage can be increased by certain classes and abilities.
@@ -540,11 +546,10 @@ bonuses, but Base Damage can be increased by certain classes and abilities.
 **Increases to 200 max damage at level 10.
 
 Flanking:
-	If you are behind a target, aka flanking, your melee attacks gain +2 bonus 
-accuracy against their Guard DC. (Ranged attacks don't gain a specific bonus 
-from flanking.)
+	If you are behind a target, aka flanking, your melee Accuracy rolls gain a +2 
+bonus. Ranged attacks don't gain a specific bonus from flanking.
 
-===== Ranged Combat =====
+===== Using Cover/Stances =====
 
 	If a player or opponent is standing outside of cover and they are shot at, 
 after the first firing action (assuming they didn't die or go unconscious), 
@@ -609,10 +614,20 @@ miss chance. Lets say your normal ranged miss chance is 2, and the enemy is in
 full cover, your miss chance is increased by 4, for a final DC of 6. So a roll 
 of 7-10 would be successful.
 
+== Automatic Firing ==
+
+	When rolling for automatic fire, players must roll one d10 for each bullet 
+fired unless otherwise noted. All dice are rolled at the same time, to keep the game
+moving quickly. The dice are read from left to right, and the player cannot switch
+the order that the dice fell in. For any roll that has the potential to be a jam, 
+roll the second d10 for it before rolling the next automatic-fire d10. If the roll 
+causes a jam, the rest of the automatic-fire d10s are not used. 
+
 == Gun Jams ==
-	If at any time that you are firing a gun and you roll a weapon accuracy of 1,
-roll a second d10. If that second d10 roll is a 1 or 2, the weapon Jams, 
-necessitating a Weapon - [X] Skill check, DC 60.
+	If at any time that you are firing a gun and you roll 1 on an accuracy roll,
+roll a second d10. If that second d10 roll is equal to or less than the weapon's Jam 
+Range, the weapon jams, necessitating a Weapon - [X] Skill check, DC 60 that takes 
+one Action before the weapon can be fired again.
 
 == Hip Firing ==
 
@@ -649,11 +664,12 @@ as normal. This Luck check cannot Critically succeed or fail.
 cover will make you harder to be hit. You will encounter many types of cover 
 while adventuring throughout the galaxy. Many small objects provide only partial 
 cover, either by partially obscuring your silhouette, or by providing slight 
-protection from projectiles. Full cover will do both to a better degree. 
-"Partial Cover" typically covers 30-50% of your body, whereas "Full Cover" will 
-cover closer to 60-80%. Crouching or going prone will also take better advantage 
-of your surroundings and make you a smaller target. Debuffs to opponents' Miss 
-Chances are as follows:
+protection from projectiles. Full cover will do both to a better degree.
+
+	Partial Cover typically covers 30-50% of your body. Full Cover on the other 
+hand will cover closer to 60-80%. Crouching or going prone will also take better 
+advantage of your surroundings and make you a smaller target. The penalties for
+an enemy shooting at you in different kinds of cover are listed below.
 
 No Cover: +0
 Partial Cover: +2 
@@ -666,212 +682,50 @@ Hunkering: +2 (on top of whatever cover you're behind.)
 obscure vision. Does not provide a bonus against an opponent that is within 5m 
 of you if you aren't in cover from their perspective.)
 
+Crouching:
 	Crouching is a free action, and standing up costs 1 Action. While you are
 crouched, you have -1 movement speed per action (minimum 1) and you cannot
 sprint or use other movement abilities.
 
+Prone:
 	Going prone costs 1 Action, and standing up costs 1 Action. Lying flat down on
 your chest makes you a smaller target and helps you aim better, but also makes you
-easier to hit in melee. -1 gun miss chance while prone and -2 melee Guard DC. Being
-prone severely limits your movement: 1/2 movement speed while prone, round-up; maximum
-2 movement per action.
+easier to hit in melee. You gain +1 Accuracy with firearms while prone but suffer -2 to 
+Guard checks. Being prone severely limits your movement: 1/2 movement speed while prone, 
+round-up; maximum 2 movement per action.
 
+Hunkering:
 	Hunkering costs 1 action, and you cannot fire your weapons except by blind-fire 
 (see Blind Firing, above). Imagine curling up in a ball, to pose the absolute smallest
 target possible. Its a free action to un-hunker.
 
-===== Reloading =====
-
-	When a gun runs out of ammunition, the user must pause to reload. "But how 
-long do I gotta be outta the battle?" Great question!
-
-	Each gun has a "Reload DC," rated based on the complexity and brevity of the 
-weapon's reload. For example, an assault rifle, which has a very obvious 
-magazine release button and protruding magazine, has an average DC of 30%. More 
-complex weapons, such as high-precision sniper systems or exotic sub-machine 
-guns might have a higher DC, maybe 40%. If the Player passes the reload, then 
-the reload time is standard. For Box-Magazine fed Semi- and Fully-Automatic 
-weapons, this is 2 Actions. Other, more complex weapons will specify their 
-reload time. On a critical Weapons - [X] check to reload the weapon,
-the reload time is halved (for Bolt-Actions it is reduced to 1 Action). On a 
-failure, the reload time takes twice as long.
-
-===== Suppression ===== 
-
-	Every player with a ranged weapon gets the option to Suppress as the last 
-action of their turn. Suppression, also known as, "laying down fire", 
-"covering fire", or "suppressive fire" is the art of shooting a hail of 
-bullets (as accurately as possible) to try and prevent the enemy from 
-effectively fighting back while your team maneuvers. Suppression comes in
-three flavors: light, medium, and heavy; these indicate how wide of an area
-is suppressed as well as how effective that suppression is (defined below).
-The type of suppression available to you is dependent on your weapon.
-
-	When you Suppress, you aim at the target as part of the action and fire a
-hail of bullets (within your weapon range). Suppression doesn't require any
-rolls to initiate, the suppressor simply fires, creating a light/medium/heavy
-suppression AOE (Area-of-Effect, typically a 1-3m circle). Even though Suppression
-is an AOE effect, if you cross in-front of someone (someone who is suppressing 
-a different person) you will likely trigger automatic attack rolls, DM's discretion.
-
-	If a suppressed target moves out into the open (see below), they 
-trigger automatic attack rolls (or automatic hits) by the suppressor, once 
-per target per suppressor's turn. If the suppressed target shoots, they 
-fire with +1 miss chance, not-stackable. Suppression status can't be purged 
-unless you move outside the AOE. The only other way to stop being suppressed 
-is to stop the suppressor from using a suppression action on you at the end 
-of their turn.
-
-Moving out into the open: 
-	In the context of suppression and movement, "moving out into the open" 
-includes moving into a new location while you can be hit by shots from the 
-suppressor (this excludes moving into complete concealment, such as going prone 
-behind a high concrete wall). For example, the following situations would 
-trigger a free hit by the suppressor and give you the 'suppressed' status while 
-remaining in the area (let's assume you are upright (not crouched or prone)):
-moving from partial cover to an adjacent partial cover, moving from complete 
-concealment behind a barricade to partial cover, and moving when you are caught 
-out in the open.
-
-	If the suppressor cannot physically hit you (such as being completely behind 
-an impenetrable barrier) you are not suppressed. The suppressor doesn't need to 
-see you to hit you, as in the case of suppressing a cloaked target. 
-
-== Light Suppression ==
-
-	As the last action of your turn, aim at a target and fire 3 rounds (or the 
-rest of your magazine, at least 1 round has to be fired) to suppress 1m radius 
-AOE around the target. The target takes a +1 miss chance malus until the start 
-of your next turn, and if the target moves out into the open**, then roll an 
-immediate reaction to hit the target with a (non-automatic fire) accuracy roll. 
-Immediate reactions are stackable on a per-weapon basis.
-
-== Medium/Moderate Suppression ==
-
-	Identical to light suppression with the following exceptions, you must fire 
-6 rounds from the current magazine to achieve 'moderate', and you don't have to 
-roll to hit -- you automatically hit and roll armor.
-
-== Heavy Suppression ==
-
-	Identical to light suppression with the following exceptions: you must fire 
-10 rounds from the current magazine to achieve 'heavy', you don't have to roll 
-to hit -- you automatically hit x2 and roll for armor. You suppress all targets 
-within a 2m radius AOE around the primary target.
-
-**"Moving out into the open" includes moving into a new location while you can
-be hit by shots from the suppressor (this excludes moving into complete concealment,
-such as going prone behind a high concrete wall). For example, the following situations
-would trigger a free hit by the suppressor and give you the 'suppressed' status
-while remaining in the area (let's assume you are upright (not crouched or prone)):
-moving from partial cover to an adjacent partial cover, moving from complete concealment
-behind a barricade to partial cover, and moving when you are caught out in the open.
-
-	If the suppressor cannot physically hit you (such as being completely behind an 
-impenetrable barrier) you are not suppressed. The suppressor doesn't need to see 
-you, to hit you.
-
 ==============================
-Armor
+Being Shot At
 ==============================
 
-	Please note that armor can have different types. We'll cover this later in
-more depth in the 01_04_Damage_Types_and_Armor_Types.txt document.
+	The galaxies of Compound X are filled with all manner of space pirates, 
+bounty hunters, rogue robots and hostile aliens. Many an enemy intend to settle
+their grievences with you by putting a bullet in you. These rules will explain
+how that works.
 
-===== ARMOR SYSTEMS =====
-	Armor Systems are composed of an Armor Rig and a protective Armor Material. 
-Having lots of armor may slow you down, but armor will prevent you from 
-being easy prey. Armor Rigs can be broken down into 4 pieces: helmets,
-chest rigs, arm rigs, and leg rigs. 
+===== Hitting The Dirt =====
 
-	Helmets mostly help for RP effects or holding night vision goggles.
-The other 3 riggings provide ammunition space and (most rigs) provide
-space for installing an Armor Material. Armor Materials must be purchased 
-separately than Armor Rigs. Also, Armor systems do not include any protection
-without an Armor Material. If you purchase more than one Material* to cover 
-your whole body (installing in the Arm, Leg, and Chest Rigs, for example) it 
-improves the Armor Coverage (% of Armor protection), but not the quantity of 
-the Armor Strength (AS) or the Armor Piercing Level (APL). 
-
-	For example: if you purchase a Chest Rig from the Medium Armor Systems
-category and a Standard L1 Material, you'll have 40% coverage, 40 AS, and an 
-APL of 1. Now, in addition, if you purchase the Leg Rig from the Medium Armor 
-Systems and a Standard L1 Material, you'd have 55% coverage, 40 AS, and an
-APL of 1.
-
-*Note: you cannot mix-and-match Materials or Rig categories. Only one
-kind of Material can be used for the one category of Rigging you are wearing.
-
-===== WHERE IS MY AMMO STORAGE? =====
-
-	If you are wearing any Armor Rigging, you have a certain amount of 
-"Mag Space". When you are loading up your guns before a mission, you can decide 
-how to arrange your Mag Space to suit your needs. "Mag Space" translates 1 to 1
-into Primary Magazines, and 2 to 3 (or 1 to 1) into Secondary Magazines.
-
-	For example, if I have a Chest Rig from the Recon Armor Systems category, I 
-would have 5 Mag Space. I can turn that Mag Space into 3 Primary Magazine and 3
-Secondary Magazine spaces, 5 Primary Magazine spaces, or any feasible combination. 
-
-===== WHAT IS AN 'ADVANCED RIG'? =====
-
-	Advanced (adv.) Rigs typically provide less Armor Coverage and Mag Space 
-than their regular counterparts, but they allow you to attach Shield Generators,
-Hard Point Equipment, and/or Cloaking Equipment. Advanced Rigs allow you to do
-this by providing 'Hard Points'. Hard Points are special joints and fittings that
-make it easy to attach equipment. When you purchase equipment, it will list how
-many Hard Points it consumes. You can't attach more equipment than you have available
-Hard Points.
-
-	Hard Point Equipment/Shields/Cloaking often come in two sizes, "Primary Modules" and 
-"Secondary Modules". After you purchase and install a Primary Module, you can also purchase
-and install a Secondary Module(s) that augment the benefits of the Primary Module. The 
-benefits are listed in the description of a given module. They do not mix and match;
-Secondary Modules only work for the Primary Module they are designed for.
-	Some modules have a "____ Skill Requirement". In order to operate the module, you
-must have the required quantity of the given skill.
-
-===== ARMOR RIGS =====
-
-	Armor rigs cannot be worn in combination with other Rigs from different types, tactical 
-vests, or EVA suits (for example: Recon Rigs can't be worn with Light Rigs). Some of the 
-lighter Armor Rigs cannot hold Armor Materials, designated by "(*No Armor*)". Those rigs 
-only provide more Mag Space or more Hard Points; they don't provide additional Armor Coverage.
-
-===== EVA SUITS AND FLIGHT HELMETS =====
-
-	Helmets may be worn with or added to Armor or Environment (EVA) suits.
-EVA suits are air- and water-tight when combined with an EVA or flight helmet.
-EVA suits are bulky and cannot be used with Armor Rigs, also, DEX skill checks
-have a -10% penalty and movement is reduced in RP. If the suit is hit more 
-times than its "Suit Integrity" rating, it will no longer be able to maintain
-air pressure (player health has to be damaged in order for "Suit Integrity" to
-count a hit). Suits traditionally come in white, yellow or red.
-
-===== SHIELD GENERATORS =====
-
-	Shields cover the wearer with a transparent field which blocks 
-100% of incoming Laser damage, and 50% of Plasma weapon damage, 
-as long as the Shield isn't drained of its "Shield Strength".
-Traditionally, a Shield unit consists of a generator pack which 
-is generally the size of a small backpack, and some field
-stabilizers that extend the field over the body. Once the
-Shield's capacitor units are exhausted, the Shield breaks and
-needs a while to recharge. If the user maintains their Shield 
-without letting it break, they can avoid the costly recharge time.
-For more information, please see section "Shields" in the 
-Basic Rules document.
+	If a player or opponent is standing outside of cover and they are shot at, 
+after the first firing action (assuming they didn't die or go unconscious), 
+they immediately, 'Hit the Dirt'. When you Hit the Dirt, you dive to the ground,
+going prone, within a 2m range of where you stood (DEX movement rules apply 
+as normal). Hitting the dirt consumes the 1st action of their next turn.
 
 ==============================
 Death, Dying, and Downed
 ==============================
 
 	Oh no! You have less than 1 health point left! What now!?! The good news is 
-you are not* dead yet. But you are doing what's known as "bleeding out". The 
+you are not* dead yet. But you are doing what's known as "Bleeding Out". The 
 first time your character falls below 1 hit point, you get 3 saving throws 
 called Death Saving Throws (or 'DSTs' for short). You roll one saving throw per 
-turn that you are downed and these DSTs are not modified by any attribute. If you 
-succeed a DST, (see 'Downed', below) you continue bleeding out; however, you get 
+turn that you are Downed and these DSTs are not modified by any attribute. If you 
+succeed a DST, (see 'Downed', below) you continue Bleeding Out; however, you get 
 to roll again next turn. If you fail 3 DSTs, you die. Once you fail a DST, the 
 next time you fall below 1 health point you only get 2 DSTs (2 failed throws and 
 you die). If you failed a DST during the first two times you were downed and 
@@ -880,9 +734,9 @@ whole encounter without failing a DST. You can have a maximum of 3 saving throws
 at any one time.
 
 Downed:
-	The state of having less than one Health Point is called being "downed." It 
-is also sometimes called "bleeding out." They are equivalent. While a character 
-is downed, they cannot move, cannot stand under their own power, and fall prone 
+	The state of having less than one Health Point is called being "Downed." It 
+is also sometimes called "Bleeding Out." They are equivalent. While a character 
+is Downed, they cannot move, cannot stand under their own power, and fall prone 
 if not supported by other means. They cannot speak, but can mumble 
 incomprehensibly.
 
@@ -892,15 +746,18 @@ above. Even if you had 5 health and took 80 damage, when you go down you go to 0
 health. Any additional attacks you sustain will push you into negative health. 
 
 Stabilize:
-	As an action, a character may choose an adjacent, Downed character and 
-attempt to Stabilize them. That character makes DC 80 Dex-based skill check: 
-Medicine for primarily organic targets, or Repair for primarily mechanical targets.
-If successful, the target is revived and now has 1 HP, is no longer Downed, and 
-may take Actions as normal within the initiative order. A character may be revived 
-in a single encounter a number of times equal to half their Fort, minimum two. Past 
-this limit, stabilized characters are unconscious in addition to the other effects 
-of Stabilization. Note that most persistent damage effects, like bleeds or burns, 
-fall off of characters when they are Downed.
+	For three actions, a character may choose an adjacent, Downed character and 
+attempt to Stabilize them. That character makes DC 80 DEX-based skill check: 
+Medicine for primarily organic targets, or Repair for primarily cybernetic 
+characters. If successful, the target is revived and now has 1 HP, is no longer 
+Downed, and may take Actions as normal within the initiative order. A character 
+may be revived in a single encounter a number of times equal to half their Fort, 
+minimum two. Past this limit, stabilized characters are Unconscious in addition 
+to the other effects of Stabilization. Note that most persistent damage effects, 
+like bleeds or burns, fall off of characters when they are Downed. If the 
+stabilizing character starts stabilizing with their last action or two, 
+finishing on the stabilizing character's subsequent turn, then the dying 
+character does not need to make a death saving throw on the turn between that.
 
 	If a character fails a stabilization check, nothing happens. It's just 
 taking longer to stem the bleeding. On critical success (base Critical range 10), 
@@ -923,3 +780,128 @@ retrieve a dropped weapon or stand back up if they have fallen.
 instantly. Some examples are falling several stories, lava baptisms,
 or having a space station dropped on you. Do not do these things. They are
 also known to the state of California to cause cancer. 
+
+==============================
+Reloading
+==============================
+
+	When a gun runs out of ammunition, the user must pause to reload. "But how 
+long do I gotta be outta the battle?" Great question!
+
+	Each gun has a "Reload DC," rated based on the complexity and brevity of the 
+weapon's reload. For example, an assault rifle, which has a very obvious 
+magazine release button and protruding magazine, has an average DC of 30%. More 
+complex weapons, such as high-precision sniper systems or exotic sub-machine 
+guns might have a higher DC, maybe 40%. If the Player passes the reload, then 
+the reload time is standard. For Box-Magazine fed Semi- and Fully-Automatic 
+weapons, this is 2 Actions. Other, more complex weapons will specify their 
+reload time. On a critical Weapons - [X] check to reload the weapon,
+the reload time is halved (for Bolt-Actions it is reduced to 1 Action). On a 
+failure, the reload time takes twice as long.
+
+===== Combat Stat Modifiers for Ranged and Melee Accuracy =====
+
+	These bonuses use a table instead of the more general attribute modifier 
+equation, as combat accuracy rolls are played out on a d10 scale. Under normal 
+conditions ranged combat uses the Perception combat modifier as described below. 
+Melee combat uses Strength, Dexterity, and Fortitude.
+
+== Combat Stat Modifier Table ==
+
++--------+-------------+
+| Stat   | Stat Bonus  |
++--------+-------------+		
+| 1      | -1.5	       |
++--------+-------------+
+| 2      | -1	       |
++--------+-------------+
+| 3-4    | -0.5	       |
++--------+-------------+	
+| 5      |  0	       |	
++--------+-------------+	
+| 6-7    |  0.5	       |	
++--------+-------------+	
+| 8-9    |  1	       |	
++--------+-------------+	
+| 10-11  |  1.5	       |	
++--------+-------------+	
+| 12-13  |  2	       |	
++--------+-------------+	
+| 14     |  2.5	       |		
++--------+-------------+
+| 15     |  3	       |		
++--------+-------------+
+
+	Drop any remaining decimal (0.5 or -0.5 becomes 0) -in other words- only use 
+integers when you are writing down the final miss chances of your weapon(s). For 
+example, let's say you have a basic SMG with miss chance brackets of 4, 5, and 6. 
+Assuming you have 6 Perception, your PER bonus is 0.5 and thus, your gun's range 
+miss chance brackets are:
+
+	(4 - 0.5), (5 - 0.5), (6 - 0.5)  =  3.5, 4.5, 5.5
+
+	If these are your final miss chances, you would have to drop the remainder 
+and your slightly-above-average perception wouldn't make enough of a difference 
+to affect your miss chances!
+
+	But let's say you also have a Dot Sight that you can put on your SMG. The 
+Dot Sight gives a bonus -0.5 range bracket miss chance (among other benefits). 
+This means you now have the following range brackets:
+
+	(4 - 0.5 - 0.5), (5 - 0.5 - 0.5), (6 - 0.5 - 0.5)  =  3, 4, 5
+
+	Perfect! Now your Perception and Dot Sight bonuses, together, reduce your 
+range bracket miss chances by 1 point. If you don't have any other bonuses (from 
+other attachments, feats, or abilities) then you would write down 3, 4, 5 as 
+your range bracket miss chances.
+
+	If your gun has automatic and/or burst fire, you'd add its associated miss 
+chances to your range bracket miss chances and separately write down those 
+numbers (after all bonuses to range bracket miss chance and bonuses to automatic 
+or burst fire). In other words, if you have a ranged weapon with semi-auto, 
+burst, and automatic fire modes, then you should write down 3 sets of 3 miss
+chances; one set for each of the 3 fire modes. For example, let's now assume 
+your gun has a burst fire miss chance of 1 and an automatic fire miss
+chance of 3, your ranged bracket miss chances should look something like this...
+
+0-10m, 11-20m, 21-40m	range brackets
+  3,     4,      5    	semi-auto miss chances
+  4,     5,      6	burst fire miss chances
+  6,     7,      8	automatic fire miss chances
+
+
+
+===== Thrown Weapons =====
+
+	These weapons work similarly to guns in that attackers add their combat PER 
+mod to their accuracy, however, like melee attacks, if you roll a critical hit or 
+3+ above your Miss Chance, your attack bypasses any armor the target is wearing. 
+Thrown weapons benefit from Stealth Attacks normally (see basic rules).
+	
+	Thrown weapons use the same size categories as Melee weapons for 
+determining proficiency, though a Two-handed throwing weapon would be 
+rare indeed.
+
+===== Grenades =====
+
+	All grenades require an explosives skill of at least 6 to use.
+You can 'cook' a grenade in your hand for 1 action to make it impossible for an
+enemy to dodge.
+
+	Gain +2 Accuracy if you are throwing under half of your grenade's max 
+throwing distance. If you fail your throw within 1 miss chance of the minimum, 
+roll d4 meters for how off-target the grenade throw is. If you fail your throw 
+beyond 1 miss chance, roll a d10 instead.
+
+	All grenades have a Reflex Modifier: -10
+
+
+Stealth Attacks:
+
+	If you are hidden (undetected by an opponent) when you initiate an attack 
+action, you incur bonuses depending on the circumstances of the attack.
+
+*Base Damage is typically the damage of the weapon without any other character 
+bonuses, but Base Damage can be increased by certain classes and abilities.
+
+**Increases to 200 max damage at level 10.
