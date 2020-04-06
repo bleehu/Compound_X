@@ -901,6 +901,7 @@ Skill Proficiencies:
 * Weapons - Melee
 
 == Class Feats ==
+
 Blood Rage:
 	You gain a permanent 30 health. In addition, you deal an extra point of 
 melee damage for each health point you are missing. If more than a third of your 

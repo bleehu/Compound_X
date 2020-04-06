@@ -4,92 +4,170 @@ Conditions
 
 == Bleeding ==
 
-    d10/2+1 (drop the remainder) stackable damage per turn. Broken with 
-Medicine Skill check. DC varies. If you have a bleed condition, seek medical aid
-immediately, You CAN Bleed Out, you have been warned.
+    Bleeding is when a character has sustained damage to the systems of their
+anatomy that contian liquids vital to their survival. This can happen to both
+biologic targets, who usually leak blood, and to cybernetic targets, who can 
+leak coolant and lubricant.
+
+    A Character that is bleeding takes d10/2+1 (drop the remainder) stackable 
+damage once per round at the beginning of their turn. The bleeding can be 
+staunched with Medicine Skill check. The Medicine (Dex) DC to stop varies; the
+cause of the bleed effect should list it in the effect description.
 
 == Burning ==
 
-    2d10 damage per turn. Broken with a Maneuver Skill Check. DC 40. 
-Every 2 turns, the degree of the burn intensifies
+    A character that is on fire, or has glowing metal on them (such as white
+phosphorous) is burning. Burning is different than a Plasma Burn. For Plasma
+Burns, see the "Plasma Burn" Condition further below.
+
+    A Burning character takes 2d10 damage per stack of burn per round at the 
+beginning of their turn. Most burning can be extinguished by dousing a character 
+in a non-flamable liquid, or by that character dropping and rolling. One Action 
+to drop, One Action to Roll around and put out the fire. Rolling has a 
+Dex (Athletics) DC 40 to extinguish flames. 
+
+    Every 2 turns that the burning is not extinguished, the burn intensifies by 
+one stack. 
+
+    Some burning chemicals, like white phosphorous or most napalms, contain the 
+oxygen that they need to burn and aren't extinguished with water or rolling 
+around. These sources of the Burning Condition will explicitly state that they 
+can't be put out with normal means and will need to be neutralized by other 
+means, such as the Doctor's Purge ability.
 
 == Downed ==
 
-    Your health has fallen below 0. See the "Death and Dying" section in the 
-Basic Rules Document.
+    Downed is a state that a character enteres when their health has fallen 
+below 0. See the "Death and Dying" section in the Combat Rules Document.
 
 == Disrupted ==
 
-    You cannot use Nanite abilities, Doctor Procedures, Engineer Processes or 
-Hacker Exploits. Many similar abilities are also prone to Disruption. If they
-are not on this list, consult your GM. 
+    Certain Characters have the ability to disrupt their enemies either with
+signal jamming, malware or sometimes direct electrical interference. When this
+succeeds, it prevents their target from using their more exotic talents.
+
+    A Character that is Disrupted cannot use Nanite abilities, Doctor Procedures, 
+Engineer Processes or Hacker Exploits. Many similar abilities are also prone to 
+Disruption. If they are not on this list, consult your GM. 
 
 == Frozen ==
 
-    d10 damage per turn. lasts until a source of heat is applied to the wound, 
-or with Medicine Skill check, DC 50.
+    Most Characters respond poorly to the application of extremely low 
+temperatures to their anatomy. Biological targets tend to have the water in 
+their cells solidify into sharp ice in a process known as "Frostbite." 
+Cybernetic targets on the other hand tend to have their moving parts contract
+and wear down while their electrolytic fluid hardens. 
+
+    A Character that is Frozen takes d10 damage per round at the beginning of 
+their turn. The Condition lasts until a source of heat is applied to the wound, 
+or with Medicine (Dex) Skill check, DC 50.
 
 == Fear ==
 
-    No actions, except running away form the source of fear, or rolling to 
-defeat fear. DC 50, Will save.
+    Both cybernetic and biologic Characters can react to the mental instinct for
+self-preservation. This usually happens when presented with the appearance of
+certain, agonizing death, though there are certainly other scary things in the
+universe.
+
+    A Character that has the Fear Condition may take no actions, except moving 
+away from the source of fear, or taking an action to roll to defeat fear. DC 50, 
+Will Save.
 
 == Fear, Greater ==
 
-    No actions, except rolling to defeat fear. DC 75, Will save.
+    In rare cases, fear can become so great as to cause a total mental 
+overstimulation. In biologic Characters, this takes the form of a petrifying 
+flood of neurochemicals in the brain. Cybernetic Characters experience an 
+exception caused by the overinflation of their fear fuzzy logic field. 
+
+    A Character experienceing Greater Fear can take no actions, except rolling 
+to defeat fear. DC 75, Will save or 5 turns, whichever happens first.
 
 == Lonely ==
 
     Being Lonely is a condition most commonly contracted from having 1 Charisma
 and failing to successfully socialize, or by trying and failing to socialize 
-with an ally who has 1 Charisma. You haven't met Mazlow's Hierarchy of needs, 
-and this affects your performance. While Lonely, you move 1m slower every two 
-actions (round down) and take a -5 to skill rolls. 
+with an ally who has 1 Charisma. A Lonely Character hasn't met Mazlow's 
+Hierarchy of needs, and this affects their performance. 
+
+    A Lonely Character moves 1m slower every two Actions (round down) and takes 
+a -5 to skill rolls. 
 
 == Necrosis ==
 
-    2d10 +5 damage per turn. Seek medical attention immediately. If left 
-unhealed for more than a day, the infection spreads 1 foot per day. Medicine DC 
-75, must be rolled.
+    Necrosis is a buildup of dead organic tissue in a biologic Character, 
+usually caused by gangrene or biological weapons. Typically, any hair, fur or
+scales fall off of the affected area and the flesh underneath turns black and
+dies.
+
+    A Character aflicted with Necrosis takes 2d10 +5 damage per Round at the 
+begining of their turn. If left unhealed for more than a day, the infection
+spreads 1 foot per day. A Medicine check of DC 75 must be rolled to cure it, 
+usually by surgically removing the dead tissue and generously applying healing 
+biofoam.
 
 == Pinned Down ==
 
-    Target pinned (hunkered, no movement) for 2 full turns or until they pass a 
-Will saving throw at DC of 70, whichever is quicker.
+    A target that is behind cover and is either pinned by the threat of sniper
+fire or a continuous stream of bullets must overcome the psychological instinct
+to stay put and not get shot.
+
+    A target that is pinned is hunkered and cannot move for 2 full Rounds or 
+until they pass a DC 70 Will Save, whichever is quicker.
 
 == Plasma Burn ==
 
-    1d10+1 stackable damage per turn, for 2 turns if the target's armor is 
-pierced/missed. If the targets armor is hit/pierced, the armor's AP Level is 
-reduced by 1, permanently (repairable, DC 60% Repair check), not stackable. 
+    Many weapons in the Compound X Universe fire bolts of burning plasma, which
+have the tendency to stick to a target and their armor, continuing to do damage
+even after the initial impact of the projectile.
+
+    A Character that has a Plasma Burn takes 1d10 + 1 Plasma Damage per Plasma
+Burn Token per round at the beginning of their turn. Each "token" lasts for 2 
+turns if the target's armor was pierced or missed. 
+
+    If the targets armor is hit/pierced, the armor's Armor Piercing Level is
+reduced by 1, permanently (repairable, DC 60% Repair check). While the damage 
+from burn tokens is additive, any given set of armor cannot have its APL reduced 
+by more than one regardless of how many plasma shots it has taken.
 
 == Poisoned ==
 
-    d10 damage per turn. After 5 turns, some poisons may induce unconsciousness. 
-DC 50, Fortitude. Greater / Lesser poison increases damage (+5/-5) and DC 
-(+25,-10).
+    Biological Characters can have a variety of poisons introduced into their
+systems. These poisons typically degrade the overall health of the Character
+over a period of time. Poisons with additional or different effects will list
+them explicitly. Poisons that affect cybernetic Characters will list so 
+explicitly as well.
+
+    A Character that is afflicted with poison takes 1d10 internal damage per
+Round at the beginning of their turn. 
 
 == Buzzed (drunk) ==
 
     Many drinks in the galaxy contain a substance called alcohol. When consuming 
 these drinks, the effect should list a FORT save to avoid increasing your level 
-of intoxication. The first level of intoxication is Buzzed. While buzzed, you 
-gain a +10% to miss with any attack and a temporary -1 to Perception. At the 
-same time, you get a +1 to charisma and luck. You also take a -20 to skill 
-checks involving driving, flying or operating heavy machinery. If you fail a 
-Fort save to prevent increasing your intoxication level while buzzed, you become 
-hammered. As long as you don't become hammered, being buzzed will wear off in 
-two hours.
+of intoxication. The first level of intoxication is Buzzed. 
+
+    While buzzed, a Character gains a -1 to accuracy with any attack and a 
+temporary -1 to Perception. At the same time, the Character gets a +1 to 
+Charisma and Luck. You also take a penalty of -20 to skill checks involving 
+driving, flying or operating heavy machinery. If the Character fails a Fort save
+to prevent increasing their intoxication level while Buzzed, they lose the 
+Buzzed Condition and instead are aflicted with the Hammered Condition (See 
+below). As long as they don't become Hammered, being Buzzed will wear off in two
+hours.
 
 == Hammered (drunk) ==
 
-    While hammered, you take a -30 to accuracy rolls when attacking and a -50 to 
-skill checks involving driving, flying or operating heavy machinery. You take a 
-temporary -2 to dex, perception and charisma. If your level of intoxication 
-increases while you are hammered, you black out and you are now Downed. As long 
-as you don't black out, being hammered will turn into being buzzed after two 
-hours.
+    While Hammered, a Character takes a -3 to accuracy rolls when attacking and 
+a -50 to skill checks involving driving, flying or operating heavy machinery. 
+The Character takes a temporary -2 to Dexterity, Perception and Charisma. If the 
+Character's level of intoxication increases while you are Hammered, that 
+Character blacks out and is now Downed, but not Bleeding Out. As long as a 
+Character doesn't black out, being Hammered will turn into being Buzzed after 
+two hours.
 
 == Stunned/Paralyzed ==
 
-    Affected target cannot take actions for the duration.
+    A Stunned or Paralyzed target cannot take actions for the duration of the
+Condition. The DC of the Saving Throw to end the Condition should be listed on
+the source of the stun or paralysis.
