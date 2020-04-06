@@ -4,26 +4,117 @@ Damage Types and Armor Types
 
 ===== Damage Types =====
 
-== Weapon Types ==
+== Common Damage Types ==
 
-Ballistic Weapons:
-    Ballistic weapons are straightforward: they are blocked by armor and ignore 
-shields. Any damage that defeats armor damages health.
+Ballistic Damage:
+	Ballistic damage results from the impact and/or penetration of solid 
+projectiles, causing physical damage and secondary shock effects to living and 
+mechanical systems.
+    
+	Ballistic damage is dealt first to armor, and then to health. It 
+bypasses shields.
 
-Plasma Weapons:
-    Plasma interacts with both armor and shields. Armor's effectiveness is 
-reduced by 1 APL when hit by plasma. Targets hit with plasma, that pierces armor, 
-take (stackable) plasma burn. For Shields, Plasma deals half damage to the 
-shielding, plus inflicts plasma burn and any remaining damage on the wearer 
-(only if their armor is pierced, of course). 
+Plasma Damage:
+	Plasma damage is dealt by the impact of a hot and highly charged plasma 
+projectile and/or spray. It tends to cause large burns to targets' exterior surfaces 
+and electrical shock throughout.
 
-Laser Weapons:
-    Lasers are completely blocked by shields, dealing all of their damage to the 
-shielding. Lasers deal full damage to armored targets; If a player wearing 
-ballistic armor is hit with a laser, they receive damage as if they weren't 
-wearing any armor.
+	Plasma damage is dealt first to shields, then to armor, and then to health, 
+but shields and armor can only absorb up to half of each plasma attack's damage 
+(rounded up). A character with armor but no shields (and no other defensive effects) 
+would always take at least half of a plasma attack's damage to their health.
 
-== Fall Damage ==
+	Additionally, whenever a character takes Plasma damage to their health, 
+they gain one instance of Plasma Burn (see Conditions). 
+
+	Armor damaged by Plasma loses 1 APL. This effect cannot stack and wears off 
+after the encounter.
+
+Laser Damage:
+	Laser damage is a burn or explosive energy release delivered by a high-
+intensity stream of photons, or light. The burns are more localized than those of 
+Plasma projectiles.
+	
+	Laser damage is dealt first to shields, and then to health. It 
+bypasses armor.
+
+== Additional Damage Types ==
+
+Acid Damage:
+	Some damage is dealt when a substance of a significantly different PH balance
+comes in contact with your player and chemically reacts in an adverse manner.
+Such cases are usually painful and smell bad. 
+
+	While taking acid damage doesn't always mean that you have an ongoing 
+effect, read the source of the damage carefully to see if in addition to the 
+one-time damage effect, you also have an ongoing effect to deal with as well. 
+Acid damage can affect armor adversely as well, but that is not implied simply 
+by an attack being labeled with acid damage. Such effects will be listed 
+separately in the attack, trap, etc.
+
+	Acid damage is dealt first to armor, and then health. It bypasses shields.
+
+Electric Damage:
+	Some damage is dealt to characters with a high current and voltage. This
+can lead to burns, organ failure, fried circuits and chaotic effects on the 
+nervous or control systems of a given character. This damage does not have any
+special effect on armor, but certain characters are more prone to electric 
+damage than others, while some characters are more resistant to it.
+
+	Electric damage is dealt first to shields, and then health. It bypasses 
+armor.
+
+Explosive Damage:
+	Certain grenades and devices deal explosive damage, which is a shockwave 
+transmitted through any liquid or gaseous medium. Though fragmentation grenades 
+may seem like explosive weapons, they deal ballistic damage because their 
+primary damage delivery method is shrapnel.
+
+	Explosive damage is dealt directly to health, bypassing armor and shields.
+
+Internal Damage:
+    Internal damage can be taken from things like parasites, malicious
+microbots, or simply pushing your character's physical body past its breaking
+point. 
+
+	Internal damage is dealt directly to health, bypassing armor and shields. 
+Unless otherwise stated, it also bypasses all other defensive effects.
+
+Thermal Damage:
+	Some damage is dealt with conflagrations, general combustion or extreme 
+cold. While this damage often leaves an ongoing burning effect, this damage 
+type does not imply that simply by being Thermal Damage. Please read a given 
+attack or event carefully to see if you are simply burned once, or have an 
+ongoing effect as well. Some characters are more resistant to Thermal Damage 
+than others. Similarly, some armor in the game helps mitigate Thermal Damage 
+more effectively than others as well. 
+
+	Thermal damage is dealt first to shields, then armor, and then health.
+
+===== Protection Types =====
+
+Armor:
+	Ballistic Armors (or more simply, Armor) protect the wearer by absorbing 
+and spreading out physical impacts. When armor is impacted by a projectile with 
+mass, it takes damage before its wearer, as described in Combat Rules.
+
+	Armor is fully effective against Ballistic, Acid, and Thermal damage. It 
+is partially effective against Plasma damage.
+
+	Purchaseable armors can be found in the /items/Armor section.
+
+Shields:
+	Shields are generated by armor hard point modules, and surround the user 
+in a protective particle field that can absorb the energy of massless projectiles, 
+taking their damage before the user as described in Combat Rules.
+
+	Shields are fully effective against Laser, Electric, and Thermal damage. 
+They are partially effecive against Plasma damage.
+
+	Shield modules attach to armor hard points and can be found in 
+/items/Hard_Point_Equipment.txt.
+
+===== Fall Damage =====
 
     Beyond weapon damage, there are also environmental threats to consider. An 
 important note is on fall damage. A player can fall up to their Dex/2 in 
@@ -38,59 +129,3 @@ one injury, depending on the severity of the fall. Some examples are below:
 * Broken leg(s)
 * Broken arm(s) in addition to leg(s)
 * Broken everything
-
-== Other Damage Types ==
-
-Explosives:
-    Certain grenades and devices have Explosive (concussive) damage. Explosive 
-Damage ignores armor and shields (explosive damage is essentially, a crushing 
-force). Fragmentation grenades are considered ballistic weapons, as their 
-primary damage delivery method is shrapnel. 
-
-Electric Damage:
-    Some damage is delivered to characters with a high current and voltage. This
-can lead to burns, organ failure, fried circuits and chaotic effects on the 
-nervous or control systems of a given character. This damage does not have any
-special effect on armor, but certain characters are more prone to electric 
-damage than others, while some characters are more resistant to it.
-
-Fire Damage:
-    Some damage is inflicted with conflagrations or general combustion. While
-this damage usually leaves an ongoing burning effect, this damage type does not
-imply that simply by being Fire Damage. Please read a given attack or event 
-carefully to see if you are simply burned once, or have an ongoing effect as
-well. Some characters are more resistant to fire than others. Similarly, some
-armor in the game helps mitigate fire damage more effectively than others. 
-
-Acid Damage:
-    Some damage occurs when a substance of a significantly different PH balance
-comes in contact with your player and chemically reacts in an adverse manner.
-Such cases are usually painful and smell bad. 
-
-    While taking acid damage doesn't always mean that you have an ongoing 
-effect, read the source of the damage carefully to see if in addition to the 
-one-time damage effect, you also have an ongoing effect to deal with as well. 
-Acid damage can affect armor adversely as well, but that is not implied simply 
-by an attack being labeled with acid damage. Such effects will be listed 
-separately in the attack, trap, etc.
-
-Internal Damage:
-    Internal damage can be sustained from things like parasites, malicious
-microbots, or simply pushing your character's physical body past its breaking
-point. Unless otherwise stated, internal damage always deals full damage and
-ignores armor. 
-
-===== Protection Types =====
-
-Armor:
-    Ballistic Armors (or more simply, Armor) are the first type of protective 
-measure that you will come across. When armor is shot by a ballistic weapon, the 
-armor may reduce or fully block damage before the character's health is damaged.
-Balistic armor also does not conduct electricity, and an electric weapon that
-hits armor usually does not deliver the electric portion of its damage. For 
-examples of armor that you can buy, see the /items/Armor section.
-
-Shields:
-    CS Shields (or more simply, Shields) are the second type of protective 
-measure that you will come across. Shields normally protect against Plasma and 
-Lasers but not against ballistics.  
