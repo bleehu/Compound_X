@@ -95,30 +95,6 @@ Context: Research
 Noise Level: Low
 Weight: 
 
-Hostile Environment Hostile Atmosphere Survival Package ($600):
-	[ph][one kit does for a party]
-
-Relevant Skill(s): Survival
-Context: Mitigating nonstandard atmospheres environmental effects
-Noise Level: Low
-Weight: 
-
-Hostile Environment Low-gravity Survival Package ($600):
-	[ph][one kit does for a party]
-
-Relevant Skill(s): Survival
-Context: Mitigating low-gravity environmental effects
-Noise Level: Low
-Weight: 
-
-Hostile Environment Thermal Survival Package ($600):
-	[ph][one kit does for a party]
-
-Relevant Skill(s): Survival
-Context: Mitigating thermally extreme environmental effects
-Noise Level: Low
-Weight: 
-
 Field-expedient Biological Trauma Kit ($250):
 	Contains a variety of pliers, grips, reusable injectors, biofoam 
 spray nozzles, suture applicators, cauterizers, etc. Also has a sterilizing unit 
