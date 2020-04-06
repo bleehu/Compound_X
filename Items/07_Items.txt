@@ -149,7 +149,8 @@ in the following colors.
 *  Blacklight ($2 extra) 
 
 Nanite Pack ($100):
-    Restores 2d10 + 20 nanites.
+    As an Action with range Touch, remove up to 2 Rounds of cooldown from one unit 
+of Medical Nanites owned by the target.
 
 Permanent Marker ($2):
     MarkAll(tm) permanent marking pen of one of the following colors.
