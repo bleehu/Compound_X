@@ -1,12 +1,8 @@
 ==============================
-Notes
+Feats
 ==============================
+
     This document lists the feats available to characters in Compound X.
-Feats may be taken on every even level as described in the Basic
-Rules document. Passive feats are used freely with no limit
-(unless otherwise stated) while active feats require the user to
-spend some Nanites, which is specified next to the feat's name.
-Unless otherwise specified, you cannot take a feat more than once.
 
 ==============================
 Passive Feats
@@ -19,9 +15,9 @@ Prerequisites:
 *  Level 6
 *  Dual Wield feat
 
-	Reduce the miss penalty from dual wielding to +1 miss chance per weapon. 
+	Reduce the miss penalty from dual wielding to -1 accuracy per weapon. 
 Reduce the reload penalty to 10%. You may fire at more than one target at once 
-for an additional +2 miss chance penalty.
+for an additional -2 accuracy penalty.
 
 == Acquired, Additional Plating ==
 Prerequisites: 
@@ -76,14 +72,14 @@ Prerequisites:
 
 *  None
 
-	-1 miss chance with guns. -5% penalty to Skill Checks in combat.
+	+1 accuracy with guns. -5% penalty to Skill Checks in combat.
 
 == Combat Expertise [Melee] ==
 Prerequisites: 
 
 *  None
 
-	(Requirement for Expert Melee Training) -1 miss chance in melee. -5% penalty 
+	(Requirement for Expert Melee Training) +1 accuracy in melee. -5% penalty 
 to Skill Checks in combat.
 
 == Combat Expertise [Support] ==
@@ -92,8 +88,7 @@ Prerequisites:
 *  None
 
 	+20% bonus to skill checks for class-related tasks in combat. (If you are a 
-medic, this would apply to medicine but it wouldn't apply to hacking, etc.). +1 
-miss chance with Guns or Melee in combat.
+medic, this would apply to medicine but it wouldn't apply to hacking, etc.). -1 accuracy with Guns or Melee in combat.
 
 == Concussive Maintenance ==
 Prerequisites: 
@@ -149,12 +144,31 @@ Prerequisites:
 	Maybe you've got a bigger corpus collosum and your right brain and left brain
 are in higher sync than most people; or maybe you've seen too many John Woo
 holomovies. Either way, you've managed to effectively fight using a weapon
-in each hand. The weapons must be of the same type, either two pistols, two
-smgs, etc. While wielding dual weapons, you may fire both at the same time
-at the same target with a +3 miss chance for each weapon. You may not target 
-more than one target at a time. Reloading while dual wielding adds
-20% to the difficulty. Additionally the sum of the strength requirements 
-must be equal to or less than your strength.
+in each hand. 
+
+	The weapons must be of the same type, either two pistols, two smgs, two light
+or one-handed melee weapons, etc. Additionally the sum of the strength requirements 
+must be equal to or less than your Carry Strength. While Dual Weilding, you cannot 
+take the grapple Action nor the Disarm Action. Any time you would attack with a 
+reaction or if an ability of yours or an ally's would give you a free attack, you
+may only attack with one of your dual wielded weapons, but you may pick which one
+to use. 
+
+	While wielding two guns, you may fire both at the same time at the same target 
+with a -3 accuracy for each weapon. You may not target more than one target at 
+a time. Reloading while dual wielding adds 20 to the difficulty of the reload.
+
+	While dual wielding two melee weapons you may make a melee attack with each
+as normal in the same Action, with a -2 to your melee accuracy for each. If you 
+are attacked with a melee attack, you may only use one of your melee weapon's 
+accuracies as a bonus to your defense. You do get to pick which weapon you would
+like to use to defend though. 
+
+	In addition, this feat lets you take the 'Dual Guard' Action as the last 
+Action of your turn so long as you are weilding two melee weapons. If you do so, 
+you spend a whole turn "putting up your dukes" and preparing to block attacks 
+with both weapons. Mechanically, this gives you the guard bonus from both weapons
+as well as an extra +2 to your guard DC for having two weapons to block with. 
 
 == Empty the Mag ==
 Prerequisites:
@@ -250,8 +264,8 @@ rolls dealing with using a weapon.
 Prerequisites:
 *  Melee Expertise
 
-	The benefits of the Melee Expertise feat now also apply to Improvised Melee 
-Weapons.
+	The benefits of the Melee Expertise and Thrown Expertise feats now also 
+apply to Improvised Melee and Thrown Weapons, respectively.
 
 == Improvise Weapon ==
 Prerequisites:
@@ -273,7 +287,7 @@ weapon. If you choose to do so, you must attempt a DC 60 Juggling skill
 check. On success, you may draw three of the same type of thrown weapon at
 once and use each as if you had drawn them normally. If you fail, you drop one
 of the weapons at your feet and launch the other two in random directions. You
-also gain a -1 to miss with thrown weapons and a +10 to stealth checks to attack
+also gain a +1 to accuracy with thrown weapons and a +10 to stealth checks to attack
 quietly with thrown weapons.
 
 == Last Shot Counts ==
@@ -302,7 +316,7 @@ Prerequisites:
 	There are always so many bullets flying around, you make a habit of not 
 peaking your head out and looking at your enemy. And somehow you still hit them 
 (some of the time). Roll a d10 before any Blind Firing or Hip Firing action. If 
-the roll is from 6 to 10, Gain -2 miss chance for that firing action; If the 
+the roll is from 6 to 10, Gain +2 accuracy for that firing action; If the 
 roll is from 1 to 5, nothing happens.
 
 == Last Stand ==
@@ -368,9 +382,9 @@ Prerequisites:
 
 *  Fort > 3
 
-	Take a +1 to miss on all attacks when not drunk. Instead of taking a penalty 
-to accuracy when using melee attacks while intoxicated, you get a -1 to miss 
-when buzzed and a -2 to miss when hammered. On hits that land while you are 
+	Take a -1 accuracy on all attacks when not drunk. Instead of taking a penalty 
+to accuracy when using melee attacks while intoxicated, you get a +1 accuracy 
+when buzzed and a +2 accuracy when hammered. On hits that land while you are 
 buzzed or hammered, you deal extra damage equal to your strength modifier. These
 bonuses only apply to melee attacks. You also get a +10% on rolls to avoid 
 blacking out.  
@@ -686,7 +700,7 @@ Prerequisites:
 *  10 skill in Weapons - [x] 
 
 
-	Remove 1.5 ranged miss chance from any one weapon model. If you spend 30 hours
+	Gain 1.5 accuracy from any one weapon model. If you spend 30 hours
 studying/using/practicing with a different gun (that you have at least 10 
 Weapons - [x] skill in using), you can change which gun you are most familiar 
 with -- which moves the bonus from the previous gun model, to the one you are
@@ -698,19 +712,6 @@ now working with. This feat can only be taken once per weapon.
 ==============================
 Weapon Expertise Feats:					
 ==============================
-		
-	These feats represent dedicated training with a particular class of weapon, 
-and offer bonuses based on the relevant Weapons skill (Weapon skills are listed 
-in "06_Skills.txt"). Each feat offers a set of bonuses related to using that type of 
-weapon (and only that type of weapon), and each bonus requires the character to have 
-a number of points in the relevant Weapon skill. A character with 0 points in 
-Weapons - Pistols would gain only one benefit, while 60 points would benefit from 
-them all. The feats are formatted as a list of "X: Benefit", where X is the number of 
-points required in the corresponding Weapon skill to gain the benefit.
-	
-	Weapon Expertise feats require proficiency with the weapon type, but otherwise 
-have no prerequisites. Note that as all characters are proficient with Unarmed Strike, 
-Melee Expertise effectively has no prerequisite.
 
 == Pistol Expertise ==	
 
@@ -817,8 +818,8 @@ Melee Expertise effectively has no prerequisite.
 24:	Heavy weapons no longer recieve the Accuracy penalty associated 
 	with being improvised melee weapons while being used as melee weapons
 	(They still receive a Guard penalty).
-36:	+1 Accuracy against targets when your weapon's APL is at least 1 greater 
-	than the target's armor's APL.
+36:	+1 Accuracy to consecutive firing Actions after the first (non-stacking) and 
+	to attacks triggered by Suppression Actions.
 48:	+10m to Range R3.
 60:	Machine Guns when autofiring, Flamethrowers, Lightning Guns, Antimaterial 
 	Guns firing explosive shot, etc. can be fired at 1m radius areas instead 
@@ -848,9 +849,9 @@ other weapons or class abilities. Does apply to Engineer mortars.
 
 == Melee Expertise ==
 
-	Applies to Melee Weapons that the user has Proficiency with and to Unarmed Strike. 
-Does not apply to Improvised weapons. Reminder: these bonuses are only in effect while 
-you are wielding an appropriate weapon.
+	Applies to melee weapons that the user has Proficiency with and to Unarmed Strike. 
+Does not apply to Improvised weapons. Reminder: combat-related bonuses are only in effect 
+while you are wielding an appropriate weapon.
 
 0:	+1 Move Speed while using the Charge action with intent to engage an enemy in 
 	Melee Combat.
@@ -871,7 +872,32 @@ you are wielding an appropriate weapon.
 	unarmed targets).
 60:	+10% Base damage. Gain +0.5 Critical Hit range whenever you hit an enemy but
 	do not score a Critical Hit. This bonus resets if you score a Critical Hit, 
-	are stunned, or spend 1 round out of Melee Combat.
+	are stunned or knocked prone, or spend 1 round out of Melee Combat.
+
+== Thrown Expertise ==
+
+	Applies to throwing weapons and large-projectile weapons like bows, javelins, 
+and harpoon launchers that the user has proficiency with. Does not apply to Improvised 
+throwing weapons.
+
+0:	+5m to ranges R1 and R2.
+12:	May use Weapons - Thrown in place of Perform (Dex) when making displays of 
+	juggling or other performances that involve throwing as an important component.
+24:	When attacking with throwing weapons, before rolling Accuracy, you may declare the 
+	attack to be Disabling. Such attacks deal one third damage, but if they damage 
+	health then the projectile lodges in the target's armor or person. Characters 
+	take 2d10 damage of the weapon's damage type for each lodged projectile whenever 
+	they spend more than 2 Actions moving (including crouching/standing, but not 
+	attacking) in a single turn. Up to two lodged projectiles may be removed as an 
+	Action.
+36:	When attacking an armored target at range, their armor has 10 less coverage 
+	against your attacks.
+	/* When attacking an armored target at range, their armor coverage range is 
+	reduced by 1 {Static Armor} */
+48:	+10m to throwing weapons' farthest range bracket.
+60:	+10% Base damage. If you spend at least 2 Actions making ranged attacks with 
+	a throwing weapon in a single turn, you may make an additional attack with 
+	a similar throwing weapon as a Reaction.
 
 ==============================
 Active Feats
@@ -902,16 +928,16 @@ Prerequisites:
 *  Hacker or
 *  Knowledge - Nanites at 40
 
-	Add +3 miss chance to a piece of cover for 4 turns.
+	Add -3 accuracy to a piece of cover for 4 turns.
 
 == Combat Roll [30 Nanites] ==
 Prerequisites:
 
 *  DEX 5
 
-	Move 6m in one action, no more, no less. Enemies attacking you have a +2 
-miss chance and a -20% penalty to reflex rolls when attacking you during the 
-roll and for the turn after you use this feat, and you have a +2 miss chance for 
+	Move 6m in one action, no more, no less. Enemies attacking you have a -2 
+accuracy and a -20% penalty to reflex rolls when attacking you during the 
+roll and for the turn after you use this feat, and you have a -2 accuracy for 
 the action after this feat ends. If this malus would not run out until after 
 this turn, its effect wraps, around to the beginning of your next turn. Cannot 
 be used in concert with Run 'N' Gun.
@@ -924,6 +950,19 @@ Prerequisites:
 	Move up to your speed and end next to a barrier behind which you can take
 cover. You hunker or go prone behind that cover as a free action. Cannot 
 be used in concert with Run 'N' Gun.
+
+== Duck, Bob and Weave [20 Nanites] ==
+Prerequisites:
+
+* Dex 4
+
+	As the last Action on your turn, you may move half of your Move Speed 
+bouncing erratically along your path. When you do so, you are considered to be 
+in light cover from all sides, owing to the difficulty that the enemy has in 
+attempting to keep you in their sights. This light cover does not stack with 
+other cover. When using Duck, Bob and Weave, your character must end their turn 
+at least their Move Speed from where they started their turn. You cannot Duck, 
+Bob and Weave if your movement is constrained by a condition or other effect. 
 
 == Flash Dance [10*X Nanites] ==
 Prerequisites:
@@ -954,8 +993,8 @@ Prerequisites:
 
 	Whenever you land a successful melee hit against someone, you may roll for X 
 additional attacks, where X is your Nanites spent/5. Each additional attack has a 
-compounding +2 miss chance. (A 10th level character making their 3rd strike in a 
-row would be rolling at +4 miss chance).
+compounding -2 accuracy. (A 10th level character making their 3rd strike in a 
+row would be rolling at -4 accuracy).
 
 == Kip-up [15 Nanites] ==
 Prerequisites:
@@ -998,7 +1037,7 @@ Prerequisites:
 *  or Soldier Class
 *  or Specialist Class
 
-	For 1 Action, you may move at half speed while firing. +1 Miss Chance. If 
+	For 1 Action, you may move at half speed while firing. -1 to accuracy. If 
 you don't Aim before using this feat, you must Hip Fire. If this feat is 
 performed while sprinting, half your movement speed before you add the +1m 
 per-action from sprinting. The Miss Chance penalties stack for consecutive uses 
@@ -1009,7 +1048,7 @@ Prerequisites:
 
 *  PER 7
 
-	Take 1 Action to breath slowly and line up your shot. -1 Ranged Miss Chance 
+	Take 1 Action to breath slowly and line up your shot. +1 Ranged accuracy 
 and +10m to the weapon's largest range bracket for each level of Steady Shot taken.
 Miss Chance can go below the -2 minimum range (See section "Combat:" in the basic
 rules document). You must be aiming at the target before you can use this feat. 
@@ -1023,7 +1062,7 @@ Prerequisites:
 *  DEX 7
 
 	You may aim at an enemy as a free action instead of one action. Only works 
-with CQB weapons. +2 miss chance with the aimed weapon(s).
+with CQB weapons. -2 accuracy with the aimed weapon(s).
 
 == Blur	[11 Nanites] ==
 Prerequisites:
@@ -1086,9 +1125,9 @@ Prerequisites:
 	You have incredible understanding of how beings in your universe perceive 
 and react to their environments, allowing you to feint and position yourself in 
 cover better. If you have 9 or more Charisma, any LIVING ENEMY (i.e. non-robotic 
-enemy) targeting you gets a +1 miss chance penalty when you have any kind of 
+enemy) targeting you gets a -1 accuracy penalty when you have any kind of 
 defense bonus from cover. If you have 12 or more Charisma, ANY ENEMY targeting 
-you gets a +1 miss chance penalty when you have any kind of defense bonus from 
+you gets a -1 accuracy penalty when you have any kind of defense bonus from 
 cover.
 
 == Will to Survive ==

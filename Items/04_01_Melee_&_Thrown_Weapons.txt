@@ -1,12 +1,5 @@
 ==============================
-MELEE & THROWN WEAPONS
-==============================
-
-	These are the melee and throwing weapons available for sale around most of
-the galaxy.
-
-==============================
-UNARMED
+Unarmed Strike
 ==============================
 
 == Unarmed Strike ==
@@ -19,10 +12,60 @@ Accuracy Modifier: 0
 like Electric or Internal, on their Unarmed Strikes. DM discretion applies.
 
 ==============================
-MELEE WEAPONS
+Improvised Weapons
 ==============================
 
-===== LEVEL 1 REQUIREMENT WEAPONS =====
+== Improvised Light Weapon ==
+
+Damage: 30 + STR mod + DEX mod Ballistic, minimum 10
+Range: Adjacent (1m)
+Accuracy Modifier: 0
+
+	Ranged Miss Chance
+
+* 2 out to 5m
+* 5 out to 20m
+
+	Some improvised weapons may have alternate damage types, at the DM's 
+discretion. Note that the miss chance stat is only relevant when throwing an 
+improvised weapon, while the accuracy is only used for melee attacks.
+
+== Improvised One-handed Weapon ==
+
+Damage: 50 + STR mod Ballistic
+Range: Adjacent (1m)
+Accuracy Modifier: 1
+
+	Ranged Miss Chance
+
+* 3 out to 5m
+* 6 out to 20m
+
+	Some improvised weapons may have alternate damage types, at the DM's 
+discretion. Note that the miss chance stat is only relevant when throwing an 
+improvised weapon, while the accuracy is only used for melee attacks.
+
+== Improvised Two-handed Weapon ==
+
+Damage: 50 + 2*STR mod Ballistic
+Range: Adjacent (1m)
+Accuracy Modifier: -1
+
+	Ranged Miss Chance
+
+* 4 out to 5m
+* 7 out to 15m
+
+	Some improvised weapons may have alternate damage types, at the DM's 
+discretion. Note that the miss chance stat is only relevant when throwing an 
+improvised weapon, while the accuracy is only used for melee attacks. This 
+weapon has a Guard modifier of +1. 
+
+==============================
+Melee Weapons
+==============================
+
+===== Level 1 Requirement Weapons =====
 
 == Eliazar General-Purpose Welding Torch $170 ==
 
@@ -30,7 +73,7 @@ Damage: 30 Fire + 2x Burn
 Size: Light
 Range: Adjacent (1m)
 Accuracy Modifier: +1
-STR Requirement:   3
+STR Requirement: 3
 
 	A vital tool for structural repairs - good for sealing or cutting  
 metal surfaces or slagging mechanisms like locks. Takes about 1 hour to 
@@ -53,7 +96,32 @@ Range: Adjacent (1m)
 Accuracy Modifier: +2
 DEX Requirement: 4
 
-===== LEVEL 5 REQUIREMENT WEAPONS =====
+== Whackbush Arms Mark 14 C-Fiber 6ft Hunting Spear $820 ==
+
+Damage: 40 + 3*STR mod + 1*DEX mod Ballistic
+Size: Two-handed
+Range: Adjacent (1m)
+Accuracy Modifier: +2
+DEX Requirement: 2
+
+	If you down an enemy with this weapon without a critical hit, 
+you must spend an Action to remove it from the target before you can 
+attack with it again.
+
+===== Level 5 Requirement Weapons =====
+
+== Eliazar Plasma Torch $240 ==
+
+Damage: 30 Plasma + 2x Plasma Burn
+Size: Light
+Range: Adjacent (1m)
+Accuracy Modifier: +1
+STR Requirement:   3
+
+	A vital tool for structural repairs - good for sealing or cutting  
+metal surfaces or slagging mechanisms like locks. Takes about 40 minutes to 
+cut an average person-sized opening through half-inch steel plate. -40 on 
+Stealth rolls while using. This weapon has an APL of 10.
 
 == Eliazar Plasma Torch $240 ==
 
@@ -116,7 +184,7 @@ materials. -50 on stealth checks while using.
 
 == SPECO SP30 VAE Combat Sword $1245 ==
 
-Damage: 56 + 2*STR + 1*DEX Ballistic + 1xBleed
+Damage: 56 + 2*STR mod + 1*DEX mod Ballistic + 1xBleed
 Size: One-handed
 Range: Adjacent (1m)
 Accuracy Modifier: +2
@@ -124,7 +192,7 @@ DEX Requirement: 6
 
 	Voltage Aligned Edge; ignores standard armor
 
-===== LEVEL 10 REQUIREMENT WEAPONS =====
+===== Level 10 Requirement Weapons =====
 
 == Eliazar E500 Assisted-Sledgehammer $811 ==
 
@@ -176,10 +244,10 @@ the plasma sword passes through the shield.
 
 
 ==============================
-THROWN WEAPONS
+Throwing Weapons
 ==============================
 
-===== LEVEL 1 REQUIREMENT WEAPONS =====
+===== Level 1 Requirement Weapons =====
 
 == Gurber Throwing Knife $80 ==
 
@@ -196,7 +264,7 @@ Armor Piercing Level: 2
 	May be used for melee strikes with a -1 Accuracy penalty. 
 Can carry 2 per Secondary Ammo Slot.
 
-===== LEVEL 5 REQUIREMENT WEAPONS =====
+===== Level 5 Requirement Weapons =====
 
 == EAL Tactical Throwing Axe $160 ==
 
@@ -213,7 +281,7 @@ Armor Piercing Level: 3
 	May be used for melee strikes with a -1 Accuracy penalty. 
 Can carry 1 per Secondary Ammo Slot.
 
-===== LEVEL 10 REQUIREMENT WEAPONS =====
+===== Level 10 Requirement Weapons =====
 
 == Carbide Kunai $120 ==
 
@@ -247,14 +315,14 @@ Armor Piercing Level: 5
 Can carry 3 per Secondary Ammo Slot.
 
 ==============================
-GRENADES
+Grenades
 ==============================
 
-===== LEVEL 1 REQUIREMENT WEAPONS =====
+===== Level 1 Requirement Weapons =====
 
 == ECSC Smoke Grenade $50 ==
 
-Damage: D10 burn damage to exact spot of impact
+Damage: D10 fire damage to exact spot of impact
 Ranged Miss Chance (to land where intended): 5 out to 10+[DEX or STR]*2 meters
 Armor Piercing Level: 0
 Reflex Modifier: -10
@@ -267,7 +335,7 @@ through smoke. Targets that are adjacent need not abide by this rule (including
 one target outside the circle adjacent to a target inside the circle). If you 
 are fully behind the smoke and a target is on the complete opposite side, the 
 smoke completely obscures your vision, leaving you with a perception check of 
-120% in order to see all the way through the smoke. Smoke lasts for 12 turns or 
+120% in order to see all the way through the smoke. Smoke lasts for 12 Rounds or 
 2 minutes.
 
 	Each character in the radius of a Smoke Grenade's range when it goes off may
@@ -277,7 +345,7 @@ at the cost of one action on their next turn.
 
 == ECSC CID Chemical Incapacitation Device (Gas grenade) $50 ==
 
-Damage: D10 burn damage to exact spot of impact
+Damage: D10 fire damage to exact spot of impact
 Ranged Miss Chance (to land where intended): 5 out to 7+[DEX or STR]*2 meters
 Armor Piercing Level: 0
 Reflex Modifier: -10
@@ -285,10 +353,10 @@ Reflex Save: 90
 
 	10m radius cloud of choking chemicals. anyone caught in the circle suffers 
 the following effects: partial blindness due to uncontrollable tears (+30% to 
-hit), coughing fits (-50% stealth), and take 10 damage per round spent in the 
-cloud. Targets can negate all effects with a gas mask. Targets who leave the 
-cloud will continue to exhibit partial blindness for 3 turns after leaving the 
-fog, and coughing for 6 turns. Gas cloud persists for 2 turns after initial 
+hit), coughing fits (-50% stealth), and take 10 internal damage per round spent in 
+the cloud. Targets can negate all effects with a gas mask. Targets who leave the 
+cloud will continue to exhibit partial blindness for 3 Rounds after leaving the 
+fog, and coughing for 6 Rounds. Gas cloud persists for 2 Rounds after initial 
 detonation.
 
 	Each character in the radius of a CID Grenade's range when it goes off may
@@ -298,36 +366,36 @@ at the cost of one action on their next turn.
 
 == RMM Flash-Bang Distraction and Clearing Device $50 ==
 
-Damage: D10 burn damage to exact spot of impact
+Damage: D10 fire damage to exact spot of impact
 Ranged Miss Chance (to land where intended): 6 out to 10+[DEX or STR]*2 meters
 Armor Piercing Level: 0
 Reflex Modifier: -10
 Reflex Save: 110
 
-	Everyone in the room gets blinded for 2 turns. Once per turn, You can 
-attempt to break the blindness with a perception check at 85% (disregarding 
-bonuses). If the grenade detonates in the open, it’s blinding range is a 10m 
-radius.
+	All characters who sense light in the same room as the detonation or 
+within 10m of it, whichever is shorter, must succeed on a DC 85 Awareness save 
+or gain the blind condition for two rounds. Each round that the character remains 
+blind, they may retry the save once per round at the end of their turn.
 
-	Each character in the radius of a flashbang's range when it goes off may
+	Each character in the radius of a flash-bang's range when it goes off may
 make a Reflex Save of DC 110. If they succeed, they are able to shield their
 eyes or optical sensors sufficiently to avoid being totally stunned. Instead of
 being blinded, they simply suffer a -20% penalty to perception, spotting, or
-investigation checks. 
+investigation checks.
 
 == ECSC Fragmentation Grenade $90 ==
 
-Damage: D10 burn damage to exact spot of impact
+Damage: D10 fire damage to exact spot of impact
 Ranged Miss Chance (to land where intended): 5 out to 10+[DEX or STR]*2 meters
 Armor Piercing Level: 1
 Reflex Modifier: -10
 Reflex Save: 100
 
-	Each Target within the blast radius takes multiple hits. 45 damage per hit, 
-automatically hits armor. Targets take full damage to the torso, legs, and arms 
-(if armor is pierced or not present): (3*45 damage)+2xBleed within a 2.5m radius.
-Only legs and torso (2*45 damage)+1xBleed within a 5m radius. At least one hit 
-must damage health to cause Bleed.
+	Each Target within the blast radius takes multiple hits. 45 ballistic 
+damage per hit, automatically hits armor. Targets take full damage to the torso, 
+legs, and arms (if armor is pierced or not present): (3*45 damage)+2xBleed 
+within a 2.5m radius.Only legs and torso (2*45 damage)+1xBleed within a 5m 
+radius. At least one hit must damage health to cause Bleed.
 
 	Each character in the radius of a Frag Grenade's range when it goes off may
 make a Reflex Save of DC 100. If they succeed, they may dive prone up to their
@@ -342,34 +410,34 @@ Armor Piercing Level: n/a
 Reflex Modifier: -10
 Reflex Save: 110
 
-	Must be set-up before use. 1 Action, 40% DC explosives skill to set-up. On 
-failure, 3 actions used instead of 1. Explosives capable of sticking to surfaces. 
+	Must be set-up before use. 1 Action, DC 40 Weapons - Explosives check to set-up.
+On failure, 3 actions used instead of 1. Explosives capable of sticking to surfaces. 
 Comes with a remote detonator that is functional to 50m. 120 explosive damage 
 within a 3m radius, 5m radius indoors. All affected targets roll DC 70% shock to 
 resist stun for 1 turn. Can destroy a 3 meter radius of concrete or a 1m radius 
-of steel. Jury-rigging can make the explosive throwable (after set-up) with a 5 
-miss chance out to 5+[DEX or STR] meters.
+of steel. Success on a DC 50 Jury-rigging check can make the explosive throwable
+(after set-up) with a 5 miss chance out to 5+[DEX or STR] meters.
 
-	Each character in the radius of an HE Grenade's range when it goes off may
+	Each character in the radius of a C10's range when it goes off may
 make a Reflex Save of DC 110. If they succeed, they may dive prone up to their
 speed for one action in the direction of their choice. Choosing to do so comes
 at the cost of one action on their next turn.
 
-===== LEVEL 5 REQUIREMENT WEAPONS =====
+===== Level 5 Requirement Weapons =====
 
 == RMM Frag+ Grenade $140 ==
 
-Damage: D10 burn damage to exact spot of impact
+Damage: D10 fire damage to exact spot of impact
 Ranged Miss Chance (to land where intended): 5 out to 10+[DEX or STR]*2 meters
 Armor Piercing Level: 2
 Reflex Modifier: -10
 Reflex Save: 120
 
-	Each Target within the blast radius takes multiple hits. 50 damage per hit, 
-automatically hits armor. Targets take full damage to the torso, legs, and arms 
-(if armor is pierced or not present): (3*50 damage)+2xBleed within a 3m radius.
-Only legs and torso (2*50 damage)+1xBleed within a 6m radius. At least one hit 
-must damage health to cause Bleed.
+	Each Target within the blast radius takes multiple hits. 50 ballistic 
+damage per hit, automatically hits armor. Targets take full damage to the torso, 
+legs, and arms (if armor is pierced or not present): (3*50 damage)+2xBleed 
+within a 3m radius. Only legs and torso (2*50 damage)+1xBleed within a 6m radius. 
+At least one hit must damage health to cause Bleed.
 
 	Each character in the radius of a Frag Grenade's range when it goes off may
 make a Reflex Save of DC 110. If they succeed, they may dive prone up to their
@@ -378,14 +446,15 @@ at the cost of one action on their next turn.
 
 == Frontier Chemical Grenade $70 ==
 
-Damage: D10 burn damage to exact spot of impact
+Damage: D10 fire damage to exact spot of impact
 Ranged Miss Chance (to land where intended): 5 out to 10+[DEX or STR]*2 meters
 Armor Piercing Level: n/a
 Reflex Modifier: -10
 Reflex Save: 120
 
-	Creates a 7m radius cloud of burning, choking smoke. Targets take 30 Poison 
-Damage per turn in the cloud. All Poison Damage is negated by use of a gas mask.
+	Creates a 7m radius cloud of burning, choking smoke. Primarily organic 
+targets take 30 internal damage per turn in the cloud. This internal damage 
+may be negated by use of a gas mask.
 
 	Each character in the radius of a Chemical Grenade's range when it goes off 
 may make a Reflex Save of DC 120. If they succeed, they may dive prone up to their
@@ -394,7 +463,7 @@ at the cost of one action on their next turn.
 
 == RMM HiEx Grenade $285 ==
 
-Damage: D10 burn damage to exact spot of impact
+Damage: D10 fire damage to exact spot of impact
 Ranged Miss Chance (to land where intended): 5 out to 10+[DEX or STR]*2 meters
 Armor Piercing Level: n/a
 Reflex Modifier: -10
@@ -408,21 +477,21 @@ make a Reflex Save of DC 130. If they succeed, they may dive prone up to their
 speed for one action in the direction of their choice. Choosing to do so comes
 at the cost of one action on their next turn.
 
-===== LEVEL 10 REQUIREMENT WEAPONS =====
+===== Level 10 Requirement Weapons =====
 
 == Frontier Plasma Grenade FP-G5 $360 ==
 
-Damage: D10 burn damage to exact spot of impact
+Damage: D10 fire damage to exact spot of impact
 Ranged Miss Chance (to land where intended): 5 out to 10+[DEX or STR]*2 meters
 Armor Piercing Level: 6
 Reflex Modifier: -10
 Reflex Save: 140
 
-	Each Target within the blast radius takes multiple hits. 60 damage per hit, 
-automatically hits armor. Targets take full damage to the torso, legs, and arms 
-(if armor is pierced or not present): (3*60 damage)+3xPlasma Burn within a 3m 
-radius. Only legs and torso (2*60 damage)+1xPlasma Burn within a 5m radius. At 
-least one hit must damage health to cause Plasma Burn.
+	Each Target within the blast radius takes multiple hits. 60 plasma 
+damage per hit, automatically hits armor. Targets take full damage to the torso, 
+legs, and arms (if armor is pierced or not present): (3*60 damage)+3x plasma 
+burn within a 3m radius. Only legs and torso (2*60 damage)+1x plasma burn within 
+a 5m radius. At least one hit must damage health to cause plasma burn.
 
 	Each character in the radius of a Plasma Grenade's range when it goes off 
 may make a Reflex Save of DC 110. If they succeed, they may dive prone up to their
