@@ -128,6 +128,72 @@ Immune to: poison, cannot be intoxicated.
 Weakness (Electrical): Electrical damage deals an additional 50% damage.
 
 ==============================
+Cyborg
+==============================
+
+===== Society ===== 
+
+    Cybernetics advanced rapidly over the last 200 years, and it is not 
+uncommon to see Cyborgs walking amongst crowds. Most of society looks down on 
+their augmented brethren, and in some places they are outcasts completely. Be 
+warned if you take this race, you will be discriminated against at some point.
+
+Type: Enhanced Organic.
+Size: Medium
+Speed: Normal+
+Starting Stat Points: 40
+Stat Modifiers: See Below
+
+===== Racial Traits =====
+
+== Mechanical Augmentation ==
+
+    Pick any three augments (you may take a single augment no more than 2 times, 
+or a combination of multiple augments. For example Occular Augment and Speed 
+Geared Fine Motor Controls II might help a melee fighter increase both damage 
+and hit chance.):
+
+* Ocular Augmentation: +1 Perception, IR Vision 20m.
+* Enhanced Speed: +1 movement.
+* Enhanced Strength: +1 STR, metal arms, legs, or both.
+* Neural Implant: +1 Intelligence.
+* Speed Geared Fine Motor Controls: +1 DEX, no augment to movement speed.
+* Skeletal Support Structure: +1 FORT.
+* Implanted Weapon: See Below
+* Integrated multi-tool: See Below
+* Internal Reinforcing: Critical Damage threshold +5, +5 base health.
+* External Reinforcing: 5 DR passive, potential for RP abilities.
+
+    Once at level 3, and every 5 levels thereafter a Cyborg may purchase an 
+additional augment at the cost of $2000. They must see a cybernetics expert to
+have this augment installed.
+
+== Implanted Weapon ==
+
+    Pick a pistol from the basic weapons list. This pistol is implanted in a 
+limb. You may manipulate your limb to use this weapon at the cost of 1 action. 
+While the weapon is out, that limb does not operate at its normal capacities. 
+Hands would not grasp, legs would not superbly support you, etc. Subtract the 
+price of the weapon from your class starting money. The weapon can be upgraded 
+to another pistol with a DC 25 Biomechanics check, or a DC 50 Mechanics check. 
+It can be upgraded to any CQB weapon with a DC 50 Biomechanics or DC 75 
+Mechanics check.
+
+== Integrated Multi-tool ==
+
+    Your fingers hide a basic toolkit, including low-speed motorized 
+screwdrivers, soldering iron, wrenches, quantum spanner, toothpick, pliers, 
+sharp edge, lock pick, etc.
+
+===== Weaknesses =====
+
+    Cyborgs share all weaknesses with their base race, generally humans. They 
+additionally are weak against electric damage taking an extra 50% damage.(10
+damage would become 15). They are also susceptible to hacking, although they 
+would not come under control, they would merely loose the use of their 
+augmentations and any affected limbs. DC 80 Hack check.
+
+==============================
 Opaleite
 ==============================
 
@@ -228,8 +294,7 @@ Ability: Colorful!
     People like you, they naturally flock toward your brilliant scales. You have 
 the ability to either wow or calm a crowd. You are the perfect distraction; 
 bring in the attention of those in the area. Victims must roll a will-save of 
-40+Siren Points. Failing the will-save makes targets feel/act in the way that 
-you want. Droids are immune to this effect. Effect only lasts for an instant.
+40+Siren Points. Droids are immune to this effect.
 
 == Tetra ==
 

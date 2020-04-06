@@ -1,6 +1,9 @@
 ==============================
-Machineguns, Heavy Weapons and Rocket Launchers
+RANGED WEAPONS
 ==============================
+    Outside a weapon's longest range, you cannot hit your target.
+Also, weapons cannot shoot over 100m without magnifying sights, or over 150m 
+without 2x+ magnification.
 
 ==============================
 MACHINE GUNS
@@ -93,7 +96,7 @@ Movement Speed Penalty: -2m
 * 2 out to 15m
 * 4 out to 45m
 * 5 out to 80m
- 
+
 ==Matthews Model 240-B  $4450 ==
 
 Damage: 105 Ballistic
@@ -235,8 +238,10 @@ Suppression Level: n/a
 Movement Speed Penalty: -1m
 
 	Ammo cost is 1/2 the cost of the respective grenade. Considered a secondary 
-weapon. Requires an Explosives skill of at least 12 to use. All 40mm grenades
-explode on impact and have a -1m max explosion radius, unless otherwise stated. 2
+weapon. Requires an explosives skill of at least 10 to use. Accuracy only 
+increased by grenade launcher attachments, PER mod, and [explosives skill]/20. 
+All 40mm grenades explode on impact (DC 100% PER or LUCK check to dodge or take 
+reduced damage) and have a -1m max explosion radius, unless otherwise stated. 2 
 Action reload.
 
 	Ranged Miss Chance 
@@ -293,37 +298,6 @@ listed value when used in this gun. 2 action reload time.
 * 3 out to 15m
 * 4 out to 40m
 * 5 out to 100m
-
-==Frontier Flame Thrower FLMR-B $3880 ==
-
-Damage: 80 Fire
-Mag Size:  8 units of 6 liters, Naphitic Gel. $320 per magazine
-Reload DC:  50
-Fire Modes:  Semi
-Armor Piercing Level: n/a
-Reflex Modifier: -20
-Suppression Level: Medium
-Movement Speed Penalty: -2m
-
-	This flame thrower fires a wide spread of flaming gel, hitting the target 
-space as well as each adjacent space visible to the wielder. The flaming gel 
-continues to burn for one round of turns.
-	Catches flammable objects on fire. Not affected by armor, unless target is 
-100% sealed. Any targets that took damage apply 1 x Burning @ DC70% to remove. 
-Apply 1 x Fear on hit. No optics or barrel attachments.
-	When the flame hits its target space, anybody who takes a step into a 
-space that has flame on it or begins their turn in one must make a DC60 DEX roll 
-to avoid taking damage from lingering flame on the ground. Failing this roll 
-deals 30 damage and 1 x Burning @ DC70% to remove.
-
-	Ranged Miss Chance
-
-* 2 out to 10m
-* 5 out to 15m
-* 6 out to 20m
-
-    The Frontier Flame Thrower FLMR-B has large magazines that take up 2 magazine 
-slots.
 
 ==Anvil Arms XM-500 Minigun $4477 ==
 
@@ -393,7 +367,7 @@ Movement Speed Penalty: -3m
 
 	Only requires 1 shot for Medium Suppression. 110 Explosive Damage to the 
 primary target, 70 Explosive Damage to other targets in a 2m radius. Damages 
-vehicles. Each shot into a door reduces the Athletics DC of kicking down that door by 65. 
+vehicles. Each shot into a door reduces the DC of kicking down that door by 65. 
 If the DC becomes 0, the door is blown open. No optics or barrel attachments.
 Autocannon shells are very large compared to bullets and their magazines each
 take up 2 magazine slots in your armor.  
@@ -462,7 +436,7 @@ Reflex Modifier: -35
 Suppression Level: N/a
 Movement Speed Penalty: -1m
 
-	All affected targets roll DC 50 Shock save to resist stun for 1 turn.
+	All affected targets roll DC 50 shock to resist stun for 1 turn.
  
     Ranged Miss Chance
 
