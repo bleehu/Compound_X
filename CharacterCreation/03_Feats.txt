@@ -1,13 +1,8 @@
 ==============================
-Notes
+Feats
 ==============================
 
     This document lists the feats available to characters in Compound X.
-Feats may be taken on every even level as described in the Basic
-Rules document. Passive feats are used freely with no limit
-(unless otherwise stated) while active feats require the user to
-spend some Nanites, which is specified next to the feat's name.
-Unless otherwise specified, you cannot take a feat more than once.
 
 ==============================
 Passive Feats
@@ -269,8 +264,8 @@ rolls dealing with using a weapon.
 Prerequisites:
 *  Melee Expertise
 
-	The benefits of the Melee Expertise feat now also apply to Improvised Melee 
-Weapons.
+	The benefits of the Melee Expertise and Thrown Expertise feats now also 
+apply to Improvised Melee and Thrown Weapons, respectively.
 
 == Improvise Weapon ==
 Prerequisites:
@@ -717,19 +712,6 @@ now working with. This feat can only be taken once per weapon.
 ==============================
 Weapon Expertise Feats:					
 ==============================
-		
-	These feats represent dedicated training with a particular class of weapon, 
-and offer bonuses based on the relevant Weapons skill (Weapon skills are listed 
-in "06_Skills.txt"). Each feat offers a set of bonuses related to using that type of 
-weapon (and only that type of weapon), and each bonus requires the character to have 
-a number of points in the relevant Weapon skill. A character with 0 points in 
-Weapons - Pistols would gain only one benefit, while 60 points would benefit from 
-them all. The feats are formatted as a list of "X: Benefit", where X is the number of 
-points required in the corresponding Weapon skill to gain the benefit.
-	
-	Weapon Expertise feats require proficiency with the weapon type, but otherwise 
-have no prerequisites. Note that as all characters are proficient with Unarmed Strike, 
-Melee Expertise effectively has no prerequisite.
 
 == Pistol Expertise ==	
 
@@ -836,8 +818,8 @@ Melee Expertise effectively has no prerequisite.
 24:	Heavy weapons no longer recieve the Accuracy penalty associated 
 	with being improvised melee weapons while being used as melee weapons
 	(They still receive a Guard penalty).
-36:	+1 Accuracy against targets when your weapon's APL is at least 1 greater 
-	than the target's armor's APL.
+36:	+1 Accuracy to consecutive firing Actions after the first (non-stacking) and 
+	to attacks triggered by Suppression Actions.
 48:	+10m to Range R3.
 60:	Machine Guns when autofiring, Flamethrowers, Lightning Guns, Antimaterial 
 	Guns firing explosive shot, etc. can be fired at 1m radius areas instead 
@@ -867,9 +849,9 @@ other weapons or class abilities. Does apply to Engineer mortars.
 
 == Melee Expertise ==
 
-	Applies to Melee Weapons that the user has Proficiency with and to Unarmed Strike. 
-Does not apply to Improvised weapons. Reminder: these bonuses are only in effect while 
-you are wielding an appropriate weapon.
+	Applies to melee weapons that the user has Proficiency with and to Unarmed Strike. 
+Does not apply to Improvised weapons. Reminder: combat-related bonuses are only in effect 
+while you are wielding an appropriate weapon.
 
 0:	+1 Move Speed while using the Charge action with intent to engage an enemy in 
 	Melee Combat.
@@ -890,124 +872,135 @@ you are wielding an appropriate weapon.
 	unarmed targets).
 60:	+10% Base damage. Gain +0.5 Critical Hit range whenever you hit an enemy but
 	do not score a Critical Hit. This bonus resets if you score a Critical Hit, 
-	are stunned, or spend 1 round out of Melee Combat.
+	are stunned or knocked prone, or spend 1 round out of Melee Combat.
+
+== Thrown Expertise ==
+
+	Applies to throwing weapons and large-projectile weapons like bows, javelins, 
+and harpoon launchers that the user has proficiency with. Does not apply to Improvised 
+throwing weapons.
+
+0:	+5m to ranges R1 and R2.
+12:	May use Weapons - Thrown in place of Perform (Dex) when making displays of 
+	juggling or other performances that involve throwing as an important component.
+24:	When attacking with throwing weapons, before rolling Accuracy, you may declare the 
+	attack to be Disabling. Such attacks deal one third damage, but if they damage 
+	health then the projectile lodges in the target's armor or person. Characters 
+	take 2d10 damage of the weapon's damage type for each lodged projectile whenever 
+	they spend more than 2 Actions moving (including crouching/standing, but not 
+	attacking) in a single turn. Up to two lodged projectiles may be removed as an 
+	Action.
+36:	When attacking an armored target at range, their armor has 10 less coverage 
+	against your attacks.
+	/* When attacking an armored target at range, their armor coverage range is 
+	reduced by 1 {Static Armor} */
+48:	+10m to throwing weapons' farthest range bracket.
+60:	+10% Base damage. If you spend at least 2 Actions making ranged attacks with 
+	a throwing weapon in a single turn, you may make an additional attack with 
+	a similar throwing weapon as a Reaction.
 
 ==============================
 Active Feats
 ==============================
 
-== Adrenaline Rush ==
-
+== Adrenaline Rush [4*X Nanites] ==
 Prerequisites:
 
 *  None
 
-Cooldown: X Rounds, max 2
-Duration: Free Action
+	During a move action, +1 movement speed per X (up to a max of +10 movement),
+for that action only. This feat can only be used once per turn.
+Adrenaline Rush can be taken again to reduce the Nanite cost to 2*X.
 
-	During your next move action this turn, you may an additional 4 * X meters.
-
-== Aimed Shot ==
-
+== Aimed Shot [8 Nanites] ==
 Prerequisites:
 
 *  PER 6
 
-Cooldown: 1 Round
-Duration: Free Action
+	Use your Nanites during an Aim action to help you more carefully aim at the target. 
+Automatically critical hit on your next shot, if you hit. This is akin to seeing 
+a chink in armor and aiming for it, or shooting a target's arm so they cannot use their
+weapon, etc.
 
-	On your next ranged attack against a target that you have aimed at, if it hits, 
-deal an extra 10 damage. That attack is considered a critical hit if it would not otherwise 
-be. This is akin to seeing a chink in armor and aiming for it.
+== Bunker [25 Nanites] ==
+Prerequisites:
 
-== Combat Roll ==
+*  Hacker or
+*  Knowledge - Nanites at 40
 
+	Add -3 accuracy to a piece of cover for 4 turns.
+
+== Combat Roll [30 Nanites] ==
 Prerequisites:
 
 *  DEX 5
 
-Cooldown: 3 Rounds
-Duration: 1 Action
-
 	Move 6m in one action, no more, no less. Enemies attacking you have a -2 
-accuracy and a -20% penalty to reflex rolls when attacking you during the roll and 
-until your next turn, and you have a -2 accuracy for the action after this feat 
-ends (which can be the first action of your next turn). Combat Roll cannot be used 
-in concert with Run 'N' Gun.
+accuracy and a -20% penalty to reflex rolls when attacking you during the 
+roll and for the turn after you use this feat, and you have a -2 accuracy for 
+the action after this feat ends. If this malus would not run out until after 
+this turn, its effect wraps, around to the beginning of your next turn. Cannot 
+be used in concert with Run 'N' Gun.
 
-== Cover Slide ==
-
+== Cover Slide [15 Nanites] ==
 Prerequisites:
 
 *  DEX 4
 
-Cooldown: 1 Round
-Duration: 1 Action
+	Move up to your speed and end next to a barrier behind which you can take
+cover. You hunker or go prone behind that cover as a free action. Cannot 
+be used in concert with Run 'N' Gun.
 
-	Choose a location up to your movement speed in meters away that contains 
-something solid enough to stop your headlong slide. You move to that location and 
-either go prone or hunker somewhere in that square (you choose). Attacks made 
-against you during the use of Cover Slide have -1 Accuracy. Cover Slide cannot be 
-used at the same time as Run 'N' Gun.
+== Duck, Bob and Weave [20 Nanites] ==
+Prerequisites:
 
-== Flash Dance ==
+* Dex 4
 
+	As the last Action on your turn, you may move half of your Move Speed 
+bouncing erratically along your path. When you do so, you are considered to be 
+in light cover from all sides, owing to the difficulty that the enemy has in 
+attempting to keep you in their sights. This light cover does not stack with 
+other cover. When using Duck, Bob and Weave, your character must end their turn 
+at least their Move Speed from where they started their turn. You cannot Duck, 
+Bob and Weave if your movement is constrained by a condition or other effect. 
+
+== Flash Dance [10*X Nanites] ==
 Prerequisites:
 
 *  Level 3
 
-Cooldown: 2 * X + 1 Rounds
-Duration: 2 * X Actions, up to X = 3
-
-	For the duration of Flash Dance, every 2 Actions you may instead make a 
-number of Melee Attacks, Trip, Disarm, or Kick attempts equal to your level divided 
-by 2 (rounding up), to a maximum of 6. These actions have a range of 2m. Roll 
-separately for each act. All bonuses that would normally apply to a standard attack 
-still apply. (Note: Flash Dance can trigger Bulltrue and Preemptive Strike). If you 
-are stunned or rendered unconscious, Flash Dance ends immediately.
+	For 2 Actions, the user can make Lvl/2 (round up) number of attacks, up to a 
+max of 6, with their melee weapon(s). The attacks must take place within a 5m 
+space, rolling for each strike, where X is the number of attacks. All bonuses 
+that would normally apply to a standard attack still apply. (Note: Flash Dance 
+can trigger Bulltrue and Preemptive Strike)
 
 == Gun Kata [30 Nanites] ==
-
 Prerequisites:
 
 *  Level 10
 
-Cooldown: X + 1 Rounds
-Duration: X Reactions
+	For 1 Action, reduce weapon range to 15m, and negate actions needed for 
+Aiming, Pumping, and Cocking of a gun. Treat your gun as if it was a CQB weapon. 
+After a successful hit, you may roll for an additional hit on any target within 
+the 15m range, for up to 3 rounds fired. If you miss a shot or your gun runs out 
+of rounds, your Gun Kata ends.
 
-	Whenever you hit an enemy with a ranged firearm attack, you may use Gun 
-Kata to make X additional attacks as Reactions. These attacks must target enemies 
-within 15m and within a 45 degree cone centered on the initial target. Each attack 
-has a compounding -2 accuracy. (A character making their 3rd strike in a row would 
-be rolling at -4 accuracy). A character cannot use more Reactions in a round than 
-they have. If you are stunned, unconscious, miss a shot, or your gun runs out of 
-rounds, Gun Kata ends.
-
-== Kata ==
-
+== Kata [Minimum 5 Nanites] ==
 Prerequisites:
 
 *  Level 10
 
-Cooldown: X + 1 Rounds
-Duration: X Reactions
+	Whenever you land a successful melee hit against someone, you may roll for X 
+additional attacks, where X is your Nanites spent/5. Each additional attack has a 
+compounding -2 accuracy. (A 10th level character making their 3rd strike in a 
+row would be rolling at -4 accuracy).
 
-	Whenever you hit an enemy with a melee attack, Kick, Disarm, or Trip, 
-you may make X additional melee attacks, Kicks, Disarms, and/or Trips against 
-that enemy as Reactions. Each attack has a compounding -2 accuracy or -20 to its 
-Maneuver check (A character making their 3rd strike in a row would be rolling at 
--4 accuracy or with a -40 to their Maneuver check). A character cannot use more 
-Reactions in a round than they have. If you are stunned or unconscious, Kata ends.
-
-== Kip-up ==
-
+== Kip-up [15 Nanites] ==
 Prerequisites:
 
 * DEX 6
 * STR 5
-
-Cooldown: See Below
-Duration: Free Action
 
 	A Kip-up is a gymnastic maneuver in which a character lying on the ground
 curls up and then kicks up and out into the air, using the resulting momentum to 
@@ -1015,17 +1008,28 @@ jump from their back straight to their feet. This kick does not work well as a
 melee attack; the momentum is used to move the kicker rather than to impart 
 impact unto a target.
 
-	You jump up from the prone to the standing position. This action cannot 
-be taken to go straight from prone to crouched. Further, if you would crouch 
-this turn, the normally Free Action of going from standing to crouched costs 
-an Action. You cannot kip-up while wearing Heavy, Full, or Power Armor, or in 
-a microgravitic environment.
+	You may jump up from the prone to the standing position as a Free Action. 
+This action cannot be taken to go straight from prone to crouched. Further, if 
+the transition from prone to standing to crouched is taken, the normally Free
+Action of going from standing to crouched costs an Action. The kip-up cannot be
+attempted with Heavy or Full Armor on. The kip-up can only be done once every
+three rounds, but doesn't cost any nanites to do. The Three-round cooldown can
+be ignored once per round by paying the nanite cost.
 
-	Kip-up may be used without a cooldown once every 3 rounds. Kipping Up 
-less than 3 Rounds after your last one incurs a 3 Round cooldown.
 
-== Run 'N' Gun ==
+== Multi-Target [13*X Nanites] ==
+Prerequisites:
 
+*  DEX 6
+*  PER 6
+
+	For 2 Actions, concentrate on up to Level+1 number of targets, where X is 
+the number of targets. Or concentrate 1 action to target Level/2(round up) 
+Targets. You may Roll to-hit your first target in order to determine if you hit 
+all of these targets. If you fail the roll, then you may roll again to hit your 
+first target normally.
+
+== Run 'N' Gun [10 Nanites] ==
 Prerequisites:
 
 *  PER 7
@@ -1033,55 +1037,41 @@ Prerequisites:
 *  or Soldier Class
 *  or Specialist Class
 
-Cooldown: X / 2 Rounds, min 1
-Duration: X Actions, maximum 4
+	For 1 Action, you may move at half speed while firing. -1 to accuracy. If 
+you don't Aim before using this feat, you must Hip Fire. If this feat is 
+performed while sprinting, half your movement speed before you add the +1m 
+per-action from sprinting. The Miss Chance penalties stack for consecutive uses 
+of Run 'N' Gun. 
 
-	You move at half speed while firing your firearm. Each attack has a cumulative 
--1 Accuracy penalty but can benefit from a previous Aim action (otherwise Hip Fire 
-rules apply as normal). You may use this feat in combination with sprinting; if you 
-do, halve your movement speed before you add sprinting modifiers. 
-
-== Steady Shot ==
-
+== Steady Shot [5 Nanites] ==
 Prerequisites:
 
 *  PER 7
 
-Cooldown: None
-Duration: 1 Action
+	Take 1 Action to breath slowly and line up your shot. +1 Ranged accuracy 
+and +10m to the weapon's largest range bracket for each level of Steady Shot taken.
+Miss Chance can go below the -2 minimum range (See section "Combat:" in the basic
+rules document). You must be aiming at the target before you can use this feat. 
+Maximum 4 levels.
 
-	Take a second to breathe slowly and line up your shot. On your next ranged 
-attack this turn against a target you are aimed at, you gain +1 Accuracy and +10m 
-to the weapon's largest range bracket. Miss Chance can go below the -2 minimum
-(see section "Combat:" in the basic rules document). 
-
-	Steady Shot may be taken multiple times, up to a maximum of 4; the bonuses stack.
-
-== Twitch ==
-
+== Twitch	[7 Nanites] ==
 Prerequisites:
 
 *  Level 3
 *  Proficient in SMGs or Pistols
 *  DEX 7
 
-Cooldown: None
-Duration: Free Action
+	You may aim at an enemy as a free action instead of one action. Only works 
+with CQB weapons. -2 accuracy with the aimed weapon(s).
 
-	While wielding a CQB firearm, you may aim as a free action instead of an 
-action. If you do, your next two attacks with that weapon have -2 accuracy.
-
-== Blur ==
-
+== Blur	[11 Nanites] ==
 Prerequisites:
 
 *  Level 10
 *  Twitch
 
-Cooldown: 1 Round
-Duration: Free Action
-
-	While wielding a CQB firearm, you may aim as a free action instead of an action.
+	You may aim at an enemy as a free action instead of one action. Only 
+works with CQB weapons. No Miss Chance penalty.
 
 ==============================
 Primary Stat Bonus Feats

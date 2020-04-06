@@ -8,30 +8,25 @@ battlefield or between engagements under more calm circumstances.
 
     Processes are divided into two categories; Repair Processes and Build 
 Processes. Typically, a Repair Process is any process which heals or buffs a 
-teammate. Repair Processes typically accrue resources like Potential and 
+teammate. Repair Processes typically accrue building materials like Energy and 
 Material. Build Processes typically increase an engineer's combat effectiveness 
 through the deployment of drones or mounted weapons. Build Processes typically 
-expend resources like Potential and Material. 
+expend building materials like Energy and Materials. 
 
     Every time an Engineer levels up, they get one new Process from each of the
 Build and Repair Process categories. Unlocking a Process requires having 
 unlocked the Process below it on the Process Tree. Please see the "Engineer 
 Process Tree - Repair.png" for dependencies.
 
-Potential:
-    Engineers maintain a swarm of constructor nanites with the relatively rare 
-capability of working outside a defined, limited environment. These nanites 
-form a distributed artificial intelligence network capable of rapid processing, 
-intelligent decision-making, etc. These capabilities are collectively referred to 
-as the swarm's Potential. Engineers gain Potential as their nanites become more 
-distributed via Repair processes, and spend Potential to execute Build Processes 
-at what most factories would consider breakneck speeds. Partly due to size 
-constraints and partly as a safeguard against grey goo plagues*, these nanites' 
-intelligence matrices are energy based and non-persistent. While in combat an 
-Engineer overclocks the Nanites by building potential, but once the situation is 
-over the nanites need to cool down to their nominal level of Potential to avoid 
-slagging themselves. Maximums in and out of combat are listed in the 
-"02_classes.txt" document in Character Creation.
+Energy:
+    Most procedures that an engineer can perform in the field requires the 
+expenditure of a non-trivial amount of energy. During combat, an engineer may 
+overcharge their standard issue batteries as outlined in the Engineer section of 
+the 02_classes.txt document. When not in combat, energy is vented from the 
+batteries down to their safe storage limit. If the batteries were to remain 
+overcharged for longer than the duration of an encounter, they would burn out or 
+burn up and explode depending on the limit. The max limit and safe storage limit 
+are outlined in the "02_classes.txt" document in Character Creation. 
 
 Materials:
     An engineer will often use an extruder or 3D printer in the field to 
@@ -45,8 +40,7 @@ encounters and over small rests.
 Munitions:
     Munitions are used in the engineer's extruder to print more ... active 
 components. Due to regulations munitions extrusion material is not retained 
-between combat encounters - the design has a fundamental instability that 
-causes the generated munitions to break down harmlessly.
+between combat encounters. 
 
 Network Motes: 
     Any repair process that an engineer uses on a cybernetic ally (even if that 
@@ -55,12 +49,6 @@ process doesn't specify that it can only be used on cybernetic allies) leaves a
 the build tree, the range of the drone is taken from the nearest network mote or 
 the engineer that deployed it.
 
-*Grey goo plague refers to an instance of uncontrolled nanomachine reproduction, 
-usually the result of some safeguard breaking down. Such cancerous nanomachines 
-would scavenge whatever material they can find to build more of themselves and 
-their population would grow exponentially. In theory, a grey goo could wipe out 
-an entire planetary biosphere.
-
 ==============================
 Repair Tree	
 ==============================
@@ -68,7 +56,7 @@ Repair Tree
 ===== Cyberphysical =====
 
 == Reboot	== 
-Potential Gain:65
+Energy Gain:65
 Action:		1 Action
 Duration: 	N/A
 Range:		Touch
@@ -79,7 +67,7 @@ then heal them. Not a quiet procedure; detectable within 40m by a perception
 check of 30.
 
 == Data Scrub	== 
-Potential Gain: 35
+Energy Gain: 35
 Action:		 1 Action
 Duration: 	 N/A
 Range:		 Touch
@@ -88,20 +76,20 @@ Range:		 Touch
 The engineer makes a repair check opposed by half of the hacker's hack check or
 dominator's domination check. If the engineer wins, the ally or system is 
 scrubbed and the system control returns to normal. The engineer only receives 
-Potential for successful scrubs. Be aware that engineers are the only class with 
+Energy for successful scrubs. Be aware that engineers are the only class with 
 this Process, but not the only class that can scrub a hacked target.
 
 == Restore Armor	== 
-Potential Gain:   50
+Energy Gain:   50
 Action: 	   2 Actions
 Duration:	   Almost Instant
 Range: 		   Touch
 
-    You tinker with your ally's armor and mend it. Undo any debuffs on
+    You tinker with your ally's armor and mend it. Undo any Debuffs on
 your ally's armor such as sundering, battle damage, etc. 
 
 == Percussive Maintenance	== 
-Potential Gain:  30
+Energy Gain:  30
 Action:		  1 Action
 Duration:	  Almost Instant
 Range:		  Touch
@@ -110,13 +98,13 @@ Range:		  Touch
 deal 10 blunt melee damage to it. Roll luck modifier, with a DC of 1.5 x 
 target's total damage after wrench hit. Add to that DC 10 for each minor status 
 effect and 15 for each major status effect, at the GM's discretion. If The DC is 
-passed, fix all minor status effects, one major status effect, or heal one 
+passed, Fix all minor status effects, one major status effect, or heal one 
 wound. This process may only be performed on cybernetic allies, turrets, 
 vehicles or as an RP event. Not to be confused with the Concussive Maintenance 
 Feat.
 
 == Defrag	== 
-Potential Gain:15
+Energy Gain:15
 Action:		1 Action
 Duration:	Until First Use
 Range:		Touch
@@ -127,19 +115,19 @@ your ally continues on their way. Your ally gets a +5% bonus to their next
 RP roll.
 
 == Actuator Overdrive	== 
-Potential Gain:20
+Energy Gain:20
 Action:		1 Action
 Duration: 	engagement
 Range:		Touch
 
     For the duration of an engagement, an ally moves 3m per action more. Ally 
 movement has an absolute cap of 14m per action, even if some other effect
-would make it higher. A player may not be overdriven/overclocked more than 
+would make it higher. A player may not be overdrived/overclocked more than 
 once per engagement. Only works on cybernetic allies.
 
 
 == Discrete Overclock	== 
-Potential Gain:20
+Energy Gain:20
 Action:		1 Action
 Duration: 	Engagement
 Range:		Touch
@@ -149,7 +137,7 @@ also get a +15 to reloading weapons quickly and a +10 to perception checks.
 Cannot Overclock an Ally more than once per engagement.
 
 == Network Targeting	== 
-Potential Gain:20
+Energy Gain:20
 Action:		1 Action
 Duration:	Until First Use
 Range:		Touch
@@ -162,7 +150,7 @@ drone, robot and turret that is also looking at that target. This effect
 may be blocked with a hacking attack at DC 20. 
 
 == System Overclock	== 
-Potential Gain:35
+Energy Gain:35
 Action:		1 Action
 Duration: 	Engagement
 Range:		Touch
@@ -172,7 +160,7 @@ They also get a +35 to reloading weapons quickly and a +10 to perception checks,
 but take 20 Internal Damage from system overheat.
 
 == Colocation Processing	== 
-Potential Gain:20
+Energy Gain:20
 Action:		1 Action
 Duration:	Until First Use
 Range:		6m
@@ -183,7 +171,7 @@ ally makes a lockpick, hacking, explosives, repair, heal, or tracking check,
 they get a +15 to it. 
 
 == Regression Override	== 
-Potential Gain:60
+Energy Gain:60
 Action:		1 Action
 Duration:	8 Rounds
 Range:		Touch
@@ -191,7 +179,7 @@ Range:		Touch
     You temporarily disable your cybernetic ally's regression process,
 the part of their personality program that slows down to triple check the 
 results of their actions. This sends them into a rage mode. They still know
-friend from foe, and they still have a janky understanding of their higher-
+friend from foe, and they still have a jenky understanding of their higher-
 order skills like lockpicking, hacking, or social finesse, but they have no
 fear, no pain, no remorse and no hesitation for about half of a minute. Your
 ally Cannot feel shock during this duration, and cannot be repaired (they
@@ -207,12 +195,12 @@ Damage of wear and tear. An Engineer can only perform a Regression Override
 once per Encounter. Regression Overrides do not stack.
 
 == System Restore	== 
-Potential Gain:35
+Energy Gain:35
 Action:		2 Actions
 Duration: 	Permanent
 Range:		Touch
 
-    Can only be used on a cybernetic subject whose primary data center is still 
+    Can only be used on a cybernetic subject who's primary data center is still 
 intact that has "bled out" less than 8 Rounds ago. The Engineer makes a DC 60 
 Repair check. If successful, the subject is now "bleeding out". If the subject 
 is saved, they get the feat "Refurbished". Characters with the "Refurbished" 
@@ -222,7 +210,7 @@ System Restore.
 ===== Material/Mechanic =====
 
 == Duct Tape	== 
-Potential Gain:40
+Energy Gain:40
 Action:		1 Action
 Duration: 	N/A
 Range:		Touch
@@ -232,7 +220,7 @@ healed. This trick only works on cybernetic allies, non-sentient robots and
 machinery.
 
 == Weapon Tuning	== 
-Potential Gain:20
+Energy Gain:20
 Action:		1 Action
 Duration: 	engagement
 Range:		Touch
@@ -244,19 +232,19 @@ almost definitely unalign what you've done by the end of the engagement, but
 hopefully your efforts will help keep your ally alive until then.
 
 == Vehicle Repair	== 
-Potential Gain:40
+Energy Gain:40
 Action:		4 Actions
 Duration:	almost instant
 Range:		Touch
 
     You pull out your tools and quickly repair the damage to a friendly
 vehicle. It gains 1 vehicle health. While this power is not required to repair
-vehicles, it does add a Potential reward for doing so. It also increases the 
+vehicles, it does add a Nanite reward for doing so. It also increases the 
 effect and may reduce the time taken to repair. 
 
 
 == Multisys Repair	== 
-Potential Gain:30*n
+Energy Gain:30*n
 Action:		1 Action
 Duration: 	N/A
 Range:		Touch
@@ -266,7 +254,7 @@ the number of wounds that the cybernetic ally has. This trick only works on
 cybernetic beings or machines.
 
 == Micro Assembler	== 
-Potential Gain:50
+Energy Gain:50
 Action:		1 Action
 Duration: 	8 Rounds
 Range:		Touch
@@ -280,7 +268,7 @@ location and may deal 5 Internal Damage per Round at the end of the hacker's
 turn.
 
 == Engine Tuning	== 
-Potential Gain:50
+Energy Gain:50
 Action:		6 Actions
 Duration: 	Almost Instant
 Range:		Touch
@@ -289,11 +277,11 @@ Range:		Touch
 clean the spark plug, dial in the cylinder timing and add your own special
 sauce to the engine's fuel injector. It will now run at 125% power, and it has
 full health. Effect may vary by RP. See GM for details. While this power is not
-required to boost the effect of a vehicle, it now rewards you in Potential for
+required to boost the effect of a vehicle, it now rewards you in Energy for
 doing so and increases your effectiveness at doing so.
 
 == Boilerplate Handiwork	== 
-Potential Gain:   20 Potential
+Energy Gain:   20 Energy
 Material Cost: 20 Material
 Action:		   1 Action
 Duration: 	   Permanent
@@ -305,7 +293,7 @@ down by 1m per action. This effect lasts until that 40 health has been
 destroyed, or until the engineer takes it off and discards it.
 
 == Zero Friction Covalent	== 
-Potential Gain:20
+Energy Gain:20
 Action:		1 Action
 Duration: 	Until next melee hit
 Range:		Touch
@@ -318,7 +306,7 @@ own weapon and the effect only lasts until the next hit. Cannot be used on a
 weapon more than once at a time.
 
 == Sup it Up	== 
-Potential Gain:80
+Energy Gain:80
 Action:		12 Actions
 Duration: 	Permanent
 Range:		Touch
@@ -332,7 +320,7 @@ include but are not limited to:
 *  adding stabilized chassis for improved accuracy when fired from 
 
 == Ceramic Catalyst	== 
-Potential Gain:	15 Potential
+Energy Gain:	15 Energy
 Action:			2 Actions
 Duration:		10 Rounds or 2 hits
 Range:			Touch
@@ -347,7 +335,7 @@ ceramic catalyst on themselves. Ceramic Catalyst decays after exposure to
 elements for ten Rounds or three hits, whichever happens first. 
 
 == Microbot Swarm	== 
-Potential Gain:40 * n
+Energy Gain:40 * n
 Action:		1 Action
 Duration: 	8 Rounds
 Range:		4m radius
@@ -356,7 +344,7 @@ Range:		4m radius
 cybernetic allies for 8 Rounds before running out of power. The microbots are 
 able to heal 15 health per Round at the end of the ally's Turn. The microbots 
 burn up if one of their subjects is affected by plasma burn. For this, the 
-Engineer gains 40 * n Potential, where n is the number of allies affected. The 
+Engineer gains 40 * n Energy, where n is the number of allies affected. The 
 Engineer can only perform this once per engagement. A Microassembler uses 
 wireless cloud calculation to stay small, but on-blueprint. As such, it is 
 vulnerable to hack checks at a DC of 50. A hacked micro assembler reveals its 
@@ -367,7 +355,7 @@ and notifies the Engineer, but cannot stop the damage from happening.
 ===== Optronic/Cycotonic =====
 
 == Repulsor Recharge	== 
-Potential Gain:	20 Potential
+Energy Gain:	20 Energy
 Action:			1 Action
 Duration:		Immediate
 Range:			Touch
@@ -377,7 +365,7 @@ charge an ally's shields over their max value. An Engineer cannot recharge
 their own shields.
 
 == Sensory Fuse	== 
-Potential Gain:	10 Potential
+Energy Gain:	10 Energy
 Action:			1 Action
 Duration:		Until fuse pops
 Range:			Touch
@@ -389,7 +377,7 @@ hand to install, so an engineer cannot install one in themselves.
 
 
 == B-Filter Buffer	== 
-Potential Gain:	15 Potential
+Energy Gain:	15 Energy
 Action:			1 Action
 Duration: 		For one visual perception check
 Range:			Touch
@@ -401,7 +389,7 @@ a disposable one-time use paracrystal network that degrades after a time for
 optimal efficiency. Increases ally's visual perception by 10%.
 
 == Repulsor Overcharge	== 
-Potential Gain:	25 Potential
+Energy Gain:	25 Energy
 Action:			1 Action
 Duration:		Immediate
 Range:			Touch
@@ -411,7 +399,7 @@ an ally's shields to up to 30 points above their maximum. Shields will
 normalize down to their maximum after ten Rounds. 
 
 == Refractory Spray	== 
-Potential Gain:	15 Potential
+Energy Gain:	15 Energy
 Material Cost:  15 Material
 Action:			2 Actions
 Duration:		Immediate
@@ -423,14 +411,14 @@ laser hit by 45 damage. It also prevents the first damage-over-time effect from
 that hit (such as plasma burn), if it has one. Looks kinda like sticky glitter. 
 Gives an ally affected by Refractory spray a -20 penalty to visual stealth 
 rolls. Refractory Spray can be detected by metal detectors. Refractory Spray 
-loses cohesion after ten Rounds or burns up if hit by a plasma or laser attack.
+loses cohesion after ten Rounds or burns up if hit by an energy attack.
 
     At level 10, you learn how to apply the spray more evenly and to apply it
 more liberally to areas that you have seen get hit more often. As such, you are
 able to stop 80 points of VAE or plasma damage or 60 points of laser damage.
 
 == Tune Laser	== 
-Potential Gain:	30 Potential
+Energy Gain:	30 Energy
 Action:			2 Actions
 Duration:		5 Rounds
 Range:			Touch
@@ -438,11 +426,11 @@ Range:			Touch
     You dial in the potentiometers and realign the focusing crystals. Your 
 ally's laser weapon deals an extra 20 points of damage per hit and has a -1 to 
 miss (To a minimum to-miss of -0 when target is in light cover). These 
-adjustments will likely lose precision after 5 Rounds of combat, and the weapon
+adjustments will likely lose precesion after 5 Rounds of combat, and the weapon
 will return to the state it was in before tuning.
 
 == MoCap Augmentation	== 
-Potential Gain:	20 Potential
+Energy Gain:	20 Energy
 Action:			2 Actions
 Duration:		Immediate
 Range:			Touch
@@ -456,16 +444,16 @@ active take a -40 to perception checks at ranges beyond 50m. Since this is less
 than ideal in non-combat scenarios, you've set it to wear off after ten Rounds.
 
 == Repulsor Projection	== 
-Potential Gain:	10 Potential
+Energy Gain:	10 Energy
 Action:			1 Action
 Duration:		Immediate
 Range:			10m
 
     Recharges an ally's shield by 40 points. May not be used to charge a shield 
-above its maximum capacity. An engineer may not charge their own shields. 
+above it's maximum capacity. An engineer may not charge their own shields. 
 
 == Repulsor Hypercharge	== 
-Potential Gain:	40 Potential
+Energy Gain:	40 Energy
 Action:			2 Actions
 Duration:		Immediate
 Range:			Touch
@@ -473,12 +461,12 @@ Range:			Touch
     Recharges an ally's shield by 85 points. May be used to charge an ally's 
 shields up to 60 points above their maximum. Shields will normalize down to 
 their maximum by 5 points per Round at the beginning of that player's turn. 
-Hypercharged shields make a distinctive crackling noise; players whose shields 
+Hypercharged shields make a distinctive crackling noise; players who's shields 
 are Hypercharged take a -20 to stealth rolls. An Engineer cannot Hypercharge 
 their own shields.
 
 == Broadcast Repulsion	== 
-Potential Gain:	15 * n Potential, where n is the number of shields affected
+Energy Gain:	15 * n Energy, where n is the number of shields affected
 Action:			2 Actions
 Duration:		Immediate
 Range:			8m radius centered on engineer
@@ -490,7 +478,7 @@ sets a 10 blunt force damage per Round for 4 turns to any enemies in the area of
 effect as well. A feedback wave ends the Engineer's turn immediately.
 
 == Plasma Lacer	== 
-Potential Gain:	20 Potential and 1 Munitions
+Energy Gain:	20 Energy and 1 Munitions
 Action:			2 Actions
 Duration:		10 Shots
 Range:			Touch
@@ -528,7 +516,7 @@ Accuracy Modifier.
 IO Ports:
 
     Most Drones (and a couple of static buildings) will have IO ports. Think of
-IO Ports as slots that you can add things to upgrade your Drone or Building.
+IO Ports as slots that you can add things to to upgrade your Drone or Building.
 These upgrades are called Peripherals. If a drone doesn't have an empty IO Port
 left, then you cannot add another Peripheral to that Drone. Drones cannot 
 dynamically allocate IO ports between more than their capacity. Another way of
@@ -543,7 +531,7 @@ for Input/Output Ports.
 
 == Dragonfly	== 
 Type: 				Drone
-Construction Cost:	30 Potential, 40 material 
+Construction Cost:	30 Energy, 40 material 
 Control Point Cost: 1 point
 Build Time:			4 Actions
 Modular I/O ports: 	1 port
@@ -556,7 +544,7 @@ Disrupt DC:			30
 Pwn DC:				70
 
     The dragonfly is a small, light, fast flying drone that stays close
-to its deployer. Unlike most drones, it cannot use external network motes to 
+to it's deployer. Unlike most drones, it cannot use external network motes to 
 increase its range.  It's onboard sensor network gives it's deployer a +6 to 
 perception rolls. It's landing gear can also grasp and carry objects weighing
 less than 8kg. Powered by a Li+ battery, will almost never explode when 
@@ -571,7 +559,7 @@ occupied, but does not reimburse its construction cost.
 
 == KRO-W5	== 
 Type: 				Drone
-Construction Cost:	45 Potential, 50 Material
+Construction Cost:	45 Energy, 50 Material
 Control Point Cost: 1 point
 Build Time:			6 Actions
 Modular I/O ports: 	3 ports
@@ -602,7 +590,7 @@ occupied, but does not reimburse its construction cost.
 
 == PD-5 Scout Bot	== 
 Type: 				Drone
-Construction Cost:	50 Potential, 60 Material
+Construction Cost:	50 Energy, 60 Material
 Control Point Cost: 1 point
 Build Time:			6 Actions
 Modular I/O ports: 	5 ports
@@ -622,7 +610,7 @@ Natural AP Strength: 80
     This small bipedal drone comes equipped with a distributed computing NIC 
 card for improved performance in large packs. The PD-5 also comes standard with 
 a biometric sharp grasping claws and a tail that adapts procedurally to maintain 
-balance at high speeds as well as significantly more capacity for peripherals 
+balance at high speeds as  well as significantly more capacity for peripherals 
 than its flying brethren. The grasping claws may make melee attacks with a Melee 
 Miss Chance of 4 for 40 damage. PD-5 bots take a -2 Miss Chance for each other 
 friendly PD-5 within 6m due to their distributed network architecture, but if 
@@ -638,7 +626,7 @@ occupied, but does not reimburse its construction cost.
 
 == Con-D0R	== 
 Type: 				Drone
-Construction Cost:	60 Potential, 30 Material
+Construction Cost:	60 Energy, 30 Material
 Control Point Cost: 1 point
 Build Time:			6 Actions
 Modular I/O ports: 	4 ports
@@ -650,7 +638,7 @@ Size:				1m x .6m x .8m
 Disrupt DC:			40
 Pwn DC:				80
 
-    The reCON Direct Zero Robot is right where you need it to be. Or if not, 
+    The reCON Direct zero Robot is right where you need it to be. Or if not, 
 It'll be there extremely soon. While it lacks a little in armor, it is the 
 fastest drone available and carries a decent payload of peripherals. 
 Unfortunately, its long range carrier wave makes it a little more prone to 
@@ -664,7 +652,7 @@ occupied, but does not reimburse its construction cost.
 
 == Cerberus Attack Drone	== 
 Type: 				Drone
-Construction Cost:	110 Potential, 90 Material
+Construction Cost:	110 Energy, 90 Material
 Control Point Cost: 2 points
 Build Time:			8 Actions
 Modular I/O ports: 	9 ports
@@ -718,7 +706,7 @@ Reflex Modifier: -35
 
 == Titan Multipurpose Drone	==
 Type: 				Drone
-Construction Cost:	270 Potential, 150 Material
+Construction Cost:	270 Energy, 150 Material
 Control Point Cost: 4 points
 Build Time:			8 Actions
 Modular I/O ports: 	13 ports
@@ -744,7 +732,7 @@ occupied, but does not reimburse its construction cost.
 
 == Peripheral: popgun	== 
 Type:				Peripheral
-Construction Cost:	10 Potential, 10 Material, 1 Munitions
+Construction Cost:	10 Energy, 10 Material, 1 Munitions
 Build Time:			2 Actions
 Modular I/O ports:	Uses 1 port
 Ammo:				Holds 20 shots
@@ -761,16 +749,15 @@ Drone Health:		+15
 +-------+-----+-----+-----+
 
     A simple 9mm repeater module bolted to the universal adapter ports on a 
-drone. Reloading takes 2 Actions, but always succeeds and never hits 
-critically. Drones reload with perfect consistency. Additional ammo available 
-as a separate peripheral. As a unique ability, may have red lasers or 
-suppressors added.
+drone. Reloading takes 2 Actions, but always succeeds and never crits. Drones 
+reload with perfect consistency. Additional ammo available as a separate
+peripheral. As a unique ability, may have red lasers or suppressors added.
 
     Attachments added to a drone are returned when the drone is reclaimed.
 
 == Peripheral: Ammo	== 
 Type:				Peripheral
-Construction Cost:	10 Potential, 1 Munitions
+Construction Cost:	10 Energy, 1 Munitions
 Build Time:			2 Actions
 Modular I/O ports:	Uses 1 port
 Ammo:				Holds 3 full refills.
@@ -781,7 +768,7 @@ of other drones. Also adds 30 health to a drone.
 
 == Peripheral: Tazer	== 
 Type:				Peripheral
-Construction Cost:	50 Potential, 20 Material
+Construction Cost:	50 Energy, 20 Material
 Build Time:			2 Actions
 Modular I/O ports:	Uses 1 port
 Ammo:				Holds 4 shots
@@ -805,7 +792,7 @@ losing 3 Actions on their following turn.
 
 == Peripheral: Armor	== 
 Type:				Peripheral
-Construction Cost:	10 Potential, 30 Material
+Construction Cost:	10 Energy, 30 Material
 Build Time:			2 Actions
 Modular I/O ports:	Uses 1 port
 Coverage:			+50%
@@ -829,7 +816,7 @@ allows armor diagnostics and triggering of reactive ballistic cells.
 
 == Peripheral: Shield Capacitor	== 
 Type:				Peripheral
-Construction Cost:	35 Potential, 10 Material
+Construction Cost:	35 Energy, 10 Material
 Build Time:			2 Actions
 Modular I/O ports:	Uses 2 ports
 Capacity:			80 points
@@ -841,7 +828,7 @@ pulse frequency. Glows a neon color, -20 to drone stealth checks.
 
 == Peripheral: Minigun	== 
 Type:				Peripheral
-Construction Cost:	40 Potential, 40 Material
+Construction Cost:	40 Energy, 40 Material
 Build Time:			4 Actions
 Modular I/O ports:	Uses 3 ports
 Ammo:				Holds 60 shots
@@ -862,7 +849,7 @@ unlocked antennae and shield capacitor peripherals.
 
 == Peripheral: Flamethrower ==
 Type:               Peripheral
-Construction Cost:  30 Potential, 30 Material, 1 Munitions
+Construction Cost:  30 Energy, 30 Material, 1 Munitions
 Build Time:         3 Actions
 Modular I/O Ports:  Uses 2 Ports
 Ammo:               Holds 4 units of 2 Liters of Naphitic Gel.
@@ -881,18 +868,18 @@ apply 1 x Burning @ DC70% to remove. Apply 1 x Fear on hit.
 
 == Peripheral: Antennae	== 
 Type:				Peripheral
-Construction Cost:	10 Potential, 15 Material
+Construction Cost:	10 Energy, 15 Material
 Build Time:			4 Action
 Range:				+10m
 
-    A multiphasic antennae, DSP module, and strong amplifier allow your drones
+    A multiphasic antennae, DSP module and strong amplifier allows your drones
 to extend their service range. Multiple channels of transmission make your
 drones easier to detect electronically, but harder to Pwn. +20 DC to enemy
 Pwn attempts.
 
 == Peripheral: Flack Cannon	== 
 Type:				Peripheral
-Construction Cost:	60 Potential, 40 Material and 1 Munitions
+Construction Cost:	60 Energy, 40 Material and 1 Munitions
 Build Time:			2 Actions
 Modular I/O ports:	Uses 3 ports
 Ammo:				Holds 8 shots
@@ -914,7 +901,7 @@ door by 65. If the DC becomes 0, the door is blown open.
 
 == Peripheral: Rockets	== 
 Type:				Peripheral
-Construction Cost:	80 Potential, 2 Munitions and 40 Material
+Construction Cost:	80 Energy, 2 Munitions and 40 Material
 Build Time:			2 Actions
 Modular I/O ports:	Uses 1 port
 Ammo:				Holds 8 shots
@@ -936,7 +923,7 @@ hunter marks don't stack. 2 rocket hits count as an anti-vehicle hit. At level
 
 == Peripheral: Network Security Module	== 
 Type:				Peripheral
-Construction Cost:	15 Potential and 10 Material
+Construction Cost:	15 Energy and 10 Material
 Build Time:			2 Actions
 Modular I/O ports:	Uses 1 port
 Hacking resistance:	20%	
@@ -952,7 +939,7 @@ the NSM.
 
 == Insta-Cover	== 
 Type:			Structure
-Build Cost:		5 Potential and 25 Material
+Build Cost:		5 Energy and 25 Material
 Build Time:		2 Actions
 Duration:		Permanent
 Health:			2 Vehicle Health
@@ -964,7 +951,7 @@ bullets. This gives partial cover for 2 meters in one direction.
 
 == Barbed Wire	== 
 Type:			Structure
-Build Cost:		5 Potential and 15 Material
+Build Cost:		5 Energy and 15 Material
 Build Time:		1 Action
 Duration:		Permanent
 Health:			60 health points; immune to bullets but not to slashing weapons.
@@ -980,7 +967,7 @@ most vehicles, but it can pop tires.
 
 == Adaptive Gun Mount	== 
 Type:			Structure
-Build Cost:		5 Potential and 15 Material
+Build Cost:		5 Energy and 15 Material
 Build Time:		2 Actions
 Duration:		Permanent
 Health:			46 health
@@ -988,14 +975,14 @@ Size:			.5m x .5m x .1m
 
     	You set up a recoil-dampening weapon stand that grants partial
 cover and a +1 accuracy bonus to whomever sets up here. Will fit in windows,
-off the back of a truck, etc. Adheres to a solid, flat surface. The Engineer who
-built it gets 10 Potential every time an ally hits a target using their gun mount.
-There is no Potential reward for an engineer using their own mount.
+off the back of a truck, etc. Adheres to a solid, flat surface. Engineer who
+built it gets 10 Energy every time an ally hits a target using their gun mount.
+There is no energy reward for an engineer using their own mount.
 
 
 == Gun Emplacement	== 
 Type: 		        Structure
-Construction Cost:  40 Potential, 1 Munitions and 40 Material
+Construction Cost:  40 Energy, 1 Munitions and 40 Material
 Build Time:	        2 Actions
 Duration: 	        Permanent
 Health:		        1 vehicle health
@@ -1017,17 +1004,17 @@ This weapon can be ripped off of its emplacement by a character that has 8
 strength or more. When ripped off, the gun has an additional +1 chance to 
 miss. If the gun is fired four times, with four consecutive Actions, the
 shooter gets a free fifth shot. Every hit that an ally (not you) makes with a
-turret that you placed gives you 30 Potential. 
+turret that you placed gives you 30 Energy. 
 
 == Snare == 
 Type:				Trap
-Construction Cost:	5 Potential and 5 Material
+Construction Cost:	5 Energy and 5 Material
 Build Time:			1 Action
 Disarm DC:			30%
 Damage:				0 points
 Range:				1 particular square meter
 
-    DC 20 + (20 * Engineer character Level) for an enemy to spot with a max of 
+    DC 20 + (20 * Engineer character Level) for an enemy to  spot with a max of 
 90. When a character steps on a snare, their movement ends. They may not move 
 until they pass a DC 60 Fortitude check. An additional fortitude check may be 
 made at the cost of 1 action. If the engineer who made this is at least level 5 
@@ -1039,7 +1026,7 @@ friendly characters.
 
 == ASPRO-S system	== 
 Type: 		Structure
-Construction Cost:	30 Potential, 1 Munitions and 15 Material
+Construction Cost:	30 Energy, 1 Munitions and 15 Material
 Build Time:			4 Actions
 Duration: 			Permanent
 Health:				50
@@ -1062,7 +1049,7 @@ unable to stop further ordnance.
 
 == Sentry	== 
 Type: 		Structure
-Construction Cost:  30 Potential, 40 Material and 1 Munitions 
+Construction Cost:  30 Energy, 40 Material and 1 Munitions 
 Build Time:	        4 Actions
 Duration: 	        Permanent
 Health:		        120
@@ -1084,7 +1071,7 @@ any flat surface that is strong enough to support its weight.
 
 == Claymore	== 
 Type:				Trap
-Construction Cost:	10 Potential and 1 Munition
+Construction Cost:	10 Energy and 1 Munition
 Build Time:			1 Action
 Disarm DC:			60%
 Damage:				110 points (explosive)
@@ -1095,7 +1082,7 @@ may affix a claymore to any hard, flat surface.
 
 == Scavenge	== 
 Type:			Action
-Potential Cost:	20
+Energy Cost:	20
 Scrap Time:		2 Actions
 Range:			Touch
 
@@ -1110,7 +1097,7 @@ be incompatible with your microassembler.
 
 == Light Mortar	== 
 Type: 		Structure
-Construction Cost:65 Potential, 45 Material and 1 Munitions
+Construction Cost:65 Energy, 45 Material and 1 Munitions
 Build Time:	8 Actions
 Duration: 	Permanent
 Health:		1 vehicle health
@@ -1123,12 +1110,12 @@ hit target with a chance to miss of 3. One shell "clip" takes 2 actions to
 reload. 130m range with a high arc. Ignores cover penalties if the shell comes 
 straight down on top of the target. Successful hits have a 30% chance to daze 
 the target. Every hit that an ally (not you) makes with a mortar that you placed 
-gives you 40 Potential. Each emplacement comes with ten shells and may be refilled 
-at a cost of 100 Potential.
+gives you 40 Energy. Each emplacement comes with ten shells and may be refilled 
+at a cost of 100 Energy.
 
 == IED	== 
 Type:				Trap
-Construction Cost:	20 Potential, 15 Material and 1 Munition
+Construction Cost:	20 Energy, 15 Material and 1 Munition
 Build Time:			1 Action
 Disarm DC:			80%
 Damage:				180 explosive damage or 3 vehicle damage
@@ -1148,7 +1135,7 @@ Stealth(CHA) to conceal it!
 
 == Chain Sentry	== 
 Type:				Structure
-Build Cost:			60 Potential, 35 Material and 1 Munitions
+Build Cost:			60 Energy, 35 Material and 1 Munitions
 Build Time:			6 actions
 Duration:			Permanent
 Health:				1 Vehicle health
@@ -1173,12 +1160,12 @@ The stats above are for the combined chainguns. They may not be fired
 independently. Turns slowly; to change targets more than 90 degrees takes 2 
 actions. Uses visible spectrum target identification.
 
-    Even though Chain Sentries fire 8 bullets per action, only two bullets 
+    Even though Chain sentries fires 8 bullets per action, only two bullets 
 every burst proc any per-bullet effects.
 
 == Reverse engineer	== 
 Type:			Action
-Potential Cost:	40 Potential
+Energy Cost:	40 Energy
 Damage:			80 Melee Damage
 Scrap Time:		2 Actions
 Range:			Touch
@@ -1191,7 +1178,7 @@ an enemy Detachment Security Drone would be worth about 120 Material.
 
 == Heavy Mortar	== 
 Type: 		Structure
-Construction Cost: 90 Potential, 60 Material and 2 Munitions
+Construction Cost: 90 Energy, 60 Material and 2 Munitions
 Build Time:	8 Actions
 Duration: 	Permanent
 Health:		1 vehicle health
@@ -1204,12 +1191,12 @@ radius around a hit target with a chance to miss of 3. Three shell "clip" with a
 2 action reload time. 300m range with a high arc. Ignores cover penalties if the 
 shell comes straight down on top of the target. Successful hits have a 30%
 chance to daze the target. Every hit that an ally (not you) makes with a
-mortar that you placed gives you 40 Potential. Each emplacement comes with 
+mortar that you placed gives you 40 Energy. Each emplacement comes with 
 ten shells and may be refilled at a cost of 80 Material. 50m minimum range.
 
 == Remote ANFO	== 
 Type:				Trap
-Construction Cost:	15 Potential and 3 Munitions
+Construction Cost:	15 Energy and 3 Munitions
 Build Time:			1 Action
 Disarm DC:			80%
 Damage:				250 explosive damage or 4 vehicle damage
@@ -1218,8 +1205,8 @@ Range:				6m radius
     "um... sir, should you be... are you cleared to have that?" Won't detonate 
 if shot. Even with plasma. And, boy does this sucker pack a punch. DC of 30 to 
 hack it and set it off early. Setting one gives you a remote that can easily be 
-held in an offhand, even if using a 2 handed weapon. If a teammate detonates 
-the ANFO, the engineer that set it gains 10 Potential. Anyone within 9m radius of 
+held in an off hand, even if using a 2 handed weapon. If a teammate detonates 
+the ANFO, the engineer that set it gains 10 Energy. Anyone within 9m radius of 
 the blast gets an "ears are ringing" status effect which gives a -90% to 
 perception checks based on sound for three Rounds. Remote ANFO comes in a sticky 
 bundle and will cling to any shaped hard surface. It will even cling to the 
@@ -1227,7 +1214,7 @@ wings of dropships during reentry.
 
 == Rocket Sentry	== 
 Type:			Structure
-Build Cost:		80 Potential, 60 Material and 2 Munitions
+Build Cost:		80 energy, 60 Material and 2 Munitions
 Build Time:		6 Actions
 Duration:		Permanent
 Health:			2 Vehicle Health
@@ -1257,7 +1244,7 @@ hunter marks don't stack. 2 rocket hits count as an anti-vehicle hit.
 
 == Bubble Shield	== 
 Type: 		Structure
-Construction Cost: 60 Potential and 10 Material
+Construction Cost: 60 energy and 10 Material
 Build Time:	2 Actions
 Duration: 	30 rounds or end of encounter
 Health:		30
@@ -1267,12 +1254,12 @@ Size:		1m x 1m x 1m
 shield that nobody can shoot through, but anyone can walk through or melee
 through. The shield will stop 120 damage per Round or one vehicle damage
 before popping. Once a shield has popped, it will need to be repaired at a cost
-of 20 Potential and 2 actions. Cannot be repaired more than twice.
+of 20 Energy and 2 actions. Cannot be repaired more than twice.
 
 
 == Entrench	== 
 Type:			Structure
-Build Cost:		40 Potential and 10 Material
+Build Cost:		40 Energy and 10 Material
 Build Time:		8 Actions
 Duration:		Permanent
 Health:			4 Vehicle Health
@@ -1288,7 +1275,7 @@ of good cover for 360 degrees.
 
 == Spotter	== 
 Type:			Drone
-Build Cost:		30 Potential and 20 Material
+Build Cost:		30 Energy and 20 Material
 Build Time:		2 Actions
 Duration:		Permanent
 Health:			40 Points
@@ -1312,26 +1299,26 @@ many similar models, the spotter drone is quite stealthy.
 
 == Darknet Processor	== 
 Type:			Structure
-Build Cost:		20 Potential and 5 Material
+Build Cost:		20 Energy and 5 Material
 Build Time:		4 Actions
 Duration:		Permanent
 Health:			80 points
 Size:			.75 x .75. .5 (base) antennae is adjustable
 
-    You didn't exactly understand what your Hacker was saying about what was in 
+    You didn't exactly understand what your Priest was saying about what was in 
 this thing, but you could tell he was quite excited. Something about hexadecimal 
 core processor, radio and wireless peripherals, embedded botnet, altera SHIELD 
 encryption accelerator, digital signal processor, signal triangulator and all 
-wrapped up with a web application firewall. Allows any Hacker within 8m of the 
+wrapped up with a web application firewall. Allows any Priest within 8m of the 
 station to make wireless hacking checks with a +20 to rolls. Gives friendly 
 drones in range a +10 to resist being hacked. Also provides four friendly 
 network nodes, all isolated by separate firewalls. The engineer who deployed 
-this gets 10 Potential for each system disrupted and 20 Potential for each system 
-pwned using this antenna. 
+this gets 10 Energy for each system disrupted and 20 Energy for each system 
+pwned using this antennae. 
 
 == Noisy Cricket	== 
 Type:			Disposable munition system
-Build Cost:		30 Potential, 25 Material and 2 Munitions
+Build Cost:		30 Energy, 25 Material and 2 Munitions
 Build Time:		2 Actions
 Duration:		until it runs out of ammo
 Range:			60m
@@ -1353,13 +1340,13 @@ You hand an allied gunslinger a little sidearm that has been your pet project
 for a while. Ignores shields. After every shot, the player who fired it rolls 
 luck. If they roll over 80 (modified), all enemies who took damage have their 
 shields wink out due to EMP. If they roll under 10, their shields and any nearby 
-allies within 5m of them lose their shields due to EMP. Does not affect the 
+allies within 5m of them lose their shields due to EMP. Does not effect the 
 function of drones or robots. Every enemy hit with the noisy cricket gives 30 
-Potential to the engineer who built it.
+Energy to the engineer who built it.
 
 == Overshield Inductor	== 
 Type:			Drone
-Build Cost:		40 Potential and 15 Material
+Build Cost:		40 Energy and 15 Material
 Build Time:		2 Actions
 Duration:		Permanent
 Health:			20 Points
@@ -1372,11 +1359,11 @@ heals any damage to your teammate's shields by 20 points at the end of your
 teammate's turn every Round. It's not really quiet though, so the teammate that 
 the drone is following cannot score stealth rolls above 70. For every 20 points 
 (including the first 40 of over-heal) of shield strength that the drone heals, 
-the engineer who built it gets 15 Potential in return.
+the engineer who built it gets 15 Energy in return.
 
 == Pointer	== 
 Type: 				Drone
-Construction Cost:	40 Potential and 40 Material
+Construction Cost:	40 Energy and 40 Material
 Control Point Cost: 0 points
 Build Time:			4 Actions
 Modular I/O ports: 	2 ports
@@ -1405,7 +1392,7 @@ fire while pointing. Pointers are not quiet and cap stealth scores at 80.
 
 == Medic Drone	== 
 Type:			Drone
-Build Cost:		40 Potential and 40 Material
+Build Cost:		40 Energy and 40 Material
 Build Time:		2 Actions
 Duration:		Permanent
 Health:			20 Points
@@ -1418,13 +1405,13 @@ one particular medic and speeds up all Hippocratic procedures to 1 action (no
 effect if an action would be just one action or faster anyway). It also adds a 
 +15 to medical skill checks and adds a +15 to perception checks made by that 
 medic. The medic drone does not cost any control points. The engineer who 
-deployed the medic drone is able to reclaim 10 Potential every time the medic uses 
+deployed the medic drone is able to reclaim 10 Energy every time the medic uses 
 the drone to heal something. Medic drones are not quiet and limit a medic to a 
 stealth score of 75 while active.
 
 == BFG	== 
 Type:			Disposable munition system
-Build Cost:		60 Potential, 40 Material and 1 Munition
+Build Cost:		60 Energy, 40 Material and 1 Munition
 Build Time:		2 Actions
 Duration:		until it runs out of ammo
 Clip:			4 Ni U Rods
@@ -1437,14 +1424,14 @@ Damage:			120 explosive damage, ignores armor.
 +-------+------+------+-----+
 
     You assemble a large antimatter slug impeller on the ground and instruct 
-your weapons specialist to pick it up and use it until the canister runs out. 
+your weapons specialist to pick it up and use it until the cannister runs out. 
 You explain that he shouldn't drop it, but don't break his brain with the 
-physics behind it. The Engineer that deploys this gets 30 Potential per hit with 
+physics behind it. The Engineer that deploys this gets 30 Energy per hit with 
 this weapon.
 
 == Cloaking Capacitor	== 
 Type:			Wearable
-Build Cost:		30 Potential and 25 Material
+Build Cost:		30 Energy and 25 Material
 Build Time:		2 Actions
 Duration:		Permanent
 Health:			40 Points
@@ -1452,12 +1439,12 @@ Size:			.5m x .5m x .3m
 
     you attach a Nanite capacitor to your teammate's cloaking armor, which 
 allows it to maintain a cloak for 2 more Rounds. The engineer who deploys this 
-gets 50 Potential in return. A cloaking capacitor is detectable by detect high 
+gets 50 Energy in return. A cloaking capacitor is detectable by detect high 
 tech rolls above a 1.
 
 == Defender	== 
 Type: 				Drone
-Construction Cost:	45 Potential and 45 Material
+Construction Cost:	45 Energy and 45 Material
 Control Point Cost: 0 points
 Build Time:			6 Actions
 Modular I/O ports: 	3 ports

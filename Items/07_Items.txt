@@ -55,12 +55,6 @@ inside it, exportable to a portable device.
     Builds a 3D image of what its being pointed at, will need to see the object 
 from multiple angles to capture the whole object. Up to 20m^3 of space.
 
-Medical Nanites Unit ($):
-	One unit of Medical Nanites.
-	
-Medical Nanites Booster Shot ($):
-	Half a unit of Medical Nanites.
-
 ==============================
 Wearables
 ==============================
