@@ -329,6 +329,25 @@ Fortitude). Now, Strength is much higher than both of those, but Strength can't
 determine both Movement Speed and Carry Ability so you have to decide whether 
 you want:
 
+* 3 Movement Speed and 6 Carry Ability, or 
+* 6 Movement Speed and 4 Carry Ability 
+
+===== Stat Modifiers =====
+
+	Usually you can tell a lot about a character just by their Primary Stats. 
+For instance, a character with 9 strength and 3 intelligence is usually either a 
+brutish bully or a tough but lovable teddy bear of a person. Where a character 
+with 10 intelligence and 2 charisma is probably a brilliant nerd who might be 
+shy or just have a terrible stutter.
+
+	But your raw Primary Stat is rarely used in calculations during the game. To
+get the math to work out better, we usually use what is called a 'Stat Modifier'.
+Stat Modifiers are used very often. They are calculated by one of the two 
+equivalent equations below (use whichever looks easier to you):
+
+* Stat Modifier = (4 * Stat) - 20 
+* Stat Modifier = (Stat - 5) * 4
+
 	For instance, if you were trying to lift something heavy, your GM may tell 
 you to roll a 'Strength Check' and add your 'Strength Modifier'. To do this, you 
 would roll two 10-sided dice as explained in the Primary Game Mechanic above, 
@@ -358,19 +377,6 @@ More generally:
 Some class feats and other abilities can increase the number of Nanites you can 
 hold and use at a given time. Also, Unlike Health, Nanites regenerate during 
 combat at a rate of 3 Nanites per turn. 
-
-===== Assigning Skills to a Character =====
-
-	Characters gain points in a wide variety of skills to represent their experience
-and expertise in different fields and activities. Every time your character levels up,
-they gain skill points equal to double your Skill Point Gain. Assign each skill point to
-a skill; see CharacterCreation/06_Skills for details about skills and for a list of
-commonly-used skills in Compound X. At level 1, your character will have two times their
-Skill Point Gain to assign at will. You may gain a maximum of 60 skill points in a single
-skill. In addition, each time you level up, you may gain a maximum of 6 points in any one
-skill. Skill gained from Feats, Class passives, Species traits and Background bonuses
-counts towards the maximum of 60 points per skill, but not towards the maximum skill
-increase per level.
 
 ==============================
 Saving Throws
