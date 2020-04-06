@@ -329,25 +329,6 @@ Fortitude). Now, Strength is much higher than both of those, but Strength can't
 determine both Movement Speed and Carry Ability so you have to decide whether 
 you want:
 
-* 3 Movement Speed and 6 Carry Ability, or 
-* 6 Movement Speed and 4 Carry Ability 
-
-===== Stat Modifiers =====
-
-	Usually you can tell a lot about a character just by their Primary Stats. 
-For instance, a character with 9 strength and 3 intelligence is usually either a 
-brutish bully or a tough but lovable teddy bear of a person. Where a character 
-with 10 intelligence and 2 charisma is probably a brilliant nerd who might be 
-shy or just have a terrible stutter.
-
-	But your raw Primary Stat is rarely used in calculations during the game. To
-get the math to work out better, we usually use what is called a 'Stat Modifier'.
-Stat Modifiers are used very often. They are calculated by one of the two 
-equivalent equations below (use whichever looks easier to you):
-
-* Stat Modifier = (4 * Stat) - 20 
-* Stat Modifier = (Stat - 5) * 4
-
 	For instance, if you were trying to lift something heavy, your GM may tell 
 you to roll a 'Strength Check' and add your 'Strength Modifier'. To do this, you 
 would roll two 10-sided dice as explained in the Primary Game Mechanic above, 
@@ -377,51 +358,6 @@ More generally:
 Some class feats and other abilities can increase the number of Nanites you can 
 hold and use at a given time. Also, Unlike Health, Nanites regenerate during 
 combat at a rate of 3 Nanites per turn. 
-	
-==============================
-Creating a New Character
-==============================
-
-	When making a new character, you'll have to assign their Primary Stats.
-This will tell you a lot about your character. When assigning your stats,
-no stat can be higher than a 9 before applying racial/species bonuses and
-no stat can be lower than a 1 after applying racial/species bonuses. 
-
-	Additionally, even after race/species bonuses, feats, equipment, and Primary
-Stat bonuses from leveling, no stat can ever be over 15 until your character is 
-level 15. After level 15, the limit for stat points is 20. The number of 
-initial base stat points that you have to apply is listed with your Race or 
-Species. See chapter 1: Races if you haven't yet. 
-
-===== Assigning a Class to your Character =====
-
-	Most Characters start at level 1 so the Player will choose a Class for that 
-Character at that time. A Character will only ever have one Class at a time, and
-under normal circumstances, cannot change their class once it is picked. 
-
-	On occasion (especially for new Players), a character may start at level 0 
-with no Class. This is usually for a tutorial mission and a Class is selected
-when the Character has completed the tutorial and leveled up to level 1. 
-
-===== Weapon Proficiencies =====
-
-	Each Class comes with a specific list of Weapon Proficiencies. If your 
-Character has a proficiency with a type of weapon, then they can use that weapon
-in combat and can purchase weapons of that type in the world or during character
-creation. If your Character lacks proficiency with a weapon, then they can't 
-purchase or use a weapon of that type. 
-
-	Note that Weapon Proficiency is different from having Proficiency with the
-Skill Weapon - [X]. For details on Skill Proficiencies and Weapon SKills, see the
-"RP/Using Skills" section or the Skills document.
-
-===== Armor Proficiencies =====
-
-	Just like each Class comes with a set of Weapon Proficiencies, it also comes
-with a list of Armor Proficiencies. Just like Weapon Proficiencies, if your 
-class has a Proficiency with a given armor type then they can purchase or wear
-that armor type in combat. If your character doesn't have that proficiency, then
-they can't.
 
 ===== Assigning Skills to a Character =====
 
