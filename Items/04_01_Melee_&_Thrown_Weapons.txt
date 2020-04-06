@@ -21,8 +21,14 @@ Damage: 30 + STR mod + DEX mod Ballistic, minimum 10
 Range: Adjacent (1m)
 Accuracy Modifier: 0
 
+	Ranged Miss Chance
+
+* 2 out to 5m
+* 5 out to 20m
+
 	Some improvised weapons may have alternate damage types, at the DM's 
-discretion.
+discretion. Note that the miss chance stat is only relevant when throwing an 
+improvised weapon, while the accuracy is only used for melee attacks.
 
 == Improvised One-handed Weapon ==
 
@@ -30,8 +36,14 @@ Damage: 50 + STR mod Ballistic
 Range: Adjacent (1m)
 Accuracy Modifier: 1
 
+	Ranged Miss Chance
+
+* 3 out to 5m
+* 6 out to 20m
+
 	Some improvised weapons may have alternate damage types, at the DM's 
-discretion.
+discretion. Note that the miss chance stat is only relevant when throwing an 
+improvised weapon, while the accuracy is only used for melee attacks.
 
 == Improvised Two-handed Weapon ==
 
@@ -39,8 +51,15 @@ Damage: 50 + 2*STR mod Ballistic
 Range: Adjacent (1m)
 Accuracy Modifier: -1
 
+	Ranged Miss Chance
+
+* 4 out to 5m
+* 7 out to 15m
+
 	Some improvised weapons may have alternate damage types, at the DM's 
-discretion. This weapon has a Guard modifier of +1.
+discretion. Note that the miss chance stat is only relevant when throwing an 
+improvised weapon, while the accuracy is only used for melee attacks. This 
+weapon has a Guard modifier of +1. 
 
 ==============================
 Melee Weapons
@@ -90,6 +109,19 @@ you must spend an Action to remove it from the target before you can
 attack with it again.
 
 ===== Level 5 Requirement Weapons =====
+
+== Eliazar Plasma Torch $240 ==
+
+Damage: 30 Plasma + 2x Plasma Burn
+Size: Light
+Range: Adjacent (1m)
+Accuracy Modifier: +1
+STR Requirement:   3
+
+	A vital tool for structural repairs - good for sealing or cutting  
+metal surfaces or slagging mechanisms like locks. Takes about 40 minutes to 
+cut an average person-sized opening through half-inch steel plate. -40 on 
+Stealth rolls while using. This weapon has an APL of 10.
 
 == Eliazar Plasma Torch $240 ==
 
