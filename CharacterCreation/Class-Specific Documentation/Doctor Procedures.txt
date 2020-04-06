@@ -801,12 +801,12 @@ Effect:			Target gets a 30 point capacitive shield for the duration of
 the engagement. This trick works on any race of ally. 
 
 ==Nanite Restore ==
-Adrenaline Reward:	10 Points
+Adrenaline Reward:	n/4
 Range:			Touch
-Action:			1 Action
-Effect:			Choose 1. Remove up to 3 Rounds of cooldown from one unit of 
-Medical Nanites owned by the target, or the cooldown of the target's next active 
-feat before your next turn is reduced by up to 3 Rounds, to a minimum of zero.
+Action:			Free Action
+Effect:			Transfer n number of Adrenaline points from the Doc to the 
+patient. If This trick is used on another doctor, no adrenaline points are 
+earned. 
 
 ==Illegal Steroid ==
 Adrenaline Reward:	40 Points

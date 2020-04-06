@@ -17,7 +17,9 @@ Section of Basic Rules.txt.
 	You have the blood of a warrior flowing through you. Your sole purpose is to 
 fight until the threat is neutralized.
 
+Class Primary Attribute: Strength
 Starting Wealth: $3770 + 100*Luck
+
 
 Passives: 
 * Gain Skill Weapons - [Choose one] at 10.
@@ -106,6 +108,7 @@ heaviest of fire down upon their enemies. The Specialist will be there when the
 odds are stacked highest against the forces for good, and he'll be prepared to 
 use heavy force to even those odds.
 
+Class Primary Attribute: Strength
 Starting Wealth: $4150 + 100*Luck
 
 Passives: 
@@ -166,6 +169,7 @@ and harm. One errant twitch of your hands could mean the difference between
 saving the day or losing a friend. This is what you've been training for for 
 years. 
 
+Class Primary Attribute: Dexterity
 Starting Wealth: $2670 + 100*Luck
 
 Passives:
@@ -227,6 +231,7 @@ behind. You know how to fix engines, machines, circuits, you name it. And when
 you're not busy fixing what other people broke, you get to work on making new 
 stuff. Which some knucklehead will probably, eventually, break too.
 
+Class Primary Attribute: Intelligence
 Starting Wealth: $2580 + 100*Luck
 
 passives: 
@@ -311,6 +316,7 @@ a habit of getting into places that you shouldn't be and uncovering the secrets
 that you shouldn't have seen. You have a mischievous talent for disrupting your
 enemy's technology and sometimes even turning it against them. 
 
+Class Primary Attribute: Intelligence
 Starting Wealth: $2750 + 100*Luck
 
 Passives: 
@@ -356,6 +362,7 @@ Will Saves or Hacking(INT) rolls to prevent someone else from breaking into them
 	You have a yearning to test the limits of the vehicles you operate. The 
 boundaries of speed and maneuvering were meant to be broken - by you.
 
+Class Primary Attribute: Dexterity
 Starting Wealth: $2670 + 100*Luck
 
 Passives: 
@@ -472,6 +479,7 @@ rocks of Kalimba against each other. You may not be much for book learnin', but
 you know that a keen eye and a choice blast from your shotgun wins the kind of
 arguments you're most like to have out on the rim. 
 
+Class Primary Attribute: Perception
 Starting Wealth: $3290 + 100*Luck
 
 Passives: 
@@ -606,6 +614,7 @@ scoundrels, rogues and ne'er-do-wells. Some are the soft-spoken, hard-working
 long arm of the law. But there is one thing that all gunslingers have in common: 
 they know their way around a pistol. 
 
+Class Primary Attribute: Perception
 Starting Wealth: $1975 + 100*Luck
 
 Passives: 
@@ -695,6 +704,7 @@ influence are limitless. The assassin lurks in the shadows, either as a lone
 force of justice, or as part of a larger organization. They have rightfully 
 earned the title of Galaxy's greatest Hand-to-Hand Fighters.
 
+Class Primary Attribute: Dexterity
 Starting Wealth: $1975 + 100*Luck
 
 Passives:
@@ -782,6 +792,7 @@ level 10 in order to take it.
 	Your expert knowledge of bullet ballistics, feel for physics and keen eyes 
 have given you insight into the art of precision warfare.
 
+Class Primary Attribute: Perception
 Starting Wealth: $3190 + 100*Luck
 
 Passives:
@@ -866,6 +877,7 @@ feedback is. Guns simply don't offer the appropriate amount, which is why you
 prefer to BEAT YOUR ENEMIES TO DEATH USING YOUR BARE HANDS WHENEVER 
 POSSIBLE!!!!!!!!!!!!!!!!!!!! MORE EXCLAMATION MARKS!!!!!!!!!!!!!!!! 
 
+Class Primary Attribute: Strength
 Starting Wealth: $2170 + 100*Luck
 
 Passives:
