@@ -342,7 +342,6 @@ exposed biology are affected by this even if a deployment method says they
 wouldn't. Use of biologic weapons are severely frowned upon in most civilized 
 regions of space.
 
-
 == Neural Afibrillator ==
 
 Adrenaline Cost: 50 Points

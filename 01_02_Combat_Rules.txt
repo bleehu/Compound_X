@@ -2,12 +2,280 @@
 Combat
 ==============================
 
-
 	Combat starts when either you or an enemy decides they would like to make an 
-attack (or as the GM decrees). At that point, all involved characters roll 
-Initiative to determine the order in which they take turns. Initiative is a d100 
-roll that is modified only by Soldier class passive abilities, and higher numbers 
-go first. The section "Actions", below, has more detail on turns in combat.
+attack (or as the GM decrees). During combat, the flow of the game changes so 
+that both player characters and the Non-Player Characters that are run by the
+Game Master each take a turn in a specific order. 
+
+	Combat can end many different ways. Obviously, if all characters on one side
+or the other are dead, then combat ends. But Combat can also end with one side
+retreating and escaping, or if one side surrenders. Not all combat is to the
+death. Once Combat ends, the flow of play returns to the each character doing
+as they like as described in the Basic Rules Section.
+
+===== Starting a Fight =====
+
+== Initiative ==
+
+	When combat starts, all involved characters roll Initiative to determine the 
+order in which they take turns. Initiative is a d100 roll that is modified only 
+by Soldier class passive abilities, and higher numbers take their turn in combat 
+first.
+
+== Stealth Before Combat ==
+
+	Some characters are very sneaky, and often wish to ambush or sneak past 
+enemies. Stealth encounters can often straddle the line between combat and 
+non-combat. When the encounter is time-sensitive, or if the movement of the 
+sneaker is relative to the movment of what else is happening, then stealth can
+require the same turn-based flow as combat. When the sneaking is happening under
+less pressure, it can often skip the rigor of turn-based gameplay.
+
+== Starting Combat From Hiding ==
+
+	If a character succeeds on their stealth skill checks, gets the drop on
+another character, and decides to attack, then the character or characters that 
+were hidden get to take a whole round without the surprised characters getting
+a turn. This is called the Surprise Round.
+
+==============================
+Rounds, Turns and Actions
+==============================
+
+    During Combat, each character gets one Turn per Round. You get 4 Actions on
+your turn to do whatever you'd like to do.
+
+===== Free Actions =====
+
+	Free Actions refer to tasks that take miniscule amounts of time, even
+in pitched combat, like looking around, speaking briefly, or reflexively 
+shutting your eyes after being treated to a flash-bang. Aside from your 
+GM's patience and willingness to believe your character can do everything you 
+want in a negligible timescale, there is no limit to the number of Free Actions 
+a character may take, and they may be used at any time.
+
+===== Reactions =====
+
+	Certain abilities or circumstances will allow you do something 
+in response to a triggering event. Doing so requires using a special kind 
+of Action called a Reaction. Reactions occur at the immediate moment 
+that they are triggered, regardless of whose turn it is. Common uses of 
+Reactions include Opportunity Attacks (described in "Melee Combat", above) 
+and Held Actions, below. After the Reaction occurs, play continues as normal. 
+If it was an opponent's turn, they continue their turn. 
+
+	A character may use up to three Reactions per round, regardless of how 
+many viable trigger circumstances occur.
+
+===== Held Actions =====
+
+	A type of Reaction. A player may choose to forgo using up to 2 Actions at 
+the end of their turn. The player must declare to their DM what those actions 
+are to be triggered by, and then play continues as normal. If the trigger occurs 
+before the player's next turn, the player gets to immediately use their 1 or 2 
+actions. If the trigger does not occur before the player's turn, they lose their
+held action(s) and start their turn as normal. 
+
+	For example, let's say my Character and his/her friends are walking along a 
+ledge. I know that one of the Characters in the party is clumsy so I have my 
+Character move along the ledge, and I ask the DM if I can save my last action to 
+try and catch the clumsy Character, should they trip. The DM approves my plan 
+and play continues. On the clumsy Character's turn, they start to scoot across
+the ledge and trip! As soon as they trip, my held action triggers and my 
+Character saves them from falling off the ledge and their turn continues. If 
+they had not tripped, my held action would've been lost at the start of my 
+following turn.
+
+===== Saving Against Ongoing Conditions =====
+
+	Attempting a save to end an ongoing condition takes one Action, 
+unless the ability that applied the condition says otherwise. A character 
+may only attempt to recover from a particular condition once per round.
+
+===== Example Actions =====
+
+	Below is a quick list of examples of things a character might want to do and 
+how many Actions that would take out of their turn. Your character isn't limited 
+to only these options; you can try to do almost anything you can think of, as 
+long as what you're trying to do isn't an ability that needs to be unlocked 
+elsewhere. If you'd like to do something that isn't on this list, your Game 
+Master will decide how many Actions it will take.
+
+Shooting: 1 Action
+Aiming: 1 Action
+Drawing a weapon: 1 Action
+Reloading: listed in weapon stats
+Suppressing an Area/Target: 1 Action
+Changing fire mode: Free Action
+
+Moving your Move Speed: 2 Actions
+Hunkering Down in cover: 1 Action
+Laying down: 1 Action
+Standing up from laying down: 1 Action
+Crouching: Free Action
+Standing up from crouching: 1 Action
+
+Talking: Free Action
+Performing a Skill Check (other than Getting Bearings): 1 Action
+Awareness checks to look for enemies: Free Action
+
+==============================
+Movement in Combat
+==============================
+
+===== Movement and Sprinting =====
+
+	You can run 'Movement Speed' minus 'Movement Speed Penalty' number of meters 
+for every 2 actions spent (Movement Speed Penalties should be rounded up before 
+the subtraction). A character with 1 Movement Speed and 0 move speed penalties 
+can move 1m per 2 actions, or 2m per 4 actions (a full turn). You can sprint 
+instead of running, for a +1 movement bonus per action. However, firing your 
+weapon after doing so will cause you to incur a +1 miss chance penalty. The 
+penalty occurs during the actions you sprint, as well as 2 actions afterwards. 
+You can sprint for a number of consecutive Actions equal to your Fortitude. You 
+can jump horizontally DEX/2 meters, and add 1m if you have a 3m running start.
+You can jump vertically STR/3 meters.
+
+===== Using Cover/Stances =====
+
+	Chances are, if an enemy can see you, they can shoot you. Using cover will 
+make you harder to be hit. You will encounter many types of cover while 
+adventuring throughout the galaxy. Many small objects provide only partial 
+cover, either by partially obscuring your silhouette, or by providing slight 
+protection from projectiles. Full cover will do both to a better degree.
+
+	Partial Cover typically covers 30-50% of your body. Full Cover on the other 
+hand will cover closer to 60-80%. Crouching or going prone will also take better 
+advantage of your surroundings and make you a smaller target. The penalties for
+an enemy shooting at you in different kinds of cover are listed below.
+
+No Cover: +0
+Partial Cover: +2 
+Full Cover: +4
+Crouching: +1 (on top of whatever cover you're behind, may completely obscure vision)
+Prone: +2* 
+Hunkering: +2 (on top of whatever cover you're behind.)
+
+*(on top of whatever -partial- cover you're behind, otherwise, may completely 
+obscure vision. Does not provide a bonus against an opponent that is within 5m 
+of you if you aren't in cover from their perspective.)
+
+Crouching:
+	Crouching is a free action, and standing up costs 1 Action. While you are
+crouched, you have -1 movement speed per action (minimum 1) and you cannot
+sprint or use other movement abilities.
+
+Prone:
+	Going prone costs 1 Action, and standing up costs 1 Action. Lying flat down on
+your chest makes you a smaller target and helps you aim better, but also makes you
+easier to hit in melee. You gain +1 Accuracy with firearms while prone but suffer -2 to 
+Guard checks. Being prone severely limits your movement: 1/2 movement speed while prone, 
+round-up; maximum 2 movement per action.
+
+Hunkering:
+	Hunkering costs 1 action, and you cannot fire your weapons except by blind-fire 
+(see Blind Firing, above). Imagine curling up in a ball, to pose the absolute smallest
+target possible. Its a free action to un-hunker.
+
+==============================
+Being Shot At
+==============================
+
+	The galaxies of Compound X are filled with all manner of space pirates, 
+bounty hunters, rogue robots and hostile aliens. Many an enemy intend to settle
+their grievences with you by putting a bullet in you. These rules will explain
+how that works.
+
+===== Hitting The Dirt =====
+
+	If a player or opponent is standing outside of cover and they are shot at, 
+after the first firing action (assuming they didn't die or go unconscious), 
+they immediately, 'Hit the Dirt'. When you Hit the Dirt, you dive to the ground,
+going prone, within a 2m range of where you stood (DEX movement rules apply 
+as normal). Hitting the dirt consumes the 1st action of their next turn.
+
+==============================
+Death, Dying, and Downed
+==============================
+
+	Oh no! You have less than 1 health point left! What now!?! The good news is 
+you are not* dead yet. But you are doing what's known as "Bleeding Out". The 
+first time your character falls below 1 hit point, you get 3 saving throws 
+called Death Saving Throws (or 'DSTs' for short). You roll one saving throw per 
+turn that you are Downed and these DSTs are not modified by any attribute. If you 
+succeed a DST, (see 'Downed', below) you continue Bleeding Out; however, you get 
+to roll again next turn. If you fail 3 DSTs, you die. Once you fail a DST, the 
+next time you fall below 1 health point you only get 2 DSTs (2 failed throws and 
+you die). If you failed a DST during the first two times you were downed and 
+you are downed a third time, you only get 1 DST. You regain a DST by going a 
+whole encounter without failing a DST. You can have a maximum of 3 saving throws 
+at any one time.
+
+Downed:
+	The state of having less than one Health Point is called being "Downed." It 
+is also sometimes called "Bleeding Out." They are equivalent. While a character 
+is Downed, they cannot move, cannot stand under their own power, and fall prone 
+if not supported by other means. They cannot speak, but can mumble 
+incomprehensibly.
+
+	Every turn that a character takes while they are downed, they must make a 
+Death Saving Throw of DC 50. Success and failure of these throws is detailed 
+above. Even if you had 5 health and took 80 damage, when you go down you go to 0
+health. Any additional attacks you sustain will push you into negative health. 
+
+Stabilize:
+	For three actions, a character may choose an adjacent, Downed character and 
+attempt to Stabilize them. That character makes DC 80 DEX-based skill check: 
+Medicine for primarily organic targets, or Repair for primarily cybernetic 
+characters. If successful, the target is revived and now has 1 HP, is no longer 
+Downed, and may take Actions as normal within the initiative order. A character 
+may be revived in a single encounter a number of times equal to half their Fort, 
+minimum two. Past this limit, stabilized characters are Unconscious in addition 
+to the other effects of Stabilization. Note that most persistent damage effects, 
+like bleeds or burns, fall off of characters when they are Downed. If the 
+stabilizing character starts stabilizing with their last action or two, 
+finishing on the stabilizing character's subsequent turn, then the dying 
+character does not need to make a death saving throw on the turn between that.
+
+	If a character fails a stabilization check, nothing happens. It's just 
+taking longer to stem the bleeding. On critical success (base Critical range 10), 
+your excellent care allows you to choose whether the target counts this revival 
+against their revivals per encounter limit. On critical failure (01-05 before 
+modifiers), the bleeding (or equivalent) gets worse: the target must immediately 
+roll an additional Death Save. If the total check is then still high enough to 
+succeed and the target is still alive, they are then Stabilized as normal.
+
+	Up to one character may assist with a stabilization check. Either involved 
+character may expend one Medkit (for primarily organic targets) or one Repair Kit 
+(for primarily mechanical targets) to grant +20 to the Medicine check. Feel free 
+to scavenge one from the target, they probably won't make a fuss. One kit provides 
+a bonus to all Stabilization attempts made on the same target in one round.
+
+	Don't forget that a recently stabilized character may need to take actions to
+retrieve a dropped weapon or stand back up if they have fallen.
+
+*Some hazards can reduce you to zero health points and kill you 
+instantly. Some examples are falling several stories, lava baptisms,
+or having a space station dropped on you. Do not do these things. They are
+also known to the state of California to cause cancer. 
+
+==============================
+Reloading
+==============================
+
+	When a gun runs out of ammunition, the user must pause to reload. "But how 
+long do I gotta be outta the battle?" Great question!
+
+	Each gun has a "Reload DC," rated based on the complexity and brevity of the 
+weapon's reload. For example, an assault rifle, which has a very obvious 
+magazine release button and protruding magazine, has an average DC of 30%. More 
+complex weapons, such as high-precision sniper systems or exotic sub-machine 
+guns might have a higher DC, maybe 40%. If the Player passes the reload, then 
+the reload time is standard. For Box-Magazine fed Semi- and Fully-Automatic 
+weapons, this is 2 Actions. Other, more complex weapons will specify their 
+reload time. On a critical Weapons - [X] check to reload the weapon,
+the reload time is halved (for Bolt-Actions it is reduced to 1 Action). On a 
+failure, the reload time takes twice as long.
 
 ===== Combat Stat Modifiers for Ranged and Melee Accuracy =====
 
@@ -80,329 +348,13 @@ chance of 3, your ranged bracket miss chances should look something like this...
   6,     7,      8	automatic fire miss chances
 
 
-===== Miss Chance Limits =====
-
-	At any time when using a melee or ranged weapon, you have a minimum of -2 
-weapon miss chance, and a minimum of +1 miss chance modifier from automatic or 
-burst fire modes (if relevant). These minimums apply after all PER/DEX/STR/Attachment 
-modifiers, at all ranges, and before cover and any other environmental effects. 
-Using an ability could push you below the minimum miss chance.
-
-    Outside a weapon's longest range, you cannot hit your target.
-Also, weapons cannot shoot over 100m without magnifying sights, or over 150m 
-without 2x+ magnification.
-
-===== Melee Combat =====
-
-	A character of standard size occupies 1m of space. This is not the physical 
-space occupied, but rather both the area effectively controlled by the character and 
-the minimum necessary to effectively fight.
-
-	Two characters engaged in melee combat are considered to be in adjacent 1m 
-spaces, not in the same 1m space. Fights don't generally start face-to-face unless 
-you're at a bar.
-
-	Once a character has attempted to attack another at melee range (1m), 
-they are both considered to be in melee combat. They can make attacks against 
-each other with unarmed strikes, melee weapons (improvised or not), or CQB guns 
-as normal. Attacking a target more than 1m away, using a non-CQB weapon, or 
-moving away from the melee (under the character's own power: explosion knockback 
-does not count) will incur an Opportunity Attack as described below.
-	
-Opportunity Attack:
-	A reactionary attack that is triggered when an opponent leaves melee combat, 
-walks past (within melee range) an alert character, performing a skill check 
-when engaged in melee combat that requires the use of the character's primary 
-manipulator limbs (so a medicine check to stabilize an ally would incur an 
-attack, but an acrobatics check to kick away a grenade would not) or by 
-trying to shoot an opponent more than 1m away while engaged in melee combat.
-
-	Opportunity attacks can be made with a drawn CQB weapon or a melee weapon. 
-If the free attack is made with a CQB weapon and the weapon is not already 
-aimed at the target, standard Hip Firing rules apply.
-
-Making Melee Attacks:
-	Melee attackers make accuracy rolls with a d10, increased by strength and 
-dexterity combat modifiers and their weapon's accuracy modifier. To successfully 
-hit, the result must be greater than (not equal to) the opponent's Guard roll. 
-If you successfully hit your opponent, armor applies as normal except as 
-detailed in the next two topics.
-
-	Defending players roll Guard with a d10 as well, increased by fortitude 
-and dexterity combat modifiers and their weapon's guard bonus. Guard bonuses are 
-not usually listed in individual weapon entries (some exceptions exist), but 
-instead are based on weapon type. See the table below for weapon type Guard 
-modifiers. A character must be proficient with a weapon to benefit from its 
-Guard modifier, otherwise it is treated as an improvised melee weapon of the 
-appropriate size. 
-
-	A Guard roll equal to or greater than an attacker's accuracy causes 
-the attack to miss. One may think of melee attacks as opposed contests of skill, 
-though no Skill check applies to these attacks and blocks.
-
-+-----------------+-----------------------------------------+
-| Weapon Type     | Guard Modifier                          |
-+-----------------+-----------------------------------------+
-| Unarmed         | 0                                       |
-+-----------------+-----------------------------------------+
-| All Melee       | Equal to the weapon's Accuracy modifier |
-+-----------------+-----------------------------------------+
-| Thrown          | As Improvised Melee Weapons             |
-+-----------------+-----------------------------------------+
-| CQB Guns        | +1                                      |
-+-----------------+-----------------------------------------+
-| Non-CQB Guns    | As Improvised Melee Weapons             |
-+-----------------+-----------------------------------------+
-| Delicate Tools* | -2                                      |
-+-----------------+-----------------------------------------+
-
-*Includes Doctor Field Applicator, Engineer Extruder, GravTech Projector, 
-Hacker terminal, and similar devices.
-
-Hitting What You Intend:
-	If you roll 3 or more above your target's Guard, you may ignore any 
-armor worn by the target and damage health directly.
-	
-Blunt Force:
-	Unless otherwise specified, melee weapons have an APL of 0, which 
-for most weapons would mean they do no damage if they hit armor. Instead, 
-melee attacks that hit armor still deal the STR mod portion of their damage 
-directly to the target's health. For example, a One-handed combat sword that 
-deals 20 + STR mod + DEX mod damage, wielded by a character with a STR mod 
-of 12, that hits its target's armor would deal no damage to the armor and 
-12 damage to the target's health. If the sword was a Hybrid weapon and the 
-attack was a two-handed strike, the health damage would be 18.
-
-Nonlethal Damage:
-	By default, melee attacks do lethal damage, like the vast majority of 
-guns. This just means that when an attack drops a target to 0 health, they 
-enter the Bleeding Out state. However, when fighting unarmed or with a melee 
-weapon that you are proficient with, you may declare a melee attack you have 
-not yet rolled to be nonlethal. This imposes a -2 accuracy penalty, since you are 
-imposing constraints upon yourself on where you can strike, but if a nonlethal 
-attack would reduce a target to 0 health, the target instead drops to 1 health 
-and becomes Unconscious (and does not gain the Bleeding Out condition). 
-
-	A target reduced to exactly 1 health by a nonlethal attack does not 
-fall Unconscious. 1 is not 0.
-
-Melee Accuracy and Guard Critical Hits:
-	See "Critical Hits" below for general Critical information. Melee Critical 
-hits deal extra damage as normal. Critical Guard rolls block all damage from any 
-non-Extra-critical melee attack. Extra-critical Guard rolls block all damage from 
-the incoming attack. 
-
-	Melee Accuracy rolls may Critically fail in the same way as firearms. 
-Unless otherwise specified, melee weapons have a Jam range of 2. Should your 
-melee weapon "jam", it catches on something in the environment at the DM's 
-discretion, if applicable, and is stuck. Unsticking the weapon requires a 
-Weapons - Melee check, as a firearm would require the appropriate 
-Weapons - [X] check. If you pass the DC by at least 30 you do not provoke an 
-Opportunity Attack. If nothing is available for the weapon to get stuck in, 
-it is instead dropped. You will always succeed in picking up a dropped weapon 
-if it is within reach, and may still use the skill check to attempt to avoid 
-an Opportunity Attack while doing so.
-
-	When using a firearm as an improvised weapon, if you Critically fail an 
-accuracy check and the weapon is loaded (and cocked, if a single-shot pistol or 
-bolt-action rifle), then instead of becoming stuck or dropped the weapon 
-accidentally discharges. Roll 1d10. On a 3-10, the shot travels in a random 
-direction, striking the first valid target in its path within its range. The 
-target may avoid taking damage by succeeding on a DC 110 Reflex Save. On a 1-2, 
-the bullet strikes you, hitting armor if applicable. In either case, you must 
-pass a DC 40 Reflex save to avoid dropping the firearm. This DC increases to 80 
-if you took damage from the accidental discharge.
-
-	Shooting yourself as a result of critical failure does not make use of 
-the Shooting into a Melee rule, unless you are sharing the same square as 
-another character, such as during a grapple.
-
-	Guard rolls can never Critically fail. Rolling a 1 on a Guard check 
-has no special meaning.
-
-== Improvised Melee Weapons ==
-
-	Sometimes you just need to smack somebody with whatever is 
-available. When using an object not intended as a melee weapon to make a 
-melee attack, use the stats from the improvised melee weapon of the most 
-appropriate size: light, one-handed, or two-handed.
-
-	Generally speaking, objects that fit in one hand, like pistols, beer 
-mugs, improvised knuckles, and objects of similar size, are considered Light. 
-SMGs, table legs, lengths of cable, most kitchenware, and the like would be 
-One-handed. Heavier objects like every other class of firearm, chairs, or 2x4s 
-are Two-handed.
-
-	Improvised Light or One-handed weapons may be thrown up to 5 meters, and 
-Two-handed ones may be thrown up to 3, though both suffer an additional -2 
-Accuracy. Their damage when thrown is the same as when used for melee strikes.
-
-== Combat Maneuvers ==
-
-	In addition to smashing an opponent directly, there are other offensive 
-actions that characters in melee combat may take. Also, some exotic weapons may 
-allow these maneuvers to be performed even outside melee: individual weapon 
-rules take precedence.
-
-	Maneuvers make use of opposed skill checks. Both the actor and defender 
-will roll a check, which does not have to be the same skill, and whoever rolls 
-a higher total wins. Defenders win ties. 
-
-The Opposed Maneuver Check:
-	Most maneuvers make use of the same mildly complex skill opposition, 
-called the opposed maneuver check. It does not refer to a "maneuver" skill, 
-but is short for the following instructions. The attacking or acting character 
-rolls STR-Athletics, and the defender rolls his or her choice of STR-Athletics 
-or DEX-Acrobatics. Initiating a grapple, shove, trip, etc. is mostly a matter 
-of brute strength, but such attempts may be opposed strength for strength or 
-dodged by superior agility.
-
-	Similarly to Guard rolls, critical successes always defeat rolls of 
-a lesser critical status and resolve normally against rolls of the same 
-critical status. At the DM's discretion, where applicable, melee accuracy 
-critical failure rules may apply to maneuver checks.
-
-Grappling:
-	Grappling is a maneuver where a character physically grabs another, 
-attempting to immobilize the target. To initiate a grapple, a character initiates 
-an opposed maneuver check. If the target wins, the grapple fails and nothing happens. 
-If the grappler wins, both characters gain the Grappled state, and the attacker 
-starts with control. 
-
-	Characters shooting at a target in the Grappled state may hit both or 
-either. With wide-effect weapons like flamethrowers or buckshot, the attack may 
-be made against either target but the damage is divided evenly among the grappled 
-characters. Attacks with other weapons have a 50% + the shooter's LUC mod to hit 
-the intended target, and otherwise hit the other.
-	
-	While in the Grappled state, most ranged attacks at range R2 or R3 (based 
-on the weapon used) against either character have a 50% chance to hit the other, 
-though shooters may add their LUCK mod to the 50 to hit their chosen target. Wider 
-effect weapons like flamethrowers and buckshot always evenly divide their damage 
-among the grappled characters.
-
-	While in the grappled state, the characters are limited in the actions 
-they can take, can only target each other, and may use only one Action per round. 
-The character with control of the grapple may make Unarmed Strikes, use other 
-combat maneuvers, attempt to Pin, or disengage. The character without control 
-may make Unarmed Strikes, attempt to disengage, or attempt to gain control. 
-Each effort takes one Action.
-
-	While in the Pinned state, a character may only attempt to disengage, and 
-success will return the character to the grappled state, without control, instead 
-of releasing the character from the grapple. The character grappling with a Pinned 
-target may attempt to restrain the target with a further opposed maneuver check and 
-appropriate tool, such as zip cuffs. Success renders the target helpless (until 
-they can break the bonds, which depends on the item used, see item descriptions). 
-Pinned targets are also vulnerable to knockout and kill actions: both render the 
-target unconscious and reduce him or her to 1 health, but a successful kill action 
-also forces the target to make a death saving throw. Knockout and Kill require two 
-consecutively won opposed maneuver checks, and targets additionally add their Shock 
-modifier to their roll when defending against attempts to kill. If a character 
-restrains, knocks out, or kills a grappled target, he or she is still grappled and 
-must spend an Action to disengage.
-	
-	Grappling-specific actions are described below.
-	
-Pin: 	The attacker and defender make an opposed maneuver check. If the attacker 
-	wins, the defender gains the Pinned state.
-Disengage: Characters in control of a grapple may disengage without rolling. 
-	Otherwise both characters choose one of STR-Athletics or DEX-Acrobatics 
-	and roll an opposed check (choices may differ). If the disengager wins, 
-	the grapple ends (and the active character has 3 Actions available this 
-	round).
-Gain Control: The involved characters make an opposed maneuver check as if the 
-	acting character was initiating. If successful, that character gains 
-	control of the grapple, affecting the actions available to both characters.
-
-Shoving:
-	This maneuver attempts to force the target to move in a particular direction. 
-The attacker must declare the direction he or she is attempting to move the target, 
-then they roll an opposed maneuver check. If the attacker wins, both characters move 
-in the indicated direction a number of meters equal to half the attacker's Strength. 
-Shoving a grappled target does not end the grapple. Shoved targets to not provoke 
-opportunity attacks, but shoving attackers might.
-
-Kicking:
-	Or whatever appendage your species uses to launch things. Kicking is identical
-to Shoving except that only the target is moved, and that the target moves 50% farther 
-if kicked directly away from the attacker. If a grappled target is successfully kicked, 
-the grapple ends. Kicked targets do not provoke opportunity attacks,
-
-Trip:
-	This maneuver attempts to force the target to the floor. If the attacker wins 
-an opposed maneuver check, the target gains the prone state. Tripping a grappled 
-target ends the grapple.
-
-Disarm:
-	This maneuver attempts to relieve the target of a carried item or weapon. 
-The character initiating this maneuver declares a weapon or item the defending 
-character is wielding. Both attacker and defender choose between STR-Athletics 
-and DEX-Acrobatics (choices may differ) and make an opposed check. Defenders have 
-Disadvantage on the check if they do not have proficiency with the targeted item 
-(for this purpose, improvised melee weapons are treated as regular melee weapons 
-of the appropriate size). If the attacker wins, the defender is forced to drop the 
-targeted object.
-
-===== Melee Weapons & Unarmed Fighting =====
-
-	These weapons/attacks use an 'Accuracy Modifier' instead of
-a 'Miss Chance', which is added to your combat dex modifier and
-and any relevant feat or skill bonuses to oppose your opponent's 
-Guard Roll. Melee weapons do not pierce armor, unless otherwise 
-stated.
-
-	Melee weapons come in one of four size categories. The first 
-three are Light, One-handed, and Two-handed. Characters start 
-with proficiency with some number of these based on their class. The 
-fourth category is Exotic. Acquiring proficiency with Exotic weapons does 
-not grant access to all Exotic weapons, but rather to a particular type, 
-such as whips. Exotic proficiencies may rarely be granted by Backgrounds, 
-and are more commonly acquired by feats.
-
-	When a Two-handed weapon uses a character's STR mod in its damage 
-calculation and the character's STR mod is positive, that character instead 
-uses 150% of their STR modifier to calculate damage. For example, if some 
-two-handed weapon dealt damage equal to 40 + 2xSTR nod and the character 
-wielding it had a STR mod of -4, each strike would deal 32 = 40 + (-4 * 2) 
-damage. A character with the same weapon and a STR mod of 12 would deal 
-76 = 40 + ((12 * 1.5) * 2) = 40 + (18 * 2) damage per strike.
-
-	Some One-handed weapons have the Hybrid size property. Characters 
-with proficiency with Two-handed melee weapons may make two-handed strikes 
-with these weapons, which allows them to add their STR modifier as if 
-the weapon was Two-handed (see the preceeding paragraph). Such a strike 
-must be declared to be two-handed before rolling to hit, and the character 
-doing so loses the benefits of any items that require his or her off hand to 
-function.*
-
-	Unarmed Strike is not a weapon and therefore does not have a 
-size category. All characters are considered proficient with Unarmed 
-Strike. Efficacy is an entirely separate issue.
-
-*As an example, a character with a STR mod of 8 is attacking an enemy with a 
-hammer of size One-handed - Hybrid that deals 40 + STR mod damage. Before 
-rolling the attack, the player may declare that the character is making a 
-two-handed strike, which will increase the damage from 40 + 8 = 48 to 
-40 + (8 * 1.5) = 40 + 12 = 52. If that character was holding a weapon or 
-defensive implement in his or her off-hand, that item cannot be used and 
-it provides no bonuses for one round.
 
 ===== Thrown Weapons =====
 
 	These weapons work similarly to guns in that attackers add their combat PER 
-mod to their accuracy, however their range is determined by the attacker's DEX or 
-STR. Like melee attacks, if you roll a critical hit or 3+ above your Miss Chance, 
-you ignore the target's armor and deal full damage. Thrown weapons also benefit 
-from Stealth Attacks (see basic rules).
-
-	Thrown weapons benefit from half the base damage bonuses from Unarmed Combat 
-feats.
-
-	If you have Weapons - Thrown skill >=20 then all DEX or STR requirements 
-for Thrown Weapons are reduced by 1.
-
-	All misc thrown weapons have a Reflex Modifier: -10
+mod to their accuracy, however, like melee attacks, if you roll a critical hit or 
+3+ above your Miss Chance, your attack bypasses any armor the target is wearing. 
+Thrown weapons benefit from Stealth Attacks normally (see basic rules).
 	
 	Thrown weapons use the same size categories as Melee weapons for 
 determining proficiency, though a Two-handed throwing weapon would be 
@@ -421,709 +373,13 @@ beyond 1 miss chance, roll a d10 instead.
 
 	All grenades have a Reflex Modifier: -10
 
-==============================
-Actions
-==============================
-
-    During combat, your character has 4 Actions. Actions are used for fighting, 
-movement, items, whimpering, etc. Here is a list of common tasks and their
-relative cost:
-
-Reloading a Pump-Action Shotgun: 4 Actions
-Reloading a Bolt-Action Weapon: 3 Actions
-Reloading a Magazine Fed Weapon: 2 Actions
-Moving DEX # of Meters: 2 Actions
-Hunkering Down: 1 Action
-Firing a Semi-Auto Gun: 1 Action
-Suppressing an Area/Target: 1 Action
-Cast a Spell: 1 Action
-Aiming Down Gun Sights: 1 Action
-Turning on a Flashlight: 1 Action
-Unholstering Pistol or Grabbing a Weapon/Item: 1 Action
-Performing a Skill Check (other than Getting Bearings): 1 Action
-Conversing With Partners: Free Action
-Getting Your Bearings / Non Skill-Based Perception: Free Action
-
-Free Actions:
-	Free Actions refer to tasks that take miniscule amounts of time, even
-in pitched combat, like looking around, speaking briefly, or reflexively 
-shutting your eyes after being treated to a flash-bang. Aside from your 
-GM's patience and willingness to believe your character can do everything you 
-want in a negligible timescale, there is no limit to the number of Free Actions 
-a character may take, and they may be used at any time.
-
-===== Reactions & Held Actions =====
-
-Reactions:
-	Certain abilities or circumstances will allow you do something 
-in response to a triggering event. Doing so requires using a special kind 
-of Action called a Reaction. Reactions occur at the immediate moment 
-that they are triggered, regardless of whose turn it is. Common uses of 
-Reactions include Opportunity Attacks (described in "Melee Combat", above) 
-and Held Actions, below. After the Reaction occurs, play continues as normal. 
-If it was an opponent's turn, they continue their turn. 
-
-	A character may use up to three Reaction per round, regardless of how 
-many viable trigger circumstances occur.
-
-Held Actions:
-	A type of Reaction. A player may choose to forgo using up to 2 actions at 
-the end of their turn. The player must declare to their DM what those actions 
-are to be triggered by, and then play continues as normal. If the trigger occurs 
-before the player's next turn, the player gets to immediately use their 1 or 2 
-actions. If the trigger does not occur before the player's turn, they lose their
-held action(s) and start their turn as normal. 
-
-	For example, let's say my Character and his/her friends are walking along a 
-ledge. I know that one of the Characters in the party is clumsy so I have my 
-Character move along the ledge, and I ask the DM if I can save my last action to 
-try and catch the clumsy Character, should they trip. The DM approves my plan 
-and play continues. On the clumsy Character's turn, they start to scoot across
-the ledge and trip! As soon as they trip, my held action triggers and my 
-Character saves them from falling off the ledge and their turn continues. If 
-they had not tripped, my held action would've been lost at the start of my 
-following turn.
-
-===== Movement and Sprinting =====
-
-	You can run 'Movement Speed' minus 'Movement Speed Penalty' number of meters 
-for every 2 actions spent (Movement Speed Penalties should be rounded up before 
-the subtraction). A character with 1 Movement Speed and 0 move speed penalties 
-can move 1m per 2 actions, or 2m per 4 actions (a full turn). You can sprint 
-instead of running, for a +1 movement bonus per action. However, firing your 
-weapon after doing so will cause you to incur a +1 miss chance penalty. The 
-penalty occurs during the actions you sprint, as well as 2 actions afterwards. 
-You can sprint for a number of consecutive Actions equal to your Fortitude. You 
-can jump horizontally Dex/2 meters, and add 1m if you have a 3m running start.
-You can jump vertically Str/3 meters.
-
-===== Other Combat Details =====
-
-Critical Hits:
-
-	When you perform an Accuracy Roll (while not firing a gun in burst or 
-automatic mode), you may roll high enough to use your Critical Hit Chance. 
-Critical Hit Chance is based on your Luck Stat, but can also be modified by 
-abilities, weapons, attachments, etc. 
-	If your Accuracy Roll is high enough, you activate your Critical Hit Chance.
-When this happens, you roll a second d10 to determine if you have landed a Critical 
-Hit, an Extra-Critical Hit, or, if you have less than average Luck, merely hit your enemy. 
-
-	A Critical Hit deals +20 damage and an Extra-Critical Hit deals +30 damage. 
-
-	Some abilities or feats have additional effects that trigger when you land
-Critical or Extra-Critical Hits. 
-
-
-+------------+------------------------+--------------------+-------------------------+
-| Luck Stat  | Accuracy Roll Required | Critical Hit Roll  | Extra Critical Hit Roll |
-+------------+------------------------+--------------------+-------------------------+
-| 1 - 3      | 10                     | 6 - 10             | n/a                     |
-+------------+------------------------+--------------------+-------------------------+
-| 4 - 6      | 10                     | 1 - 5              | 6 - 10                  |
-+------------+------------------------+--------------------+-------------------------+
-| 7 - 10     | 9-10                   | 1 - 5              | 6 - 10                  |
-+------------+------------------------+--------------------+-------------------------+
-| 11+        | 8-10                   | 1 - 5              | 6 - 10                  |
-+------------+------------------------+--------------------+-------------------------+
-
-
-
-
-Armor and Getting Hit:
-	When a player is defending against a successful enemy hit, they roll 
-Percentiles under their armor in order to see if their armor blocked the bullet, 
-and from there, how much damage they receive. If the defending player has no 
-armor, they armor roll for a target 50 Percentile. If the armor roll is 50% or 
-above, they receive half-damage. Below 50%, full damage.
-
-	Armor consists of 3 concepts: Armor Points (APs), Armor Piercing level (APL),
-and % Coverage. Starting from the end, Coverage is simply the percentile that 
-you have to roll under to see if armor was hit. If the attack misses armor, or 
-rolls over 50%, it does half damage because the bullet is hitting a less vital 
-part of the body. If the attack hits armor: Armor Piercing level (APL) comes 
-into play. 
-
-	APL is a unitless number that represents how well a weapon can pierce armor or
-how well armor can block bullets. If the attackers weapon's APL is less than the
-defenders armor's APL, all damage is blocked. If the weapon's APL is greater than
-or equal to the armor's APL, then Armor Points (APs) come into play. 
-
-	APs are, effectively, your armor's ability to slow down projectiles as they
-pass through it. Whenever armor is successfully pierced, all damage is first inflicted
-on APs. Once the APs are used up, all remaining damage goes to health. APs refresh at the
-start of the armor wearer's turn.
-
-Shields:
-	If you are looking to defend against Lasers or Plasma, you're in the right 
-place. Every laser-toting plasma-fuming space hooligan will be looking to turn 
-you into space-bacon ('spacon' for short) on your adventure; shields will slow 
-that process down. If you are hit with a laser, shields absorb 100% of the 
-damage, reducing the shield's strength by the damage taken. If you are hit with 
-a plasma weapon, the shield absorbs 50% of the damage, and the rest passes 
-through to the next line of defense (either armor [if present] or the 
-character's body). If the Shield's Strength is reduced to 0, all remaining 
-damage passes through unabated.
-
-	As long as the Shield's Strength isn't reduced to 0, the shield will 
-recharge 'Recharge Rate / Turn' number of points at the start of the wearer's 
-turn. If the Shield's Strength is reduced to 0, you must wait a "Shield Restart 
-Time" number of turns before the shield will restart at "Recharge Rate" 
-strength. If you get hit with a weapon/by melee during that time, you must start 
-your "Shield Restart Time" over again. 
-
-	If you don't want to wait that long, at the start of your turn you can pay 
-the "Fast Recharge Nanites" cost to restart your shields. Or if your Shield's 
-Strength is just damaged, at the start of your turn you can pay the "Fast 
-Recharge Nanites" cost to boost the Shield's Strength by an extra "Recharge Rate 
-/ Turn" (in other words, 2x "Recharge Rate / Turn" instead of the normal 1x).
-
-Shock:
-	When players take more than 70 damage, they must roll a Shock save at a DC 
-of the damage taken. On fail they pass out. on success they stay conscious. When 
-players fail, they may roll each turn at a DC of 70 to wake up. They continue to 
-roll either for (15 - FORT) turns, or until they pass.
 
 Stealth Attacks:
 
 	If you are hidden (undetected by an opponent) when you initiate an attack 
 action, you incur bonuses depending on the circumstances of the attack.
 
-	Ranged weapon stealth-attacks (including explosive grenades but not any 
-other thrown weapons) have -1 miss chance to hit if 'adequate' aiming time is 
-given (DM's discretion: how rushed you are, or how skilled you are at stealth, 
-etc). Ranged weapon stealth-attacks gain +20 bonus damage.
-
-	If you stealth-attack a target in melee, your target has a Guard of 0. As
-normal (see section, "Melee Combat"), if you roll 3+ above the opponent's Guard, 
-you ignore the opponent's armor and deal full damage. This signifies that the 
-target gets hit in whatever you deem to be the most vulnerable; i.e., the head, 
-neck, or the chest (over the heart, etc). 
-
 *Base Damage is typically the damage of the weapon without any other character 
 bonuses, but Base Damage can be increased by certain classes and abilities.
 
 **Increases to 200 max damage at level 10.
-
-Flanking:
-	If you are behind a target, aka flanking, your melee Accuracy rolls gain a +2 
-bonus. Ranged attacks don't gain a specific bonus from flanking.
-
-===== Ranged Combat =====
-
-	If a player or opponent is standing outside of cover and they are shot at, 
-after the first firing action (assuming they didn't die or go unconscious), 
-they immediately, 'Hit the Dirt'. When you Hit the Dirt, you dive to the ground,
-going prone, within a 2m range of where you stood (DEX movement rules apply 
-as normal). Hitting the dirt consumes the 1st action of their next turn.
-
-	To fire, you must be within the longest range limit of your gun*, i.e. be at 
-a distance smaller than your gun's largest Range Bracket**, and you must not be 
-out of ammo. You can aim and fire or, more simply, just fire at a target. If you 
-shoot without aiming, you are "Hip Firing" and incur additional aiming penalties 
-(see Hip Firing, below). 
-
-*Actually you can fire at any range you like, but you won't necessarily hit anything.
-Except for air, you will always hit air (unless you're in space).
-
-**You cannot shoot weapons at a distance of over 100m without magnifying sights 
-or over 150m without 2x+ magnification.
-
-	Aiming at an enemy requires one action but significantly increases the 
-effectiveness of your fire. Taking aim requires that you select a particular target 
-that you can either perceive directly or have a high confidence in its current 
-position. You must be able to see or otherwise percieve the target clearly, but they 
-do not have to be within your weapon's range. Against this target only, ranged attacks 
-follow the normal, non-Hip Fire rules. Characters may cease aiming as a free action, 
-for example to aim at a different target. Additionally, aim is ceased automatically 
-in any of the following circumstances: 
-
-* The target dies***.
-* The target moves a large distance unexpectedly****.
-* The aiming character hunkers.
-* The aiming character is thrown (for example, by a frag grenade).
-* The aiming character suffers impairment to his or her primary sense (such as from a flashbang).
-
-***As an optional rule, if a character's aim target dies, and the death was not 
-unexpected, then the character may shift aim to another target within 5m of the first 
-as a Free Action. DM discretion is advised for close combat situations.
-
-****Possibly by coming out of cover 5+ meters from the last known location.
-
-	Aiming is relatively simple and does not need to be treated with excessive
-formality. If a character could reasonably take or keep aim at something, then he or 
-she can.
-
-== Fire Rates ==
-
-	Most weapons are Semi-Auto, meaning that each time you pull the trigger, the 
-gun fires once and chambers a new round automatically. It takes 1 Action to fire 
-a semi-auto weapon in this way. Some guns, such as Shotguns and Bolt-Action 
-sniper rifles require 2 Actions to fire the gun, where the first Action is a 
-trigger pull, and the second Action is the rechambering of the weapon. Some weapons
-are capable of higher rates of fire, like Assault Rifles. These weapons often have
-more than one fire mode such as Fully-Automatic (Auto) and Burst. Auto or Burst 
-mode allows the user to fire 6 or 3 shots for 1 Action, respectively (unless
-otherwise noted). 
-
-== Rolling a Ranged Attack ==
-
-	To hit a target, Players must roll a d10 that is over their weapon's miss 
-stat. When an enemy is in cover, their cover score is added to your weapon's 
-miss chance. Lets say your normal ranged miss chance is 2, and the enemy is in 
-full cover, your miss chance is increased by 4, for a final DC of 6. So a roll 
-of 7-10 would be successful.
-
-== Automatic Firing ==
-
-	When rolling for automatic fire, players must roll one d10 for each bullet 
-fired unless otherwise noted. All dice are rolled at the same time, to keep the game
-moving quickly. The dice are read from left to right, and the player cannot switch
-the order that the dice fell in. For any roll that has the potential to be a jam, 
-roll the second d10 for it before rolling the next automatic-fire d10. If the roll 
-causes a jam, the rest of the automatic-fire d10s are not used. 
-
-== Gun Jams ==
-	If at any time that you are firing a gun and you roll 1 on an accuracy roll,
-roll a second d10. If that second d10 roll is equal to or less than the weapon's Jam 
-Range, the weapon jams, necessitating a Weapon - [X] Skill check, DC 60 that takes 
-one Action before the weapon can be fired again.
-
-== Hip Firing ==
-
-	Add 3 to a weapon's miss chance. You cannot use optical attachments in hip 
-firing unless otherwise noted. It is much smarter to takes one action to Aim, 
-and spend the rest of your shots firing. It's also a great idea to take an 
-action at the end of your turn to "hunker," and gain a +2 cover advantage.
-
-	If your weapon has a minimum distance (usually because of a high-powered
-scope), and you fire inside that distance, you are forced to hip fire.
-
-== Blind Firing ==
-
-	Add 6 to a ranged weapon's miss chances. Blind firing allows you to shoot 
-around cover without looking or putting yourself at risk. You can blind fire 
-while hunkered. Your blind fire miss chance is affected by your base weapon miss 
-chance(s), not affected by attachments unless otherwise noted, reduced by PER 
-stat combat bonus (as usual), and reduced by LUCK stat combat bonus. It's 
-recommended to calculate this separate miss chance and write it down before 
-combat.
-
-== Firing into Melee Combat ==
-
-	When firing at a character engaged in Melee Combat, you aren't guaranteed 
-to hit the target you intended. Before rolling accuracy, roll a DC 50 Luck check. 
-You may add 10 to your roll if you are aimed at your target. On success, you hit 
-your intended target. On failure, you hit a randomly chosen character engaged in 
-Melee Combat with your intended target. In either case your attack then proceeds 
-as normal. This Luck check cannot Critically succeed or fail.
-
-== Using Cover/Stances ==
-
-	Chances are, if an enemy can see you in Compound X, they can hit you. Using 
-cover will make you harder to be hit. You will encounter many types of cover 
-while adventuring throughout the galaxy. Many small objects provide only partial 
-cover, either by partially obscuring your silhouette, or by providing slight 
-protection from projectiles. Full cover will do both to a better degree. 
-"Partial Cover" typically covers 30-50% of your body, whereas "Full Cover" will 
-cover closer to 60-80%. Crouching or going prone will also take better advantage 
-of your surroundings and make you a smaller target. Debuffs to opponents' Miss 
-Chances are as follows:
-
-No Cover: +0
-Partial Cover: +2 
-Full Cover: +4
-Crouching: +1 (on top of whatever cover you're behind, may completely obscure vision)
-Prone: +2* 
-Hunkering: +2 (on top of whatever cover you're behind.)
-
-*(on top of whatever -partial- cover you're behind, otherwise, may completely 
-obscure vision. Does not provide a bonus against an opponent that is within 5m 
-of you if you aren't in cover from their perspective.)
-
-	Crouching is a free action, and standing up costs 1 Action. While you are
-crouched, you have -1 movement speed per action (minimum 1) and you cannot
-sprint or use other movement abilities.
-
-	Going prone costs 1 Action, and standing up costs 1 Action. Lying flat down on
-your chest makes you a smaller target and helps you aim better, but also makes you
-easier to hit in melee. You gain +1 Accuracy with firearms while prone but suffer -2 to 
-Guard checks. Being prone severely limits your movement: 1/2 movement speed while prone, 
-round-up; maximum 2 movement per action.
-
-	Hunkering costs 1 action, and you cannot fire your weapons except by blind-fire 
-(see Blind Firing, above). Imagine curling up in a ball, to pose the absolute smallest
-target possible. Its a free action to un-hunker.
-
-===== Reloading =====
-
-	When a gun runs out of ammunition, the user must pause to reload. "But how 
-long do I gotta be outta the battle?" Great question!
-
-	Each gun has a "Reload DC," rated based on the complexity and brevity of the 
-weapon's reload. For example, an assault rifle, which has a very obvious 
-magazine release button and protruding magazine, has an average DC of 30%. More 
-complex weapons, such as high-precision sniper systems or exotic sub-machine 
-guns might have a higher DC, maybe 40%. If the Player passes the reload, then 
-the reload time is standard. For Box-Magazine fed Semi- and Fully-Automatic 
-weapons, this is 2 Actions. Other, more complex weapons will specify their 
-reload time. On a critical Weapons - [X] check to reload the weapon,
-the reload time is halved (for Bolt-Actions it is reduced to 1 Action). On a 
-failure, the reload time takes twice as long.
-
-===== Suppression ===== 
-
-	Every player with a ranged weapon gets the option to Suppress as the last 
-action of their turn. Suppression, also known as, "laying down fire", 
-"covering fire", or "suppressive fire" is the art of shooting a hail of 
-bullets (as accurately as possible) to try and prevent the enemy from 
-effectively fighting back while your team maneuvers. Suppression comes in
-three flavors: light, medium, and heavy; these indicate how wide of an area
-is suppressed as well as how effective that suppression is (defined below).
-The type of suppression available to you is dependent on your weapon.
-
-	When you Suppress, you aim at the target as part of the action and fire a
-hail of bullets (within your weapon range). Suppression doesn't require any
-rolls to initiate, the suppressor simply fires, creating a light/medium/heavy
-suppression AOE (Area-of-Effect, typically a 1-3m circle). Even though Suppression
-is an AOE effect, if you cross in-front of someone (someone who is suppressing 
-a different person) you will likely trigger automatic attack rolls, DM's discretion.
-
-	If a suppressed target moves out into the open (see below), they 
-trigger automatic attack rolls (or automatic hits) by the suppressor, once 
-per target per suppressor's turn. If the suppressed target shoots, they 
-fire with +1 miss chance, not-stackable. Suppression status can't be purged 
-unless you move outside the AOE. The only other way to stop being suppressed 
-is to stop the suppressor from using a suppression action on you at the end 
-of their turn.
-
-Moving out into the open: 
-	In the context of suppression and movement, "moving out into the open" 
-includes moving into a new location while you can be hit by shots from the 
-suppressor (this excludes moving into complete concealment, such as going prone 
-behind a high concrete wall). For example, the following situations would 
-trigger a free hit by the suppressor and give you the 'suppressed' status while 
-remaining in the area (let's assume you are upright (not crouched or prone)):
-moving from partial cover to an adjacent partial cover, moving from complete 
-concealment behind a barricade to partial cover, and moving when you are caught 
-out in the open.
-
-	If the suppressor cannot physically hit you (such as being completely behind 
-an impenetrable barrier) you are not suppressed. The suppressor doesn't need to 
-see you to hit you, as in the case of suppressing a cloaked target. 
-
-== Light Suppression ==
-
-	As the last action of your turn, aim at a target and fire 3 rounds (or the 
-rest of your magazine, at least 1 round has to be fired) to suppress 1m radius 
-AOE around the target. The target takes a +1 miss chance malus until the start 
-of your next turn, and if the target moves out into the open**, then roll an 
-immediate reaction to hit the target with a (non-automatic fire) accuracy roll. 
-Immediate reactions are stackable on a per-weapon basis.
-
-== Medium/Moderate Suppression ==
-
-	Identical to light suppression with the following exceptions, you must fire 
-6 rounds from the current magazine to achieve 'moderate', and you don't have to 
-roll to hit -- you automatically hit with one attack. Medium suppression always 
-hits armor if applicable.
-
-== Heavy Suppression ==
-
-	Identical to light suppression with the following exceptions: you must fire 
-10 rounds from the current magazine to achieve 'heavy', you don't have to roll 
-to hit -- you automatically hit with two attacks. Heavy suppression always hits 
-armor. You also suppress all targets within a 2m radius AOE around the primary target.
-
-**"Moving out into the open" includes moving into a new location while you can
-be hit by shots from the suppressor (this excludes moving into complete concealment,
-such as going prone behind a high concrete wall). For example, the following situations
-would trigger a free hit by the suppressor and give you the 'suppressed' status
-while remaining in the area (let's assume you are upright (not crouched or prone)):
-moving from partial cover to an adjacent partial cover, moving from complete concealment
-behind a barricade to partial cover, and moving when you are caught out in the open.
-
-	If the suppressor cannot physically hit you (such as being completely behind an 
-impenetrable barrier) you are not suppressed. The suppressor doesn't need to see 
-you, to hit you.
-
-==============================
-Armor
-==============================
-
-	Please note that armor can have different types. We'll cover this later in
-more depth in the 01_04_Damage_Types_and_Armor_Types.txt document.
-
-===== ARMOR SYSTEMS =====
-	Armor Systems are composed of an Armor Rig and a protective Armor Material. 
-Having lots of armor may slow you down, but armor will prevent you from 
-being easy prey. Armor Rigs can be broken down into 4 pieces: helmets,
-chest rigs, arm rigs, and leg rigs. 
-
-	Helmets mostly help for RP effects or holding night vision goggles.
-The other 3 riggings provide ammunition space and (most rigs) provide
-space for installing an Armor Material. Armor Materials must be purchased 
-separately than Armor Rigs. Also, Armor systems do not include any protection
-without an Armor Material. If you purchase more than one Material* to cover 
-your whole body (installing in the Arm, Leg, and Chest Rigs, for example) it 
-improves the Armor Coverage (% of Armor protection), but not the quantity of 
-the Armor Strength (AS) or the Armor Piercing Level (APL). 
-
-	For example: if you purchase a Chest Rig from the Medium Armor Systems
-category and a Standard L1 Material, you'll have 40% coverage, 40 AS, and an 
-APL of 1. Now, in addition, if you purchase the Leg Rig from the Medium Armor 
-Systems and a Standard L1 Material, you'd have 55% coverage, 40 AS, and an
-APL of 1.
-
-*Note: you cannot mix-and-match Materials or Rig categories. Only one
-kind of Material can be used for the one category of Rigging you are wearing.
-
-===== WHERE IS MY AMMO STORAGE? =====
-
-	If you are wearing any Armor Rigging, you have a certain amount of 
-"Mag Space". When you are loading up your guns before a mission, you can decide 
-how to arrange your Mag Space to suit your needs. "Mag Space" translates 1 to 1
-into Primary Magazines, and 2 to 3 (or 1 to 1) into Secondary Magazines.
-
-	For example, if I have a Chest Rig from the Recon Armor Systems category, I 
-would have 5 Mag Space. I can turn that Mag Space into 3 Primary Magazine and 3
-Secondary Magazine spaces, 5 Primary Magazine spaces, or any feasible combination. 
-
-===== WHAT IS AN 'ADVANCED RIG'? =====
-
-	Advanced (adv.) Rigs typically provide less Armor Coverage and Mag Space 
-than their regular counterparts, but they allow you to attach Shield Generators,
-Hard Point Equipment, and/or Cloaking Equipment. Advanced Rigs allow you to do
-this by providing 'Hard Points'. Hard Points are special joints and fittings that
-make it easy to attach equipment. When you purchase equipment, it will list how
-many Hard Points it consumes. You can't attach more equipment than you have available
-Hard Points.
-
-	Hard Point Equipment/Shields/Cloaking often come in two sizes, "Primary Modules" and 
-"Secondary Modules". After you purchase and install a Primary Module, you can also purchase
-and install a Secondary Module(s) that augment the benefits of the Primary Module. The 
-benefits are listed in the description of a given module. They do not mix and match;
-Secondary Modules only work for the Primary Module they are designed for.
-	Some modules have a "____ Skill Requirement". In order to operate the module, you
-must have the required quantity of the given skill.
-
-===== ARMOR RIGS =====
-
-	Armor rigs cannot be worn in combination with other Rigs from different types, tactical 
-vests, or EVA suits (for example: Recon Rigs can't be worn with Light Rigs). Some of the 
-lighter Armor Rigs cannot hold Armor Materials, designated by "(*No Armor*)". Those rigs 
-only provide more Mag Space or more Hard Points; they don't provide additional Armor Coverage.
-
-===== EVA SUITS AND FLIGHT HELMETS =====
-
-	Helmets may be worn with or added to Armor or Environment (EVA) suits.
-EVA suits are air- and water-tight when combined with an EVA or flight helmet.
-EVA suits are bulky and cannot be used with Armor Rigs, also, DEX skill checks
-have a -10% penalty and movement is reduced in RP. If the suit is hit more 
-times than its "Suit Integrity" rating, it will no longer be able to maintain
-air pressure (player health has to be damaged in order for "Suit Integrity" to
-count a hit). Suits traditionally come in white, yellow or red.
-
-===== SHIELD GENERATORS =====
-
-	Shields cover the wearer with a transparent field which blocks 
-100% of incoming Laser damage, and 50% of Plasma weapon damage, 
-as long as the Shield isn't drained of its "Shield Strength".
-Traditionally, a Shield unit consists of a generator pack which 
-is generally the size of a small backpack, and some field
-stabilizers that extend the field over the body. Once the
-Shield's capacitor units are exhausted, the Shield breaks and
-needs a while to recharge. If the user maintains their Shield 
-without letting it break, they can avoid the costly recharge time.
-For more information, please see section "Shields" in the 
-Basic Rules document.
-
-==============================
-Death, Dying, and Downed
-==============================
-
-	Oh no! You have less than 1 health point left! What now!?! The good news is 
-you are not* dead yet. But you are doing what's known as "bleeding out". The 
-first time your character falls below 1 hit point, you get 3 saving throws 
-called Death Saving Throws (or 'DSTs' for short). You roll one saving throw per 
-turn that you are downed and these DSTs are not modified by any attribute. If you 
-succeed a DST, (see 'Downed', below) you continue bleeding out; however, you get 
-to roll again next turn. If you fail 3 DSTs, you die. Once you fail a DST, the 
-next time you fall below 1 health point you only get 2 DSTs (2 failed throws and 
-you die). If you failed a DST during the first two times you were downed and 
-you are downed a third time, you only get 1 DST. You regain a DST by going a 
-whole encounter without failing a DST. You can have a maximum of 3 saving throws 
-at any one time.
-
-Downed:
-	The state of having less than one Health Point is called being "downed." It 
-is also sometimes called "bleeding out." They are equivalent. While a character 
-is downed, they cannot move, cannot stand under their own power, and fall prone 
-if not supported by other means. They cannot speak, but can mumble 
-incomprehensibly.
-
-	Every turn that a character takes while they are downed, they must make a 
-Death Saving Throw of DC 50. Success and failure of these throws is detailed 
-above. Even if you had 5 health and took 80 damage, when you go down you go to 0
-health. Any additional attacks you sustain will push you into negative health. 
-
-Stabilize:
-	As an action, a character may choose an adjacent, Downed character and 
-attempt to Stabilize them. That character makes DC 80 Dex-based skill check: 
-Medicine for primarily organic targets, or Repair for primarily mechanical targets.
-If successful, the target is revived and now has 1 HP, is no longer Downed, and 
-may take Actions as normal within the initiative order. A character may be revived 
-in a single encounter a number of times equal to half their Fort, minimum two. Past 
-this limit, stabilized characters are unconscious in addition to the other effects 
-of Stabilization. Note that most persistent damage effects, like bleeds or burns, 
-fall off of characters when they are Downed.
-
-	If a character fails a stabilization check, nothing happens. It's just 
-taking longer to stem the bleeding. On critical success (base Critical range 10), 
-your excellent care allows you to choose whether the target counts this revival 
-against their revivals per encounter limit. On critical failure (01-05 before 
-modifiers), the bleeding (or equivalent) gets worse: the target must immediately 
-roll an additional Death Save. If the total check is then still high enough to 
-succeed and the target is still alive, they are then Stabilized as normal.
-
-	Up to one character may assist with a stabilization check. Either involved 
-character may expend one Medkit (for primarily organic targets) or one Repair Kit 
-(for primarily mechanical targets) to grant +20 to the Medicine check. Feel free 
-to scavenge one from the target, they probably won't make a fuss. One kit provides 
-a bonus to all Stabilization attempts made on the same target in one round.
-
-	Don't forget that a recently stabilized character may need to take actions to
-retrieve a dropped weapon or stand back up if they have fallen.
-
-*Some hazards can reduce you to zero health points and kill you 
-instantly. Some examples are falling several stories, lava baptisms,
-or having a space station dropped on you. Do not do these things. They are
-also known to the state of California to cause cancer. 
-
-==============================
-Stacking Up and Clearing Rooms
-==============================
-
-    Your character will frequently encounter rooms full of enemies. One common
-tactic for safely entering a defended room and neutralizing all of the threats 
-in it is for the attacking team to line up outside of the entry way and violently 
-enter the room all at once. That way you can bring to bear all of the lethal 
-talent of your team all at once rather than entering the "fatal funnel" at a 
-more vulnerable cadence. The process of lining up and waiting for everyone on 
-the team to be ready to run in is called "stacking up." The act of entering the 
-room in this manner is called "breaching," and the subsequent sweep of a room is 
-called "clearing (a room)." The act of systematically repeating this process on 
-every room in a structure is called "clearing a building." 
-
-    What constitutes a "room" that can be breached and cleared is ultimately
-up to your DM, but usually a room that can be cleared is smaller than 20m by
-20 meters and has a discrete number of entry points. For example, a spaceship
-hangar that is 35m by 18m and has a service door on either side when the hangar
-door is shut would allow for stacking up with the DM's permission. That same 
-hangar with the hangar door open would need to be maneuvered into and fought 
-over normally since the hangar door is most of one of its walls. Another example
-would be that an open-air pagoda probably wouldn't be breach-able because it 
-lacks any door to stack up on and has no walls.
-
-    What constitutes an "entry point" is also up to the DM. These are usually
-unlocked doorways, but can also be skylights to rappel from, windows large 
-enough to step through once smashed, or chunks of wall that have been blown up.
-An area cannot be an entry point if it cannot be moved through by the character
-stacked up on it at the time of the breach. A character can only stack up on an
-entry point to a room.
-
-    In Compound X, the process of clearing a room follows the three steps listed 
-below.
-
-1. Stacking up
-2. Breaching
-3. Clearing
-
-===== Stacking Up ===== 
-
-    Characters can join a stack up line on any time during their turn. Doing so
-immediately ends their turn and the rest of their actions are considered held
-for use during clearing. When a character stacks up, they must indicate exactly
-one entry point that they will use during the breach. If there is any ambiguity,
-they must indicate which room they will storm when the breach occurs. Which room
-you are breaching is usually obvious; it's the room on the other side of the 
-entry point from where your character is stacking up. On the rare occasion that
-one door leads to more than one room, a single room must be designated for 
-clearing. You cannot breach and clear a room that is not attached to the entry
-point that you stacked up on. 
-
-    If your turn starts and you are already stacked up, you may either leave the
-line of the stack up and take your turn normally, or skip your turn to remain in
-the stack up line. If you skip your turn in this manner, you will have the same
-number of actions during clearing as you would if you stacked up as the first
-act of your turn. Stacking up is a Free Action if you are already standing by 
-the entry point, or as many Actions as it takes to move to the entry point 
-otherwise.
-
-    Any number of characters can stack up on a given entry point. The order of
-the characters in the lineup is important. Players can chose any position in the
-stackup order that hasn't yet been taken at the time that they declare their 
-character will stack up. So the first character to stack up could choose to get
-in the middle of the line, and the second character to use their turn to stack
-up could stack up in front if they so chose.  
-
-===== Breaching =====
-
-    Any time a character joins the stack up line, the character in the lead of
-the stack may call "breach!" At that time, regular initiative order is 
-interrupted, and the breach and clear phases occur during the turn of the 
-character who just got in line. After the clearing has resolved, play resumes
-after that character's turn.
-
-    Some weapons, tools or gadgets are commonly used during a breach maneuver.
-Examples include breaching charges, tear gas or flashbangs. If these are used,
-they take effect first in the breach. Keep in mind that a character using such
-a device will need a free hand to do so, and may need to spend one of their 
-clearing actions to re-draw their weapon. As such, devices are usually used by
-the characters in the 3rd or 4th positions.
-
-    Some rooms are defended with booby traps. In the case that a room or entry
-point has such perils, they take effect second. 
-
-    While devices are being resolved, all attackers and defenders roll a reflex
-save to determine the order of combat during the clearing phase. If the 
-defenders were unaware of the impending breach, then they roll reflex with a
-disadvantage and the attackers roll reflex with advantage.
-
-*Breaching Roll = Reflex Save + Weapon Reflex Mod + any mod from feats
-
-===== Clearing =====
-
-    Players take their turn in decending order of breaching roll. In other words,
-The character with the highest net reflex roll goes first, the character with 
-the lowest reflex goes last. Characters on the attacking team (the team that 
-stacked up) must use an Action to move from their position in the stack line
-before they can fire or perform melee attacks. Characters on the attacking team
-can take cover at the entry point that they were stacked up on, but doing so 
-will block the entry point and prevent another character from moving through or 
-firing at targets past that character.
-
-    The Clearing phase ends when either all members of one team in the room can 
-no longer fight or the breaching order has been exhausted. Play resumes as 
-normal after the turn of the last character to stack up after that.
-
-===== Interrupting a Stackup =====
-
-    If an enemy approaches or attacks one of the characters in a stack up line
-after they have stacked up but before the lead character has called "breach!",
-then all of the characters in the stack up are no longer considered to be 
-stacked up. Instead, they may use one held action as immediate reaction in
-initative order, followed by a 'Hit the Dirt' as described above.  After that 
-they must wait until their next turn to stack back up.
-
-===== Simultaneous Breaches ======
-
-    If more than one entry point leads to the same room, it is possible to 
-include all characters stacked up on those entry points in the same 
-breach-and-clear event. In order for more than one entry point to be 
-simultaneously breached, the characters stacked up on each must be able to see
-each other and/or hear each other (i.e. have radios or another means of remote
-communication). To prevent complicating the game, play resolves one breached 
-room at a time. Two rooms can be breached in synch with each other, but the DM
-will pick which room to play first and will resolve the other at the end of the
-first room's clearing phase.
