@@ -130,7 +130,11 @@ Noise Level: Low
 Weight: 
 
 Locksmith's Rekeying Tools ($200):
-	[ph]
+	A pinning tray, specialized tweezers, plug followers, and other tools 
+for the dissassebly of locks, along with a generous suply of replacement key pins, 
+top pins, security pins, springs, wafers, retaining clips, and more. Allows a 
+trained user to reset mechanical locks to accept different keys. Most locks will 
+require a working key or successful pick to disasseble, lockpicks not included.
 
 Relevant Skill(s): Sleight of Hand
 Context: Unlocked mechanical locks.
