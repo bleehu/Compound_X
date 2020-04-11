@@ -6,12 +6,6 @@ Dog Toy ($20):
     This brightly colored rubber ball is available in both the squeaking and 
 not-squeaking varieties. Very Bouncy and great for tricks like fetch.
 
-Plasma cutter / Blow Torch ($450):
-    Cut through steel, aluminum, etc unless it is specifically a hardened 
-object. Cut through up to 1 inch of steel in 2 full turns, 2 inches in 3 full 
-turns. A basic 2-inch thick chain link would take 3 turns to cut through. To 
-open a man-sized hole in 1 inch thick steel would take 10 full turns.
-
 Door Ram ($300): 
     When using this ram, add 50 to Athletics checks to kick open doors. Must
 have STR 8 to carry or use.
@@ -182,13 +176,16 @@ Medic Needle Pack ($60):
 Not recomended for medicianal use. 
 
 MediKit ($100):
+
     A small vacuum-sealed hard plastic container containing a scalpel, tweezers,
 biofoam applicator, adrenaline, anesthetic, and bandages. Useful for healing 
 bullet wounds, laser burns, plasma burns, lacerations and puncture wounds.
 
-    Allows the user to either stabalize or heal a biological character. Adds a
-bonus of 30 to the medicine skill check for either type of action. Once the kit
-has been used, it cannot be used again.
+    Allows the user to either stabilize or heal a biological character if they 
+pass the Medicine(Dex) check. Once the kit has been used, it cannot be used 
+again.
+
+    Medicine Check DC: 35. Health healed if successful: 60. 3 Actions to use.
 
 Glow Stick ($4):
     A clear plastic tube with filled with a colored phosphorus compound that 
@@ -224,9 +221,10 @@ Repair kit ($100):
 adhesive insulator, electrolytic gel and bandages. Useful for repairing bullet 
 wounds, laser burns, plasma burns, lacerations and puncture wounds.
 
-    Allows the user to either stabalize or heal a cybernetic character. Adds a
-bonus of 30 to the repair skill check for either type of action. Once the kit is
-used, it cannot be used again.
+    Allows the user to either stabilize or heal a mechanical character if they 
+pass the Repair(Dex) check. Once the kit has been used, it cannot be used again.
+
+    Repair Check DC: 35. Health healed if successful: 60. 3 Actions to use.
 
 Security Spike ($100):
     +20 to a Hacking check on a door with a physical access panel. DC 30 Hacking

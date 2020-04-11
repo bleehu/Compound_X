@@ -251,8 +251,7 @@ creation, you gain a multipurpose extruder tool as an item in your inventory.
 This multipurpose tool is used to perform the Engineering Processes which are 
 unique to your Class. You also start out with 80 Material. 
 
-	At level 6, the Feat "With Friends Like These . . ." is automatically 
-unlocked. At level 10, your maximum Engineering Materials expands to the below.
+	At level 10, your maximum Engineering Materials expands to the below.
 
 * 800 Maximum Potential
 * 1250 Maximum Material
@@ -893,3 +892,10 @@ Charisma check not to target you on their following turn. Instead of 60 HP, you
 gain a temporary (40 + 10*FORT) HPs. Beast Mode now last for 3 Rounds. Temporary
 hit points are lost at the end of the encounter. A Character must be level 10 
 and have taken Beast Mode before taking Beast Unleashed.
+
+
+It's a Distinctive Style:
+
+    You may take two additional feats that require Unarmed Combat Training,
+Unarmed Combat Expertise, or Unarmed Combat Mastery. You must meet all 
+prerequisites of the two feats that you take. 

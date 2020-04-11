@@ -1,0 +1,46 @@
+==============================
+Procedures
+==============================
+    Doctors have the skills and tools to perform certain Procedures. As a Doctor
+gains more experience in the field, they learn to perform new Procedures. 
+Procedures are broken into two categories; Malpractice and Hippocratic. 
+Hippocratic Procedures help the doctor and their allies. Malpractice Procedures
+tend to violate the Hippocratic Oath to "do no harm."
+
+===== Doctor's Procedure Resources =====
+
+Contagions:
+    Some of the more ... questionable... talents of the medic require the use of 
+mutated pathogens. The doctor's tools can mutate existing biologic material
+to produce certain (usually harmful) traits. Contagions are not stored between
+conflicts and die at the end of an engagement to prevent the risk of breakout.
+
+Adrenaline:
+    Not to be confused with the feat by the same name. As a Medic fights, their
+adrenaline levels rise. Some abilities require a certain amount of adrenaline
+to perform in combat scenarios. A Doctor cannot have more than 500 
+Adrenaline Points at any time. While Doctors are able to calm down between
+engagements, they don't ever really relax all the way in a combat zone. 
+The net effect is that a Doctor starts every engagement with 100 Adrenaline
+Points. 
+
+Needles:
+    Some abilities require the expenditure of large, spiky needles. They can
+be purchased at most medical centers and some weapons stores.
+
+===== Poisons, Payloads and Deployment Procedures =====
+
+    Some Malpractice Procedures involve the mutation of a Contagion into a 
+Poison (sometimes called a Poison Payload or Payload). These Procedures are 
+marked on the procedure tree with angled brackets and are listed below as such. 
+Poison Procedures can't be used by themselves, but instead make deployment 
+Procedures even more dangerous. 
+    
+    Procedures which use Poison Payloads are denoted on the Procedure Tree with
+curl braces. They also say in their effect how they apply a given poison 
+payload.
+
+    When using a (poison) payload deployment skill, your chosen poison payload
+must be chosen before making your attack roll and must be paid for whether you
+hit or not.
+

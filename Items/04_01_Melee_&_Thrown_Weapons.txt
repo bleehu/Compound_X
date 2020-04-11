@@ -76,9 +76,13 @@ Accuracy Modifier: +1
 STR Requirement: 3
 
 	A vital tool for structural repairs - good for sealing or cutting  
-metal surfaces or slagging mechanisms like locks. Takes about 1 hour to 
-cut an average person-sized opening through half-inch steel plate. -40 on 
-Stealth rolls while using. This weapon has an APL of 10.
+metal surfaces or slagging mechanisms like locks. -40 on Stealth rolls while 
+using. This weapon has an APL of 10.
+
+	Cut through steel, aluminum, etc unless it is specifically a hardened 
+object. Cut through up to 1 inch of steel in 2 full turns, 2 inches in 3 full 
+turns. A basic 2-inch thick chain link would take 3 turns to cut through. To 
+open a man-sized hole in 1 inch thick steel would take 10 full turns.
 
 == Gurber G1 Combat Knife $315 ==
 
