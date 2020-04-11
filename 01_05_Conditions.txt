@@ -38,17 +38,17 @@ in a non-flamable liquid, or by that character dropping and rolling. Dropping an
 rolling requires one Action to drop Prone and one Action to roll around and put out
 the fire. Rolling has a Athletics (Dex) DC of 40 to extinguish flames. 
 
-    If Burning is not extinguished for two Rounds, the Burn intensifies by one stack. 
+    If Burning is not extinguished for two Rounds, the Burn intensifies by one stack.
 
     Some burning chemicals, like white phosphorous or most napalms, contain the 
 oxygen that they need to burn and aren't extinguished with water or rolling 
 around. These sources of the Burning Condition will explicitly state that they 
-can't be extinquished via normal means and will need to be neutralized by other 
+can't be put out with normal means and will need to be neutralized by other 
 means, such as the Doctor's Purge ability.
 
 == Downed ==
 
-    Downed is a state that a character enters when their health has fallen 
+    Downed is a state that a character enters when their health has fallen
 below 0. See the "Death and Dying" section in the Combat Rules Document.
 
 == Disrupted ==
@@ -111,9 +111,9 @@ usually caused by gangrene or biological weapons. Typically, any hair, fur or
 scales fall off of the affected area and the flesh underneath turns black and
 dies.
 
-    A character aflicted with Necrosis takes 2d10 + 5 damage per Round at the 
+    A character aflicted with Necrosis takes 2d10 +5 damage per Round at the 
 begining of their turn. If left unhealed for more than a day, the infection
-spreads 1 foot per day. A DC 75 Medicine check must be rolled to cure it, 
+spreads 1 foot per day. A Medicine check of DC 75 must be rolled to cure it, 
 usually by surgically removing the dead tissue and generously applying healing 
 biofoam.
 
@@ -191,3 +191,4 @@ except to roll Saving Throws against the cause of the Condition. In addition, th
 character automatically drops prone and releases their grip on any objects. An Unconscious
 character is completely unaware of their suppoundings. The DC of the Saving Throw to end
 the Condition, if any, should be listed on the source of the unconsciousness.
+

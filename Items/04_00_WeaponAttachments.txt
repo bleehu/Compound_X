@@ -524,7 +524,6 @@ conceal in a sleeve or boot. It holds up to three throwing knives in easy reach.
     Knives thrown from the sheath may be drawn as a free action. Refilling the
 sheath takes four Actions, or three if a Throwing Weapons(Dex) check of DC 45. 
 
-
 ===== Level 5 Requirement =====
 
 == Three Point Smart-Sling $650 ==

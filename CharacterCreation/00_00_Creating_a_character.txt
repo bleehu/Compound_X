@@ -54,14 +54,11 @@ they can't.
 your character could be. Your character must have a species and can only have
 one species. 
 
-== Optional: Pick a Species Variant ==
+== Pick a Subspecies ==
 
-    Most Species have a few variants that you can choose from. A character can 
-have up to one of these, which modifies their appearance and culture as described 
-in individual entries and offers additional racial traits to pick from. Variations 
-come in different flavors, for example Humans and Opaleites have subspecies, 
-Tundari have clans, and Security Drones have Series. They are all treated equally 
-in character creation.
+    Most Species have a few options of Subspecies. Your character doesn't have
+to have a subspecies. They can just be a plain old Human or a stock model 
+Security Drone if you want them to.
 
 == Species Traits ==
 
@@ -77,7 +74,7 @@ during puzzles and combat to see how your character performs.
     Assigning your stats happens in two steps. The first step is making some 
 choices about what you want your character's primary stats to be.
 
-    The second step is to do some math to figure out what your modifiers are. 
+    The second step is to do some math to figure out what your modifiers are.
 Modifiers are how we make sure that the choices you make about your character
 are significant, but you don't have to do the math in the middle of the game.
 

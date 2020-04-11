@@ -42,6 +42,7 @@ Engineer processes; i.e., a Gunslinger who buys an extruder can't construct
 IEDs with it.
 
 3D image builder, Static ($650):
+
     A 3m^3 framework that will build a rudimentary 3d image of whatever is 
 inside it, exportable to a portable device.
 
@@ -291,7 +292,7 @@ To hack, pass a DC 80 Hacking check.
 Road Flare ($15):
     A phosphorus red stick with a strike pad at the end. Will put off soft red 
 light for 5m in every direction for about an hour. Burns in rain, mud, even 
-burns underwater. Don't touch the end or you'll take 10 Thermal Damage.
+burns underwater. Don't touch the end or you'll take 10 Fire Damage.
 
 Datapad ($130):
 	A handheld device with a screen and keypad. Used to record

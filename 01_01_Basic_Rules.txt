@@ -196,7 +196,7 @@ from reloading really fast, to having more health to being able to do a fast
 combat roll under fire. Tackle these when your character advances to level 2.
 
 ==============================
-Primary Stats
+Primary Stats and Secondary Stats
 ==============================
 
 ===== Primary Stats =====
@@ -307,15 +307,10 @@ table, below.
 | 9-10  | Nothing bad happens... this time                                                      |
 +-------+---------------------------------------------------------------------------------------+
 
+===== Secondary Stats =====	
 
-==============================
-Capabilities
-==============================
-
-	Your Character's Capabilities are a group of stats that are each derived 
-from one of your Primary Stats. You may chose which Primary stat they are 
-derived from, but no single Primary Stat can be used for two of your 
-Capabilities.
+	Your Character's Secondary stats are each equal to one of your Primary 
+Stats, but no single Primary Stat can be used for two of your Secondary Stats.
 
 Movement Speed:
 	Your Movement Speed is how fast your character can move every two Actions in
@@ -338,11 +333,9 @@ every level. Every time you level up, you gain skill points equal to double your
 "Skill Point Gain". Your Skill Point Gain should be equal to either your 
 Intelligence or your Charisma.
 
-== Capability Assignment Examples ==
-
+== Secondary Stat Assignment Examples ==
 	Charisma and Intelligence are associated with Skill Point Gain. If you have 
-5 Charisma and 6 Intelligence, you would choose to derive your Skill Point Gain
-from your Intelligence and would have 6 Skill Point Gain.
+5 Charisma and 6 Intelligence, you would have 6 Skill Point Gain.
 
 	Let's now assume you have 6 Strength, 3 Dexterity, and 4 Fortitude. You 
 could have 3 Movement Speed (from your Dexterity) and 4 Carry Ability (from your 
@@ -384,6 +377,21 @@ Strength Primary Stat is a very beefy 8. Then your Strength Modifier would be:
 	That's a really high roll! But that may or may not be enough to lift the 
 object depending on how heavy it is.
 
+
+
+===== Nanites =====
+
+	Although not a primary or secondary stat per se, The maximum number of 
+Nanites you can use at a given time is determined by your character class and an 
+associated primary stat. Your class may tell you its "Class Primary Attribute" 
+is Strength. In that case, Strength * 10 is your maximum Nanites. 
+
+More generally:
+	Your Maximum Nanites = (Your Class's Primary Attribute) * 10
+Some class feats and other abilities can increase the number of Nanites you can 
+hold and use at a given time. Also, Unlike Health, Nanites regenerate during 
+combat at a rate of 3 Nanites per turn.
+
 ==============================
 Saving Throws
 ==============================
@@ -402,6 +410,72 @@ The equations to calculate your bonuses to Saving Throws are as follows:
 - Shock: 2*(Fort + Int - 6) Rational: You need to recognize that you are in shock, and resist its physical effects.
 - Reflex: 2*(Per + Dex - 6) Rational: In order to react quickly to an event you need to be able to see it coming.
 - Awareness: 2*(Per + Luc - 6) Rational: Line of sight and concentration are integral parts to being able to detect anomalies in the area.  
+
+==============================
+Feats
+==============================
+
+	As your character levels up and gets better at what they do, they develop
+certain talents and abilities that help them differentiate themselves from their
+peers. These special tallents and abilities are called "Feats". See the 
+"Leveling Up Rules" table to see how many feats you get at which levels. Unless 
+otherwise specified, you cannot take a feat more than once.
+
+	There are five kinds of feats, detailed below;
+
+* Passive Feats
+* Active Feats
+* Weapon Expertise Feats
+* Stat Feats
+* Class Feats
+
+Passive Feats:
+
+	When you take a feat, you may take a passive feat. Passive Feats are used 
+freely with no limit unless otherwise stated. They often give bonuses to skills
+or to rolls for certain actions.
+
+Active Feats:
+
+	When you take a feat, you may decide to take an Active Feat. An Active Feat
+gives your character the option of taking certain actions that they otherwise
+couldn't, usually in combat. Active feats cost a certain amount of Nanites to
+execute, and if your character doesn't have enough nanites, then they can't take
+that action until they get some more. 
+
+Weapon Expertise Feats:
+	
+	When you take a feat, you may decide to take a Weapon Expertise Feat. Weapon
+Expertise Feats are a special kind of passive feat, that get better as you 
+increase your skill with a particular kind of weapon group. 
+
+	These feats represent dedicated training with a particular class of weapon, 
+and offer bonuses based on the relevant Weapons skill (Weapon skills are listed 
+in "06_Skills.txt"). Each feat offers a set of bonuses related to using that type of 
+weapon (and only that type of weapon), and each bonus requires the character to have 
+a number of points in the relevant Weapon skill. A character with 0 points in 
+Weapons - Pistols would gain only one benefit, while a character with 60 points 
+would benefit from them all. The feats are formatted as a list of "X: Benefit", 
+where X is the number of points required in the corresponding Weapon skill to 
+gain the benefit.
+	
+	Weapon Expertise feats require proficiency with the weapon type, but otherwise 
+have no prerequisites. Note that as all characters are proficient with Unarmed 
+Strike, Melee Expertise effectively has no prerequisite.
+
+Primary Stat Feats:
+	
+	Stat Feats are special and cannot be taken when you get a feat like Active,
+Passive, or Weapon Expertise Feats. Instead, they are immediately unlocked when 
+you fulfill their stat requirement. 
+
+Class Feats:
+
+	On certain levels, you will unlock a Class Feat instead of a Regular Feat.
+You cannot take a Class Feat when you get a regular Feat, nor can you forego 
+your Class Feat in favor of an Active or Passive feat. You can only unlock one
+Class Feat at a time. Class Feats are listed in the Classes document under the
+appropriate class. 
 
 ==============================
 Healing Injuries
