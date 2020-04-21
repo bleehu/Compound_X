@@ -59,7 +59,11 @@ Noise Level: Low
 Weight:
 
 Electronic Lock Spoofing Kit ($250):
-	[ph]
+	Contains a morphological magnetic strip card, password cracker, 
+disassembly and bypass tools for keypads and fingerprint/retina readers, 
+basic circuitboard tools suitable to shorting dead man's circuits, 
+temporary power sources, and similar implements intended to bypass locks 
+that rely on electronics and computerization.
 
 Relevant Skill(s): Hacking
 Context: Electronic and/or computerized locking objects
