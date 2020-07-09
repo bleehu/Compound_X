@@ -1152,6 +1152,26 @@ to the weapon's largest range bracket. Miss Chance can go below the -2 minimum.
 
 Steady Shot may be taken multiple times, up to a maximum of 4; the bonuses stack.
 
+== Staying Strikes ==
+
+Prerequisites:
+
+*  Feat: Unarmed Combat Expertise
+
+Cooldown: 2 Turns
+Duration: Free Action
+
+    Your talent and training in melee combat allow you to maneuver your footwork
+and time your strikes to prevent an enemy from advancing along their chosen path.
+The extra speed and power you get from your nanites makes this technique even
+more effective.
+
+    When you hit an enemy with a melee attack, either during your turn or as an
+opportunity attack, you may choose to trigger this ability. If you do so, the
+target must make a Shock Check. If they fail, their speed is reduced to 0
+until the end of your next turn. 
+
+    The Shock DC is equal to 60 + (5 x character level) + (2 x your dex mod)
 
 == Twitch ==
 
