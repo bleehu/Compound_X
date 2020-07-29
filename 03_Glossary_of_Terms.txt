@@ -19,12 +19,10 @@ measure either of how much armor a weapon can pierce without losing damage to
 the armor, or what level of weapon penetration an armor will completely stop. 
 See the "Other Combat Details" section of Basic Rules for more information.
 
-== Armor Strength ==
-    Armor Strength is the amount of damage that a character's armor can take before
-being ineffective at blocking anything, measured in Armor Points (AP). AP is used 
-instead of health when the player is hit, and gets degraded as the player takes 
-damage. AP is reset to max at the start of the wearer's turn. For more information, 
-see the section titled "Armor and Getting Hit" in "01_02_Combat_Rules"
+== Base Stats ==
+    The Base Stats of a Character are Strength, Perception, Fortitude, Charisma, 
+Intelligence, Dexterity and Luck. For more about Base Stats, see the Section 
+"Base Stats" in Basic Rules.txt.
 
 == Compound X ==
     The name of the game! It is also the name of a prison planet in the first 
@@ -52,15 +50,6 @@ limited by turns with certain amounts of Actions. See Basic Rules.txt section
 
 == D10 ==
     A 10-sided Die. See "The Primary Game Mechanic" in the Basic Rules.
-
-== Encounter ==
-    An encounter is an arbitrary unit of measure of role playing gameplay. An
-encounter is one puzzle, one battle, or one plot-progressing social engagement
-with one or more NPCs. 
-
-    When measuring a battle encounter, the encounter is the time from making 
-first stealth attack or rolling initiative to the time that play is no longer
-in initiative order. 
 
 == DM ==
     Dungeon Master. See Game Master. 
@@ -127,14 +116,9 @@ rules.
 Characters and might play in more than one game. Usually one Player plays one 
 Player Character at a time. 
 
-== Primary Stats ==
-    The Primary Stats of a Character are Strength, Perception, Fortitude, 
-Charisma, Intelligence, Dexterity and Luck. For more about Primary Stats, see 
-the Section "Primary Stats" in Basic Rules.
-
 == RPG ==
     Role-Playing Game, such as Dungeons and Dragons or Compound X!
-
+    
 == Roll - Standard ==
     Roll 1d100.* 
     
@@ -148,12 +132,6 @@ the Section "Primary Stats" in Basic Rules.
     Roll twice. Take the lowest of the two rolls.*
     
 *NOTE: For all Rolling rules see Basic Rules: "Primary Mechanics" section.
-
-== Round ==
-	A Round in combat is the time it takes to go from the beginning of the 
-initiative order to the end of the initiative order. In most circumstances,
-this will be everyone in the combat session getting one Turn. However in
-rare cases some players may have their turn skipped. 
 
 == Player Character == 
     The Player's avatar in the game world. A Player Character is made by 
@@ -182,11 +160,6 @@ Reactions occur at the immediate moment that they are triggered. See "Reactions
 defenses to avoid something bad happening to them. See "Saving Throws" in the 
 Basic Rules.txt document for more information.
 
-== Secondary Stats ==
-    Secondary Stats are Carry Ability, Movement Speed and Skill Point Gain. 
-These stats are determined by your Primary Stats. For more information on 
-Secondary Stats, see the "Secondary Stats" section of the Basic Rules.
-
 == Shield Strength ==
     Shield Strength is a measure of how much damage a personal shield can take
 before letting damage through to the wearer. It has a 1 to 1 point to point 
@@ -197,8 +170,3 @@ Creation and "Shields" in the "Basic Rules.txt" document for more information.
     When an effect or feat is Stackable, that means if applied to a character 
 more than once the effect is cumulative or additive. So if a Character is taking 
 damage from stacked burn conditions, the damage dealt is added together.
-
-== Turn ==
-	A player's turn is when they get to make Actions that aren't Reactions to
-other characters Actions. In combat, Turns are taken in order of initiative.
-Out of combat, Turns are taken in a more organic order. 
