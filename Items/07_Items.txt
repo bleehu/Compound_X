@@ -2,18 +2,9 @@
 Tools
 ==============================
 
-Plasma cutter / Blow Torch ($450):
-    Cut through steel, aluminum, etc unless it is specifically a hardened 
-object. Cut through up to 1 inch of steel in 2 full turns, 2 inches in 3 full 
-turns. A basic 2-inch thick chain link would take 3 turns to cut through. To 
-open a man-sized hole in 1 inch thick steel would take 10 full turns.
-
 Door Ram ($300): 
     Add 50 to a roll when attempting to kick open a door. Must have STR 8 to 
 carry or use.
-
-Bolt Cutters ($80):
-    Used to cut through chain links, locks, cables, etc.
 
 Fishing Pole ($120):
     A sturdy, 2m long fiberglass fishing pole with a reel, fishing line and a
