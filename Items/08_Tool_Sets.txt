@@ -207,6 +207,19 @@ Context: Broad
 Noise Level: Low
 Weight: 
 
+Metal Cutting Kit, Rapid ($450):
+	Contains a plasma cutter, fuel, and various attachments and accessories. 
+The cutter can cuts through up to 1 inch of steel in 2 full turns, 2 inches in 
+3 full turns. Hardened steel takes three times as long. A basic 2-inch thick 
+chain link would take 3 turns to cut through. To open a man-sized hole in 1 
+inch thick steel would take 10 full turns. Flammable nonmetals in oxygen-bearing 
+atmospheres will ignite instantly.
+
+Relevant Skill(s): Repair
+Context: Metal cutting
+Noise Level: High
+Weight:
+
 Musical Instrument and Care Supplies ($100):
 	Includes four pipe-cleaners of varying sizes, valve oil, bore oil,
 key oil, lanolin, polish, extra strings or reeds, soft rags for appilcation,
