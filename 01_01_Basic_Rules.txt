@@ -523,6 +523,31 @@ instead of one.
 
 	Defenders win ties for opposing rolls.
 
+-- Intricate Skills and Tool Sets--
+
+	When a skill is marked Intricate, it pertains to many situations that cannot 
+in general be done well without the correct tools. Intricate skill rolls made 
+without the correct tools are rolled with Disadvantage, and may even be impossible. 
+At the GM's discretion, it may be possible to improvise a tool for a task, 
+probably requiring a jury-rigging roll, but this may impose complications.
+
+	Other skills suffer no penalties to use without a tool set, but an 
+appropriate one to the task at hand may still provide a bonus. Unless otherwise 
+specified, augmenting a roll with an appropriate tool set provides +10 to the roll.
+This conversation was marked as resolved by Turtlelord26
+
+	Tool sets are listed in the 08_Tool_Sets.txt document under Items. Each 
+tool set has an associated suite of skills it will usually apply to and a set of 
+applicable contexts, subject to the GM's discretion, and a weight and noise level 
+associated with its use. In combat, whether a skill attempt and/or tool set are 
+feasible to use within a given time constraint is left to the GM. As a reminder, 
+tool sets, like any other equipment, are subject to drawing/holstering times.
+
+	Tool Sets purchased from upstanding sources are presumed to contain all 
+necessary personal protective equipment. GMs are encouraged to come up with 
+creative consequences for skill check critical failures made with tools without 
+such safety equipment.
+
 ==============================
 Feats
 ==============================
