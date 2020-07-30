@@ -10,9 +10,6 @@ Door Ram ($300):
     When using this ram, add 50 to Athletics checks to kick open doors. Must
 have STR 8 to carry or use.
 
-Bolt Cutters ($80):
-    Used to cut through chain links, locks, cables, etc.
-
 Fishing Pole ($120):
     A sturdy, 2m long fiberglass fishing pole with a reel, fishing line and a
 sharp hook. Bait not included. An expert angler could potentially cast this out
