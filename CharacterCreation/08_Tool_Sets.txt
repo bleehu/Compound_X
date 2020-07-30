@@ -1,0 +1,125 @@
+-sealing rivets, flash-freezers, etc. Also has a sterilizing unit 
+for all of the above. Increases operator's effective use of the consumable items 
+found in repair kits.
+
+Relevant Skill(s): Repair
+Context: Basic trauma procedures away from medical facilities (eg. stabilizing, 
+	removing bleeds or burns, healing, etc.). Mechanical targets.
+Noise Level: Low
+Weight: 
+
+Fine Art Kit ($150):
+	Tools for a 2D physical fine art discipline such as paints, brushes and
+canvasses or pencils, markers and paper, as well as a supply of the artist's 
+consumable medium of choice.
+
+Relevant Skill(s): Performance
+Context: 2D Fine Art (eg. painting, drawing)
+Noise Level: Low
+Weight: 
+
+Locksmith's Rekeying Tools ($200):
+	A pinning tray, specialized tweezers, plug followers, and other tools 
+for the dissassebly of locks, along with a generous suply of replacement key pins, 
+top pins, security pins, springs, wafers, retaining clips, and more. Allows a 
+trained user to reset mechanical locks to accept different keys. Most locks will 
+require a working key or successful pick to disasseble, lockpicks not included.
+
+Relevant Skill(s): Sleight of Hand
+Context: Unlocked mechanical locks.
+Noise Level: Low
+Weight: 
+
+Mechanical Lockpicking Tools ($300):
+	An awe-inspiring assortment of torsion tools, picks, and rakes 
+for pin tumbler, dimple, tubular, and disc detainer locks, as well as a 
+core spinner, benchtop impressioning cutter, some files, and vicegrips. 
+Includes an electric pick gun that trades quietness for speed.
+
+Relevant Skill(s): Sleight of Hand
+Context: Mechanical locks
+Noise Level: Low-Med
+Weight: 
+
+Mechanic's Demolition Set ($100):
+	Includes hammers, prybars, and saws useful for rapid, destructive 
+disassembly and parts fabrication.
+
+Relevant Skill(s): Repair, Jury-rigging
+Context: Broad
+Noise Level: Low
+Weight: 
+
+Mechanic's Power Demolition Combo Kit ($400):
+	Includes a battery-powered reciprocating saw, circular saw, and 
+a variety of blades for different materials. Allows for extremely fast, 
+destructive demolition and subtractive fabrication.
+
+Relevant Skill(s): Repair, Jury-rigging
+Context: Broad
+Noise Level: High
+Weight: 
+
+Mechanic's Power Detail Combo Kit ($300):
+	Includes a rotary tool, oscillating tool, mini-saw, and wide 
+variety of drilling, cutting, engraving, sanding, and polishing 
+attachments. Can be used for a wide variety of small-scale tasks.
+
+Relevant Skill(s): Repair, Jury-rigging, Performance
+Context: Broad
+Noise Level: High
+Weight: 
+
+Mechanic's Power Fastening Combo Kit ($400):
+	Includes a battery-powered drill and impact driver, drill and 
+driver bits, hole saws, sockets, and various adapters. Allows for fast 
+assembly and disassembly of mechanical objects.
+
+Relevant Skill(s): Repair, Jury-rigging
+Context: Broad
+Noise Level: High
+Weight: 
+
+Mechanic's Wrench & Socket Set ($100):
+	Includes wrenches, ratchets, sockets, and screwdrivers useful for 
+assembly and disassembly of mechanical objects.
+
+Relevant Skill(s): Repair, Jury-rigging
+Context: Broad
+Noise Level: Low
+Weight: 
+
+Metal Cutting Kit, Rapid ($450):
+	Contains a plasma cutter, fuel, and various attachments and accessories. 
+The cutter can cuts through up to 1 inch of steel in 2 full turns, 2 inches in 
+3 full turns. Hardened steel takes three times as long. A basic 2-inch thick 
+chain link would take 3 turns to cut through. To open a man-sized hole in 1 
+inch thick steel would take 10 full turns. Flammable nonmetals in oxygen-bearing 
+atmospheres will ignite instantly.
+
+Relevant Skill(s): Repair
+Context: Metal cutting
+Noise Level: High
+Weight:
+
+Musical Instrument and Care Supplies ($100):
+	Includes four pipe-cleaners of varying sizes, valve oil, bore oil,
+key oil, lanolin, polish, extra strings or reeds, soft rags for appilcation,
+3 small hex wrenches, and string cutters. Allows for basic mantinence of 
+the chosen style of instrument. 
+
+Relevant Skill(s): Performance, Repair
+Context: Audial art
+Noise Level: Low-High
+Weight: 
+
+Sculptor's Tools ($150):
+	Includes two small metal spatulas, one serrated and one smooth, 
+three sizes of double-wire end modeling tools, six wooden shapers,
+calipers, and a sponge. Allows for fine detail work and cutting when 
+sculpting a soft clay object.
+	
+Relevant Skill(s): Performance
+Context: 3D physical art
+Noise Level: Low
+Weight: 
