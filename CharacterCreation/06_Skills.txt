@@ -95,8 +95,8 @@ Intimidation:	To strike fear into the hearts of your enemies
 	
 == Intelligence ==
 Hacking [I]:	To pwn computer systems
-Medicine [I]:	To repair life forms
-Repair [I]:	To repair machines
+Medicine [I]:	To heal biological life forms and biotic machines
+Repair [I]:	To repair mechanical life forms and abiotic machines
 Jury-rigging:	To throw together a solution using the materials on hand
 Navigation:	For plotting routes through space or across land
 Survival:	To make do far from civilization with limited technological help
