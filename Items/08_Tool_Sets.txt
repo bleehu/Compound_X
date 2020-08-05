@@ -220,7 +220,7 @@ Context: Metal cutting
 Noise Level: High
 Weight:
 
-Musical Instrument and Care Supplies ($100):
+Musical Instrument Care Supplies ($100):
 	Includes four pipe-cleaners of varying sizes, valve oil, bore oil,
 key oil, lanolin, polish, extra strings or reeds, soft rags for appilcation,
 3 small hex wrenches, and string cutters. Allows for basic mantinence of 
