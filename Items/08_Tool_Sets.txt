@@ -223,8 +223,8 @@ Weight:
 Musical Instrument Care Supplies ($100):
 	Includes four pipe-cleaners of varying sizes, valve oil, bore oil,
 key oil, lanolin, polish, extra strings or reeds, soft rags for appilcation,
-3 small hex wrenches, and string cutters. Allows for basic mantinence of 
-the chosen style of instrument. 
+3 small hex wrenches, string cutters, and a bottle of rosin. Allows for basic 
+maintenance of the chosen style of instrument. 
 
 Relevant Skill(s): Performance, Repair
 Context: Audial art
