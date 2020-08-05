@@ -1,4 +1,122 @@
--sealing rivets, flash-freezers, etc. Also has a sterilizing unit 
+==============================
+Tool Sets
+==============================
+
+Blade Maintenance and Care Kit ($100):
+	A good whetstone, polish, oil and cleaning supplies are worth
+their weight in gold. These tools keep blades sharp, rust-free and
+ready for action.
+
+Relevant Skill(s): Weapons - Melee, Weapons - Thrown
+Context: Bladed Weapons
+Noise Level: Low
+Weight: 
+
+Digital Artist's Program and Tablet Package ($250):
+	A pressure-sensitive digital tablet and stylus complete with 
+TIR Digital Painting, which can be used for drawing, painting, and 
+editing photos and documents. Comes with a protective case and 
+rechargeable 8-hour battery.
+
+Relevant Skill(s): Performance, Deception
+Context: Digital Art, Imagery
+Noise Level: Low
+Weight:
+
+Destructive Entry Kit ($200):
+	Includes several tools useful for making an irreversible 
+entrance into secured locations, such as bolt cutters, prybars, 
+a small, concealable drill, core puller, core shearer, and hinge 
+pin striker.
+
+Relevant Skill(s): Sleight of Hand, Athletics
+Context: Mesh fencing, doorways, windows
+Noise Level: Low-High
+Weight: 
+
+Disguise Kit ($200):
+	Includes a selection of make-up and application tools, hair 
+styling necessities, items for a quick outfit change including a variety
+of hats, scarves, sunglasses and flashy jewelery, several sets of
+personalized color contacts, and temporary hair dye in a variety of colors.
+
+Relevant Skill(s): Deception
+Context: Broad
+Noise Level: Low
+Weight: 
+
+Electrician's Kit ($350):
+	Voltage testers; sensors; insulated wire strippers, ratchets, 
+screwdrivers, and pliers; reels of wire; soldering supplies; breadboards; 
+resistors; capacitors; inductors; rechargeable temporary power supplies; 
+and a miniaturized 3D circuit printer allow the professional electrician 
+to maintain, repair, and construct all manner of electronic gadgetry.
+
+Relevant Skill(s): Repair, Jury-rigging
+Context: Electronics, Electrical Components, Circuitboards. Repair, 
+	construction, repurposing.
+Noise Level: Low
+Weight:
+
+Electronic Lock Spoofing Kit ($250):
+	Contains a morphological magnetic strip card, password cracker, 
+disassembly and bypass tools for keypads and fingerprint/retina readers, 
+basic circuitboard tools suitable to shorting dead man's circuits, 
+temporary power sources, and similar implements intended to bypass locks 
+that rely on electronics and computerization.
+
+Relevant Skill(s): Hacking
+Context: Electronic and/or computerized locking objects
+Noise Level: Low
+Weight: 
+
+Firearm Maintenance and Care Kit ($100):
+	While most weapons come with the bare essentials for field care, every once
+in a while a weapon needs a deep cleaning. This kit comes with all of the 
+graphite, brushes, degaussing oil, lens polish, and tuning calipers to care for
+any manner of ballistic, laser, or plasma gun. 
+
+Relevant Skill(s): Weapons - [All firearms categories]
+Context: Cleaning, Servicing
+Noise Level: Low
+Weight: 
+
+Forger's Implements ($250):
+	[ph]
+
+Relevant Skill(s): Deception, Sleight of Hand
+Context: Forgery (Eg. Documents, ID Cards, etc. Not passwords)
+Noise Level: Low
+Weight: 
+
+General Research Analysis and Cross-referencing AI ($350):
+	A portable hand terminal containing a massive solid-state data drive 
+and a smaller drive with a non-sentient AI specialized in data retrieval. 
+The AI can help investigate inquiries by intelligently loading up reputable 
+documents and providing summaries. Performance greatly improved by access to 
+academic or library databanks. Takes time to achieve best results. Comes with 
+a protective case and rechargeable 8-hour battery.
+
+Relevant Skill(s): Knowledge - All, Investigation
+Context: Research
+Noise Level: Low
+Weight: 
+
+Field-expedient Biological Trauma Kit ($250):
+	Contains a variety of pliers, grips, reusable injectors, biofoam 
+spray nozzles, suture applicators, cauterizers, etc. Also has a sterilizing unit 
+for all of the above. Increases operator's effective use of the consumable items 
+found in medkits.
+
+Relevant Skill(s): Medicine
+Context: Basic trauma procedures away from medical facilities (eg. stabilizing, 
+	removing bleeds or burns, healing, etc.). Biological targets.
+Noise Level: Low
+Weight: 
+
+Field-expedient Mechanical Trauma Kit ($250):
+	Contains a variety of pliers, grips, reusable injectors, mechfoam 
+spray nozzles, self-sealing rivets, flash-freezers, etc. Also has a sterilizing unit 
 for all of the above. Increases operator's effective use of the consumable items 
 found in repair kits.
 
