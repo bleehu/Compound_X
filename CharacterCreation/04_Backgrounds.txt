@@ -22,22 +22,22 @@ rolls in-game.
 Origin, Social Class, and Profession. Choose one perk from each of those
 three categories. For example, if you chose "Trioch System", "Caveat Emptor" and 
 "Star Strider" then your character would start with half a set of nanites, two
-Tunra language dialects and 6 skill in Insight at level 1 and a +10 bonus to skill 
+Tuunra language dialects, 6 skill in Insight at level 1 and a +10 bonus to skill 
 checks to move in microgragity.
 
 == Clothing ==	
 	While everyone enters the world in their birthday suit, characters are
 generally well-clothed by the time in their lives they enter a Compound X story.
 At Level 1, every character will gain up to three outfits of clothing from their
-background. In general, these should consist of some combination of casual,
-professional, and formal or semi-formal clothing that is appropriate to their
-outlook and life experience. These outfits do not provide any armor, but may offer
-bonuses to some social skill checks at the discretion of the GM. A character may own
+background. These should consist of some combination of casual, professional, and
+formal or semi-formal clothing that is appropriate to their outlook and life
+experience. While these outfits do not provide any armor, they may offer bonuses
+to some social skill checks at the discretion of the GM. A character may own
 outfits from the list of examples below or any other reasonable set of clothing.
 Outfits can include both footwear and outerwear.
 
 == Tools of the Trade ==
-	Even when travelling light, characters accumulate posessions and tools as they
+	Even when traveling light, characters accumulate posessions and tools as they
 live and work in the world. As such, characters may gain the following items as part
 of their background:
 -A bag or backpack large enough to carry a character's basic tools, clothing,
@@ -161,7 +161,7 @@ to the character's Professional Experience, at the discretion of the GM.
 +----------------------+-----------+-------------------------------------------------------------------------------+
 | When you're shot at, the fear and adrenaline still pulse through you, but then your training kicks in.           |
 +----------------------+-----------+-------------------------------------------------------------------------------+
-| Expert Researcher    | Academic  | Gain advantage on investigation checks to find information                    |
+| Expert Researcher    | Academic  | Gain advantage on Investigation checks to find information                    |
 +----------------------+-----------+-------------------------------------------------------------------------------+
 | Your time at the academy taught you to ingest lots of information quickly, and where to look first.              |
 +----------------------+-----------+-------------------------------------------------------------------------------+
@@ -226,7 +226,7 @@ Casual Clothing:
 -Shorts and a tank top
 
 Professional Clothing
--Khakis and a polo shirt or button-down and sweater
+-Khakis, a polo shirt or button-down, and sweater
 -A suit and tie or scarf
 -Denim or canvas overalls with steel-toed boots
 -Military fatigues and combat boots
