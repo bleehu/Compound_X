@@ -10,7 +10,6 @@ ready for action.
 Relevant Skill(s): Weapons - Melee, Weapons - Thrown
 Context: Bladed Weapons
 Noise Level: Low
-Weight: 
 
 Digital Artist's Program and Tablet Package ($250):
 	A pressure-sensitive digital tablet and stylus complete with 
@@ -21,7 +20,6 @@ rechargeable 8-hour battery.
 Relevant Skill(s): Performance, Deception
 Context: Digital Art, Imagery
 Noise Level: Low
-Weight:
 
 Destructive Entry Kit ($200):
 	Includes several tools useful for making an irreversible 
@@ -32,7 +30,6 @@ pin striker.
 Relevant Skill(s): Sleight of Hand, Athletics
 Context: Mesh fencing, doorways, windows
 Noise Level: Low-High
-Weight: 
 
 Disguise Kit ($200):
 	Includes a selection of make-up and application tools, hair 
@@ -43,7 +40,6 @@ personalized color contacts, and temporary hair dye in a variety of colors.
 Relevant Skill(s): Deception
 Context: Broad
 Noise Level: Low
-Weight: 
 
 Electrician's Kit ($350):
 	Voltage testers, sensors, insulated wire strippers, ratchets, 
@@ -56,7 +52,6 @@ Relevant Skill(s): Repair, Jury-rigging
 Context: Electronics, Electrical Components, Circuitboards. Repair, 
 	construction, repurposing.
 Noise Level: Low
-Weight:
 
 Electronic Lock Spoofing Kit ($250):
 	Contains a morphological magnetic strip card, password cracker, 
@@ -68,7 +63,6 @@ that rely on electronics and computerization.
 Relevant Skill(s): Hacking
 Context: Electronic and/or computerized locking objects
 Noise Level: Low
-Weight: 
 
 Firearm Maintenance and Care Kit ($100):
 	While most weapons come with the bare essentials for field care, every once
@@ -79,7 +73,6 @@ any manner of ballistic, laser, or plasma gun.
 Relevant Skill(s): Weapons - [All firearms categories]
 Context: Cleaning, Servicing
 Noise Level: Low
-Weight: 
 
 Forger's Implements ($250):
 	[ph]
@@ -87,7 +80,6 @@ Forger's Implements ($250):
 Relevant Skill(s): Deception, Sleight of Hand
 Context: Forgery (Eg. Documents, ID Cards, etc. Not passwords)
 Noise Level: Low
-Weight: 
 
 General Research Analysis and Cross-referencing AI ($350):
 	A portable hand terminal containing a massive solid-state data drive 
@@ -100,7 +92,6 @@ a protective case and rechargeable 8-hour battery.
 Relevant Skill(s): Knowledge - All, Investigation
 Context: Research
 Noise Level: Low
-Weight: 
 
 Field-expedient Biological Trauma Kit ($250):
 	Contains a variety of pliers, grips, reusable injectors, biofoam 
@@ -112,7 +103,6 @@ Relevant Skill(s): Medicine
 Context: Basic trauma procedures away from medical facilities (eg. stabilizing, 
 	removing bleeds or burns, healing, etc.). Biological targets.
 Noise Level: Low
-Weight: 
 
 Field-expedient Mechanical Trauma Kit ($250):
 	Contains a variety of pliers, grips, reusable injectors, mechfoam 
@@ -124,7 +114,6 @@ Relevant Skill(s): Repair
 Context: Basic trauma procedures away from medical facilities (eg. stabilizing, 
 	removing bleeds or burns, healing, etc.). Mechanical targets.
 Noise Level: Low
-Weight: 
 
 Fine Art Kit ($150):
 	Tools for a 2D physical fine art discipline such as paints, brushes and
@@ -134,7 +123,6 @@ consumable medium of choice.
 Relevant Skill(s): Performance
 Context: 2D Fine Art (eg. painting, drawing)
 Noise Level: Low
-Weight: 
 
 Locksmith's Rekeying Tools ($200):
 	A pinning tray, specialized tweezers, plug followers, and other tools 
@@ -146,7 +134,6 @@ require a working key or successful pick to disasseble, lockpicks not included.
 Relevant Skill(s): Sleight of Hand
 Context: Unlocked mechanical locks.
 Noise Level: Low
-Weight: 
 
 Mechanical Lockpicking Tools ($300):
 	An awe-inspiring assortment of torsion tools, picks, and rakes 
@@ -157,7 +144,6 @@ Includes an electric pick gun that trades quietness for speed.
 Relevant Skill(s): Sleight of Hand
 Context: Mechanical locks
 Noise Level: Low-Med
-Weight: 
 
 Mechanic's Demolition Set ($100):
 	Includes hammers, prybars, and saws useful for rapid, destructive 
@@ -166,7 +152,6 @@ disassembly and parts fabrication.
 Relevant Skill(s): Repair, Jury-rigging
 Context: Broad
 Noise Level: Low
-Weight: 
 
 Mechanic's Power Demolition Combo Kit ($400):
 	Includes a battery-powered reciprocating saw, circular saw, and 
@@ -176,7 +161,6 @@ destructive demolition and subtractive fabrication.
 Relevant Skill(s): Repair, Jury-rigging
 Context: Broad
 Noise Level: High
-Weight: 
 
 Mechanic's Power Detail Combo Kit ($300):
 	Includes a rotary tool, oscillating tool, mini-saw, and wide 
@@ -186,7 +170,6 @@ attachments. Can be used for a wide variety of small-scale tasks.
 Relevant Skill(s): Repair, Jury-rigging, Performance
 Context: Broad
 Noise Level: High
-Weight: 
 
 Mechanic's Power Fastening Combo Kit ($400):
 	Includes a battery-powered drill and impact driver, drill and 
@@ -196,7 +179,6 @@ assembly and disassembly of mechanical objects.
 Relevant Skill(s): Repair, Jury-rigging
 Context: Broad
 Noise Level: High
-Weight: 
 
 Mechanic's Wrench & Socket Set ($100):
 	Includes wrenches, ratchets, sockets, and screwdrivers useful for 
@@ -205,7 +187,6 @@ assembly and disassembly of mechanical objects.
 Relevant Skill(s): Repair, Jury-rigging
 Context: Broad
 Noise Level: Low
-Weight: 
 
 Metal Cutting Kit, Rapid ($450):
 	Contains a plasma cutter, fuel, and various attachments and accessories. 
@@ -218,7 +199,6 @@ atmospheres will ignite instantly.
 Relevant Skill(s): Repair
 Context: Metal cutting
 Noise Level: High
-Weight:
 
 Musical Instrument Care Supplies ($100):
 	Includes four pipe-cleaners of varying sizes, valve oil, bore oil,
@@ -229,7 +209,6 @@ maintenance of the chosen style of instrument.
 Relevant Skill(s): Performance, Repair
 Context: Auditory art
 Noise Level: Low-High
-Weight: 
 
 Potter's Tools ($150):
 	Includes two small metal spatulas, one serrated and one smooth, 
@@ -240,4 +219,3 @@ sculpting a soft clay object.
 Relevant Skill(s): Performance
 Context: 3D physical art
 Noise Level: Low
-Weight: 
