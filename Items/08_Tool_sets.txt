@@ -231,7 +231,7 @@ Context: Auditory art
 Noise Level: Low-High
 Weight: 
 
-Sculptor's Tools ($150):
+Potter's Tools ($150):
 	Includes two small metal spatulas, one serrated and one smooth, 
 three sizes of double-wire end modeling tools, six wooden shapers,
 calipers, and a sponge. Allows for fine detail work and cutting when 
