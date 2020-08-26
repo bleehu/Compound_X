@@ -195,6 +195,9 @@ The cutter can cuts through up to 1 inch of steel in 2 full turns, 2 inches in
 chain link would take 3 turns to cut through. To open a man-sized hole in 1 
 inch thick steel would take 10 full turns. Flammable nonmetals in oxygen-bearing 
 atmospheres will ignite instantly.
+	The plasma cutter can be used an an improvised Light melee weapon with
+adjacent (1m) range. Its damage type is Plasma, and additionally applies a Plasma 
+burn token on hit. Cannot be thrown effectively due to its fuel line.
 
 Relevant Skill(s): Repair
 Context: Metal cutting
