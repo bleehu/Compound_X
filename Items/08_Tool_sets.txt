@@ -169,6 +169,19 @@ Relevant Skill(s): Sleight of Hand
 Context: Unlocked mechanical locks.
 Noise Level: Low
 
+Mechanical Lock Bump Key ($120):
+    This is a cut down key on a spring with a trigger. The simple device is
+used by inserting the skeleton key into a lock and pulling the trigger quickly,
+which causes the skeleton key to try random physical key configurations hoping
+to get lucky. This trick only works on phyiscal or cyberphysical locks. 
+    When using this key, a character spends two actions to try to out-luck the
+lock. They may add both their Dex and Luck modifiers to the Sleight of Hand 
+check.
+
+Relevant Skill(s): Sleight of Hand
+Context: Mechanical locks
+Noise Level: Med
+
 Mechanical Lockpicking Tools ($300):
 	An awe-inspiring assortment of torsion tools, picks, and rakes 
 for pin tumbler, wafer, dimple, tubular, and disc detainer locks, as well as a 
