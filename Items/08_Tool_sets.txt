@@ -41,6 +41,22 @@ Relevant Skill(s): Deception
 Context: Broad
 Noise Level: Low
 
+Door Ram ($300): 
+	When using this ram, add 50 to Athletics checks to kick open doors. Must
+have STR 8 to carry or use. 
+
+Relevant Skill(s): Athletics
+Context: Breaking down doors
+Noise Level: High
+
+Door Press ($700):
+	A pneumatic door press that can opens sliding, pneumatically controlled 
+non-airlock doors up to Militarized Level.
+
+Relevant Skill(s): Athletics
+Context: Forcing pneumatic doors
+Noise Level: High
+
 Electrician's Kit ($350):
 	Voltage testers, sensors, insulated wire strippers, ratchets, 
 screwdrivers, pliers, reels of wire, soldering supplies, breadboards, 
@@ -51,6 +67,15 @@ to maintain, repair, and construct all manner of electronic gadgetry.
 Relevant Skill(s): Repair, Jury-rigging
 Context: Electronics, Electrical Components, Circuitboards. Repair, 
 	construction, repurposing.
+Noise Level: Low
+
+Electronic Lockpick ($100):
+   	This is a small device hooks into digital locks and replays recent entries
+and factory standard crypto keys until the lock opens. Requires an INT of 4 and
+knowledge(computers) 6 to use.
+
+Relevant Skill(s): Sleight of Hand
+Context: Electronic and/or computerized locking objects
 Noise Level: Low
 
 Electronic Lock Spoofing Kit ($250):
@@ -146,7 +171,7 @@ Noise Level: Low
 
 Mechanical Lockpicking Tools ($300):
 	An awe-inspiring assortment of torsion tools, picks, and rakes 
-for pin tumbler, dimple, tubular, and disc detainer locks, as well as a 
+for pin tumbler, wafer, dimple, tubular, and disc detainer locks, as well as a 
 core spinner, benchtop impressioning cutter, some files, and vicegrips. 
 Includes an electric pick gun that trades quietness for speed.
 
