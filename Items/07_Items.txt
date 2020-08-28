@@ -6,15 +6,6 @@ Dog Toy ($20):
     This brightly colored rubber ball is available in both the squeaking and 
 not-squeaking varieties. Very Bouncy and great for tricks like fetch.
 
-Door Ram ($300): 
-    When using this ram, add 50 to Athletics checks to kick open doors. Must
-have STR 8 to carry or use.
-
-Fishing Pole ($120):
-    A sturdy, 2m long fiberglass fishing pole with a reel, fishing line and a
-sharp hook. Bait not included. An expert angler could potentially cast this out
-to 6 meters.  
-
 Fire Extinguisher ($115):
 	A handheld cylindrical trigger-based vessel with two mag slots, 
 one for a pressurized fire suppressing agent and one for a pressurized 
@@ -26,10 +17,6 @@ Extinguisher Magazine Set ($40):
 	A set of two magazines for the Fire Extinguisher; one
 of fire suppressant and one of propellant. One set can cover 15m total 
 when used in the extunguisher.
-
-Pneumatic Door Press ($700):
-    Opens sliding, pneumatically controlled doors up to Militarized Level 
-(airlock specific doors exluded)
 
 Engineer's replacement Extruder Tool ($670):
     Sometimes things happen and an engineer's favorite tool gets lost, stolen or 
@@ -44,29 +31,7 @@ inside it, exportable to a portable device.
 
 3D image builder, Portable ($800):
     Builds a 3D image of what its being pointed at, will need to see the object 
-from multiple angles to capture the whole object. Up to 20m^3 of space.
-
-Lockpick, Bump Key ($120):
-    This is a cut down key on a spring with a trigger. The simple device is
-used by inserting the skeleton key into a lock and pulling the trigger quickly,
-which causes the skeleton key to try random physical key configurations hoping
-to get lucky. This trick only works on phyiscal or cyberphysical locks. 
-    When using this key, a character spends two actions to try to out-luck the
-lock. They roll a luck check with advantage. They divide their roll by two to
-get the equivalent sleight of hand(dex) lockpick score. 
-
-Lockpick, digital ($60):
-    This is a small device hooks into digital locks and replays recent entries
-and factory standard crypto keys until the lock opens. Requires an INT of 4 and
-knowledge(computers) 6 to use. When used, adds +14 to sleight of hand(Int) 
-checks to pick digital or cyberphysical locks.
-
-Lockpick, physical ($40):
-    This is a small kit in a synth-leather pouch that contains picks, rakes, 
-tension tools and shims. The kit is small and easily hidden. The kit requires
-a sleight of hand skill of 6 to use effectively. When used, it adds +14 to 
-slight of hand (Dex) skill checks to pick a lock. Only works on physical locks
-or cyberphysical locks.
+from multiple angles to capture the whole object. Up to 20m^3 of space. 
 
 Medical Nanites Booster Shot ($400):
 	A partial unit of Medical Nanites. The booster shot is a standard 
