@@ -74,6 +74,15 @@ Relevant Skill(s): Weapons - [All firearms categories]
 Context: Cleaning, Servicing
 Noise Level: Low
 
+Fishing Gear ($120):
+	A sturdy, 2m long fiberglass fishing pole with a reel, fishing line and a
+sharp hook with a supply of basic bait. An expert angler could potentially cast this 
+out to 6 meters. 
+
+Relevant Skill(s): Athletics
+Context: Fishing
+Noise Level: Low
+
 Forger's Implements ($250):
 	[ph]
 
