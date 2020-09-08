@@ -15,6 +15,9 @@ Passives:
 * Gain Feat: Proficiency: Light Melee Weaponry
 * Gain Feat: Proficiency: One-handed Melee Weaponry
 
+Starting Tool Set:
+* Firearm Maintenance and Care Kit
+
 Weapon Proficiencies: 
 * Pistols 
 * Submachine Guns 
@@ -103,6 +106,9 @@ Passives:
 * Gain 10 skill points in Weapons - Heavy
 * Gain Feat: Proficiency: Light Melee Weaponry
 
+Starting Tool Set:
+* Firearm Maintenance and Care Kit
+
 Weapon Proficiencies: 
 * Pistols
 * Carbines
@@ -172,6 +178,9 @@ mounted needle launcher, hand held pathogen synthesizer, field dressing
 applicator and a package of ten needles. You start each encounter with 200 
 adrenaline points and will need to keep track of adrenaline points, needles and 
 contagion points during a combat scenario. 
+
+Starting Tool Set:
+* Field-expedient Biological Trauma Kit
 
 Weapon Proficiencies: 
 * Pistols
@@ -256,6 +265,9 @@ unique to your Class. You also start out with 80 Material.
 * 800 Maximum Potential
 * 1250 Maximum Material
 * 12 Maximum Munitions
+
+Starting Tool Set:
+* Field-expedient Mechanical Trauma Kit
 
 Weapon Proficiencies: 
 * Pistols
@@ -704,6 +716,9 @@ upkeep, or Cloak Turns for the Shadow Cloak, as the Shadow Cloak is special item
 	NOTE: For more information on Cloaking and Cloaking modules, see section, 
 "Cloaking" in the basic rules.
 
+Starting Tool Set:
+* Blade Maintenance and Care Kit
+
 Weapon Proficiencies: 
 * Pistols
 
@@ -765,6 +780,9 @@ Passives:
 * Gain 10 skill points in Spotting
 * Gain Feat: Proficiency: Light Melee Weaponry
 * Gain feat "Skilled Overwatch": Held firing actions have +20 bonus damage
+
+Starting Tool Set:
+* Firearm Maintenance and Care Kit
 
 Weapon Proficiencies:
 * Pistols
@@ -851,6 +869,9 @@ Passives:
 * Gain Feat: Proficiency: Light Melee Weaponry
 * Gain Feat: Proficiency: One-handed Melee Weaponry
 * Gain Feat: Proficiency: Two-handed Melee Weaponry
+
+Starting Tool Set:
+* Blade Maintenance and Care Kit
 
 Weapon Proficiencies:
 * Pistols
