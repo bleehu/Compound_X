@@ -72,7 +72,7 @@ Noise Level: Low
 Electronic Lockpick ($100):
    	This is a small device hooks into digital locks and replays recent entries
 and factory standard crypto keys until the lock opens. Requires an INT of 4 and
-knowledge(computers) 6 to use.
+Knowledge - Computers 6 to use.
 
 Relevant Skill(s): Sleight of Hand
 Context: Electronic and/or computerized locking objects
@@ -109,7 +109,10 @@ Context: Fishing
 Noise Level: Low
 
 Forger's Implements ($250):
-	[ph]
+	A specialized printer, ink, papers and plastics useful for forging
+physical documents as well as a variety of data chips and the tools to program
+them and install them into a document. Also includes a variety of fine art
+tools for creating small details.
 
 Relevant Skill(s): Deception, Sleight of Hand
 Context: Forgery (Eg. Documents, ID Cards, etc. Not passwords)
