@@ -1,0 +1,247 @@
+==============================
+Backgrounds
+==============================
+	Where is your character from? All characters have a past: where they grew up, 
+what career they studied or were trained for, what languages they speak and 
+understand. A character's background will influence their patterns of behavior, 
+ability to communicate with others, their world-view, their areas of specialized 
+knowledge, and more. Maybe they grew up on a kangaroo farm, or studied medicine 
+on a core planet. Were they trained for corporate espionage or recruited for 
+military service? From smuggling contraband, to piloting cargo ships, to making 
+appointments for a corporate executive, a character's past will inform how they 
+act under pressure, react under fire and interact with teammates.
+
+	In addition to influencing your character's decisionmaking, 
+their background also gives them knowledge and experience. As you build your 
+character, choose specific scenarios in which your character has an edge over 
+others due to their upbringing, history and education. These elements of your 
+character's experience, their Background Perks, will provide bonuses to their 
+rolls in-game.
+
+	Formal backgrounds in Compound X have three parts: a character's Culture of 
+Origin, Social Class, and Profession. Choose one perk from each of those
+three categories. For example, if you chose "Trioch System", "Caveat Emptor" and 
+"Star Strider" then your character would start with half a set of nanites, two
+Tuunra language dialects, 6 skill in Insight at level 1 and a +10 bonus to skill 
+checks to move in microgragity.
+
+== Clothing ==	
+	While everyone enters the world in their birthday suit, characters are
+generally well-clothed by the time in their lives they enter a Compound X story.
+At Level 1, every character will gain up to three outfits of clothing from their
+background. These should consist of some combination of casual, professional, and
+formal or semi-formal clothing that is appropriate to their outlook and life
+experience. While these outfits do not provide any armor, they may offer bonuses
+to some social skill checks at the discretion of the GM. A character may own
+outfits from the list of examples below or any other reasonable set of clothing.
+Outfits can include both footwear and outerwear.
+
+== Tools of the Trade ==
+	Even when traveling light, characters accumulate posessions and tools as they
+live and work in the world. As such, characters may gain the following items as part
+of their background:
+-A bag or backpack large enough to carry a character's basic tools, clothing,
+and broken-down primary firearm
+-A single tool set such as are listed in 08_Tool_Sets.txt. The tools must be relevant
+to the character's Professional Experience, at the discretion of the GM.
+
+===== Culture of Origin =====
+
++------------------------+------------------------------------------------------------------------------+
+| Origin                 | Perks                                                                        |
++------------------------+------------------------------------------------------------------------------+
+| Kepler Core Worlds     | Gain Language- Terran Common (+2 dialects). Gain 0.5 set of Nanites.         |
++------------------------+------------------------------------------------------------------------------+
+| You hail from the core of the Terran Empire, where worlds gleam with corporate skyscrapers and        |
+| bustling industry. You speak the language that most humans understand, and have the standard nanites. |
++------------------------+------------------------------------------------------------------------------+
+| Tundari Core Worlds   | Gain Language- Tuunra (+2 dialects). Gain 0.5 set of Nanites.                 |
++------------------------+------------------------------------------------------------------------------+
+| Growing up on Tundaar has given you a familiarity with the culture of the Tundari and their language. |
+| You also got the standard dose of healthcare nanites to fight disease and speed your healing.         |
++------------------------+------------------------------------------------------------------------------+
+| Trioch System          | Gain Languages- Opaleite Trade: Vocal (+1 sub-species dialect),              |
+|                        | Opaleite Trade: Sign. Gain 0.5 set of Nanites.                               |
++------------------------+------------------------------------------------------------------------------+
+| The blue-green oceans of Trioch II or III will always be home for you. You speak the opalite language |
+| that travels well in water, and you can use your hands to make opalite sign language for trade.       |
++------------------------+------------------------------------------------------------------------------+
+| Colony World- Terran   | Gain Languages- Terran Common (+ 1 dialect), 1 Common or Trade Language of   |
+|                        | choice. Gain 0.5 set of Nanites.                                             |
++------------------------+------------------------------------------------------------------------------+
+| You come from one of the colonies of the Terran Empire, perhaps you hail from out on the Rim,         |
+| irradiated Reach, or the newer planets in the Terran Core?                                            |
++------------------------+------------------------------------------------------------------------------+
+| Colony World- Tundari | Gain Languages- Tuunra (+ 1 dialect), 1 Common or Trade Language of choice.   |
+|                        | Gain 0.5 set of Nanites.                                                     | 
++------------------------+------------------------------------------------------------------------------+
+| Tundari society is concentrated primarily on Tundar Prime, but your family set out into the galaxy.   |
+| Whether by choice or by exile, they have built a new home and you grew up surrounded by diverse alien |
+| species, carving a life out of recently-terraformed rock.						|
++------------------------+------------------------------------------------------------------------------+
+| Colony World- Opaleite | Gain Languages- Opaleite Trade: Vocal or Opaleite Trade: Sign (+ 1 dialect), |
+|                        | 1 Common or Trade Language of choice. Gain 0.5 set of Nanites.               |
++------------------------+------------------------------------------------------------------------------+
+| You hail from one of the Opaleite Coalition's distant comet-mining colonies. You grew up either       |
+| in a swampy space station or a moist habitat on a planet that hasn't been teraformed yet.             |
++------------------------+------------------------------------------------------------------------------+
+| Space Station          | Gain Languages- 2 Common or Trade Languages of choice (+1 dialect).          |
+|                        | Gain 0.5 set of Nanites.                                                     |
++------------------------+------------------------------------------------------------------------------+
+| Your hometown is where the stars are always out and the spacers come to trade and refuel. You've seen |
+| every manner of sentient and comprehend a variety of languages. You've a standard set of nanites.     |
++------------------------+------------------------------------------------------------------------------+
+
+===== Social Class =====
+
++--------------------+-----------------+-------------------------------------------------------------------------+
+| Background         | Category        | Perks                                                                   |
++--------------------+-----------------+-------------------------------------------------------------------------+
+| White Collar       | Middle-Class    | Gain Proficiency in Knowledge - Corporate                               |
++--------------------+-----------------+-------------------------------------------------------------------------+
+| You're sick of the rat race. But knowing how the corps operate has its uses from time to time.                 |
++--------------------+-----------------+-------------------------------------------------------------------------+
+| Penny-Pincher      | Middle-Class    | Gain Advantage to Persuasion rolls when bartering with an individual    |
++--------------------+-----------------+-------------------------------------------------------------------------+
+| Circumstance has made you intimately aware of your stash of credits (and how to maximize it whenever possible) |
++--------------------+-----------------+-------------------------------------------------------------------------+
+| Constant Vigilance | Pariah          | Add 5 to Awareness saves                                                |
++--------------------+-----------------+-------------------------------------------------------------------------+
+| When you're used to nobody else looking out for you, you become adept at looking out for yourself.             |
++--------------------+-----------------+-------------------------------------------------------------------------+
+| Jiggery-Pokery     | Pariah          | Gain 6 skill points in Jury-rigging                                     |
++--------------------+-----------------+-------------------------------------------------------------------------+
+| Your self-reliance has encouraged you to frequently find creative solutions to intractable problems.           |
++--------------------+-----------------+-------------------------------------------------------------------------+
+| Lone Wolf          | Pariah / Ex-pat | Gain 6 skill points in Survival                                         |
++--------------------+-----------------+-------------------------------------------------------------------------+
+| Divided from your society and family, you've figured out how to get by on your own                             |
++--------------------+-----------------+-------------------------------------------------------------------------+
+| Iron Stomach       | Ex-pat          | Add 10 to space-travel related Shock Saves                              |
++--------------------+-----------------+-------------------------------------------------------------------------+
+| You've long gotten over the disorientation people get when flying about the quadrant in a                      |
+| spaceship. Heck, you wouldn't have made it this far if you couldn't keep your lunch down!                      |
++--------------------+-----------------+-------------------------------------------------------------------------+
+| Star-Strider       | Ex-pat          | Add 10 to skill checks to move while in microgravity                    |
++--------------------+-----------------+-------------------------------------------------------------------------+
+| Some people lose their bearings the moment gravity takes a hike. Not you. You thrive in the                    |
+| weightlessness of space and the rush you get from proximity to vaccuum is like nothing else                    |
++--------------------+-----------------+-------------------------------------------------------------------------+
+| So You Say         | Urchin          | Gain Advantage on Insight checks in urban environments.                 |
++--------------------+-----------------+-------------------------------------------------------------------------+
+| You've been lied to a lot. You can tell the difference. Some lies aren't personal, and you understand but some |
+| lies bother you a lot. Not that you'd show it.                                                                 |
++--------------------+-----------------+-------------------------------------------------------------------------+
+| Street-wise        | Urchin          | Gain Advantage when rolling to find locations and navigate              |
+|                    |                 | in cities built by the civilization where you grew up                   |
++--------------------+-----------------+-------------------------------------------------------------------------+
+| Over your lifetime, you've developed an unconscious sense of how cities work;                                  |
+| finding reliable sources of food and shelter has been a matter of life or death                                |
++--------------------+-----------------+-------------------------------------------------------------------------+
+| Unflappable Poise  | Socialite       | Add 10 to saving throws against being intimidated                       |
++--------------------+-----------------+-------------------------------------------------------------------------+
+| "Your poor manners are not a reflection on me. How I handle them of course would be."                          |
++--------------------+-----------------+-------------------------------------------------------------------------+
+| Silver Spoon       | Socialite       | Gain one half set of Medical Nanites                                    |
++--------------------+-----------------+-------------------------------------------------------------------------+
+| Preventative health care just makes economic sense. That's why your family made sure you got your nanite       |
+| injections on time from an early age.                                                                          |
++--------------------+-----------------+-------------------------------------------------------------------------+
+
+===== Professional Experience =====
+
++------------------------+---------------+-------------------------------------------------------------------------+
+| Background             | Category      | Perks                                                                   |
++------------------------+---------------+-------------------------------------------------------------------------+
+| Nerves of Steel        | Military      | Gain Advantage on Saves against Fear                                    |
++------------------------+---------------+-------------------------------------------------------------------------+
+| Your Drill Sergeant was literally the scariest person in the galaxy. Anyone else is small potatoes in comparison |
++------------------------+---------------+-------------------------------------------------------------------------+
+| Discipline             | Military      | Gain Advantage on Will saves while Pinned Down                          |
++------------------------+---------------+-------------------------------------------------------------------------+
+| When you're shot at, the fear and adrenaline still pulse through you, but then your training kicks in.           |
++------------------------+---------------+-------------------------------------------------------------------------+
+| Expert Researcher      | Academic      | Gain advantage on Investigation checks to find information              |
++------------------------+---------------+-------------------------------------------------------------------------+
+| Your time at the academy taught you to ingest lots of information quickly, and where to look first.              |
++------------------------+---------------+-------------------------------------------------------------------------+
+| I minored in that.     | Academic      | Gain proficiency in one Knowledge skill.                                |
++------------------------+---------------+-------------------------------------------------------------------------+
+| You've got a very good foundation of knowledge from school in a particular subject.                              |
++------------------------+---------------+-------------------------------------------------------------------------+
+| Terms and Conditions   | Corporate     | Gain 6 skill points in Knowledge - Corporate                            |
++------------------------+---------------+-------------------------------------------------------------------------+
+| You've signed so many forms and dealt with so many people that you know exactly how the white collar world works.|
++------------------------+---------------+-------------------------------------------------------------------------+
+| My Way                 | Corporate     | Gain 6 skill points in Persuasion                                       |
++------------------------+---------------+-------------------------------------------------------------------------+
+| You always know when you're right, and your years of experience have taught you how to convince everybody else.  |
++------------------------+---------------+-------------------------------------------------------------------------+
+| Eye For Detail         | Artistic      | Gain 6 skill points in Spotting.                                        |
++------------------------+---------------+-------------------------------------------------------------------------+
+| Years of critiquing your own work has improved your ability to see details and spot when something is off.       |
++------------------------+---------------+-------------------------------------------------------------------------+
+| Musically Inclined     | Artistic      | Gain advantage on Performance rolls when using a musical instrument.    |
++------------------------+---------------+-------------------------------------------------------------------------+
+| Your trained ear and sense of rhythm has been developed over years of study and play.                            |
++------------------------+---------------+-------------------------------------------------------------------------+
+| Grifter                | Criminal      | Gain 6 skill points in Deception                                        |
++------------------------+---------------+-------------------------------------------------------------------------+
+| Your shady upbringing taught you how to lie convincingly. Bad liars don't get far in the world of crime.         |
++------------------------+---------------+-------------------------------------------------------------------------+
+| Underworld Contacts    | Criminal      | Gain advantage when bartering with criminals                            |
++------------------------+---------------+-------------------------------------------------------------------------+
+| You innately understand how underworld dealings work, and won't easily be swindled out of a good deal.           |
++------------------------+---------------+-------------------------------------------------------------------------+
+| Caveat Emptor          | Trade         | Gain 6 skill points in Insight.                                         |
++------------------------+---------------+-------------------------------------------------------------------------+
+| You've bought enough lemons to know when someone's pitching a bad deal. Spotting over-selling is easy.           |
++------------------------+---------------+-------------------------------------------------------------------------+
+| Well-Traveled          | Trade         | Gain 6 skill in Navigation and pick an additional dialect that you know.|
++------------------------+---------------+-------------------------------------------------------------------------+
+| Oh ya, I had a collegue from these parts. Made a killing last time I was here selling "yoshgas." Don't worry     |
+| about it, it doesn't translate all that well.                                                                    |
++------------------------+---------------+-------------------------------------------------------------------------+
+| Hunter's Bag of Tricks | Bounty Hunter | Gain license, L2 chest armor plate, and 5 HD zip cuffs.                 |
++------------------------+---------------+-------------------------------------------------------------------------+
+| You have a legal license for bringing in bounties, dead or alive. You've got some other tools too.               |
++------------------------+---------------+-------------------------------------------------------------------------+
+| Friends in low places  | Bounty Hunter | You gain +6 skill in Knowledge - Underworld.                            |
++------------------------+---------------+-------------------------------------------------------------------------+
+| You've brought in enough criminals to have an idea how the seedier side of the tracks opperates.                 |
++------------------------+---------------+-------------------------------------------------------------------------+
+
+==== Clothing and Supplies ====
+
+Casual Clothing:
+-A t-shirt and jeans
+-A shirt, pants and a leather jacket
+-A trenchcoat, shirt and capris
+-Athletic-wear (such as sport-specific clothes)
+-A sundress
+-A hoddie and sweats or jeans
+-Cold-weather clothing
+-Waterproof jacket, pants and boots
+-Loose, breatheable top and pants with a wide-brimmed hat
+-Shorts and a tank top
+
+Professional Clothing
+-Khakis, a polo shirt or button-down, and sweater
+-A suit and tie or scarf
+-Denim or canvas overalls with steel-toed boots
+-Military fatigues and combat boots
+-A Performance costume
+-A spaceflight jumpsuit
+-A pencil skirt or slacks and a blouse or button-down
+-Medical scrubs
+-A dark-colored catsuit
+-A company uniform
+
+Formal and Semi-formal Wear
+-A tuxedo
+-A floor-length gown
+-a 3-piece suit
+-A cocktail dress
+-Military dress uniform
+-Formal suit or robes (culture-specific)
+-A structured formal jumpsuit

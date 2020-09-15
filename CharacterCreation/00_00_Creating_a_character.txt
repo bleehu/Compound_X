@@ -68,6 +68,17 @@ in character creation.
     Once you've picked your Species and Subspecies, collect the available traits
 from both and pick two of them. These are your Species Traits. 
 
+===== Pick Background Perks =====
+
+    Your character's past experiences have an impact on their abilities via several
+Background Perks; the Backgrounds document describes the different Background Perks
+in detail. Overall, you will choose the following for your character:
+    -One Culture of Origin Perk
+    -One Social Class Perk
+    -One Profession Perk
+    -Up to three outfits of clothing
+    -Tools of the Trade
+
 ===== Assign Stat Points ======
 
     Each character in Compound X has different stats. That's how we measure how

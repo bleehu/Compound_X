@@ -1,0 +1,274 @@
+==============================
+Tool Sets
+==============================
+
+Blade Maintenance and Care Kit ($100):
+	A good whetstone, polish, oil and cleaning supplies are worth
+their weight in gold. These tools keep blades sharp, rust-free and
+ready for action.
+
+Relevant Skill(s): Weapons - Melee, Weapons - Thrown
+Context: Bladed Weapons
+Noise Level: Low
+
+Digital Artist's Program and Tablet Package ($250):
+	A pressure-sensitive digital tablet and stylus complete with 
+TIR Digital Painting, which can be used for drawing, painting, and 
+editing photos and documents. Comes with a protective case and 
+rechargeable 8-hour battery.
+
+Relevant Skill(s): Performance, Deception
+Context: Digital Art, Imagery
+Noise Level: Low
+
+Destructive Entry Kit ($200):
+	Includes several tools useful for making an irreversible 
+entrance into secured locations, such as bolt cutters, prybars, 
+a small, concealable drill, core puller, core shearer, and hinge 
+pin striker.
+
+Relevant Skill(s): Sleight of Hand, Athletics
+Context: Mesh fencing, doorways, windows
+Noise Level: Low-High
+
+Disguise Kit ($200):
+	Includes a selection of make-up and application tools, hair 
+styling necessities, items for a quick outfit change including a variety
+of hats, scarves, sunglasses and flashy jewelery, several sets of
+personalized color contacts, and temporary hair dye in a variety of colors.
+
+Relevant Skill(s): Deception
+Context: Broad
+Noise Level: Low
+
+Door Ram ($300): 
+	When using this ram, add 50 to Athletics checks to kick open doors. Must
+have STR 8 to carry or use. 
+
+Relevant Skill(s): Athletics
+Context: Breaking down doors
+Noise Level: High
+
+Door Press ($700):
+	A pneumatic door press that can opens sliding, pneumatically controlled 
+non-airlock doors up to Militarized Level.
+
+Relevant Skill(s): Athletics
+Context: Forcing pneumatic doors
+Noise Level: High
+
+Electrician's Kit ($350):
+	Voltage testers, sensors, insulated wire strippers, ratchets, 
+screwdrivers, pliers, reels of wire, soldering supplies, breadboards, 
+resistors, capacitors, inductors, rechargeable temporary power supplies, 
+and a miniaturized 3D circuit printer allow the professional electrician 
+to maintain, repair, and construct all manner of electronic gadgetry.
+
+Relevant Skill(s): Repair, Jury-rigging
+Context: Electronics, Electrical Components, Circuitboards. Repair, 
+	construction, repurposing.
+Noise Level: Low
+
+Electronic Lockpick ($100):
+   	This is a small device hooks into digital locks and replays recent entries
+and factory standard crypto keys until the lock opens. Requires an INT of 4 and
+Knowledge - Computers 6 to use.
+
+Relevant Skill(s): Sleight of Hand
+Context: Electronic and/or computerized locking objects
+Noise Level: Low
+
+Electronic Lock Spoofing Kit ($250):
+	Contains a morphological magnetic strip card, password cracker, 
+disassembly and bypass tools for keypads and fingerprint/retina readers, 
+basic circuitboard tools suitable for shorting dead man's circuits, 
+temporary power sources, and similar implements intended to bypass locks 
+that rely on electronics and computerization.
+
+Relevant Skill(s): Hacking
+Context: Electronic and/or computerized locking objects
+Noise Level: Low
+
+Firearm Maintenance and Care Kit ($100):
+	While most weapons come with the bare essentials for field care, every once
+in a while a weapon needs a deep cleaning. This kit comes with all of the 
+graphite, brushes, degaussing oil, lens polish, and tuning calipers to care for
+any manner of ballistic, laser, or plasma gun. 
+
+Relevant Skill(s): Weapons - [All firearms categories]
+Context: Cleaning, Servicing
+Noise Level: Low
+
+Fishing Gear ($120):
+	A sturdy, 2m long fiberglass fishing pole with a reel, fishing line and a
+sharp hook with a supply of basic bait. An expert angler could potentially cast this 
+out to 6 meters. 
+
+Relevant Skill(s): Athletics
+Context: Fishing
+Noise Level: Low
+
+Forger's Implements ($250):
+	A specialized printer, ink, papers and plastics useful for forging
+physical documents as well as a variety of data chips and the tools to program
+them and install them into a document. Also includes a variety of fine art
+tools for creating small details.
+
+Relevant Skill(s): Deception, Sleight of Hand
+Context: Forgery (Eg. Documents, ID Cards, etc. Not passwords)
+Noise Level: Low
+
+General Research Analysis and Cross-referencing AI ($350):
+	A portable hand terminal containing a massive solid-state data drive 
+and a smaller drive with a non-sentient AI specialized in data retrieval. 
+The AI can help investigate inquiries by intelligently loading up reputable 
+documents and providing summaries. Performance greatly improved by access to 
+academic or library databanks. Takes time to achieve best results. Comes with 
+a protective case and rechargeable 8-hour battery.
+
+Relevant Skill(s): Knowledge - All, Investigation
+Context: Research
+Noise Level: Low
+
+Field-expedient Biological Trauma Kit ($250):
+	Contains a variety of pliers, grips, reusable injectors, biofoam 
+spray nozzles, suture applicators, cauterizers, etc. Also has a sterilizing unit 
+for all of the above. Increases operator's effective use of the consumable items 
+found in medkits.
+
+Relevant Skill(s): Medicine
+Context: Basic trauma procedures away from medical facilities (eg. stabilizing, 
+	removing bleeds or burns, healing, etc.). Biological targets.
+Noise Level: Low
+
+Field-expedient Mechanical Trauma Kit ($250):
+	Contains a variety of pliers, grips, reusable injectors, mechfoam 
+spray nozzles, self-sealing rivets, flash-freezers, etc. Also has a sterilizing unit 
+for all of the above. Increases operator's effective use of the consumable items 
+found in repair kits.
+
+Relevant Skill(s): Repair
+Context: Basic trauma procedures away from medical facilities (eg. stabilizing, 
+	removing bleeds or burns, healing, etc.). Mechanical targets.
+Noise Level: Low
+
+Fine Art Kit ($150):
+	Tools for a 2D physical fine art discipline such as paints, brushes and
+canvasses or pencils, markers and paper, as well as a supply of the artist's 
+consumable medium of choice.
+
+Relevant Skill(s): Performance
+Context: 2D Fine Art (eg. painting, drawing)
+Noise Level: Low
+
+Locksmith's Rekeying Tools ($200):
+	A pinning tray, specialized tweezers, plug followers, and other tools 
+for the dissassebly of locks, along with a generous suply of replacement key pins, 
+top pins, security pins, springs, wafers, retaining clips, and more. Allows a 
+trained user to reset mechanical locks to accept different keys. Most locks will 
+require a working key or successful pick to disasseble, lockpicks not included.
+
+Relevant Skill(s): Sleight of Hand
+Context: Unlocked mechanical locks.
+Noise Level: Low
+
+Mechanical Lock Bump Key ($120):
+    This is a cut down key on a spring with a trigger. The simple device is
+used by inserting the skeleton key into a lock and pulling the trigger quickly,
+which causes the skeleton key to try random physical key configurations hoping
+to get lucky. This trick only works on phyiscal or cyberphysical locks. 
+    When using this key, a character spends two actions to try to out-luck the
+lock. They may add both their Dex and Luck modifiers to the Sleight of Hand 
+check.
+
+Relevant Skill(s): Sleight of Hand
+Context: Mechanical locks
+Noise Level: Med
+
+Mechanical Lockpicking Tools ($300):
+	An awe-inspiring assortment of torsion tools, picks, and rakes 
+for pin tumbler, wafer, dimple, tubular, and disc detainer locks, as well as a 
+core spinner, benchtop impressioning cutter, some files, and vicegrips. 
+Includes an electric pick gun that trades quietness for speed.
+
+Relevant Skill(s): Sleight of Hand
+Context: Mechanical locks
+Noise Level: Low-Med
+
+Mechanic's Demolition Set ($100):
+	Includes hammers, prybars, and saws useful for rapid, destructive 
+disassembly and parts fabrication.
+
+Relevant Skill(s): Repair, Jury-rigging
+Context: Broad
+Noise Level: Low
+
+Mechanic's Power Demolition Combo Kit ($400):
+	Includes a battery-powered reciprocating saw, circular saw, and 
+a variety of blades for different materials. Allows for extremely fast, 
+destructive demolition and subtractive fabrication.
+
+Relevant Skill(s): Repair, Jury-rigging
+Context: Broad
+Noise Level: High
+
+Mechanic's Power Detail Combo Kit ($300):
+	Includes a rotary tool, oscillating tool, mini-saw, and wide 
+variety of drilling, cutting, engraving, sanding, and polishing 
+attachments. Can be used for a wide variety of small-scale tasks.
+
+Relevant Skill(s): Repair, Jury-rigging, Performance
+Context: Broad
+Noise Level: High
+
+Mechanic's Power Fastening Combo Kit ($400):
+	Includes a battery-powered drill and impact driver, drill and 
+driver bits, hole saws, sockets, and various adapters. Allows for fast 
+assembly and disassembly of mechanical objects.
+
+Relevant Skill(s): Repair, Jury-rigging
+Context: Broad
+Noise Level: High
+
+Mechanic's Wrench & Socket Set ($100):
+	Includes wrenches, ratchets, sockets, and screwdrivers useful for 
+assembly and disassembly of mechanical objects.
+
+Relevant Skill(s): Repair, Jury-rigging
+Context: Broad
+Noise Level: Low
+
+Metal Cutting Kit, Rapid ($450):
+	Contains a plasma cutter, fuel, and various attachments and accessories. 
+The cutter can cuts through up to 1 inch of steel in 2 full turns, 2 inches in 
+3 full turns. Hardened steel takes three times as long. A basic 2-inch thick 
+chain link would take 3 turns to cut through. To open a man-sized hole in 1 
+inch thick steel would take 10 full turns. Flammable nonmetals in oxygen-bearing 
+atmospheres will ignite instantly.
+	The plasma cutter can be used an an improvised Light melee weapon with
+adjacent (1m) range. Its damage type is Plasma, and additionally applies a Plasma 
+burn token on hit. Cannot be thrown effectively due to its fuel line.
+
+Relevant Skill(s): Repair
+Context: Metal cutting
+Noise Level: High
+
+Musical Instrument Care Supplies ($100):
+	Includes four pipe-cleaners of varying sizes, valve oil, bore oil,
+key oil, lanolin, polish, extra strings or reeds, soft rags for appilcation,
+3 small hex wrenches, string cutters, and a bottle of rosin. Allows for basic 
+maintenance of the chosen style of instrument. 
+
+Relevant Skill(s): Performance, Repair
+Context: Auditory art
+Noise Level: Low-High
+
+Potter's Tools ($150):
+	Includes two small metal spatulas, one serrated and one smooth, 
+three sizes of double-wire end modeling tools, six wooden shapers,
+calipers, and a sponge. Allows for fine detail work and cutting when 
+sculpting a soft clay object.
+	
+Relevant Skill(s): Performance
+Context: 3D physical art
+Noise Level: Low
